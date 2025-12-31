@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-31 21:01:48 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-31 22:01:49 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, December 31, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, December 31, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,12 +48,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/chicago-3-rt-gmh-251009_1760018589781_hpMain_4x3t_384.jpg" alt="Trump announces National Guard to be removed from Los Angeles, Chicago and Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-announces-national-guard-removed-los-angeles-chicago/story?id=128815658" target="_blank">Trump announces National Guard to be removed from Los Angeles, Chicago and Portland</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-31 21:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/31/ivory-coast-fight-back-against-gabon-to-top-afcon-group-ahead-of-cameroon?traffic_source=rss" target="_blank">Ivory Coast fight back against Gabon to top AFCON group ahead of Cameroon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-31 21:24</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/31/police-investigating-damage-to-undersea-telecom-cable-in-gulf-of-finland?traffic_source=rss" target="_blank">Finland seizes ship sailing from Russia after suspected cable sabotage</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-31 19:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/31/nx-s1-5662605/five-new-species-discovered-2025" target="_blank">Meet five new species discovered in 2025</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-31 19:20</span>
             </div>
         </div>
 <div class="story">
@@ -66,33 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/31/bulgarians-worry-over-rising-prices-as-country-adopts-euro?traffic_source=rss" target="_blank">Bulgarians worry over rising prices as country adopts euro</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-31 18:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/sydney-nye-gty-jef-251231_1767188049996_hpMain_4x3t_384.jpg" alt="New Year&#x27;s 2026: Celebrations around the world" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/new-years-2026-celebrations-world/story?id=128780581" target="_blank">New Year&#x27;s 2026: Celebrations around the world</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-31 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/12/31/a-marriage-of-three-will-mali-niger-burkina-faso-bloc-reshape-the-sahel?traffic_source=rss" target="_blank">A marriage of three: Will Mali, Niger, Burkina Faso bloc reshape the Sahel?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-31 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/168b/live/0d7d3e10-e671-11f0-8e2a-3df90dbf71c4.jpg" alt="Sydney sends message of peace for New Year&#x27;s after Bondi attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss" target="_blank">Sydney sends message of peace for New Year&#x27;s after Bondi attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-31 15:24</span>
             </div>
         </div>
 </div>
@@ -160,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Asahi-Linux-EOY-2025-CCC" target="_blank">Asahi Linux Has Experimental Code For DisplayPort, Apple M3/M4/M5 Bring-Up Still Ongoing</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-31 21:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18735972&w=600" alt="Why Catalogs Really Break (and How a Copilot Prevents It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -204,15 +219,6 @@
                 <span class="time">2025-12-31 17:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18803673&w=600" alt="Security and Governance Patterns for Your Conversational AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/security-governance-patterns-conversational-ai" target="_blank">Security and Governance Patterns for Your Conversational AI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-31 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/carotop5kotaku-1280x720.jpg" alt="Carolyn Petit’s Top 5 Games Of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/best-games-2025-despelote-terminator-2d-absolum-pac-man-shadow-labyrinth-blippo-2000656278" target="_blank">Carolyn Petit’s Top 5 Games Of 2025</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-31 20:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Jujutsu-Kaisen-Modulo-Manga-io9-template-circle-light-dark-1280x853.jpg" alt="‘Jujutsu Kaisen Modulo’ Is Better Than the OG Manga Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +292,6 @@
                 <span class="time">2025-12-31 16:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/AceMagic-Mini-1280x853.jpg" alt="Amazon Clears Out a Mac Mini Alternative as the Acemagic Mini Gaming PC (32GB RAM, 1TB SSD) Drops to an All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-clears-out-a-mac-mini-alternative-as-the-acemagic-mini-gaming-pc-32gb-ram-1tb-ssd-drops-to-an-all-time-low-2000656167" target="_blank">Amazon Clears Out a Mac Mini Alternative as the Acemagic Mini Gaming PC (32GB RAM, 1TB SSD) Drops to an All-Time Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-31 16:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
