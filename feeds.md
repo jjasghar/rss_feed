@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-31 16:01:45 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-31 17:01:27 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, December 31, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, December 31, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +109,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-161350245-500x500.jpg" alt="Here we go again: Retiring coal plant forced to stay open by Trump Admin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/12/trump-admin-orders-another-coal-plant-to-stay-open/" target="_blank">Here we go again: Retiring coal plant forced to stay open by Trump Admin</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-31 16:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -155,20 +162,29 @@
                 <span class="time">2025-12-31 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="Walmart Promo Codes and Coupons: Up to 65% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/top-walmart-promo-codes/" target="_blank">Walmart Promo Codes and Coupons: Up to 65% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-31 06:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-meteor-lake-2025" target="_blank">Intel Meteor Lake On Linux Two Years Post-Launch: 93% The Original Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-31 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18803659&w=600" alt="Avoid BigQuery SQL Injection in Go With saferbq" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/avoid-bigquery-sql-injection-go-saferbq" target="_blank">Avoid BigQuery SQL Injection in Go With saferbq</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-31 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,39 +204,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/12/31/a-look-under-the-hood-how-and-why-we-built-question-assistant/" target="_blank">A look under the hood: How (and why) we built Question Assistant</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-12-31 15:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18797433&w=600" alt="DevSecOps as a Strategic Imperative for Modern DevOps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/devsecops-strategic-imperative-modern-devops" target="_blank">DevSecOps as a Strategic Imperative for Modern DevOps</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-12-31 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Arch-Linux-Archinstall-3.0.15" target="_blank">Arch Linux Installer Adds CUPS, rEFInd Boot, IWD, COSMIC &amp; Power Management Options</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-31 13:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/LinkedIn-agent-hiring-assistant/en/mediumimage/medium-karthik-ramgopal-daniel-hewlett-1766066268572.jpg" alt="Presentation: Lessons Learned From Building LinkedIn’s First Agent: Hiring Assistant" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/LinkedIn-agent-hiring-assistant/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Lessons Learned From Building LinkedIn’s First Agent: Hiring Assistant</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-31 12:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bhuvaneshm_dev/a-wake-up-call-for-developers-dont-just-build-publish-your-ideas-to-the-linux-ecosystem-odc" target="_blank">🚀 A Wake-Up Call for Developers: Don’t Just Build — Publish Your Ideas to the Linux Ecosystem</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-31 11:57</span>
             </div>
         </div>
 </div>
@@ -242,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/princeandrew.webp?fit=1600%2C1067&amp;quality=55&amp;ssl=1" alt="The Andrew formerly known as Prince surrenders gun license" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/31/the-andrew-formerly-known-as-prince-surrenders-gun-license.html" target="_blank">The Andrew formerly known as Prince surrenders gun license</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-31 16:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/AceMagic-Mini-1280x853.jpg" alt="Amazon Clears Out a Mac Mini Alternative as the Acemagic Mini Gaming PC (32GB RAM, 1TB SSD) Drops to an All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-clears-out-a-mac-mini-alternative-as-the-acemagic-mini-gaming-pc-32gb-ram-1tb-ssd-drops-to-an-all-time-low-2000656167" target="_blank">Amazon Clears Out a Mac Mini Alternative as the Acemagic Mini Gaming PC (32GB RAM, 1TB SSD) Drops to an All-Time Low</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-31 16:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/AnkerHDMISwitch-1280x853.jpg" alt="Anker’s HDMI Switch Crashes Below $10 With Final Discount, Compatible With TV, Laptop, PC, Xbox, Playstation, Projector, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +294,6 @@
                 <span class="time">2025-12-31 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Draculas-Chivito-1280x853.jpg" alt="Behold ‘Dracula’s Chivito,’ the Largest Planet Nursery Astronomers Have Ever Seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/behold-draculas-chivito-the-largest-planet-nursery-astronomers-have-ever-seen-2000704065" target="_blank">Behold ‘Dracula’s Chivito,’ the Largest Planet Nursery Astronomers Have Ever Seen</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-31 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JG4DFM52FFJ9SXED450CB1GH/hero-image.png" alt="Why Your New Year&#x27;s Resolutions Need &#x27;Cues,&#x27; According to Science" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/work/add-cues-to-new-years-resolutions?utm_medium=RSS" target="_blank">Why Your New Year&#x27;s Resolutions Need &#x27;Cues,&#x27; According to Science</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-31 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,22 +308,13 @@
                 <span class="time">2025-12-31 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1766704114-20251230 - edit.png" alt="Saturday Morning Breakfast Cereal - Mustard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/mustard" target="_blank">Saturday Morning Breakfast Cereal - Mustard</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-30 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
