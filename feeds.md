@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-01 04:19:40 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-01 05:06:53 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, January 01, 2026 - 04:19 UTC</div>
+    <div class="newspaper-date">Thursday, January 01, 2026 - 05:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/01/nx-s1-5653371/rose-parade-phoenix-float-los-angeles-fires" target="_blank">Rising from the ashes, a symbol of hope at the Rose Parade</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-01 05:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c5yvdw77j04o?at_medium=RSS&at_campaign=rss" target="_blank">Anthony Joshua discharged from hospital after Nigeria car crash</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-01 00:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-anthony-joshua-boxer_7080597.jpg?20251112230721" alt="Anthony Joshua discharged from hospital after fatal road crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/anthony-joshua-discharged-from-hospital-after-fatal-road-crash-13489140" target="_blank">Anthony Joshua discharged from hospital after fatal road crash</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-31 23:15</span>
             </div>
         </div>
 </div>
@@ -164,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-26-01/" target="_blank">FOSS Weekly #26.01: Distros of 2026, Terminal Customization, CachyOS Server Edition and More Linux Stuff</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-01 04:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/open-source-apps-from-web-browser/" target="_blank">13 Open-Source Apps I Use from a Web Browser (And You Can Too)</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-01-01 03:31</span>
@@ -203,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/member_8659c28a/latencyoptimizationpracticalguide20251231224938-1pfc" target="_blank">⚡_Latency_Optimization_Practical_Guide[20251231224938]</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-31 22:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Asahi-Linux-EOY-2025-CCC" target="_blank">Asahi Linux Has Experimental Code For DisplayPort, Apple M3/M4/M5 Bring-Up Still Ongoing</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-31 21:32</span>
             </div>
         </div>
 </div>
@@ -310,22 +313,13 @@
                 <span class="time">2025-12-31 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/anyone_else_here.png" alt="Anyone Else Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3188/" target="_blank">Anyone Else Here</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-12-31 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 04:19 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 05:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
