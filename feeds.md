@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-01 14:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-01 15:02:08 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, January 01, 2026 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, January 01, 2026 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/crans-montana_1767253706367_hpMain_4x3t_384.jpg" alt="Blaze in Swiss resort bar kills &#x27;several&#x27; dozen, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/dead-fire-bar-switzerland-new-years-day-police/story?id=128825726" target="_blank">Blaze in Swiss resort bar kills &#x27;several&#x27; dozen, police say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-01 14:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +97,20 @@
                 <span class="time">2026-01-01 11:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/crans-montana_1767253706367_hpMain_4x3t_384.jpg" alt="&#x27;Several&#x27; dozen dead in fire at bar in Switzerland on New Year&#x27;s Day, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/dead-fire-bar-switzerland-new-years-day-police/story?id=128825726" target="_blank">&#x27;Several&#x27; dozen dead in fire at bar in Switzerland on New Year&#x27;s Day, police say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-01 09:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/01/the-top-6-media-entertainment-startups-from-disrupt-startup-battlefield/" target="_blank">The top 6 media/entertainment startups from Disrupt Startup Battlefield</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-01 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2240553102-500x500-1766077235.jpg" alt="“Streaming stops feeling infinite”: What subscribers can expect in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +156,20 @@
                 <span class="time">2026-01-01 07:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-startup-founder-credential/" target="_blank">‘College dropout’ has become the most coveted startup founder credential</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-01 02:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pockit_tools/postgresql-vs-mysql-vs-mongodb-in-2026-the-honest-comparison-nobody-asked-for-5fkc" target="_blank">PostgreSQL vs MySQL vs MongoDB in 2026: The Honest Comparison Nobody Asked For</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-01 14:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,20 +215,29 @@
                 <span class="time">2026-01-01 06:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/commander_erp_cf7c5a13333/how-employee-dashboards-build-ownership-and-accountability-in-construction-teams-2ap0" target="_blank">How Employee Dashboards Build Ownership and Accountability in Construction Teams</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-01 05:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/best-streaming-tv-movies-january-2026-wonder-man-spaceballs-the-martian-1280x853.jpg" alt="The Films and Shows You Should Be Streaming in January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/best-streaming-tv-movies-january-2026-marvel-twilight-2000703671" target="_blank">The Films and Shows You Should Be Streaming in January 2026</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-01 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/AppleWatch-Series11-1280x853.jpg" alt="Apple Watch Series 11 Crashes to Record Low to Wind Down Its 2025 Smartwatch Lineup" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/apple-watch-series-11-crashes-to-record-low-to-wind-down-its-2025-smartwatch-lineup-2000656173" target="_blank">Apple Watch Series 11 Crashes to Record Low to Wind Down Its 2025 Smartwatch Lineup</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-01 14:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/Anker-Solix-Portable-Power-Station-1280x853.jpg" alt="Anker Goes Big for 2026 With 59% Off Power Station Bundle Including Expansion Batteries and Solar Panels" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,24 +274,6 @@
                 <span class="time">2026-01-01 01:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/10/Brett_Michael_Kavanaugh_2004.jpg?fit=413%2C612&amp;quality=60&amp;ssl=1" alt="Justice Kavanaugh, who humiliated himself on the record, now concerned his racism will dominate his &quot;legacy&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/31/justice-kavanaugh-who-humiliated-himself-on-the-record-now-concerned-his-racism-will-dominate-his-legacy.html" target="_blank">Justice Kavanaugh, who humiliated himself on the record, now concerned his racism will dominate his &quot;legacy&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-01 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Image-fizkes-_3Ca-href_3Dhttps-shutterstock.co_.jpg?fit=1080%2C702&amp;quality=60&amp;ssl=1" alt="Short-form video makes it hard to remember what you&#x27;re doing and worse at doing it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/31/short-form-video-makes-it-hard-to-remember-what-youre-doing-and-worse-at-doing-it.html" target="_blank">Short-form video makes it hard to remember what you&#x27;re doing and worse at doing it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-31 22:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 94 | 📡 Total Sources: 41 | 📸 With Images: 287 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
