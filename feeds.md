@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-01 00:06:04 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-01 01:30:23 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, January 01, 2026 - 00:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, January 01, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/jack-smith-ap-jt-251231_1767218211807_hpMain_4x3t_384.jpg" alt="Jack Smith says &#x27;no historical analog&#x27; for Trump&#x27;s actions, denies being influenced" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/jack-smith-historical-analog-trumps-actions-2020-election/story?id=128819035" target="_blank">Jack Smith says &#x27;no historical analog&#x27; for Trump&#x27;s actions, denies being influenced</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-01 00:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8c5/live/775d3eb0-e6a4-11f0-b67b-690eb873de1b.jpg" alt="Anthony Joshua discharged from hospital after Nigeria car crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yvdw77j04o?at_medium=RSS&at_campaign=rss" target="_blank">Anthony Joshua discharged from hospital after Nigeria car crash</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-01 00:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/11/1920x1080/skynews-anthony-joshua-boxer_7080597.jpg?20251112230721" alt="Anthony Joshua discharged from hospital after fatal road crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,30 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddf4/live/17f99f50-e676-11f0-8ad0-fd7b3893bab0.jpg" alt="UK gears up for new year celebrations as thousands gather in London" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21d8/live/cc0cb980-e655-11f0-aae2-2191c0e48a3b.jpg" alt="EU&#x27;s top diplomat rejects Russian claims of Ukrainian attack on government sites" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy594gkele3o?at_medium=RSS&at_campaign=rss" target="_blank">UK gears up for new year celebrations as thousands gather in London</a></span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0q4e4e4ldyo?at_medium=RSS&at_campaign=rss" target="_blank">EU&#x27;s top diplomat rejects Russian claims of Ukrainian attack on government sites</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2025-12-31 22:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/chicago-3-rt-gmh-251009_1760018589781_hpMain_4x3t_384.jpg" alt="Trump announces National Guard to be removed from LA, Chicago and Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-announces-national-guard-removed-los-angeles-chicago/story?id=128815658" target="_blank">Trump announces National Guard to be removed from LA, Chicago and Portland</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-31 22:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/chicago-3-rt-gmh-251009_1760018589781_hpMain_4x3t_384.jpg" alt="Trump announces National Guard to be removed from Los Angeles, Chicago and Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-announces-national-guard-removed-los-angeles-chicago/story?id=128815658" target="_blank">Trump announces National Guard to be removed from Los Angeles, Chicago and Portland</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-31 21:36</span>
+                <span class="time">2025-12-31 22:14</span>
             </div>
         </div>
 </div>
@@ -171,6 +168,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Hardware-Reviews-2025" target="_blank">AMD Ryzen AI Max, Intel Graphics &amp; Other Linux Benchmarks That Commanded 2025</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-01 01:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dustin_heaps_eb67241531ef/top-5-digital-waiver-tools-for-fitness-pros-in-2025-4lco" target="_blank">Top 5 Digital Waiver Tools for Fitness Pros in 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-01 00:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/member_8659c28a/latencyoptimizationpracticalguide20251231224938-1pfc" target="_blank">⚡_Latency_Optimization_Practical_Guide[20251231224938]</a></span>
                 <span class="feed">DEV Community</span>
@@ -204,24 +219,6 @@
                 <span class="time">2025-12-31 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dineshelumalai/s3-vectors-90-cheaper-than-pinecone-our-migration-guide-327c" target="_blank">S3 Vectors: 90% Cheaper Than Pinecone? Our Migration Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-31 18:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://austinhenley.com/blog/canceledbookdeal.html" target="_blank">I canceled my book deal</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-31 18:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/StrangerThings_Will-2-1280x853.jpg" alt="Bid Farewell to ‘Stranger Things’ With io9’s Finale Episode Spoiler Zone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/stranger-things-finale-episode-spoilers-discussion-netflix-2000703981" target="_blank">Bid Farewell to ‘Stranger Things’ With io9’s Finale Episode Spoiler Zone</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-01 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Image-fizkes-_3Ca-href_3Dhttps-shutterstock.co_.jpg?fit=1080%2C702&amp;quality=60&amp;ssl=1" alt="Short-form video makes it hard to remember what you&#x27;re doing and worse at doing it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/31/short-form-video-makes-it-hard-to-remember-what-youre-doing-and-worse-at-doing-it.html" target="_blank">Short-form video makes it hard to remember what you&#x27;re doing and worse at doing it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-31 22:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Internxt-Cloud-Storage-Lifetime-Subscription-1.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Keep your private files private and save thousands with Internxt cloud storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,24 +292,6 @@
                 <span class="time">2025-12-31 18:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/2026-movie-preview-hoppers-project-hail-mary-bone-temple-1280x853.jpg" alt="Our 10 Most Anticipated Movies of Early 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/our-10-most-anticipated-movies-of-early-2026-2000702768" target="_blank">Our 10 Most Anticipated Movies of Early 2026</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-31 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HFPMTSFEBVGVFKM4K7DXV/hero-image.png" alt="Do You Really Need to Check With a Doctor Before Starting to Exercise?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/do-you-need-to-check-with-a-doctor-before-starting-to-exercise?utm_medium=RSS" target="_blank">Do You Really Need to Check With a Doctor Before Starting to Exercise?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-31 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 00:06 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
