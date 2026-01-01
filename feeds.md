@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-01 11:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-01 12:02:40 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, January 01, 2026 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, January 01, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +108,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/693cddc2b63d46bdde86ae98/master/pass/WTE%20sexy%20chats%20final.jpg" alt="AI Labor Is Boring. AI Lust Is Big Business" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/expired-tired-wired-sexy-chatbots/" target="_blank">AI Labor Is Boring. AI Lust Is Big Business</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-01 11:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69556de3880e0343b606e04c/master/pass/The%20Best%20Functional%20Coffee%20Add-Ins%20top%20art%20122025%20SOURCE%20Amazon_Walmart.jpg" alt="I Tested Popular Functional Coffee Add-Ins for a Week Each (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -151,20 +161,29 @@
                 <span class="time">2025-12-31 22:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/31/investors-predict-ai-is-coming-for-labor-in-2026/" target="_blank">Investors predict AI is coming for labor in 2026</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-31 16:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-the-caesar-planet-of-the-apes-trilogy-caravan-of-garbage-dka" target="_blank">Mr Sunday Movies: The Caesar Planet of the Apes Trilogy - Caravan Of Garbage</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-01 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/things-software-developers/en/headerimage/things-software-developers-header-1767080339436.jpg" alt="Things Software Developers Think They Don’t Need to Care about, But Can Impact Their Job" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/things-software-developers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Things Software Developers Think They Don’t Need to Care about, But Can Impact Their Job</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-01 11:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +218,6 @@
                 <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-26-01/" target="_blank">FOSS Weekly #26.01: Distros of 2026, Terminal Customization, CachyOS Server Edition and More Linux Stuff</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-01-01 04:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/open-source-apps-from-web-browser/" target="_blank">13 Open-Source Apps I Use from a Web Browser (And You Can Too)</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-01 03:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Hardware-Reviews-2025" target="_blank">AMD Ryzen AI Max, Intel Graphics &amp; Other Linux Benchmarks That Commanded 2025</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-01 01:27</span>
             </div>
         </div>
 </div>
@@ -320,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 41 | 📸 With Images: 283 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
