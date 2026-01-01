@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-01 13:11:53 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-01 14:01:35 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, January 01, 2026 - 13:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, January 01, 2026 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/01/nx-s1-5662649/uber-lyft-union-paid-leave-snap-soda" target="_blank">Rideshare union rights, social media limits and other state laws taking effect Jan. 1</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-01 13:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jan/01/us-aid-cuts-conditions-un-humanitarian-pledge-ocha" target="_blank">US ‘adapt, shrink or die’ terms for $2bn aid pot will mean UN bowing down to Washington, say experts</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-01 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767270119484_now_mnn_swiss_bar_fire_260101_1920x1080-at2j2s.jpg" alt="Dozens presumed dead after fire rips through Swiss ski resort bar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/dozens-feared-dead-after-fire-at-swiss-ski-resort-bar-255257157911" target="_blank">Dozens presumed dead after fire rips through Swiss ski resort bar</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-01 12:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,33 +95,6 @@
                 <span class="title"><a href="https://abcnews.go.com/International/dead-fire-bar-switzerland-new-years-day-police/story?id=128825726" target="_blank">&#x27;Several&#x27; dozen dead in fire at bar in Switzerland on New Year&#x27;s Day, police say</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-01 09:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/988b/live/c2966ea0-e6f5-11f0-aae2-2191c0e48a3b.jpg" alt="BBC reports from the scene of Swiss resort bar fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/videos/cq84xxxk840o?at_medium=RSS&at_campaign=rss" target="_blank">BBC reports from the scene of Swiss resort bar fire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-01 09:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-fire-switzerland-crans-montana_7123575.jpg?20260101120825" alt="What we know about deadly New Year&#x27;s fire at Swiss ski resort" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/what-we-know-about-deadly-new-years-fire-at-swiss-ski-resort-13489204" target="_blank">What we know about deadly New Year&#x27;s fire at Swiss ski resort</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-01 08:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260101-crans-montana-fire-ha-fac0f3.jpg" alt="Dozens feared dead after fire sweeps through Swiss ski resort bar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/europe/switzerland-alps-fire-bar-new-years-celebrations-le-constellation-rcna251783" target="_blank">Dozens feared dead after fire sweeps through Swiss ski resort bar</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-01 08:04</span>
             </div>
         </div>
 </div>
@@ -222,6 +221,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/Anker-Solix-Portable-Power-Station-1280x853.jpg" alt="Anker Goes Big for 2026 With 59% Off Power Station Bundle Including Expansion Batteries and Solar Panels" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/anker-goes-big-for-2026-with-59-off-power-station-bundle-including-expansion-batteries-and-solar-panels-2000656218" target="_blank">Anker Goes Big for 2026 With 59% Off Power Station Bundle Including Expansion Batteries and Solar Panels</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-01 13:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/asteroid-2024-yr4-1280x853.jpg" alt="FYI: These Are the Asteroids You Should Mine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -266,15 +274,6 @@
                 <span class="time">2025-12-31 22:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Internxt-Cloud-Storage-Lifetime-Subscription-1.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Keep your private files private and save thousands with Internxt cloud storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/31/keep-your-private-files-private-and-save-thousands-with-internxt-cloud-storage.html" target="_blank">Keep your private files private and save thousands with Internxt cloud storage</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-31 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 95 | 📡 Total Sources: 41 | 📸 With Images: 287 |
-        🔄 Last Updated: 13:12 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 94 | 📡 Total Sources: 41 | 📸 With Images: 287 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
