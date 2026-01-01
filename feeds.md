@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-01 21:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-01 22:02:00 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, January 01, 2026 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, January 01, 2026 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87cc/live/d292cee0-e74d-11f0-b67b-690eb873de1b.jpg" alt="Around 40 dead in Swiss ski resort bar fire, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss" target="_blank">Around 40 dead in Swiss ski resort bar fire, police say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-01 21:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/1/us-federal-employees-file-complaint-against-trumps-anti-transgender-policy?traffic_source=rss" target="_blank">US federal employees file complaint against Trump’s anti-transgender policy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-01 21:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/01/g-s1-104216/obamacare-subsidies-congress-peter-welch" target="_blank">Congress failed to extend Obamacare subsidies. This Democrat says Trump can save them</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-01 20:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Swiss-fire-aftermath-gty-bh-260101_1767293397911_hpMain_4x3t_384.jpg" alt="&#x27;One of the worst tragedies&#x27;: Swiss New Year&#x27;s Day bar fire kills around 40" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,33 +101,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/now/video/about-40-people-killed-in-swiss-alps-resort-fire-255266885772" target="_blank">About 40 people killed in Swiss Alps resort fire</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-01-01 18:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/1/several-killed-as-iran-protests-over-rising-cost-of-living-spread?traffic_source=rss" target="_blank">Several killed as Iran protests over rising cost of living spread</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-01 18:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/1/brazils-supreme-court-rejects-jair-bolsonaros-request-for-house-arrest?traffic_source=rss" target="_blank">Brazil’s Supreme Court rejects Jair Bolsonaro’s request for house arrest</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-01 17:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3137/live/f5050370-e703-11f0-837e-09a2247f0a0a.jpg" alt="Around 40 dead in Swiss ski resort bar fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss" target="_blank">Around 40 dead in Swiss ski resort bar fire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-01 16:55</span>
             </div>
         </div>
 </div>
@@ -173,6 +179,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://henry.codes/writing/a-website-to-destroy-all-websites/" target="_blank">A website to destroy all websites</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-01 20:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Haiku-0.0.1" target="_blank">NVIDIA Graphics On Haiku OS Make Progress With NVIDIA Open Kernel Modules + NVK/Zink</a></span>
                 <span class="feed">Phoronix</span>
@@ -206,20 +221,20 @@
                 <span class="time">2026-01-01 16:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/01/01/documents-the-architect-s-programming-language/" target="_blank">Documents: The architect’s programming language</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-01-01 16:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/anime-in-january-io9-template-4-A-1280x853.jpg" alt="There Is Almost Too Much Anime to Watch This Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/there-is-almost-too-much-anime-to-watch-this-month-2000704345" target="_blank">There Is Almost Too Much Anime to Watch This Month</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-01 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/starseekers-2-1280x853.jpg" alt="42 New Sci-Fi, Fantasy, and Horror Books Releasing in January" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -227,6 +242,15 @@
                 <span class="title"><a href="https://gizmodo.com/42-new-sci-fi-fantasy-and-horror-books-releasing-in-january-2000702259" target="_blank">42 New Sci-Fi, Fantasy, and Horror Books Releasing in January</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-01 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/EDU-Unlimited.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Get unlimited IT, coding, and design courses for life with EDU Unlimited for under $20" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/01/get-unlimited-it-coding-and-design-courses-for-life-with-edu-unlimited-for-under-20.html" target="_blank">Get unlimited IT, coding, and design courses for life with EDU Unlimited for under $20</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-01 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -254,24 +278,6 @@
                 <span class="title"><a href="https://kotaku.com/apple-watch-series-11-crashes-to-record-low-to-wind-down-its-2025-smartwatch-lineup-2000656173" target="_blank">Apple Watch Series 11 Crashes to Record Low to Wind Down Its 2025 Smartwatch Lineup</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-01 14:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/Anker-Solix-Portable-Power-Station-1280x853.jpg" alt="Anker Goes Big for 2026 With 59% Off Power Station Bundle Including Expansion Batteries and Solar Panels" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/anker-goes-big-for-2026-with-59-off-power-station-bundle-including-expansion-batteries-and-solar-panels-2000656218" target="_blank">Anker Goes Big for 2026 With 59% Off Power Station Bundle Including Expansion Batteries and Solar Panels</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-01 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/asteroid-2024-yr4-1280x853.jpg" alt="FYI: These Are the Asteroids You Should Mine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/fyi-these-are-the-asteroids-you-should-mine-2000704248" target="_blank">FYI: These Are the Asteroids You Should Mine</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-01 13:00</span>
             </div>
         </div>
 </div>
@@ -302,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 41 | 📸 With Images: 287 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
