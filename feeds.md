@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-01 20:01:38 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-01 21:01:31 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, January 01, 2026 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, January 01, 2026 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Swiss-fire-aftermath-gty-bh-260101_1767293397911_hpMain_4x3t_384.jpg" alt="&#x27;One of the worst tragedies&#x27;: Swiss New Year&#x27;s Day bar fire kills around 40" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/dead-fire-bar-switzerland-new-years-day-police/story?id=128825726" target="_blank">&#x27;One of the worst tragedies&#x27;: Swiss New Year&#x27;s Day bar fire kills around 40</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-01 19:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/science/2026/jan/01/cremation-pyre-in-africa-thought-to-be-worlds-oldest-containing-adult-remains" target="_blank">Cremation pyre in Africa thought to be world’s oldest containing adult remains</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-01 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767292647608_now_daily_a_swiss_resort_fire_260101_1920x1080-0hjpaz.jpg" alt="About 40 people killed in Swiss Alps resort fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/about-40-people-killed-in-swiss-alps-resort-fire-255266885772" target="_blank">About 40 people killed in Swiss Alps resort fire</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-01 18:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,33 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss" target="_blank">Around 40 dead in Swiss ski resort bar fire</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-01 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Swiss-alps-fire-hd-bh-260101_1767283664735_hpMain_4x3t_384.jpg" alt="Blaze in Swiss resort bar kills around 40 people, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/dead-fire-bar-switzerland-new-years-day-police/story?id=128825726" target="_blank">Blaze in Swiss resort bar kills around 40 people, police say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-01 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/1/somali-president-israel-deal-with-somaliland-tied-to-hosting-palestinians?traffic_source=rss" target="_blank">Somali president: Israel deal with Somaliland tied to hosting Palestinians</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-01 15:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/crans-montana_1767253706367_hpMain_4x3t_384.jpg" alt="Blaze in Swiss resort bar kills &#x27;several&#x27; dozen, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/dead-fire-bar-switzerland-new-years-day-police/story?id=128825726" target="_blank">Blaze in Swiss resort bar kills &#x27;several&#x27; dozen, police say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-01 14:26</span>
             </div>
         </div>
 </div>
@@ -164,6 +162,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7n3yoh81yahi4kbqd884.png" alt="Class Diagram" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/obrutus/class-diagram-cmg" target="_blank">Class Diagram</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-01 20:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Haiku-0.0.1" target="_blank">NVIDIA Graphics On Haiku OS Make Progress With NVIDIA Open Kernel Modules + NVK/Zink</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-01 20:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18807303&w=600" alt="Automating Monolith Migration for Resource-Constrained Edge Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -197,24 +213,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/01/01/documents-the-architect-s-programming-language/" target="_blank">Documents: The architect’s programming language</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-01-01 16:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pockit_tools/postgresql-vs-mysql-vs-mongodb-in-2026-the-honest-comparison-nobody-asked-for-5fkc" target="_blank">PostgreSQL vs MySQL vs MongoDB in 2026: The Honest Comparison Nobody Asked For</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-01 14:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://lalitm.com/post/one-number-i-trust/" target="_blank">One Number I Trust: Plain-Text Accounting for a Multi-Currency Household</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-01-01 13:04</span>
             </div>
         </div>
 </div>
@@ -304,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 41 | 📸 With Images: 287 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 41 | 📸 With Images: 287 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
