@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-01 01:30:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-01 02:43:14 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, January 01, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, January 01, 2026 - 02:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/1/us-kills-three-in-attack-on-alleged-drug-boats-searches-for-survivors?traffic_source=rss" target="_blank">US kills five in attack on alleged drug boats, searches for survivors</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-01 01:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/jack-smith-ap-jt-251231_1767218211807_hpMain_4x3t_384.jpg" alt="Jack Smith says &#x27;no historical analog&#x27; for Trump&#x27;s actions, denies being influenced" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +103,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/trump-says-national-guard-will-be-removed-from-chicago-los-angeles-and-portland-255246405598" target="_blank">Trump says National Guard will be removed from Chicago, Los Angeles and Portland</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-12-31 22:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21d8/live/cc0cb980-e655-11f0-aae2-2191c0e48a3b.jpg" alt="EU&#x27;s top diplomat rejects Russian claims of Ukrainian attack on government sites" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0q4e4e4ldyo?at_medium=RSS&at_campaign=rss" target="_blank">EU&#x27;s top diplomat rejects Russian claims of Ukrainian attack on government sites</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-31 22:14</span>
             </div>
         </div>
 </div>
@@ -248,6 +252,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/10/Brett_Michael_Kavanaugh_2004.jpg?fit=413%2C612&amp;quality=60&amp;ssl=1" alt="Justice Kavanaugh, who humiliated himself on the record, now concerned his racism will dominate his &quot;legacy&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/31/justice-kavanaugh-who-humiliated-himself-on-the-record-now-concerned-his-racism-will-dominate-his-legacy.html" target="_blank">Justice Kavanaugh, who humiliated himself on the record, now concerned his racism will dominate his &quot;legacy&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-01 00:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Image-fizkes-_3Ca-href_3Dhttps-shutterstock.co_.jpg?fit=1080%2C702&amp;quality=60&amp;ssl=1" alt="Short-form video makes it hard to remember what you&#x27;re doing and worse at doing it" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -283,15 +296,6 @@
                 <span class="time">2025-12-31 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/5090.jpg?fit=1796%2C878&amp;quality=60&amp;ssl=1" alt="Get ready for the $5090 5090: GPU prices expected to soar next year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/31/get-ready-for-the-5090-5090-gpu-prices-expected-to-soar-next-year.html" target="_blank">Get ready for the $5090 5090: GPU prices expected to soar next year</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-31 18:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,13 +319,22 @@
                 <span class="time">2025-12-31 08:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/anyone_else_here.png" alt="Anyone Else Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3188/" target="_blank">Anyone Else Here</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-12-31 05:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 02:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
