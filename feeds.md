@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-01 12:02:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-01 13:11:53 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, January 01, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, January 01, 2026 - 13:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/1/hundreds-of-thousands-march-in-istanbul-in-solidarity-with-gaza?traffic_source=rss" target="_blank">Hundreds of thousands march in Istanbul in solidarity with Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-01 12:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3137/live/f5050370-e703-11f0-837e-09a2247f0a0a.jpg" alt="Several dozen feared dead in Swiss ski resort bar fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss" target="_blank">Several dozen feared dead in Swiss ski resort bar fire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-01 11:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/crans-montana_1767253706367_hpMain_4x3t_384.jpg" alt="&#x27;Several&#x27; dozen dead in fire at bar in Switzerland on New Year&#x27;s Day, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,6 +81,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-fire-switzerland-crans-montana_7123575.jpg?20260101120825" alt="What we know about deadly New Year&#x27;s fire at Swiss ski resort" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/what-we-know-about-deadly-new-years-fire-at-swiss-ski-resort-13489204" target="_blank">What we know about deadly New Year&#x27;s fire at Swiss ski resort</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-01 08:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260101-crans-montana-fire-ha-fac0f3.jpg" alt="Dozens feared dead after fire sweeps through Swiss ski resort bar" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -75,38 +98,20 @@
                 <span class="time">2026-01-01 08:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/01/nx-s1-5663372/zohran-mamdani-sworn-in-as-new-york-city-mayor-capping-historic-rise" target="_blank">Zohran Mamdani sworn in as New York City mayor, capping historic rise</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-01 05:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/1/zohran-mamdani-sworn-in-as-new-york-mayor-with-historic-quran?traffic_source=rss" target="_blank">Zohran Mamdani sworn in as New York mayor with historic Quran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-01 05:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3415/live/21f57130-e6c3-11f0-a8dc-93c15fe68710.jpg" alt="Zelensky says peace deal is 90% ready in New Year address" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cddg7100ym2o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky says peace deal is 90% ready in New Year address</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-01 05:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2240553102-500x500-1766077235.jpg" alt="“Streaming stops feeling infinite”: What subscribers can expect in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/streaming-stops-feeling-infinite-what-subscribers-can-expect-in-2026/" target="_blank">“Streaming stops feeling infinite”: What subscribers can expect in 2026</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-01 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/693cddc2b63d46bdde86ae98/master/pass/WTE%20sexy%20chats%20final.jpg" alt="AI Labor Is Boring. AI Lust Is Big Business" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,15 +157,6 @@
                 <span class="time">2026-01-01 02:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/852124/adam-mosseri-ai-images-video-instagram" target="_blank">You can’t trust your eyes to tell you what’s real anymore, says the head of Instagram</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-31 22:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -182,6 +178,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/01/things-software-developers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Things Software Developers Think They Don’t Need to Care about, But Can Impact Their Job</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-01-01 11:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone" target="_blank">Bluetooth Headphone Jacking: A Key to Your Phone [video]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-01 11:17</span>
             </div>
         </div>
 <div class="story">
@@ -211,34 +216,20 @@
                 <span class="time">2026-01-01 05:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-26-01/" target="_blank">FOSS Weekly #26.01: Distros of 2026, Terminal Customization, CachyOS Server Edition and More Linux Stuff</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-01 04:27</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/linkedin-job-scams.html" target="_blank">LinkedIn Job Scams</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-12-31 12:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/asteroid-2024-yr4-1280x853.jpg" alt="FYI: These Are the Asteroids You Should Mine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/fyi-these-are-the-asteroids-you-should-mine-2000704248" target="_blank">FYI: These Are the Asteroids You Should Mine</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-01 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Splat.-Screengrab-via-YouTube.jpg?fit=1080%2C814&amp;quality=60&amp;ssl=1" alt="Disney worker hurt stopping 400lb fake boulder rolling into audience" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +275,6 @@
                 <span class="time">2025-12-31 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/carotop5kotaku-1280x720.jpg" alt="Carolyn Petit’s Top 5 Games Of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/best-games-2025-despelote-terminator-2d-absolum-pac-man-shadow-labyrinth-blippo-2000656278" target="_blank">Carolyn Petit’s Top 5 Games Of 2025</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-31 20:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 95 | 📡 Total Sources: 41 | 📸 With Images: 287 |
+        🔄 Last Updated: 13:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
