@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-01 15:02:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-01 16:02:08 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, January 01, 2026 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, January 01, 2026 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/1/somali-president-israel-deal-with-somaliland-tied-to-hosting-palestinians?traffic_source=rss" target="_blank">Somali president: Israel deal with Somaliland tied to hosting Palestinians</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-01 15:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/crans-montana_1767253706367_hpMain_4x3t_384.jpg" alt="Blaze in Swiss resort bar kills &#x27;several&#x27; dozen, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +105,20 @@
                 <span class="time">2026-01-01 12:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3137/live/f5050370-e703-11f0-837e-09a2247f0a0a.jpg" alt="Several dozen feared dead in Swiss ski resort bar fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss" target="_blank">Several dozen feared dead in Swiss ski resort bar fire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-01 11:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair" target="_blank">Meet the new tech laws of 2026</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-01 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -118,6 +135,15 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/streaming-stops-feeling-infinite-what-subscribers-can-expect-in-2026/" target="_blank">“Streaming stops feeling infinite”: What subscribers can expect in 2026</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-01-01 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/683f8b824df6c48afd1e2921/master/pass/Best%20Smart%20Scales_.png" alt="4 Best Smart Scales (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-smart-scales/" target="_blank">4 Best Smart Scales (2026), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-01 12:30</span>
             </div>
         </div>
 <div class="story">
@@ -138,24 +164,6 @@
                 <span class="time">2026-01-01 10:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/695588d14dbb880223508c6d/master/pass/Acuity%20Scheduling%20(partnership%20w:%20coupons)%20top%20art%20122025%20SOURCE%20Molly%20Higgins.jpg" alt="Here’s What It’s Like to Use Acuity Scheduling for Your Business or Side Hustle (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/acuity-scheduling/" target="_blank">Here’s What It’s Like to Use Acuity Scheduling for Your Business or Side Hustle (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-01 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" alt="Visible Promo Code: Save $140 in January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/visible-promo-code/" target="_blank">Visible Promo Code: Save $140 in January 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-01 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +176,15 @@
                 <span class="title"><a href="https://dev.to/pockit_tools/postgresql-vs-mysql-vs-mongodb-in-2026-the-honest-comparison-nobody-asked-for-5fkc" target="_blank">PostgreSQL vs MySQL vs MongoDB in 2026: The Honest Comparison Nobody Asked For</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-01 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://lalitm.com/post/one-number-i-trust/" target="_blank">One Number I Trust: Plain-Text Accounting for a Multi-Currency Household</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-01-01 13:04</span>
             </div>
         </div>
 <div class="story">
@@ -206,20 +223,20 @@
                 <span class="time">2026-01-01 06:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/bun-v3-1-release/en/headerimage/generatedHeaderImage-1767003449774.jpg" alt="Bun Introduces Built-in Database Clients and Zero-Config Frontend Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/bun-v3-1-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Bun Introduces Built-in Database Clients and Zero-Config Frontend Development</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-01 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Ballys-Chicago_2C-temporarily.-Image-Google.jpg?fit=1080%2C860&amp;quality=60&amp;ssl=1" alt="Bally&#x27;s casino refusing to pay jackpot to immigrant despite legal status" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/01/ballys-casino-refusing-to-pay-jackpot-to-immigrant-despite-legal-status.html" target="_blank">Bally&#x27;s casino refusing to pay jackpot to immigrant despite legal status</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-01 15:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/best-streaming-tv-movies-january-2026-wonder-man-spaceballs-the-martian-1280x853.jpg" alt="The Films and Shows You Should Be Streaming in January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +282,6 @@
                 <span class="time">2026-01-01 03:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/StrangerThings_Will-2-1280x853.jpg" alt="Bid Farewell to ‘Stranger Things’ With io9’s Finale Episode Spoiler Zone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/stranger-things-finale-episode-spoilers-discussion-netflix-2000703981" target="_blank">Bid Farewell to ‘Stranger Things’ With io9’s Finale Episode Spoiler Zone</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-01 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
