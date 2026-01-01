@@ -1,42 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-31 23:01:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-01 00:06:04 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, December 31, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, January 01, 2026 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,12 +51,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-anthony-joshua-boxer_7080597.jpg?20251112230721" alt="Anthony Joshua discharged from hospital after fatal road crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/anthony-joshua-discharged-from-hospital-after-fatal-road-crash-13489140" target="_blank">Anthony Joshua discharged from hospital after fatal road crash</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-31 23:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/gallery/2025/12/31/new-years-eve-celebrations-as-the-world-welcomes-2026?traffic_source=rss" target="_blank">New Year’s Eve celebrations as the world welcomes 2026</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-31 22:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1767219440180_now_hallie_alba_trump_natguard_251231_1920x1080-p4nrlk.jpg" alt="Trump says National Guard will be removed from Chicago, Los Angeles and Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-says-national-guard-will-be-removed-from-chicago-los-angeles-and-portland-255246405598" target="_blank">Trump says National Guard will be removed from Chicago, Los Angeles and Portland</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-31 22:17</span>
             </div>
         </div>
 <div class="story">
@@ -88,29 +104,20 @@
                 <span class="time">2025-12-31 21:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/31/ivory-coast-fight-back-against-gabon-to-top-afcon-group-ahead-of-cameroon?traffic_source=rss" target="_blank">Ivory Coast fight back against Gabon to top AFCON group ahead of Cameroon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-31 21:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/31/police-investigating-damage-to-undersea-telecom-cable-in-gulf-of-finland?traffic_source=rss" target="_blank">Finland seizes ship sailing from Russia after suspected cable sabotage</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-31 19:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/852124/adam-mosseri-ai-images-video-instagram" target="_blank">You can’t trust your eyes to tell you what’s real anymore, says the head of Instagram</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-31 22:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -156,15 +163,6 @@
                 <span class="time">2025-12-31 13:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/694aac9dc9015253e619588e/master/pass/Deals%20Withings%20Body%20Comp%20scale_Factor%20Meal%20Kit%20top%20art%20122025%20SOURCE%20Matthew%20Korfhage_Factor.jpg" alt="Factor Meal Delivery Promo: Free $200 Withings Body-Scan Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/factor-withings-deal/" target="_blank">Factor Meal Delivery Promo: Free $200 Withings Body-Scan Scale</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-31 12:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -186,6 +184,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Asahi-Linux-EOY-2025-CCC" target="_blank">Asahi Linux Has Experimental Code For DisplayPort, Apple M3/M4/M5 Bring-Up Still Ongoing</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-31 21:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/unkey-serverless/en/headerimage/generatedHeaderImage-1767211897075.jpg" alt="API Platform Unkey Ditches Serverless After Performance Struggles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/unkey-serverless/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">API Platform Unkey Ditches Serverless After Performance Struggles</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-31 20:30</span>
             </div>
         </div>
 <div class="story">
@@ -213,15 +220,6 @@
                 <span class="title"><a href="https://austinhenley.com/blog/canceledbookdeal.html" target="_blank">I canceled my book deal</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-31 18:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18803683&w=600" alt="How Unified Data Pipelines Transform Modern AI Infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/unified-data-flows-modern-ai-infrastructure" target="_blank">How Unified Data Pipelines Transform Modern AI Infrastructure</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-31 18:00</span>
             </div>
         </div>
 </div>
@@ -325,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
