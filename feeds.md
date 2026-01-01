@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-01 06:02:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-01 07:03:29 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, January 01, 2026 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, January 01, 2026 - 07:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -67,6 +65,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ab4/live/ba331a40-e6ac-11f0-aae2-2191c0e48a3b.jpg" alt="UK welcomes new year with celebrations across the country" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy594gkele3o?at_medium=RSS&at_campaign=rss" target="_blank">UK welcomes new year with celebrations across the country</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-01 04:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -91,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/1/us-kills-three-in-attack-on-alleged-drug-boats-searches-for-survivors?traffic_source=rss" target="_blank">US kills five in attack on alleged drug boats, searches for survivors</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-01 01:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/jack-smith-ap-jt-251231_1767218211807_hpMain_4x3t_384.jpg" alt="Jack Smith says &#x27;no historical analog&#x27; for Trump&#x27;s actions, denies being influenced" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/jack-smith-historical-analog-trumps-actions-2020-election/story?id=128819035" target="_blank">Jack Smith says &#x27;no historical analog&#x27; for Trump&#x27;s actions, denies being influenced</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-01 00:47</span>
             </div>
         </div>
 </div>
@@ -167,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/admantium/hashicorp-vault-fine-grained-access-control-with-policies-53h2" target="_blank">Hashicorp Vault: Fine-Grained Access Control with Policies</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-01 06:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/01/bun-v3-1-release/en/headerimage/generatedHeaderImage-1767003449774.jpg" alt="Bun Introduces Built-in Database Clients and Zero-Config Frontend Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -211,15 +218,6 @@
                 <span class="time">2026-01-01 01:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dustin_heaps_eb67241531ef/top-5-digital-waiver-tools-for-fitness-pros-in-2025-4lco" target="_blank">Top 5 Digital Waiver Tools for Fitness Pros in 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-01 00:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Splat.-Screengrab-via-YouTube.jpg?fit=1080%2C814&amp;quality=60&amp;ssl=1" alt="Disney worker hurt stopping 400lb fake boulder rolling into audience" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/31/disney-worker-hurt-stopping-400lb-fake-boulder-rolling-into-audience.html" target="_blank">Disney worker hurt stopping 400lb fake boulder rolling into audience</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-01 03:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/StrangerThings_Will-2-1280x853.jpg" alt="Bid Farewell to ‘Stranger Things’ With io9’s Finale Episode Spoiler Zone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +291,6 @@
                 <span class="time">2025-12-31 20:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Jujutsu-Kaisen-Modulo-Manga-io9-template-circle-light-dark-1280x853.jpg" alt="‘Jujutsu Kaisen Modulo’ Is Better Than the OG Manga Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/jujutsu-kaisen-modulo-jjk-gege-akutami-yuji-iwasaki-manga-sequel-culling-game-shonen-jump-2000704291" target="_blank">‘Jujutsu Kaisen Modulo’ Is Better Than the OG Manga Series</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-31 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 07:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
