@@ -1,11 +1,9 @@
-<!-- Processing 54 RSS feeds at 2026-01-01 02:43:14 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-01 03:31:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
@@ -16,26 +14,24 @@
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, January 01, 2026 - 02:43 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, January 01, 2026 - 03:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/1/1/were-not-scared-life-in-taiwan-goes-on-amid-major-chinese-war-games?traffic_source=rss" target="_blank">‘We’re not scared’: Life in Taiwan goes on amid major Chinese war games</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-01 02:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +101,20 @@
                 <span class="time">2025-12-31 22:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1767219440180_now_hallie_alba_trump_natguard_251231_1920x1080-p4nrlk.jpg" alt="Trump says National Guard will be removed from Chicago, Los Angeles and Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-says-national-guard-will-be-removed-from-chicago-los-angeles-and-portland-255246405598" target="_blank">Trump says National Guard will be removed from Chicago, Los Angeles and Portland</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-31 22:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-startup-founder-credential/" target="_blank">‘College dropout’ has become the most coveted startup founder credential</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-01 02:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +160,20 @@
                 <span class="time">2025-12-31 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/signal-quantum-security-500x500.jpg" alt="Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/" target="_blank">Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-31 13:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/open-source-apps-from-web-browser/" target="_blank">13 Open-Source Apps I Use from a Web Browser (And You Can Too)</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-01 03:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,6 +195,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://simonwillison.net/2025/Dec/31/the-year-in-llms/" target="_blank">2025: The Year in LLMs</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-31 23:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/member_8659c28a/latencyoptimizationpracticalguide20251231224938-1pfc" target="_blank">⚡_Latency_Optimization_Practical_Guide[20251231224938]</a></span>
                 <span class="feed">DEV Community</span>
@@ -203,24 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Asahi-Linux-EOY-2025-CCC" target="_blank">Asahi Linux Has Experimental Code For DisplayPort, Apple M3/M4/M5 Bring-Up Still Ongoing</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-31 21:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/unkey-serverless/en/headerimage/generatedHeaderImage-1767211897075.jpg" alt="API Platform Unkey Ditches Serverless After Performance Struggles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/unkey-serverless/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">API Platform Unkey Ditches Serverless After Performance Struggles</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-31 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18735972&w=600" alt="Why Catalogs Really Break (and How a Copilot Prevents It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-catalogs-really-break-and-how-a-copilot-preven" target="_blank">Why Catalogs Really Break (and How a Copilot Prevents It)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-31 20:00</span>
             </div>
         </div>
 </div>
@@ -333,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 02:43 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 03:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
