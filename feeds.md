@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-01 16:02:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-01 17:02:50 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, January 01, 2026 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, January 01, 2026 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Swiss-alps-fire-hd-bh-260101_1767283664735_hpMain_4x3t_384.jpg" alt="Blaze in Swiss resort bar kills around 40 people, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/dead-fire-bar-switzerland-new-years-day-police/story?id=128825726" target="_blank">Blaze in Swiss resort bar kills around 40 people, police say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-01 16:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +102,20 @@
                 <span class="time">2026-01-01 12:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/1/hundreds-of-thousands-march-in-istanbul-in-solidarity-with-gaza?traffic_source=rss" target="_blank">Hundreds of thousands march in Istanbul in solidarity with Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-01 12:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/852332/public-domain-2026-betty-boop-nancy-drew-pluto" target="_blank">Public domain 2026: Betty Boop, Pluto, and Nancy Drew set free</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-01 16:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +161,29 @@
                 <span class="time">2026-01-01 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69556de3880e0343b606e04c/master/pass/The%20Best%20Functional%20Coffee%20Add-Ins%20top%20art%20122025%20SOURCE%20Amazon_Walmart.jpg" alt="I Tested Popular Functional Coffee Add-Ins for a Week Each (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-functional-coffee-add-ins/" target="_blank">I Tested Popular Functional Coffee Add-Ins for a Week Each (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-01 10:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/p12se/how-we-measure-http-timing-dns-tcp-tls-ttfb-breakdown-4oa2" target="_blank">How We Measure HTTP Timing: DNS, TCP, TLS, TTFB Breakdown</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-01 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/01/01/documents-the-architect-s-programming-language/" target="_blank">Documents: The architect’s programming language</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-01-01 16:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,24 +218,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/01/things-software-developers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Things Software Developers Think They Don’t Need to Care about, But Can Impact Their Job</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-01-01 11:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone" target="_blank">Bluetooth Headphone Jacking: A Key to Your Phone [video]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-01 11:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/admantium/hashicorp-vault-fine-grained-access-control-with-policies-53h2" target="_blank">Hashicorp Vault: Fine-Grained Access Control with Policies</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-01 06:39</span>
             </div>
         </div>
 </div>
@@ -274,12 +271,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Splat.-Screengrab-via-YouTube.jpg?fit=1080%2C814&amp;quality=60&amp;ssl=1" alt="Disney worker hurt stopping 400lb fake boulder rolling into audience" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://lifehacker.com/imagery/articles/01HJ2Q860DJ5K4X808ZNCDQMXG/hero-image.png" alt="The Best Apps for Tracking Any New Year&#x27;s Resolution" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/31/disney-worker-hurt-stopping-400lb-fake-boulder-rolling-into-audience.html" target="_blank">Disney worker hurt stopping 400lb fake boulder rolling into audience</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-01 03:22</span>
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-best-new-years-resolution-apps?utm_medium=RSS" target="_blank">The Best Apps for Tracking Any New Year&#x27;s Resolution</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-01 13:00</span>
             </div>
         </div>
 </div>
@@ -287,6 +284,15 @@
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1766899991-20260101-edit.png" alt="Saturday Morning Breakfast Cereal - Language" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/language-6" target="_blank">Saturday Morning Breakfast Cereal - Language</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-01-01 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -296,22 +302,13 @@
                 <span class="time">2026-01-01 06:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1766704267-20251231 - edit.png" alt="Saturday Morning Breakfast Cereal - Boom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/boom-3" target="_blank">Saturday Morning Breakfast Cereal - Boom</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-31 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 285 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
