@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-01 10:01:47 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-01 11:01:39 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, January 01, 2026 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, January 01, 2026 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +54,24 @@
                 <span class="title"><a href="https://abcnews.go.com/International/dead-fire-bar-switzerland-new-years-day-police/story?id=128825726" target="_blank">&#x27;Several&#x27; dozen dead in fire at bar in Switzerland on New Year&#x27;s Day, police say</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-01 09:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/988b/live/c2966ea0-e6f5-11f0-aae2-2191c0e48a3b.jpg" alt="BBC reports from the scene of Swiss resort bar fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/videos/cq84xxxk840o?at_medium=RSS&at_campaign=rss" target="_blank">BBC reports from the scene of Swiss resort bar fire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-01 09:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260101-crans-montana-fire-ha-fac0f3.jpg" alt="Dozens feared dead after fire sweeps through Swiss ski resort bar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/europe/switzerland-alps-fire-bar-new-years-celebrations-le-constellation-rcna251783" target="_blank">Dozens feared dead after fire sweeps through Swiss ski resort bar</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-01 08:04</span>
             </div>
         </div>
 <div class="story">
@@ -76,29 +101,20 @@
                 <span class="time">2026-01-01 05:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/01/nx-s1-5653371/rose-parade-phoenix-float-los-angeles-fires" target="_blank">Rising from the ashes, a symbol of hope at the Rose Parade</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-01 05:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ab4/live/ba331a40-e6ac-11f0-aae2-2191c0e48a3b.jpg" alt="UK welcomes new year with celebrations across the country" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy594gkele3o?at_medium=RSS&at_campaign=rss" target="_blank">UK welcomes new year with celebrations across the country</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-01 04:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69556de3880e0343b606e04c/master/pass/The%20Best%20Functional%20Coffee%20Add-Ins%20top%20art%20122025%20SOURCE%20Amazon_Walmart.jpg" alt="I Tested Popular Functional Coffee Add-Ins for a Week Each (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-functional-coffee-add-ins/" target="_blank">I Tested Popular Functional Coffee Add-Ins for a Week Each (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-01 10:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/695588d14dbb880223508c6d/master/pass/Acuity%20Scheduling%20(partnership%20w:%20coupons)%20top%20art%20122025%20SOURCE%20Molly%20Higgins.jpg" alt="Here’s What It’s Like to Use Acuity Scheduling for Your Business or Side Hustle (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,15 +158,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/12/31/investors-predict-ai-is-coming-for-labor-in-2026/" target="_blank">Investors predict AI is coming for labor in 2026</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-31 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-161350245-500x500.jpg" alt="Here we go again: Retiring coal plant forced to stay open by Trump Admin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/12/trump-admin-orders-another-coal-plant-to-stay-open/" target="_blank">Here we go again: Retiring coal plant forced to stay open by Trump Admin</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-31 16:30</span>
             </div>
         </div>
 </div>
@@ -313,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 41 | 📸 With Images: 283 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
