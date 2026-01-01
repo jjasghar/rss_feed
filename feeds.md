@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-01 19:01:37 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-01 20:01:38 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, January 01, 2026 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, January 01, 2026 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/1/several-killed-as-iran-protests-over-rising-cost-of-living-spread?traffic_source=rss" target="_blank">Several killed as Iran protests over rising cost of living spread</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-01 18:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +99,6 @@
                 <span class="time">2026-01-01 14:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/01/nx-s1-5662649/uber-lyft-union-paid-leave-snap-soda" target="_blank">Rideshare union rights, social media limits and other state laws taking effect Jan. 1</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-01 13:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -111,6 +111,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/01/openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens/" target="_blank">OpenAI bets big on audio as Silicon Valley declares war on screens</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-01 18:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/852362/lg-xboom-stage-501-karaoke-launch-ces-2026" target="_blank">LG’s new karaoke-ready party speaker uses AI to remove song vocals</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-01 18:16</span>
             </div>
         </div>
 <div class="story">
@@ -149,20 +158,20 @@
                 <span class="time">2026-01-01 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/683f8b824df6c48afd1e2921/master/pass/Best%20Smart%20Scales_.png" alt="4 Best Smart Scales (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-smart-scales/" target="_blank">4 Best Smart Scales (2026), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-01 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18807303&w=600" alt="Automating Monolith Migration for Resource-Constrained Edge Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/automating-monolith-migration-for-resource-constra" target="_blank">Automating Monolith Migration for Resource-Constrained Edge Systems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-01 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +215,6 @@
                 <span class="title"><a href="https://lalitm.com/post/one-number-i-trust/" target="_blank">One Number I Trust: Plain-Text Accounting for a Multi-Currency Household</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-01-01 13:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-the-caesar-planet-of-the-apes-trilogy-caravan-of-garbage-dka" target="_blank">Mr Sunday Movies: The Caesar Planet of the Apes Trilogy - Caravan Of Garbage</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-01 12:00</span>
             </div>
         </div>
 </div>
@@ -304,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 41 | 📸 With Images: 287 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
