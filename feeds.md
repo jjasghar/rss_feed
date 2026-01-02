@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-02 13:11:26 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing 54 RSS feeds at 2026-01-02 14:01:52 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, January 02, 2026 - 13:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, January 02, 2026 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -59,6 +67,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01e3/live/698d1be0-e7ce-11f0-b037-23db8319b430.jpg" alt="Weather warnings extended as ice and snow blanket parts of UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1jednyk611o?at_medium=RSS&at_campaign=rss" target="_blank">Weather warnings extended as ice and snow blanket parts of UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-02 11:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5148/live/09e4b940-e7ca-11f0-a951-db7efd6ff4fd.jpg" alt="Trump warns US will intervene if Iran kills protesters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -77,21 +94,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/swiss_fire_witnesses-kyqs8k.jpg" alt="‘It was like a nightmare’: Witnesses describe chaos as fire broke out at Swiss bar" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/02/g-s1-104257/a-fire-in-an-swiss-ski-resort-bar-has-left-about-40-people-dead" target="_blank">A fire in an Swiss ski resort bar has left about 40 people dead</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-02 08:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/2/swiss-officials-face-painful-task-of-identifying-deadly-bar-fire-victims?traffic_source=rss" target="_blank">Swiss officials face painful task of identifying victims of deadly bar fire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-02 08:12</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/witnesses-describe-chaos-as-fire-broke-out-at-swiss-bar-255287365706" target="_blank">‘It was like a nightmare’: Witnesses describe chaos as fire broke out at Swiss bar</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-02 09:23</span>
             </div>
         </div>
 </div>
@@ -99,6 +107,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/852628/lg-gram-pro-17-16-laptop-2026-ces" target="_blank">LG announces the &amp;#8216;world’s lightest 17-inch RTX laptop&amp;#8217;</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-02 13:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +161,29 @@
                 <span class="time">2026-01-02 06:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/01/is-the-apple-watch-se-3-a-good-deal/" target="_blank">A guide to choosing the right Apple Watch</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-02 00:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/December-2025-Recap" target="_blank">Radeon Linux Driver Enhancements, Linux 6.19 Activity &amp; Other December Highlights</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-02 13:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/j-brooke/FracturedJson/wiki" target="_blank">FracturedJson</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-02 12:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/javadinteger/devops-tooling-masterclass-complete-practical-guide-for-engineers-ak7" target="_blank">DevOps Tooling Masterclass — Complete Practical Guide for Engineers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-02 09:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/architects-dilemma/en/headerimage/architect-dillema-choose-path-or-pave-your-own-way-header-1767021524605.jpg" alt="Article: The Architect’s Dilemma: Choose a Proven Path or Pave Your Own Way?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/architects-dilemma/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: The Architect’s Dilemma: Choose a Proven Path or Pave Your Own Way?</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-02 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/diskcleankit/building-an-mcp-server-how-we-connected-diskcleankit-to-ai-assistants-222e" target="_blank">Building an MCP Server: How We Connected DiskCleanKit to AI Assistants</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-02 08:51</span>
             </div>
         </div>
 </div>
@@ -322,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
