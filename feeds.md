@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-02 00:05:09 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-01-02 01:29:42 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 20 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, January 02, 2026 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, January 02, 2026 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767310646082_nn_dha_swiss_fire_260101_1920x1080-nagnbh.jpg" alt="About 40 killed in New Year’s Eve fire at Swiss Alps bar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/about-40-killed-in-new-year-s-eve-fire-at-swiss-alps-bar-255275077592" target="_blank">About 40 killed in New Year’s Eve fire at Swiss Alps bar</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-01 23:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/1/venezuela-releases-more-prisoners-amid-us-pressure-campaign-rights-groups?traffic_source=rss" target="_blank">Venezuela releases more prisoners amid US pressure campaign: Rights groups</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-01 23:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/01/g-s1-104249/taiwan-president-sovereignty-china-military-drills" target="_blank">Taiwan&#x27;s president pledges to defend island&#x27;s sovereignty after Chinese military drills</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-01 23:01</span>
             </div>
         </div>
 <div class="story">
@@ -73,24 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss" target="_blank">Around 40 dead in Swiss ski resort bar fire, police say</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-01 21:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/1/us-federal-employees-file-complaint-against-trumps-anti-transgender-policy?traffic_source=rss" target="_blank">US federal employees file complaint against Trump’s anti-transgender policy</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-01 21:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/01/g-s1-104216/obamacare-subsidies-congress-peter-welch" target="_blank">Congress failed to extend Obamacare subsidies. This Democrat says Trump can save them</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-01 20:48</span>
             </div>
         </div>
 </div>
@@ -158,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/ubuntu-2026-notepad.jpg?resize=406%2C232&amp;ssl=1" alt="What Do You Want to See From Ubuntu in 2026?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/what-do-you-want-to-see-from-ubuntu-in-2026" target="_blank">What Do You Want to See From Ubuntu in 2026?</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-01 23:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7n3yoh81yahi4kbqd884.png" alt="Class Diagram" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,15 +215,6 @@
                 <span class="title"><a href="https://ciechanow.ski/cameras-and-lenses/" target="_blank">Cameras and Lenses (2020)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-01 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/p12se/how-we-measure-http-timing-dns-tcp-tls-ttfb-breakdown-4oa2" target="_blank">How We Measure HTTP Timing: DNS, TCP, TLS, TTFB Breakdown</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-01 16:55</span>
             </div>
         </div>
 </div>
@@ -298,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
