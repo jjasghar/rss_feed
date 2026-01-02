@@ -1,41 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-02 03:29:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-02 04:15:21 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, January 02, 2026 - 03:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, January 02, 2026 - 04:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -114,6 +113,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/01/is-the-apple-watch-se-3-a-good-deal/" target="_blank">A guide to choosing the right Apple Watch</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-02 00:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/01/01/what-is-mastodon/" target="_blank">A beginner’s guide to Mastodon, the open source Twitter alternative</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-01 21:02</span>
@@ -155,20 +163,20 @@
                 <span class="time">2026-01-01 16:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair" target="_blank">Meet the new tech laws of 2026</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-01 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lakhera2015/from-software-devops-engineer-to-generative-ai-engineer-a-4-month-hands-on-journey-3i21" target="_blank">🚀 From Software &amp; DevOps Engineer to Generative AI Engineer — A 4-Month Hands-On Journey 🚀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-02 04:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,30 +205,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-December-2025-Survey" target="_blank">Steam On Linux Ends 2025 With 3.19% Marketshare, AMD Linux CPU Use Approaches 72%</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-02 01:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/ubuntu-2026-notepad.jpg?resize=406%2C232&amp;ssl=1" alt="What Do You Want to See From Ubuntu in 2026?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/what-do-you-want-to-see-from-ubuntu-in-2026" target="_blank">What Do You Want to See From Ubuntu in 2026?</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-01-01 23:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7n3yoh81yahi4kbqd884.png" alt="Class Diagram" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/obrutus/class-diagram-cmg" target="_blank">Class Diagram</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-01 20:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://henry.codes/writing/a-website-to-destroy-all-websites/" target="_blank">A website to destroy all websites</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-01 20:36</span>
             </div>
         </div>
 </div>
@@ -234,6 +233,15 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/there-is-almost-too-much-anime-to-watch-this-month-2000704345" target="_blank">There Is Almost Too Much Anime to Watch This Month</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-01 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Headway-Premium.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Level up your life 15 minutes at a time with a Headway subscription for 80% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/01/level-up-your-life-15-minutes-at-a-time-with-a-headway-subscription-for-80-off.html" target="_blank">Level up your life 15 minutes at a time with a Headway subscription for 80% off</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-01 22:00</span>
             </div>
         </div>
@@ -273,15 +281,6 @@
                 <span class="time">2026-01-01 15:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/best-streaming-tv-movies-january-2026-wonder-man-spaceballs-the-martian-1280x853.jpg" alt="The Films and Shows You Should Be Streaming in January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/best-streaming-tv-movies-january-2026-marvel-twilight-2000703671" target="_blank">The Films and Shows You Should Be Streaming in January 2026</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-01 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 03:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 88 | 📡 Total Sources: 41 | 📸 With Images: 287 |
+        🔄 Last Updated: 04:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
