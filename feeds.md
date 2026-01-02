@@ -1,40 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-02 08:02:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-02 09:03:08 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, January 02, 2026 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, January 02, 2026 - 09:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/02/g-s1-104257/a-fire-in-an-swiss-ski-resort-bar-has-left-about-40-people-dead" target="_blank">A fire in an Swiss ski resort bar has left about 40 people dead</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-02 08:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/2/swiss-officials-face-painful-task-of-identifying-deadly-bar-fire-victims?traffic_source=rss" target="_blank">Swiss officials face painful task of identifying victims of deadly bar fire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-02 08:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63bc/live/103723b0-e77e-11f0-aae2-2191c0e48a3b.jpg" alt="Maduro says Venezuela open to US talks on drug trafficking" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,29 +104,20 @@
                 <span class="time">2026-01-02 02:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/453d/live/1a030b10-e64e-11f0-a8dc-93c15fe68710.jpg" alt="Chickenpox vaccines for young children start across UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgexe201n81o?at_medium=RSS&at_campaign=rss" target="_blank">Chickenpox vaccines for young children start across UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-02 00:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767310646082_nn_dha_swiss_fire_260101_1920x1080-nagnbh.jpg" alt="About 40 killed in New Year’s Eve fire at Swiss Alps bar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/about-40-killed-in-new-year-s-eve-fire-at-swiss-alps-bar-255275077592" target="_blank">About 40 killed in New Year’s Eve fire at Swiss Alps bar</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-01 23:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/852545/samsung-adds-much-needed-brightness-to-its-freestyle-projector" target="_blank">Samsung adds much needed brightness to its Freestyle projector</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-02 08:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +163,29 @@
                 <span class="time">2026-01-01 21:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/wonderman1-500x500.jpg" alt="Marvel rings in new year with Wonder Man trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/01/marvel-rings-in-new-year-with-wonder-man-trailer/" target="_blank">Marvel rings in new year with Wonder Man trailer</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-01 20:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/architects-dilemma/en/headerimage/architect-dillema-choose-path-or-pave-your-own-way-header-1767021524605.jpg" alt="Article: The Architect’s Dilemma: Choose a Proven Path or Pave Your Own Way?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/architects-dilemma/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: The Architect’s Dilemma: Choose a Proven Path or Pave Your Own Way?</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-02 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/diskcleankit/building-an-mcp-server-how-we-connected-diskcleankit-to-ai-assistants-222e" target="_blank">Building an MCP Server: How We Connected DiskCleanKit to AI Assistants</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-02 08:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.3.3-Released" target="_blank">Mesa 25.3.3 Ships Latest Bug Fixes, Intel Vulkan GTK4 Toolkit Workarounds</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-02 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lakhera2015/from-software-devops-engineer-to-generative-ai-engineer-a-4-month-hands-on-journey-3i21" target="_blank">🚀 From Software &amp; DevOps Engineer to Generative AI Engineer — A 4-Month Hands-On Journey 🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-02 04:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/softwarerbm/where-predictive-analytics-demand-forecasting-ai-inventory-transform-supply-chain-success-1oa2" target="_blank">Where Predictive Analytics, Demand Forecasting &amp; AI Inventory Transform Supply Chain Success</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-02 03:14</span>
             </div>
         </div>
 </div>
@@ -287,6 +287,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/01/02/absolute-penny-arcade-part-two" target="_blank">Absolute Penny Arcade: Part Two</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-01-02 08:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5735.png" alt="Welcome Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -309,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 09:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
