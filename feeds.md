@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-02 14:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-02 15:01:38 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, January 02, 2026 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, January 02, 2026 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/2/did-tony-blair-influence-trial-of-uk-soldiers-accused-of-killing-iraqi-man?traffic_source=rss" target="_blank">Did Tony Blair influence trial of UK soldiers accused of killing Iraqi man?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-02 14:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/02/g-s1-104265/trump-iran-protests" target="_blank">Trump and Iran start 2026 exchanging new threats on social media</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-02 13:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +103,29 @@
                 <span class="time">2026-01-02 11:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/2/trump-and-top-iranian-official-exchange-threats-over-protests-in-iran?traffic_source=rss" target="_blank">Trump and top Iranian official exchange threats over protests in Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-02 10:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/swiss_fire_witnesses-kyqs8k.jpg" alt="‘It was like a nightmare’: Witnesses describe chaos as fire broke out at Swiss bar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/witnesses-describe-chaos-as-fire-broke-out-at-swiss-bar-255287365706" target="_blank">‘It was like a nightmare’: Witnesses describe chaos as fire broke out at Swiss bar</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-02 09:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/851934/ge-appliances-smart-fridge-barcode-scanner-tablet" target="_blank">This smart fridge wants to solve the hassle of grocery shopping</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-02 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6957d981bdee755f1384e2c7/master/pass/2253053180" alt="Tesla Loses Its EV Crown to BYD as Sales Keep Dropping" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/byd-trounces-tesla-in-ev-sales-for-the-first-time/" target="_blank">Tesla Loses Its EV Crown to BYD as Sales Keep Dropping</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-02 14:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +162,47 @@
                 <span class="time">2026-01-02 08:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/01/even-as-global-crop-prices-fall-indias-arya-ag-is-attracting-investors-and-staying-profitable/" target="_blank">Even as global crop prices fall, India’s Arya.ag is attracting investors — and staying profitable</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-02 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" alt="20% Off Brooks Promo Code &amp; Deals for January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/brooks-promo-code/" target="_blank">20% Off Brooks Promo Code &amp; Deals for January 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-02 06:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2d39i1eja3urcbc04bjq.png" alt="Serverless Logging for Amazon Bedrock: From Invocation to Insight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sujitha_rasamsetty/serverless-logging-for-amazon-bedrock-from-invocation-to-insight-12pe" target="_blank">Serverless Logging for Amazon Bedrock: From Invocation to Insight</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-02 14:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/01/02/a-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge/" target="_blank">A new worst coder has entered the chat: vibe coding without code knowledge</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-01-02 14:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RadeonSI-NIR-Comp-Refactoring" target="_blank">RadeonSI Starts 2026 With NIR Compilation Refactoring For Better Performance, Lower GLSL Compile Times</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-02 14:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,47 +221,20 @@
                 <span class="time">2026-01-02 12:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Debian-Bug-Tracker-2026-Woes" target="_blank">Debian&#x27;s Bug Tracker With No Web UI For Editing Bugs Is Very Obscure For 2026</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-02 11:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ktnl/part-7-gold-layer-metrics-watermarks-and-aggregations-1jcm" target="_blank">Part 7: Gold Layer – Metrics, Watermarks, and Aggregations</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-02 10:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/aws-s3-vectors-ga/en/headerimage/generatedHeaderImage-1767183788490.jpg" alt="Amazon S3 Vectors Reaches GA, Introducing &quot;Storage-First&quot; Architecture for RAG" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/aws-s3-vectors-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Amazon S3 Vectors Reaches GA, Introducing &quot;Storage-First&quot; Architecture for RAG</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-02 10:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/javadinteger/devops-tooling-masterclass-complete-practical-guide-for-engineers-ak7" target="_blank">DevOps Tooling Masterclass — Complete Practical Guide for Engineers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-02 09:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/" target="_blank">The Kimwolf Botnet is Stalking Your Local Network</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-01-02 14:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -239,6 +249,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/muppet-show-2026-miss-piggy-sabrina-carpenter-1280x853.jpg" alt="Icon Meets Icon in the New Trailer for ‘The Muppet Show’ Revival" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-muppet-show-50th-anniversary-trailer-sabrina-carpenter-2000704814" target="_blank">Icon Meets Icon in the New Trailer for ‘The Muppet Show’ Revival</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-02 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/Asus-ROG-Xbox-Ally-1280x853.jpg" alt="ASUS Goes All-In on Gaming Handheld Console, ROG Xbox Ally 7″ Hits a Record Low as 2026 Begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/asus-goes-all-in-on-gaming-handheld-console-rog-xbox-ally-7-hits-a-record-low-as-2026-begins-2000656361" target="_blank">ASUS Goes All-In on Gaming Handheld Console, ROG Xbox Ally 7″ Hits a Record Low as 2026 Begins</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-02 14:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/Google-Pixel-Buds-Pro-2-1280x853.jpg" alt="Google Pixel Buds Pro 2 Drop to All-Time Low to Start the New Year, Now Priced Like Older Models Despite Being 2025’s Latest ANC Earbuds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +301,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/01/level-up-your-life-15-minutes-at-a-time-with-a-headway-subscription-for-80-off.html" target="_blank">Level up your life 15 minutes at a time with a Headway subscription for 80% off</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-01 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/black-friday-cyber-monday-live-blog-12-2-2025-apple-samsung-laptops-tvs?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-01 21:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/starseekers-2-1280x853.jpg" alt="42 New Sci-Fi, Fantasy, and Horror Books Releasing in January" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/42-new-sci-fi-fantasy-and-horror-books-releasing-in-january-2000702259" target="_blank">42 New Sci-Fi, Fantasy, and Horror Books Releasing in January</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-01 18:00</span>
             </div>
         </div>
 </div>
@@ -330,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
