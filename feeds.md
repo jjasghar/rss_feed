@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-01-02 12:02:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-02 13:11:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, January 02, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, January 02, 2026 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/2/these-are-the-competing-groups-controlling-territory-in-yemen?traffic_source=rss" target="_blank">These are the competing groups controlling territory in Yemen</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-02 12:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4914/live/78be5540-e015-11f0-a174-b3b49d9e9906.jpg" alt="Record year for wind and solar electricity in Great Britain in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/2/swiss-officials-face-painful-task-of-identifying-deadly-bar-fire-victims?traffic_source=rss" target="_blank">Swiss officials face painful task of identifying victims of deadly bar fire</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-02 08:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63bc/live/103723b0-e77e-11f0-aae2-2191c0e48a3b.jpg" alt="Maduro says Venezuela open to US talks on drug trafficking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyg23lj057o?at_medium=RSS&at_campaign=rss" target="_blank">Maduro says Venezuela open to US talks on drug trafficking</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-02 07:42</span>
             </div>
         </div>
 </div>
@@ -219,9 +214,41 @@
         </div>
 </div>
 </div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/flock-exposes-its-ai-enabled-surveillance-cameras.html" target="_blank">Flock Exposes Its AI-Enabled Surveillance Cameras</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-01-02 12:05</span>
+            </div>
+        </div>
+</div>
+</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/Google-Pixel-Buds-Pro-2-1280x853.jpg" alt="Google Pixel Buds Pro 2 Drop to All-Time Low to Start the New Year, Now Priced Like Older Models Despite Being 2025’s Latest ANC Earbuds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/google-pixel-buds-pro-2-drop-to-all-time-low-to-start-the-new-year-now-priced-like-older-models-despite-being-2025s-latest-anc-earbuds-2000656364" target="_blank">Google Pixel Buds Pro 2 Drop to All-Time Low to Start the New Year, Now Priced Like Older Models Despite Being 2025’s Latest ANC Earbuds</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-02 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GX9DNHN2BZQ1010NXVPMM/hero-image.jpg" alt="Why You Should Think of New Habits As Skills" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/think-of-new-habits-as-skills?utm_medium=RSS" target="_blank">Why You Should Think of New Habits As Skills</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-02 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/anime-in-january-io9-template-4-A-1280x853.jpg" alt="There Is Almost Too Much Anime to Watch This Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,24 +283,6 @@
                 <span class="title"><a href="https://gizmodo.com/42-new-sci-fi-fantasy-and-horror-books-releasing-in-january-2000702259" target="_blank">42 New Sci-Fi, Fantasy, and Horror Books Releasing in January</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-01 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/EDU-Unlimited.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Get unlimited IT, coding, and design courses for life with EDU Unlimited for under $20" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/01/get-unlimited-it-coding-and-design-courses-for-life-with-edu-unlimited-for-under-20.html" target="_blank">Get unlimited IT, coding, and design courses for life with EDU Unlimited for under $20</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-01 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Ballys-Chicago_2C-temporarily.-Image-Google.jpg?fit=1080%2C860&amp;quality=60&amp;ssl=1" alt="Bally&#x27;s casino refusing to pay jackpot to immigrant despite legal status" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/01/ballys-casino-refusing-to-pay-jackpot-to-immigrant-despite-legal-status.html" target="_blank">Bally&#x27;s casino refusing to pay jackpot to immigrant despite legal status</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-01 15:09</span>
             </div>
         </div>
 </div>
@@ -313,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
