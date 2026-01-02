@@ -1,38 +1,26 @@
-<!-- Processing 54 RSS feeds at 2026-01-02 16:02:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-02 17:01:48 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, January 02, 2026 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, January 02, 2026 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +37,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767372150905_now_brk_fbi_foils_nc_terror_260102_1920x1080-mvqzov.jpg" alt="Law enforcement foils ISIS-inspired New Year&#x27;s Eve terror attack in North Carolina" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/law-enforcement-foils-isis-inspired-new-year-s-eve-terror-attack-in-north-carolina-255298629811" target="_blank">Law enforcement foils ISIS-inspired New Year&#x27;s Eve terror attack in North Carolina</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-02 16:42</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/01/02/nx-s1-5664809/george-clooney-french-citizenship-trump" target="_blank">George Clooney gets French citizenship — and another dust-up with Trump</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-02 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44bd/live/e6b33050-e7e7-11f0-b44a-2d5156cff513.jpg" alt="&#x27;Living a nightmare&#x27;: Families of teens missing after ski resort fire desperate for news" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c07xn220gdeo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Living a nightmare&#x27;: Families of teens missing after ski resort fire desperate for news</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-02 15:18</span>
             </div>
         </div>
 <div class="story">
@@ -82,24 +88,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/02/g-s1-104265/trump-iran-protests" target="_blank">Trump and Iran start 2026 exchanging new threats on social media</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-02 13:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/2/these-are-the-competing-groups-controlling-territory-in-yemen?traffic_source=rss" target="_blank">These are the competing groups controlling territory in Yemen</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-02 12:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767357111809_tdy_news_7a_hamamdijian_ski_resort_fire_260101_1920x1080-rr0s7i.jpg" alt="Fire at Swiss Ski Resort Bar Leaves About 40 People Killed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/40-people-killed-after-fire-sweeps-through-swiss-ski-resort-bar-255288901911" target="_blank">Fire at Swiss Ski Resort Bar Leaves About 40 People Killed</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-02 12:31</span>
             </div>
         </div>
 </div>
@@ -176,6 +164,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxv6q6rag174ayic3bne3.png" alt="AWS Community Day Ecuador 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/barbara_gaspar/aws-community-day-ecuador-2025-204g" target="_blank">AWS Community Day Ecuador 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-02 16:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Swiggy Rolls Out Hermes V3: From Text-to-SQL to Conversational AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -211,15 +208,6 @@
                 <span class="time">2026-01-02 14:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18809603&w=600" alt="Is TOON a Boon for AI Communication, LLM Token Cost Economics?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/toon-ai-communication-llm-token-costs" target="_blank">Is TOON a Boon for AI Communication, LLM Token Cost Economics?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-02 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/gizmodoCES2026liveblog-1280x853.jpg" alt="Live Updates From CES 2026 in Las Vegas 🔴" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/live-updates-from-ces-2026-in-las-vegas-2000697509" target="_blank">Live Updates From CES 2026 in Las Vegas 🔴</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-02 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Clicks-Power-Keyboard-1-1280x853.jpg" alt="The Clicks BlackBerry-Like Phone Keyboard Finally Makes Sense" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +290,6 @@
                 <span class="time">2026-01-02 13:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GX9DNHN2BZQ1010NXVPMM/hero-image.jpg" alt="Why You Should Think of New Habits As Skills" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/think-of-new-habits-as-skills?utm_medium=RSS" target="_blank">Why You Should Think of New Habits As Skills</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-02 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,22 +313,13 @@
                 <span class="time">2026-01-02 02:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1766899991-20260101-edit.png" alt="Saturday Morning Breakfast Cereal - Language" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/language-6" target="_blank">Saturday Morning Breakfast Cereal - Language</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-01 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
