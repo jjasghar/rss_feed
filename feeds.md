@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-02 07:03:32 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-02 08:02:19 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, January 02, 2026 - 07:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, January 02, 2026 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63bc/live/103723b0-e77e-11f0-aae2-2191c0e48a3b.jpg" alt="Maduro says Venezuela open to US talks on drug trafficking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyg23lj057o?at_medium=RSS&at_campaign=rss" target="_blank">Maduro says Venezuela open to US talks on drug trafficking</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-02 07:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/1/2/gaza-cousins-face-lost-youth-and-family-tragedy-after-amputations?traffic_source=rss" target="_blank">Gaza cousins face lost youth, and family tragedy, after amputations</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-02 07:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +104,20 @@
                 <span class="time">2026-01-01 23:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/1/venezuela-releases-more-prisoners-amid-us-pressure-campaign-rights-groups?traffic_source=rss" target="_blank">Venezuela releases more prisoners amid US pressure campaign: Rights groups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-01 23:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/01/g-s1-104249/taiwan-president-sovereignty-china-military-drills" target="_blank">Taiwan&#x27;s president pledges to defend island&#x27;s sovereignty after Chinese military drills</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-01 23:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/850992/petkit-ai-camera-yumshare-daily-feast-automatic-wet-food-feeder-eversweet-ultra-fountain" target="_blank">Petkit’s first automatic wet food feeder keeps track of how much your pet eats</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-02 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +163,38 @@
                 <span class="time">2026-01-01 20:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/01/openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens/" target="_blank">OpenAI bets big on audio as Silicon Valley declares war on screens</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-01 18:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/01/02/the-most-dangerous-shortcuts-in-software/" target="_blank">The most dangerous shortcuts in software</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-01-02 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/understand-aws-cloud-security-governance-and-compliance-concepts-773" target="_blank">Understand AWS Cloud Security, Governance, and Compliance Concepts</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-02 07:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/" target="_blank">10 years of personal finances in plain text files</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-01-02 06:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,33 +220,6 @@
                 <span class="title"><a href="https://dev.to/softwarerbm/where-predictive-analytics-demand-forecasting-ai-inventory-transform-supply-chain-success-1oa2" target="_blank">Where Predictive Analytics, Demand Forecasting &amp; AI Inventory Transform Supply Chain Success</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-02 03:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vgqqz6hqrtl66eoblz6.jpg" alt="🚀 Nike Website Clone | React + TypeScript + Tailwind CSS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/reactjsguru/nike-website-clone-react-typescript-tailwind-css-1015" target="_blank">🚀 Nike Website Clone | React + TypeScript + Tailwind CSS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-02 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/" target="_blank">Happy Public Domain Day 2026</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-02 01:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Steam-December-2025-Survey" target="_blank">Steam On Linux Ends 2025 With 3.19% Marketshare, AMD Linux CPU Use Approaches 72%</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-02 01:23</span>
             </div>
         </div>
 </div>
@@ -305,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 07:03 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
