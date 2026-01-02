@@ -1,26 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-02 17:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-02 18:02:09 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 18 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, January 02, 2026 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, January 02, 2026 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/02/anthony-joshuas-driver-charged-with-dangerous-driving-after-fatal-crash-in-nigeria" target="_blank">Anthony Joshua’s driver charged with dangerous driving after fatal crash in Nigeria</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-02 17:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/switzerland-fire-sign-gty-jt-260102_1767368539610_hpMain_4x3t_384.jpg" alt="Sparklers in champagne bottles may have led to deadly Swiss fire: Investigators" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/sparkling-candles-led-deadly-new-years-swiss-resort/story?id=128846606" target="_blank">Sparklers in champagne bottles may have led to deadly Swiss fire: Investigators</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-02 17:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51a4/live/4d1c9f40-e804-11f0-b67b-690eb873de1b.jpg" alt="Swiss bar fire likely started by sparklers on champagne bottles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq6v41jg9jzo?at_medium=RSS&at_campaign=rss" target="_blank">Swiss bar fire likely started by sparklers on champagne bottles</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-02 17:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767372150905_now_brk_fbi_foils_nc_terror_260102_1920x1080-mvqzov.jpg" alt="Law enforcement foils ISIS-inspired New Year&#x27;s Eve terror attack in North Carolina" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,38 +99,29 @@
                 <span class="time">2026-01-02 15:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/2/pakistan-court-sentences-journalists-to-life-over-2023-pro-khan-protests?traffic_source=rss" target="_blank">Pakistan court sentences journalists to life over 2023 pro-Khan protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-02 14:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/2/did-tony-blair-influence-trial-of-uk-soldiers-accused-of-killing-iraqi-man?traffic_source=rss" target="_blank">Did Tony Blair influence trial of UK soldiers accused of killing Iraqi man?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-02 14:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/02/g-s1-104265/trump-iran-protests" target="_blank">Trump and Iran start 2026 exchanging new threats on social media</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-02 13:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/02/10-useful-gadgets-for-your-first-apartment/" target="_blank">10 useful gadgets for your first apartment</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-02 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/charitydrive2025-500x500.jpg" alt="Final reminder: Donate to win swag in our annual Charity Drive sweepstakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/01/final-reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-4/" target="_blank">Final reminder: Donate to win swag in our annual Charity Drive sweepstakes</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-02 17:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,24 +158,6 @@
                 <span class="time">2026-01-02 13:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/849740/punkt-mc03-secure-smartphone-made-in-germany" target="_blank">Punkt’s German-made MC03 smartphone comes to the US this spring</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-02 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/852545/samsung-adds-much-needed-brightness-to-its-freestyle-projector" target="_blank">Samsung adds much needed brightness to its Freestyle projector</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-02 08:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -161,6 +170,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gixy/gixy-next-nginx-configuration-misconfiguration-scanner-143b" target="_blank">Gixy-Next: NGINX Configuration Misconfiguration Scanner</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-02 17:54</span>
             </div>
         </div>
 <div class="story">
@@ -197,15 +215,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/01/02/a-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge/" target="_blank">A new worst coder has entered the chat: vibe coding without code knowledge</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-01-02 14:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/RadeonSI-NIR-Comp-Refactoring" target="_blank">RadeonSI Starts 2026 With NIR Compilation Refactoring For Better Performance, Lower GLSL Compile Times</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-02 14:42</span>
             </div>
         </div>
 </div>
@@ -246,6 +255,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KDZNMKJYZ90G9AE0E9FJG7FC/hero-image.png" alt="Petkit Just Announced Three New Smart Devices for Your Pets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/petkit-has-three-new-smart-devices-for-pets?utm_medium=RSS" target="_blank">Petkit Just Announced Three New Smart Devices for Your Pets</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-02 16:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Clicks-Power-Keyboard-1-1280x853.jpg" alt="The Clicks BlackBerry-Like Phone Keyboard Finally Makes Sense" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -281,15 +299,6 @@
                 <span class="time">2026-01-02 14:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/Google-Pixel-Buds-Pro-2-1280x853.jpg" alt="Google Pixel Buds Pro 2 Drop to All-Time Low to Start the New Year, Now Priced Like Older Models Despite Being 2025’s Latest ANC Earbuds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/google-pixel-buds-pro-2-drop-to-all-time-low-to-start-the-new-year-now-priced-like-older-models-despite-being-2025s-latest-anc-earbuds-2000656364" target="_blank">Google Pixel Buds Pro 2 Drop to All-Time Low to Start the New Year, Now Priced Like Older Models Despite Being 2025’s Latest ANC Earbuds</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-02 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
