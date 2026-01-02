@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-02 19:01:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-02 20:01:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 23 feeds processed -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, January 02, 2026 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, January 02, 2026 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/02/g-s1-104284/dhs-pause-immigration-applications-20-countries" target="_blank">DHS pauses immigration applications for an additional 20 countries</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-02 19:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +101,29 @@
                 <span class="time">2026-01-02 15:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44bd/live/e6b33050-e7e7-11f0-b44a-2d5156cff513.jpg" alt="&#x27;Living a nightmare&#x27;: Families of teens missing after ski resort fire desperate for news" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c07xn220gdeo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Living a nightmare&#x27;: Families of teens missing after ski resort fire desperate for news</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-02 15:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/853191/grok-explicit-bikini-pictures-minors" target="_blank">Grok is undressing anyone, including minors</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-02 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/" target="_blank">India orders Musk’s X to fix Grok over “obscene” AI content</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-02 18:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +160,6 @@
                 <span class="time">2026-01-02 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6957d981bdee755f1384e2c7/master/pass/2253053180" alt="Tesla Loses Its EV Crown to BYD as Sales Keep Dropping" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/byd-trounces-tesla-in-ev-sales-for-the-first-time/" target="_blank">Tesla Loses Its EV Crown to BYD as Sales Keep Dropping</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-02 14:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/852628/lg-gram-pro-17-16-laptop-2026-ces" target="_blank">LG announces the &amp;#8216;world’s lightest 17-inch RTX laptop&amp;#8217;</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-02 13:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,9 +178,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/koralarts/fundamentals-documentation-and-discomfort-keys-to-dev-growth-310n" target="_blank">Fundamentals, Documentation, and Discomfort: Keys to Dev Growth</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-02 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html" target="_blank">Fighting Fire with Fire: Scalable Oral Exams</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-02 18:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gixy/gixy-next-nginx-configuration-misconfiguration-scanner-143b" target="_blank">Gixy-Next: NGINX Configuration Misconfiguration Scanner</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-02 17:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Inaccuracy-OOM-High-CPUs" target="_blank">Linux Addressing Out-Of-Memory Killer Inaccuracy On Large Core Count Systems</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-02 17:50</span>
             </div>
         </div>
 <div class="story">
@@ -185,33 +217,6 @@
                 <span class="title"><a href="https://dev.to/barbara_gaspar/aws-community-day-ecuador-2025-204g" target="_blank">AWS Community Day Ecuador 2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-02 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Swiggy Rolls Out Hermes V3: From Text-to-SQL to Conversational AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/swiggy-hermes-conversational-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Swiggy Rolls Out Hermes V3: From Text-to-SQL to Conversational AI</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-02 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2d39i1eja3urcbc04bjq.png" alt="Serverless Logging for Amazon Bedrock: From Invocation to Insight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sujitha_rasamsetty/serverless-logging-for-amazon-bedrock-from-invocation-to-insight-12pe" target="_blank">Serverless Logging for Amazon Bedrock: From Invocation to Insight</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-02 14:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/01/02/a-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge/" target="_blank">A new worst coder has entered the chat: vibe coding without code knowledge</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-01-02 14:43</span>
             </div>
         </div>
 </div>
@@ -242,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/maxresdefault-4.jpg" alt="Microsoft Tells Piggies To Stop Calling It AI Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/microsoft-ai-slop-satya-nadella-2000656473" target="_blank">Microsoft Tells Piggies To Stop Calling It AI Slop</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-02 19:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KDZYF38Q3R921W3HME5ACQVW/hero-image.png" alt="This New Android Smartphone Is For Everyone Who Misses the Blackberry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/this-new-android-smartphone-is-for-everyone-who-misses-the-blackberry?utm_medium=RSS" target="_blank">This New Android Smartphone Is For Everyone Who Misses the Blackberry</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-02 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/gizmodoCES2026liveblog-1280x853.jpg" alt="Live Updates From CES 2026 in Las Vegas 🔴" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +301,6 @@
                 <span class="time">2026-01-02 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/muppet-show-2026-miss-piggy-sabrina-carpenter-1280x853.jpg" alt="Icon Meets Icon in the New Trailer for ‘The Muppet Show’ Revival" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-muppet-show-50th-anniversary-trailer-sabrina-carpenter-2000704814" target="_blank">Icon Meets Icon in the New Trailer for ‘The Muppet Show’ Revival</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-02 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/Asus-ROG-Xbox-Ally-1280x853.jpg" alt="ASUS Goes All-In on Gaming Handheld Console, ROG Xbox Ally 7″ Hits a Record Low as 2026 Begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/asus-goes-all-in-on-gaming-handheld-console-rog-xbox-ally-7-hits-a-record-low-as-2026-begins-2000656361" target="_blank">ASUS Goes All-In on Gaming Handheld Console, ROG Xbox Ally 7″ Hits a Record Low as 2026 Begins</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-02 14:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 41 | 📸 With Images: 276 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
