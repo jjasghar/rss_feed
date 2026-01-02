@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-02 15:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-02 16:02:13 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, January 02, 2026 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, January 02, 2026 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/02/nx-s1-5664809/george-clooney-french-citizenship-trump" target="_blank">George Clooney gets French citizenship — and another dust-up with Trump</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-02 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/2/pakistan-court-sentences-journalists-to-life-over-2023-pro-khan-protests?traffic_source=rss" target="_blank">Pakistan court sentences journalists to life over 2023 pro-Khan protests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-02 14:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,30 +94,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4914/live/78be5540-e015-11f0-a174-b3b49d9e9906.jpg" alt="Record year for wind and solar electricity in Great Britain in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767357111809_tdy_news_7a_hamamdijian_ski_resort_fire_260101_1920x1080-rr0s7i.jpg" alt="Fire at Swiss Ski Resort Bar Leaves About 40 People Killed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz947djd3d3o?at_medium=RSS&at_campaign=rss" target="_blank">Record year for wind and solar electricity in Great Britain in 2025</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-02 11:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01e3/live/698d1be0-e7ce-11f0-b037-23db8319b430.jpg" alt="Weather warnings extended as ice and snow blanket parts of UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1jednyk611o?at_medium=RSS&at_campaign=rss" target="_blank">Weather warnings extended as ice and snow blanket parts of UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-02 11:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5148/live/09e4b940-e7ca-11f0-a951-db7efd6ff4fd.jpg" alt="Trump warns US will intervene if Iran kills protesters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss" target="_blank">Trump warns US will intervene if Iran kills protesters</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-02 11:27</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/40-people-killed-after-fire-sweeps-through-swiss-ski-resort-bar-255288901911" target="_blank">Fire at Swiss Ski Resort Bar Leaves About 40 People Killed</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-02 12:31</span>
             </div>
         </div>
 </div>
@@ -108,6 +107,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/852630/microsoft-ceo-satya-nadella-scratchpad-blog-ai-slop-comments" target="_blank">Microsoft CEO Satya Nadella is now blogging about AI slop</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-02 15:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,15 +161,6 @@
                 <span class="time">2026-01-02 08:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/850992/petkit-ai-camera-yumshare-daily-feast-automatic-wet-food-feeder-eversweet-ultra-fountain" target="_blank">Petkit’s first automatic wet food feeder keeps track of how much your pet eats</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-02 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +173,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Swiggy Rolls Out Hermes V3: From Text-to-SQL to Conversational AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/swiggy-hermes-conversational-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Swiggy Rolls Out Hermes V3: From Text-to-SQL to Conversational AI</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-02 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -204,21 +212,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18809603&w=600" alt="Is TOON a Boon for AI Communication, LLM Token Cost Economics?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/December-2025-Recap" target="_blank">Radeon Linux Driver Enhancements, Linux 6.19 Activity &amp; Other December Highlights</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-02 13:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/j-brooke/FracturedJson/wiki" target="_blank">FracturedJson</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-02 12:46</span>
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/toon-ai-communication-llm-token-costs" target="_blank">Is TOON a Boon for AI Communication, LLM Token Cost Economics?</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-02 14:00</span>
             </div>
         </div>
 </div>
@@ -249,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Clicks-Power-Keyboard-1-1280x853.jpg" alt="The Clicks BlackBerry-Like Phone Keyboard Finally Makes Sense" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-clicks-blackberry-like-phone-keyboard-finally-makes-sense-2000704812" target="_blank">The Clicks BlackBerry-Like Phone Keyboard Finally Makes Sense</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-02 15:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/Year2025badge2-1280x720.jpg" alt="2025: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/2025-review-ea-gaza-microsoft-trump-2000656422" target="_blank">2025: The Kotaku Review</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-02 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/muppet-show-2026-miss-piggy-sabrina-carpenter-1280x853.jpg" alt="Icon Meets Icon in the New Trailer for ‘The Muppet Show’ Revival" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,24 +300,6 @@
                 <span class="title"><a href="https://lifehacker.com/think-of-new-habits-as-skills?utm_medium=RSS" target="_blank">Why You Should Think of New Habits As Skills</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-02 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/anime-in-january-io9-template-4-A-1280x853.jpg" alt="There Is Almost Too Much Anime to Watch This Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/there-is-almost-too-much-anime-to-watch-this-month-2000704345" target="_blank">There Is Almost Too Much Anime to Watch This Month</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-01 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Headway-Premium.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Level up your life 15 minutes at a time with a Headway subscription for 80% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/01/level-up-your-life-15-minutes-at-a-time-with-a-headway-subscription-for-80-off.html" target="_blank">Level up your life 15 minutes at a time with a Headway subscription for 80% off</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-01 22:00</span>
             </div>
         </div>
 </div>
@@ -340,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
