@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-02 09:03:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-02 10:02:02 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, January 02, 2026 - 09:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, January 02, 2026 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -169,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/javadinteger/devops-tooling-masterclass-complete-practical-guide-for-engineers-ak7" target="_blank">DevOps Tooling Masterclass — Complete Practical Guide for Engineers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-02 09:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/articles/architects-dilemma/en/headerimage/architect-dillema-choose-path-or-pave-your-own-way-header-1767021524605.jpg" alt="Article: The Architect’s Dilemma: Choose a Proven Path or Pave Your Own Way?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -189,6 +191,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://standardebooks.org/blog/public-domain-day-2026" target="_blank">Standard Ebooks: Public Domain Day 2026 in Literature</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-02 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2026/01/02/the-most-dangerous-shortcuts-in-software/" target="_blank">The most dangerous shortcuts in software</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -202,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/aws-builders/understand-aws-cloud-security-governance-and-compliance-concepts-773" target="_blank">Understand AWS Cloud Security, Governance, and Compliance Concepts</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-02 07:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/" target="_blank">10 years of personal finances in plain text files</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-01-02 06:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.3.3-Released" target="_blank">Mesa 25.3.3 Ships Latest Bug Fixes, Intel Vulkan GTK4 Toolkit Workarounds</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-02 05:00</span>
             </div>
         </div>
 </div>
@@ -318,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 09:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
