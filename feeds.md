@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-02 21:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-02 22:01:26 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, January 02, 2026 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, January 02, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e515/live/13f16920-e819-11f0-839a-cb59c476f427.jpg" alt="Weather warnings extended as snow and ice blanket parts of UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1jednyk611o?at_medium=RSS&at_campaign=rss" target="_blank">Weather warnings extended as snow and ice blanket parts of UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-02 21:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/2/palestine-advocates-praise-nycs-mamdani-for-revoking-pro-israel-decrees?traffic_source=rss" target="_blank">Palestine advocates praise NYC’s Mamdani for revoking pro-Israel decrees</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-02 21:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cq6v41jg9jzo?at_medium=RSS&at_campaign=rss" target="_blank">Swiss bar fire likely started by sparklers on champagne bottles</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-02 17:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767372150905_now_brk_fbi_foils_nc_terror_260102_1920x1080-mvqzov.jpg" alt="Law enforcement foils ISIS-inspired New Year&#x27;s Eve terror attack in North Carolina" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/law-enforcement-foils-isis-inspired-new-year-s-eve-terror-attack-in-north-carolina-255298629811" target="_blank">Law enforcement foils ISIS-inspired New Year&#x27;s Eve terror attack in North Carolina</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-02 16:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/02/nx-s1-5664809/george-clooney-french-citizenship-trump" target="_blank">George Clooney gets French citizenship — and another dust-up with Trump</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-02 15:50</span>
             </div>
         </div>
 </div>
@@ -176,6 +176,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fgithub.com%2FPuzer%2Fgithub-repo-embeddings%2Fraw%2Fmain%2Fimages%2Fimg_1.jpg" alt="Training GitHub Repository Embeddings using Stars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dmitry_nikitko_ea8cddb8ce/training-github-repository-embeddings-using-stars-177l" target="_blank">Training GitHub Repository Embeddings using Stars</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-02 21:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/01/microsoft-llm-contextual-privacy/en/headerimage/microsoft-llm-contextual-privacy-1767385842726.jpeg" alt="Microsoft Research Develops Novel Approaches to Enforce Privacy in AI Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -211,15 +220,6 @@
                 <span class="time">2026-01-02 19:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html" target="_blank">Fighting Fire with Fire: Scalable Oral Exams</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-02 18:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/donald-trump-e1764689813387.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Trump ignores doctors on aspirin because he wants &quot;thin blood&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/02/trump-ignores-doctors-on-aspirin-because-he-wants-thin-blood.html" target="_blank">Trump ignores doctors on aspirin because he wants &quot;thin blood&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-02 21:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/maxresdefault-4.jpg" alt="Microsoft Tells Piggies To Stop Calling It AI Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +302,6 @@
                 <span class="time">2026-01-02 15:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/Year2025badge2-1280x720.jpg" alt="2025: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/2025-review-ea-gaza-microsoft-trump-2000656422" target="_blank">2025: The Kotaku Review</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-02 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
