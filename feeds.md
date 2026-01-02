@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-02 02:36:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-02 03:29:56 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, January 02, 2026 - 02:36 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, January 02, 2026 - 03:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/2/turkmenistan-legalises-crypto-mining-and-exchanges-in-shift-for-economy?traffic_source=rss" target="_blank">Turkmenistan legalises crypto mining and exchanges in shift for economy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-02 02:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/453d/live/1a030b10-e64e-11f0-a8dc-93c15fe68710.jpg" alt="Chickenpox vaccines for young children start across UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgexe201n81o?at_medium=RSS&at_campaign=rss" target="_blank">Chickenpox vaccines for young children start across UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-02 00:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767310646082_nn_dha_swiss_fire_260101_1920x1080-nagnbh.jpg" alt="About 40 killed in New Year’s Eve fire at Swiss Alps bar" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,24 +103,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/01/g-s1-104241/iran-protests-deaths-economy" target="_blank">Deaths reported during widening protests in Iran sparked by ailing economy</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-01 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/1/us-says-chinese-military-drills-around-taiwan-cause-unnecessary-tensions?traffic_source=rss" target="_blank">US says Chinese military drills around Taiwan cause unnecessary tensions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-01 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87cc/live/d292cee0-e74d-11f0-b67b-690eb873de1b.jpg" alt="Around 40 dead in Swiss ski resort bar fire, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss" target="_blank">Around 40 dead in Swiss ski resort bar fire, police say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-01 21:55</span>
             </div>
         </div>
 </div>
@@ -167,12 +170,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/softwarerbm/where-predictive-analytics-demand-forecasting-ai-inventory-transform-supply-chain-success-1oa2" target="_blank">Where Predictive Analytics, Demand Forecasting &amp; AI Inventory Transform Supply Chain Success</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-02 03:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vgqqz6hqrtl66eoblz6.jpg" alt="🚀 Nike Website Clone | React + TypeScript + Tailwind CSS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/reactjsguru/nike-website-clone-react-typescript-tailwind-css-1015" target="_blank">🚀 Nike Website Clone | React + TypeScript + Tailwind CSS</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-02 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/" target="_blank">Happy Public Domain Day 2026</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-02 01:42</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +221,6 @@
                 <span class="title"><a href="https://henry.codes/writing/a-website-to-destroy-all-websites/" target="_blank">A website to destroy all websites</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-01 20:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Haiku-0.0.1" target="_blank">NVIDIA Graphics On Haiku OS Make Progress With NVIDIA Open Kernel Modules + NVK/Zink</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-01 20:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18807303&w=600" alt="Automating Monolith Migration for Resource-Constrained Edge Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/automating-monolith-migration-for-resource-constra" target="_blank">Automating Monolith Migration for Resource-Constrained Edge Systems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-01 20:00</span>
             </div>
         </div>
 </div>
@@ -316,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 02:36 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 03:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
