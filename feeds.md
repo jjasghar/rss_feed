@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-02 18:02:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-02 19:01:31 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 0 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, January 02, 2026 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, January 02, 2026 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -327,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
