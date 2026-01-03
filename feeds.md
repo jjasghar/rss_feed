@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-03 13:09:46 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-03 14:01:29 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, January 03, 2026 - 13:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, January 03, 2026 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/1/3/live-senegal-vs-sudan-afcon-2025?traffic_source=rss" target="_blank">LIVE: Senegal vs Sudan – AFCON 2025</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-03 13:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9e6/live/bb3e5080-e8a0-11f0-b4b3-f5118369b77f.jpg" alt="UK &#x27;not involved in any way&#x27; in US strike on Venezuela, Starmer says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy4qgvwxp08o?at_medium=RSS&at_campaign=rss" target="_blank">UK &#x27;not involved in any way&#x27; in US strike on Venezuela, Starmer says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-03 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cd6/live/7b80d550-e894-11f0-b4b3-f5118369b77f.png" alt="What we know about Maduro&#x27;s capture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,30 +91,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b410/live/7f4abd50-e88e-11f0-8ed1-91f1cd4c43fd.jpg" alt="Police identify first four victims of Swiss ski resort fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/f_mo_lon_miami_celebrations_260103.00_00_03_18.Still001-u24q82.jpg" alt="Venezuelan community in Miami celebrate after Maduro’s capture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss" target="_blank">Police identify first four victims of Swiss ski resort fire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-03 10:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/03/nx-s1-5665110/politics-2026-trump-midterms" target="_blank">What will Trump do next politically? 13 questions for politics in 2026</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-03 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/03/nx-s1-5665110/politics-2026-trump-midterms" target="_blank">What will Trump do next? 13 questions for politics in 2026</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-03 10:00</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/venezuelan-community-in-miami-celebrates-after-maduro-s-capture-255333957665" target="_blank">Venezuelan community in Miami celebrate after Maduro’s capture</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-03 11:58</span>
             </div>
         </div>
 </div>
@@ -107,6 +104,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/852598/mui-board-smart-home-controller-matter" target="_blank">This smart home controller is literally a piece of wood</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-03 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/695832532f39cd7f40df46f5/master/pass/Framework%20Laptop%2016%20(RTX%205070)%20top%20art%20122025%20SOURCE%20Framework.jpg" alt="Framework Laptop 16 (RTX 5070) Review: A Dream Come True" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +156,6 @@
                 <span class="title"><a href="https://arstechnica.com/ai/2026/01/no-grok-cant-really-apologize-for-posting-non-consensual-sexual-images/" target="_blank">No, Grok can’t really “apologize” for posting non-consensual sexual images</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-01-02 23:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/hubble-lrg3757-potw1151a-med-500x500.jpg" alt="Researchers spot Saturn-sized planet in the “Einstein desert”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/01/researchers-spot-saturn-sized-planet-in-the-einstein-desert/" target="_blank">Researchers spot Saturn-sized planet in the “Einstein desert”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-02 20:54</span>
             </div>
         </div>
 </div>
@@ -321,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
