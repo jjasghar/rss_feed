@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-02 23:01:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-03 00:04:47 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, January 02, 2026 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, January 03, 2026 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/2/chktesla-loses-place-as-worlds-top-electric-vehicle-seller-to-chinas-byd?traffic_source=rss" target="_blank">CHKTesla loses place as world’s top electric vehicle seller to China’s BYD</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-02 23:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +102,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/02/g-s1-104284/dhs-pause-immigration-applications-20-countries" target="_blank">DHS pauses immigration applications for an additional 20 countries</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-02 19:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/02/anthony-joshuas-driver-charged-with-dangerous-driving-after-fatal-crash-in-nigeria" target="_blank">Anthony Joshua’s driver charged with dangerous driving after fatal crash in Nigeria</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-01-02 17:48</span>
             </div>
         </div>
 </div>
@@ -224,6 +230,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-squid-found-in-light-fixture.html" target="_blank">Friday Squid Blogging: Squid Found in Light Fixture</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-01-02 22:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-shield-halved"></span>
                 <span class="title"><a href="https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/" target="_blank">The Kimwolf Botnet is Stalking Your Local Network</a></span>
                 <span class="feed">Krebs on Security</span>
@@ -245,12 +260,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/Matt.jpg" alt="Ex-Elder Scrolls Online Boss Breaks Silence On Game Cancelation That Drove Him From Microsoft" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/elder-scrolls-online-project-blackbird-shooter-rpg-canceled-microsoft-2000656493" target="_blank">Ex-Elder Scrolls Online Boss Breaks Silence On Game Cancelation That Drove Him From Microsoft</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-02 21:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/donald-trump-e1764689813387.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Trump ignores doctors on aspirin because he wants &quot;thin blood&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2026/01/02/trump-ignores-doctors-on-aspirin-because-he-wants-thin-blood.html" target="_blank">Trump ignores doctors on aspirin because he wants &quot;thin blood&quot;</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-02 21:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KDZX68GV520JN3TEGYYMC0TA/hero-image.jpg" alt="Punkt Has a New Smartphone for People Who Hate Smartphones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/punkt-mp03-privacy-focused-smartphone?utm_medium=RSS" target="_blank">Punkt Has a New Smartphone for People Who Hate Smartphones</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-02 20:30</span>
             </div>
         </div>
 <div class="story">
@@ -278,24 +311,6 @@
                 <span class="title"><a href="https://gizmodo.com/live-updates-from-ces-2026-in-las-vegas-2000697509" target="_blank">Live Updates From CES 2026 in Las Vegas 🔴</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-02 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KDZNMKJYZ90G9AE0E9FJG7FC/hero-image.png" alt="Petkit Just Announced Three New Smart Devices for Your Pets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/petkit-has-three-new-smart-devices-for-pets?utm_medium=RSS" target="_blank">Petkit Just Announced Three New Smart Devices for Your Pets</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-02 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Clicks-Power-Keyboard-1-1280x853.jpg" alt="The Clicks BlackBerry-Like Phone Keyboard Finally Makes Sense" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-clicks-blackberry-like-phone-keyboard-finally-makes-sense-2000704812" target="_blank">The Clicks BlackBerry-Like Phone Keyboard Finally Makes Sense</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-02 15:40</span>
             </div>
         </div>
 </div>
@@ -335,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
