@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-03 03:27:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-03 04:09:05 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, January 03, 2026 - 03:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, January 03, 2026 - 04:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2420/live/b9752650-e7fd-11f0-9c3d-2959bd14fc02.jpg" alt="Two bodies pulled from sea as search continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce3ewqew4weo?at_medium=RSS&at_campaign=rss" target="_blank">Two bodies pulled from sea as search continues</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-03 00:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2420/live/b9752650-e7fd-11f0-9c3d-2959bd14fc02.jpg" alt="Man, 67, dies after being pulled from sea as search continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -60,6 +76,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2026/01/02/nx-s1-5665112/trump-aspirin-325-81-mg-low-dose-cardiac-stroke-heart-attack-bleeding" target="_blank">Is Trump taking too much aspirin? Here&#x27;s what experts say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-02 23:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/missing-alabama-boy-main-ht-jt-260102_1767373262662_hpMain_4x3t_384.jpg" alt="Missing boy Johnathan Everett Boley found dead: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -75,24 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/2/chktesla-loses-place-as-worlds-top-electric-vehicle-seller-to-chinas-byd?traffic_source=rss" target="_blank">CHKTesla loses place as world’s top electric vehicle seller to China’s BYD</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-02 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/02/g-s1-104314/yemen-separatists-constitution" target="_blank">Yemen&#x27;s separatists announce a constitution for an independent south</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-02 22:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e515/live/13f16920-e819-11f0-839a-cb59c476f427.jpg" alt="Weather warnings extended as snow and ice blanket parts of UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1jednyk611o?at_medium=RSS&at_campaign=rss" target="_blank">Weather warnings extended as snow and ice blanket parts of UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-02 21:42</span>
             </div>
         </div>
 </div>
@@ -171,6 +178,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/farhadrahimiklie/best-movies-for-programmers-films-every-developer-should-watch-56n7" target="_blank">🎬 Best Movies for Programmers: Films Every Developer Should Watch</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-03 03:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Aeryn-OS-Ends-2025" target="_blank">Aeryn OS Continuing To Focus On Tooling &amp; Infrastructure In 2026</a></span>
                 <span class="feed">Phoronix</span>
@@ -202,15 +218,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/01/microsoft-llm-contextual-privacy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Research Develops Novel Approaches to Enforce Privacy in AI Models</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-01-02 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn937ph3ng3k4yildntpi.png" alt="3. Longest Substring Without Repeating Characters | LeetCode | Top Interview 150 | Coding Questions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/debeshpg90/3-longest-substring-without-repeating-characters-leetcode-top-interview-150-coding-questions-1jp4" target="_blank">3. Longest Substring Without Repeating Characters | LeetCode | Top Interview 150 | Coding Questions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-02 20:57</span>
             </div>
         </div>
 </div>
@@ -332,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 03:27 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 04:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
