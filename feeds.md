@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-01-03 01:29:33 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-01-03 02:31:26 UTC -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, January 03, 2026 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, January 03, 2026 - 02:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +47,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/ce3ewqew4weo?at_medium=RSS&at_campaign=rss" target="_blank">Man, 67, dies after being pulled from sea as search continues</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-03 00:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/missing-alabama-boy-main-ht-jt-260102_1767373262662_hpMain_4x3t_384.jpg" alt="Missing boy Johnathan Everett Boley found dead: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/missing-alabama-boy-4-found-dead-2-miles/story?id=128845278" target="_blank">Missing boy Johnathan Everett Boley found dead: Police</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-02 23:42</span>
             </div>
         </div>
 <div class="story">
@@ -89,15 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/2/palestine-advocates-praise-nycs-mamdani-for-revoking-pro-israel-decrees?traffic_source=rss" target="_blank">Palestine advocates praise NYC’s Mamdani for revoking pro-Israel decrees</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-02 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-switzerland-fire-le-constellation_7124791.jpg?20260102224103" alt="&#x27;We saw terrible things - it could have happened to me&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/swiss-bar-fire-we-saw-terrible-things-it-could-have-happened-to-me-13489801" target="_blank">&#x27;We saw terrible things - it could have happened to me&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-02 21:33</span>
             </div>
         </div>
 </div>
@@ -176,6 +170,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Aeryn-OS-Ends-2025" target="_blank">Aeryn OS Continuing To Focus On Tooling &amp; Infrastructure In 2026</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-03 01:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://xeiaso.net/notes/2026/year-linux-desktop/" target="_blank">2026 will be my year of the Linux desktop</a></span>
                 <span class="feed">Hacker News</span>
@@ -207,15 +210,6 @@
                 <span class="title"><a href="https://dev.to/debeshpg90/3-longest-substring-without-repeating-characters-leetcode-top-interview-150-coding-questions-1jp4" target="_blank">3. Longest Substring Without Repeating Characters | LeetCode | Top Interview 150 | Coding Questions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-02 20:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18807345&w=600" alt="Tired of Reverse-Engineering Code? A Data-First Pattern for Legacy Modernization" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/a-data-first-pattern-for-legacy-modernization" target="_blank">Tired of Reverse-Engineering Code? A Data-First Pattern for Legacy Modernization</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-02 20:00</span>
             </div>
         </div>
 </div>
@@ -332,22 +326,13 @@
                 <span class="time">2026-01-02 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5735.png" alt="Welcome Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5735" target="_blank">Welcome Back</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-01-02 02:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 02:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
