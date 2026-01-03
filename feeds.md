@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-03 11:01:17 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-01-03 12:02:20 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, January 03, 2026 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, January 03, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/VenezuelaUS_1767423900830_hpMain_4x3t_384.jpg" alt="US captures Maduro, carries out &#x27;large scale strike&#x27; in Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/explosions-heard-venezuelas-capital-city-caracas/story?id=128861598" target="_blank">US captures Maduro, carries out &#x27;large scale strike&#x27; in Venezuela</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-03 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b410/live/7f4abd50-e88e-11f0-8ed1-91f1cd4c43fd.jpg" alt="Police identify first four victims of Swiss ski resort fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +95,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/trump-maduro-and-his-wife-have-been-captured-and-flown-out-of-the-country-255332421861" target="_blank">Trump: Maduro and his wife have been &#x27;captured and flown out of the country&#x27;</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-01-03 09:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767428165711_nbc_spec_gaz_family_witness_250103_1920x1080-7zd625.jpg" alt="Residents in Caracas report power outages, helicopters overhead as explosions heard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/residents-in-caracas-report-power-outages-helicopters-overhead-as-explosions-hit-255332933691" target="_blank">Residents in Caracas report power outages, helicopters overhead as explosions heard</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-03 08:16</span>
             </div>
         </div>
 </div>
@@ -178,6 +173,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-GFX6-GFX7-VM-Faults" target="_blank">RADV Driver Lands Another Big Improvement For Early AMD GCN Graphics Cards</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-03 11:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://vectorculture.substack.com/p/not-for-human-consumption" target="_blank">Not for Human Consumption</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-03 11:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sathishvk/shipping-ai-generated-code-what-happens-after-it-works-3625" target="_blank">Shipping AI-Generated Code: What Happens After &quot;It Works&quot;</a></span>
                 <span class="feed">DEV Community</span>
@@ -200,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/farhadrahimiklie/best-movies-for-programmers-films-every-developer-should-watch-56n7" target="_blank">🎬 Best Movies for Programmers: Films Every Developer Should Watch</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-03 03:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Aeryn-OS-Ends-2025" target="_blank">Aeryn OS Continuing To Focus On Tooling &amp; Infrastructure In 2026</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-03 01:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://xeiaso.net/notes/2026/year-linux-desktop/" target="_blank">2026 will be my year of the Linux desktop</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-03 00:15</span>
             </div>
         </div>
 </div>
@@ -330,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
