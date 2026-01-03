@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-03 10:01:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-03 11:01:17 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, January 03, 2026 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, January 03, 2026 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,33 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b410/live/7f4abd50-e88e-11f0-8ed1-91f1cd4c43fd.jpg" alt="Police identify first four victims of Swiss ski resort fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss" target="_blank">Police identify first four victims of Swiss ski resort fire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-03 10:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/03/nx-s1-5665110/politics-2026-trump-midterms" target="_blank">What will Trump do next? 13 questions for politics in 2026</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-03 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-venezuela-caracas-us-strikes_7124970.jpg?20260103104751" alt="What we know about US strikes on Venezuela as Maduro &#x27;captured&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/what-we-know-about-us-strikes-on-venezuela-as-maduro-captured-13489880" target="_blank">What we know about US strikes on Venezuela as Maduro &#x27;captured&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-03 09:57</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -50,48 +85,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767433150502_nbc_spec_pal_trump_maduro_statement_260103_1920x1080-3auhtk.jpg" alt="Trump: Maduro and his wife have been &#x27;captured and flown out of the country&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-maduro-and-his-wife-have-been-captured-and-flown-out-of-the-country-255332421861" target="_blank">Trump: Maduro and his wife have been &#x27;captured and flown out of the country&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-03 09:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767428165711_nbc_spec_gaz_family_witness_250103_1920x1080-7zd625.jpg" alt="Residents in Caracas report power outages, helicopters overhead as explosions heard" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/video/residents-in-caracas-report-power-outages-helicopters-overhead-as-explosions-hit-255332933691" target="_blank">Residents in Caracas report power outages, helicopters overhead as explosions heard</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-01-03 08:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/03/g-s1-104329/explosions-caracas-venezuela" target="_blank">Multiple explosions heard in Venezuela&#x27;s Capital. Maduro accuses the U.S.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-03 08:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/1/3/live-loud-noises-heard-in-venezuelas-capital-amid-us-tensions?traffic_source=rss" target="_blank">Live: Loud noises heard in Venezuela’s capital amid US tensions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-03 07:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2420/live/b9752650-e7fd-11f0-9c3d-2959bd14fc02.jpg" alt="Two die and third person missing after coastal search" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce3ewqew4weo?at_medium=RSS&at_campaign=rss" target="_blank">Two die and third person missing after coastal search</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-03 07:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/1/3/live-saudi-arabia-invites-yemeni-factions-for-dialogue-amid-fighting?traffic_source=rss" target="_blank">Live: Saudi Arabia invites Yemeni factions for ‘dialogue’ amid fighting</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-03 05:56</span>
             </div>
         </div>
 </div>
@@ -323,7 +331,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 10:01 UTC
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
