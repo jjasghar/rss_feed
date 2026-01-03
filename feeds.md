@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-03 00:04:47 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-03 01:29:33 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, January 03, 2026 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, January 03, 2026 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2420/live/b9752650-e7fd-11f0-9c3d-2959bd14fc02.jpg" alt="Man, 67, dies after being pulled from sea as search continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce3ewqew4weo?at_medium=RSS&at_campaign=rss" target="_blank">Man, 67, dies after being pulled from sea as search continues</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-03 00:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +100,20 @@
                 <span class="time">2026-01-02 21:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/02/g-s1-104284/dhs-pause-immigration-applications-20-countries" target="_blank">DHS pauses immigration applications for an additional 20 countries</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-02 19:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2151878827-500x500.jpg" alt="No, Grok can’t really “apologize” for posting non-consensual sexual images" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/01/no-grok-cant-really-apologize-for-posting-non-consensual-sexual-images/" target="_blank">No, Grok can’t really “apologize” for posting non-consensual sexual images</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-02 23:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/hubble-lrg3757-potw1151a-med-500x500.jpg" alt="Researchers spot Saturn-sized planet in the “Einstein desert”" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,15 +159,6 @@
                 <span class="time">2026-01-02 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/charitydrive2025-500x500.jpg" alt="Final reminder: Donate to win swag in our annual Charity Drive sweepstakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/01/final-reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-4/" target="_blank">Final reminder: Donate to win swag in our annual Charity Drive sweepstakes</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-02 17:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +171,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://xeiaso.net/notes/2026/year-linux-desktop/" target="_blank">2026 will be my year of the Linux desktop</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-03 00:15</span>
             </div>
         </div>
 <div class="story">
@@ -211,15 +216,6 @@
                 <span class="title"><a href="https://dzone.com/articles/a-data-first-pattern-for-legacy-modernization" target="_blank">Tired of Reverse-Engineering Code? A Data-First Pattern for Legacy Modernization</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-01-02 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/koralarts/fundamentals-documentation-and-discomfort-keys-to-dev-growth-310n" target="_blank">Fundamentals, Documentation, and Discomfort: Keys to Dev Growth</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-02 19:50</span>
             </div>
         </div>
 </div>
@@ -350,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
