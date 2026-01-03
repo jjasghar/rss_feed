@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-03 15:01:19 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-01-03 16:02:05 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, January 03, 2026 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, January 03, 2026 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/3/jake-paul-loses-wba-cruiserweight-rankings-after-loss-to-anthony-joshua?traffic_source=rss" target="_blank">Jake Paul loses WBA cruiserweight ranking after loss to Anthony Joshua</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-03 15:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-venezuela-caracas-us-strikes_7124970.jpg?20260103104751" alt="&#x27;Dragged from their bedroom&#x27;: How the US struck Venezuela - and removed Maduro and wife" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/everything-we-know-about-us-strikes-on-venezuela-13489955" target="_blank">&#x27;Dragged from their bedroom&#x27;: How the US struck Venezuela - and removed Maduro and wife</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-03 14:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/01/1920x1080/skynews-venezuela-caracas-us-strikes_7124970.jpg?20260103104751" alt="Everything we know about US strikes on Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,24 +94,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss" target="_blank">What we know about Maduro&#x27;s capture</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-03 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/3/maduro-joins-iraqs-saddam-panamas-noriega-as-latest-leader-taken-by-us?traffic_source=rss" target="_blank">Maduro joins Iraq’s Saddam, Panama’s Noriega as latest leader taken by US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-03 12:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/VenezuelaUS_1767423900830_hpMain_4x3t_384.jpg" alt="US captures Maduro, carries out &#x27;large scale strike&#x27; in Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/explosions-heard-venezuelas-capital-city-caracas/story?id=128861598" target="_blank">US captures Maduro, carries out &#x27;large scale strike&#x27; in Venezuela</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-03 12:00</span>
             </div>
         </div>
 </div>
@@ -308,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
