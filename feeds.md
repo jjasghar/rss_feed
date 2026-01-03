@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-03 14:01:29 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-03 15:01:19 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, January 03, 2026 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, January 03, 2026 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-venezuela-caracas-us-strikes_7124970.jpg?20260103104751" alt="Everything we know about US strikes on Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/everything-we-know-about-us-strikes-on-venezuela-13489955" target="_blank">Everything we know about US strikes on Venezuela</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-03 14:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +96,6 @@
                 <span class="title"><a href="https://abcnews.go.com/International/explosions-heard-venezuelas-capital-city-caracas/story?id=128861598" target="_blank">US captures Maduro, carries out &#x27;large scale strike&#x27; in Venezuela</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-03 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/f_mo_lon_miami_celebrations_260103.00_00_03_18.Still001-u24q82.jpg" alt="Venezuelan community in Miami celebrate after Maduro’s capture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/venezuelan-community-in-miami-celebrates-after-maduro-s-capture-255333957665" target="_blank">Venezuelan community in Miami celebrate after Maduro’s capture</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-03 11:58</span>
             </div>
         </div>
 </div>
@@ -176,6 +175,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ramankumar/install-typesense-on-almalinux-10-5bab" target="_blank">Install Typesense on AlmaLinux 10</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-03 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hejhdiss/itertools-workbook-added-to-standard-library-learning-path-257h" target="_blank">itertools Workbook Added to Standard Library Learning Path</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-03 12:56</span>
@@ -208,15 +216,6 @@
                 <span class="time">2026-01-03 11:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sathishvk/shipping-ai-generated-code-what-happens-after-it-works-3625" target="_blank">Shipping AI-Generated Code: What Happens After &quot;It Works&quot;</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-03 06:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,15 +228,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-squid-found-in-light-fixture.html" target="_blank">Friday Squid Blogging: Squid Found in Light Fixture</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-01-02 22:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/" target="_blank">The Kimwolf Botnet is Stalking Your Local Network</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-01-02 14:20</span>
             </div>
         </div>
 </div>
@@ -318,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
