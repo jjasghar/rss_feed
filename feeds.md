@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-03 06:02:21 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-03 07:02:04 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, January 03, 2026 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, January 03, 2026 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,9 +51,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/1/3/live-saudi-arabia-invites-yemeni-factions-for-dialogue-amid-fighting?traffic_source=rss" target="_blank">Live: Saudi Arabia invites Yemeni factions for ‘dialogue’ amid fighting</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-03 05:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/3/us-coast-guard-suspends-search-for-survivors-of-pacific-boat-strike?traffic_source=rss" target="_blank">US Coast Guard suspends search for survivors of Pacific boat strike</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-03 04:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-iran-trump_7124830.jpg?20260103034423" alt="Iran threatens Trump after &#x27;locked and loaded&#x27; warning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/iran-threatens-trump-after-locked-and-loaded-warning-13489824" target="_blank">Iran threatens Trump after &#x27;locked and loaded&#x27; warning</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-03 00:43</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +101,20 @@
                 <span class="time">2026-01-02 23:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2026/01/02/nx-s1-5665112/trump-aspirin-325-81-mg-low-dose-cardiac-stroke-heart-attack-bleeding" target="_blank">Is Trump taking too much aspirin? Here&#x27;s what experts say</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-02 23:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/missing-alabama-boy-main-ht-jt-260102_1767373262662_hpMain_4x3t_384.jpg" alt="Missing boy Johnathan Everett Boley found dead: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/missing-alabama-boy-4-found-dead-2-miles/story?id=128845278" target="_blank">Missing boy Johnathan Everett Boley found dead: Police</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-02 23:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" alt="Factor Promo Code: Up to $130 Off Meal Prep" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/factor-promo-code/" target="_blank">Factor Promo Code: Up to $130 Off Meal Prep</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-03 06:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2151878827-500x500.jpg" alt="No, Grok can’t really “apologize” for posting non-consensual sexual images" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +160,6 @@
                 <span class="time">2026-01-02 18:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/02/10-useful-gadgets-for-your-first-apartment/" target="_blank">10 useful gadgets for your first apartment</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-02 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +172,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sathishvk/shipping-ai-generated-code-what-happens-after-it-works-3625" target="_blank">Shipping AI-Generated Code: What Happens After &quot;It Works&quot;</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-03 06:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="AWS Introduces Fifth-Generation Graviton Processor with M9g Instances" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/aws-graviton-m9g/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces Fifth-Generation Graviton Processor with M9g Instances</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-03 06:38</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +217,6 @@
                 <span class="title"><a href="https://xeiaso.net/notes/2026/year-linux-desktop/" target="_blank">2026 will be my year of the Linux desktop</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-03 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fgithub.com%2FPuzer%2Fgithub-repo-embeddings%2Fraw%2Fmain%2Fimages%2Fimg_1.jpg" alt="Training GitHub Repository Embeddings using Stars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dmitry_nikitko_ea8cddb8ce/training-github-repository-embeddings-using-stars-177l" target="_blank">Training GitHub Repository Embeddings using Stars</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-02 21:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/microsoft-llm-contextual-privacy/en/headerimage/microsoft-llm-contextual-privacy-1767385842726.jpeg" alt="Microsoft Research Develops Novel Approaches to Enforce Privacy in AI Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/microsoft-llm-contextual-privacy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Research Develops Novel Approaches to Enforce Privacy in AI Models</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-02 21:00</span>
             </div>
         </div>
 </div>
@@ -336,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
