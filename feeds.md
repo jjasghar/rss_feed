@@ -1,32 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-01-03 16:02:05 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-01-03 17:01:35 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, January 03, 2026 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, January 03, 2026 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/2253832201_1767424550079_hpMain_4x3t_384.jpg" alt="Venezuela live updates: Trump says US &#x27;going to run the country&#x27; after Maduro capture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/venezuela-live-updates-trump-give-details-after-us/?id=127792811" target="_blank">Venezuela live updates: Trump says US &#x27;going to run the country&#x27; after Maduro capture</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-03 16:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/03/nx-s1-5665659/venezuela-us-strikes-maduro" target="_blank">U.S. strikes on Venezuela spark alarm across Latin America and beyond</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-03 16:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +91,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/1/3/live-senegal-vs-sudan-afcon-2025?traffic_source=rss" target="_blank">LIVE: Senegal vs Sudan – AFCON 2025</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-03 13:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9e6/live/bb3e5080-e8a0-11f0-b4b3-f5118369b77f.jpg" alt="UK &#x27;not involved in any way&#x27; in US strike on Venezuela, Starmer says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy4qgvwxp08o?at_medium=RSS&at_campaign=rss" target="_blank">UK &#x27;not involved in any way&#x27; in US strike on Venezuela, Starmer says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-03 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cd6/live/7b80d550-e894-11f0-b4b3-f5118369b77f.png" alt="What we know about Maduro&#x27;s capture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss" target="_blank">What we know about Maduro&#x27;s capture</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-03 12:30</span>
             </div>
         </div>
 </div>
@@ -173,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/matetechnologie/filemate-pro-next-gen-file-explorer-in-python-3l5a" target="_blank">FileMate Pro – Next-Gen File Explorer in Python 🗂️✨</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-03 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ramankumar/install-typesense-on-almalinux-10-5bab" target="_blank">Install Typesense on AlmaLinux 10</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-03 14:51</span>
@@ -203,15 +209,6 @@
                 <span class="title"><a href="https://vectorculture.substack.com/p/not-for-human-consumption" target="_blank">Not for Human Consumption</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-03 11:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tallyai.money/" target="_blank">Tally – A tool to help agents classify your bank transactions</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-03 11:02</span>
             </div>
         </div>
 </div>
@@ -306,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
