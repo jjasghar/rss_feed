@@ -1,29 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-03 17:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-03 18:02:11 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, January 03, 2026 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, January 03, 2026 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9e6/live/bb3e5080-e8a0-11f0-b4b3-f5118369b77f.jpg" alt="Starmer won&#x27;t be drawn on whether US strikes on Venezuela broke international law" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy4qgvwxp08o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer won&#x27;t be drawn on whether US strikes on Venezuela broke international law</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-03 17:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/2253832201_1767424550079_hpMain_4x3t_384.jpg" alt="Venezuela live updates: Trump says US &#x27;going to run the country&#x27; after Maduro capture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,15 +94,6 @@
                 <span class="title"><a href="https://news.sky.com/story/everything-we-know-about-us-strikes-on-venezuela-13489955" target="_blank">Everything we know about US strikes on Venezuela</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-01-03 14:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/1/3/live-senegal-vs-sudan-afcon-2025?traffic_source=rss" target="_blank">LIVE: Senegal vs Sudan – AFCON 2025</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-03 13:33</span>
             </div>
         </div>
 </div>
@@ -169,10 +172,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Box64-0.4-Released" target="_blank">Box64 v0.4 Improves Support For DRM Protected Games, Steam Is Now More Stable</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-03 17:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/matetechnologie/filemate-pro-next-gen-file-explorer-in-python-3l5a" target="_blank">FileMate Pro – Next-Gen File Explorer in Python 🗂️✨</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-03 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://c3-lang.org" target="_blank">The C3 Programming Language</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-03 16:41</span>
             </div>
         </div>
 <div class="story">
@@ -191,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/hejhdiss/itertools-workbook-added-to-standard-library-learning-path-257h" target="_blank">itertools Workbook Added to Standard Library Learning Path</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-03 12:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-GFX6-GFX7-VM-Faults" target="_blank">RADV Driver Lands Another Big Improvement For Early AMD GCN Graphics Cards</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-03 11:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://vectorculture.substack.com/p/not-for-human-consumption" target="_blank">Not for Human Consumption</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-03 11:26</span>
             </div>
         </div>
 </div>
@@ -303,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
