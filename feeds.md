@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-03 21:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-03 22:01:38 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, January 03, 2026 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, January 03, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32b8/live/434dba00-e8d9-11f0-b67b-690eb873de1b.jpg" alt="What we know about Maduro&#x27;s capture and US plan to &#x27;run&#x27; Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss" target="_blank">What we know about Maduro&#x27;s capture and US plan to &#x27;run&#x27; Venezuela</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-03 21:34</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -60,6 +74,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cy4qgvwxp08o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer won&#x27;t be drawn on whether US strikes on Venezuela broke international law</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-03 17:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-switzerland-le-constellation_7125382.jpg?20260103172443" alt="Owners of Swiss bar devastated by fire under criminal investigation for negligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/managers-of-swiss-bar-where-fire-killed-40-during-new-years-event-face-criminal-investigation-13490061" target="_blank">Owners of Swiss bar devastated by fire under criminal investigation for negligence</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-03 17:45</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +103,20 @@
                 <span class="time">2026-01-03 16:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/03/nx-s1-5665659/venezuela-us-strikes-maduro" target="_blank">U.S. strikes on Venezuela spark alarm across Latin America and beyond</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-03 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/3/jake-paul-loses-wba-cruiserweight-rankings-after-loss-to-anthony-joshua?traffic_source=rss" target="_blank">Jake Paul loses WBA cruiserweight ranking after loss to Anthony Joshua</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-03 15:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/853765/someone-made-a-ton-of-money-betting-on-maduros-capture" target="_blank">Someone made a ton of money betting on Maduro’s capture</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-03 20:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +160,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/836627/ces-2026-news-gadgets-announcements" target="_blank">CES 2026: all the news, gadgets, and innovations from the biggest tech show</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-03 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="1Password Coupon: Score a Free Trial in January" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/1password-coupon/" target="_blank">1Password Coupon: Score a Free Trial in January</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-03 07:30</span>
             </div>
         </div>
 </div>
@@ -245,6 +250,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/1min.AI-Advanced-Business-Plan-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This app is democratizing business one AI app at a time — for 86% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/03/this-app-is-democratizing-business-one-ai-app-at-a-time-for-86-off.html" target="_blank">This app is democratizing business one AI app at a time — for 86% off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-03 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/04/Blank-Slate-Roller-2-1280x854.jpg" alt="EV Makers Could Struggle in 2026, but Jeff Bezos Might Have a Great 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -253,54 +267,13 @@
                 <span class="time">2026-01-03 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Promova-Premium-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This language-learning platform prioritizes accessibility, not pressure — now $55 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/02/this-language-learning-platform-prioritizes-accessibility-not-pressure-now-55-for-life.html" target="_blank">This language-learning platform prioritizes accessibility, not pressure — now $55 for life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-02 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/Matt.jpg" alt="Ex-Elder Scrolls Online Boss Breaks Silence On Game Cancelation That Drove Him From Microsoft" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/elder-scrolls-online-project-blackbird-shooter-rpg-canceled-microsoft-2000656493" target="_blank">Ex-Elder Scrolls Online Boss Breaks Silence On Game Cancelation That Drove Him From Microsoft</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-02 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/donald-trump-e1764689813387.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Trump ignores doctors on aspirin because he wants &quot;thin blood&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/02/trump-ignores-doctors-on-aspirin-because-he-wants-thin-blood.html" target="_blank">Trump ignores doctors on aspirin because he wants &quot;thin blood&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-02 21:43</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/02/absolute-penny-arcade-part-two" target="_blank">Absolute Penny Arcade: Part Two</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-02 21:36</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
