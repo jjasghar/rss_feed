@@ -1,39 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-03 22:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-03 23:02:08 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, January 03, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, January 03, 2026 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/maduro-plane-ht-jt-260103_1767477098807_hpMain_4x3t_384.jpg" alt="Venezuela live updates: Maduro arrives in New York to face federal charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/venezuela-live-updates-trump-give-details-after-us/?id=127792811" target="_blank">Venezuela live updates: Maduro arrives in New York to face federal charges</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-03 22:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/3/ten-man-mali-beat-tunisia-on-penalties-to-book-afcon-quarterfinal-place?traffic_source=rss" target="_blank">Ten-man Mali beat Tunisia on penalties to book AFCON quarterfinal place</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-03 22:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32b8/live/434dba00-e8d9-11f0-b67b-690eb873de1b.jpg" alt="What we know about Maduro&#x27;s capture and US plan to &#x27;run&#x27; Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +105,29 @@
                 <span class="time">2026-01-03 17:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260103-trump-conference-ch-1308-9340fe.jpg" alt="Trump says the U.S. will govern Venezuela until there&#x27;s a &#x27;proper transition&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/trump-venezuela-nicolas-maduro-strikes-run-country-transition-military-rcna252044" target="_blank">Trump says the U.S. will govern Venezuela until there&#x27;s a &#x27;proper transition&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-03 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/2253832201_1767424550079_hpMain_4x3t_384.jpg" alt="Venezuela live updates: Trump says US &#x27;going to run the country&#x27; after Maduro capture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/venezuela-live-updates-trump-give-details-after-us/?id=127792811" target="_blank">Venezuela live updates: Trump says US &#x27;going to run the country&#x27; after Maduro capture</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-03 16:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/03/california-residents-can-use-new-tool-to-demand-brokers-delete-their-personal-data/" target="_blank">California residents can use new tool to demand brokers delete their personal data</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-03 22:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69598302415dbc90cc58ef15/master/pass/Venezuela%20Maduro%201%202253885085.jpg" alt="What Happens Next in Venezuela—and the Rest of Latin America?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/what-happens-next-in-venezuela-and-the-rest-of-latin-america/" target="_blank">What Happens Next in Venezuela—and the Rest of Latin America?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-03 22:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,24 +164,6 @@
                 <span class="time">2026-01-03 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/695832532f39cd7f40df46f5/master/pass/Framework%20Laptop%2016%20(RTX%205070)%20top%20art%20122025%20SOURCE%20Framework.jpg" alt="Framework Laptop 16 (RTX 5070) Review: A Dream Come True" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/framework-laptop-16/" target="_blank">Framework Laptop 16 (RTX 5070) Review: A Dream Come True</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-03 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/836627/ces-2026-news-gadgets-announcements" target="_blank">CES 2026: all the news, gadgets, and innovations from the biggest tech show</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-03 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +176,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbiu3bswg5rf3p55in5vj.png" alt="How to automatically add bookmarks to a PDF?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anig1scur/how-to-automatically-add-bookmarks-to-a-pdf-49d2" target="_blank">How to automatically add bookmarks to a PDF?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-03 22:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://data.stackexchange.com/stackoverflow/query/1926661#graph" target="_blank">Total monthly number of StackOverflow questions over time</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-03 22:23</span>
             </div>
         </div>
 <div class="story">
@@ -201,38 +221,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Box64-0.4-Released" target="_blank">Box64 v0.4 Improves Support For DRM Protected Games, Steam Is Now More Stable</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-03 17:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/matetechnologie/filemate-pro-next-gen-file-explorer-in-python-3l5a" target="_blank">FileMate Pro – Next-Gen File Explorer in Python 🗂️✨</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-03 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://c3-lang.org" target="_blank">The C3 Programming Language</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-03 16:41</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-squid-found-in-light-fixture.html" target="_blank">Friday Squid Blogging: Squid Found in Light Fixture</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-01-02 22:04</span>
             </div>
         </div>
 </div>
@@ -272,8 +260,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
