@@ -1,30 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-01-03 02:31:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-03 03:27:46 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 1 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, January 03, 2026 - 02:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, January 03, 2026 - 03:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/ce3ewqew4weo?at_medium=RSS&at_campaign=rss" target="_blank">Man, 67, dies after being pulled from sea as search continues</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-03 00:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767397756019_nn_dha_swiss_fire_260102_1920x1080-bibskt.jpg" alt="Champagne sparklers likely started Swiss bar fire, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/champagne-sparklers-likely-started-swiss-bar-fire-officials-say-255317573803" target="_blank">Champagne sparklers likely started Swiss bar fire, officials say</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-02 23:49</span>
             </div>
         </div>
 <div class="story">
@@ -83,15 +93,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1jednyk611o?at_medium=RSS&at_campaign=rss" target="_blank">Weather warnings extended as snow and ice blanket parts of UK</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-02 21:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/2/palestine-advocates-praise-nycs-mamdani-for-revoking-pro-israel-decrees?traffic_source=rss" target="_blank">Palestine advocates praise NYC’s Mamdani for revoking pro-Israel decrees</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-02 21:36</span>
             </div>
         </div>
 </div>
@@ -331,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 02:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 03:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
