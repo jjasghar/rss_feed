@@ -1,38 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-01-04 01:30:33 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-04 02:44:22 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, January 04, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, January 04, 2026 - 02:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +59,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/03/g-s1-104412/venezuela-nicolas-maduro-maria-corina-machado-opposition" target="_blank">Who is María Corina Machado, Venezuela&#x27;s Nobel Peace Prize winning opposition leader?</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-04 01:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5456/live/f184aa00-e8ea-11f0-b67b-690eb873de1b.jpg" alt="Spies, drones and blowtorches: How the US captured Maduro" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdred61epg4o?at_medium=RSS&at_campaign=rss" target="_blank">Spies, drones and blowtorches: How the US captured Maduro</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-03 23:42</span>
             </div>
         </div>
 <div class="story">
@@ -93,20 +106,20 @@
                 <span class="time">2026-01-03 22:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/2253840880_1767434890147_hpMain_4x3t_384.jpg" alt="&#x27;What he ate&#x27;: Inside the meticulously planned operation to capture Maduro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/ate-inside-meticulously-planned-operation-capture-maduro/story?id=128871919" target="_blank">&#x27;What he ate&#x27;: Inside the meticulously planned operation to capture Maduro</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-03 22:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/03/tech-billionaires-cashed-out-16-billion-in-2025-as-stocks-soared/" target="_blank">Tech billionaires cashed out $16 billion in 2025 as stocks soared</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-03 23:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +165,6 @@
                 <span class="time">2026-01-03 19:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/853151/meta-quest-3s-apple-airtag-steam-winter-sale-deal" target="_blank">Meta’s Quest 3S is still $50 off and comes with a $50 gift card</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-03 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +177,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anuroopvj/i-made-a-python-package-to-store-ai-generated-images-along-with-their-context-prompt-model-info-16p6" target="_blank">I made a python package to store AI generated images along with their context (prompt, model info, etc)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-04 02:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fjall-3.0-Released" target="_blank">Rust-Based Fjall 3.0 Released For Key-Value Storage Engine Akin To RocksDB</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-04 01:19</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +222,6 @@
                 <span class="title"><a href="https://dev.to/blamsa0mine/laravel-vue-inertia-grpc-building-a-simple-bff-that-talks-to-a-grpc-user-service-3b21" target="_blank">Laravel + Vue (Inertia) + gRPC: building a simple BFF that talks to a gRPC User service</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-03 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cloudraptor/did-you-know-4h0k" target="_blank">Did you know?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-03 19:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Box64-0.4-Released" target="_blank">Box64 v0.4 Improves Support For DRM Protected Games, Steam Is Now More Stable</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-03 17:27</span>
             </div>
         </div>
 </div>
@@ -275,8 +279,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 02:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
