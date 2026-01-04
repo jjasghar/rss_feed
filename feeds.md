@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-04 12:02:24 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-01-04 13:10:22 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Dev.to -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, January 04, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, January 04, 2026 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +48,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2284/live/6ebfbca0-e7bd-11f0-b67b-690eb873de1b.png" alt="Starmer tells me he&#x27;ll survive - but can he keep this new year&#x27;s resolution?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly1lv92xrxo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer tells me he&#x27;ll survive - but can he keep this new year&#x27;s resolution?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-04 11:17</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/1/4/live-government-forces-control-multiple-cities-in-southern-yemen?traffic_source=rss" target="_blank">LIVE: Government forces control multiple cities in southern Yemen</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-04 10:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260103-donald-trump-venezuela-maduro-cs-3175dd.jpg" alt="A new Trump foreign policy doctrine emphasizes threats of regime change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/new-trump-foreign-policy-doctrine-emphasizes-threats-regime-change-rcna252093" target="_blank">A new Trump foreign policy doctrine emphasizes threats of regime change</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-04 10:00</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +101,20 @@
                 <span class="time">2026-01-04 06:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/04/g-s1-104439/venezuelans-wonder-who-in-charge" target="_blank">Venezuelans wonder who&#x27;s in charge as Trump claims contact with Maduro&#x27;s deputy</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-04 05:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/maduro-ny-12-ht-gmh-260103_1767498257816_hpMain_4x3t_384.jpg" alt="Venezuela live updates: Photos show handcuffed Maduro escorted by DEA administrator" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/venezuela-live-updates-trump-give-details-after-us/?id=127792811" target="_blank">Venezuela live updates: Photos show handcuffed Maduro escorted by DEA administrator</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-04 04:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/04/subtle-releases-ear-buds-with-its-noise-cancelation-models/" target="_blank">Subtle releases ear buds with its noise cancelation models</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-04 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" alt="Womanizer Coupons: Save 15% in December" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,15 +160,6 @@
                 <span class="time">2026-01-03 22:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69598302415dbc90cc58ef15/master/pass/Venezuela%20Maduro%201%202253885085.jpg" alt="What Happens Next in Venezuela—and the Rest of Latin America?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/what-happens-next-in-venezuela-and-the-rest-of-latin-america/" target="_blank">What Happens Next in Venezuela—and the Rest of Latin America?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-03 22:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +172,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/TrixiePup64-2601-Released" target="_blank">TrixiePup64 2601 Released For Debian 13 Powered Puppy Linux In Wayland &amp; X11 Flavors</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-04 12:25</span>
             </div>
         </div>
 <div class="story">
@@ -203,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/rogasper/how-to-build-a-secure-forgot-password-flow-with-otp-in-better-auth-4lek" target="_blank">How to Build a Secure Forgot Password Flow with OTP in Better Auth</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-04 07:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/define-the-aws-global-infrastructure-5eje" target="_blank">Define the AWS Global Infrastructure</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-04 06:00</span>
             </div>
         </div>
 </div>
@@ -260,8 +265,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
