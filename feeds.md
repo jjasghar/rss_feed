@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-04 15:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-04 16:01:32 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, January 04, 2026 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, January 04, 2026 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/04/nx-s1-5666246/trump-invasion-venezuela-opposition" target="_blank">Here&#x27;s a partial list of U.S. elected officials opposing Trump&#x27;s invasion of Venezuela</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-04 15:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/marco-rubio-2-abc-gmh-260104_1767540821224_hpMain_4x3t_384.jpg" alt="Rubio claims US is running &#x27;the direction&#x27; of Venezuela situation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/rubio-claims-us-running-direction-venezuela-situation/story?id=128885145" target="_blank">Rubio claims US is running &#x27;the direction&#x27; of Venezuela situation</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-04 15:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/4/nigeria-vs-mozambique-afcon-2025-team-news-start-time-lineups-lookman-osimhen?traffic_source=rss" target="_blank">Nigeria vs Mozambique: AFCON 2025 – team news, start time and lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-04 15:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,33 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cly1lv92xrxo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer tells me he&#x27;ll survive - but can he keep this new year&#x27;s resolution?</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-04 11:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/1/4/live-government-forces-control-multiple-cities-in-southern-yemen?traffic_source=rss" target="_blank">LIVE: Government forces control multiple cities in southern Yemen</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-04 10:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260103-donald-trump-venezuela-maduro-cs-3175dd.jpg" alt="A new Trump foreign policy doctrine emphasizes threats of regime change" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/new-trump-foreign-policy-doctrine-emphasizes-threats-regime-change-rcna252093" target="_blank">A new Trump foreign policy doctrine emphasizes threats of regime change</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-04 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c6d/live/57efd760-e8eb-11f0-aae2-2191c0e48a3b.jpg" alt="Trump says US will &#x27;run&#x27; Venezuela and &#x27;fix oil infrastructure&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd9enjeey3go?at_medium=RSS&at_campaign=rss" target="_blank">Trump says US will &#x27;run&#x27; Venezuela and &#x27;fix oil infrastructure&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-04 07:36</span>
             </div>
         </div>
 </div>
@@ -221,6 +224,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/battlefiled-6-1280x853.jpg" alt="Xbox Series X and PS5 Players Can Grab Battlefield 6 at Its Lowest Price, Over 40% Off to Start the New Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-series-x-and-ps5-players-can-grab-battlefield-6-at-its-lowest-price-over-40-off-to-start-the-new-year-2000648202" target="_blank">Xbox Series X and PS5 Players Can Grab Battlefield 6 at Its Lowest Price, Over 40% Off to Start the New Year</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-04 13:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/maduro-1280x853.jpg" alt="A Newly Created Polymarket Account Made $436,759.61 on Nicolás Maduro’s Capture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -247,22 +259,13 @@
                 <span class="time">2026-01-03 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/1min.AI-Advanced-Business-Plan-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This app is democratizing business one AI app at a time — for 86% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/03/this-app-is-democratizing-business-one-ai-app-at-a-time-for-86-off.html" target="_blank">This app is democratizing business one AI app at a time — for 86% off</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-03 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
