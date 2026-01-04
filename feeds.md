@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-04 09:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-04 10:02:00 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 1 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, January 04, 2026 - 09:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, January 04, 2026 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c6d/live/57efd760-e8eb-11f0-aae2-2191c0e48a3b.jpg" alt="Trump says US will &#x27;run&#x27; Venezuela and &#x27;fix oil infrastructure&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd9enjeey3go?at_medium=RSS&at_campaign=rss" target="_blank">Trump says US will &#x27;run&#x27; Venezuela and &#x27;fix oil infrastructure&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-04 07:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/4/us-republicans-back-trump-on-venezuela-amid-faint-maga-dissent?traffic_source=rss" target="_blank">US Republicans back Trump on Venezuela amid faint MAGA dissent</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-04 03:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260103-trump-ch-1200-7835a1.jpg" alt="A CIA team, steel doors and a fateful phone call: How the U.S. captured Maduro in Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/us-venezuela-strike-nicolas-maduro-captured-how-timeline-trump-rcna252041" target="_blank">A CIA team, steel doors and a fateful phone call: How the U.S. captured Maduro in Venezuela</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-04 02:34</span>
             </div>
         </div>
 </div>
@@ -268,8 +270,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 72 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
