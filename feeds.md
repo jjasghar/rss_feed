@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-04 14:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-04 15:01:28 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, January 04, 2026 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, January 04, 2026 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +50,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/04/nx-s1-5665737/us-and-latin-america" target="_blank">Venezuela is the latest in the U.S.&#x27;s long history of interventions in Latin America</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-04 12:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-la-guaira-venezuela_7125156.jpg?20260103143952" alt="Venezuela has the world&#x27;s largest oil reserves - but can Trump reverse the production decline?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/venezuela-has-the-worlds-largest-oil-reserves-but-can-trump-reverse-the-production-decline-13490273" target="_blank">Venezuela has the world&#x27;s largest oil reserves - but can Trump reverse the production decline?</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-04 12:27</span>
             </div>
         </div>
 <div class="story">
@@ -93,20 +97,20 @@
                 <span class="time">2026-01-04 07:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/4/north-korea-fires-missiles-towards-sea-as-south-korean-leader-visits-china?traffic_source=rss" target="_blank">North Korea fires missiles towards sea as South Korean leader visits China</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-04 06:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/853824/flappy-bird-game-version-history" target="_blank">The wild, intense rise and fall of Flappy Bird</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-04 14:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6859cd35076cba5cdfcdd66d/master/pass/HYDRATION%20PACKS.png" alt="15 Best Electrolyte Powders (2026): Tasty and Effective" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +154,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/03/tech-billionaires-cashed-out-16-billion-in-2025-as-stocks-soared/" target="_blank">Tech billionaires cashed out $16 billion in 2025 as stocks soared</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-03 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/853786/hollow-knight-silksong-steamawards-game-of-the-year" target="_blank">Surprise, surprise: Silksong wins Steam’s Game of the Year</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-03 23:04</span>
             </div>
         </div>
 </div>
@@ -266,8 +261,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
