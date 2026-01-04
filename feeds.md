@@ -1,40 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-04 19:01:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-04 20:01:54 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, January 04, 2026 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, January 04, 2026 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/aljazeerauntangles/2026/1/4/spanish-empire-sword-and-cross?traffic_source=rss" target="_blank">Spanish Empire: Sword and Cross</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-04 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/410e/live/d7e83be0-e997-11f0-a8dc-93c15fe68710.png" alt="Mother and daughter named as sea tragedy victims alongside man who tried to save them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +105,29 @@
                 <span class="time">2026-01-04 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/04/nx-s1-5666246/trump-invasion-venezuela-opposition" target="_blank">Here&#x27;s a partial list of U.S. elected officials opposing Trump&#x27;s invasion of Venezuela</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-04 15:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/854091/aliro-smart-lock-standard-launches-2026-apple-uwb-nfc" target="_blank">Aliro arrives – the smart lock standard is set to launch this year</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-04 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/695aacdd549c2434b696ec86/master/pass/2252639554" alt="Trump Wants Venezuela&#x27;s Oil. Getting It Might Not Be So Simple" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/trump-wants-venezuelas-oil-getting-it-might-not-be-so-simple/" target="_blank">Trump Wants Venezuela&#x27;s Oil. Getting It Might Not Be So Simple</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-04 19:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,24 +164,6 @@
                 <span class="time">2026-01-04 12:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/04/subtle-releases-ear-buds-with-its-noise-cancelation-models/" target="_blank">Subtle releases ear buds with its noise cancelation models</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-04 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" alt="Womanizer Coupons: Save 15% in December" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/womanizer-coupon/" target="_blank">Womanizer Coupons: Save 15% in December</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-04 07:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +176,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ikhaledabdelfattah/writing-docs-in-a-world-where-llms-are-the-readers-506a" target="_blank">Writing Docs in a World Where LLMs Are the Readers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-04 19:59</span>
             </div>
         </div>
 <div class="story">
@@ -213,15 +223,6 @@
                 <span class="time">2026-01-04 13:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/duckdb-iceberg-browser-s3/en/headerimage/generatedHeaderImage-1767167982751.jpg" alt="DuckDB&#x27;s WebAssembly Client Allows Querying Iceberg Datasets in the Browser" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/duckdb-iceberg-browser-s3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DuckDB&#x27;s WebAssembly Client Allows Querying Iceberg Datasets in the Browser</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-04 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -254,22 +255,13 @@
                 <span class="time">2026-01-03 22:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/StrangerThings_Will-2-1280x853.jpg" alt="The ‘Stranger Things’ Finale Turned Everyone Back Onto Prince" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-stranger-things-finale-turned-everyone-back-onto-prince-2000705068" target="_blank">The ‘Stranger Things’ Finale Turned Everyone Back Onto Prince</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-03 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
