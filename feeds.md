@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-03 23:02:08 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-04 00:05:50 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, January 03, 2026 - 23:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, January 04, 2026 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/1/3/what-are-the-implications-of-the-us-capture-of-nicolas-maduro?traffic_source=rss" target="_blank">What are the implications of US ‘capture’ of Nicolas Maduro?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-03 23:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/maduro-plane-ht-jt-260103_1767477098807_hpMain_4x3t_384.jpg" alt="Venezuela live updates: Maduro arrives in New York to face federal charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,39 +77,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/03/nx-s1-5665670/venezuela-strikes-us-maduro" target="_blank">What to know about the U.S. strikes in Venezuela — and the fallout</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-03 22:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/2253840880_1767434890147_hpMain_4x3t_384.jpg" alt="&#x27;What he ate&#x27;: Inside the meticulously planned operation to capture Maduro" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/ate-inside-meticulously-planned-operation-capture-maduro/story?id=128871919" target="_blank">&#x27;What he ate&#x27;: Inside the meticulously planned operation to capture Maduro</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-03 22:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32b8/live/434dba00-e8d9-11f0-b67b-690eb873de1b.jpg" alt="What we know about Maduro&#x27;s capture and US plan to &#x27;run&#x27; Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss" target="_blank">What we know about Maduro&#x27;s capture and US plan to &#x27;run&#x27; Venezuela</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-03 21:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/01/03/g-s1-104359/photos-aftermath-of-strikes-in-venezuela" target="_blank">Photos: Aftermath of strikes in Venezuela</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-03 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9e6/live/bb3e5080-e8a0-11f0-b4b3-f5118369b77f.jpg" alt="Starmer won&#x27;t be drawn on whether US strikes on Venezuela broke international law" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy4qgvwxp08o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer won&#x27;t be drawn on whether US strikes on Venezuela broke international law</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-03 17:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-switzerland-le-constellation_7125382.jpg?20260103172443" alt="Owners of Swiss bar devastated by fire under criminal investigation for negligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/managers-of-swiss-bar-where-fire-killed-40-during-new-years-event-face-criminal-investigation-13490061" target="_blank">Owners of Swiss bar devastated by fire under criminal investigation for negligence</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-03 17:45</span>
             </div>
         </div>
 </div>
@@ -229,6 +227,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/434dba00-e8d9-11f0-b67b-690eb873de1b.jpg.webp?fit=1536%2C864&amp;quality=55&amp;ssl=1" alt="Trump kidnaps Venezuelan President" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/03/trump-kidnaps-venezuelan-president.html" target="_blank">Trump kidnaps Venezuelan President</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-03 22:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/StrangerThings_Will-2-1280x853.jpg" alt="The ‘Stranger Things’ Finale Turned Everyone Back Onto Prince" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -260,8 +267,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
