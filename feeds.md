@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-04 16:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-04 17:01:24 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, January 04, 2026 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, January 04, 2026 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e72/live/0cc93870-e973-11f0-8d69-9f0dae13c5ba.jpg" alt="Man who died trying to save people from sea was true selfless hero, family say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy05lkr9pzjo?at_medium=RSS&at_campaign=rss" target="_blank">Man who died trying to save people from sea was true selfless hero, family say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-04 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/maduro-ny-12-ht-gmh-260103_1767498257816_hpMain_4x3t_384.jpg" alt="Venezuela live updates: Maduro to appear in federal court Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/venezuela-live-updates-trump-give-details-after-us/?id=127792811" target="_blank">Venezuela live updates: Maduro to appear in federal court Monday</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-04 16:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/1/4/live-south-africa-vs-cameroon-afcon-2025?traffic_source=rss" target="_blank">LIVE: South Africa vs Cameroon – AFCON 2025</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-04 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +98,29 @@
                 <span class="time">2026-01-04 15:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/04/nx-s1-5665737/us-and-latin-america" target="_blank">Venezuela is the latest in the U.S.&#x27;s long history of interventions in Latin America</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-04 12:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-la-guaira-venezuela_7125156.jpg?20260103143952" alt="Venezuela has the world&#x27;s largest oil reserves - but can Trump reverse the production decline?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/venezuela-has-the-worlds-largest-oil-reserves-but-can-trump-reverse-the-production-decline-13490273" target="_blank">Venezuela has the world&#x27;s largest oil reserves - but can Trump reverse the production decline?</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-04 12:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2284/live/6ebfbca0-e7bd-11f0-b67b-690eb873de1b.png" alt="Starmer tells me he&#x27;ll survive - but can he keep this new year&#x27;s resolution?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly1lv92xrxo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer tells me he&#x27;ll survive - but can he keep this new year&#x27;s resolution?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-04 11:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/849332/belkin-charging-case-pro-nintendo-switch-2-battery" target="_blank">You can charge the battery in Belkin’s new Switch 2 power case without opening it</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-04 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/04/french-and-malaysian-authorities-are-investigating-grok-for-generating-sexualized-deepfakes/" target="_blank">French and Malaysian authorities are investigating Grok for generating sexualized deepfakes</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-04 16:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +157,6 @@
                 <span class="time">2026-01-04 07:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" alt="Hydrow Discount Code: Save Up to $150 | January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hydrow-discount-code/" target="_blank">Hydrow Discount Code: Save Up to $150 | January 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-04 06:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/03/tech-billionaires-cashed-out-16-billion-in-2025-as-stocks-soared/" target="_blank">Tech billionaires cashed out $16 billion in 2025 as stocks soared</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-03 23:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +169,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNU-ddrescue-1.30" target="_blank">GNU ddrescue 1.30 &quot;Orders of Magnitude&quot; Better In Recovery From Drives With A Dead Head</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-04 16:42</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Reset-Hung-Task-Count" target="_blank">Linux&#x27;s Hung Task Detector Will Be Able To Be Reset For Easing System Administration</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-04 11:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/artificialintelligenceee/master-gemini-30-pro-in-9-minutes-and-stop-wasting-time-l1n" target="_blank">Master Gemini 3.0 Pro in 9 Minutes and Stop Wasting Time</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-04 11:42</span>
             </div>
         </div>
 </div>
@@ -264,8 +262,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
