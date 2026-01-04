@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-04 17:01:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-04 18:02:12 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, January 04, 2026 - 17:01 UTC</div>
+    <div class="newspaper-date">Sunday, January 04, 2026 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-bottom-line/2026/1/4/has-the-us-made-peace-with-the-rise-of-china?traffic_source=rss" target="_blank">Has the US made peace with the rise of China?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-04 17:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e72/live/0cc93870-e973-11f0-8d69-9f0dae13c5ba.jpg" alt="Man who died trying to save people from sea was true selfless hero, family say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +98,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/rubio-claims-us-running-direction-venezuela-situation/story?id=128885145" target="_blank">Rubio claims US is running &#x27;the direction&#x27; of Venezuela situation</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-04 15:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/4/nigeria-vs-mozambique-afcon-2025-team-news-start-time-lineups-lookman-osimhen?traffic_source=rss" target="_blank">Nigeria vs Mozambique: AFCON 2025 – team news, start time and lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-04 15:10</span>
             </div>
         </div>
 </div>
@@ -172,12 +174,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F91vfucfzhkwial3788cd.webp" alt="A Practical Guide to AWS CloudWatch That Most Engineers Skip" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/muhammad_yawar_malik/a-practical-guide-to-aws-cloudwatch-that-most-engineers-skip-cc" target="_blank">A Practical Guide to AWS CloudWatch That Most Engineers Skip</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-04 17:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/GNU-ddrescue-1.30" target="_blank">GNU ddrescue 1.30 &quot;Orders of Magnitude&quot; Better In Recovery From Drives With A Dead Head</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-04 16:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://addyosmani.com/blog/21-lessons/" target="_blank">Lessons from 14 Years at Google</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-04 15:23</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +216,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/01/duckdb-iceberg-browser-s3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DuckDB&#x27;s WebAssembly Client Allows Querying Iceberg Datasets in the Browser</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-01-04 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/TrixiePup64-2601-Released" target="_blank">TrixiePup64 2601 Released For Debian 13 Powered Puppy Linux In Wayland &amp; X11 Flavors</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-04 12:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Reset-Hung-Task-Count" target="_blank">Linux&#x27;s Hung Task Detector Will Be Able To Be Reset For Easing System Administration</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-04 11:56</span>
             </div>
         </div>
 </div>
@@ -262,8 +264,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
