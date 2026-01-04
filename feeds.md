@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-04 22:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-04 23:02:03 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, January 04, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, January 04, 2026 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -171,6 +175,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fabianfrankwerner/an-honest-review-of-google-antigravity-4g6f" target="_blank">An Honest Review of Google Antigravity</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-04 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuyi020bmcsyu1lrpvrao.jpg" alt="AI Agents: Mastering 3 Essential Patterns (ReAct). Part 2 of 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,20 +219,20 @@
                 <span class="time">2026-01-04 17:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNU-ddrescue-1.30" target="_blank">GNU ddrescue 1.30 &quot;Orders of Magnitude&quot; Better In Recovery From Drives With A Dead Head</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-04 16:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Drime-Secure-Cloud-Storage.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Safeguard your data and save $350 with Drime Secure Cloud Storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/04/safeguard-your-data-and-save-350-with-drime-secure-cloud-storage.html" target="_blank">Safeguard your data and save $350 with Drime Secure Cloud Storage</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-04 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/battlefiled-6-1280x853.jpg" alt="Xbox Series X and PS5 Players Can Grab Battlefield 6 at Its Lowest Price, Over 40% Off to Start the New Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -229,31 +242,13 @@
                 <span class="time">2026-01-04 13:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/maduro-1280x853.jpg" alt="A Newly Created Polymarket Account Made $436,759.61 on Nicolás Maduro’s Capture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-newly-created-polymarket-account-made-436759-61-on-nicolas-maduros-capture-2000705118" target="_blank">A Newly Created Polymarket Account Made $436,759.61 on Nicolás Maduro’s Capture</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-03 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/434dba00-e8d9-11f0-b67b-690eb873de1b.jpg.webp?fit=1536%2C864&amp;quality=55&amp;ssl=1" alt="Trump kidnaps Venezuelan President" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/03/trump-kidnaps-venezuelan-president.html" target="_blank">Trump kidnaps Venezuelan President</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-03 22:09</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 20 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
