@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-04 07:03:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-04 08:01:37 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, January 04, 2026 - 07:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, January 04, 2026 - 08:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -173,6 +177,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rogasper/how-to-build-a-secure-forgot-password-flow-with-otp-in-better-auth-4lek" target="_blank">How to Build a Secure Forgot Password Flow with OTP in Better Auth</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-04 07:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aws-builders/define-the-aws-global-infrastructure-5eje" target="_blank">Define the AWS Global Infrastructure</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-04 06:00</span>
@@ -203,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/hejhdiss/types-module-workbook-added-to-standard-library-learning-path-pd0" target="_blank">types Module Workbook Added to Standard Library Learning Path</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-04 04:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anuroopvj/i-made-a-python-package-to-store-ai-generated-images-along-with-their-context-prompt-model-info-16p6" target="_blank">I made a python package to store AI generated images along with their context (prompt, model info, etc)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-04 02:37</span>
             </div>
         </div>
 </div>
@@ -269,8 +273,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 07:03 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 08:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
