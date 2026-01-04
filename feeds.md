@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-04 13:10:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-04 14:01:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, January 04, 2026 - 13:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, January 04, 2026 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/04/nx-s1-5665737/us-and-latin-america" target="_blank">Venezuela is the latest in the U.S.&#x27;s long history of interventions in Latin America</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-04 12:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2284/live/6ebfbca0-e7bd-11f0-b67b-690eb873de1b.png" alt="Starmer tells me he&#x27;ll survive - but can he keep this new year&#x27;s resolution?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +102,20 @@
                 <span class="time">2026-01-04 06:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ee/live/bbd6c0b0-e934-11f0-a8dc-93c15fe68710.jpg" alt="&#x27;I&#x27;ll be PM this time next year,&#x27; Starmer tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clygv1ngynjo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I&#x27;ll be PM this time next year,&#x27; Starmer tells BBC</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-04 06:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6859cd35076cba5cdfcdd66d/master/pass/HYDRATION%20PACKS.png" alt="15 Best Electrolyte Powders (2026): Tasty and Effective" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-electrolyte-powders/" target="_blank">15 Best Electrolyte Powders (2026): Tasty and Effective</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-04 12:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +161,6 @@
                 <span class="time">2026-01-03 23:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/03/california-residents-can-use-new-tool-to-demand-brokers-delete-their-personal-data/" target="_blank">California residents can use new tool to demand brokers delete their personal data</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-03 22:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +173,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdevelopers.cloudflare.com%2Fdev-products-preview.png" alt="How to Deploy a SvelteKit App to Cloudflare Containers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/qaynam/how-to-deploy-sveltekit-app-with-cloudflare-containers-32kb" target="_blank">How to Deploy a SvelteKit App to Cloudflare Containers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-04 13:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/duckdb-iceberg-browser-s3/en/headerimage/generatedHeaderImage-1767167982751.jpg" alt="DuckDB&#x27;s WebAssembly Client Allows Querying Iceberg Datasets in the Browser" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/duckdb-iceberg-browser-s3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DuckDB&#x27;s WebAssembly Client Allows Querying Iceberg Datasets in the Browser</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-04 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/artificialintelligenceee/master-gemini-30-pro-in-9-minutes-and-stop-wasting-time-l1n" target="_blank">Master Gemini 3.0 Pro in 9 Minutes and Stop Wasting Time</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-04 11:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/liquorix-kernel/" target="_blank">What Is Liquorix Kernel? Should You Use It?</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-04 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rogasper/how-to-build-a-secure-forgot-password-flow-with-otp-in-better-auth-4lek" target="_blank">How to Build a Secure Forgot Password Flow with OTP in Better Auth</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-04 07:45</span>
             </div>
         </div>
 </div>
@@ -265,8 +266,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
