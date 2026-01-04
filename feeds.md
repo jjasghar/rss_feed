@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-04 21:01:39 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-01-04 22:01:29 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, January 04, 2026 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, January 04, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/04/g-s1-104485/rubio-says-theres-not-a-war-against-venezuela-despite-u-s-capture-of-maduro" target="_blank">Rubio says there&#x27;s &#x27;not a war against Venezuela&#x27; despite U.S. capture of Maduro</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-04 21:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/4/cameroon-edge-south-africa-2-1-to-book-afcon-quarterfinal-with-morocco?traffic_source=rss" target="_blank">Cameroon edge South Africa 2-1 to book AFCON quarterfinal with Morocco</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-04 21:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-venezuela-maduro_7126386.jpg?20260104191138" alt="&#x27;Everyone feels so afraid about what is going to happen next,&#x27; Caracas-based journalist tells Sky News" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/nobody-is-celebrating-everyone-feels-so-afraid-about-what-is-going-to-happen-next-13490473" target="_blank">&#x27;Everyone feels so afraid about what is going to happen next,&#x27; Caracas-based journalist tells Sky News</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-04 18:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/410e/live/d7e83be0-e997-11f0-a8dc-93c15fe68710.png" alt="Mother and daughter named as sea tragedy victims alongside man who tried to save them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -74,38 +97,20 @@
                 <span class="time">2026-01-04 18:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-bottom-line/2026/1/4/has-the-us-made-peace-with-the-rise-of-china?traffic_source=rss" target="_blank">Has the US made peace with the rise of China?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-04 17:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e72/live/0cc93870-e973-11f0-8d69-9f0dae13c5ba.jpg" alt="Man who died trying to save people from sea was true selfless hero, family say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy05lkr9pzjo?at_medium=RSS&at_campaign=rss" target="_blank">Man who died trying to save people from sea was true selfless hero, family say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-04 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/maduro-ny-12-ht-gmh-260103_1767498257816_hpMain_4x3t_384.jpg" alt="Venezuela live updates: Maduro to appear in federal court Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/venezuela-live-updates-trump-give-details-after-us/?id=127792811" target="_blank">Venezuela live updates: Maduro to appear in federal court Monday</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-04 16:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/04/can-a-social-app-fix-the-terrible-devastation-of-social-media/" target="_blank">Can a social app fix the ‘terrible devastation’ of social media?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-04 21:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +156,6 @@
                 <span class="time">2026-01-04 14:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6859cd35076cba5cdfcdd66d/master/pass/HYDRATION%20PACKS.png" alt="15 Best Electrolyte Powders (2026): Tasty and Effective" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-electrolyte-powders/" target="_blank">15 Best Electrolyte Powders (2026): Tasty and Effective</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-04 12:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +168,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuyi020bmcsyu1lrpvrao.jpg" alt="AI Agents: Mastering 3 Essential Patterns (ReAct). Part 2 of 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gabrielmrojas/ai-agents-mastering-3-essential-patterns-react-part-2-of-3-1b1d" target="_blank">AI Agents: Mastering 3 Essential Patterns (ReAct). Part 2 of 3</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-04 21:45</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GNU-ddrescue-1.30" target="_blank">GNU ddrescue 1.30 &quot;Orders of Magnitude&quot; Better In Recovery From Drives With A Dead Head</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-04 16:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://addyosmani.com/blog/21-lessons/" target="_blank">Lessons from 14 Years at Google</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-04 15:23</span>
             </div>
         </div>
 </div>
@@ -256,8 +252,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
