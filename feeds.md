@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-04 06:02:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-04 07:03:03 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, January 04, 2026 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, January 04, 2026 - 07:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/4/north-korea-fires-missiles-towards-sea-as-south-korean-leader-visits-china?traffic_source=rss" target="_blank">North Korea fires missiles towards sea as South Korean leader visits China</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-04 06:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ee/live/bbd6c0b0-e934-11f0-a8dc-93c15fe68710.jpg" alt="&#x27;I&#x27;ll be PM this time next year,&#x27; Starmer tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clygv1ngynjo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I&#x27;ll be PM this time next year,&#x27; Starmer tells BBC</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-04 06:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +96,20 @@
                 <span class="time">2026-01-04 02:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-donald-trump-florida_7125695.jpg?20260104023602" alt="Nicolas Maduro&#x27;s seizure takes the world into new territory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/venezuela-crisis-after-maduros-capture-geopolitics-is-about-to-become-weirder-and-potentially-a-lot-more-dangerous-13490177" target="_blank">Nicolas Maduro&#x27;s seizure takes the world into new territory</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-04 02:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/03/g-s1-104412/venezuela-nicolas-maduro-maria-corina-machado-opposition" target="_blank">Who is María Corina Machado, Venezuela&#x27;s Nobel Peace Prize winning opposition leader?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-04 01:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" alt="Hydrow Discount Code: Save Up to $150 | January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hydrow-discount-code/" target="_blank">Hydrow Discount Code: Save Up to $150 | January 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-04 06:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,15 +155,6 @@
                 <span class="time">2026-01-03 20:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/03/bitfinex-hacker-ilya-lichtenstein-credits-trump-for-early-release-from-prison/" target="_blank">Bitfinex hacker Ilya Lichtenstein credits Trump for early release from prison</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-03 19:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -184,6 +176,15 @@
                 <span class="title"><a href="https://dev.to/aws-builders/define-the-aws-global-infrastructure-5eje" target="_blank">Define the AWS Global Infrastructure</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-04 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://karpathy.ai/zero-to-hero.html" target="_blank">Neural Networks: Zero to Hero</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-04 05:02</span>
             </div>
         </div>
 <div class="story">
@@ -211,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/anuroopvj/i-made-a-python-package-to-store-ai-generated-images-along-with-their-context-prompt-model-info-16p6" target="_blank">I made a python package to store AI generated images along with their context (prompt, model info, etc)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-04 02:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fjall-3.0-Released" target="_blank">Rust-Based Fjall 3.0 Released For Key-Value Storage Engine Akin To RocksDB</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-04 01:19</span>
             </div>
         </div>
 </div>
@@ -277,8 +269,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 78 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 07:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
