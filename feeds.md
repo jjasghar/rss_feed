@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-04 11:01:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-04 12:02:24 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, January 04, 2026 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, January 04, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -172,6 +172,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Reset-Hung-Task-Count" target="_blank">Linux&#x27;s Hung Task Detector Will Be Able To Be Reset For Easing System Administration</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-04 11:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/artificialintelligenceee/master-gemini-30-pro-in-9-minutes-and-stop-wasting-time-l1n" target="_blank">Master Gemini 3.0 Pro in 9 Minutes and Stop Wasting Time</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-04 11:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/liquorix-kernel/" target="_blank">What Is Liquorix Kernel? Should You Use It?</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-04 11:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rogasper/how-to-build-a-secure-forgot-password-flow-with-otp-in-better-auth-4lek" target="_blank">How to Build a Secure Forgot Password Flow with OTP in Better Auth</a></span>
                 <span class="feed">DEV Community</span>
@@ -185,33 +212,6 @@
                 <span class="title"><a href="https://dev.to/aws-builders/define-the-aws-global-infrastructure-5eje" target="_blank">Define the AWS Global Infrastructure</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-04 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://karpathy.ai/zero-to-hero.html" target="_blank">Neural Networks: Zero to Hero</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-04 05:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thevenice/anthropic-from-pandemic-era-safety-concerns-to-a-350b-ai-company-5be1" target="_blank">Anthropic: From Pandemic-Era Safety Concerns to a $350B AI Company</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-04 05:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hejhdiss/types-module-workbook-added-to-standard-library-learning-path-pd0" target="_blank">types Module Workbook Added to Standard Library Learning Path</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-04 04:18</span>
             </div>
         </div>
 </div>
@@ -255,22 +255,13 @@
                 <span class="time">2026-01-03 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/04/Blank-Slate-Roller-2-1280x854.jpg" alt="EV Makers Could Struggle in 2026, but Jeff Bezos Might Have a Great 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ev-makers-could-struggle-in-2026-but-jeff-bezos-might-have-a-great-2027-2000705007" target="_blank">EV Makers Could Struggle in 2026, but Jeff Bezos Might Have a Great 2027</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-03 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
