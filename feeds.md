@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-04 05:06:56 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-04 06:02:24 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, January 04, 2026 - 05:07 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, January 04, 2026 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/04/g-s1-104439/venezuelans-wonder-who-in-charge" target="_blank">Venezuelans wonder who&#x27;s in charge as Trump claims contact with Maduro&#x27;s deputy</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-04 05:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/maduro-ny-12-ht-gmh-260103_1767498257816_hpMain_4x3t_384.jpg" alt="Venezuela live updates: Photos show handcuffed Maduro escorted by DEA administrator" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,6 +78,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260103-trump-ch-1200-7835a1.jpg" alt="A CIA team, steel doors and a fateful phone call: How the U.S. captured Maduro in Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/us-venezuela-strike-nicolas-maduro-captured-how-timeline-trump-rcna252041" target="_blank">A CIA team, steel doors and a fateful phone call: How the U.S. captured Maduro in Venezuela</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-04 02:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/01/1920x1080/skynews-donald-trump-florida_7125695.jpg?20260104023602" alt="Nicolas Maduro&#x27;s seizure takes the world into new territory" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -79,24 +102,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/03/g-s1-104412/venezuela-nicolas-maduro-maria-corina-machado-opposition" target="_blank">Who is María Corina Machado, Venezuela&#x27;s Nobel Peace Prize winning opposition leader?</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-04 01:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5456/live/f184aa00-e8ea-11f0-b67b-690eb873de1b.jpg" alt="Spies, drones and blowtorches: How the US captured Maduro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdred61epg4o?at_medium=RSS&at_campaign=rss" target="_blank">Spies, drones and blowtorches: How the US captured Maduro</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-03 23:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/1/3/what-are-the-implications-of-the-us-capture-of-nicolas-maduro?traffic_source=rss" target="_blank">What are the implications of US ‘capture’ of Nicolas Maduro?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-03 23:10</span>
             </div>
         </div>
 </div>
@@ -176,6 +181,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/define-the-aws-global-infrastructure-5eje" target="_blank">Define the AWS Global Infrastructure</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-04 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/thevenice/anthropic-from-pandemic-era-safety-concerns-to-a-350b-ai-company-5be1" target="_blank">Anthropic: From Pandemic-Era Safety Concerns to a $350B AI Company</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-04 05:02</span>
@@ -206,15 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Fjall-3.0-Released" target="_blank">Rust-Based Fjall 3.0 Released For Key-Value Storage Engine Akin To RocksDB</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-04 01:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbiu3bswg5rf3p55in5vj.png" alt="How to automatically add bookmarks to a PDF?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anig1scur/how-to-automatically-add-bookmarks-to-a-pdf-49d2" target="_blank">How to automatically add bookmarks to a PDF?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-03 22:39</span>
             </div>
         </div>
 </div>
@@ -272,8 +277,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 05:07 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 78 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
