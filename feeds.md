@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-04 20:01:54 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-04 21:01:39 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, January 04, 2026 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, January 04, 2026 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/4/heres-how-the-us-imposed-regime-change-overnight-in-venezuela?traffic_source=rss" target="_blank">Here’s how the US imposed regime change overnight in Venezuela</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-04 20:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +99,6 @@
                 <span class="title"><a href="https://abcnews.go.com/International/live-updates/venezuela-live-updates-trump-give-details-after-us/?id=127792811" target="_blank">Venezuela live updates: Maduro to appear in federal court Monday</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-04 16:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/1/4/live-south-africa-vs-cameroon-afcon-2025?traffic_source=rss" target="_blank">LIVE: South Africa vs Cameroon – AFCON 2025</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-04 16:00</span>
             </div>
         </div>
 </div>
@@ -181,6 +177,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/huseyinbabal/taws" target="_blank">Show HN: Terminal UI for AWS</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-04 20:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ikhaledabdelfattah/writing-docs-in-a-world-where-llms-are-the-readers-506a" target="_blank">Writing Docs in a World Where LLMs Are the Readers</a></span>
                 <span class="feed">DEV Community</span>
@@ -212,15 +217,6 @@
                 <span class="title"><a href="https://addyosmani.com/blog/21-lessons/" target="_blank">Lessons from 14 Years at Google</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-04 15:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdevelopers.cloudflare.com%2Fdev-products-preview.png" alt="How to Deploy a SvelteKit App to Cloudflare Containers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/qaynam/how-to-deploy-sveltekit-app-with-cloudflare-containers-32kb" target="_blank">How to Deploy a SvelteKit App to Cloudflare Containers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-04 13:50</span>
             </div>
         </div>
 </div>
@@ -261,7 +257,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 21 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 20:02 UTC
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
