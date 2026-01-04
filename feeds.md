@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-04 04:20:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-04 05:06:56 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, January 04, 2026 - 04:20 UTC</div>
+    <div class="newspaper-date">Sunday, January 04, 2026 - 05:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/maduro-ny-12-ht-gmh-260103_1767498257816_hpMain_4x3t_384.jpg" alt="Venezuela live updates: Photos show handcuffed Maduro escorted by DEA administrator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/venezuela-live-updates-trump-give-details-after-us/?id=127792811" target="_blank">Venezuela live updates: Photos show handcuffed Maduro escorted by DEA administrator</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-04 04:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/1/3/what-are-the-implications-of-the-us-capture-of-nicolas-maduro?traffic_source=rss" target="_blank">What are the implications of US ‘capture’ of Nicolas Maduro?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-03 23:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/maduro-plane-ht-jt-260103_1767477098807_hpMain_4x3t_384.jpg" alt="Venezuela live updates: Maduro arrives in New York to face federal charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/venezuela-live-updates-trump-give-details-after-us/?id=127792811" target="_blank">Venezuela live updates: Maduro arrives in New York to face federal charges</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-03 22:40</span>
             </div>
         </div>
 </div>
@@ -171,6 +176,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thevenice/anthropic-from-pandemic-era-safety-concerns-to-a-350b-ai-company-5be1" target="_blank">Anthropic: From Pandemic-Era Safety Concerns to a $350B AI Company</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-04 05:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hejhdiss/types-module-workbook-added-to-standard-library-learning-path-pd0" target="_blank">types Module Workbook Added to Standard Library Learning Path</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-04 04:18</span>
@@ -201,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/anig1scur/how-to-automatically-add-bookmarks-to-a-pdf-49d2" target="_blank">How to automatically add bookmarks to a PDF?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-03 22:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://data.stackexchange.com/stackoverflow/query/1926661#graph" target="_blank">Total monthly number of StackOverflow questions over time</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-03 22:23</span>
             </div>
         </div>
 </div>
@@ -267,8 +272,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 04:20 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 05:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
