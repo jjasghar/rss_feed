@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-04 23:02:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-05 00:05:58 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, January 04, 2026 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, January 05, 2026 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/04/nx-s1-5666340/venezuela-nicolas-maduro-venezuelans-asylum-seekers-refugee" target="_blank">Miami mayor calls for Trump to &#x27;immediately&#x27; reinstate TPS for Venezuelans</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-04 23:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Puerto-rico-airport-gty-bh-260104_1767557835222_hpMain_4x3t_384.jpg" alt="US tourists stranded across Caribbean after airspace closed for Maduro capture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/american-tourists-stranded-caribbean-after-airspace-closed-maduro/story?id=128891191" target="_blank">US tourists stranded across Caribbean after airspace closed for Maduro capture</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-04 22:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +103,20 @@
                 <span class="time">2026-01-04 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-venezuela-maduro_7126386.jpg?20260104191138" alt="&#x27;Everyone feels so afraid about what is going to happen next,&#x27; Caracas-based journalist tells Sky News" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/nobody-is-celebrating-everyone-feels-so-afraid-about-what-is-going-to-happen-next-13490473" target="_blank">&#x27;Everyone feels so afraid about what is going to happen next,&#x27; Caracas-based journalist tells Sky News</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-04 18:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/410e/live/d7e83be0-e997-11f0-a8dc-93c15fe68710.png" alt="Mother and daughter named as sea tragedy victims alongside man who tried to save them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy05lkr9pzjo?at_medium=RSS&at_campaign=rss" target="_blank">Mother and daughter named as sea tragedy victims alongside man who tried to save them</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-04 18:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/850763/mammotion-luba-3-awd-robot-lawnmower-lidar-ces-2026" target="_blank">Mammotion’s flagship robot lawnmower now uses lidar to map your yard</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-05 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +162,6 @@
                 <span class="time">2026-01-04 16:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/853824/flappy-bird-game-version-history" target="_blank">The wild, intense rise and fall of Flappy Bird</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-04 14:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,9 +180,31 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cyndiee/i-just-finished-my-database-assignment-even-though-the-deadline-was-yesterday-at-1159pm-ob0" target="_blank">I just finished my database assignment even though the deadline was yesterday at 11:59pm 😅
+
+Moments like this remind me that I’m actually living the dream I once talked about: becoming a software engineer.
+
+Learning backend engineering with Node.js has</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-04 23:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/fabianfrankwerner/an-honest-review-of-google-antigravity-4g6f" target="_blank">An Honest Review of Google Antigravity</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-04 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-rc4" target="_blank">Linux 6.19-rc4 Released Following A Quiet Holiday Week, 6.19-rc8 Already Planned</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-04 22:56</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +223,6 @@
                 <span class="title"><a href="https://github.com/huseyinbabal/taws" target="_blank">Show HN: Terminal UI for AWS</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-04 20:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ikhaledabdelfattah/writing-docs-in-a-world-where-llms-are-the-readers-506a" target="_blank">Writing Docs in a World Where LLMs Are the Readers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-04 19:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F91vfucfzhkwial3788cd.webp" alt="A Practical Guide to AWS CloudWatch That Most Engineers Skip" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/muhammad_yawar_malik/a-practical-guide-to-aws-cloudwatch-that-most-engineers-skip-cc" target="_blank">A Practical Guide to AWS CloudWatch That Most Engineers Skip</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-04 17:54</span>
             </div>
         </div>
 </div>
@@ -247,8 +253,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 20 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 20 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
