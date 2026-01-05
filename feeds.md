@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-05 13:14:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-05 14:03:05 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, January 05, 2026 - 13:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, January 05, 2026 - 14:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767617446623_tdy_news_7a_engel_venezuelas_future_260105_1920x1080-h3y216.jpg" alt="What’s Next for Venezuela and US After Maduro Capture?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/what-challenges-await-us-and-venezuela-after-maduro-capture-255394885862" target="_blank">What’s Next for Venezuela and US After Maduro Capture?</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-05 12:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +101,29 @@
                 <span class="time">2026-01-05 09:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-brigitte-macron-french-first-lady_7126613.jpg?20260105065702" alt="Ten guilty of cyber bullying France&#x27;s first lady after false transgender claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/ten-people-found-guilty-of-cyber-bullying-frances-first-lady-brigitte-macron-13490565" target="_blank">Ten guilty of cyber bullying France&#x27;s first lady after false transgender claims</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-05 06:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/851157/lockly-smart-lock-matter-ces" target="_blank">Lockly’s new smart locks will support Matter and NFC</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-05 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/05/google-previews-new-gemini-features-for-tv-at-ces-2026/" target="_blank">Google previews new Gemini features for TV at CES 2026</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-05 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -118,39 +143,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6941f284d2fee261c1674a32/master/pass/Shogun-1.jpg" alt="‘Shogun’ Creator Says Season 2 ‘Defies Expectations’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/shogun-creator-says-season-2-defies-expectations/" target="_blank">‘Shogun’ Creator Says Season 2 ‘Defies Expectations’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-05 12:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/01/05/teradar-reveals-its-first-terahertz-band-vision-sensor-for-cars/" target="_blank">Teradar reveals its first terahertz-band vision sensor for cars</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-05 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6959742a26a8e686c22b0268/master/pass/Best%20Cat%20Fountains%20Update%20122025%20top%20art%20SOURCE%20Brooke_Petlibro.jpg" alt="9 Best Cat Water Fountains, WIRED-Tested and Reviewed (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/the-best-cat-water-fountains/" target="_blank">9 Best Cat Water Fountains, WIRED-Tested and Reviewed (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-05 11:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69580d518c0897e24c988f56/master/pass/I-Switched-to-eSim-Regret-It-Gear-1495739154.jpg" alt="I Switched to eSIM, and I Am Full of Regret" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/i-switched-to-esim-and-i-am-full-of-regret/" target="_blank">I Switched to eSIM, and I Am Full of Regret</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-05 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6941434a6280a5114317f439/master/pass/GettyImages-2217533380.jpg" alt="Flu Is Relentless. Crispr Might Be Able to Shut It Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/crispr-flu-antivirals/" target="_blank">Flu Is Relentless. Crispr Might Be Able to Shut It Down</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-05 10:00</span>
             </div>
         </div>
 </div>
@@ -232,12 +239,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/Apple2025MacBookAir-1280x853.jpg" alt="Apple Goes Full Clearance on MacBook Air (2025 M4, 13″) at Record Low to Make Room for the 2026 Laptop Lineup" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/apple-goes-full-clearance-on-macbook-air-2025-m4-13-at-record-low-to-make-room-for-the-2026-laptop-lineup-2000656510" target="_blank">Apple Goes Full Clearance on MacBook Air (2025 M4, 13″) at Record Low to Make Room for the 2026 Laptop Lineup</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-05 13:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/KAMRUI-AM21-Mini-PC-1280x853.jpg" alt="Amazon Offloads This Ryzen 7 Mini PC at Its Lowest Price (32GB RAM, 1TB SSD), Cheaper Alternative to the Mac Mini" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/amazon-offloads-this-ryzen-7-mini-pc-at-its-lowest-price-32gb-ram-1tb-ssd-cheaper-alternative-to-the-mac-mini-2000656576" target="_blank">Amazon Offloads This Ryzen 7 Mini PC at Its Lowest Price (32GB RAM, 1TB SSD), Cheaper Alternative to the Mac Mini</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-05 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/macrons.jpg?fit=1200%2C844&amp;quality=60&amp;ssl=1" alt="10 guilty of cyber-bullying Brigitte Macron, wife of French president" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/05/10-guilty-of-cyber-bullying-brigitte-macron-wife-of-french-president.html" target="_blank">10 guilty of cyber-bullying Brigitte Macron, wife of French president</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-05 11:50</span>
             </div>
         </div>
 <div class="story">
@@ -265,24 +290,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/04/new-year-new-laptop-get-a-macbook-air-for-200.html" target="_blank">New year, new laptop — Get a MacBook Air for $200</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-04 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Drime-Secure-Cloud-Storage.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Safeguard your data and save $350 with Drime Secure Cloud Storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/04/safeguard-your-data-and-save-350-with-drime-secure-cloud-storage.html" target="_blank">Safeguard your data and save $350 with Drime Secure Cloud Storage</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-04 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/battlefiled-6-1280x853.jpg" alt="Xbox Series X and PS5 Players Can Grab Battlefield 6 at Its Lowest Price, Over 40% Off to Start the New Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-series-x-and-ps5-players-can-grab-battlefield-6-at-its-lowest-price-over-40-off-to-start-the-new-year-2000648202" target="_blank">Xbox Series X and PS5 Players Can Grab Battlefield 6 at Its Lowest Price, Over 40% Off to Start the New Year</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-04 13:22</span>
             </div>
         </div>
 </div>
@@ -313,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 13:15 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 14:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
