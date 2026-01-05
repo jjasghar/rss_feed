@@ -1,43 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-01-05 18:02:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-05 19:03:42 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 34 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, January 05, 2026 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, January 05, 2026 - 19:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/05/nx-s1-5666899/metropolitan-detention-center-ny-jail-maduro" target="_blank">The NYC jail holding Maduro has a history of big names and dangerous conditions</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-05 18:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767635867881_nbc_spec_brock_courtroom_view_260105_1920x1080-q6z32k.jpg" alt="How the courtroom reacted as Maduro and his wife pleaded not guilty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/how-the-courtroom-reacted-as-maduro-and-his-wife-pleaded-not-guilty-255413317752" target="_blank">How the courtroom reacted as Maduro and his wife pleaded not guilty</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-05 17:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d968/live/a2c127a0-ea56-11f0-b385-5f48925de19a.jpg" alt="Snow and ice hit UK road and rail travel with schools forced to shut" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy4qp0kjxq5o?at_medium=RSS&at_campaign=rss" target="_blank">Snow and ice hit UK road and rail travel with schools forced to shut</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-05 17:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/maduro-5-stsk-gmh-260105_1767620220106_hpMain_4x3t_384.jpg" alt="Maduro declares &#x27;I am innocent&#x27; and &#x27;still president&#x27; in Manhattan court appearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,38 +95,38 @@
                 <span class="time">2026-01-05 13:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767617446623_tdy_news_7a_engel_venezuelas_future_260105_1920x1080-h3y216.jpg" alt="What’s Next for Venezuela and US After Maduro Capture?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/what-challenges-await-us-and-venezuela-after-maduro-capture-255394885862" target="_blank">What’s Next for Venezuela and US After Maduro Capture?</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-05 12:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/5/why-was-ruben-amorim-sacked-as-man-united-manager?traffic_source=rss" target="_blank">Why was Ruben Amorim sacked as Man United manager?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-05 12:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8951/live/17acc0e0-ea31-11f0-b5f7-49f0357294ff.jpg" alt="Only Greenland and Denmark should decide its future, Starmer says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy9yq8znq37o?at_medium=RSS&at_campaign=rss" target="_blank">Only Greenland and Denmark should decide its future, Starmer says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-05 12:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/695bc74f1e9a19f18d143eeb/master/pass/SMARTBrick_Hero_16x9.jpg" alt="Lego’s Smart Brick Gives the Iconic Analog Toy a New Digital Brain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/lego-smart-brick-new-digital-brain/" target="_blank">Lego’s Smart Brick Gives the Iconic Analog Toy a New Digital Brain</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-05 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/854556/lego-announces-smart-brick-the-most-significant-evolution-in-50-years" target="_blank">Lego announces Smart Brick, the &amp;#8216;most significant evolution&amp;#8217; in 50 years</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-05 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/05/hacktivist-deletes-white-supremacist-websites-live-on-stage-during-hacker-conference/" target="_blank">Hacktivist deletes white supremacist websites live on stage during hacker conference</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-05 18:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,33 +152,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/05/the-2026-bmw-ix3-voice-assistant-will-be-powered-by-alexa/" target="_blank">The 2026 BMW iX3 voice assistant will be powered by Alexa+</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-05 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/848331/8bitdo-ultimate-3e-controller-xbox-wireless-tmr-swappable-joysticks" target="_blank">8BitDo’s new wireless Xbox controller has swappable ABXY button switches</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-05 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/852942/mira-ultra4-wand-hormone-testing-ces-2026-health" target="_blank">This egg-shaped gadget aims to demystify hormones… with pee</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-05 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/695aeb39e96f3489551b89c0/master/pass/Samsung-Galaxy-Z-TriFold-SOURCE-Julian-Chokkattu-(1).jpg" alt="Samsung Galaxy Z Trifold Hands-On: This Is the Phone-Tablet Hybrid You’re Looking For" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/samsung-galaxy-z-trifold-hands-on/" target="_blank">Samsung Galaxy Z Trifold Hands-On: This Is the Phone-Tablet Hybrid You’re Looking For</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-05 14:58</span>
             </div>
         </div>
 </div>
@@ -245,6 +233,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/luna-band-1280x853.png" alt="This Health Band Is Like if Whoop Went Wild With Voice Assistants" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-health-band-is-like-if-whoop-went-wild-with-voice-assistants-2000705329" target="_blank">This Health Band Is Like if Whoop Went Wild With Voice Assistants</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-05 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/11/image-26.png?fit=480%2C270&amp;quality=55&amp;ssl=1" alt="The US once had a secret plan to nuke the moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/05/the-us-once-had-a-secret-plan-to-nuke-the-moon.html" target="_blank">The US once had a secret plan to nuke the moon</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-05 18:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/greenland-family2-1280x853.jpg" alt="The Final ‘Greenland 2: Migration’ Trailer Promises Gerard Butler Will Save You" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -278,24 +284,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/ces-2026-withings-body-scan-2-smart-scale?utm_medium=RSS" target="_blank">CES 2026: Withings&#x27; Body Scan 2 Is a Smart Scale With Smartwatch Health Features</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-05 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/rdr2-mystery-1280x720.jpg" alt="Red Dead Redemption 2 Players Find Strange Spider Web Mystery Seven Years After Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/red-dead-redemption-2-spider-web-mystery-seven-years-later-unsolved-gta-6-2000656666" target="_blank">Red Dead Redemption 2 Players Find Strange Spider Web Mystery Seven Years After Launch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-05 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/Silksong.jpg" alt="Silksong Finally Takes Home A ‘Best Game’ Award As Steam Breaks An All-Time Record" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/silksong-goty-award-steam-clair-obscur-snub-2000656667" target="_blank">Silksong Finally Takes Home A ‘Best Game’ Award As Steam Breaks An All-Time Record</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-05 15:43</span>
             </div>
         </div>
 </div>
@@ -335,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 19:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
