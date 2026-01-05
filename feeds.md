@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-05 22:01:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-01-05 23:01:25 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, January 05, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, January 05, 2026 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +44,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3b3/live/a3567f70-ea7a-11f0-a187-6b933bf6257e.jpg" alt="Venezuela swears in interim president after defiant Maduro pleads not guilty in US court" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce8gen8nnvlo?at_medium=RSS&at_campaign=rss" target="_blank">Venezuela swears in interim president after defiant Maduro pleads not guilty in US court</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-05 22:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/5/trump-administration-sets-meetings-with-oil-companies-on-venezuela-report?traffic_source=rss" target="_blank">Trump administration sets meetings with oil companies on Venezuela: Report</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-05 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-3-gty-gmh-260105_1767624564791_hpMain_4x3t_384.jpg" alt="Mixed messages from Trump and Rubio on who&#x27;s running Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Politics/mixed-messages-trump-rubio-running-venezuela/story?id=128916034" target="_blank">Mixed messages from Trump and Rubio on who&#x27;s running Venezuela</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-05 21:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-maduro-court_7127541.jpg?20260105205228" alt="Astounding moment in court as Maduro confronted by man in public gallery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/what-it-was-like-inside-nicolas-maduros-dramatic-court-hearing-13490924" target="_blank">Astounding moment in court as Maduro confronted by man in public gallery</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-05 21:14</span>
             </div>
         </div>
 <div class="story">
@@ -72,38 +97,38 @@
                 <span class="time">2026-01-05 19:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a626/live/b3618b80-ea6b-11f0-b385-5f48925de19a.jpg" alt="&#x27;I&#x27;m a prisoner of war&#x27; - In the room for Maduro&#x27;s dramatic court hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq6v25eldmdo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I&#x27;m a prisoner of war&#x27; - In the room for Maduro&#x27;s dramatic court hearing</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-05 19:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/05/nx-s1-5666904/firestorm-jacob-soboroff-palisades-eaton" target="_blank">&#x27;Everything I knew burned down around me&#x27;: A journalist looks back on LA&#x27;s fires</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-05 19:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/05/nx-s1-5666899/metropolitan-detention-center-ny-jail-maduro" target="_blank">The NYC jail holding Maduro has a history of big names and dangerous conditions</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-05 18:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/05/this-is-ubers-new-robotaxi-from-lucid-and-nuro/" target="_blank">This is Uber’s new robotaxi from Lucid and Nuro</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-05 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/845706/hyperx-qdoled-500hz-v-stripe-curved-specs" target="_blank">HyperX’s 2026 gaming monitor lineup includes a 500Hz QD-OLED</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-05 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/05/50530415266_a67d907fac_b-500x500.jpg" alt="NASA’s science budget won’t be a train wreck after all" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/01/nasas-science-budget-wont-be-a-train-wreck-after-all/" target="_blank">NASA’s science budget won’t be a train wreck after all</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-05 22:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2252087162-500x500.jpg" alt="Under anti-vaccine RFK Jr., CDC slashes childhood vaccine schedule" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,33 +156,6 @@
                 <span class="time">2026-01-05 20:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/05/lego-smart-bricks-introduce-a-new-way-to-build-and-they-dont-require-screens/" target="_blank">Lego Smart Bricks introduce a new way to build — and they don’t require screens</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-05 20:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/695c030fd02c8c2e2cb83526/master/pass/These%20On-Ear%20Beats%20Headphones%20Are%20Marked%20Down%20by%20$70.png" alt="These On-Ear Beats Headphones Are Marked Down by $70" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/beats-solo-4-deal-126/" target="_blank">These On-Ear Beats Headphones Are Marked Down by $70</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-05 19:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/695bc74f1e9a19f18d143eeb/master/pass/SMARTBrick_Hero_16x9.jpg" alt="Lego’s Smart Brick Gives the Iconic Analog Toy a New Digital Brain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lego-smart-brick-new-digital-brain/" target="_blank">Lego’s Smart Brick Gives the Iconic Analog Toy a New Digital Brain</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-05 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +168,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fleilfybs2fi9sqmyys47.png" alt="Copy-Paste is Not a Workflow: Building dbt-core-mcp" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/niclasolofsson/copy-paste-is-not-a-workflow-building-dbt-core-mcp-4d6o" target="_blank">Copy-Paste is Not a Workflow: Building dbt-core-mcp</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-05 22:51</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +213,6 @@
                 <span class="title"><a href="https://dzone.com/articles/unlocking-hidden-value-in-dirty-data-a-practical-n" target="_blank">Unlocking Hidden Value in Dirty Data: A Practical NLP Pattern for Legacy Records</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-01-05 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18828394&w=600" alt="Securing Verifiable Credentials With DPoP: A Spring Boot Implementation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/securing-verifiable-credentials-with-dpop-spring-boot" target="_blank">Securing Verifiable Credentials With DPoP: A Spring Boot Implementation</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-05 19:00</span>
             </div>
         </div>
 </div>
@@ -336,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
