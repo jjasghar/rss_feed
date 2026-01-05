@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-05 15:02:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-05 16:02:07 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, January 05, 2026 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, January 05, 2026 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -86,6 +81,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/05/g-s1-104520/up-first-newsletter-venezuela-nicolas-maduro-delcy-rodriguez-president-trump" target="_blank">Who is in charge of Venezuela? And, what to expect from Maduro&#x27;s court appearance</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-05 12:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a729/live/abb946a0-e95a-11f0-a8dc-93c15fe68710.jpg" alt="Schools closed and travel disrupted in parts of UK after heavy snow" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -94,20 +98,20 @@
                 <span class="time">2026-01-05 12:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-251230_1767102217648_hpMain_4x3t_384.jpg" alt="Venezuela live updates: Trump calls out Colombia&#x27;s Petro, says Cuba&#x27;s &#x27;ready to fall&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/venezuela-live-updates-trump-give-details-after-us/?id=127792811" target="_blank">Venezuela live updates: Trump calls out Colombia&#x27;s Petro, says Cuba&#x27;s &#x27;ready to fall&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-05 11:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/848331/8bitdo-ultimate-3e-controller-xbox-wireless-tmr-swappable-joysticks" target="_blank">8BitDo’s new wireless Xbox controller has swappable ABXY button switches</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-05 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,15 +157,6 @@
                 <span class="time">2026-01-05 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6941f284d2fee261c1674a32/master/pass/Shogun-1.jpg" alt="‘Shogun’ Creator Says Season 2 ‘Defies Expectations’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/shogun-creator-says-season-2-defies-expectations/" target="_blank">‘Shogun’ Creator Says Season 2 ‘Defies Expectations’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-05 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +169,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/guardingpearsoftware/cybersecurity-predictions-for-2026-5433" target="_blank">Cybersecurity Predictions for 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-05 15:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/timeout-joiner-refinements/en/headerimage/generatedHeaderImage-1767435065616.jpg" alt="JEP 525 Brings Timeout Handling and Joiner Refinements to Java’s Structured Concurrency" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/timeout-joiner-refinements/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">JEP 525 Brings Timeout Handling and Joiner Refinements to Java’s Structured Concurrency</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-05 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18828387&w=600" alt="How to Perform Response Verification in REST-Assured Java for API Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-to-perform-response-verification-in-java-api-test" target="_blank">How to Perform Response Verification in REST-Assured Java for API Testing</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-05 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -192,33 +214,6 @@
                 <span class="title"><a href="https://itsfoss.com/news/cocos-4-game-engine/" target="_blank">First Good News of 2026!COCOS 4 Game Engine Goes Open Source</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-01-05 14:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/solving-cloud-infrastructure/en/mediumimage/brendan-mcloughlin-medium-1766064244505.jpg" alt="Presentation: Thinking Like a Detective: Solving Cloud Infrastructure Mysteries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/solving-cloud-infrastructure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Thinking Like a Detective: Solving Cloud Infrastructure Mysteries</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-05 14:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18806352&w=600" alt="Best Date Conversion Approaches in Java 8+" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/java-8-date-conversion-best-practices" target="_blank">Best Date Conversion Approaches in Java 8+</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-05 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/priya_dharshini_b30d11c20/why-e-commerce-website-design-is-essential-for-modern-business-growth-3k38" target="_blank">Why E-commerce Website Design Is Essential for Modern Business Growth</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-05 13:11</span>
             </div>
         </div>
 </div>
@@ -240,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/Silksong.jpg" alt="Silksong Finally Takes Home A ‘Best Game’ Award As Steam Breaks An All-Time Record" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/silksong-goty-award-steam-clair-obscur-snub-2000656667" target="_blank">Silksong Finally Takes Home A ‘Best Game’ Award As Steam Breaks An All-Time Record</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-05 15:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KE789S3GE17HZA80Q6CD3TJJ/hero-image.jpg" alt="Why I&#x27;m Never Going to Let AI Write My Emails" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +289,6 @@
                 <span class="time">2026-01-05 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KE69HK333PWF1KVCVFT0P44W/hero-image.png" alt="CES 2026: You Can Finally Use XREAL&#x27;s AR Glasses With the Nintendo Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/ces-2026-you-can-finally-use-xreals-ar-glasses-with-the-nintendo-switch?utm_medium=RSS" target="_blank">CES 2026: You Can Finally Use XREAL&#x27;s AR Glasses With the Nintendo Switch 2</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-05 06:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
