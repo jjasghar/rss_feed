@@ -1,31 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-05 19:03:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-05 20:01:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, January 05, 2026 - 19:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, January 05, 2026 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/5/sovereignty-of-venezuela-at-stake-venezuela-addresses-un?traffic_source=rss" target="_blank">‘Sovereignty of Venezuela at stake’: Venezuela addresses UN</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-05 19:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a626/live/b3618b80-ea6b-11f0-b385-5f48925de19a.jpg" alt="&#x27;I&#x27;m a prisoner of war&#x27; - In the room for Maduro&#x27;s dramatic court hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq6v25eldmdo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I&#x27;m a prisoner of war&#x27; - In the room for Maduro&#x27;s dramatic court hearing</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-05 19:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/05/nx-s1-5666904/firestorm-jacob-soboroff-palisades-eaton" target="_blank">&#x27;Everything I knew burned down around me&#x27;: A journalist looks back on LA&#x27;s fires</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-05 19:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,38 +105,20 @@
                 <span class="time">2026-01-05 17:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/maduro-5-stsk-gmh-260105_1767620220106_hpMain_4x3t_384.jpg" alt="Maduro declares &#x27;I am innocent&#x27; and &#x27;still president&#x27; in Manhattan court appearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/maduro-wife-manhattan-federal-court-monday/story?id=128903135" target="_blank">Maduro declares &#x27;I am innocent&#x27; and &#x27;still president&#x27; in Manhattan court appearance</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-05 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/maduro-lxzfxs.jpg" alt="Nicolás Maduro Set to Appear in New York Court After US Capture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/nicolas-maduro-set-to-appear-in-new-york-court-after-us-capture-255402053523" target="_blank">Nicolás Maduro Set to Appear in New York Court After US Capture</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-05 14:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/maduro-5-stsk-gmh-260105_1767620220106_hpMain_4x3t_384.jpg" alt="Maduro and wife to appear in Manhattan federal court on Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/maduro-wife-manhattan-federal-court-monday/story?id=128903135" target="_blank">Maduro and wife to appear in Manhattan federal court on Monday</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-05 13:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/695c030fd02c8c2e2cb83526/master/pass/These%20On-Ear%20Beats%20Headphones%20Are%20Marked%20Down%20by%20$70.png" alt="These On-Ear Beats Headphones Are Marked Down by $70" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/beats-solo-4-deal-126/" target="_blank">These On-Ear Beats Headphones Are Marked Down by $70</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-05 19:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/695bc74f1e9a19f18d143eeb/master/pass/SMARTBrick_Hero_16x9.jpg" alt="Lego’s Smart Brick Gives the Iconic Analog Toy a New Digital Brain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -122,6 +141,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/05/hacktivist-deletes-white-supremacist-websites-live-on-stage-during-hacker-conference/" target="_blank">Hacktivist deletes white supremacist websites live onstage during hacker conference</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-05 18:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/01/05/hacktivist-deletes-white-supremacist-websites-live-on-stage-during-hacker-conference/" target="_blank">Hacktivist deletes white supremacist websites live on stage during hacker conference</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-05 18:57</span>
@@ -136,24 +164,6 @@
                 <span class="time">2026-01-05 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/We_previewed_new_Gemini_for_Google_TV-500x500.png" alt="Gemini expands on Google TV, bringing Nano Banana and Veo models to your TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2026/01/gemini-expands-on-google-tv-bringing-nano-banana-and-veo-models-to-your-tv/" target="_blank">Gemini expands on Google TV, bringing Nano Banana and Veo models to your TV</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-05 17:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/05/the-2026-bmw-ix3-voice-assistant-will-be-powered-by-alexa/" target="_blank">The 2026 BMW iX3 voice assistant will be powered by Alexa+</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-05 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,6 +176,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18828394&w=600" alt="Securing Verifiable Credentials With DPoP: A Spring Boot Implementation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/securing-verifiable-credentials-with-dpop-spring-boot" target="_blank">Securing Verifiable Credentials With DPoP: A Spring Boot Implementation</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-05 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -190,7 +209,7 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/Adversis/tailsnitch" target="_blank">Show HN: Tailsnitch – A Security Auditor for Tailscale</a></span>
+                <span class="title"><a href="https://github.com/Adversis/tailsnitch" target="_blank">Show HN: Tailsnitch – A security auditor for Tailscale</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-05 16:47</span>
             </div>
@@ -198,19 +217,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/linux-resolutions-2026/" target="_blank">5 Linux Resolutions to Level Up Your Skills in 2026</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-05 16:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18807812&w=600" alt="Raw Agent Systems Explained: From Single Agents to Multi-Agent Networks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/raw-agent-systems-explained" target="_blank">Raw Agent Systems Explained: From Single Agents to Multi-Agent Networks</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-05 16:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/Adversis/tailsnitch" target="_blank">Show HN: Tailsnitch – A Security Auditor for Tailscale</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-05 16:47</span>
             </div>
         </div>
 </div>
@@ -232,6 +242,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/peter-claffey_aknightofthesevenkingdoms-1280x853.jpg" alt="The Year Ahead in TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tv-2026-preview-knight-of-the-seven-kingdoms-starfleet-academy-2000704994" target="_blank">The Year Ahead in TV</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-05 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/0cy3q2nex7zf1.jpg" alt="Stranger Things Fans Are Convinced There’s A Secret Episode That Will ‘Fix’ Disappointing Finale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/stranger-things-secret-finale-conformity-gate-explained-2000656704" target="_blank">Stranger Things Fans Are Convinced There’s A Secret Episode That Will ‘Fix’ Disappointing Finale</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-05 19:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KE7HWMFH59T0AC4YAWS4WV97/hero-image.jpg" alt="CES 2026: Hisense Just Announced the RGB MiniLED Evo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/hisense-announced-rgb-miniled-evo-at-ces-2026?utm_medium=RSS" target="_blank">CES 2026: Hisense Just Announced the RGB MiniLED Evo</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-05 19:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/luna-band-1280x853.png" alt="This Health Band Is Like if Whoop Went Wild With Voice Assistants" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -257,33 +294,6 @@
                 <span class="title"><a href="https://gizmodo.com/greenland-2-final-trailer-gerard-butler-morena-baccarin-2000705552" target="_blank">The Final ‘Greenland 2: Migration’ Trailer Promises Gerard Butler Will Save You</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-05 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/nvidia-1280x720.jpg" alt="Things Are So Bad Nvidia Might Be Bringing Back Old Graphics Cards" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nvidia-rtx-3060-returning-2026-dram-shortage-gpus-expensive-prices-2000656687" target="_blank">Things Are So Bad Nvidia Might Be Bringing Back Old Graphics Cards</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-05 17:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/they-will-kill-you-hed-1280x853.jpg" alt="Check In for the First Trailer for ‘They Will Kill You’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/they-will-kill-you-trailer-zazie-beetz-2000699567" target="_blank">Check In for the First Trailer for ‘They Will Kill You’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-05 17:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KE7GKY99S07EZ530VVCEWJME/hero-image.jpg" alt="CES 2026: Withings&#x27; Body Scan 2 Is a Smart Scale With Smartwatch Health Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/ces-2026-withings-body-scan-2-smart-scale?utm_medium=RSS" target="_blank">CES 2026: Withings&#x27; Body Scan 2 Is a Smart Scale With Smartwatch Health Features</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-05 17:00</span>
             </div>
         </div>
 </div>
@@ -323,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 19:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
