@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-01-05 05:11:55 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-01-05 06:04:12 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, January 05, 2026 - 05:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, January 05, 2026 - 06:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +104,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/850488/birdbuddy-2-mini-ces-2026" target="_blank">Birdbuddy’s new smart feeders aim to make spotting birds easier, even for beginners</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-05 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/853758/shut-the-fridge-door" target="_blank">Shut the fridge door!</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-05 03:00</span>
@@ -152,15 +154,6 @@
                 <span class="time">2026-01-04 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/695aacdd549c2434b696ec86/master/pass/2252639554" alt="Trump Wants Venezuela&#x27;s Oil. Getting It Might Not Be So Simple" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/trump-wants-venezuelas-oil-getting-it-might-not-be-so-simple/" target="_blank">Trump Wants Venezuela&#x27;s Oil. Getting It Might Not Be So Simple</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-04 19:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +166,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/trojanmocx/i-built-a-desktop-app-that-commits-to-github-so-i-dont-have-to-lie-about-consistency-3jd5" target="_blank">I Built a Desktop App That Commits to GitHub So I Don’t Have To Lie About Consistency</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-05 05:56</span>
             </div>
         </div>
 <div class="story">
@@ -213,15 +215,6 @@ Moments like this remind me that I’m actually living the dream I once talked a
 Learning backend engineering with Node.js has</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-04 23:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fabianfrankwerner/an-honest-review-of-google-antigravity-4g6f" target="_blank">An Honest Review of Google Antigravity</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-04 23:00</span>
             </div>
         </div>
 </div>
@@ -276,7 +269,7 @@ Learning backend engineering with Node.js has</a></span>
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 22 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 05:12 UTC
+        🔄 Last Updated: 06:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
