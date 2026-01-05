@@ -1,19 +1,16 @@
-<!-- Processing 54 RSS feeds at 2026-01-05 12:02:28 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-01-05 13:14:55 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
@@ -23,16 +20,11 @@
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, January 05, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, January 05, 2026 - 13:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/5/why-was-ruben-amorim-sacked-as-man-united-manager?traffic_source=rss" target="_blank">Why was Ruben Amorim sacked as Man United manager?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-05 12:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8951/live/17acc0e0-ea31-11f0-b5f7-49f0357294ff.jpg" alt="Only Greenland and Denmark should decide its future, Starmer says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy9yq8znq37o?at_medium=RSS&at_campaign=rss" target="_blank">Only Greenland and Denmark should decide its future, Starmer says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-05 12:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-251230_1767102217648_hpMain_4x3t_384.jpg" alt="Venezuela live updates: Trump calls out Colombia&#x27;s Petro, says Cuba&#x27;s &#x27;ready to fall&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +94,29 @@
                 <span class="time">2026-01-05 06:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/5/russia-ukraine-war-list-of-key-events-day-1411?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,411</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-05 04:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/maduro-ny-12-ht-gmh-260103_1767498257816_hpMain_4x3t_384.jpg" alt="Venezuela live updates: Trump says US is &#x27;in charge&#x27; of Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/venezuela-live-updates-trump-give-details-after-us/?id=127792811" target="_blank">Venezuela live updates: Trump says US is &#x27;in charge&#x27; of Venezuela</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-05 03:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/852021/jbl-open-ear-earbuds-ces-2026" target="_blank">JBL expands open-ear lineup with new buds coming to the US in March</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-05 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG-2-Ascent-11-500x500.jpg" alt="Our annual power ranking of US rocket companies has changes near the top and bottom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/01/theres-a-big-shake-up-near-the-top-of-our-annual-us-launch-company-rankings/" target="_blank">Our annual power ranking of US rocket companies has changes near the top and bottom</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-05 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,24 +153,6 @@
                 <span class="time">2026-01-05 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/05/kodiak-taps-bosch-to-scale-its-self-driving-truck-tech/" target="_blank">Kodiak taps Bosch to scale its self-driving truck tech</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-05 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/05/flutterwave-buys-nigerias-mono-in-rare-african-fintech-exit/" target="_blank">Flutterwave buys Nigeria’s Mono in rare African fintech exit</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-05 08:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -179,6 +171,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/priya_dharshini_b30d11c20/why-e-commerce-website-design-is-essential-for-modern-business-growth-3k38" target="_blank">Why E-commerce Website Design Is Essential for Modern Business Growth</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-05 13:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://bobrubbens.nl/post/sneaking-metadata-into-mako-templates/" target="_blank">Sneaking Metadata into Mako Templates</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-01-05 12:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tonsky.me/blog/tahoe-icons/" target="_blank">It&#x27;s hard to justify Tahoe icons</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-05 11:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/tim_alex_ba4bc28e6bdfc168/home-assistant-langsam-so-rettest-du-deine-sd-karte-machst-das-dashboard-wieder-schnell-2hfn" target="_blank">Home Assistant langsam? So rettest du deine SD-Karte &amp; machst das Dashboard wieder schnell</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-05 11:43</span>
@@ -191,33 +210,6 @@
                 <span class="title"><a href="https://www.infoq.com/articles/engineering-speed-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Engineering Speed at Scale — Architectural Lessons from Sub-100-ms APIs</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-01-05 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz6jv8yl1qozfx8s23j4h.png" alt="Zigbee Netzwerk instabil? 4 Profi-Tipps gegen &quot;Offline&quot;-Geräte &amp; Interferenzen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tim_alex_ba4bc28e6bdfc168/zigbee-netzwerk-instabil-4-profi-tipps-gegen-offline-gerate-interferenzen-57fn" target="_blank">Zigbee Netzwerk instabil? 4 Profi-Tipps gegen &quot;Offline&quot;-Geräte &amp; Interferenzen</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-05 10:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fjolo-dev-blog-images.s3.amazonaws.com%2FThe%2520Idea%2520-%2520Magic%2520Code%2520Email.png" alt="Do we need AWS Durable Functions when we have Step Functions?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/do-we-need-aws-durable-functions-when-we-have-step-functions-1kk1" target="_blank">Do we need AWS Durable Functions when we have Step Functions?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-05 09:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.dlp.rip/decorative-cryptography" target="_blank">Decorative Cryptography</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-05 08:29</span>
             </div>
         </div>
 </div>
@@ -239,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/KAMRUI-AM21-Mini-PC-1280x853.jpg" alt="Amazon Offloads This Ryzen 7 Mini PC at Its Lowest Price (32GB RAM, 1TB SSD), Cheaper Alternative to the Mac Mini" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-offloads-this-ryzen-7-mini-pc-at-its-lowest-price-32gb-ram-1tb-ssd-cheaper-alternative-to-the-mac-mini-2000656576" target="_blank">Amazon Offloads This Ryzen 7 Mini PC at Its Lowest Price (32GB RAM, 1TB SSD), Cheaper Alternative to the Mac Mini</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-05 13:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/syringes-1280x853.jpg" alt="Silicon Valley Is Flirting with a Very Stupid New Way to Die" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -312,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 13:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
