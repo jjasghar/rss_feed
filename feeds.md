@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-05 11:01:56 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-05 12:02:28 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, January 05, 2026 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, January 05, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-251230_1767102217648_hpMain_4x3t_384.jpg" alt="Venezuela live updates: Trump calls out Colombia&#x27;s Petro, says Cuba&#x27;s &#x27;ready to fall&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/venezuela-live-updates-trump-give-details-after-us/?id=127792811" target="_blank">Venezuela live updates: Trump calls out Colombia&#x27;s Petro, says Cuba&#x27;s &#x27;ready to fall&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-05 11:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +102,29 @@
                 <span class="time">2026-01-05 03:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/5/trumps-abduction-of-maduro-escalates-concerns-over-potential-war-with-iran?traffic_source=rss" target="_blank">Trump’s abduction of Maduro escalates concerns over potential war with Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-05 02:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/05/teradar-reveals-its-first-terahertz-band-vision-sensor-for-cars/" target="_blank">Teradar reveals its first terahertz-band vision sensor for cars</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-05 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6959742a26a8e686c22b0268/master/pass/Best%20Cat%20Fountains%20Update%20122025%20top%20art%20SOURCE%20Brooke_Petlibro.jpg" alt="9 Best Cat Water Fountains, WIRED-Tested and Reviewed (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/the-best-cat-water-fountains/" target="_blank">9 Best Cat Water Fountains, WIRED-Tested and Reviewed (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-05 11:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69580d518c0897e24c988f56/master/pass/I-Switched-to-eSim-Regret-It-Gear-1495739154.jpg" alt="I Switched to eSIM, and I Am Full of Regret" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,24 +161,6 @@
                 <span class="time">2026-01-05 08:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/854457/frontierx-vex-aura-robots-companions-pets" target="_blank">This robot companion is a cameraman for your pet</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-05 06:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/850488/birdbuddy-2-mini-ces-2026" target="_blank">Birdbuddy’s new smart feeders aim to make spotting birds easier, even for beginners</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-05 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +173,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tim_alex_ba4bc28e6bdfc168/home-assistant-langsam-so-rettest-du-deine-sd-karte-machst-das-dashboard-wieder-schnell-2hfn" target="_blank">Home Assistant langsam? So rettest du deine SD-Karte &amp; machst das Dashboard wieder schnell</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-05 11:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/engineering-speed-scale/en/headerimage/engineering-speed-scale-header-1767006608903.jpg" alt="Article: Engineering Speed at Scale — Architectural Lessons from Sub-100-ms APIs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/engineering-speed-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Engineering Speed at Scale — Architectural Lessons from Sub-100-ms APIs</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-05 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -201,22 +220,18 @@
                 <span class="time">2026-01-05 08:29</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fracabu/readme2video-transform-any-github-readme-into-a-professional-promo-video-1ihk" target="_blank">README2Video - Transform Any GitHub README into a Professional Promo Video</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-05 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/multi-agent-design-patterns/en/headerimage/multi-agent-design-patterns-1767518676429.jpeg" alt="Google’s Eight Essential Multi-Agent Design Patterns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/multi-agent-design-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google’s Eight Essential Multi-Agent Design Patterns</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-05 07:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/telegram-hosting-worlds-largest-darknet-market.html" target="_blank">Telegram Hosting World’s Largest Darknet Market</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-01-05 12:01</span>
             </div>
         </div>
 </div>
@@ -297,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
