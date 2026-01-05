@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-05 02:44:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-05 03:33:59 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, January 05, 2026 - 02:44 UTC</div>
+    <div class="newspaper-date">Monday, January 05, 2026 - 03:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +109,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/853758/shut-the-fridge-door" target="_blank">Shut the fridge door!</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-05 03:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/850005/ces-2026-withings-body-scan-2-smart-scale-longevity-tech-health" target="_blank">Withings thinks of its latest smart scale as a ‘longevity station’</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-05 01:00</span>
@@ -149,15 +159,6 @@
                 <span class="time">2026-01-04 19:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/849332/belkin-charging-case-pro-nintendo-switch-2-battery" target="_blank">You can charge the battery in Belkin’s new Switch 2 power case without opening it</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-04 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +171,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aimodels-fyi/a-beginners-guide-to-the-granite-31-2b-instruct-model-by-ibm-granite-on-replicate-4i6g" target="_blank">A beginner&#x27;s guide to the Granite-3.1-2b-Instruct model by Ibm-Granite on Replicate</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-05 03:31</span>
             </div>
         </div>
 <div class="story">
@@ -210,15 +220,6 @@ Learning backend engineering with Node.js has</a></span>
                 <span class="title"><a href="https://dev.to/fabianfrankwerner/an-honest-review-of-google-antigravity-4g6f" target="_blank">An Honest Review of Google Antigravity</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-04 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-rc4" target="_blank">Linux 6.19-rc4 Released Following A Quiet Holiday Week, 6.19-rc8 Already Planned</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-04 22:56</span>
             </div>
         </div>
 </div>
@@ -263,8 +264,8 @@ Learning backend engineering with Node.js has</a></span>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 02:44 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 03:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
