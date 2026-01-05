@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-05 14:03:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-05 15:02:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, January 05, 2026 - 14:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, January 05, 2026 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/maduro-5-stsk-gmh-260105_1767620220106_hpMain_4x3t_384.jpg" alt="Maduro and wife to appear in Manhattan federal court on Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/maduro-wife-manhattan-federal-court-monday/story?id=128903135" target="_blank">Maduro and wife to appear in Manhattan federal court on Monday</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-05 13:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767617446623_tdy_news_7a_engel_venezuelas_future_260105_1920x1080-h3y216.jpg" alt="What’s Next for Venezuela and US After Maduro Capture?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,6 +86,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a729/live/abb946a0-e95a-11f0-a8dc-93c15fe68710.jpg" alt="Schools closed and travel disrupted in parts of UK after heavy snow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/weather/articles/c89qvjwdk7jo?at_medium=RSS&at_campaign=rss" target="_blank">Schools closed and travel disrupted in parts of UK after heavy snow</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-05 12:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-251230_1767102217648_hpMain_4x3t_384.jpg" alt="Venezuela live updates: Trump calls out Colombia&#x27;s Petro, says Cuba&#x27;s &#x27;ready to fall&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -83,29 +103,20 @@
                 <span class="time">2026-01-05 11:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/5/trumps-bid-to-commandeer-venezuelas-oil-sector-faces-hurdles-experts-say?traffic_source=rss" target="_blank">Trump’s bid to commandeer Venezuela’s oil sector faces hurdles, experts say</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-05 09:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/05/nx-s1-5662498/morning-news-brief" target="_blank">Morning news brief</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-05 09:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/852942/mira-ultra4-wand-hormone-testing-ces-2026-health" target="_blank">This egg-shaped gadget aims to demystify hormones… with pee</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-05 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +162,6 @@
                 <span class="time">2026-01-05 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/05/teradar-reveals-its-first-terahertz-band-vision-sensor-for-cars/" target="_blank">Teradar reveals its first terahertz-band vision sensor for cars</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-05 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -177,46 +179,46 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Apple-Silicon-Power-Driver-2026" target="_blank">Apple SMC Power Driver Posted For Linux Kernel To Finally Expose Battery Stats</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-05 14:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/cocos-4-game-engine/" target="_blank">First Good News of 2026!COCOS 4 Game Engine Goes Open Source</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-05 14:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/solving-cloud-infrastructure/en/mediumimage/brendan-mcloughlin-medium-1766064244505.jpg" alt="Presentation: Thinking Like a Detective: Solving Cloud Infrastructure Mysteries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/solving-cloud-infrastructure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Thinking Like a Detective: Solving Cloud Infrastructure Mysteries</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-05 14:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18806352&w=600" alt="Best Date Conversion Approaches in Java 8+" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/java-8-date-conversion-best-practices" target="_blank">Best Date Conversion Approaches in Java 8+</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-05 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/priya_dharshini_b30d11c20/why-e-commerce-website-design-is-essential-for-modern-business-growth-3k38" target="_blank">Why E-commerce Website Design Is Essential for Modern Business Growth</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-05 13:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://bobrubbens.nl/post/sneaking-metadata-into-mako-templates/" target="_blank">Sneaking Metadata into Mako Templates</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-01-05 12:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tonsky.me/blog/tahoe-icons/" target="_blank">It&#x27;s hard to justify Tahoe icons</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-05 11:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tim_alex_ba4bc28e6bdfc168/home-assistant-langsam-so-rettest-du-deine-sd-karte-machst-das-dashboard-wieder-schnell-2hfn" target="_blank">Home Assistant langsam? So rettest du deine SD-Karte &amp; machst das Dashboard wieder schnell</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-05 11:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/engineering-speed-scale/en/headerimage/engineering-speed-scale-header-1767006608903.jpg" alt="Article: Engineering Speed at Scale — Architectural Lessons from Sub-100-ms APIs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/engineering-speed-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Engineering Speed at Scale — Architectural Lessons from Sub-100-ms APIs</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-05 11:00</span>
             </div>
         </div>
 </div>
@@ -238,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KE789S3GE17HZA80Q6CD3TJJ/hero-image.jpg" alt="Why I&#x27;m Never Going to Let AI Write My Emails" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/why-i-am-never-going-to-let-ai-write-email?utm_medium=RSS" target="_blank">Why I&#x27;m Never Going to Let AI Write My Emails</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-05 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/Apple2025MacBookAir-1280x853.jpg" alt="Apple Goes Full Clearance on MacBook Air (2025 M4, 13″) at Record Low to Make Room for the 2026 Laptop Lineup" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +294,6 @@
                 <span class="time">2026-01-05 06:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Apple-MacBook-Air-2-1.jpg?fit=1800%2C1351&amp;quality=60&amp;ssl=1" alt="New year, new laptop — Get a MacBook Air for $200" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/04/new-year-new-laptop-get-a-macbook-air-for-200.html" target="_blank">New year, new laptop — Get a MacBook Air for $200</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-04 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 14:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
