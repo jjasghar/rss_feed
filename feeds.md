@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-05 09:05:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-05 10:02:40 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, January 05, 2026 - 09:05 UTC</div>
+    <div class="newspaper-date">Monday, January 05, 2026 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/5/trumps-bid-to-commandeer-venezuelas-oil-sector-faces-hurdles-experts-say?traffic_source=rss" target="_blank">Trump’s bid to commandeer Venezuela’s oil sector faces hurdles, experts say</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-05 09:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/05/nx-s1-5662498/morning-news-brief" target="_blank">Morning news brief</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-05 09:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +103,29 @@
                 <span class="time">2026-01-05 01:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a41/live/7ff4b390-e87b-11f0-bc7f-29a9366d9201.png" alt="Teen girl educated in UK confirmed to have died in Swiss bar fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwy8p13ezdxo?at_medium=RSS&at_campaign=rss" target="_blank">Teen girl educated in UK confirmed to have died in Swiss bar fire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-05 00:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-metropolitan-detention_7126535.png?20260105005434" alt="What are jail conditions like for Nicolas Maduro?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/nicolas-maduro-is-at-a-jail-housing-americas-most-unwanted-and-its-far-from-presidential-13490538" target="_blank">What are jail conditions like for Nicolas Maduro?</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-05 00:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6941434a6280a5114317f439/master/pass/GettyImages-2217533380.jpg" alt="Flu Is Relentless. Crispr Might Be Able to Shut It Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/crispr-flu-antivirals/" target="_blank">Flu Is Relentless. Crispr Might Be Able to Shut It Down</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-05 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/05/kodiak-taps-bosch-to-scale-its-self-driving-truck-tech/" target="_blank">Kodiak taps Bosch to scale its self-driving truck tech</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-05 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +162,6 @@
                 <span class="time">2026-01-05 03:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/850005/ces-2026-withings-body-scan-2-smart-scale-longevity-tech-health" target="_blank">Withings thinks of its latest smart scale as a ‘longevity station’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-05 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/850763/mammotion-luba-3-awd-robot-lawnmower-lidar-ces-2026" target="_blank">Mammotion’s flagship robot lawnmower now uses lidar to map your yard</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-05 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +174,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fjolo-dev-blog-images.s3.amazonaws.com%2FThe%2520Idea%2520-%2520Magic%2520Code%2520Email.png" alt="Do we need AWS Durable Functions when we have Step Functions?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/do-we-need-aws-durable-functions-when-we-have-step-functions-1kk1" target="_blank">Do we need AWS Durable Functions when we have Step Functions?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-05 09:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.dlp.rip/decorative-cryptography" target="_blank">Decorative Cryptography</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-05 08:29</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/trojanmocx/i-built-a-desktop-app-that-commits-to-github-so-i-dont-have-to-lie-about-consistency-3jd5" target="_blank">I Built a Desktop App That Commits to GitHub So I Don’t Have To Lie About Consistency</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-05 05:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="http://mpaxos.com/blog/rusty-cpp.html" target="_blank">Building a Rust-style static analyzer for C++ with AI</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-05 05:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aimodels-fyi/a-beginners-guide-to-the-granite-31-2b-instruct-model-by-ibm-granite-on-replicate-4i6g" target="_blank">A beginner&#x27;s guide to the Granite-3.1-2b-Instruct model by Ibm-Granite on Replicate</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-05 03:31</span>
             </div>
         </div>
 </div>
@@ -278,8 +281,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 09:05 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
