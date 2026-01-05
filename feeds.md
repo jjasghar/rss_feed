@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-05 06:04:12 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-01-05 07:07:10 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, January 05, 2026 - 06:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, January 05, 2026 - 07:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -87,10 +92,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-metropolitan-detention_7126535.png?20260105005434" alt="Maduro is at a jail housing America&#x27;s &#x27;most unwanted&#x27; - and it&#x27;s far from presidential" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-metropolitan-detention_7126535.png?20260105005434" alt="What are jail conditions like for Nicolas Maduro?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/nicolas-maduro-is-at-a-jail-housing-americas-most-unwanted-and-its-far-from-presidential-13490538" target="_blank">Maduro is at a jail housing America&#x27;s &#x27;most unwanted&#x27; - and it&#x27;s far from presidential</a></span>
+                <span class="title"><a href="https://news.sky.com/story/nicolas-maduro-is-at-a-jail-housing-americas-most-unwanted-and-its-far-from-presidential-13490538" target="_blank">What are jail conditions like for Nicolas Maduro?</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-01-05 00:14</span>
             </div>
@@ -100,6 +105,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/854457/frontierx-vex-aura-robots-companions-pets" target="_blank">This robot companion is a cameraman for your pet</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-05 06:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +159,6 @@
                 <span class="time">2026-01-04 21:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/854091/aliro-smart-lock-standard-launches-2026-apple-uwb-nfc" target="_blank">Aliro arrives – the smart lock standard is set to launch this year</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-04 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,9 +177,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fracabu/readme2video-transform-any-github-readme-into-a-professional-promo-video-1ihk" target="_blank">README2Video - Transform Any GitHub README into a Professional Promo Video</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-05 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/multi-agent-design-patterns/en/headerimage/multi-agent-design-patterns-1767518676429.jpeg" alt="Google’s Eight Essential Multi-Agent Design Patterns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/multi-agent-design-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google’s Eight Essential Multi-Agent Design Patterns</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-05 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/trojanmocx/i-built-a-desktop-app-that-commits-to-github-so-i-dont-have-to-lie-about-consistency-3jd5" target="_blank">I Built a Desktop App That Commits to GitHub So I Don’t Have To Lie About Consistency</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-05 05:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="http://mpaxos.com/blog/rusty-cpp.html" target="_blank">Building a Rust-style static analyzer for C++ with AI</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-05 05:11</span>
             </div>
         </div>
 <div class="story">
@@ -184,37 +216,6 @@
                 <span class="title"><a href="https://dev.to/aimodels-fyi/a-beginners-guide-to-the-granite-31-2b-instruct-model-by-ibm-granite-on-replicate-4i6g" target="_blank">A beginner&#x27;s guide to the Granite-3.1-2b-Instruct model by Ibm-Granite on Replicate</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-05 03:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aimodels-fyi/a-beginners-guide-to-the-pixart-lcm-xl-2-model-by-lucataco-on-replicate-3dl9" target="_blank">A beginner&#x27;s guide to the Pixart-Lcm-Xl-2 model by Lucataco on Replicate</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-05 02:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/java-news-roundup-dec29-2025/en/headerimage/java-istock-image-01-1767543839844.jpg" alt="Java News Roundup: Spring Shell, JReleaser, TornadoInsight, Apache Camel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/java-news-roundup-dec29-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Spring Shell, JReleaser, TornadoInsight, Apache Camel</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-05 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cyndiee/i-just-finished-my-database-assignment-even-though-the-deadline-was-yesterday-at-1159pm-ob0" target="_blank">I just finished my database assignment even though the deadline was yesterday at 11:59pm 😅
-
-Moments like this remind me that I’m actually living the dream I once talked about: becoming a software engineer.
-
-Learning backend engineering with Node.js has</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-04 23:58</span>
             </div>
         </div>
 </div>
@@ -268,8 +269,8 @@ Learning backend engineering with Node.js has</a></span>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 06:04 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 07:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
