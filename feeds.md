@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-05 21:01:26 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-05 22:01:34 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, January 05, 2026 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, January 05, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-3-gty-gmh-260105_1767624564791_hpMain_4x3t_384.jpg" alt="Mixed messages from Trump and Rubio on who&#x27;s running Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/mixed-messages-trump-rubio-running-venezuela/story?id=128916034" target="_blank">Mixed messages from Trump and Rubio on who&#x27;s running Venezuela</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-05 21:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/05/g-s1-104632/venezuela-government" target="_blank">Venezuela swears in interim leader, seeking to show it operates free from U.S. control</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-05 20:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +99,29 @@
                 <span class="time">2026-01-05 18:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767635867881_nbc_spec_brock_courtroom_view_260105_1920x1080-q6z32k.jpg" alt="How the courtroom reacted as Maduro and his wife pleaded not guilty" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/how-the-courtroom-reacted-as-maduro-and-his-wife-pleaded-not-guilty-255413317752" target="_blank">How the courtroom reacted as Maduro and his wife pleaded not guilty</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-05 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d968/live/a2c127a0-ea56-11f0-b385-5f48925de19a.jpg" alt="Snow and ice hit UK road and rail travel with schools forced to shut" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy4qp0kjxq5o?at_medium=RSS&at_campaign=rss" target="_blank">Snow and ice hit UK road and rail travel with schools forced to shut</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-05 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2252087162-500x500.jpg" alt="Under anti-vaccine RFK Jr., CDC slashes childhood vaccine schedule" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/01/under-anti-vaccine-rfk-jr-cdc-slashes-childhood-vaccine-schedule/" target="_blank">Under anti-vaccine RFK Jr., CDC slashes childhood vaccine schedule</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-05 21:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/695c067688c4535fb1546355/master/pass/Googles-AI-Taking-Control-of-Humanoids-On-Auto-Factory-Floor-Business-YT-Pre-Launch-Thumbnail.jpg" alt="Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/" target="_blank">Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-05 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/spotify-logos-500x500-1767642286.jpg" alt="Anna’s Archive loses .org domain, says suspension likely unrelated to Spotify piracy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,24 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/lego-smart-brick-new-digital-brain/" target="_blank">Lego’s Smart Brick Gives the Iconic Analog Toy a New Digital Brain</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-01-05 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/854556/lego-announces-smart-brick-the-most-significant-evolution-in-50-years" target="_blank">Lego announces Smart Brick, the &amp;#8216;most significant evolution&amp;#8217; in 50 years</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-05 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/05/hacktivist-deletes-white-supremacist-websites-live-on-stage-during-hacker-conference/" target="_blank">Hacktivist deletes white supremacist websites live onstage during hacker conference</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-05 18:57</span>
             </div>
         </div>
 </div>
@@ -236,6 +237,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/01/Donald-Trump-holds-hands-with-Peter-Thiel-1280x853.jpg" alt="US Awards Peter Thiel–Backed Nuclear Startup $900 Million" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/us-awards-peter-thiel-backed-nuclear-startup-900-million-2000705701" target="_blank">US Awards Peter Thiel–Backed Nuclear Startup $900 Million</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-05 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/LEGOSMART-1280x720.jpg" alt="Lego Fit A Whole-Ass Computer Inside A Single Brick To Make Star Wars Sounds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lego-smart-play-brick-star-wars-march-interactive-sets-2000656727" target="_blank">Lego Fit A Whole-Ass Computer Inside A Single Brick To Make Star Wars Sounds</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-05 21:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/07/668d53118e806993965709d5f032c776-1280x720.jpg" alt="Some Anthem Players Say EA Is Already Blocking Them From Playing The Game A Week Before It Shuts Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -263,30 +282,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KE7HWMFH59T0AC4YAWS4WV97/hero-image.jpg" alt="CES 2026: Hisense Just Announced the RGB MiniLED Evo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/hisense-announced-rgb-miniled-evo-at-ces-2026?utm_medium=RSS" target="_blank">CES 2026: Hisense Just Announced the RGB MiniLED Evo</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-05 19:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/luna-band-1280x853.png" alt="This Health Band Is Like if Whoop Went Wild With Voice Assistants" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-health-band-is-like-if-whoop-went-wild-with-voice-assistants-2000705329" target="_blank">This Health Band Is Like if Whoop Went Wild With Voice Assistants</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-05 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/11/image-26.png?fit=480%2C270&amp;quality=55&amp;ssl=1" alt="The US once had a secret plan to nuke the moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/07/trump-rambo-e1767640911615.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Suddenly, the &quot;no war&quot; president wants to attack everyone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/05/the-us-once-had-a-secret-plan-to-nuke-the-moon.html" target="_blank">The US once had a secret plan to nuke the moon</a></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/05/suddenly-the-no-war-president-wants-to-attack-everyone.html" target="_blank">Suddenly, the &quot;no war&quot; president wants to attack everyone</a></span>
                 <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-05 18:41</span>
+                <span class="time">2026-01-05 19:23</span>
             </div>
         </div>
 </div>
@@ -294,6 +295,15 @@
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/05/absolute-penny-arcade-part-three" target="_blank">Absolute Penny Arcade: Part Three</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-01-05 20:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1767567885-20260105.png" alt="Saturday Morning Breakfast Cereal - Guardrails" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -326,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
