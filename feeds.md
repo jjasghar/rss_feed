@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-05 20:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-05 21:01:26 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, January 05, 2026 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, January 05, 2026 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +104,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/spotify-logos-500x500-1767642286.jpg" alt="Anna’s Archive loses .org domain, says suspension likely unrelated to Spotify piracy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/annas-archive-loses-org-domain-says-suspension-likely-unrelated-to-spotify-piracy/" target="_blank">Anna’s Archive loses .org domain, says suspension likely unrelated to Spotify piracy</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-05 20:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/05/lego-smart-bricks-introduce-a-new-way-to-build-and-they-dont-require-screens/" target="_blank">Lego Smart Bricks introduce a new way to build — and they don’t require screens</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-05 20:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/695c030fd02c8c2e2cb83526/master/pass/These%20On-Ear%20Beats%20Headphones%20Are%20Marked%20Down%20by%20$70.png" alt="These On-Ear Beats Headphones Are Marked Down by $70" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -146,24 +157,6 @@
                 <span class="time">2026-01-05 18:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/05/hacktivist-deletes-white-supremacist-websites-live-on-stage-during-hacker-conference/" target="_blank">Hacktivist deletes white supremacist websites live on stage during hacker conference</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-05 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/855202/shokz-openrun-pro-bone-conduction-headphones-deal-sale" target="_blank">At $50 off, the Shokz OpenRun Pro helps you stick to your new year’s goals</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-05 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -179,48 +172,48 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18828394&w=600" alt="Securing Verifiable Credentials With DPoP: A Spring Boot Implementation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://res.infoq.com/news/2026/01/intel-deepmath-llm-architecture/en/headerimage/intel-deepmath-1767636786834.jpeg" alt="Intel DeepMath Introduces a Smart Architecture to Make LLMs Better at Math" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/securing-verifiable-credentials-with-dpop-spring-boot" target="_blank">Securing Verifiable Credentials With DPoP: A Spring Boot Implementation</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-05 19:00</span>
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/intel-deepmath-llm-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Intel DeepMath Introduces a Smart Architecture to Make LLMs Better at Math</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-05 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/paperium/global-attention-mechanism-retain-information-to-enhance-channel-spatialinteractions-6i0" target="_blank">Global Attention Mechanism: Retain Information to Enhance Channel-SpatialInteractions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-05 20:50</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Firefox-MiddleClick-Paste" target="_blank">GNOME &amp; Firefox Consider Disabling Middle Click Paste By Default: &quot;An X11&#x27;ism...Dumpster Fire&quot;</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Radeon-GPU-NPU-SMU15" target="_blank">Radeon Linux Driver Patches For Next-Gen Hardware Point To New NPU Integration</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-01-05 17:52</span>
+                <span class="time">2026-01-05 20:43</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18807482&w=600" alt="Beyond Fuzzy Matching: Engineering a Multi-Signal ML Pipeline for CRM Deduplication" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18806834&w=600" alt="Unlocking Hidden Value in Dirty Data: A Practical NLP Pattern for Legacy Records" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/multi-signal-ml-pipeline-crm-deduplication" target="_blank">Beyond Fuzzy Matching: Engineering a Multi-Signal ML Pipeline for CRM Deduplication</a></span>
+                <span class="title"><a href="https://dzone.com/articles/unlocking-hidden-value-in-dirty-data-a-practical-n" target="_blank">Unlocking Hidden Value in Dirty Data: A Practical NLP Pattern for Legacy Records</a></span>
                 <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-05 17:00</span>
+                <span class="time">2026-01-05 20:00</span>
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18828394&w=600" alt="Securing Verifiable Credentials With DPoP: A Spring Boot Implementation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/Adversis/tailsnitch" target="_blank">Show HN: Tailsnitch – A security auditor for Tailscale</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-05 16:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/Adversis/tailsnitch" target="_blank">Show HN: Tailsnitch – A Security Auditor for Tailscale</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-05 16:47</span>
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/securing-verifiable-credentials-with-dpop-spring-boot" target="_blank">Securing Verifiable Credentials With DPoP: A Spring Boot Implementation</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-05 19:00</span>
             </div>
         </div>
 </div>
@@ -242,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/07/668d53118e806993965709d5f032c776-1280x720.jpg" alt="Some Anthem Players Say EA Is Already Blocking Them From Playing The Game A Week Before It Shuts Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/anthem-shutdown-download-bioware-ea-pc-app-play-2000656725" target="_blank">Some Anthem Players Say EA Is Already Blocking Them From Playing The Game A Week Before It Shuts Down</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-05 20:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/peter-claffey_aknightofthesevenkingdoms-1280x853.jpg" alt="The Year Ahead in TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +289,6 @@
                 <span class="time">2026-01-05 18:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/greenland-family2-1280x853.jpg" alt="The Final ‘Greenland 2: Migration’ Trailer Promises Gerard Butler Will Save You" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/greenland-2-final-trailer-gerard-butler-morena-baccarin-2000705552" target="_blank">The Final ‘Greenland 2: Migration’ Trailer Promises Gerard Butler Will Save You</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-05 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
