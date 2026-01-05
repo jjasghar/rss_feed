@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-05 04:23:56 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-05 05:11:55 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 27 feeds processed -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, January 05, 2026 - 04:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, January 05, 2026 - 05:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/5/russia-ukraine-war-list-of-key-events-day-1411?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,411</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-05 04:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/maduro-ny-12-ht-gmh-260103_1767498257816_hpMain_4x3t_384.jpg" alt="Venezuela live updates: Trump says US is &#x27;in charge&#x27; of Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +100,6 @@
                 <span class="title"><a href="https://news.sky.com/story/nicolas-maduro-is-at-a-jail-housing-americas-most-unwanted-and-its-far-from-presidential-13490538" target="_blank">Maduro is at a jail housing America&#x27;s &#x27;most unwanted&#x27; - and it&#x27;s far from presidential</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-01-05 00:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/04/nx-s1-5666340/venezuela-nicolas-maduro-venezuelans-asylum-seekers-refugee" target="_blank">Miami mayor calls for Trump to &#x27;immediately&#x27; reinstate TPS for Venezuelans</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-04 23:33</span>
             </div>
         </div>
 </div>
@@ -228,6 +230,15 @@ Learning backend engineering with Node.js has</a></span>
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Apple-MacBook-Air-2-1.jpg?fit=1800%2C1351&amp;quality=60&amp;ssl=1" alt="New year, new laptop — Get a MacBook Air for $200" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/04/new-year-new-laptop-get-a-macbook-air-for-200.html" target="_blank">New year, new laptop — Get a MacBook Air for $200</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-04 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Drime-Secure-Cloud-Storage.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Safeguard your data and save $350 with Drime Secure Cloud Storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -264,8 +275,8 @@ Learning backend engineering with Node.js has</a></span>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 04:24 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 05:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
