@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-06 22:01:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2026-01-06 23:01:25 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, January 06, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, January 06, 2026 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +109,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/06/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/" target="_blank">CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-06 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/856815/jake-sullivan-interview-ai-chips-nvidia-trump" target="_blank">Jake Sullivan is furious that Trump destroyed his AI foreign policy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-06 22:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/21539047/best-amazon-kindle-deals" target="_blank">Here are the best Kindle deals right now</a></span>
                 <span class="feed">The Verge</span>
@@ -137,24 +160,6 @@
                 <span class="time">2026-01-06 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/XPS-16-500x500.jpeg" alt="Dell’s XPS revival is a welcome reprieve from the “AI PC” fad" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/dells-xps-revival-is-a-welcome-reprieve-from-the-ai-pc-fad/" target="_blank">Dell’s XPS revival is a welcome reprieve from the “AI PC” fad</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-06 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/856207/ces-2026-trend-ai-companion-robot-pet" target="_blank">AI moves into the real world as companion robots and pets</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-06 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +172,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frl75tiisi44jhb1oig94.png" alt="building Drosk - your smart desktop file organizer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/exoad/building-drosk-your-smart-desktop-file-organizer-39p" target="_blank">building Drosk - your smart desktop file organizer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-06 22:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Gentoo-2025-Accomplishments" target="_blank">Gentoo Linux Made Progress On RISC-V, WSL &amp; More In 2025 While Pulling In Just $12k USD</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-06 22:47</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +219,6 @@
                 <span class="time">2026-01-06 19:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-44-KDE-To-Plasma-Login" target="_blank">All Fedora 44 KDE Variants To Use Plasma Login Manager Rather Than SDDM</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-06 19:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18834358&w=600" alt="Developer Tools That Actually Matter in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/developer-tools-that-actually-matter-in-2026" target="_blank">Developer Tools That Actually Matter in 2026</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-06 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/King-Boo.jpg" alt="An AI ‘Ghost’ That Plays Games For You Is The Inevitable Endpoint Of Where This Is All Headed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sony-patent-ai-ghost-ps5-megabonk-2000657230" target="_blank">An AI ‘Ghost’ That Plays Games For You Is The Inevitable Endpoint Of Where This Is All Headed</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-06 22:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/black-friday-cyber-monday-live-blog-12-2-2025-apple-samsung-laptops-tvs?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-06 21:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KE7WSQ9R3CKEQRT4VP60E510/hero-image.jpg" alt="12 Shows Like &#x27;Heated Rivalry&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +292,6 @@
                 <span class="time">2026-01-06 19:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2020/01/mwhxnnavpehp3lnseo2d-1280x718.jpg" alt="Escape From Tarkov Dev Trolls Players By Making Its Impossible Ending Even More Brutal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/escape-from-tarkov-ending-boat-choice-terminal-2000657207" target="_blank">Escape From Tarkov Dev Trolls Players By Making Its Impossible Ending Even More Brutal</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-06 18:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEA53B9JCPQMZBE1YXV40VQB/hero-image.jpg" alt="CES 2026: Anker Launched These 2-in-1 Earbuds, and They’re Already on Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/anker-launched-these-2-in-1-earbuds-at-ces-2026?utm_medium=RSS" target="_blank">CES 2026: Anker Launched These 2-in-1 Earbuds, and They’re Already on Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-06 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
