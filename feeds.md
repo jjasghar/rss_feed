@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-06 04:14:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-06 05:04:22 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, January 06, 2026 - 04:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, January 06, 2026 - 05:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/6/us-critics-and-allies-condemn-maduros-abduction-at-un-security-council?traffic_source=rss" target="_blank">US critics and allies condemn Maduro’s abduction at UN Security Council</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-06 03:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,6 +86,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767658283626_nn_pal_trump_venezuela_260105_1920x1080-qyvffm.jpg" alt="Trump on Venezuela: ‘We’re in charge’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-on-venezuela-we-re-in-charge-255435845769" target="_blank">Trump on Venezuela: ‘We’re in charge’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-06 00:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -80,29 +103,38 @@
                 <span class="time">2026-01-05 23:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260105-venezuela-oil-ew-245p-3f666f.jpg" alt="Trump says the U.S. may reimburse oil companies for rebuilding Venezuela&#x27;s infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/energy/trump-venezuela-oil-companies-reimburse-rcna252434" target="_blank">Trump says the U.S. may reimburse oil companies for rebuilding Venezuela&#x27;s infrastructure</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-05 23:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/5/hundreds-of-tourists-stuck-on-yemeni-island-as-tensions-simmer-on-mainland?traffic_source=rss" target="_blank">Hundreds of tourists stuck on Yemeni island as tensions simmer on mainland</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-05 22:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/850919/smart-appliance-emerson-smartvoice-ces" target="_blank">Emerson’s SmartVoice devices follow verbal instructions without Wi-Fi or a hub</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-06 05:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Intel_CES_-500x500-1767668644.jpeg" alt="Intel launches Core Ultra Series 3 CPUs, made using its long-awaited 18A process" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/intel-launches-core-ultra-series-3-cpus-made-using-its-long-awaited-18a-process/" target="_blank">Intel launches Core Ultra Series 3 CPUs, made using its long-awaited 18A process</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-06 03:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/05/amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces/" target="_blank">AMD unveils new AI PC processors for general use and gaming at CES</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-06 03:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,33 +162,6 @@
                 <span class="time">2026-01-05 23:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/695bffe313835ca4d6b41e4a/master/pass/Nvidia-Rubin-Chips-Going-Into-Production-Business-2192346797.jpg" alt="Jensen Huang Says Nvidia’s New Vera Rubin Chips Are in ‘Full Production’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nvidias-rubin-chips-are-going-into-production/" target="_blank">Jensen Huang Says Nvidia’s New Vera Rubin Chips Are in ‘Full Production’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-05 23:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/05/this-is-ubers-new-robotaxi-from-lucid-and-nuro/" target="_blank">This is Uber’s new robotaxi from Lucid and Nuro</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-05 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/845706/hyperx-qdoled-500hz-v-stripe-curved-specs" target="_blank">HyperX’s 2026 gaming monitor lineup includes a 500Hz QD-OLED</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-05 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +174,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3oeqhgww0weljcrlt4o2.png" alt="Introducing Dagor : a High-Performance DAG Execution Engine in Go" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/will_zhang_598824ef87a46c/introducing-dagor-a-high-performance-dag-execution-engine-in-go-2m5e" target="_blank">Introducing Dagor : a High-Performance DAG Execution Engine in Go</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-06 04:57</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-CES-2026-Keynote" target="_blank">Intel Talks Up Core Ultra Series 3 &quot;Panther Lake&quot; &amp; Arc B390 Graphics</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-05 23:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/nvidia-vera-rubin-ubuntu-support" target="_blank">Canonical announces Ubuntu support for the NVIDIA Rubin platform</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-01-05 23:15</span>
             </div>
         </div>
 </div>
@@ -330,22 +335,13 @@
                 <span class="time">2026-01-05 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/tensegrity.png" alt="Tensegrity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3190/" target="_blank">Tensegrity</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-01-05 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 04:15 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 05:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
