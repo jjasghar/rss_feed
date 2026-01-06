@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-06 16:02:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-06 17:04:08 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, January 06, 2026 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, January 06, 2026 - 17:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -71,6 +72,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260106-nuuk-rs-d96570.jpg" alt="U.S. allies say &#x27;Greenland belongs to its people&#x27; as Trump escalates threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/ukraine/ukraine-security-guarantees-talks-trump-venezuela-greenland-europe-rcna252513" target="_blank">U.S. allies say &#x27;Greenland belongs to its people&#x27; as Trump escalates threats</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-06 11:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be1b/live/932bf850-eae8-11f0-b5f7-49f0357294ff.jpg" alt="Macron hosts Ukraine and allies to try to cement security guarantees" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -88,20 +98,20 @@
                 <span class="time">2026-01-06 10:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2026/01/06/nx-s1-5623005/seniors-aging-unhoused-homeless-shelters-mobility" target="_blank">More seniors are becoming homeless. Shelters are trying to adapt</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-06 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/851696/roborock-launches-its-first-robot-lawnmower-in-the-us" target="_blank">Roborock launches its first robot lawn mower in the US</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-06 17:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/ftcms_ccff82e2-1b3f-4dd6-af31-3b7bbfffc992.avif" alt="Ørsted seeks injunction against US government over project freeze" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -118,6 +128,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/06/meta-pauses-international-expansion-of-its-ray-ban-display-glasses/" target="_blank">Meta pauses international expansion of its Ray-Ban Display glasses</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-06 15:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69406a079f9b98727b285b39/master/pass/New-Season-of-Industry-Culture-myha-la.jpg" alt="‘Industry’ Takes on the Age Verification Wars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hbo-industry-season-4-age-verification/" target="_blank">‘Industry’ Takes on the Age Verification Wars</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-06 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -138,24 +157,6 @@
                 <span class="time">2026-01-06 13:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/SHM_Press_Conference_Yasuhide-Mizuno_1-500x500.jpg" alt="Sony wants its Afeela EV to be heavy on AI, also shows crossover" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/01/sony-wants-its-afeela-ev-to-be-heavy-on-ai-also-shows-crossover/" target="_blank">Sony wants its Afeela EV to be heavy on AI, also shows crossover</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-06 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/6761894orig-500x500.jpg" alt="Private equity deal shows just how far America’s legacy rocket industry has fallen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/01/a-private-equity-deal-reviving-rocketdyne-seems-more-like-a-corporate-breakup/" target="_blank">Private equity deal shows just how far America’s legacy rocket industry has fallen</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-06 12:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +169,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds" target="_blank">Vienam Bans Unskippable Ads, Requires Skip Button to Appear After 5 Seconds</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-06 16:45</span>
             </div>
         </div>
 <div class="story">
@@ -206,20 +216,29 @@
                 <span class="time">2026-01-06 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/install-github-desktop-ubuntu/" target="_blank">Installing GitHub Desktop on Ubuntu Linux (Because I Like it)</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-06 14:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEA07XNK3YRRGVCJPDW7F3JY/hero-image.png" alt="This Personalized Running Spreadsheet Is My Tech Upgrade of the Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/this-running-spreadsheet-is-my-tech-upgrade-of-the-week?utm_medium=RSS" target="_blank">This Personalized Running Spreadsheet Is My Tech Upgrade of the Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-06 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/mofficepro-1280x853.jpg" alt="Microsoft Office Professional 2021 Hits an All-Time Low at 84% Off, Skip Subscription Fees With This One-Time Purchase" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/microsoft-office-professional-2021-hits-an-all-time-low-at-84-off-skip-subscription-fees-with-this-one-time-purchase-2000656785" target="_blank">Microsoft Office Professional 2021 Hits an All-Time Low at 84% Off, Skip Subscription Fees With This One-Time Purchase</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-06 16:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/kindle-colorsoft-1280x853.jpg" alt="Amazon Practically Gives Away the Kindle Colorsoft to Clear Out Last Year’s Remaining E-Reader Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,29 +275,20 @@
                 <span class="time">2026-01-06 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KE88PJ1H65NDX3D5PD0QRRDG/hero-image.png" alt="What People Are Getting Wrong This Week: Is the World Ending in 2026?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-is-the-world-ending-in-2026?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: Is the World Ending in 2026?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-06 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/anker-f1500-1280x853.jpg" alt="Anker Portable Power Station Drops 64%, SOLIX F1500 Can Charge 13 Devices at Once With a 10-Year Lifespan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/anker-portable-power-station-drops-64-solix-f1500-can-charge-13-devices-at-once-with-a-10-year-lifespan-2000657097" target="_blank">Anker Portable Power Station Drops 64%, SOLIX F1500 Can Charge 13 Devices at Once With a 10-Year Lifespan</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-06 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1767567925-20260106.png" alt="Saturday Morning Breakfast Cereal - Apple" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/apple-3" target="_blank">Saturday Morning Breakfast Cereal - Apple</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-01-06 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5737.png" alt="Now That&#x27;s What I Call Music" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -297,22 +307,13 @@
                 <span class="time">2026-01-05 20:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1767567885-20260105.png" alt="Saturday Morning Breakfast Cereal - Guardrails" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/guardrails" target="_blank">Saturday Morning Breakfast Cereal - Guardrails</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-05 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 17:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
