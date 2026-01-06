@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-06 13:13:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-06 14:02:08 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, January 06, 2026 - 13:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, January 06, 2026 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/6/who-could-be-the-next-manchester-united-manager?traffic_source=rss" target="_blank">Who could be the next Manchester United manager?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-06 13:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +99,20 @@
                 <span class="time">2026-01-06 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/6/us-pressure-mounts-at-panama-canal-over-venezuelan-oil-shipments?traffic_source=rss" target="_blank">US pressure mounts at Panama Canal over Venezuelan oil shipments</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-06 09:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/SHM_Press_Conference_Yasuhide-Mizuno_1-500x500.jpg" alt="Sony wants its Afeela EV to be heavy on AI, also shows crossover" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/01/sony-wants-its-afeela-ev-to-be-heavy-on-ai-also-shows-crossover/" target="_blank">Sony wants its Afeela EV to be heavy on AI, also shows crossover</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-06 13:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/6761894orig-500x500.jpg" alt="Private equity deal shows just how far America’s legacy rocket industry has fallen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,15 +158,6 @@
                 <span class="time">2026-01-06 08:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/05/narwal-adds-ai-to-its-vacuum-cleaners-to-monitor-pets-and-find-jewelry/" target="_blank">Narwal adds AI to its vacuum cleaners to monitor pets and find jewelry</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-06 07:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +170,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/deepseek-v32/en/headerimage/generatedHeaderImage-1767532489461.jpg" alt="DeepSeek-V3.2 Outperforms GPT-5 on Reasoning Tasks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/deepseek-v32/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DeepSeek-V3.2 Outperforms GPT-5 on Reasoning Tasks</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-06 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-December-2025-Revised" target="_blank">Revised Steam Survey For December 2025 Puts Linux Gaming Marketshare At 3.58%</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-06 13:52</span>
             </div>
         </div>
 <div class="story">
@@ -203,29 +217,20 @@
                 <span class="time">2026-01-06 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq80fkj7w0di1fo56vu3m.webp" alt="Lab 03-01: When Malware Fights Back — Analyzing Poison Ivy&#x27;s Anti-VM Evasion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ramadhanadam/lab-03-01-when-malware-fights-back-analyzing-poison-ivys-anti-vm-evasion-ci5" target="_blank">Lab 03-01: When Malware Fights Back — Analyzing Poison Ivy&#x27;s Anti-VM Evasion</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-06 11:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/gnome-firefox-middle-click-paste-removal/" target="_blank">An X11 Thing! Your Favorite Middle-Click Paste is Likely to be Disabled in Future GNOME Releases</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-06 11:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/razer-motoko-1280x853.jpg" alt="Razer Thinks AI Headphones With Cameras Can Take On Meta’s Ray-Bans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/razer-thinks-ai-headphones-with-cameras-can-take-on-metas-ray-bans-2000705583" target="_blank">Razer Thinks AI Headphones With Cameras Can Take On Meta’s Ray-Bans</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-06 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/anker-f1500-1280x853.jpg" alt="Anker Portable Power Station Drops 64%, SOLIX F1500 Can Charge 13 Devices at Once With a 10-Year Lifespan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +276,6 @@
                 <span class="time">2026-01-06 00:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KE85J6Y0QWV86K484VQXJKJ9/hero-image.jpg" alt="CES 2026: Petkit&#x27;s Yumshare Daily Feast Is an Automatic Wet Food Feeder for Your Cat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/petkits-yumshare-daily-feast-automatic-wet-food-feeder-ces-2026?utm_medium=RSS" target="_blank">CES 2026: Petkit&#x27;s Yumshare Daily Feast Is an Automatic Wet Food Feeder for Your Cat</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-06 00:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
