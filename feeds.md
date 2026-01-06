@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-06 02:36:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-06 03:29:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, January 06, 2026 - 02:36 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, January 06, 2026 - 03:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,9 +50,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/6/americans-evenly-split-on-maduros-abduction-poll-shows?traffic_source=rss" target="_blank">Americans evenly split on Maduro’s abduction, poll shows</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-06 03:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/6/alarms-raised-as-trumps-cdc-cuts-number-of-suggested-vaccines-for-children?traffic_source=rss" target="_blank">Alarms raised as Trump’s CDC cuts number of suggested vaccines for children</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-06 02:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/jan-6-gty-er-260105_1767637775118_hpMain_4x3t_384.jpg" alt="Ahead of Jan. 6 anniversary, report details aftermath after Trump&#x27;s return to office" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/ahead-5-year-anniversary-jan-6-report-examines/story?id=128912756" target="_blank">Ahead of Jan. 6 anniversary, report details aftermath after Trump&#x27;s return to office</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-06 01:39</span>
             </div>
         </div>
 <div class="story">
@@ -86,29 +100,20 @@
                 <span class="time">2026-01-05 22:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3b3/live/a3567f70-ea7a-11f0-a187-6b933bf6257e.jpg" alt="Venezuela swears in interim president after defiant Maduro pleads not guilty in US court" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce8gen8nnvlo?at_medium=RSS&at_campaign=rss" target="_blank">Venezuela swears in interim president after defiant Maduro pleads not guilty in US court</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-05 22:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/5/trump-administration-sets-meetings-with-oil-companies-on-venezuela-report?traffic_source=rss" target="_blank">Trump administration sets meetings with oil companies on Venezuela: Report</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-05 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/849643/ces-2026-vivoo-flowpad-menstrual-pad-hormones-wearable-health" target="_blank">The Vivoo FlowPad turns menstrual pads into an at-home hormone test</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-06 03:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +157,6 @@
                 <span class="title"><a href="https://arstechnica.com/space/2026/01/nasas-science-budget-wont-be-a-train-wreck-after-all/" target="_blank">NASA’s science budget won’t be a train wreck after all</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-01-05 22:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2252087162-500x500.jpg" alt="Under anti-vaccine RFK Jr., CDC slashes childhood vaccine schedule" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/01/under-anti-vaccine-rfk-jr-cdc-slashes-childhood-vaccine-schedule/" target="_blank">Under anti-vaccine RFK Jr., CDC slashes childhood vaccine schedule</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-05 21:57</span>
             </div>
         </div>
 </div>
@@ -336,13 +332,22 @@
                 <span class="time">2026-01-05 08:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/tensegrity.png" alt="Tensegrity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3190/" target="_blank">Tensegrity</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-01-05 05:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 02:36 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 03:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
