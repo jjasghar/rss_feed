@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-06 07:05:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-06 08:02:25 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, January 06, 2026 - 07:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, January 06, 2026 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,9 +55,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/6/us-politicians-react-after-briefing-on-venezuela?traffic_source=rss" target="_blank">US politicians react after briefing on Venezuela</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-06 07:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/6/us-critics-and-allies-condemn-maduros-abduction-at-un-security-council?traffic_source=rss" target="_blank">US critics and allies condemn Maduro’s abduction at UN Security Council</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-06 03:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea6a/live/c8ef2fd0-eac9-11f0-a422-4ba8a094a8fa.jpg" alt="Venezuela swears in interim president after defiant Maduro pleads not guilty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce8gen8nnvlo?at_medium=RSS&at_campaign=rss" target="_blank">Venezuela swears in interim president after defiant Maduro pleads not guilty</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-06 03:47</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +105,20 @@
                 <span class="time">2026-01-06 02:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/jan-6-gty-er-260105_1767637775118_hpMain_4x3t_384.jpg" alt="Ahead of Jan. 6 anniversary, report details aftermath after Trump&#x27;s return to office" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/ahead-5-year-anniversary-jan-6-report-examines/story?id=128912756" target="_blank">Ahead of Jan. 6 anniversary, report details aftermath after Trump&#x27;s return to office</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-06 01:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767658283626_nn_pal_trump_venezuela_260105_1920x1080-qyvffm.jpg" alt="Trump on Venezuela: ‘We’re in charge’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-on-venezuela-we-re-in-charge-255435845769" target="_blank">Trump on Venezuela: ‘We’re in charge’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-06 00:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/05/narwal-adds-ai-to-its-vacuum-cleaners-to-monitor-pets-and-find-jewelry/" target="_blank">Narwal adds AI to its vacuum cleaners to monitor pets and find jewelry</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-06 07:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +162,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/851926/alienware-is-working-on-new-slim-and-cheaper-gaming-laptops" target="_blank">Alienware is working on new slim and cheaper gaming laptops</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-06 03:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/849643/ces-2026-vivoo-flowpad-menstrual-pad-hormones-wearable-health" target="_blank">The Vivoo FlowPad turns menstrual pads into an at-home hormone test</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-06 03:00</span>
             </div>
         </div>
 </div>
@@ -320,22 +328,13 @@
                 <span class="time">2026-01-05 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/01/05/absolute-penny-arcade-part-three" target="_blank">Absolute Penny Arcade: Part Three</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-05 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 07:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
