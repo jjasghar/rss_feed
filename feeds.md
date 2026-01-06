@@ -1,31 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-01-06 11:01:30 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-01-06 12:02:34 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, January 06, 2026 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, January 06, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be1b/live/932bf850-eae8-11f0-b5f7-49f0357294ff.jpg" alt="Macron hosts Ukraine and allies to try to cement security guarantees" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c74vx4n003xo?at_medium=RSS&at_campaign=rss" target="_blank">Macron hosts Ukraine and allies to try to cement security guarantees</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-06 10:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +95,20 @@
                 <span class="time">2026-01-06 07:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/06/g-s1-104730/progress-ukraine-talks-paris-uncertain" target="_blank">Progress for Ukraine talks in Paris uncertain with U.S. focus shifting to Venezuela</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-06 07:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69585e372ed518b85e14a808/master/pass/Smart-Pee-Trackers-Gear-1334946772.jpg" alt="The Newest Health Trend Is Tracking Your Pee" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/smart-pee-trackers-trend-vivoo-kohler-withings/" target="_blank">The Newest Health Trend Is Tracking Your Pee</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-06 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +154,6 @@
                 <span class="time">2026-01-06 05:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Intel_CES_-500x500-1767668644.jpeg" alt="Intel launches Core Ultra Series 3 CPUs, made using its long-awaited 18A process" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/intel-launches-core-ultra-series-3-cpus-made-using-its-long-awaited-18a-process/" target="_blank">Intel launches Core Ultra Series 3 CPUs, made using its long-awaited 18A process</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-06 03:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,6 +166,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq80fkj7w0di1fo56vu3m.webp" alt="Lab 03-01: When Malware Fights Back — Analyzing Poison Ivy&#x27;s Anti-VM Evasion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ramadhanadam/lab-03-01-when-malware-fights-back-analyzing-poison-ivys-anti-vm-evasion-ci5" target="_blank">Lab 03-01: When Malware Fights Back — Analyzing Poison Ivy&#x27;s Anti-VM Evasion</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-06 11:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/gnome-firefox-middle-click-paste-removal/" target="_blank">An X11 Thing! Your Favorite Middle-Click Paste is Likely to be Disabled in Future GNOME Releases</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-06 11:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Flatpak-GPU-Virtualization" target="_blank">Flatpak Exploring GPU Virtualization To Ease Driver Challenges</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-06 11:34</span>
             </div>
         </div>
 <div class="story">
@@ -184,47 +211,6 @@
                 <span class="title"><a href="https://www.infoq.com/podcasts/2025-year-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: 2025 Key Trends: AI Workflows, Architectural Complexity, Sociotechnical Systems &amp; Platform Products</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-01-06 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/01/06/search-engine-bots-crawled-so-ai-bots-could-run/" target="_blank">Search engine bots crawled so AI bots could run</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-01-06 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://enclose.horse/" target="_blank">enclose.horse</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-06 06:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5c4g1lex1ie4su24bk01.png" alt="ReactJS Beginners Guide - An Ultimate React Ebook" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/myogeshchavan97/reactjs-beginners-guide-an-ultimate-react-ebook-2dk4" target="_blank">ReactJS Beginners Guide - An Ultimate React Ebook</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-06 05:57</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/telegram-hosting-worlds-largest-darknet-market.html" target="_blank">Telegram Hosting World’s Largest Darknet Market</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-01-05 12:01</span>
             </div>
         </div>
 </div>
@@ -323,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
