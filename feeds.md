@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-06 18:02:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-06 19:01:40 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, January 06, 2026 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, January 06, 2026 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/6/man-utd-manager-talk-waste-of-time-says-favourite-glasner?traffic_source=rss" target="_blank">Man Utd manager talk ‘waste of time’ says favourite Glasner</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-06 18:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8726/live/b3cf3ba0-ead2-11f0-97b7-3d2573360ffb.jpg" alt="Fresh snow and ice warnings as Storm Goretti approaches UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2x6z4n2wzo?at_medium=RSS&at_campaign=rss" target="_blank">Fresh snow and ice warnings as Storm Goretti approaches UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-06 17:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +102,20 @@
                 <span class="time">2026-01-06 13:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/06/g-s1-104740/up-first-newsletter-nicolas-maduro-court-venezuela-congress-vaccine-schedule" target="_blank">Lawmakers split over Maduro&#x27;s seizure. And, CDC cuts childhood vaccine schedule</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-06 12:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26af/live/bbdbc4a0-eaf3-11f0-8a5c-81e1c85f6b52.jpg" alt="Trump claims US oil firms could be &#x27;up and running&#x27; in Venezuela within 18 months" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4grxzxjjd8o?at_medium=RSS&at_campaign=rss" target="_blank">Trump claims US oil firms could be &#x27;up and running&#x27; in Venezuela within 18 months</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-06 12:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/856207/ces-2026-trend-ai-companion-robot-pet" target="_blank">AI moves into the real world as companion robots and pets</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-06 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,15 +161,6 @@
                 <span class="time">2026-01-06 15:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/06/meta-pauses-international-expansion-of-its-ray-ban-display-glasses/" target="_blank">Meta pauses international expansion of its Ray-Ban Display glasses</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-06 15:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +173,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18810297&w=600" alt="Metadata, Not Data Volume, Is the Real Bottleneck in Modern Data Lakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/metadata-not-data-volume-is-the-real-bottleneck-in" target="_blank">Metadata, Not Data Volume, Is the Real Bottleneck in Modern Data Lakes</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-06 18:00</span>
             </div>
         </div>
 <div class="story">
@@ -214,15 +220,6 @@
                 <span class="time">2026-01-06 15:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/tom-pytel/pfst" target="_blank">Format-preserving Python AST manipulation library</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-01-06 15:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2020/01/mwhxnnavpehp3lnseo2d-1280x718.jpg" alt="Escape From Tarkov Dev Trolls Players By Making Its Impossible Ending Even More Brutal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/escape-from-tarkov-ending-boat-choice-terminal-2000657207" target="_blank">Escape From Tarkov Dev Trolls Players By Making Its Impossible Ending Even More Brutal</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-06 18:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEA53B9JCPQMZBE1YXV40VQB/hero-image.jpg" alt="CES 2026: Anker Launched These 2-in-1 Earbuds, and They’re Already on Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/anker-launched-these-2-in-1-earbuds-at-ces-2026?utm_medium=RSS" target="_blank">CES 2026: Anker Launched These 2-in-1 Earbuds, and They’re Already on Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-06 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/man-pleased-1280x720.jpg" alt="They Made A $300 Rumble Pack For Your Taint" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/amazon-practically-gives-away-the-kindle-colorsoft-to-clear-out-last-years-remaining-e-reader-stock-2000657124" target="_blank">Amazon Practically Gives Away the Kindle Colorsoft to Clear Out Last Year’s Remaining E-Reader Stock</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-06 15:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/slim3-1280x853.jpg" alt="Lenovo Goes Full Clearance on Its Laptop at 78% Off, 15.3″ IdeaPad Slim 3 Drops to All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lenovo-goes-full-clearance-on-its-laptop-at-78-off-15-3-ideapad-slim-3-drops-to-all-time-low-2000657106" target="_blank">Lenovo Goes Full Clearance on Its Laptop at 78% Off, 15.3″ IdeaPad Slim 3 Drops to All-Time Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-06 14:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/Fred-Rogers-speaks-is-support-of-public-broadcas.jpg?fit=1080%2C751&amp;quality=60&amp;ssl=1" alt="Corporation for Public Broadcasting shuts down after funding cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/06/corporation-for-public-broadcasting-shuts-down-after-funding-cuts.html" target="_blank">Corporation for Public Broadcasting shuts down after funding cuts</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-06 14:29</span>
             </div>
         </div>
 </div>
@@ -333,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
