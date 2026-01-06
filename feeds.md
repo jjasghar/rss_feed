@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-06 00:05:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-06 01:29:51 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, January 06, 2026 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, January 06, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/05/nx-s1-5667019/hhs-child-care-federal-funding" target="_blank">Amid fraud claims, Trump admin announces more changes to federal child care funding</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-05 23:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260105-venezuela-oil-ew-245p-3f666f.jpg" alt="Trump says the U.S. may reimburse oil companies for rebuilding Venezuela&#x27;s infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/energy/trump-venezuela-oil-companies-reimburse-rcna252434" target="_blank">Trump says the U.S. may reimburse oil companies for rebuilding Venezuela&#x27;s infrastructure</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-05 23:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +100,29 @@
                 <span class="time">2026-01-05 21:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-maduro-court_7127541.jpg?20260105205228" alt="Astounding moment in court as Maduro confronted by man in public gallery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/what-it-was-like-inside-nicolas-maduros-dramatic-court-hearing-13490924" target="_blank">Astounding moment in court as Maduro confronted by man in public gallery</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-05 21:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/05/g-s1-104632/venezuela-government" target="_blank">Venezuela swears in interim leader, seeking to show it operates free from U.S. control</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-05 20:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/05/insight-partners-sued-by-former-vice-president-kate-lowry/" target="_blank">Insight Partners sued by former vice president Kate Lowry</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-05 23:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/695bffe313835ca4d6b41e4a/master/pass/Nvidia-Rubin-Chips-Going-Into-Production-Business-2192346797.jpg" alt="Jensen Huang Says Nvidia’s New Vera Rubin Chips Are in ‘Full Production’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nvidias-rubin-chips-are-going-into-production/" target="_blank">Jensen Huang Says Nvidia’s New Vera Rubin Chips Are in ‘Full Production’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-05 23:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +159,6 @@
                 <span class="time">2026-01-05 21:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/695c067688c4535fb1546355/master/pass/Googles-AI-Taking-Control-of-Humanoids-On-Auto-Factory-Floor-Business-YT-Pre-Launch-Thumbnail.jpg" alt="Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/" target="_blank">Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-05 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/spotify-logos-500x500-1767642286.jpg" alt="Anna’s Archive loses .org domain, says suspension likely unrelated to Spotify piracy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/annas-archive-loses-org-domain-says-suspension-likely-unrelated-to-spotify-piracy/" target="_blank">Anna’s Archive loses .org domain, says suspension likely unrelated to Spotify piracy</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-05 20:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -192,6 +192,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/nvidia-vera-rubin-ubuntu-support" target="_blank">Canonical announces Ubuntu support for the NVIDIA Rubin platform</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-01-05 23:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fleilfybs2fi9sqmyys47.png" alt="Copy-Paste is Not a Workflow: Building dbt-core-mcp" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,21 +210,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2026/01/intel-deepmath-llm-architecture/en/headerimage/intel-deepmath-1767636786834.jpeg" alt="Intel DeepMath Introduces a Smart Architecture to Make LLMs Better at Math" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/intel-deepmath-llm-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Intel DeepMath Introduces a Smart Architecture to Make LLMs Better at Math</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-05 21:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/paperium/global-attention-mechanism-retain-information-to-enhance-channel-spatialinteractions-6i0" target="_blank">Global Attention Mechanism: Retain Information to Enhance Channel-SpatialInteractions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-05 20:50</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://loworbitsecurity.com/radar/radar16/" target="_blank">There were BGP anomalies during the Venezuela blackout</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-05 21:05</span>
             </div>
         </div>
 </div>
@@ -237,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KE85J6Y0QWV86K484VQXJKJ9/hero-image.jpg" alt="CES 2026: Petkit&#x27;s Yumshare Daily Feast Is an Automatic Wet Food Feeder for Your Cat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/petkits-yumshare-daily-feast-automatic-wet-food-feeder-ces-2026?utm_medium=RSS" target="_blank">CES 2026: Petkit&#x27;s Yumshare Daily Feast Is an Automatic Wet Food Feeder for Your Cat</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-06 00:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KE0AT243G3CFV14GG4A2T30F/hero-image.jpg" alt="CES 2026: This Asus Gaming Desktop Can Project Custom Holograms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/lego-smart-play-brick-star-wars-march-interactive-sets-2000656727" target="_blank">Lego Fit A Whole-Ass Computer Inside A Single Brick To Make Star Wars Sounds</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-05 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/668d53118e806993965709d5f032c776-1280x720.jpg" alt="Some Anthem Players Say EA Is Already Blocking Them From Playing The Game A Week Before It Shuts Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/anthem-shutdown-download-bioware-ea-pc-app-play-2000656725" target="_blank">Some Anthem Players Say EA Is Already Blocking Them From Playing The Game A Week Before It Shuts Down</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-05 20:32</span>
             </div>
         </div>
 </div>
@@ -337,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
