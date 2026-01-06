@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-06 17:04:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-06 18:02:25 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, January 06, 2026 - 17:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, January 06, 2026 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,9 +55,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/6/uk-presses-x-to-address-intimate-deepfake-images?traffic_source=rss" target="_blank">UK presses X to address intimate deepfake images</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-06 17:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/06/nx-s1-5668142/marjorie-taylor-greenes-puzzling-political-transformation-explained" target="_blank">Marjorie Taylor Greene&#x27;s puzzling political transformation, explained</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-06 16:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/6/who-could-be-the-next-manchester-united-manager?traffic_source=rss" target="_blank">Who could be the next Manchester United manager?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-06 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd03/live/f2bb2fd0-eafb-11f0-8e8e-7f477e15473f.jpg" alt="Venezuelan security forces detain journalists as armed police patrol streets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd6w4y0eq70o?at_medium=RSS&at_campaign=rss" target="_blank">Venezuelan security forces detain journalists as armed police patrol streets</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-06 13:24</span>
             </div>
         </div>
 <div class="story">
@@ -71,38 +105,38 @@
                 <span class="time">2026-01-06 12:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260106-nuuk-rs-d96570.jpg" alt="U.S. allies say &#x27;Greenland belongs to its people&#x27; as Trump escalates threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/ukraine/ukraine-security-guarantees-talks-trump-venezuela-greenland-europe-rcna252513" target="_blank">U.S. allies say &#x27;Greenland belongs to its people&#x27; as Trump escalates threats</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-06 11:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be1b/live/932bf850-eae8-11f0-b5f7-49f0357294ff.jpg" alt="Macron hosts Ukraine and allies to try to cement security guarantees" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c74vx4n003xo?at_medium=RSS&at_campaign=rss" target="_blank">Macron hosts Ukraine and allies to try to cement security guarantees</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-06 10:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/6/economic-survival-in-gaza-decimated-by-israeli-counts-on-small-initiatives?traffic_source=rss" target="_blank">Economic survival in Gaza decimated by Israeli counts on small initiatives</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-06 10:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/856225/power-banks-are-the-latest-victims-of-feature-creep" target="_blank">Power bank feature creep is out of control</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-06 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/06/threads-is-developing-in-message-games/" target="_blank">Threads is developing in-message games</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-06 17:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/pulsar2-500x500-1767719911.png" alt="Nvidia’s new G-Sync Pulsar monitors target motion blur at the human retina level" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/01/nvidias-new-g-sync-pulsar-monitors-target-motion-blur-at-the-human-retina-level/" target="_blank">Nvidia’s new G-Sync Pulsar monitors target motion blur at the human retina level</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-06 17:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,33 +164,6 @@
                 <span class="time">2026-01-06 15:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69406a079f9b98727b285b39/master/pass/New-Season-of-Industry-Culture-myha-la.jpg" alt="‘Industry’ Takes on the Age Verification Wars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hbo-industry-season-4-age-verification/" target="_blank">‘Industry’ Takes on the Age Verification Wars</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-06 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/06/amazons-ring-doorbells-get-fire-alerts-an-app-store-and-new-sensors/" target="_blank">Amazon’s Ring doorbells get fire alerts, an app store and new sensors</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-06 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/SHM_Press_Conference_Yasuhide-Mizuno_1-500x500.jpg" alt="Spot the difference: Sony’s electric car gets a crossover version" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/01/sony-wants-its-afeela-ev-to-be-heavy-on-ai-also-shows-crossover/" target="_blank">Spot the difference: Sony’s electric car gets a crossover version</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-06 13:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +176,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/d77a41b8-2e53-435d-9cf6-8298bd9af3e1_1146x822.png" alt="When AI writes almost all code, what happens to software engineering?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what" target="_blank">When AI writes almost all code, what happens to software engineering?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-01-06 17:41</span>
             </div>
         </div>
 <div class="story">
@@ -207,13 +223,18 @@
                 <span class="time">2026-01-06 15:22</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18806836&w=600" alt="Understanding Parquet Scans: How Readers Skip Work and Stay Fast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/understanding-parquet-scans" target="_blank">Understanding Parquet Scans: How Readers Skip Work and Stay Fast</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-06 15:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/a-cyberattack-was-part-of-the-us-assault-on-venezuela.html" target="_blank">A Cyberattack Was Part of the US Assault on Venezuela</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-01-06 16:08</span>
             </div>
         </div>
 </div>
@@ -221,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/man-pleased-1280x720.jpg" alt="They Made A $300 Rumble Pack For Your Taint" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mor-taint-bandage-rumble-pack-sex-ejaculation-orgasm-app-2000657182" target="_blank">They Made A $300 Rumble Pack For Your Taint</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-06 17:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KEA07XNK3YRRGVCJPDW7F3JY/hero-image.png" alt="This Personalized Running Spreadsheet Is My Tech Upgrade of the Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +296,6 @@
                 <span class="time">2026-01-06 14:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/razer-motoko-1280x853.jpg" alt="Razer Thinks AI Headphones With Cameras Can Take On Meta’s Ray-Bans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/razer-thinks-ai-headphones-with-cameras-can-take-on-metas-ray-bans-2000705583" target="_blank">Razer Thinks AI Headphones With Cameras Can Take On Meta’s Ray-Bans</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-06 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 17:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
