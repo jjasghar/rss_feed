@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-06 12:02:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-06 13:13:17 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, January 06, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, January 06, 2026 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/06/g-s1-104740/up-first-newsletter-nicolas-maduro-court-venezuela-congress-vaccine-schedule" target="_blank">Lawmakers split over Maduro&#x27;s seizure. And, CDC cuts childhood vaccine schedule</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-06 12:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26af/live/bbdbc4a0-eaf3-11f0-8a5c-81e1c85f6b52.jpg" alt="Trump claims US oil firms could be &#x27;up and running&#x27; in Venezuela within 18 months" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4grxzxjjd8o?at_medium=RSS&at_campaign=rss" target="_blank">Trump claims US oil firms could be &#x27;up and running&#x27; in Venezuela within 18 months</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-06 12:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be1b/live/932bf850-eae8-11f0-b5f7-49f0357294ff.jpg" alt="Macron hosts Ukraine and allies to try to cement security guarantees" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +103,29 @@
                 <span class="time">2026-01-06 09:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/1/6/colombia-prepares-for-refugee-influx-after-us-strikes-on-venezuela?traffic_source=rss" target="_blank">Colombia prepares for refugee influx after US strikes on Venezuela</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-06 08:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/6/us-politicians-react-after-briefing-on-venezuela?traffic_source=rss" target="_blank">US politicians react after briefing on Venezuela</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-06 07:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/6761894orig-500x500.jpg" alt="Private equity deal shows just how far America’s legacy rocket industry has fallen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/01/a-private-equity-deal-reviving-rocketdyne-seems-more-like-a-corporate-breakup/" target="_blank">Private equity deal shows just how far America’s legacy rocket industry has fallen</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-06 12:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/695c2465fe35ac8c12d00dac/master/pass/GettyImages-1302350832.jpg" alt="Winter Bird Feeding Tips for the Peak of Bird Watching Season (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/our-best-tips-for-winter-bird-feeding/" target="_blank">Winter Bird Feeding Tips for the Peak of Bird Watching Season (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-06 12:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69585e372ed518b85e14a808/master/pass/Smart-Pee-Trackers-Gear-1334946772.jpg" alt="The Newest Health Trend Is Tracking Your Pee" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,24 +162,6 @@
                 <span class="time">2026-01-06 07:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps" target="_blank">Nvidia’s GeForce Now is getting native Linux and Fire TV apps</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-06 05:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/850919/smart-appliance-emerson-smartvoice-ces" target="_blank">Emerson’s SmartVoice devices follow verbal instructions without Wi-Fi or a hub</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-06 05:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,6 +174,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fca51kxmxf01uwc6b3nij.png" alt="How the .JPG Format Works *Understanding Image Compression Through Human Perception*" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cristiansifuentes/how-the-jpg-format-works-understanding-image-compression-through-human-perception-3032" target="_blank">How the .JPG Format Works *Understanding Image Compression Through Human Perception*</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-06 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18806815&w=600" alt="A Practical Guide to Semantic Caching With Redis LangCache" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/semantic-caching-redis-langcache-guide" target="_blank">A Practical Guide to Semantic Caching With Redis LangCache</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-06 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Slack Enhances Chef Infrastructure to Improve Safety and Reduce Blast Radius in Deployments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/slack-chef-deployments/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Slack Enhances Chef Infrastructure to Improve Safety and Reduce Blast Radius in Deployments</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-06 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -186,38 +221,29 @@
                 <span class="time">2026-01-06 11:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Flatpak-GPU-Virtualization" target="_blank">Flatpak Exploring GPU Virtualization To Ease Driver Challenges</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-06 11:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anjali_kashyap_2838415e05/recognizing-and-diagnosing-complications-in-early-pregnancy-with-ultrasound-1ik9" target="_blank">Recognizing and Diagnosing Complications in Early Pregnancy with Ultrasound</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-06 09:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/podcasts/2025-year-review/en/smallimage/the-infoq-podcast-logo-thumbnail-1767366149078.jpg" alt="Podcast: 2025 Key Trends: AI Workflows, Architectural Complexity, Sociotechnical Systems &amp; Platform Products" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/podcasts/2025-year-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: 2025 Key Trends: AI Workflows, Architectural Complexity, Sociotechnical Systems &amp; Platform Products</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-06 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/anker-f1500-1280x853.jpg" alt="Anker Portable Power Station Drops 64%, SOLIX F1500 Can Charge 13 Devices at Once With a 10-Year Lifespan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/anker-portable-power-station-drops-64-solix-f1500-can-charge-13-devices-at-once-with-a-10-year-lifespan-2000657097" target="_blank">Anker Portable Power Station Drops 64%, SOLIX F1500 Can Charge 13 Devices at Once With a 10-Year Lifespan</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-06 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/carousel-04_hp-wolf-security-for-business%402x.jpg?fit=1787%2C800&amp;quality=60&amp;ssl=1" alt="The Eliteboard is HP&#x27;s 80s-style computer-in-a-keyboard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/06/the-eliteboard-is-hps-80s-style-computer-in-a-keyboard.html" target="_blank">The Eliteboard is HP&#x27;s 80s-style computer-in-a-keyboard</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-06 12:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KE8N8E0MHDX387DW5XG26MTY/hero-image.jpg" alt="CES 2026: Intel&#x27;s New Chips Are Coming For Your Gaming Handhelds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -252,24 +278,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/petkits-yumshare-daily-feast-automatic-wet-food-feeder-ces-2026?utm_medium=RSS" target="_blank">CES 2026: Petkit&#x27;s Yumshare Daily Feast Is an Automatic Wet Food Feeder for Your Cat</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-06 00:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KE0AT243G3CFV14GG4A2T30F/hero-image.jpg" alt="CES 2026: This Asus Gaming Desktop Can Project Custom Holograms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/ces-2026-asus-gaming-desktop-projects-holograms?utm_medium=RSS" target="_blank">CES 2026: This Asus Gaming Desktop Can Project Custom Holograms</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-05 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/year-in-review-kotaku-1280x720.jpg" alt="Great Games, Bad Times: Everything You Need To Know About 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/2025-best-games-characters-surprises-metacritic-2000656702" target="_blank">Great Games, Bad Times: Everything You Need To Know About 2025</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-05 22:15</span>
             </div>
         </div>
 </div>
@@ -309,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
