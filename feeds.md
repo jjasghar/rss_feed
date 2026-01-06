@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-06 19:01:40 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-06 20:01:46 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 12 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, January 06, 2026 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, January 06, 2026 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a553/live/d5343090-eb25-11f0-a6a3-53d02379137e.jpg" alt="US may intercept and seize oil tanker heading for Europe, reports say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7v0deypjl4o?at_medium=RSS&at_campaign=rss" target="_blank">US may intercept and seize oil tanker heading for Europe, reports say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-06 19:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bdb/live/2378f8d0-eb35-11f0-b17a-592c1458f962.jpg" alt="UK and France to send troops to Ukraine if peace deal agreed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c17zee20qpzo?at_medium=RSS&at_campaign=rss" target="_blank">UK and France to send troops to Ukraine if peace deal agreed</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-06 19:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +98,20 @@
                 <span class="time">2026-01-06 16:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/6/who-could-be-the-next-manchester-united-manager?traffic_source=rss" target="_blank">Who could be the next Manchester United manager?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-06 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd03/live/f2bb2fd0-eafb-11f0-8e8e-7f477e15473f.jpg" alt="Venezuelan security forces detain journalists as armed police patrol streets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd6w4y0eq70o?at_medium=RSS&at_campaign=rss" target="_blank">Venezuelan security forces detain journalists as armed police patrol streets</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-06 13:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/855329/rosey-robot-roomba-ces-2026" target="_blank">CES promises the robot butler, but delivers better Roombas instead</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-06 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +157,6 @@
                 <span class="time">2026-01-06 17:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/ftcms_ccff82e2-1b3f-4dd6-af31-3b7bbfffc992.avif" alt="Ørsted seeks injunction against US government over project freeze" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/orsted-seeks-injunction-against-us-government-over-project-freeze/" target="_blank">Ørsted seeks injunction against US government over project freeze</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-06 15:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,10 +165,28 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-01-29 00:00</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/p12se/why-dev-app-page-and-40-other-tlds-dont-respond-to-whois-53n8" target="_blank">Why .dev, .app, .page (and 40+ Other TLDs) Don&#x27;t Respond to WHOIS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-06 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-44-KDE-To-Plasma-Login" target="_blank">All Fedora 44 KDE Variants To Use Plasma Login Manager Rather Than SDDM</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-06 19:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18834358&w=600" alt="Developer Tools That Actually Matter in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/developer-tools-that-actually-matter-in-2026" target="_blank">Developer Tools That Actually Matter in 2026</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-06 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -196,28 +210,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds" target="_blank">Vienam Bans Unskippable Ads, Requires Skip Button to Appear After 5 Seconds</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-06 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gabrieal845/when-code-generation-suggests-deprecated-pandas-apis-a-case-study-dbb" target="_blank">When code generation suggests deprecated Pandas APIs — a case study</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-06 15:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/thp-madvise-always" target="_blank">Transparent Hugepage Performance On Linux 6.18 LTS: Madvise vs. Always</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-06 15:45</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://langston-barrett.github.io/blog/mypy-reify.html" target="_blank">Fun with mypy: reifying runtime relations on types</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-01-06 17:40</span>
             </div>
         </div>
 </div>
@@ -239,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Sadie-Sink-Stranger-Things-finale-1280x853.jpg" alt="At Least One ‘Stranger Things’ Kid Thinks Eleven Is Actually Dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/stranger-things-ending-sadie-sink-eleven-2000706300" target="_blank">At Least One ‘Stranger Things’ Kid Thinks Eleven Is Actually Dead</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-06 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/07/8f41133ccd4bdf8beb60bbfbf894b7e3-1280x720.jpg" alt="Stranger Things’ Big Finale Fight Was Inspired By Baldur’s Gate 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/stranger-things-big-finale-fight-vecna-mind-flayer-eleven-baldurs-gate-3-2000657205" target="_blank">Stranger Things’ Big Finale Fight Was Inspired By Baldur’s Gate 3</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-06 19:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2020/01/mwhxnnavpehp3lnseo2d-1280x718.jpg" alt="Escape From Tarkov Dev Trolls Players By Making Its Impossible Ending Even More Brutal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +287,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/this-running-spreadsheet-is-my-tech-upgrade-of-the-week?utm_medium=RSS" target="_blank">This Personalized Running Spreadsheet Is My Tech Upgrade of the Week</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-06 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/mofficepro-1280x853.jpg" alt="Microsoft Office Professional 2021 Hits an All-Time Low at 84% Off, Skip Subscription Fees With This One-Time Purchase" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/microsoft-office-professional-2021-hits-an-all-time-low-at-84-off-skip-subscription-fees-with-this-one-time-purchase-2000656785" target="_blank">Microsoft Office Professional 2021 Hits an All-Time Low at 84% Off, Skip Subscription Fees With This One-Time Purchase</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-06 16:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/kindle-colorsoft-1280x853.jpg" alt="Amazon Practically Gives Away the Kindle Colorsoft to Clear Out Last Year’s Remaining E-Reader Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-practically-gives-away-the-kindle-colorsoft-to-clear-out-last-years-remaining-e-reader-stock-2000657124" target="_blank">Amazon Practically Gives Away the Kindle Colorsoft to Clear Out Last Year’s Remaining E-Reader Stock</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-06 15:35</span>
             </div>
         </div>
 </div>
@@ -330,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 40 | 📸 With Images: 278 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
