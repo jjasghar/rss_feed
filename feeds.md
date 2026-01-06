@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-06 05:04:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-06 06:02:21 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, January 06, 2026 - 05:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, January 06, 2026 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -177,6 +175,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5c4g1lex1ie4su24bk01.png" alt="ReactJS Beginners Guide - An Ultimate React Ebook" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/myogeshchavan97/reactjs-beginners-guide-an-ultimate-react-ebook-2dk4" target="_blank">ReactJS Beginners Guide - An Ultimate React Ebook</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-06 05:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3oeqhgww0weljcrlt4o2.png" alt="Introducing Dagor : a High-Performance DAG Execution Engine in Go" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -195,30 +202,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-ryzen-ai-400-9850x3d" target="_blank">AMD Announces Ryzen 7 9850X3D, New Strix Halo SKUs &amp; Ryzen AI 400 Series</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-06 03:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqjtebhk1ef5e6y46aafx.png" alt="ClaudeCode Streak Skill Got a Telegram Bot: Check In From Your Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yooi/claudecode-streak-skill-got-a-telegram-bot-check-in-from-your-phone-3k8n" target="_blank">ClaudeCode Streak Skill Got a Telegram Bot: Check In From Your Phone</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-05 23:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/new-2026-dell-xps.jpg?resize=406%2C232&amp;ssl=1" alt="New Dell XPS 14 and 16 Announced, Ubuntu Version Coming This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/new-dell-xps-2026-with-ubuntu" target="_blank">New Dell XPS 14 and 16 Announced, Ubuntu Version Coming This Year</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-05 23:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-CES-2026-Keynote" target="_blank">Intel Talks Up Core Ultra Series 3 &quot;Panther Lake&quot; &amp; Arc B390 Graphics</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-05 23:37</span>
             </div>
         </div>
 </div>
@@ -240,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KE8N8E0MHDX387DW5XG26MTY/hero-image.jpg" alt="CES 2026: Intel&#x27;s New Chips Are Coming For Your Gaming Handhelds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/ces-2026-intels-new-chips-are-coming-for-your-gaming-handhelds?utm_medium=RSS" target="_blank">CES 2026: Intel&#x27;s New Chips Are Coming For Your Gaming Handhelds</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-06 04:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/chicken-bomb.jpeg?fit=1200%2C654&amp;quality=60&amp;ssl=1" alt="Cold War planners wanted to heat atomic mines with chickens" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/2025-best-games-characters-surprises-metacritic-2000656702" target="_blank">Great Games, Bad Times: Everything You Need To Know About 2025</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-05 22:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/01/Donald-Trump-holds-hands-with-Peter-Thiel-1280x853.jpg" alt="US Awards Peter Thiel–Backed Nuclear Startup $900 Million" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/us-awards-peter-thiel-backed-nuclear-startup-900-million-2000705701" target="_blank">US Awards Peter Thiel–Backed Nuclear Startup $900 Million</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-05 22:00</span>
             </div>
         </div>
 </div>
@@ -340,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 05:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
