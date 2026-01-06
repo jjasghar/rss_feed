@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-06 21:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-06 22:01:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, January 06, 2026 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, January 06, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/greenland-gty-jef-251222_1766428877884_hpMain_4x3t_384.jpg" alt="Military &#x27;always an option&#x27; for Trump to acquire Greenland, White House official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/us-military-option-acquiring-greenland-white-house-official/story?id=128960041" target="_blank">Military &#x27;always an option&#x27; for Trump to acquire Greenland, White House official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-06 21:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +96,20 @@
                 <span class="time">2026-01-06 18:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8726/live/b3cf3ba0-ead2-11f0-97b7-3d2573360ffb.jpg" alt="Fresh snow and ice warnings as Storm Goretti approaches UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2x6z4n2wzo?at_medium=RSS&at_campaign=rss" target="_blank">Fresh snow and ice warnings as Storm Goretti approaches UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-06 17:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/21539047/best-amazon-kindle-deals" target="_blank">Here are the best Kindle deals right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-06 21:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/695d704de4ffc1f6ff02e667/master/pass/image.png" alt="The Inevitable Rise of the Art TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,15 +155,6 @@
                 <span class="time">2026-01-06 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/856225/power-banks-are-the-latest-victims-of-feature-creep" target="_blank">Power bank feature creep is out of control</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-06 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -177,6 +176,15 @@
                 <span class="title"><a href="https://dev.to/alxwlcx/an-open-source-hipaa-eligible-twilio-alternative-33mf" target="_blank">An open-source, HIPAA-eligible Twilio alternative</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-06 20:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18809541&w=600" alt="Solving the Cold Start Problem in Edge AI: A Guide to Data-Saving Learning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/solving-the-cold-start-problem-in-edge-ai-a-guide" target="_blank">Solving the Cold Start Problem in Edge AI: A Guide to Data-Saving Learning</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-06 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +214,6 @@
                 <span class="time">2026-01-06 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18810297&w=600" alt="Metadata, Not Data Volume, Is the Real Bottleneck in Modern Data Lakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/metadata-not-data-volume-is-the-real-bottleneck-in" target="_blank">Metadata, Not Data Volume, Is the Real Bottleneck in Modern Data Lakes</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-06 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KE7WSQ9R3CKEQRT4VP60E510/hero-image.jpg" alt="12 Shows Like &#x27;Heated Rivalry&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-heated-rivalry-you-should-watch-next?utm_medium=RSS" target="_blank">12 Shows Like &#x27;Heated Rivalry&#x27; You Should Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-06 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Sadie-Sink-Stranger-Things-finale-1280x853.jpg" alt="At Least One ‘Stranger Things’ Kid Thinks Eleven Is Actually Dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +287,6 @@
                 <span class="time">2026-01-06 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/man-pleased-1280x720.jpg" alt="They Made A $300 Rumble Pack For Your Taint" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mor-taint-bandage-rumble-pack-sex-ejaculation-orgasm-app-2000657182" target="_blank">They Made A $300 Rumble Pack For Your Taint</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-06 17:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
