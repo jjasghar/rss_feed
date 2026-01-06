@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-06 09:04:12 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-06 10:02:20 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, January 06, 2026 - 09:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, January 06, 2026 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/6/us-pressure-mounts-at-panama-canal-over-venezuelan-oil-shipments?traffic_source=rss" target="_blank">US pressure mounts at Panama Canal over Venezuelan oil shipments</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-06 09:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +102,29 @@
                 <span class="time">2026-01-06 03:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/maduro-ny-12-ht-gmh-260103_1767498257816_hpMain_4x3t_384.jpg" alt="Venezuela live updates: UN ambassadors criticize US operation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/venezuela-live-updates-trump-give-details-after-us/?id=127792811" target="_blank">Venezuela live updates: UN ambassadors criticize US operation</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-06 03:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/856141/samsung-display-creaseless-panel-foldable-iphone-ces" target="_blank">Is this the folding iPhone&amp;#8217;s creaseless display?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-06 09:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/695bf250363a90f378f47672/master/pass/CES-Live-Blog-Gear-2192635123.jpg" alt="CES Live Blog, Day 2: More of the Coolest Tech From Las Vegas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/live/ces-2026-live-blog/" target="_blank">CES Live Blog, Day 2: More of the Coolest Tech From Las Vegas</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-06 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +161,6 @@
                 <span class="time">2026-01-06 03:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/05/amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces/" target="_blank">AMD unveils new AI PC processors for general use and gaming at CES</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-06 03:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/851926/alienware-is-working-on-new-slim-and-cheaper-gaming-laptops" target="_blank">Alienware is working on new slim and cheaper gaming laptops</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-06 03:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +173,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anjali_kashyap_2838415e05/recognizing-and-diagnosing-complications-in-early-pregnancy-with-ultrasound-1ik9" target="_blank">Recognizing and Diagnosing Complications in Early Pregnancy with Ultrasound</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-06 09:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/podcasts/2025-year-review/en/smallimage/the-infoq-podcast-logo-thumbnail-1767366149078.jpg" alt="Podcast: 2025 Key Trends: AI Workflows, Architectural Complexity, Sociotechnical Systems &amp; Platform Products" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/podcasts/2025-year-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: 2025 Key Trends: AI Workflows, Architectural Complexity, Sociotechnical Systems &amp; Platform Products</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-06 09:00</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/myogeshchavan97/reactjs-beginners-guide-an-ultimate-react-ebook-2dk4" target="_blank">ReactJS Beginners Guide - An Ultimate React Ebook</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-06 05:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3oeqhgww0weljcrlt4o2.png" alt="Introducing Dagor : a High-Performance DAG Execution Engine in Go" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/will_zhang_598824ef87a46c/introducing-dagor-a-high-performance-dag-execution-engine-in-go-2m5e" target="_blank">Introducing Dagor : a High-Performance DAG Execution Engine in Go</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-06 04:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mayu2008/building-a-todo-api-with-honojs-drizzle-orm-neon-a-beginner-friendly-guide-438" target="_blank">Building a Todo API with HonoJS, Drizzle ORM &amp; Neon — A Beginner-Friendly Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-06 04:11</span>
             </div>
         </div>
 </div>
@@ -324,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
