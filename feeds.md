@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-06 03:29:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-06 04:14:47 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, January 06, 2026 - 03:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, January 06, 2026 - 04:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +107,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/851926/alienware-is-working-on-new-slim-and-cheaper-gaming-laptops" target="_blank">Alienware is working on new slim and cheaper gaming laptops</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-06 03:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/849643/ces-2026-vivoo-flowpad-menstrual-pad-hormones-wearable-health" target="_blank">The Vivoo FlowPad turns menstrual pads into an at-home hormone test</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-06 03:00</span>
@@ -150,15 +157,6 @@
                 <span class="time">2026-01-05 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/05/50530415266_a67d907fac_b-500x500.jpg" alt="NASA’s science budget won’t be a train wreck after all" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/01/nasas-science-budget-wont-be-a-train-wreck-after-all/" target="_blank">NASA’s science budget won’t be a train wreck after all</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-05 22:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,12 +172,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mayu2008/building-a-todo-api-with-honojs-drizzle-orm-neon-a-beginner-friendly-guide-438" target="_blank">Building a Todo API with HonoJS, Drizzle ORM &amp; Neon — A Beginner-Friendly Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-06 04:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqjtebhk1ef5e6y46aafx.png" alt="ClaudeCode Streak Skill Got a Telegram Bot: Check In From Your Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yooi/claudecode-streak-skill-got-a-telegram-bot-check-in-from-your-phone-3k8n" target="_blank">ClaudeCode Streak Skill Got a Telegram Bot: Check In From Your Phone</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-05 23:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/new-2026-dell-xps.jpg?resize=406%2C232&amp;ssl=1" alt="New Dell XPS 14 and 16 Announced, Ubuntu Version Coming This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/new-dell-xps-2026-with-ubuntu" target="_blank">New Dell XPS 14 and 16 Announced, Ubuntu Version Coming This Year</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-05 23:42</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +214,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/nvidia-vera-rubin-ubuntu-support" target="_blank">Canonical announces Ubuntu support for the NVIDIA Rubin platform</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-01-05 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fleilfybs2fi9sqmyys47.png" alt="Copy-Paste is Not a Workflow: Building dbt-core-mcp" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/niclasolofsson/copy-paste-is-not-a-workflow-building-dbt-core-mcp-4d6o" target="_blank">Copy-Paste is Not a Workflow: Building dbt-core-mcp</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-05 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://loworbitsecurity.com/radar/radar16/" target="_blank">There were BGP anomalies during the Venezuela blackout</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-05 21:05</span>
             </div>
         </div>
 </div>
@@ -237,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/chicken-bomb.jpeg?fit=1200%2C654&amp;quality=60&amp;ssl=1" alt="Cold War planners wanted to heat atomic mines with chickens" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/05/cold-war-planners-wanted-to-heat-atomic-mines-with-chickens.html" target="_blank">Cold War planners wanted to heat atomic mines with chickens</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-06 00:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/stop-sign.jpeg?fit=1200%2C755&amp;quality=60&amp;ssl=1" alt="&quot;STOP – DEATH – STOP&quot; a gloriously excessive 1930s railroad crossing signal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +286,6 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/us-awards-peter-thiel-backed-nuclear-startup-900-million-2000705701" target="_blank">US Awards Peter Thiel–Backed Nuclear Startup $900 Million</a></span>
                 <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-05 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Microsoft-Office-Professional-2021-for-Windows-2.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Microsoft Office Pro 2021 for Windows is $35 for the apps you already know and love" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/05/microsoft-office-pro-2021-for-windows-is-35-for-the-apps-you-already-know-and-love.html" target="_blank">Microsoft Office Pro 2021 for Windows is $35 for the apps you already know and love</a></span>
-                <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-05 22:00</span>
             </div>
         </div>
@@ -346,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 03:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 04:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
