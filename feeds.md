@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-07 15:02:29 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-07 16:02:29 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 12 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, January 07, 2026 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, January 07, 2026 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/7/do-russia-and-china-pose-a-national-security-threat-to-the-us-in-greenland?traffic_source=rss" target="_blank">Do Russia and China pose a national security threat to the US in Greenland?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-07 15:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,6 +82,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-tanker-russia-venezuele_7129072.jpg?20260107141223" alt="What we know about tankers seized by US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/what-we-know-about-us-seizure-of-russian-flagged-oil-tanker-linked-to-venezuela-13491539" target="_blank">What we know about tankers seized by US</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-07 13:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/Caracas-march-DB-260107_1767773514403_hpMain_4x3t_384.jpg" alt="Venezuela live updates: US oil executives to meet Trump at White House, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -76,29 +99,38 @@
                 <span class="time">2026-01-07 12:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/07/g-s1-104887/up-first-newsletter-venezuela-trump-republicans-midterms-women-combat-roles" target="_blank">GOP gearing up to face tough midterms. And, Pentagon reviews women in ground combat</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-07 12:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Caracas-march-DB-260107_1767773514403_hpMain_4x3t_384.jpg" alt="Venezuela live updates: Russia, Iran issue new statements in support of Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/venezuela-live-updates-trump-give-details-after-us/?id=127792811" target="_blank">Venezuela live updates: Russia, Iran issue new statements in support of Venezuela</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-07 11:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/excavation-500x500.jpg" alt="We have a fossil closer to our split with Neanderthals and Denisovans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/01/weve-got-a-fossil-closer-to-our-split-with-neanderthals-and-denisovans/" target="_blank">We have a fossil closer to our split with Neanderthals and Denisovans</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-07 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/685f3c5a306f1b145ea13b86/master/pass/Review-%20Breville%20Luxe%20Brewer.png" alt="Breville Luxe Brewer Review (2025): Good Drip, Real Cold Brew" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/breville-luxe-brewer-drip-coffeemaker/" target="_blank">Breville Luxe Brewer Review (2025): Good Drip, Real Cold Brew</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-07 15:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/857428/hyperkin-gamesir-x5-alteron-clamp-bluetooth-wireless-controller" target="_blank">You can turn this modular clamp-on controller into an N64 or GameCube gamepad</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-07 15:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -124,33 +156,6 @@
                 <span class="title"><a href="https://arstechnica.com/culture/2026/01/review-stranger-things-frustrating-finale-didnt-quite-stick-the-landing/" target="_blank">Review: Stranger Things’ frustrating finale didn’t quite stick the landing</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-01-07 14:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/853143/ikea-smart-home-matter-varmblixt-donut-color-changing-pendant-lamp" target="_blank">Ikea is expanding its Matter support to two stylish lamps</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-07 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home" target="_blank">The best tech announced at CES 2026 so far</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-07 13:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/KSC-20250404-PH-KLS01_0031large-500x500.jpg" alt="Here are the launches and landings we’re most excited about in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/01/here-are-the-launches-and-landings-were-most-excited-about-in-2026/" target="_blank">Here are the launches and landings we’re most excited about in 2026</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-07 12:00</span>
             </div>
         </div>
 </div>
@@ -186,6 +191,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus" target="_blank">Sugar industry influenced researchers and blamed fat for CVD</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-07 14:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18810409&w=600" alt="Why Small Language Models Are Transforming AI Adoption for Everyone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -201,15 +215,6 @@
                 <span class="title"><a href="https://dzone.com/articles/rpa-validation-life-sciences" target="_blank">RPA Validation in Life Sciences: 5 Pitfalls and How to Avoid Them</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-01-07 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lbstanza.org/purpose_of_programming_languages.html" target="_blank">“Stop Designing Languages. Write Libraries Instead” (2016)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-07 12:29</span>
             </div>
         </div>
 </div>
@@ -240,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/2024-PNW-bomb-cyclone-1280x853.jpg" alt="Climate Models Don’t Account for This Surprising Shift in the North Pacific Storm Track" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/climate-models-dont-account-for-this-surprising-shift-in-the-north-pacific-storm-track-2000706724" target="_blank">Climate Models Don’t Account for This Surprising Shift in the North Pacific Storm Track</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-07 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Year-Ahead-In-Movies-2026-1280x853.jpg" alt="The Year Ahead in Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +299,6 @@
                 <span class="time">2026-01-07 10:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/letter.jpg" alt="Crypto Hardware Wallet Maker Ledger Impacted by Third-Party Data Breach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/crypto-hardware-wallet-maker-ledger-impacted-by-third-party-data-breach-2000706407" target="_blank">Crypto Hardware Wallet Maker Ledger Impacted by Third-Party Data Breach</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-07 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
