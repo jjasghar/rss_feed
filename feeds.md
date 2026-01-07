@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-06 23:01:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-07 00:04:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, January 06, 2026 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, January 07, 2026 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260105-caracas-venezuela-ew-1110a-f7636d.jpg" alt="A tense calm on the streets of Caracas masks fears and uncertainty for Venezuelans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/latin-america/venezuela-tense-calm-fear-residents-security-forces-maduro-rcna252359" target="_blank">A tense calm on the streets of Caracas masks fears and uncertainty for Venezuelans</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-06 21:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/greenland-gty-jef-251222_1766428877884_hpMain_4x3t_384.jpg" alt="Military &#x27;always an option&#x27; for Trump to acquire Greenland, White House official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c17zee20qpzo?at_medium=RSS&at_campaign=rss" target="_blank">UK and France to send troops to Ukraine if peace deal agreed</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-06 19:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/6/man-utd-manager-talk-waste-of-time-says-favourite-glasner?traffic_source=rss" target="_blank">Man Utd manager talk ‘waste of time’ says favourite Glasner</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-06 18:16</span>
             </div>
         </div>
 </div>
@@ -175,6 +173,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/niclasolofsson/tdd-for-dbt-unit-testing-the-way-it-should-be-1l02" target="_blank">TDD for dbt: unit testing the way it should be</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-07 00:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frl75tiisi44jhb1oig94.png" alt="building Drosk - your smart desktop file organizer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +217,6 @@
                 <span class="time">2026-01-06 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/p12se/why-dev-app-page-and-40-other-tlds-dont-respond-to-whois-53n8" target="_blank">Why .dev, .app, .page (and 40+ Other TLDs) Don&#x27;t Respond to WHOIS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-06 19:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/gecko.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Clever gecko figures out how to use a water fountain and instantly becomes the boss" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/06/clever-gecko-figures-out-how-to-use-a-water-fountain-and-instantly-becomes-the-boss.html" target="_blank">Clever gecko figures out how to use a water fountain and instantly becomes the boss</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-06 23:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Screenshot-2026-01-06-at-2.18.22-PM-1280x853.jpg" alt="That Problem Where You Can’t Buy an Electrical Pulse-Delivering Patch for Your Taint Has Been Solved" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/that-problem-where-you-cant-buy-an-electrical-pulse-delivering-patch-for-your-taint-has-been-solved-2000705847" target="_blank">That Problem Where You Can’t Buy an Electrical Pulse-Delivering Patch for Your Taint Has Been Solved</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-06 23:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/King-Boo.jpg" alt="An AI ‘Ghost’ That Plays Games For You Is The Inevitable Endpoint Of Where This Is All Headed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +290,6 @@
                 <span class="time">2026-01-06 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/bafkreidgzc5ahmujexnek4s65ijw4njw3s362lhby3uraegfg3npm56smu%40jpeg.jpeg?fit=607%2C341&amp;quality=60&amp;ssl=1" alt="Once again, Grandpa Pudding Brains performs his happy endings dance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/06/once-again-grandpa-pudding-brains-performs-his-happy-endings-dance.html" target="_blank">Once again, Grandpa Pudding Brains performs his happy endings dance</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-06 19:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/07/8f41133ccd4bdf8beb60bbfbf894b7e3-1280x720.jpg" alt="Stranger Things’ Big Finale Fight Was Inspired By Baldur’s Gate 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/stranger-things-big-finale-fight-vecna-mind-flayer-eleven-baldurs-gate-3-2000657205" target="_blank">Stranger Things’ Big Finale Fight Was Inspired By Baldur’s Gate 3</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-06 19:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
