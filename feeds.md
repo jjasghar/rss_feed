@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-07 05:05:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-07 06:02:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, January 07, 2026 - 05:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, January 07, 2026 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/7/china-bans-export-of-dual-use-items-to-japan-amid-tensions-over-taiwan?traffic_source=rss" target="_blank">China bans export of dual-use items to Japan amid tensions over Taiwan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-07 05:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +94,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-warns-republicans-win-midterms-hell-impeached/story?id=128958317" target="_blank">Trump warns Republicans they have to win midterms or he&#x27;ll &#x27;get impeached&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-06 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-trump-macron-starmer_7128547.jpg?20260107045846" alt="We&#x27;ll defend Greenland, European leaders vow - as US suggests it could take military action" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/military-action-in-greenland-always-an-option-says-white-house-13491330" target="_blank">We&#x27;ll defend Greenland, European leaders vow - as US suggests it could take military action</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-06 22:19</span>
             </div>
         </div>
 </div>
@@ -178,6 +173,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nishikr/the-senior-qas-manifesto-how-i-decide-what-not-to-automate-1ofc" target="_blank">The Senior QA’s Manifesto: How I Decide What NOT to Automate</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-07 05:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/toyama0919/ty-the-blazingly-fast-python-type-checker-from-astral-ruff-uv-creators-5bd" target="_blank">ty: The Blazingly Fast Python Type Checker from Astral (Ruff &amp; uv Creators)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-07 04:44</span>
@@ -210,15 +214,6 @@
                 <span class="time">2026-01-07 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frl75tiisi44jhb1oig94.png" alt="building Drosk - your smart desktop file organizer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/exoad/building-drosk-your-smart-desktop-file-organizer-39p" target="_blank">building Drosk - your smart desktop file organizer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-06 22:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEAXR80B8MFEJT0H9RHJ2Y5F/hero-image.jpg" alt="CES 2026: Nvidia&#x27;s Updated DLSS Makes Games Run Worse on Older GPUs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/ces-2026-nvidias-updated-dlss-makes-games-run-worse-on-older-gpus?utm_medium=RSS" target="_blank">CES 2026: Nvidia&#x27;s Updated DLSS Makes Games Run Worse on Older GPUs</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-07 04:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KEB8T7SSSYM9GPVDTEQ7MWC8/hero-image.jpg" alt="This Radar-Equipped Stove Shutoff Is One of the Most Practical Things I Saw at CES" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +287,6 @@
                 <span class="time">2026-01-07 00:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/gecko.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Clever gecko figures out how to use a water fountain and instantly becomes the boss" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/06/clever-gecko-figures-out-how-to-use-a-water-fountain-and-instantly-becomes-the-boss.html" target="_blank">Clever gecko figures out how to use a water fountain and instantly becomes the boss</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-06 23:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 05:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
