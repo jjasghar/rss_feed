@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-07 06:02:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-07 07:04:15 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, January 07, 2026 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, January 07, 2026 - 07:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e1/live/8b61cb40-eb92-11f0-b5f7-49f0357294ff.jpg" alt="US discussing options to acquire Greenland, including use of military, says White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyg1jg8xkmo?at_medium=RSS&at_campaign=rss" target="_blank">US discussing options to acquire Greenland, including use of military, says White House</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-07 07:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/07/g-s1-104857/homeland-security-immigration-minnesota" target="_blank">Homeland Security plans 2,000 immigration officers in Minnesota</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-07 06:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/1/7/live-yemens-stc-leader-al-zubaidi-dismissed-after-fleeing-overnight?traffic_source=rss" target="_blank">LIVE: Yemen’s STC leader al-Zubaidi dismissed after ‘fleeing’ overnight</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-07 06:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,38 +103,20 @@
                 <span class="time">2026-01-07 00:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fc5/live/1a7424f0-eb47-11f0-8e45-aba2ee11eb98.jpg" alt="More snow and ice across nearly all of UK as cold snap continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly39n1vejpo?at_medium=RSS&at_campaign=rss" target="_blank">More snow and ice across nearly all of UK as cold snap continues</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-07 00:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767749944156_nn_ggu_venezuela_crackdown_260106_1920x1080-1wie26.jpg" alt="Venezuela on edge amid regime crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/venezuela-on-edge-amid-regime-crackdown-255506501818" target="_blank">Venezuela on edge amid regime crackdown</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-06 23:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-2-gty-gmh-260106_1767713137726_hpMain_4x3t_384.jpg" alt="Trump warns Republicans they have to win midterms or he&#x27;ll &#x27;get impeached&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-warns-republicans-win-midterms-hell-impeached/story?id=128958317" target="_blank">Trump warns Republicans they have to win midterms or he&#x27;ll &#x27;get impeached&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-06 23:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Therabody Promo Codes: 15% Off January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/therabody-promo-code/" target="_blank">Therabody Promo Codes: 15% Off January 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-07 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +162,6 @@
                 <span class="time">2026-01-07 01:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/695d520ac8fcfa0242b8cd5d/master/pass/legion-pro-rollable-top.jpg" alt="Lenovo’s Legion Pro Rollable Gaming Laptop Goes Ultrawide at the Press of a Key" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lenovo-legion-pro-gaming-laptop-ultrawide-rollable-screen/" target="_blank">Lenovo’s Legion Pro Rollable Gaming Laptop Goes Ultrawide at the Press of a Key</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-07 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +183,15 @@
                 <span class="title"><a href="https://dev.to/nishikr/the-senior-qas-manifesto-how-i-decide-what-not-to-automate-1ofc" target="_blank">The Senior QA’s Manifesto: How I Decide What NOT to Automate</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-07 05:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/01/07/you-need-quality-engineers-to-turn-ai-into-roi/" target="_blank">You need quality engineers to turn AI into ROI</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-01-07 05:40</span>
             </div>
         </div>
 <div class="story">
@@ -203,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Dropping-Old-Mount" target="_blank">Linux&#x27;s Old Mount API Code On The Chopping Block For The 7.0 Kernel</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-07 01:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/niclasolofsson/tdd-for-dbt-unit-testing-the-way-it-should-be-1l02" target="_blank">TDD for dbt: unit testing the way it should be</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-07 00:00</span>
             </div>
         </div>
 </div>
@@ -315,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 07:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
