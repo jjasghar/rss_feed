@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-07 11:01:31 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-07 12:02:35 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, January 07, 2026 - 11:01 UTC</div>
+    <div class="newspaper-date">Wednesday, January 07, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Caracas-march-DB-260107_1767773514403_hpMain_4x3t_384.jpg" alt="Venezuela live updates: Russia, Iran issue new statements in support of Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/venezuela-live-updates-trump-give-details-after-us/?id=127792811" target="_blank">Venezuela live updates: Russia, Iran issue new statements in support of Venezuela</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-07 11:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cwyg1jg8xkmo?at_medium=RSS&at_campaign=rss" target="_blank">US discussing options to acquire Greenland, including use of military, says White House</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-07 07:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/07/g-s1-104857/homeland-security-immigration-minnesota" target="_blank">Homeland Security plans 2,000 immigration officers in Minnesota</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-07 06:55</span>
             </div>
         </div>
 </div>
@@ -176,6 +177,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/saber-amani/api-versioning-strategies-real-lessons-from-production-incidents-and-fixes-2120" target="_blank">API Versioning Strategies: Real Lessons from Production Incidents and Fixes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-07 11:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RADV-More-RT-Performance-2026" target="_blank">Radeon RADV Vulkan Driver Is On The Verge Of Another Big Ray-Tracing Performance Gain</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-07 11:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Acer-Laptop-Battery-Linux" target="_blank">Acer Laptop Battery Control Driver Looks Toward The Upstream Linux Kernel</a></span>
                 <span class="feed">Phoronix</span>
@@ -198,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/dinhkhoiminh/beyond-rag-building-an-autonomous-epistemic-engine-to-fight-ai-hallucination-4o2g" target="_blank">Beyond RAG: Building an Autonomous &quot;Epistemic Engine&quot; to Fight AI Hallucination</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-07 09:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nishikr/the-senior-qas-manifesto-how-i-decide-what-not-to-automate-1ofc" target="_blank">The Senior QA’s Manifesto: How I Decide What NOT to Automate</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-07 05:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/01/07/you-need-quality-engineers-to-turn-ai-into-roi/" target="_blank">You need quality engineers to turn AI into ROI</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-01-07 05:40</span>
             </div>
         </div>
 </div>
@@ -328,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
