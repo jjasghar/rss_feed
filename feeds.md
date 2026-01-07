@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-07 03:29:40 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-07 04:15:02 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, January 07, 2026 - 03:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, January 07, 2026 - 04:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -176,6 +176,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/" target="_blank">Microsoft probably killed my Snapdragon Dev Kit</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-07 02:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Dropping-Old-Mount" target="_blank">Linux&#x27;s Old Mount API Code On The Chopping Block For The 7.0 Kernel</a></span>
                 <span class="feed">Phoronix</span>
@@ -207,15 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Gentoo-2025-Accomplishments" target="_blank">Gentoo Linux Made Progress On RISC-V, WSL &amp; More In 2025 While Pulling In Just $12k USD</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-06 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgxdzuti3r8jpt4v4i9t6.png" alt="An open-source, HIPAA-eligible Twilio alternative" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alxwlcx/an-open-source-hipaa-eligible-twilio-alternative-33mf" target="_blank">An open-source, HIPAA-eligible Twilio alternative</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-06 20:46</span>
             </div>
         </div>
 </div>
@@ -310,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 03:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 04:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
