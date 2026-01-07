@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-07 02:36:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-07 03:29:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, January 07, 2026 - 02:36 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, January 07, 2026 - 03:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,9 +50,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/7/russia-ukraine-war-list-of-key-events-day-1413?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,413</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-07 03:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/7/trump-says-venezuela-to-hand-over-up-to-50-million-barrels-of-oil-to-us?traffic_source=rss" target="_blank">Trump says Venezuela to hand over up to 50 million barrels of oil to US</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-07 00:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fc5/live/1a7424f0-eb47-11f0-8e45-aba2ee11eb98.jpg" alt="More snow and ice across nearly all of UK as cold snap continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly39n1vejpo?at_medium=RSS&at_campaign=rss" target="_blank">More snow and ice across nearly all of UK as cold snap continues</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-07 00:10</span>
             </div>
         </div>
 <div class="story">
@@ -87,29 +100,20 @@
                 <span class="time">2026-01-06 22:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260105-caracas-venezuela-ew-1110a-f7636d.jpg" alt="A tense calm on the streets of Caracas masks fears and uncertainty for Venezuelans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/latin-america/venezuela-tense-calm-fear-residents-security-forces-maduro-rcna252359" target="_blank">A tense calm on the streets of Caracas masks fears and uncertainty for Venezuelans</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-06 21:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/greenland-gty-jef-251222_1766428877884_hpMain_4x3t_384.jpg" alt="Military &#x27;always an option&#x27; for Trump to acquire Greenland, White House official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/us-military-option-acquiring-greenland-white-house-official/story?id=128960041" target="_blank">Military &#x27;always an option&#x27; for Trump to acquire Greenland, White House official says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-06 21:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/857252/intel-handheld-gaming-pc-panther-lake-custom-cpu" target="_blank">Intel is planning a custom Panther Lake CPU for handheld PCs</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-07 03:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,6 +133,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/razr-fold-500x500.jpg" alt="Motorola reveals the Razr Fold, a book-style foldable launching this summer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/motorola-reveals-the-razr-fold-a-book-style-foldable-launching-this-summer/" target="_blank">Motorola reveals the Razr Fold, a book-style foldable launching this summer</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-07 01:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/695d520ac8fcfa0242b8cd5d/master/pass/legion-pro-rollable-top.jpg" alt="Lenovo’s Legion Pro Rollable Gaming Laptop Goes Ultrawide at the Press of a Key" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -144,24 +157,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/06/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/" target="_blank">CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-06 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/856815/jake-sullivan-interview-ai-chips-nvidia-trump" target="_blank">Jake Sullivan is furious that Trump destroyed his AI foreign policy</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-06 22:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/21539047/best-amazon-kindle-deals" target="_blank">Here are the best Kindle deals right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-06 21:26</span>
             </div>
         </div>
 </div>
@@ -315,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 276 |
-        🔄 Last Updated: 02:36 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 03:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
