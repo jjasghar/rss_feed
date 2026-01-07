@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-07 22:01:40 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-07 23:02:11 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, January 07, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, January 07, 2026 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -68,6 +64,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/07/nx-s1-5670244/trump-greenland" target="_blank">White House says &#x27;all options&#x27; are on the table for Greenland, including diplomacy</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-07 21:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2f7/live/616fcb40-ebe5-11f0-b5f7-49f0357294ff.jpg" alt="UK armed forces helped US seizure of tanker, says MoD" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -86,21 +91,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/f_mo_minn_shooting_ugc_260107.00_00_16_07.Still001-spxyxe.jpg" alt="Video shows moment ICE agent fatally shoots woman in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/7/rubio-seizing-greenland-by-military-means-an-option-for-us?traffic_source=rss" target="_blank">Rubio: Seizing Greenland by ‘military means’ an option for US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-07 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1539/live/6c67b330-ebec-11f0-a422-4ba8a094a8fa.jpg" alt="US seizes two &#x27;shadow fleet&#x27; tankers linked to Venezuelan oil" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y2v8ngl14o?at_medium=RSS&at_campaign=rss" target="_blank">US seizes two &#x27;shadow fleet&#x27; tankers linked to Venezuelan oil</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-07 19:54</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/video-shows-moment-ice-agent-fatally-shoots-woman-in-minneapolis-255558725596" target="_blank">Video shows moment ICE agent fatally shoots woman in Minneapolis</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-07 20:16</span>
             </div>
         </div>
 </div>
@@ -108,6 +104,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/842308/bluetti-now-charges-power-stations-at-up-to-1200w-in-your-car" target="_blank">Bluetti now charges power stations at up to 1200W in your car</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-07 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/01/floorp_L7Vva1B8JH-500x500.jpg" alt="Samsung squashes hopes that it will release its Ballie home robot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/samsung-squashes-hopes-that-it-will-release-its-ballie-home-robot/" target="_blank">Samsung squashes hopes that it will release its Ballie home robot</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-07 22:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/07/yes-linkedin-banned-ai-agent-startup-artisan-but-now-its-back/" target="_blank">Yes, LinkedIn banned AI agent startup Artisan, but now it’s back</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-07 22:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,33 +158,6 @@
                 <span class="time">2026-01-07 18:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Bose_SoundTouch_30_Series_III_1640_26-500x500.jpg" alt="Bose open-sources its SoundTouch home theater smart speakers ahead of end-of-life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/" target="_blank">Bose open-sources its SoundTouch home theater smart speakers ahead of end-of-life</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-07 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/07/skylight-debuts-calendar-2-to-keep-your-family-organized/" target="_blank">Skylight debuts Calendar 2 to keep your family organized</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-07 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/857723/dell-consumers-ai-pcs-comments" target="_blank">Dell admits consumers don’t care about AI PCs</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-07 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +170,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnyos0gx2zukv8ymg52d9.png" alt="Everyone&#x27;s Generating Videos; I Calculated What AI Video Actually Costs in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/toryreut/everyones-generating-videos-i-calculated-what-ai-video-actually-costs-in-2026-37ag" target="_blank">Everyone&#x27;s Generating Videos; I Calculated What AI Video Actually Costs in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-07 22:42</span>
             </div>
         </div>
 <div class="story">
@@ -195,30 +200,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tailscale.com/changelog" target="_blank">Tailscale state file encryption no longer enabled by default</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-07 20:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18810796&w=600" alt="Handling Logging After Migrating UiPath to Automation Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/handling-logging-uipath-automation-cloud" target="_blank">Handling Logging After Migrating UiPath to Automation Cloud</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-01-07 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18810790&w=600" alt="Implementing Idempotency in Distributed Spring Boot Applications Using MySQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/implementing-idempotency-spring-boot-mysql" target="_blank">Implementing Idempotency in Distributed Spring Boot Applications Using MySQL</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-07 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/crisiscoresystems/testing-the-testing-validating-that-your-crisis-simulation-actually-matches-reality-6df" target="_blank">Test Your Tests: Does Your Crisis Simulation Match Reality?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-07 17:00</span>
             </div>
         </div>
 </div>
@@ -241,6 +237,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/peter-claffey-2-1280x853.jpg" alt="Meet Your New Favorite ‘Game of Thrones’ Character in This ‘Knight of the Seven Kingdoms’ Featurette" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/meet-your-new-favorite-game-of-thrones-character-in-this-knight-of-the-seven-kingdoms-featurette-2000707042" target="_blank">Meet Your New Favorite ‘Game of Thrones’ Character in This ‘Knight of the Seven Kingdoms’ Featurette</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-07 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KED0VVC62DJ6VGT8QTR6RYK4/hero-image.png" alt="This Double-Screen Laptop Display Extender Is 35% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/laptop-display-extender-deal-january-2026?utm_medium=RSS" target="_blank">This Double-Screen Laptop Display Extender Is 35% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-07 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/indie-of-the-week-ODDCORE-1280x720.jpg" alt="New Backrooms FPS Is Fast, Trippy, And Also You Only Have Five Minutes So Hurry Up!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/backrooms-liminal-space-fps-boomer-shooter-oddcore-is-it-good-2000657813" target="_blank">New Backrooms FPS Is Fast, Trippy, And Also You Only Have Five Minutes So Hurry Up!</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-07 22:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/chatgpt_health-1280x853.jpg" alt="OpenAI Launches ChatGPT Health, Wants Access to Your Medical Records" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -259,39 +282,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KECZ1614F2JM7CQ6C2J2KP20/hero-image.png" alt="You Can Get the CMF Nothing Headphone Pros for $79 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/OysterVPN.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="The need for shucking is over — get this lifetime access to OysterVPN for just $25" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/cmf-nothing-headphone-pros-sale-january-2026?utm_medium=RSS" target="_blank">You Can Get the CMF Nothing Headphone Pros for $79 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-07 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEAM64MC29Q85Y03VTPCQXCV/hero-image.png" alt="Turn on &#x27;App Pinning&#x27; Before Letting Someone Else Use Your Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/turn-on-app-pinning-before-letting-someone-else-use-your-android?utm_medium=RSS" target="_blank">Turn on &#x27;App Pinning&#x27; Before Letting Someone Else Use Your Android</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-07 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/IMG_1496-1280x720.jpg" alt="I Finally Understand Why People Don’t Finish Games They Love" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-legends-za-mega-dimension-how-long-to-beat-2000657800" target="_blank">I Finally Understand Why People Don’t Finish Games They Love</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-07 20:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1VAR5AND6T7HEYJHS4JG6Q1/hero-image.jpg" alt="15 Shows Like &#x27;Stranger Things&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-stranger-things?utm_medium=RSS" target="_blank">15 Shows Like &#x27;Stranger Things&#x27; You Should Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-07 19:30</span>
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/07/the-need-for-shucking-is-over-get-this-lifetime-access-to-oystervpn-for-just-25.html" target="_blank">The need for shucking is over — get this lifetime access to OysterVPN for just $25</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-07 22:00</span>
             </div>
         </div>
 </div>
@@ -349,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 40 | 📸 With Images: 288 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 40 | 📸 With Images: 289 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
