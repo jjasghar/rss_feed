@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-07 04:15:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-07 05:05:00 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, January 07, 2026 - 04:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, January 07, 2026 - 05:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -92,10 +93,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/d8e87493b7d85a48cf7cc96d235b8325d995d88a7ceb256b12554b878890f99a_7127964.jpg?20260107021120" alt="US prepared to take Greenland by force, White House suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-trump-macron-starmer_7128547.jpg?20260107045846" alt="We&#x27;ll defend Greenland, European leaders vow - as US suggests it could take military action" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/military-action-in-greenland-always-an-option-says-white-house-13491330" target="_blank">US prepared to take Greenland by force, White House suggests</a></span>
+                <span class="title"><a href="https://news.sky.com/story/military-action-in-greenland-always-an-option-says-white-house-13491330" target="_blank">We&#x27;ll defend Greenland, European leaders vow - as US suggests it could take military action</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-01-06 22:19</span>
             </div>
@@ -112,6 +113,15 @@
                 <span class="title"><a href="https://www.theverge.com/tech/857252/intel-handheld-gaming-pc-panther-lake-custom-cpu" target="_blank">Intel is planning a custom Panther Lake CPU for handheld PCs</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-07 03:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/06/mckinsey-and-general-catalyst-execs-say-the-era-of-learn-once-work-forever-is-over/" target="_blank">McKinsey and General Catalyst execs say the era of ‘learn once, work forever’ is over</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-07 03:09</span>
             </div>
         </div>
 <div class="story">
@@ -150,15 +160,6 @@
                 <span class="time">2026-01-07 01:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/06/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/" target="_blank">CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-06 22:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +172,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/toyama0919/ty-the-blazingly-fast-python-type-checker-from-astral-ruff-uv-creators-5bd" target="_blank">ty: The Blazingly Fast Python Type Checker from Astral (Ruff &amp; uv Creators)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-07 04:44</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +219,6 @@
                 <span class="time">2026-01-06 22:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Gentoo-2025-Accomplishments" target="_blank">Gentoo Linux Made Progress On RISC-V, WSL &amp; More In 2025 While Pulling In Just $12k USD</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-06 22:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +239,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEB8T7SSSYM9GPVDTEQ7MWC8/hero-image.jpg" alt="This Radar-Equipped Stove Shutoff Is One of the Most Practical Things I Saw at CES" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/ces-2026-iguardstove?utm_medium=RSS" target="_blank">This Radar-Equipped Stove Shutoff Is One of the Most Practical Things I Saw at CES</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-07 03:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Lenovo-ThinkBook-Auto-Twist-1-1280x853.jpg" alt="Lenovo Spins Its Latest ThinkBook Right Round (Like a Record, Baby)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -253,6 +263,15 @@
                 <span class="title"><a href="https://lifehacker.com/tech/lenovo-gaming-laptop-can-stretch-with-push-of-a-button-ces-2026?utm_medium=RSS" target="_blank">CES 2026: This Lenovo Gaming Laptop Can Stretch From 16:9 to ‘Ultrawide’ With the Push of a Button</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-07 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/geforce-rtx-5050-desktop-and-laptop.jpg?fit=2400%2C1260&amp;quality=60&amp;ssl=1" alt="AI continues to ruin everything: NVIDIA to start producing 3060s again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/06/ai-continues-to-ruin-everything-nvidia-to-start-producing-3060s-again.html" target="_blank">AI continues to ruin everything: NVIDIA to start producing 3060s again</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-07 00:26</span>
             </div>
         </div>
 <div class="story">
@@ -273,29 +292,20 @@
                 <span class="time">2026-01-06 23:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Screenshot-2026-01-06-at-2.18.22-PM-1280x853.jpg" alt="That Problem Where You Can’t Buy an Electrical Pulse-Delivering Patch for Your Taint Has Been Solved" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/that-problem-where-you-cant-buy-an-electrical-pulse-delivering-patch-for-your-taint-has-been-solved-2000705847" target="_blank">That Problem Where You Can’t Buy an Electrical Pulse-Delivering Patch for Your Taint Has Been Solved</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-06 23:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/King-Boo.jpg" alt="An AI ‘Ghost’ That Plays Games For You Is The Inevitable Endpoint Of Where This Is All Headed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sony-patent-ai-ghost-ps5-megabonk-2000657230" target="_blank">An AI ‘Ghost’ That Plays Games For You Is The Inevitable Endpoint Of Where This Is All Headed</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-06 22:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5738.png" alt="Now That&#x27;s What I Call Music Vol. 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5738" target="_blank">Now That&#x27;s What I Call Music Vol. 2</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-01-07 01:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1767567925-20260106.png" alt="Saturday Morning Breakfast Cereal - Apple" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -310,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 04:15 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 05:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
