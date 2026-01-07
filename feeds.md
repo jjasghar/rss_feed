@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-01-07 14:02:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-01-07 15:02:29 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 12 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, January 07, 2026 - 14:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, January 07, 2026 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/7/arsenal-vs-liverpool-premier-league-team-news-start-time-lineups?traffic_source=rss" target="_blank">Arsenal vs Liverpool: Premier League – team news, start time, lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-07 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767793459338_now_mnn_oil_tanker_secured_260107_1920x1080-4qtkjm.jpg" alt="U.S. secures oil tanker linked to Venezuela, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/u-s-secures-oil-tanker-linked-to-venezuela-officials-say-255535685841" target="_blank">U.S. secures oil tanker linked to Venezuela, officials say</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-07 13:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/bella1-main_1767791412474_hpMain_4x3t_384.jpg" alt="Venezuela live updates: US moves to seize oil tanker in North Atlantic, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +94,38 @@
                 <span class="time">2026-01-07 11:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/7/everything-you-need-to-know-about-the-syria-israel-deal-in-paris?traffic_source=rss" target="_blank">Everything you need to know about the Syria – Israel deal in Paris</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-07 10:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/7/why-do-250-million-christians-celebrate-christmas-on-january-7?traffic_source=rss" target="_blank">Why do 250 million Christians celebrate Christmas on January 7?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-07 09:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/857404/spotify-listening-activity-mobile" target="_blank">Spotify is finally bringing your friends’ Listening Activity to mobile</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-07 15:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6834c89f9aeb2033e53be94d/master/pass/Review-%20Ninja%20Luxe%20Cafe.png" alt="Ninja Luxe Cafe Premier Espresso Machine Review: Beginner’s Luck" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/luxe-cafe-premier-series-automatic-espresso-machine/" target="_blank">Ninja Luxe Cafe Premier Espresso Machine Review: Beginner’s Luck</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-07 14:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/strangerTOP-500x500.jpg" alt="Review: Stranger Things’ frustrating finale didn’t quite stick the landing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/01/review-stranger-things-frustrating-finale-didnt-quite-stick-the-landing/" target="_blank">Review: Stranger Things’ frustrating finale didn’t quite stick the landing</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-07 14:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,33 +153,6 @@
                 <span class="time">2026-01-07 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/857250/philips-hue-spatial-aware-smart-lighting-feature" target="_blank">It turns out I’ve been using my Hue lights all wrong</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-07 08:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/695bf250363a90f378f47672/master/pass/CES-Live-Blog-Gear-2192635123.jpg" alt="CES Live Blog, Day 3: Even More of the Coolest Tech We’ve Seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/live/ces-2026-live-blog/" target="_blank">CES Live Blog, Day 3: Even More of the Coolest Tech We’ve Seen</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-07 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="30% Off Canon Promo Codes | January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/canon-promo-code/" target="_blank">30% Off Canon Promo Codes | January 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-07 07:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +168,33 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/01/07/now-everyone-can-chat-on-stack-overflow/" target="_blank">Now everyone can chat on Stack Overflow</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-01-07 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/arcticdb-db-no-server/en/mediumimage/alex-seaton-medium-1766067545015.jpeg" alt="Presentation: How to Build a Database Without a Server" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/arcticdb-db-no-server/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: How to Build a Database Without a Server</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-07 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18810409&w=600" alt="Why Small Language Models Are Transforming AI Adoption for Everyone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/small-language-models-ai-adoption" target="_blank">Why Small Language Models Are Transforming AI Adoption for Everyone</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-07 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18810386&w=600" alt="RPA Validation in Life Sciences: 5 Pitfalls and How to Avoid Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -181,39 +204,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18810377&w=600" alt="Orchestrating Retail-Scale Data on Google Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/orchestrating-retail-data-google-cloud" target="_blank">Orchestrating Retail-Scale Data on Google Cloud</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-07 12:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/saber-amani/api-versioning-strategies-real-lessons-from-production-incidents-and-fixes-2120" target="_blank">API Versioning Strategies: Real Lessons from Production Incidents and Fixes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-07 11:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/RADV-More-RT-Performance-2026" target="_blank">Radeon RADV Vulkan Driver Is On The Verge Of Another Big Ray-Tracing Performance Gain</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-07 11:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Acer-Laptop-Battery-Linux" target="_blank">Acer Laptop Battery Control Driver Looks Toward The Upstream Linux Kernel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-07 10:51</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lbstanza.org/purpose_of_programming_languages.html" target="_blank">“Stop Designing Languages. Write Libraries Instead” (2016)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-07 12:29</span>
             </div>
         </div>
 </div>
@@ -244,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Year-Ahead-In-Movies-2026-1280x853.jpg" alt="The Year Ahead in Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-year-ahead-in-movies-2026-2000705746" target="_blank">The Year Ahead in Movies</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-07 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/arcraiders38-1280x720.jpg" alt="Arc Raiders Is Losing High-Profile Streamers To A New Wave Of Cheaters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/arc-raiders-cheaters-ninja-shroud-embark-patch-2000657708" target="_blank">Arc Raiders Is Losing High-Profile Streamers To A New Wave Of Cheaters</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-07 14:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Aqara-Hub-W200-1280x853.jpg" alt="Aqara’s New Thermostat Is Also a Home Hub, Presence Sensor, and Video Doorbell Monitor" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +292,6 @@
                 <span class="title"><a href="https://gizmodo.com/crypto-hardware-wallet-maker-ledger-impacted-by-third-party-data-breach-2000706407" target="_blank">Crypto Hardware Wallet Maker Ledger Impacted by Third-Party Data Breach</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-07 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/philips-hue-1280x853.jpg" alt="Philips Hue Will Soon Let Your Lights Work Together for Scenes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/philips-hue-will-soon-let-your-lights-work-together-for-scenes-2000706444" target="_blank">Philips Hue Will Soon Let Your Lights Work Together for Scenes</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-07 08:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEAXR80B8MFEJT0H9RHJ2Y5F/hero-image.jpg" alt="CES 2026: Nvidia&#x27;s Updated DLSS Makes Games Run Worse on Older GPUs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/ces-2026-nvidias-updated-dlss-makes-games-run-worse-on-older-gpus?utm_medium=RSS" target="_blank">CES 2026: Nvidia&#x27;s Updated DLSS Makes Games Run Worse on Older GPUs</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-07 04:40</span>
             </div>
         </div>
 </div>
@@ -335,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 14:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
