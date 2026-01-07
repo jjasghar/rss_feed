@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-07 10:01:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-07 11:01:31 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, January 07, 2026 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, January 07, 2026 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/7/everything-you-need-to-know-about-the-syria-israel-deal-in-paris?traffic_source=rss" target="_blank">Everything you need to know about the Syria – Israel deal in Paris</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-07 10:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +100,20 @@
                 <span class="time">2026-01-07 06:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/1/7/live-yemens-stc-leader-al-zubaidi-dismissed-after-fleeing-overnight?traffic_source=rss" target="_blank">LIVE: Yemen’s STC leader al-Zubaidi dismissed after ‘fleeing’ overnight</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-07 06:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/857250/philips-hue-spatial-aware-smart-lighting-feature" target="_blank">It turns out I’ve been using my Hue lights all wrong</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-07 08:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/695bf250363a90f378f47672/master/pass/CES-Live-Blog-Gear-2192635123.jpg" alt="CES Live Blog, Day 3: Even More of the Coolest Tech We’ve Seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,15 +159,6 @@
                 <span class="time">2026-01-07 03:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/857053/lenovo-ai-assistant-qira" target="_blank">Lenovo is building an AI assistant that ‘can act on your behalf’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-07 02:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +171,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Acer-Laptop-Battery-Linux" target="_blank">Acer Laptop Battery Control Driver Looks Toward The Upstream Linux Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-07 10:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2Fe0c36a95-5bd1-4e59-b10c-60ca79667eed" alt="I Built a Game Engine from Scratch in C++ (Here&#x27;s What I Learned)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/montmont20z/building-a-game-engine-from-scratch-using-c-my-breakout-clone-journey-20d1" target="_blank">I Built a Game Engine from Scratch in C++ (Here&#x27;s What I Learned)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-07 10:49</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +218,6 @@
                 <span class="time">2026-01-07 05:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/toyama0919/ty-the-blazingly-fast-python-type-checker-from-astral-ruff-uv-creators-5bd" target="_blank">ty: The Blazingly Fast Python Type Checker from Astral (Ruff &amp; uv Creators)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-07 04:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/" target="_blank">Microsoft probably killed my Snapdragon Dev Kit</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-07 02:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/cybercab-1280x960.jpg" alt="Tesla May Be Prevented from Using the Name ‘Cybercab’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tesla-may-be-prevented-from-using-the-name-cybercab-2000706545" target="_blank">Tesla May Be Prevented from Using the Name ‘Cybercab’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-07 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/letter.jpg" alt="Crypto Hardware Wallet Maker Ledger Impacted by Third-Party Data Breach" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +291,6 @@
                 <span class="time">2026-01-07 01:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KE7YSSEMJVB5YZM7YKQ3CFJ7/hero-image.jpg" alt="CES 2026: This Lenovo Gaming Laptop Can Stretch From 16:9 to ‘Ultrawide’ With the Push of a Button" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/lenovo-gaming-laptop-can-stretch-with-push-of-a-button-ces-2026?utm_medium=RSS" target="_blank">CES 2026: This Lenovo Gaming Laptop Can Stretch From 16:9 to ‘Ultrawide’ With the Push of a Button</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-07 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
