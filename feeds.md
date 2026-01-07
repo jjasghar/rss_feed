@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-07 12:02:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-07 13:14:09 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, January 07, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, January 07, 2026 - 13:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Caracas-march-DB-260107_1767773514403_hpMain_4x3t_384.jpg" alt="Venezuela live updates: US oil executives to meet Trump at White House, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/venezuela-live-updates-trump-give-details-after-us/?id=127792811" target="_blank">Venezuela live updates: US oil executives to meet Trump at White House, official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-07 12:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/07/g-s1-104887/up-first-newsletter-venezuela-trump-republicans-midterms-women-combat-roles" target="_blank">GOP gearing up to face tough midterms. And, Pentagon reviews women in ground combat</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-07 12:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Caracas-march-DB-260107_1767773514403_hpMain_4x3t_384.jpg" alt="Venezuela live updates: Russia, Iran issue new statements in support of Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +97,20 @@
                 <span class="time">2026-01-07 08:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/07/nx-s1-5668996/trump-mobile-golden-phone" target="_blank">Trump Mobile&#x27;s golden phone remains nowhere to be found</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-07 07:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e1/live/8b61cb40-eb92-11f0-b5f7-49f0357294ff.jpg" alt="US discussing options to acquire Greenland, including use of military, says White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyg1jg8xkmo?at_medium=RSS&at_campaign=rss" target="_blank">US discussing options to acquire Greenland, including use of military, says White House</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-07 07:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home" target="_blank">The best tech announced at CES 2026 so far</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-07 13:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +156,6 @@
                 <span class="time">2026-01-07 03:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/06/mckinsey-and-general-catalyst-execs-say-the-era-of-learn-once-work-forever-is-over/" target="_blank">McKinsey and General Catalyst execs say the era of ‘learn once, work forever’ is over</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-07 03:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +168,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18810377&w=600" alt="Orchestrating Retail-Scale Data on Google Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/orchestrating-retail-data-google-cloud" target="_blank">Orchestrating Retail-Scale Data on Google Cloud</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-07 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -210,20 +215,20 @@
                 <span class="time">2026-01-07 10:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dinhkhoiminh/beyond-rag-building-an-autonomous-epistemic-engine-to-fight-ai-hallucination-4o2g" target="_blank">Beyond RAG: Building an Autonomous &quot;Epistemic Engine&quot; to Fight AI Hallucination</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-07 09:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/the-wegmans-supermarket-chain-is-probably-using-facial-recognition.html" target="_blank">The Wegman’s Supermarket Chain Is Probably Using Facial Recognition</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-01-07 12:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -238,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/HP-Latest-15-Laptop-1280x853.jpg" alt="HP Goes Full Clearance on Its Laptop at 50% Off, This Latest Touchscreen PC Drops to an All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hp-goes-full-clearance-on-its-laptop-at-50-off-this-latest-touchscreen-pc-drops-to-an-all-time-low-2000657281" target="_blank">HP Goes Full Clearance on Its Laptop at 50% Off, This Latest Touchscreen PC Drops to an All-Time Low</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-07 13:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/cybercab-1280x960.jpg" alt="Tesla May Be Prevented from Using the Name ‘Cybercab’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +297,6 @@
                 <span class="time">2026-01-07 03:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Lenovo-ThinkBook-Auto-Twist-1-1280x853.jpg" alt="Lenovo Spins Its Latest ThinkBook Right Round (Like a Record, Baby)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/lenovo-spins-its-latest-thinkbook-right-round-like-a-record-baby-2000704127" target="_blank">Lenovo Spins Its Latest ThinkBook Right Round (Like a Record, Baby)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-07 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 13:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
