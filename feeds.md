@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-01-07 19:03:39 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-07 20:01:36 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, January 07, 2026 - 19:03 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, January 07, 2026 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +42,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/minneapolis-shooting-gty-jef-260107_1767814156876_hpMain_4x3t_384.jpg" alt="Minneapolis mayor disputes DHS claims in lead-up to deadly ICE-involved shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/ice-related-shooting-occurred-minnesota-governor/story?id=128984401" target="_blank">Minneapolis mayor disputes DHS claims in lead-up to deadly ICE-involved shooting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-07 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/7/israel-asphyxiating-palestinians-for-apartheid-system-in-west-bank-un?traffic_source=rss" target="_blank">Israel ‘asphyxiating’ Palestinians for ‘apartheid system’ in West Bank: UN</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-07 19:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/ice-shooting-ht-jt-260107_1767805116243_hpMain_4x3t_384.jpg" alt="ICE agent fatally shoots woman in vehicle during operations in Minneapolis: DHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/US/ice-related-shooting-occurred-minnesota-governor/story?id=128984401" target="_blank">ICE agent fatally shoots woman in vehicle during operations in Minneapolis: DHS</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-07 18:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2f7/live/616fcb40-ebe5-11f0-b5f7-49f0357294ff.jpg" alt="UK forces helped US seizure of tanker, says MoD" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckglnprzk72o?at_medium=RSS&at_campaign=rss" target="_blank">UK forces helped US seizure of tanker, says MoD</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-07 17:28</span>
             </div>
         </div>
 <div class="story">
@@ -72,33 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/7/iran-warns-protesters-foreign-foes-as-unrest-persists?traffic_source=rss" target="_blank">Iran leaders warn protesters and foreign foes as deadly unrest ramps up</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-07 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-dxf-us_7129282.jpg?20260107170459" alt="Tracking the sanctioned oil tanker&#x27;s attempt to escape seizure by the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/tracking-the-sanctioned-oil-tankers-attempt-to-escape-seizure-by-the-us-13491637" target="_blank">Tracking the sanctioned oil tanker&#x27;s attempt to escape seizure by the US</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-07 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/7/do-russia-and-china-pose-a-national-security-threat-to-the-us-in-greenland?traffic_source=rss" target="_blank">Do Russia and China pose a national security threat to the US in Greenland?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-07 15:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e87e/live/a8f8e790-eb9e-11f0-b28e-9b17195bb0de.jpg" alt="More snow and ice across UK as cold snap continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly39n1vejpo?at_medium=RSS&at_campaign=rss" target="_blank">More snow and ice across UK as cold snap continues</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-07 15:10</span>
             </div>
         </div>
 </div>
@@ -175,6 +169,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18810796&w=600" alt="Handling Logging After Migrating UiPath to Automation Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/handling-logging-uipath-automation-cloud" target="_blank">Handling Logging After Migrating UiPath to Automation Cloud</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-07 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18810790&w=600" alt="Implementing Idempotency in Distributed Spring Boot Applications Using MySQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -210,15 +213,6 @@
                 <span class="time">2026-01-07 15:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/01/07/now-everyone-can-chat-on-stack-overflow/" target="_blank">Now everyone can chat on Stack Overflow</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-01-07 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K1VAR5AND6T7HEYJHS4JG6Q1/hero-image.jpg" alt="15 Shows Like &#x27;Stranger Things&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-stranger-things?utm_medium=RSS" target="_blank">15 Shows Like &#x27;Stranger Things&#x27; You Should Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-07 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/wolf3-1280x720.jpg" alt="Wolfenstein 3 Is In The Works From Indiana Jones And The New Colossus Developers MachineGames" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +286,6 @@
                 <span class="time">2026-01-07 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Year-Ahead-In-Movies-2026-1280x853.jpg" alt="The Year Ahead in Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-year-ahead-in-movies-2026-2000705746" target="_blank">The Year Ahead in Movies</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-07 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 19:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
