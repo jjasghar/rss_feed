@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-07 18:01:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-07 19:03:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, January 07, 2026 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, January 07, 2026 - 19:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,12 +48,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/ice-shooting-ht-jt-260107_1767805116243_hpMain_4x3t_384.jpg" alt="ICE agent fatally shoots woman in vehicle during operations in Minneapolis: DHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/ice-related-shooting-occurred-minnesota-governor/story?id=128984401" target="_blank">ICE agent fatally shoots woman in vehicle during operations in Minneapolis: DHS</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-07 18:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8af1/live/0284b9a0-ebeb-11f0-8608-ef259671aea9.jpg" alt="US says it will discuss Greenland ownership with Denmark next week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly39pgmvrzo?at_medium=RSS&at_campaign=rss" target="_blank">US says it will discuss Greenland ownership with Denmark next week</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-07 17:14</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/7/iran-warns-protesters-foreign-foes-as-unrest-persists?traffic_source=rss" target="_blank">Iran leaders warn protesters and foreign foes as deadly unrest ramps up</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-07 17:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-dxf-us_7129282.jpg?20260107170459" alt="Tracking the sanctioned oil tanker&#x27;s attempt to escape seizure by the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/tracking-the-sanctioned-oil-tankers-attempt-to-escape-seizure-by-the-us-13491637" target="_blank">Tracking the sanctioned oil tanker&#x27;s attempt to escape seizure by the US</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-07 16:53</span>
             </div>
         </div>
 <div class="story">
@@ -69,39 +93,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e87e/live/a8f8e790-eb9e-11f0-b28e-9b17195bb0de.jpg" alt="More snow and ice across UK as cold snap continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/7/arsenal-vs-liverpool-premier-league-team-news-start-time-lineups?traffic_source=rss" target="_blank">Arsenal vs Liverpool: Premier League – team news, start time, lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-07 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767793459338_now_mnn_oil_tanker_secured_260107_1920x1080-4qtkjm.jpg" alt="U.S. secures oil tanker linked to Venezuela, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/u-s-secures-oil-tanker-linked-to-venezuela-officials-say-255535685841" target="_blank">U.S. secures oil tanker linked to Venezuela, officials say</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-07 13:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/bella1-main_1767791412474_hpMain_4x3t_384.jpg" alt="Venezuela live updates: US moves to seize oil tanker in North Atlantic, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/venezuela-live-updates-trump-give-details-after-us/?id=127792811" target="_blank">Venezuela live updates: US moves to seize oil tanker in North Atlantic, sources say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-07 13:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-tanker-russia-venezuele_7129072.jpg?20260107141223" alt="What we know about tankers seized by US - as Russia responds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/what-we-know-about-us-seizure-of-russian-flagged-oil-tanker-linked-to-venezuela-13491539" target="_blank">What we know about tankers seized by US - as Russia responds</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-07 13:18</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly39n1vejpo?at_medium=RSS&at_campaign=rss" target="_blank">More snow and ice across UK as cold snap continues</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-07 15:10</span>
             </div>
         </div>
 </div>
@@ -109,6 +106,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/video/where-vcs-think-ai-startups-can-win-even-with-openai-in-the-game/" target="_blank">Where VCs think AI startups can win, even with OpenAI in the game</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-07 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Bose_SoundTouch_30_Series_III_1640_26-500x500.jpg" alt="Bose open-sources its SoundTouch home theater smart speakers ahead of end-of-life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/" target="_blank">Bose open-sources its SoundTouch home theater smart speakers ahead of end-of-life</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-07 18:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,24 +158,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/" target="_blank">Caterpillar taps Nvidia to bring AI to its construction equipment</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-07 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/excavation-500x500.jpg" alt="We have a fossil closer to our split with Neanderthals and Denisovans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/01/weve-got-a-fossil-closer-to-our-split-with-neanderthals-and-denisovans/" target="_blank">We have a fossil closer to our split with Neanderthals and Denisovans</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-07 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685f3c5a306f1b145ea13b86/master/pass/Review-%20Breville%20Luxe%20Brewer.png" alt="Breville Luxe Brewer Review (2025): Good Drip, Real Cold Brew" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/breville-luxe-brewer-drip-coffeemaker/" target="_blank">Breville Luxe Brewer Review (2025): Good Drip, Real Cold Brew</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-07 15:48</span>
             </div>
         </div>
 </div>
@@ -251,6 +248,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/image-6.png?fit=505%2C360&amp;quality=55&amp;ssl=1" alt="Mike Johnson won&#x27;t hang a plaque honoring the cops who defended Congress" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/07/mike-johnson-wont-hang-a-plaque-honoring-the-cops-who-defended-congress.html" target="_blank">Mike Johnson won&#x27;t hang a plaque honoring the cops who defended Congress</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-07 17:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/sugar-cubes.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="The sugar industry paid Harvard scientists to blame fat for heart disease" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -284,15 +290,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-year-ahead-in-movies-2026-2000705746" target="_blank">The Year Ahead in Movies</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-07 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/arcraiders38-1280x720.jpg" alt="Arc Raiders Is Losing High-Profile Streamers To A New Wave Of Cheaters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/arc-raiders-cheaters-ninja-shroud-embark-patch-2000657708" target="_blank">Arc Raiders Is Losing High-Profile Streamers To A New Wave Of Cheaters</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-07 14:50</span>
             </div>
         </div>
 </div>
@@ -332,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 19:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
