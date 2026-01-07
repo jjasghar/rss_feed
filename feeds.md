@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-07 20:01:36 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-01-07 21:01:32 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, January 07, 2026 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, January 07, 2026 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/07/nx-s1-5670289/ice-minneapolis-shooting-immigration-crackdown" target="_blank">ICE agent fatally shoots woman in Minneapolis amid immigration crackdown</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-07 20:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/7/rubio-seizing-greenland-by-military-means-an-option-for-us?traffic_source=rss" target="_blank">Rubio: Seizing Greenland by ‘military means’ an option for US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-07 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1539/live/6c67b330-ebec-11f0-a422-4ba8a094a8fa.jpg" alt="US seizes two &#x27;shadow fleet&#x27; tankers linked to Venezuelan oil" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y2v8ngl14o?at_medium=RSS&at_campaign=rss" target="_blank">US seizes two &#x27;shadow fleet&#x27; tankers linked to Venezuelan oil</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-07 19:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/minneapolis-shooting-gty-jef-260107_1767814156876_hpMain_4x3t_384.jpg" alt="Minneapolis mayor disputes DHS claims in lead-up to deadly ICE-involved shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,38 +99,20 @@
                 <span class="time">2026-01-07 18:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2f7/live/616fcb40-ebe5-11f0-b5f7-49f0357294ff.jpg" alt="UK forces helped US seizure of tanker, says MoD" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckglnprzk72o?at_medium=RSS&at_campaign=rss" target="_blank">UK forces helped US seizure of tanker, says MoD</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-07 17:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8af1/live/0284b9a0-ebeb-11f0-8608-ef259671aea9.jpg" alt="US says it will discuss Greenland ownership with Denmark next week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly39pgmvrzo?at_medium=RSS&at_campaign=rss" target="_blank">US says it will discuss Greenland ownership with Denmark next week</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-07 17:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/7/iran-warns-protesters-foreign-foes-as-unrest-persists?traffic_source=rss" target="_blank">Iran leaders warn protesters and foreign foes as deadly unrest ramps up</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-07 17:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/netflix-paramount-wb-icons-500x500-1767815415.jpg" alt="Warner Bros. sticks with Netflix merger, calls Paramount’s $108B bid “illusory”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/warner-bros-sticks-with-netflix-merger-calls-paramounts-108b-bid-illusory/" target="_blank">Warner Bros. sticks with Netflix merger, calls Paramount’s $108B bid “illusory”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-07 20:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +158,6 @@
                 <span class="time">2026-01-07 17:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/" target="_blank">Caterpillar taps Nvidia to bring AI to its construction equipment</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-07 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,6 +170,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/facebook-typed-python-survey/en/headerimage/facebook-typed-python-survey-1767819478649.jpeg" alt="Facebook Survey Reveals Growing Adoption of Typed Python for Improved Code Quality and Flexibility" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/facebook-typed-python-survey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Facebook Survey Reveals Growing Adoption of Typed Python for Improved Code Quality and Flexibility</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-07 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-DP-HDMI-Dongle-340MHz" target="_blank">AMD Linux GPU Driver Improvement Coming For DP-HDMI Dongles</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-07 20:24</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +217,6 @@
                 <span class="time">2026-01-07 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/dell-pro-max-gb10-llama-cpp" target="_blank">Dell Pro Max GB10 vs. AMD Ryzen AI Max+ Framework Desktop For Llama.cpp, OpenCL &amp; Vulkan Compute</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-07 16:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/08/crowview-note-not-a-laptop.jpg?resize=406%2C232&amp;ssl=1" alt="CrowView Note, the Portable Monitor/Laptop, Gets a Big Upgrade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/crowview-note-15-6-portable-monitor-with-keyboard" target="_blank">CrowView Note, the Portable Monitor/Laptop, Gets a Big Upgrade</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-07 15:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEAM64MC29Q85Y03VTPCQXCV/hero-image.png" alt="Turn on &#x27;App Pinning&#x27; Before Letting Someone Else Use Your Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/turn-on-app-pinning-before-letting-someone-else-use-your-android?utm_medium=RSS" target="_blank">Turn on &#x27;App Pinning&#x27; Before Letting Someone Else Use Your Android</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-07 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/IMG_1496-1280x720.jpg" alt="I Finally Understand Why People Don’t Finish Games They Love" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-legends-za-mega-dimension-how-long-to-beat-2000657800" target="_blank">I Finally Understand Why People Don’t Finish Games They Love</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-07 20:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K1VAR5AND6T7HEYJHS4JG6Q1/hero-image.jpg" alt="15 Shows Like &#x27;Stranger Things&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +288,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/07/the-sugar-industry-paid-harvard-scientists-to-blame-fat-for-heart-disease.html" target="_blank">The sugar industry paid Harvard scientists to blame fat for heart disease</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-07 17:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/freegog-1280x720.jpg" alt="Over 1000 Classic PC Games Are Dirt Cheap On GOG Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/over-1000-classic-pc-games-are-dirt-cheap-on-gog-right-now-2000657731" target="_blank">Over 1000 Classic PC Games Are Dirt Cheap On GOG Right Now</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-07 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/2024-PNW-bomb-cyclone-1280x853.jpg" alt="Climate Models Don’t Account for This Surprising Shift in the North Pacific Storm Track" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/climate-models-dont-account-for-this-surprising-shift-in-the-north-pacific-storm-track-2000706724" target="_blank">Climate Models Don’t Account for This Surprising Shift in the North Pacific Storm Track</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-07 16:00</span>
             </div>
         </div>
 </div>
@@ -323,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 283 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
