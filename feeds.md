@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-07 16:02:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-07 17:04:29 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, January 07, 2026 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, January 07, 2026 - 17:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -82,6 +81,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-tanker-russia-venezuele_7129072.jpg?20260107141223" alt="What we know about tankers seized by US - as Russia responds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/what-we-know-about-us-seizure-of-russian-flagged-oil-tanker-linked-to-venezuela-13491539" target="_blank">What we know about tankers seized by US - as Russia responds</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-07 13:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/01/1920x1080/skynews-tanker-russia-venezuele_7129072.jpg?20260107141223" alt="What we know about tankers seized by US" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -90,20 +98,29 @@
                 <span class="time">2026-01-07 13:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Caracas-march-DB-260107_1767773514403_hpMain_4x3t_384.jpg" alt="Venezuela live updates: US oil executives to meet Trump at White House, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/live-updates/venezuela-live-updates-trump-give-details-after-us/?id=127792811" target="_blank">Venezuela live updates: US oil executives to meet Trump at White House, official says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-07 12:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/857164/ces-2026-hands-on-loreal" target="_blank">L’Oréal’s new LED face masks address all my issues with this category</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-07 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/" target="_blank">Caterpillar taps Nvidia to bring AI to its construction equipment</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-07 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/excavation-500x500.jpg" alt="We have a fossil closer to our split with Neanderthals and Denisovans" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,24 +157,6 @@
                 <span class="time">2026-01-07 15:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6834c89f9aeb2033e53be94d/master/pass/Review-%20Ninja%20Luxe%20Cafe.png" alt="Ninja Luxe Cafe Premier Espresso Machine Review: Beginner’s Luck" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/luxe-cafe-premier-series-automatic-espresso-machine/" target="_blank">Ninja Luxe Cafe Premier Espresso Machine Review: Beginner’s Luck</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-07 14:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/strangerTOP-500x500.jpg" alt="Review: Stranger Things’ frustrating finale didn’t quite stick the landing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/01/review-stranger-things-frustrating-finale-didnt-quite-stick-the-landing/" target="_blank">Review: Stranger Things’ frustrating finale didn’t quite stick the landing</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-07 14:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +169,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/crisiscoresystems/testing-the-testing-validating-that-your-crisis-simulation-actually-matches-reality-6df" target="_blank">Test Your Tests: Does Your Crisis Simulation Match Reality?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-07 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/dell-pro-max-gb10-llama-cpp" target="_blank">Dell Pro Max GB10 vs. AMD Ryzen AI Max+ Framework Desktop For Llama.cpp, OpenCL &amp; Vulkan Compute</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-07 16:42</span>
             </div>
         </div>
 <div class="story">
@@ -193,28 +210,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus" target="_blank">Sugar industry influenced researchers and blamed fat for CVD</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-07 14:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18810409&w=600" alt="Why Small Language Models Are Transforming AI Adoption for Everyone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/small-language-models-ai-adoption" target="_blank">Why Small Language Models Are Transforming AI Adoption for Everyone</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-07 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18810386&w=600" alt="RPA Validation in Life Sciences: 5 Pitfalls and How to Avoid Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/rpa-validation-life-sciences" target="_blank">RPA Validation in Life Sciences: 5 Pitfalls and How to Avoid Them</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-07 13:00</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/fedora-44-plasma-login-manager/" target="_blank">Fedora 44 Will Be the First Distro to Adopt KDE&amp;#x27;s Plasma Login Manager</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-07 14:41</span>
             </div>
         </div>
 </div>
@@ -231,20 +230,20 @@
                 <span class="time">2026-01-07 12:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/a-cyberattack-was-part-of-the-us-assault-on-venezuela.html" target="_blank">A Cyberattack Was Part of the US Assault on Venezuela</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-01-06 16:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/freegog-1280x720.jpg" alt="Over 1000 Classic PC Games Are Dirt Cheap On GOG Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/over-1000-classic-pc-games-are-dirt-cheap-on-gog-right-now-2000657731" target="_blank">Over 1000 Classic PC Games Are Dirt Cheap On GOG Right Now</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-07 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/2024-PNW-bomb-cyclone-1280x853.jpg" alt="Climate Models Don’t Account for This Surprising Shift in the North Pacific Storm Track" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,20 +289,20 @@
                 <span class="time">2026-01-07 13:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/cybercab-1280x960.jpg" alt="Tesla May Be Prevented from Using the Name ‘Cybercab’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tesla-may-be-prevented-from-using-the-name-cybercab-2000706545" target="_blank">Tesla May Be Prevented from Using the Name ‘Cybercab’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-07 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1767568001-20260107.png" alt="Saturday Morning Breakfast Cereal - Pandemic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/pandemic" target="_blank">Saturday Morning Breakfast Cereal - Pandemic</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-01-07 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -322,22 +321,13 @@
                 <span class="time">2026-01-07 01:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1767567925-20260106.png" alt="Saturday Morning Breakfast Cereal - Apple" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/apple-3" target="_blank">Saturday Morning Breakfast Cereal - Apple</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-06 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 17:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
