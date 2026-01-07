@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-07 00:04:32 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-07 01:29:56 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, January 07, 2026 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, January 07, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/7/trump-says-venezuela-to-hand-over-up-to-50-million-barrels-of-oil-to-us?traffic_source=rss" target="_blank">Trump says Venezuela to hand over up to 50 million barrels of oil to US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-07 00:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260105-caracas-venezuela-ew-1110a-f7636d.jpg" alt="A tense calm on the streets of Caracas masks fears and uncertainty for Venezuelans" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +100,29 @@
                 <span class="time">2026-01-06 19:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bdb/live/2378f8d0-eb35-11f0-b17a-592c1458f962.jpg" alt="UK and France to send troops to Ukraine if peace deal agreed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c17zee20qpzo?at_medium=RSS&at_campaign=rss" target="_blank">UK and France to send troops to Ukraine if peace deal agreed</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-06 19:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/857229/samsung-display-intel-oled-smartpower-hdr" target="_blank">Samsung and Intel&amp;#8217;s OLED tech makes HDR easier on laptop battery life</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-07 01:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/695d520ac8fcfa0242b8cd5d/master/pass/legion-pro-rollable-top.jpg" alt="Lenovo’s Legion Pro Rollable Gaming Laptop Goes Ultrawide at the Press of a Key" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/lenovo-legion-pro-gaming-laptop-ultrawide-rollable-screen/" target="_blank">Lenovo’s Legion Pro Rollable Gaming Laptop Goes Ultrawide at the Press of a Key</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-07 01:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,24 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/story/art-frame-tv-trends/" target="_blank">The Inevitable Rise of the Art TV</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-01-06 20:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/856503/ces-2026-robotaxi-ai-ev-car-concepts" target="_blank">At CES, EVs take a backseat to robotaxis and AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-06 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/855329/rosey-robot-roomba-ces-2026" target="_blank">CES promises the robot butler, but delivers better Roombas instead</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-06 20:00</span>
             </div>
         </div>
 </div>
@@ -237,6 +238,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Lenovo-ThinkBook-Auto-Twist-1-1280x853.jpg" alt="Lenovo Spins Its Latest ThinkBook Right Round (Like a Record, Baby)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lenovo-spins-its-latest-thinkbook-right-round-like-a-record-baby-2000704127" target="_blank">Lenovo Spins Its Latest ThinkBook Right Round (Like a Record, Baby)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-07 01:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/gecko.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Clever gecko figures out how to use a water fountain and instantly becomes the boss" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -281,15 +291,6 @@
                 <span class="time">2026-01-06 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Sadie-Sink-Stranger-Things-finale-1280x853.jpg" alt="At Least One ‘Stranger Things’ Kid Thinks Eleven Is Actually Dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/stranger-things-ending-sadie-sink-eleven-2000706300" target="_blank">At Least One ‘Stranger Things’ Kid Thinks Eleven Is Actually Dead</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-06 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
