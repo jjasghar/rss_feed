@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-07 01:29:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-07 02:36:13 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, January 07, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, January 07, 2026 - 02:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +61,33 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767749944156_nn_ggu_venezuela_crackdown_260106_1920x1080-1wie26.jpg" alt="Venezuela on edge amid regime crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/venezuela-on-edge-amid-regime-crackdown-255506501818" target="_blank">Venezuela on edge amid regime crackdown</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-06 23:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-2-gty-gmh-260106_1767713137726_hpMain_4x3t_384.jpg" alt="Trump warns Republicans they have to win midterms or he&#x27;ll &#x27;get impeached&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-warns-republicans-win-midterms-hell-impeached/story?id=128958317" target="_blank">Trump warns Republicans they have to win midterms or he&#x27;ll &#x27;get impeached&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-06 23:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/d8e87493b7d85a48cf7cc96d235b8325d995d88a7ceb256b12554b878890f99a_7127964.jpg?20260107021120" alt="US prepared to take Greenland by force, White House suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/military-action-in-greenland-always-an-option-says-white-house-13491330" target="_blank">US prepared to take Greenland by force, White House suggests</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-06 22:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260105-caracas-venezuela-ew-1110a-f7636d.jpg" alt="A tense calm on the streets of Caracas masks fears and uncertainty for Venezuelans" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -73,38 +105,20 @@
                 <span class="time">2026-01-06 21:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/6/maduro-abduction-shows-influence-limits-of-us-secretary-of-state-rubio?traffic_source=rss" target="_blank">Maduro abduction shows influence, limits of US Secretary of State Rubio</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-06 20:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/06/nx-s1-5668240/bela-tarr-filmmaker-dead" target="_blank">Hungarian filmmaker Béla Tarr — known for bleak, existential movies — has died</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-06 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a553/live/d5343090-eb25-11f0-a6a3-53d02379137e.jpg" alt="US may intercept and seize oil tanker heading for Europe, reports say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c7v0deypjl4o?at_medium=RSS&at_campaign=rss" target="_blank">US may intercept and seize oil tanker heading for Europe, reports say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-06 19:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/857053/lenovo-ai-assistant-qira" target="_blank">Lenovo is building an AI assistant that ‘can act on your behalf’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-07 02:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +164,6 @@
                 <span class="time">2026-01-06 21:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/695d704de4ffc1f6ff02e667/master/pass/image.png" alt="The Inevitable Rise of the Art TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/art-frame-tv-trends/" target="_blank">The Inevitable Rise of the Art TV</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-06 20:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +176,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Dropping-Old-Mount" target="_blank">Linux&#x27;s Old Mount API Code On The Chopping Block For The 7.0 Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-07 01:31</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +223,6 @@
                 <span class="time">2026-01-06 20:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18809541&w=600" alt="Solving the Cold Start Problem in Edge AI: A Guide to Data-Saving Learning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/solving-the-cold-start-problem-in-edge-ai-a-guide" target="_blank">Solving the Cold Start Problem in Edge AI: A Guide to Data-Saving Learning</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-06 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +252,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KE7YSSEMJVB5YZM7YKQ3CFJ7/hero-image.jpg" alt="CES 2026: This Lenovo Gaming Laptop Can Stretch From 16:9 to ‘Ultrawide’ With the Push of a Button" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/lenovo-gaming-laptop-can-stretch-with-push-of-a-button-ces-2026?utm_medium=RSS" target="_blank">CES 2026: This Lenovo Gaming Laptop Can Stretch From 16:9 to ‘Ultrawide’ With the Push of a Button</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-07 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/06/david-clode-2slBHG3HtdA-unsplash-e1739284145477.jpg?fit=1580%2C1002&amp;quality=60&amp;ssl=1" alt="This charming hand-drawn animation brings the folk song &quot;Mr. Frog Went A-Courting&quot; to life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/06/this-charming-hand-drawn-animation-brings-the-folk-song-mr-frog-went-a-courting-to-life.html" target="_blank">This charming hand-drawn animation brings the folk song &quot;Mr. Frog Went A-Courting&quot; to life</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-07 00:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/gecko.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Clever gecko figures out how to use a water fountain and instantly becomes the boss" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -273,24 +296,6 @@
                 <span class="time">2026-01-06 22:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/black-friday-cyber-monday-live-blog-12-2-2025-apple-samsung-laptops-tvs?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-06 21:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KE7WSQ9R3CKEQRT4VP60E510/hero-image.jpg" alt="12 Shows Like &#x27;Heated Rivalry&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-heated-rivalry-you-should-watch-next?utm_medium=RSS" target="_blank">12 Shows Like &#x27;Heated Rivalry&#x27; You Should Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-06 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,22 +310,13 @@
                 <span class="time">2026-01-06 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5737.png" alt="Now That&#x27;s What I Call Music" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5737" target="_blank">Now That&#x27;s What I Call Music</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-01-06 01:54</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 276 |
+        🔄 Last Updated: 02:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
