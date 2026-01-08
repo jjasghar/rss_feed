@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-08 09:04:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-08 10:02:09 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, January 08, 2026 - 09:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, January 08, 2026 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -79,21 +86,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/619a/live/89043960-eb28-11f0-b5f7-49f0357294ff.png" alt="Andrew was paid millions for mansion by oligarch linked to bribery scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8d09qd6zn2o?at_medium=RSS&at_campaign=rss" target="_blank">Andrew was paid millions for mansion by oligarch linked to bribery scheme</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-08 06:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/619a/live/89043960-eb28-11f0-b5f7-49f0357294ff.png" alt="Andrew oligarch £15m mansion sale linked to bribery scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c8d09qd6zn2o?at_medium=RSS&at_campaign=rss" target="_blank">Andrew oligarch £15m mansion sale linked to bribery scheme</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-08 06:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80e5/live/267d1760-ec01-11f0-b35a-ab7e077318c5.jpg" alt="US immigration agent fatally shoots woman in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0jvnl4j1n4o?at_medium=RSS&at_campaign=rss" target="_blank">US immigration agent fatally shoots woman in Minneapolis</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-08 04:43</span>
             </div>
         </div>
 </div>
@@ -170,6 +177,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/resumemind/how-to-write-a-resume-with-no-work-experience-fresh-graduate-guide-for-2026-5bd8" target="_blank">How to Write a Resume With No Work Experience (Fresh Graduate Guide for 2026)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-08 09:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/articles/agentic-terminal-cli-agents/en/headerimage/agentic-terminal-cli-agents-header-1767616966806.jpg" alt="Article: Agentic Terminal - How Your Terminal Comes Alive with CLI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -203,15 +219,6 @@
                 <span class="title"><a href="https://itsfoss.com/wike-wikipedia/" target="_blank">I Thought This Wikipedia App for Linux was Pointless (I Was Wrong)</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-01-08 03:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/ubuntu-2504-end-of-support.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.04 Support Ends Next Week (Jan 15th)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/ubuntu-25-04-end-of-life" target="_blank">Ubuntu 25.04 Support Ends Next Week (Jan 15th)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-08 02:40</span>
             </div>
         </div>
 </div>
@@ -279,12 +286,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Bitchat.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="Download Bitchat to communicate in an emergency" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/make-everything-OK.jpg?fit=1200%2C811&amp;quality=60&amp;ssl=1" alt="I found a &quot;make everything ok&quot; button on the internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/07/download-bitchat-to-communicate-in-an-emergency.html" target="_blank">Download Bitchat to communicate in an emergency</a></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/07/i-found-a-make-everything-ok-button-on-the-internet.html" target="_blank">I found a &quot;make everything ok&quot; button on the internet</a></span>
                 <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-07 23:46</span>
+                <span class="time">2026-01-07 23:56</span>
             </div>
         </div>
 </div>
@@ -324,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
