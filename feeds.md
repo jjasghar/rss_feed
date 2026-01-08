@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-08 07:03:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-08 08:02:12 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, January 08, 2026 - 07:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, January 08, 2026 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/8/two-people-killed-in-shooting-in-mormon-church-car-park-in-salt-lake-us?traffic_source=rss" target="_blank">Two people killed in shooting outside Mormon church in Salt Lake City, US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-08 07:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/08/nx-s1-5670927/trump-colombian-president-white-house" target="_blank">Trump invites Colombian president to White House after threatening his country with military strike</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-08 07:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +97,20 @@
                 <span class="time">2026-01-08 04:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/minneapolis-protesters-line-rt-jt-260107_1767822306766_hpMain_2_4x3t_384.jpg" alt="&#x27;A state of terror and fear&#x27;: Eyewitness shares her recount of fatal ICE shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/state-terror-fear-eyewitness-shares-recount-fatal-minneapolis/story?id=129002152" target="_blank">&#x27;A state of terror and fear&#x27;: Eyewitness shares her recount of fatal ICE shooting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-08 04:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/8/saudi-led-coalition-says-stcs-al-zubaidi-fled-to-uae-via-somaliland?traffic_source=rss" target="_blank">Saudi-led coalition says STC’s al-Zubaidi fled to UAE via Somaliland</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-08 03:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Bose Promo Code: 40% Off Bose for January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/bose-coupon-code/" target="_blank">Bose Promo Code: 40% Off Bose for January 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-08 07:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +153,6 @@
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/cars/2026/01/in-car-ai-assistant-coming-to-fords-and-lincolns-in-2027/" target="_blank">Ford is getting ready to put AI assistants in its cars</a></span>
                 <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-08 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/07/ford-has-an-ai-assistant-and-new-hands-free-bluecruise-tech-on-the-way/" target="_blank">Ford has an AI assistant and new hands-free BlueCruise tech on the way</a></span>
-                <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-08 00:00</span>
             </div>
         </div>
@@ -321,22 +320,13 @@
                 <span class="time">2026-01-07 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/01/07/absolute-penny-arcade-part-four" target="_blank">Absolute Penny Arcade, Part Four</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-07 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 07:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
