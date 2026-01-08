@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-08 00:04:59 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-08 01:29:37 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, January 08, 2026 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, January 08, 2026 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767831516192_nn_mve_minneapolis_ICE_260107_1920x1080-zs4twy.jpg" alt="Driver shot in deadly ICE encounter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/driver-shot-in-deadly-ice-encounter-255578181850" target="_blank">Driver shot in deadly ICE encounter</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-08 00:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/minneapolis-shooting-gty-jef-260107_1767814156876_hpMain_4x3t_384.jpg" alt="37-year-old woman fatally shot by ICE officer in Minneapolis identified" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +101,38 @@
                 <span class="time">2026-01-07 20:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/07/nx-s1-5670289/ice-minneapolis-shooting-immigration-crackdown" target="_blank">ICE agent fatally shoots woman in Minneapolis amid immigration crackdown</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-07 20:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/858277/disney-plus-vertical-video" target="_blank">Disney Plus is getting vertical video</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-08 00:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2222907242-500x500.jpg" alt="Ford is getting ready to put AI assistants in its cars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/01/in-car-ai-assistant-coming-to-fords-and-lincolns-in-2027/" target="_blank">Ford is getting ready to put AI assistants in its cars</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/07/ford-has-an-ai-assistant-and-new-hands-free-bluecruise-tech-on-the-way/" target="_blank">Ford has an AI assistant and new hands-free BlueCruise tech on the way</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-08 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -115,48 +143,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/695ea94ed37fa133b3fe5e74/master/pass/148277064" alt="Traces of Leonardo da Vinci’s DNA May Have Been Discovered on a Red Chalk Drawing Called ‘Holy Child’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/traces-of-leonardo-da-vincis-dna-may-have-been-discovered-on-a-red-chalk-drawing-called-holy-child/" target="_blank">Traces of Leonardo da Vinci’s DNA May Have Been Discovered on a Red Chalk Drawing Called ‘Holy Child’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-07 23:23</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/842308/bluetti-now-charges-power-stations-at-up-to-1200w-in-your-car" target="_blank">Bluetti now charges power stations at up to 1200W in your car</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-07 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/01/floorp_L7Vva1B8JH-500x500.jpg" alt="Samsung squashes hopes that it will release its Ballie home robot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/samsung-squashes-hopes-that-it-will-release-its-ballie-home-robot/" target="_blank">Samsung squashes hopes that it will release its Ballie home robot</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-07 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/07/yes-linkedin-banned-ai-agent-startup-artisan-but-now-its-back/" target="_blank">Yes, LinkedIn banned AI agent startup Artisan, but now it’s back</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-07 22:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/07/rokus-3-streaming-service-howdy-will-be-coming-to-other-platforms-ceo-says/" target="_blank">Roku’s $3 streaming service Howdy will be coming to other platforms, CEO says</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-07 21:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/netflix-paramount-wb-icons-500x500-1767815415.jpg" alt="Warner Bros. sticks with Netflix merger, calls Paramount’s $108B bid “illusory”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/warner-bros-sticks-with-netflix-merger-calls-paramounts-108b-bid-illusory/" target="_blank">Warner Bros. sticks with Netflix merger, calls Paramount’s $108B bid “illusory”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-07 20:12</span>
             </div>
         </div>
 </div>
@@ -174,12 +175,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/steve_harlow_0dbc0e910b6d/why-most-ai-coding-sessions-fail-and-how-to-fix-it-4dn1" target="_blank">Why Most AI Coding Sessions Fail (And How to Fix It)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-08 01:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnyos0gx2zukv8ymg52d9.png" alt="Everyone&#x27;s Generating Videos; I Calculated What AI Video Actually Costs in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/toryreut/everyones-generating-videos-i-calculated-what-ai-video-actually-costs-in-2026-37ag" target="_blank">Everyone&#x27;s Generating Videos; I Calculated What AI Video Actually Costs in 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-07 22:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://numpy.org/numpy-user-dtypes/quaddtype/" target="_blank">NumPy-QuadDType: A cross-platform Quad (128-bit) float Data-Type for NumPy</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-01-07 22:21</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-DP-HDMI-Dongle-340MHz" target="_blank">AMD Linux GPU Driver Improvement Coming For DP-HDMI Dongles</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-07 20:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tailscale.com/changelog" target="_blank">Tailscale state file encryption no longer enabled by default</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-07 20:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18810796&w=600" alt="Handling Logging After Migrating UiPath to Automation Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/handling-logging-uipath-automation-cloud" target="_blank">Handling Logging After Migrating UiPath to Automation Cloud</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-07 20:00</span>
             </div>
         </div>
 </div>
@@ -237,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/GameSir-Swift-Drive-Controller-1280x853.jpg" alt="GameSir Stuck a Steering Wheel Inside a Controller, and It’s Actually Brilliant" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/gamesir-stuck-a-steering-wheel-inside-a-controller-and-its-actually-brilliant-2000707183" target="_blank">GameSir Stuck a Steering Wheel Inside a Controller, and It’s Actually Brilliant</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-08 01:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Bitchat.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="Download Bitchat to communicate in an emergency" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/07/download-bitchat-to-communicate-in-an-emergency.html" target="_blank">Download Bitchat to communicate in an emergency</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-07 23:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/peter-claffey-2-1280x853.jpg" alt="Meet Your New Favorite ‘Game of Thrones’ Character in This ‘Knight of the Seven Kingdoms’ Featurette" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,29 +292,20 @@
                 <span class="time">2026-01-07 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/grandmasniper-1280x720.jpg" alt="Legally Blind 95-Year-Old Grandma Has Better Aim Than All Of Your Battlefield Teammates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/zachsmaxed-fps-player-gaming-aimlabs-grandma-2000657812" target="_blank">Legally Blind 95-Year-Old Grandma Has Better Aim Than All Of Your Battlefield Teammates</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-07 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/OysterVPN.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="The need for shucking is over — get this lifetime access to OysterVPN for just $25" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/07/the-need-for-shucking-is-over-get-this-lifetime-access-to-oystervpn-for-just-25.html" target="_blank">The need for shucking is over — get this lifetime access to OysterVPN for just $25</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-07 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5739.png" alt="Ayo Is Doing Great" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5739" target="_blank">Ayo Is Doing Great</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-01-08 00:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -346,8 +356,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 289 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 290 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
