@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-08 20:02:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-08 21:01:37 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, January 08, 2026 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, January 08, 2026 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/ice-minn-1-rt-gmh-260108_1767883204170_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Vance says it was &#x27;tragedy of her own making&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-tensions-flare-minneapolis/?id=129018634" target="_blank">Minneapolis ICE shooting live updates: Vance says it was &#x27;tragedy of her own making&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-08 20:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/01/08/nx-s1-5671115/venezuela-opposition" target="_blank">&#x27;The atmosphere is very authoritarian&#x27;: Venezuela&#x27;s opposition reels from the sidelines</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-08 19:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767899811086_nbc_spec_odonnell_vance_briefing_wrap_260108_1920x1080-p8t0rp.jpg" alt="Vance defends ICE officer involved in shooting and criticizes media over coverage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/vance-defends-ice-officer-involved-in-shooting-and-criticizes-media-over-coverage-255631429894" target="_blank">Vance defends ICE officer involved in shooting and criticizes media over coverage</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-08 19:16</span>
             </div>
         </div>
 <div class="story">
@@ -85,29 +100,38 @@
                 <span class="time">2026-01-08 16:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/8/senegals-school-of-husbands-teaches-men-about-gender-equality?traffic_source=rss" target="_blank">Senegal’s ‘School of Husbands’ teaches men about gender equality</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-08 15:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a884/live/66568f80-ec90-11f0-abc2-c92f19f0499a.jpg" alt="Government to water down business rate rise for pubs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8e57dexly1o?at_medium=RSS&at_campaign=rss" target="_blank">Government to water down business rate rise for pubs</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-08 14:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/samsung-korea-flag-500x500.jpg" alt="High RAM prices mean record-setting profits for Samsung and other memory makers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/high-ram-prices-mean-record-setting-profits-for-samsung-and-other-memory-makers/" target="_blank">High RAM prices mean record-setting profits for Samsung and other memory makers</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-08 20:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/695e9565aa101b3c7113f21a/master/pass/How-Is-X-Still-in-App-Store-Business-2255064607.jpg" alt="Why Are Grok and X Still Available in App Stores?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/x-grok-app-store-nudify-csam-apple-google-content-moderation/" target="_blank">Why Are Grok and X Still Available in App Stores?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-08 20:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/858897/ces-2026-best-laptops-asus-dell-acer-msi-hp-lenovo-concepts" target="_blank">The coolest laptops we saw at CES 2026</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-08 20:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,33 +159,6 @@
                 <span class="time">2026-01-08 18:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl" target="_blank">The best deals on 4K TVs</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-08 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/08/internet-collapses-in-iran-amid-protests-over-economic-crisis/" target="_blank">Internet collapses in Iran amid protests over economic crisis</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-08 18:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai_doctor-500x500.jpg" alt="ChatGPT Health lets you connect medical records to an AI that makes things up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/" target="_blank">ChatGPT Health lets you connect medical records to an AI that makes things up</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-08 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +171,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18814271&w=600" alt="Speak Their Language: How Communication Profiling Prevents Agile Delivery Breakdowns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/communication-profiling-prevents-agile-delivery-breakdowns" target="_blank">Speak Their Language: How Communication Profiling Prevents Agile Delivery Breakdowns</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-08 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +218,6 @@
                 <span class="time">2026-01-08 18:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18836773&w=600" alt="Essential Techniques for Production Vector Search Systems Part 1 - Hybrid Search" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/essential-techniques-for-production-vector-search" target="_blank">Essential Techniques for Production Vector Search Systems Part 1 - Hybrid Search</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-08 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/jean-luc-picard-star-trek-emmy-1280x853.jpg" alt="The Emmys Create a New ‘Legacy Award’ to Honor Old Favorites" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/emmys-legacy-award-franchises-2000707772" target="_blank">The Emmys Create a New ‘Legacy Award’ to Honor Old Favorites</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-08 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEFGNJDCMT3JTWC4A7YNJXZ3/hero-image.png" alt="Why I Won&#x27;t Be Giving ChatGPT Health My Medical Records" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/dont-give-chatgpt-health-your-medical-records?utm_medium=RSS" target="_blank">Why I Won&#x27;t Be Giving ChatGPT Health My Medical Records</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-08 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/noem-horse.jpg?fit=1080%2C683&amp;quality=60&amp;ssl=1" alt="Minnesota officials say they&#x27;re being blocked from investigating fatal ICE shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,29 +291,20 @@
                 <span class="time">2026-01-08 17:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEF67A86X7T9DJ2P23DNQG6F/hero-image.png" alt="Gmail Is Getting AI-Powered Search and Proofreading Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/gmail-is-getting-personalized-ai-features?utm_medium=RSS" target="_blank">Gmail Is Getting AI-Powered Search and Proofreading Features</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-08 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/2026-movie-anniversaries-frankenstein-batman-independance-day-deadpool-1280x853.jpg" alt="2026 Movie Anniversaries: All the Biggest Genre Movies Celebrating Milestones This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/2026-movie-anniversaries-all-the-biggest-genre-movies-celebrating-milestones-this-year-2000705632" target="_blank">2026 Movie Anniversaries: All the Biggest Genre Movies Celebrating Milestones This Year</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-08 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/come-closer/" target="_blank">Come Closer</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-01-08 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1767826015-20260108.png" alt="Saturday Morning Breakfast Cereal - Variation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -317,22 +323,13 @@
                 <span class="time">2026-01-08 00:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/07/absolute-penny-arcade-part-four" target="_blank">Absolute Penny Arcade, Part Four</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-07 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 301 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 303 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
