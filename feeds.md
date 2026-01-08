@@ -1,35 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-08 15:03:01 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-01-08 16:02:36 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, January 08, 2026 - 15:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, January 08, 2026 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/8/senegals-school-of-husbands-teaches-men-about-gender-equality?traffic_source=rss" target="_blank">Senegal’s ‘School of Husbands’ teaches men about gender equality</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-08 15:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a884/live/66568f80-ec90-11f0-abc2-c92f19f0499a.jpg" alt="Government to water down business rate rise for pubs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8e57dexly1o?at_medium=RSS&at_campaign=rss" target="_blank">Government to water down business rate rise for pubs</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-08 14:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +105,20 @@
                 <span class="time">2026-01-08 12:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/1/8/us-arms-sales-to-taiwan-threaten-peace-in-the-taiwan-strait?traffic_source=rss" target="_blank">US arms sales to Taiwan threaten peace in the Taiwan Strait</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-08 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/08/nx-s1-5646525/supreme-court-voting-rights-congressional-black-caucus" target="_blank">A Supreme Court ruling could bring historic drop in Black representation in Congress</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-08 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/la-fires-500x500.jpg" alt="Trump withdraws US from world’s most important climate treaty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/01/trump-withdraws-us-from-worlds-most-important-climate-treaty/" target="_blank">Trump withdraws US from world’s most important climate treaty</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-08 14:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +164,6 @@
                 <span class="time">2026-01-08 08:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Bose Promo Code: 40% Off Bose for January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/bose-coupon-code/" target="_blank">Bose Promo Code: 40% Off Bose for January 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-08 07:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +176,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source" target="_blank">Bose is open-sourcing its old smart speakers instead of bricking them</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-08 15:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/linux-618-liquorix" target="_blank">Linux 6.18 LTS vs. Liquorix Kernel On AMD Ryzen Threadripper Workstation Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-08 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18812441&w=600" alt="Platform Engineering Golden Paths: Stop Building Developer Portals, Start Shipping Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/platform-engineering-golden-paths-start-shipping-code" target="_blank">Platform Engineering Golden Paths: Stop Building Developer Portals, Start Shipping Code</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-08 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -188,33 +221,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Optimize-Printf-Memcg" target="_blank">NVIDIA Optimizes Printing Of Linux Memory Stats For 11% System Time Savings</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-08 13:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/ensure-software-security/en/headerimage/ensure-software-security-header-1767624432034.jpg" alt="What Testers Can Do to Ensure Software Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/ensure-software-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">What Testers Can Do to Ensure Software Security</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-08 11:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop" target="_blank">Linus Torvalds: &quot;The AI Slop Issue Is *NOT* Going To Be Solved With Documentation&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-08 11:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/route53-global-resolver-anycast/en/headerimage/generatedHeaderImage-1767452081720.jpg" alt="AWS Previews Route 53 Global Resolver to Decouple DNS from Regional Failures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/route53-global-resolver-anycast/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Previews Route 53 Global Resolver to Decouple DNS from Regional Failures</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-08 10:18</span>
             </div>
         </div>
 </div>
@@ -237,6 +243,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/star-wars-starfighter-ryan-gosling-1280x853.jpg" alt="Tom Cruise Helped Shoot a Lightsaber Duel for ‘Star Wars: Starfighter’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-wars-starfighter-tom-cruise-lightsaber-duel-2000707547" target="_blank">Tom Cruise Helped Shoot a Lightsaber Duel for ‘Star Wars: Starfighter’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-08 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/prohibitedmarios.jpg?fit=1600%2C811&amp;quality=60&amp;ssl=1" alt="Behold the Prohibited Marios of Nintendo&#x27;s internal illustration manual" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/08/behold-the-prohibited-marios-of-nintendos-internal-illustration-manual.html" target="_blank">Behold the Prohibited Marios of Nintendo&#x27;s internal illustration manual</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-08 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/New-Project-1.jpg" alt="GTA 6‘s Delays Have Mirrored Red Dead Redemption 2 So Far" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gta-6-release-date-red-dead-2-2000658151" target="_blank">GTA 6‘s Delays Have Mirrored Red Dead Redemption 2 So Far</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-08 15:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/fast-spinning-asteroid-1280x853.jpg" alt="Astronomers Discover Unusual Asteroid Spinning Faster Than Anything Its Size" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -246,48 +279,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KED32Y3A89TWHNE23ZMY7SYX/hero-image.png" alt="Your Smartwatch Actually Has No Idea How &#x27;Stressed&#x27; You Are" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/your-smartwatch-doesnt-actually-know-how-stressed-you-are?utm_medium=RSS" target="_blank">Your Smartwatch Actually Has No Idea How &#x27;Stressed&#x27; You Are</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-08 14:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Screenshot-_3Ca-href_3D_22https-www.youtube.com-_40Ge.jpg?fit=1080%2C768&amp;quality=60&amp;ssl=1" alt="Tiny arcade games feature classic Sega, Capcom and Namco titles" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2026/01/08/tiny-arcade-games-feature-classic-sega-capcom-and-namco-titles.html" target="_blank">Tiny arcade games feature classic Sega, Capcom and Namco titles</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-08 14:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEEAQAAKHKG15QDZW6JRV2BW/hero-image.png" alt="The Meta Quest Pro Is Over $300 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/meta-quest-pro-sale-january-2026?utm_medium=RSS" target="_blank">The Meta Quest Pro Is Over $300 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-08 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Nina-Kiri-Undertone-1280x853.jpg" alt="On Friday the 13th This Year, Even Your Podcasts Can Kill You" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/undertone-movie-trailer-podcast-a24-2000707148" target="_blank">On Friday the 13th This Year, Even Your Podcasts Can Kill You</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-08 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/shutterstock_2610160199.jpg?fit=2161%2C1465&amp;quality=60&amp;ssl=1" alt="Happy birthday, David Bowie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/08/happy-birthday-david-bowie.html" target="_blank">Happy birthday, David Bowie</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-08 11:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEE0R20T6AW9CHF14JHGWEV2/hero-image.jpg" alt="The Official &#x27;Best of CES&#x27; 2026 Award Winners Were Announced, Featuring 22 Remarkable Advances in Technology" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-of-ces-2026-award-winners?utm_medium=RSS" target="_blank">The Official &#x27;Best of CES&#x27; 2026 Award Winners Were Announced, Featuring 22 Remarkable Advances in Technology</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-08 05:19</span>
             </div>
         </div>
 </div>
@@ -327,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 15:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 296 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
