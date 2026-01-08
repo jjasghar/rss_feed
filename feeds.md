@@ -1,29 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-01-08 12:02:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-08 13:14:37 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, January 08, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, January 08, 2026 - 13:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767875010490_tdy_news_7a_vespa_winter_ice_shooting_260108_1920x1080-vkxxyx.jpg" alt="Outrage Grows After ICE Fatally Shoots Woman in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-admin-defends-fatal-shooting-of-minnesota-woman-by-ice-255606853619" target="_blank">Outrage Grows After ICE Fatally Shoots Woman in Minneapolis</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-08 12:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/08/g-s1-105040/up-first-newsletter-ice-shooting-minneapolis-venezuela-tanker-dietary-guidelines" target="_blank">Community reacts to ICE shooting in Minnesota. And, RFK Jr. unveils new food pyramid</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-08 12:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,24 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/8/two-people-killed-in-shooting-in-mormon-church-car-park-in-salt-lake-us?traffic_source=rss" target="_blank">Two people killed in shooting outside Mormon church in Salt Lake City, US</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-08 07:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/08/nx-s1-5670927/trump-colombian-president-white-house" target="_blank">Trump invites Colombian president to White House after threatening his country with military strike</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-08 07:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/08/g-s1-105017/rep-steny-hoyer-to-retire" target="_blank">Rep. Steny Hoyer, the longest-serving House Democrat, to retire at the end of term</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-08 06:27</span>
             </div>
         </div>
 </div>
@@ -167,6 +168,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/01/ensure-software-security/en/headerimage/ensure-software-security-header-1767624432034.jpg" alt="What Testers Can Do to Ensure Software Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/ensure-software-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">What Testers Can Do to Ensure Software Security</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-08 11:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop" target="_blank">Linus Torvalds: &quot;The AI Slop Issue Is *NOT* Going To Be Solved With Documentation&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-08 11:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/01/route53-global-resolver-anycast/en/headerimage/generatedHeaderImage-1767452081720.jpg" alt="AWS Previews Route 53 Global Resolver to Decouple DNS from Regional Failures" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -193,43 +212,20 @@
                 <span class="time">2026-01-08 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://patchouli.readthedocs.io/en/latest/" target="_blank">Project Patchouli: Open-source electromagnetic drawing tablet hardware</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-08 05:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-26-02/" target="_blank">FOSS Weekly #26.02: Level Up in 2026, Liquorix Kernel, Open Source Apps from Web Browser and More</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-08 04:29</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/the-wegmans-supermarket-chain-is-probably-using-facial-recognition.html" target="_blank">The Wegman’s Supermarket Chain Is Probably Using Facial Recognition</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-01-07 12:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/shutterstock_2610160199.jpg?fit=2161%2C1465&amp;quality=60&amp;ssl=1" alt="Happy birthday, David Bowie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/08/happy-birthday-david-bowie.html" target="_blank">Happy birthday, David Bowie</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-08 11:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KEE0R20T6AW9CHF14JHGWEV2/hero-image.jpg" alt="The Official &#x27;Best of CES&#x27; 2026 Award Winners Were Announced, Featuring 22 Remarkable Advances in Technology" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +271,6 @@
                 <span class="time">2026-01-08 01:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/make-everything-OK.jpg?fit=1200%2C811&amp;quality=60&amp;ssl=1" alt="I found a &quot;make everything ok&quot; button on the internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/07/i-found-a-make-everything-ok-button-on-the-internet.html" target="_blank">I found a &quot;make everything ok&quot; button on the internet</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-07 23:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 13:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
