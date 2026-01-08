@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-01-08 05:04:12 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-01-08 06:02:18 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, January 08, 2026 - 05:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, January 08, 2026 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -176,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-26-02/" target="_blank">FOSS Weekly #26.02: Level Up in 2026, Liquorix Kernel, Open Source Apps from Web Browser and More</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-08 04:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/wike-wikipedia/" target="_blank">I Thought This Wikipedia App for Linux was Pointless (I Was Wrong)</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-01-08 03:05</span>
@@ -208,15 +212,6 @@
                 <span class="time">2026-01-08 01:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnyos0gx2zukv8ymg52d9.png" alt="Everyone&#x27;s Generating Videos; I Calculated What AI Video Actually Costs in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/toryreut/everyones-generating-videos-i-calculated-what-ai-video-actually-costs-in-2026-37ag" target="_blank">Everyone&#x27;s Generating Videos; I Calculated What AI Video Actually Costs in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-07 22:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEE0R20T6AW9CHF14JHGWEV2/hero-image.jpg" alt="The Official &#x27;Best of CES&#x27; 2026 Award Winners Were Announced, Featuring 22 Remarkable Advances in Technology" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-of-ces-2026-award-winners?utm_medium=RSS" target="_blank">The Official &#x27;Best of CES&#x27; 2026 Award Winners Were Announced, Featuring 22 Remarkable Advances in Technology</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-08 05:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KEDNP78R8Z0VK3Y0XE08HRF6/hero-image.jpg" alt="CES 2026: I Saw a Robot Vacuum With Legs Climb a Flight of Stairs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +283,6 @@
                 <span class="title"><a href="https://gizmodo.com/meet-your-new-favorite-game-of-thrones-character-in-this-knight-of-the-seven-kingdoms-featurette-2000707042" target="_blank">Meet Your New Favorite ‘Game of Thrones’ Character in This ‘Knight of the Seven Kingdoms’ Featurette</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-07 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KED0VVC62DJ6VGT8QTR6RYK4/hero-image.png" alt="This Double-Screen Laptop Display Extender Is 35% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/laptop-display-extender-deal-january-2026?utm_medium=RSS" target="_blank">This Double-Screen Laptop Display Extender Is 35% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-07 22:30</span>
             </div>
         </div>
 </div>
@@ -336,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 05:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
