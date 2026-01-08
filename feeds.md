@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-08 01:29:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-08 02:36:12 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, January 08, 2026 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, January 08, 2026 - 02:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/8/venezuelas-economy-plunged-into-uncertainty-after-maduro-abduction?traffic_source=rss" target="_blank">Venezuela’s economy plunged into uncertainty after Maduro abduction</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-08 01:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b95/live/c6d6cf40-ec0a-11f0-b5f7-49f0357294ff.jpg" alt="Storm Goretti heads to UK bringing more snow, ice and wind" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgdezxj617o?at_medium=RSS&at_campaign=rss" target="_blank">Storm Goretti heads to UK bringing more snow, ice and wind</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-08 01:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767831516192_nn_mve_minneapolis_ICE_260107_1920x1080-zs4twy.jpg" alt="Driver shot in deadly ICE encounter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +101,20 @@
                 <span class="time">2026-01-07 21:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/07/nx-s1-5670244/trump-greenland" target="_blank">White House says &#x27;all options&#x27; are on the table for Greenland, including diplomacy</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-07 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2f7/live/616fcb40-ebe5-11f0-b5f7-49f0357294ff.jpg" alt="UK armed forces helped US seizure of tanker, says MoD" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckglnprzk72o?at_medium=RSS&at_campaign=rss" target="_blank">UK armed forces helped US seizure of tanker, says MoD</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-07 20:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/" target="_blank">Google and Character.AI negotiate first major settlements in teen chatbot death cases</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-08 01:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +160,6 @@
                 <span class="time">2026-01-07 23:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/842308/bluetti-now-charges-power-stations-at-up-to-1200w-in-your-car" target="_blank">Bluetti now charges power stations at up to 1200W in your car</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-07 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -181,6 +181,15 @@
                 <span class="title"><a href="https://dev.to/steve_harlow_0dbc0e910b6d/why-most-ai-coding-sessions-fail-and-how-to-fix-it-4dn1" target="_blank">Why Most AI Coding Sessions Fail (And How to Fix It)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-08 01:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FEX-Emu-2601" target="_blank">FEX 2601 Brings Various Fixes, Improvements For Wine &amp; DXVK/VKD3D-Proton</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-08 01:03</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/01/facebook-typed-python-survey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Facebook Survey Reveals Growing Adoption of Typed Python for Improved Code Quality and Flexibility</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-01-07 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-DP-HDMI-Dongle-340MHz" target="_blank">AMD Linux GPU Driver Improvement Coming For DP-HDMI Dongles</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-07 20:24</span>
             </div>
         </div>
 </div>
@@ -342,22 +342,13 @@
                 <span class="time">2026-01-07 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5738.png" alt="Now That&#x27;s What I Call Music Vol. 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5738" target="_blank">Now That&#x27;s What I Call Music Vol. 2</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-01-07 01:51</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 290 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 02:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
