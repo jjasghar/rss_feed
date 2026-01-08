@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-08 13:14:37 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-01-08 14:03:14 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, January 08, 2026 - 13:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, January 08, 2026 - 14:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/8/witnesses-film-ice-killing-of-us-citizen-in-minneapolis?traffic_source=rss" target="_blank">Witnesses film ICE killing of US citizen in Minneapolis</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-08 13:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767875010490_tdy_news_7a_vespa_winter_ice_shooting_260108_1920x1080-vkxxyx.jpg" alt="Outrage Grows After ICE Fatally Shoots Woman in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,20 +99,29 @@
                 <span class="time">2026-01-08 07:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/8/two-people-killed-in-shooting-in-mormon-church-car-park-in-salt-lake-us?traffic_source=rss" target="_blank">Two people killed in shooting outside Mormon church in Salt Lake City, US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-08 07:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/858366/the-best-tvs-of-ces-2026" target="_blank">The best TVs of CES 2026</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-08 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/08/former-bolt-ceo-maju-kuruvillas-startup-triples-to-100m-valuation/" target="_blank">Former Bolt CEO Maju Kuruvilla’s startup triples to $100M valuation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-08 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/HERO-IMAGE-Volvo-EX60-Exterior-Front-500x500.jpg" alt="Volvo says new EX60 has 400-mile range, charges up to 400 kW" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,24 +158,6 @@
                 <span class="time">2026-01-08 06:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/evahelmet-500x500-1767837200.jpg" alt="A crew member’s “medical concern” foils a planned spacewalk outside the ISS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/01/nasa-postpones-space-station-spacewalk-due-to-crew-members-medical-concern/" target="_blank">A crew member’s “medical concern” foils a planned spacewalk outside the ISS</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-08 01:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/" target="_blank">Google and Character.AI negotiate first major settlements in teen chatbot death cases</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-08 01:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,6 +170,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Optimize-Printf-Memcg" target="_blank">NVIDIA Optimizes Printing Of Linux Memory Stats For 11% System Time Savings</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-08 13:19</span>
             </div>
         </div>
 <div class="story">
@@ -203,13 +217,18 @@
                 <span class="time">2026-01-08 09:49</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://res.infoq.com/articles/agentic-terminal-cli-agents/en/headerimage/agentic-terminal-cli-agents-header-1767616966806.jpg" alt="Article: Agentic Terminal - How Your Terminal Comes Alive with CLI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/agentic-terminal-cli-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Agentic Terminal - How Your Terminal Comes Alive with CLI Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-08 09:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/ai-humans-making-the-relationship-work.html" target="_blank">AI &amp;amp; Humans: Making the Relationship Work</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-01-08 12:05</span>
             </div>
         </div>
 </div>
@@ -217,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Nina-Kiri-Undertone-1280x853.jpg" alt="On Friday the 13th This Year, Even Your Podcasts Can Kill You" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/undertone-movie-trailer-podcast-a24-2000707148" target="_blank">On Friday the 13th This Year, Even Your Podcasts Can Kill You</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-08 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/shutterstock_2610160199.jpg?fit=2161%2C1465&amp;quality=60&amp;ssl=1" alt="Happy birthday, David Bowie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,15 +290,6 @@
                 <span class="time">2026-01-08 02:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/GameSir-Swift-Drive-Controller-1280x853.jpg" alt="GameSir Stuck a Steering Wheel Inside a Controller, and It’s Actually Brilliant" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/gamesir-stuck-a-steering-wheel-inside-a-controller-and-its-actually-brilliant-2000707183" target="_blank">GameSir Stuck a Steering Wheel Inside a Controller, and It’s Actually Brilliant</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-08 01:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 13:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 14:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
