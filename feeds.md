@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-08 17:05:11 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-08 18:02:02 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, January 08, 2026 - 17:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, January 08, 2026 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767893612207_now_spec_noem_defends_minneapolis_shooting_260108_1920x1080-brbvge.jpg" alt="Noem defends ICE agent&#x27;s actions in Minneapolis shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/kristi-noem-defends-ice-agent-s-actions-in-minneapolis-shooting-255626309849" target="_blank">Noem defends ICE agent&#x27;s actions in Minneapolis shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-08 17:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/ice-minn-1-rt-gmh-260108_1767883204170_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Tensions flare in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +97,29 @@
                 <span class="time">2026-01-08 13:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767875010490_tdy_news_7a_vespa_winter_ice_shooting_260108_1920x1080-vkxxyx.jpg" alt="Outrage Grows After ICE Fatally Shoots Woman in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-admin-defends-fatal-shooting-of-minnesota-woman-by-ice-255606853619" target="_blank">Outrage Grows After ICE Fatally Shoots Woman in Minneapolis</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-08 12:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai_doctor-500x500.jpg" alt="ChatGPT Health lets you connect medical records to an AI that makes things up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/" target="_blank">ChatGPT Health lets you connect medical records to an AI that makes things up</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-08 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/08/disney-is-launching-short-form-videos-this-year/" target="_blank">Disney+ is launching short-form videos this year</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-08 17:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +156,6 @@
                 <span class="time">2026-01-08 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/695eee8ddef906e47a6cc012/master/pass/Gmail-Getting-AI-Inbox-Gear-1235097377.jpg" alt="Google Is Adding an ‘AI Inbox’ to Gmail That Summarizes Emails" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/google-ai-inbox-gmail/" target="_blank">Google Is Adding an ‘AI Inbox’ to Gmail That Summarizes Emails</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-08 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/08/former-bolt-ceo-maju-kuruvillas-startup-triples-to-100m-valuation/" target="_blank">Former Bolt CEO Maju Kuruvilla’s startup triples to $100M valuation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-08 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +168,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/tanstack-ai-sdk/en/headerimage/generatedHeaderImage-1767003557619-1767710160840.jpg" alt="TanStack Releases Framework Agnostic AI Toolkit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/tanstack-ai-sdk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">TanStack Releases Framework Agnostic AI Toolkit</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-08 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/whoisprince/how-github-pull-requests-in-vs-code-improved-my-open-source-workflow-8co" target="_blank">How GitHub Pull Requests in VS Code Improved My Open-Source Workflow</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-08 17:47</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +215,6 @@
                 <span class="time">2026-01-08 15:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source" target="_blank">Bose is open-sourcing its old smart speakers instead of bricking them</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-08 15:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-618-liquorix" target="_blank">Linux 6.18 LTS vs. Liquorix Kernel On AMD Ryzen Threadripper Workstation Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-08 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/Heart-of-the-Machine.jpg" alt="One Game Publisher Is Pushing Back Against AI Art With Contracts That Ban It: ‘It’s Cancerous’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hooded-horse-gen-ai-art-ban-4x-strategy-steam-2000658179" target="_blank">One Game Publisher Is Pushing Back Against AI Art With Contracts That Ban It: ‘It’s Cancerous’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-08 17:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/2026-movie-anniversaries-frankenstein-batman-independance-day-deadpool-1280x853.jpg" alt="2026 Movie Anniversaries: All the Biggest Genre Movies Celebrating Milestones This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +288,6 @@
                 <span class="time">2026-01-08 15:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/New-Project-1.jpg" alt="GTA 6‘s Delays Have Mirrored Red Dead Redemption 2 So Far" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gta-6-release-date-red-dead-2-2000658151" target="_blank">GTA 6‘s Delays Have Mirrored Red Dead Redemption 2 So Far</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-08 15:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 298 |
-        🔄 Last Updated: 17:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 300 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
