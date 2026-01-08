@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-08 14:03:14 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-08 15:03:01 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, January 08, 2026 - 14:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, January 08, 2026 - 15:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2026/1/8/uk-hunger-strikers-face-risk-of-irreversible?traffic_source=rss" target="_blank">UK hunger strikers face “risk of irreversible harm”</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-08 14:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +99,6 @@
                 <span class="time">2026-01-08 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/1/8/can-a-dynastic-heir-lead-a-post-dynasty-bangladesh?traffic_source=rss" target="_blank">Can a dynastic heir lead a post-dynasty Bangladesh?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-08 07:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -111,6 +111,15 @@
                 <span class="title"><a href="https://www.theverge.com/tech/858366/the-best-tvs-of-ces-2026" target="_blank">The best TVs of CES 2026</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-08 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/695eee8ddef906e47a6cc012/master/pass/Gmail-Getting-AI-Inbox-Gear-1235097377.jpg" alt="Google Is Adding an ‘AI Inbox’ to Gmail That Summarizes Emails" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/google-ai-inbox-gmail/" target="_blank">Google Is Adding an ‘AI Inbox’ to Gmail That Summarizes Emails</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-08 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -149,15 +158,6 @@
                 <span class="time">2026-01-08 07:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/07/jpmorgan-chase-becomes-the-new-issuer-of-the-apple-card/" target="_blank">JPMorgan Chase becomes the new issuer of the Apple Card</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-08 06:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +170,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/linux-kernel-bugs-arent-found-for-years/" target="_blank">20% of Linux Kernel Bugs Hide for More Than 5 Years</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-08 14:49</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +217,6 @@
                 <span class="time">2026-01-08 10:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/resumemind/how-to-write-a-resume-with-no-work-experience-fresh-graduate-guide-for-2026-5bd8" target="_blank">How to Write a Resume With No Work Experience (Fresh Graduate Guide for 2026)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-08 09:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +236,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/fast-spinning-asteroid-1280x853.jpg" alt="Astronomers Discover Unusual Asteroid Spinning Faster Than Anything Its Size" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/astronomers-discover-unusual-asteroid-spinning-faster-than-anything-its-size-2000707371" target="_blank">Astronomers Discover Unusual Asteroid Spinning Faster Than Anything Its Size</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-08 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Screenshot-_3Ca-href_3D_22https-www.youtube.com-_40Ge.jpg?fit=1080%2C768&amp;quality=60&amp;ssl=1" alt="Tiny arcade games feature classic Sega, Capcom and Namco titles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/08/tiny-arcade-games-feature-classic-sega-capcom-and-namco-titles.html" target="_blank">Tiny arcade games feature classic Sega, Capcom and Namco titles</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-08 14:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEEAQAAKHKG15QDZW6JRV2BW/hero-image.png" alt="The Meta Quest Pro Is Over $300 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/meta-quest-pro-sale-january-2026?utm_medium=RSS" target="_blank">The Meta Quest Pro Is Over $300 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-08 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Nina-Kiri-Undertone-1280x853.jpg" alt="On Friday the 13th This Year, Even Your Podcasts Can Kill You" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,33 +288,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/best-of-ces-2026-award-winners?utm_medium=RSS" target="_blank">The Official &#x27;Best of CES&#x27; 2026 Award Winners Were Announced, Featuring 22 Remarkable Advances in Technology</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-08 05:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/apple-google-1280x853.jpg" alt="Apple Just Became Less Valuable Than Alphabet/Google and the Timing Is Unsettling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/apple-just-became-less-valuable-than-alphabet-google-and-the-timing-is-unsettling-2000707198" target="_blank">Apple Just Became Less Valuable Than Alphabet/Google and the Timing Is Unsettling</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-08 04:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEDNP78R8Z0VK3Y0XE08HRF6/hero-image.jpg" alt="CES 2026: I Saw a Robot Vacuum With Legs Climb a Flight of Stairs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/ces-2026-i-saw-a-robot-vacuum-with-legs-climb-a-flight-of-stairs?utm_medium=RSS" target="_blank">CES 2026: I Saw a Robot Vacuum With Legs Climb a Flight of Stairs</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-08 03:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEDH23TD4JYR6J4EWE5RKVAC/hero-image.jpg" alt="CES 2026: Gaming Controllers Are Going Modular This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/ces-2026-gaming-controllers-are-going-modular-this-year?utm_medium=RSS" target="_blank">CES 2026: Gaming Controllers Are Going Modular This Year</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-08 02:03</span>
             </div>
         </div>
 </div>
@@ -327,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 14:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 15:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
