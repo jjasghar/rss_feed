@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-08 16:02:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-08 17:05:11 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, January 08, 2026 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, January 08, 2026 - 17:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/ice-minn-1-rt-gmh-260108_1767883204170_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Tensions flare in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-tensions-flare-minneapolis/?id=129018634" target="_blank">Minneapolis ICE shooting live updates: Tensions flare in Minneapolis</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-08 16:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +100,29 @@
                 <span class="time">2026-01-08 12:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/08/g-s1-105040/up-first-newsletter-ice-shooting-minneapolis-venezuela-tanker-dietary-guidelines" target="_blank">Community reacts to ICE shooting in Minnesota. And, RFK Jr. unveils new food pyramid</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-08 12:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/08/snowflake-announces-its-intent-to-buy-observability-platform-observe/" target="_blank">Snowflake announces its intent to buy observability platform Observe</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-08 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/695fc211a0356aa7d4242f4c/master/pass/pol-ice-ai-id-2255126869.jpg" alt="People Are Using AI to Falsely Identify the Federal Agent Who Shot Renee Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/people-are-using-ai-to-falsely-identify-the-federal-agent-who-shot-renee-good/" target="_blank">People Are Using AI to Falsely Identify the Federal Agent Who Shot Renee Good</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-08 16:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/la-fires-500x500.jpg" alt="Trump withdraws US from world’s most important climate treaty" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,24 +159,6 @@
                 <span class="time">2026-01-08 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/HERO-IMAGE-Volvo-EX60-Exterior-Front-500x500.jpg" alt="Volvo says new EX60 has 400-mile range, charges up to 400 kW" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/01/volvo-says-new-ex60-has-400-mile-range-charges-up-to-400-kw/" target="_blank">Volvo says new EX60 has 400-mile range, charges up to 400 kW</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-08 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/857933/volvo-ex60-range-charging-speed-megacasting-battery" target="_blank">Volvo touts EX60’s range and charging speed ahead of official debut</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-08 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +171,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sivarampg/building-a-production-ready-prediction-market-smart-contract-in-solidity-complete-guide-with-2iio" target="_blank">Building a Production-Ready Prediction Market Smart Contract in Solidity: Complete Guide with Foundry</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-08 17:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18812497&w=600" alt="Enterprise Kubernetes Failures: 20 Critical Misconfigurations Guardon Catches Before Outages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/20-kubernetes-misconfig-guardon-catches-before-outage" target="_blank">Enterprise Kubernetes Failures: 20 Critical Misconfigurations Guardon Catches Before Outages</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-08 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/bose-soundtouch-api/" target="_blank">Bose SoundTouch End of Life Gets Less Painful With Public API Release</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-08 15:10</span>
             </div>
         </div>
 <div class="story">
@@ -194,33 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/linux-618-liquorix" target="_blank">Linux 6.18 LTS vs. Liquorix Kernel On AMD Ryzen Threadripper Workstation Performance</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-08 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18812441&w=600" alt="Platform Engineering Golden Paths: Stop Building Developer Portals, Start Shipping Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/platform-engineering-golden-paths-start-shipping-code" target="_blank">Platform Engineering Golden Paths: Stop Building Developer Portals, Start Shipping Code</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-08 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/linux-kernel-bugs-arent-found-for-years/" target="_blank">20% of Linux Kernel Bugs Hide for More Than 5 Years</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-08 14:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Optimize-Printf-Memcg" target="_blank">NVIDIA Optimizes Printing Of Linux Memory Stats For 11% System Time Savings</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-08 13:19</span>
             </div>
         </div>
 </div>
@@ -242,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/2026-movie-anniversaries-frankenstein-batman-independance-day-deadpool-1280x853.jpg" alt="2026 Movie Anniversaries: All the Biggest Genre Movies Celebrating Milestones This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/2026-movie-anniversaries-all-the-biggest-genre-movies-celebrating-milestones-this-year-2000705632" target="_blank">2026 Movie Anniversaries: All the Biggest Genre Movies Celebrating Milestones This Year</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-08 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/06/ebdc90eadecd535d183ebbd8a948632a-1280x720.jpg" alt="The Leaked Synopsis Of The Next Life Is Strange Has Me Worried" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/life-is-strange-5-reunion-chloe-max-summary-plot-leak-2000658198" target="_blank">The Leaked Synopsis Of The Next Life Is Strange Has Me Worried</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-08 16:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6G54MYNJ9QSRFSJ30TY35DD/hero-image.jpg" alt="The Oura Ring Charging Case Is Finally Available" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/oura-ring-new-charging-case?utm_medium=RSS" target="_blank">The Oura Ring Charging Case Is Finally Available</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-08 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/star-wars-starfighter-ryan-gosling-1280x853.jpg" alt="Tom Cruise Helped Shoot a Lightsaber Duel for ‘Star Wars: Starfighter’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,38 +291,20 @@
                 <span class="time">2026-01-08 15:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/fast-spinning-asteroid-1280x853.jpg" alt="Astronomers Discover Unusual Asteroid Spinning Faster Than Anything Its Size" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/astronomers-discover-unusual-asteroid-spinning-faster-than-anything-its-size-2000707371" target="_blank">Astronomers Discover Unusual Asteroid Spinning Faster Than Anything Its Size</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-08 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KED32Y3A89TWHNE23ZMY7SYX/hero-image.png" alt="Your Smartwatch Actually Has No Idea How &#x27;Stressed&#x27; You Are" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/your-smartwatch-doesnt-actually-know-how-stressed-you-are?utm_medium=RSS" target="_blank">Your Smartwatch Actually Has No Idea How &#x27;Stressed&#x27; You Are</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-08 14:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Screenshot-_3Ca-href_3D_22https-www.youtube.com-_40Ge.jpg?fit=1080%2C768&amp;quality=60&amp;ssl=1" alt="Tiny arcade games feature classic Sega, Capcom and Namco titles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/08/tiny-arcade-games-feature-classic-sega-capcom-and-namco-titles.html" target="_blank">Tiny arcade games feature classic Sega, Capcom and Namco titles</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-08 14:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1767826015-20260108.png" alt="Saturday Morning Breakfast Cereal - Variation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/variation" target="_blank">Saturday Morning Breakfast Cereal - Variation</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-01-08 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5739.png" alt="Ayo Is Doing Great" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -319,22 +323,13 @@
                 <span class="time">2026-01-07 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1767568001-20260107.png" alt="Saturday Morning Breakfast Cereal - Pandemic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/pandemic" target="_blank">Saturday Morning Breakfast Cereal - Pandemic</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-07 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 296 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 298 |
+        🔄 Last Updated: 17:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
