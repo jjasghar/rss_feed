@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-08 06:02:18 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing 54 RSS feeds at 2026-01-08 07:03:57 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, January 08, 2026 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, January 08, 2026 - 07:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/08/g-s1-105017/rep-steny-hoyer-to-retire" target="_blank">Rep. Steny Hoyer, the longest-serving House Democrat, to retire at the end of term</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-08 06:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/619a/live/89043960-eb28-11f0-b5f7-49f0357294ff.png" alt="Andrew oligarch £15m mansion sale linked to bribery scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8d09qd6zn2o?at_medium=RSS&at_campaign=rss" target="_blank">Andrew oligarch £15m mansion sale linked to bribery scheme</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-08 06:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80e5/live/267d1760-ec01-11f0-b35a-ab7e077318c5.jpg" alt="US immigration agent fatally shoots woman in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,29 +98,20 @@
                 <span class="time">2026-01-08 03:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80e5/live/267d1760-ec01-11f0-b35a-ab7e077318c5.jpg" alt="US immigration agent fatally shoots woman in Minneapolis, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0jvnl4j1n4o?at_medium=RSS&at_campaign=rss" target="_blank">US immigration agent fatally shoots woman in Minneapolis, officials say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-08 02:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/8/venezuelas-economy-plunged-into-uncertainty-after-maduro-abduction?traffic_source=rss" target="_blank">Venezuela’s economy plunged into uncertainty after Maduro abduction</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-08 01:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/07/jpmorgan-chase-becomes-the-new-issuer-of-the-apple-card/" target="_blank">JPMorgan Chase becomes the new issuer of the Apple Card</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-08 06:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/evahelmet-500x500-1767837200.jpg" alt="A crew member’s “medical concern” foils a planned spacewalk outside the ISS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,15 +157,6 @@
                 <span class="time">2026-01-08 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/857400/ford-ai-assistant-level-3-automation-ces-2026" target="_blank">Ford’s AI voice assistant is coming later this year, L3 driving in 2028</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-08 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,6 +169,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://patchouli.readthedocs.io/en/latest/" target="_blank">Project Patchouli: Open-source electromagnetic drawing tablet hardware</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-08 05:20</span>
             </div>
         </div>
 <div class="story">
@@ -203,15 +216,6 @@
                 <span class="time">2026-01-08 01:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FEX-Emu-2601" target="_blank">FEX 2601 Brings Various Fixes, Improvements For Wine &amp; DXVK/VKD3D-Proton</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-08 01:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +242,15 @@
                 <span class="title"><a href="https://lifehacker.com/tech/best-of-ces-2026-award-winners?utm_medium=RSS" target="_blank">The Official &#x27;Best of CES&#x27; 2026 Award Winners Were Announced, Featuring 22 Remarkable Advances in Technology</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-08 05:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/apple-google-1280x853.jpg" alt="Apple Just Became Less Valuable Than Alphabet/Google and the Timing Is Unsettling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/apple-just-became-less-valuable-than-alphabet-google-and-the-timing-is-unsettling-2000707198" target="_blank">Apple Just Became Less Valuable Than Alphabet/Google and the Timing Is Unsettling</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-08 04:37</span>
             </div>
         </div>
 <div class="story">
@@ -274,15 +287,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/07/download-bitchat-to-communicate-in-an-emergency.html" target="_blank">Download Bitchat to communicate in an emergency</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-07 23:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/peter-claffey-2-1280x853.jpg" alt="Meet Your New Favorite ‘Game of Thrones’ Character in This ‘Knight of the Seven Kingdoms’ Featurette" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/meet-your-new-favorite-game-of-thrones-character-in-this-knight-of-the-seven-kingdoms-featurette-2000707042" target="_blank">Meet Your New Favorite ‘Game of Thrones’ Character in This ‘Knight of the Seven Kingdoms’ Featurette</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-07 23:00</span>
             </div>
         </div>
 </div>
@@ -331,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 07:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
