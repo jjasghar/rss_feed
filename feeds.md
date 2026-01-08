@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-08 02:36:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-08 03:29:29 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, January 08, 2026 - 02:36 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, January 08, 2026 - 03:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +52,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/8/venezuelas-economy-plunged-into-uncertainty-after-maduro-abduction?traffic_source=rss" target="_blank">Venezuela’s economy plunged into uncertainty after Maduro abduction</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-08 01:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/07/g-s1-104999/united-states-exits-international-organizations-united-nations" target="_blank">U.S. to exit 66 international organizations in further retreat from global cooperation</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-08 01:53</span>
             </div>
         </div>
 <div class="story">
@@ -92,20 +99,20 @@
                 <span class="time">2026-01-07 21:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/7/european-allies-reiterate-support-for-greenland-amid-us-threats?traffic_source=rss" target="_blank">Greenland allies vow action if Trump moves to seize world’s largest island</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-07 21:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/evahelmet-500x500-1767837200.jpg" alt="A crew member’s “medical concern” foils a planned spacewalk outside the ISS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/01/nasa-postpones-space-station-spacewalk-due-to-crew-members-medical-concern/" target="_blank">A crew member’s “medical concern” foils a planned spacewalk outside the ISS</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-08 01:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +158,6 @@
                 <span class="time">2026-01-08 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/695ea94ed37fa133b3fe5e74/master/pass/148277064" alt="Traces of Leonardo da Vinci’s DNA May Have Been Discovered on a Red Chalk Drawing Called ‘Holy Child’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/traces-of-leonardo-da-vincis-dna-may-have-been-discovered-on-a-red-chalk-drawing-called-holy-child/" target="_blank">Traces of Leonardo da Vinci’s DNA May Have Been Discovered on a Red Chalk Drawing Called ‘Holy Child’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-07 23:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +170,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/wike-wikipedia/" target="_blank">I Thought This Wikipedia App for Linux was Pointless (I Was Wrong)</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-08 03:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/ubuntu-2504-end-of-support.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.04 Support Ends Next Week (Jan 15th)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/ubuntu-25-04-end-of-life" target="_blank">Ubuntu 25.04 Support Ends Next Week (Jan 15th)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-08 02:40</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +217,6 @@
                 <span class="time">2026-01-07 22:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://numpy.org/numpy-user-dtypes/quaddtype/" target="_blank">NumPy-QuadDType: A cross-platform Quad (128-bit) float Data-Type for NumPy</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-01-07 22:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/facebook-typed-python-survey/en/headerimage/facebook-typed-python-survey-1767819478649.jpeg" alt="Facebook Survey Reveals Growing Adoption of Typed Python for Improved Code Quality and Flexibility" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/facebook-typed-python-survey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Facebook Survey Reveals Growing Adoption of Typed Python for Improved Code Quality and Flexibility</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-07 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEDH23TD4JYR6J4EWE5RKVAC/hero-image.jpg" alt="CES 2026: Gaming Controllers Are Going Modular This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/ces-2026-gaming-controllers-are-going-modular-this-year?utm_medium=RSS" target="_blank">CES 2026: Gaming Controllers Are Going Modular This Year</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-08 02:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/GameSir-Swift-Drive-Controller-1280x853.jpg" alt="GameSir Stuck a Steering Wheel Inside a Controller, and It’s Actually Brilliant" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/backrooms-liminal-space-fps-boomer-shooter-oddcore-is-it-good-2000657813" target="_blank">New Backrooms FPS Is Fast, Trippy, And Also You Only Have Five Minutes So Hurry Up!</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-07 22:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/chatgpt_health-1280x853.jpg" alt="OpenAI Launches ChatGPT Health, Wants Access to Your Medical Records" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/openai-launches-chatgpt-health-wants-access-to-your-medical-records-2000707024" target="_blank">OpenAI Launches ChatGPT Health, Wants Access to Your Medical Records</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-07 22:00</span>
             </div>
         </div>
 </div>
@@ -347,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 02:36 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 03:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
