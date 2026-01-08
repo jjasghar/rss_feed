@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-08 03:29:29 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-08 04:14:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, January 08, 2026 - 03:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, January 08, 2026 - 04:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/minneapolis-protesters-line-rt-jt-260107_1767822306766_hpMain_2_4x3t_384.jpg" alt="&#x27;A state of terror and fear&#x27;: Eyewitness shares her recount of fatal ICE shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/state-terror-fear-eyewitness-shares-recount-fatal-minneapolis/story?id=129002152" target="_blank">&#x27;A state of terror and fear&#x27;: Eyewitness shares her recount of fatal ICE shooting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-08 04:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/8/saudi-led-coalition-says-stcs-al-zubaidi-fled-to-uae-via-somaliland?traffic_source=rss" target="_blank">Saudi-led coalition says STC’s al-Zubaidi fled to UAE via Somaliland</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-08 03:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80e5/live/267d1760-ec01-11f0-b35a-ab7e077318c5.jpg" alt="US immigration agent fatally shoots woman in Minneapolis, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0jvnl4j1n4o?at_medium=RSS&at_campaign=rss" target="_blank">US immigration agent fatally shoots woman in Minneapolis, officials say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-08 02:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,33 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvgdezxj617o?at_medium=RSS&at_campaign=rss" target="_blank">Storm Goretti heads to UK bringing more snow, ice and wind</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-08 01:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767831516192_nn_mve_minneapolis_ICE_260107_1920x1080-zs4twy.jpg" alt="Driver shot in deadly ICE encounter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/driver-shot-in-deadly-ice-encounter-255578181850" target="_blank">Driver shot in deadly ICE encounter</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-08 00:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/minneapolis-shooting-gty-jef-260107_1767814156876_hpMain_4x3t_384.jpg" alt="37-year-old woman fatally shot by ICE officer in Minneapolis identified" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/ice-related-shooting-occurred-minnesota-governor/story?id=128984401" target="_blank">37-year-old woman fatally shot by ICE officer in Minneapolis identified</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-07 23:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/minneapolis-shooting-gty-jef-260107_1767814156876_hpMain_4x3t_384.jpg" alt="Governor says he is preparing National Guard amid furor over fatal ICE shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/ice-related-shooting-occurred-minnesota-governor/story?id=128984401" target="_blank">Governor says he is preparing National Guard amid furor over fatal ICE shooting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-07 21:56</span>
             </div>
         </div>
 </div>
@@ -237,6 +239,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEDNP78R8Z0VK3Y0XE08HRF6/hero-image.jpg" alt="CES 2026: I Saw a Robot Vacuum With Legs Climb a Flight of Stairs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/ces-2026-i-saw-a-robot-vacuum-with-legs-climb-a-flight-of-stairs?utm_medium=RSS" target="_blank">CES 2026: I Saw a Robot Vacuum With Legs Climb a Flight of Stairs</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-08 03:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KEDH23TD4JYR6J4EWE5RKVAC/hero-image.jpg" alt="CES 2026: Gaming Controllers Are Going Modular This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -279,15 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/laptop-display-extender-deal-january-2026?utm_medium=RSS" target="_blank">This Double-Screen Laptop Display Extender Is 35% Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-07 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/indie-of-the-week-ODDCORE-1280x720.jpg" alt="New Backrooms FPS Is Fast, Trippy, And Also You Only Have Five Minutes So Hurry Up!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/backrooms-liminal-space-fps-boomer-shooter-oddcore-is-it-good-2000657813" target="_blank">New Backrooms FPS Is Fast, Trippy, And Also You Only Have Five Minutes So Hurry Up!</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-07 22:12</span>
             </div>
         </div>
 </div>
@@ -345,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 03:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 04:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
