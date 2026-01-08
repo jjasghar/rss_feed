@@ -1,32 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-01-08 11:01:38 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-08 12:02:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, January 08, 2026 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, January 08, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2026/1/8/us-arms-sales-to-taiwan-threaten-peace-in-the-taiwan-strait?traffic_source=rss" target="_blank">US arms sales to Taiwan threaten peace in the Taiwan Strait</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-08 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/08/nx-s1-5646525/supreme-court-voting-rights-congressional-black-caucus" target="_blank">A Supreme Court ruling could bring historic drop in Black representation in Congress</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-08 10:00</span>
             </div>
         </div>
 <div class="story">
@@ -87,20 +93,20 @@
                 <span class="time">2026-01-08 06:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/619a/live/89043960-eb28-11f0-b5f7-49f0357294ff.png" alt="Andrew was paid millions for mansion by oligarch linked to bribery scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8d09qd6zn2o?at_medium=RSS&at_campaign=rss" target="_blank">Andrew was paid millions for mansion by oligarch linked to bribery scheme</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-08 06:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/HERO-IMAGE-Volvo-EX60-Exterior-Front-500x500.jpg" alt="Volvo says new EX60 has 400-mile range, charges up to 400 kW" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/01/volvo-says-new-ex60-has-400-mile-range-charges-up-to-400-kw/" target="_blank">Volvo says new EX60 has 400-mile range, charges up to 400 kW</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-08 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +150,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/" target="_blank">Google and Character.AI negotiate first major settlements in teen chatbot death cases</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-08 01:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/858277/disney-plus-vertical-video" target="_blank">Disney Plus is getting vertical video</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-08 00:51</span>
             </div>
         </div>
 </div>
@@ -324,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
