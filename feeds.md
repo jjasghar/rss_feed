@@ -1,30 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-01-08 22:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-08 23:01:32 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, January 08, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, January 08, 2026 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/08/nx-s1-5671719/ice-shooting-minneapolis-protest" target="_blank">Photos: Protests grow over the fatal ICE shooting in Minneapolis</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-08 22:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/ice-minn-1-rt-gmh-260108_1767883204170_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Vance says it was &#x27;tragedy of her own making&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,20 +106,38 @@
                 <span class="time">2026-01-08 18:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767893612207_now_spec_noem_defends_minneapolis_shooting_260108_1920x1080-brbvge.jpg" alt="Noem defends ICE agent&#x27;s actions in Minneapolis shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/kristi-noem-defends-ice-agent-s-actions-in-minneapolis-shooting-255626309849" target="_blank">Noem defends ICE agent&#x27;s actions in Minneapolis shooting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-08 17:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/" target="_blank">Governments grapple with the flood of non-consensual nudity on X</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-08 22:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/09/trojan-backdoor-500x500-1767907985.jpg" alt="Michigan man learns the hard way that “catch a cheater” spyware apps aren’t legal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/01/michigan-man-learns-the-hard-way-that-catch-a-cheater-spyware-apps-arent-legal/" target="_blank">Michigan man learns the hard way that “catch a cheater” spyware apps aren’t legal</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-08 22:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/695f07b40a5a9cd780808909/master/pass/Made-In-China-What-Chinese-Companies-Showed-Off-At-CES-Business-2255036816.jpg" alt="Why a Chinese Robot Vacuum Company Spun Off Not One but 2 EV Brands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/made-in-china-what-chinese-companies-showed-off-at-ces/" target="_blank">Why a Chinese Robot Vacuum Company Spun Off Not One but 2 EV Brands</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-08 21:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/wi-fi-data-500x500-1751912395.jpg" alt="Wi-Fi advocates get win from FCC with vote to allow higher-power devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -126,33 +165,6 @@
                 <span class="time">2026-01-08 20:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/858897/ces-2026-best-laptops-asus-dell-acer-msi-hp-lenovo-concepts" target="_blank">The coolest laptops we saw at CES 2026</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-08 20:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/08/gtmfund-has-rewritten-the-distribution-playbook-for-the-ai-era/" target="_blank">GTMfund has rewritten the distribution playbook for the AI era</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-08 19:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/doggoes3-500x500.jpg" alt="These dogs eavesdrop on their owners to learn new words" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/01/these-dogs-eavesdrop-on-their-owners-to-learn-new-words/" target="_blank">These dogs eavesdrop on their owners to learn new words</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-08 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,6 +177,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.scientific-python.org/numpy/fellowship-program-2025-retrospective/" target="_blank">A Year of Typing: My NumPy Fellowship Retrospective</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-01-08 22:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/" target="_blank">Why AI is pushing developers toward typed languages</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-01-08 22:25</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +224,6 @@
                 <span class="time">2026-01-08 19:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.mihaileric.com/The-Emperor-Has-No-Clothes/" target="_blank">How to Code Claude Code in 200 Lines of Code</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-08 19:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18812641&w=600" alt="When Services Think for Themselves: Traditional Orchestration vs. Agentic AI Microservices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/traditional-orchestration-vs-agentic-ai-microservices" target="_blank">When Services Think for Themselves: Traditional Orchestration vs. Agentic AI Microservices</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-08 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Jan2026_Lightspeed_io9-1280x853.jpg" alt="Amazon’s Relentless Growth Brings Cybernetically Enhanced War in This Poignant Sci-Fi Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/amazons-relentless-growth-brings-cybernetically-enhanced-war-in-this-poignant-sci-fi-story-2000706321" target="_blank">Amazon’s Relentless Growth Brings Cybernetically Enhanced War in This Poignant Sci-Fi Story</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-08 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/Avowed.jpg" alt="2025’s Underrated RPG Avowed Will Come To PS5 With A Big Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/avowed-ps5-port-new-game-plus-update-races-2000658274" target="_blank">2025’s Underrated RPG Avowed Will Come To PS5 With A Big Update</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-08 22:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/jean-luc-picard-star-trek-emmy-1280x853.jpg" alt="The Emmys Create a New ‘Legacy Award’ to Honor Old Favorites" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,24 +295,6 @@
                 <span class="title"><a href="https://gizmodo.com/some-dogs-can-learn-new-words-by-snooping-in-our-conversations-study-finds-2000707107" target="_blank">Some Dogs Can Learn New Words by Snooping in Our Conversations, Study Finds</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-08 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEFAE6KAZYE3E4GC1YB3TFVX/hero-image.png" alt="There&#x27;s Actually a Way to Mix and Match Your Cordless Tool Batteries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/cordless-power-tool-battery-adapters?utm_medium=RSS" target="_blank">There&#x27;s Actually a Way to Mix and Match Your Cordless Tool Batteries</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-08 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/Heart-of-the-Machine.jpg" alt="One Game Publisher Is Pushing Back Against AI Art With Contracts That Ban It: ‘It’s Cancerous’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hooded-horse-gen-ai-art-ban-4x-strategy-steam-2000658179" target="_blank">One Game Publisher Is Pushing Back Against AI Art With Contracts That Ban It: ‘It’s Cancerous’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-08 17:41</span>
             </div>
         </div>
 </div>
@@ -322,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 300 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 300 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
