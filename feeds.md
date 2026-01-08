@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-08 19:02:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-08 20:02:15 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, January 08, 2026 - 19:03 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, January 08, 2026 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/08/nx-s1-5671115/venezuela-opposition" target="_blank">&#x27;The atmosphere is very authoritarian&#x27;: Venezuela&#x27;s opposition reels from the sidelines</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-08 19:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Vice Pres. Vance, Press Sec. Leavitt hold briefing: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +103,29 @@
                 <span class="time">2026-01-08 14:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2026/1/8/uk-hunger-strikers-face-risk-of-irreversible?traffic_source=rss" target="_blank">UK hunger strikers face “risk of irreversible harm”</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-08 14:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/08/gtmfund-has-rewritten-the-distribution-playbook-for-the-ai-era/" target="_blank">GTMfund has rewritten the distribution playbook for the AI era</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-08 19:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/doggoes3-500x500.jpg" alt="These dogs eavesdrop on their owners to learn new words" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/01/these-dogs-eavesdrop-on-their-owners-to-learn-new-words/" target="_blank">These dogs eavesdrop on their owners to learn new words</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-08 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/grok-the-ai-clown-500x500.jpg" alt="Grok assumes users seeking images of underage girls have “good intent”" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,24 +162,6 @@
                 <span class="time">2026-01-08 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/08/disney-is-launching-short-form-videos-this-year/" target="_blank">Disney+ is launching short-form videos this year</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-08 17:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/08/snowflake-announces-its-intent-to-buy-observability-platform-observe/" target="_blank">Snowflake announces its intent to buy observability platform Observe</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-08 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +177,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbny6ony7ww6bsydoj30c.png" alt="TypeScript for AI Agents: From Friction to Flow with Sub-Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/javimaligno/typescript-for-ai-agents-from-friction-to-flow-with-sub-agents-3gi0" target="_blank">TypeScript for AI Agents: From Friction to Flow with Sub-Agents</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-08 19:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18812641&w=600" alt="When Services Think for Themselves: Traditional Orchestration vs. Agentic AI Microservices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/traditional-orchestration-vs-agentic-ai-microservices" target="_blank">When Services Think for Themselves: Traditional Orchestration vs. Agentic AI Microservices</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-08 19:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -180,39 +204,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware" target="_blank">IBM AI (&#x27;Bob&#x27;) Downloads and Executes Malware</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-08 18:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18836773&w=600" alt="Essential Techniques for Production Vector Search Systems Part 1 - Hybrid Search" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/essential-techniques-for-production-vector-search" target="_blank">Essential Techniques for Production Vector Search Systems Part 1 - Hybrid Search</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-01-08 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/tanstack-ai-sdk/en/headerimage/generatedHeaderImage-1767003557619-1767710160840.jpg" alt="TanStack Releases Framework Agnostic AI Toolkit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/tanstack-ai-sdk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">TanStack Releases Framework Agnostic AI Toolkit</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-08 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/whoisprince/how-github-pull-requests-in-vs-code-improved-my-open-source-workflow-8co" target="_blank">How GitHub Pull Requests in VS Code Improved My Open-Source Workflow</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-08 17:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sivarampg/building-a-production-ready-prediction-market-smart-contract-in-solidity-complete-guide-with-2iio" target="_blank">Building a Production-Ready Prediction Market Smart Contract in Solidity: Complete Guide with Foundry</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-08 17:02</span>
             </div>
         </div>
 </div>
@@ -235,12 +241,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/noem-horse.jpg?fit=1080%2C683&amp;quality=60&amp;ssl=1" alt="Minnesota officials say they&#x27;re being blocked from investigating fatal ICE shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/08/minnesota-officials-say-theyre-being-blocked-from-investigating-fatal-ice-shooting.html" target="_blank">Minnesota officials say they&#x27;re being blocked from investigating fatal ICE shooting</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-08 19:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/smartdog-1280x853.jpg" alt="Some Dogs Can Learn New Words by Snooping in Our Conversations, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/some-dogs-can-learn-new-words-by-snooping-in-our-conversations-study-finds-2000707107" target="_blank">Some Dogs Can Learn New Words by Snooping in Our Conversations, Study Finds</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-08 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEFAE6KAZYE3E4GC1YB3TFVX/hero-image.png" alt="There&#x27;s Actually a Way to Mix and Match Your Cordless Tool Batteries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/cordless-power-tool-battery-adapters?utm_medium=RSS" target="_blank">There&#x27;s Actually a Way to Mix and Match Your Cordless Tool Batteries</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-08 18:00</span>
             </div>
         </div>
 <div class="story">
@@ -268,24 +292,6 @@
                 <span class="title"><a href="https://gizmodo.com/2026-movie-anniversaries-all-the-biggest-genre-movies-celebrating-milestones-this-year-2000705632" target="_blank">2026 Movie Anniversaries: All the Biggest Genre Movies Celebrating Milestones This Year</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-08 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/06/ebdc90eadecd535d183ebbd8a948632a-1280x720.jpg" alt="The Leaked Synopsis Of The Next Life Is Strange Has Me Worried" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/life-is-strange-5-reunion-chloe-max-summary-plot-leak-2000658198" target="_blank">The Leaked Synopsis Of The Next Life Is Strange Has Me Worried</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-08 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6G54MYNJ9QSRFSJ30TY35DD/hero-image.jpg" alt="The Oura Ring Charging Case Is Finally Available" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/oura-ring-new-charging-case?utm_medium=RSS" target="_blank">The Oura Ring Charging Case Is Finally Available</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-08 16:30</span>
             </div>
         </div>
 </div>
@@ -325,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 301 |
-        🔄 Last Updated: 19:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 301 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
