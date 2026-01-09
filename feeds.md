@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-09 16:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-09 17:04:01 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, January 09, 2026 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, January 09, 2026 - 17:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/9/kurdish-leader-urges-dialogue-to-avoid-real-disaster-in?traffic_source=rss" target="_blank">Kurdish leader urges dialogue to avoid ‘real disaster in Aleppo’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-09 16:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-kyiv-ukraine-russia-war-invasion_7130812.jpg?20260109072829" alt="Russian hypersonic missile used for first time since 2024, in strike near NATO border" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/russian-hypersonic-missile-used-for-first-time-since-2024-in-strike-near-nato-border-13492532" target="_blank">Russian hypersonic missile used for first time since 2024, in strike near NATO border</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-09 15:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/ice-minn-18-gty-gmh-260108_1767899860707_hpMain_4x3t_384.jpg" alt="Fatal ICE shooting prompts questions on &#x27;reasonable use of force&#x27;: Experts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +96,20 @@
                 <span class="time">2026-01-09 13:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fa6/live/1942dce0-ed34-11f0-b984-81fd88ec25bf.jpg" alt="Elon Musk’s X limits Grok AI editing after chatbot generated sexualised images from photos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss" target="_blank">Elon Musk’s X limits Grok AI editing after chatbot generated sexualised images from photos</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-09 13:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/09/nx-s1-5672325/venezuela-releases-imprisoned-opposition-figures-trump-says-us-requested" target="_blank">Venezuela releases imprisoned opposition figures, which Trump says U.S. requested</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-09 12:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/859631/democrats-x-grok-apple-google-app-store" target="_blank">Democrats ask Apple and Google to remove X’s undressing bot from their app stores</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-09 16:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69611bb29ad426bf7959906e/master/pass/sec-grok-paywell-2148556867.jpg" alt="X Didn&#x27;t Fix Grok&#x27;s ‘Undressing’ Problem. It Just Makes People Pay for It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +155,6 @@
                 <span class="time">2026-01-09 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/859288/microsoft-word-hyperlinks-new-shortcut" target="_blank">Microsoft is making it much easier to add hyperlinks in Word docs</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-09 10:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -179,6 +176,15 @@
                 <span class="title"><a href="https://dev.to/joshtom/understanding-pointers-in-go-14fe" target="_blank">Understanding Pointers in GO</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-09 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/london-called-and-the-world-answered-creating-a-summit-without-borders" target="_blank">London called, and the world answered: creating a Summit without borders</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-01-09 14:46</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/anees_abdul_ec1dda9c7697b/java-internals-jdk-jre-jvm-and-jit-33kp" target="_blank">JAVA INTERNALS: JDK, JRE, JVM, and JIT!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-09 13:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.0-RADV-Transfer-SDMA" target="_blank">Mesa 26.0 RADV Lands Dedicated Transfer-Only Queue Using SDMA</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-09 11:28</span>
             </div>
         </div>
 </div>
@@ -245,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/ISS-1280x853.jpg" alt="NASA Orders ISS Medical Evacuation—but Here’s the Real Surprise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nasa-orders-iss-medical-evacuation-but-heres-the-real-surprise-2000708096" target="_blank">NASA Orders ISS Medical Evacuation—but Here’s the Real Surprise</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-09 16:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/The-Bride-1280x853.jpg" alt="The Year Ahead in Horror" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +296,6 @@
                 <span class="time">2026-01-09 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Kathryn-Hahn-Agatha-All-Along-1280x853.jpg" alt="‘Tangled’ Casts Its Villain, and It Was Agatha All Along" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tangled-casts-its-villain-and-it-was-agatha-all-along-2000707887" target="_blank">‘Tangled’ Casts Its Villain, and It Was Agatha All Along</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-09 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,31 +319,13 @@
                 <span class="time">2026-01-09 02:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/come-closer/" target="_blank">Come Closer</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-01-08 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1767826015-20260108.png" alt="Saturday Morning Breakfast Cereal - Variation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/variation" target="_blank">Saturday Morning Breakfast Cereal - Variation</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-08 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 303 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 303 |
+        🔄 Last Updated: 17:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
