@@ -1,39 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-09 04:15:01 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-01-09 05:04:37 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, January 09, 2026 - 04:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, January 09, 2026 - 05:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638a/live/38f7b410-ecc7-11f0-b5f7-49f0357294ff.jpg" alt="Storm Goretti brings 99mph winds and snow as 57,000 properties lose power" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgdezxj617o?at_medium=RSS&at_campaign=rss" target="_blank">Storm Goretti brings 99mph winds and snow as 57,000 properties lose power</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-09 04:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +105,20 @@
                 <span class="time">2026-01-09 00:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-binaliw-philippines_7130719.png?20260109015524" alt="One dead and 27 missing after landfill collapse sends avalanche of garbage into village" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/philippines-one-dead-and-27-missing-after-landfill-collapse-sends-avalanche-of-garbage-into-village-13492257" target="_blank">One dead and 27 missing after landfill collapse sends avalanche of garbage into village</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-09 00:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/51814201006_e93b98b15e_k-500x500.jpg" alt="NASA orders “controlled medical evacuation” from the International Space Station" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/01/in-a-first-nasa-orders-astronauts-home-after-unspecified-medical-issue/" target="_blank">NASA orders “controlled medical evacuation” from the International Space Station</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-09 04:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69605b15bf672fc002e0e505/master/pass/Background-of-ICE-Agent-Who-Shot-Renee-Good-Security-2255294225.jpg" alt="ICE Agent Who Reportedly Shot Renee Good Was a Firearms Trainer, Per Testimony" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,15 +164,6 @@
                 <span class="time">2026-01-08 22:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/695f07b40a5a9cd780808909/master/pass/Made-In-China-What-Chinese-Companies-Showed-Off-At-CES-Business-2255036816.jpg" alt="Why a Chinese Robot Vacuum Company Spun Off Not One but 2 EV Brands" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/made-in-china-what-chinese-companies-showed-off-at-ces/" target="_blank">Why a Chinese Robot Vacuum Company Spun Off Not One but 2 EV Brands</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-08 21:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -177,12 +179,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr5lyn7v5qka77d6oc9s1.jpg" alt="From Morgan Stanley to MiCA: The Technical Reconstruction of Institutional Crypto Infrastructure in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/apnews/from-morgan-stanley-to-mica-the-technical-reconstruction-of-institutional-crypto-infrastructure-in-3bjj" target="_blank">From Morgan Stanley to MiCA: The Technical Reconstruction of Institutional Crypto Infrastructure in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-09 04:57</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/art_light/prompt-engineering-wont-fix-your-architecture-23h" target="_blank">Prompt Engineering Won’t Fix Your Architecture</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-09 04:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/03/steam-snap.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s New ARM Steam Snap is Available for Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/steam-snap-arm64-ubuntu-gaming-performance" target="_blank">Ubuntu’s New ARM Steam Snap is Available for Testing</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-09 04:00</span>
             </div>
         </div>
 <div class="story">
@@ -197,28 +217,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Steam-Snap-ARM64-FEX" target="_blank">Canonical Builds Steam Snap For Ubuntu ARM64 Leveraging FEX</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-09 01:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://kueda.net/blog/2026/01/06/why-i-left-inat/" target="_blank">Why I Left iNaturalist</a></span>
+                <span class="title"><a href="https://github.com/anomalyco/opencode/issues/7410" target="_blank">Anthropic blocks third-party use of Claude Code subscriptions</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-01-09 01:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yannick555/cohesion-is-not-what-you-think-a-formal-response-to-eberhard-wolff-14bn" target="_blank">Cohesion Is Not What You Think: A Formal Response to Eberhard Wolff</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-08 23:57</span>
+                <span class="time">2026-01-09 03:44</span>
             </div>
         </div>
 </div>
@@ -340,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 300 |
-        🔄 Last Updated: 04:15 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 302 |
+        🔄 Last Updated: 05:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
