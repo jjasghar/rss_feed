@@ -1,45 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-09 12:02:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-09 13:13:56 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 36 feeds processed -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, January 09, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, January 09, 2026 - 13:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fa6/live/1942dce0-ed34-11f0-b984-81fd88ec25bf.jpg" alt="Elon Musk’s X limits Grok AI editing after chatbot generated sexualised images from photos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss" target="_blank">Elon Musk’s X limits Grok AI editing after chatbot generated sexualised images from photos</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-09 13:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/09/nx-s1-5672325/venezuela-releases-imprisoned-opposition-figures-trump-says-us-requested" target="_blank">Venezuela releases imprisoned opposition figures, which Trump says U.S. requested</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-09 12:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767960792562_tdy_news_7a_griffin_border_patrol_shooting_oregon_260109_1920x1080-95kvvn.jpg" alt="Border Patrol Agents Shoot 2 People During Traffic Stop in Oregon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/border-patrol-agents-shoot-2-people-during-traffic-stop-in-oregon-255673925751" target="_blank">Border Patrol Agents Shoot 2 People During Traffic Stop in Oregon</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-09 12:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/ice-minn-16-rt-gmh-260108_1767892774507_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Officer in shooting injured in June incident" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,38 +96,20 @@
                 <span class="time">2026-01-09 10:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/9/why-is-pakistan-selling-its-jf-17-fighter-jets-to-bangladesh-and-others?traffic_source=rss" target="_blank">Why is Pakistan selling its JF-17 fighter jets to Bangladesh and others?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-09 09:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef88/live/9a84b9f0-ed33-11f0-b5f7-49f0357294ff.png" alt="Colombia sees &#x27;real threat&#x27; of US military action, president tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwygjvkvpgro?at_medium=RSS&at_campaign=rss" target="_blank">Colombia sees &#x27;real threat&#x27; of US military action, president tells BBC</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-09 06:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae3d/live/61298c40-ed1e-11f0-b5f7-49f0357294ff.png" alt="There is a &#x27;real threat&#x27; of US military action against Colombia, president tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwygjvkvpgro?at_medium=RSS&at_campaign=rss" target="_blank">There is a &#x27;real threat&#x27; of US military action against Colombia, president tells BBC</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-09 06:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/695ee1caa31dda498ae13b79/master/pass/culture_porn_tax_constitutional.jpg" alt="Conservative Lawmakers Want Porn Taxes. Critics Say They’re Unconstitutional" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/conservative-lawmakers-want-porn-taxes-critics-say-theyre-unconstitutional/" target="_blank">Conservative Lawmakers Want Porn Taxes. Critics Say They’re Unconstitutional</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-09 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -159,15 +155,6 @@
                 <span class="time">2026-01-09 08:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" alt="20% Squarespace Promo Codes | January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/squarespace-promo-code/" target="_blank">20% Squarespace Promo Codes | January 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-09 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -180,6 +167,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anees_abdul_ec1dda9c7697b/java-internals-jdk-jre-jvm-and-jit-33kp" target="_blank">JAVA INTERNALS: JDK, JRE, JVM, and JIT!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-09 13:07</span>
             </div>
         </div>
 <div class="story">
@@ -218,20 +214,20 @@
                 <span class="time">2026-01-09 09:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.surveillancewatch.io" target="_blank">Surveillance Watch – a map that shows connections between surveillance companies</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-09 09:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/palo-alto-crosswalk-signals-had-default-passwords.html" target="_blank">Palo Alto Crosswalk Signals Had Default Passwords</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-01-09 12:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -241,20 +237,20 @@
                 <span class="time">2026-01-08 23:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/ai-humans-making-the-relationship-work.html" target="_blank">AI &amp;amp; Humans: Making the Relationship Work</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-01-08 12:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Kathryn-Hahn-Agatha-All-Along-1280x853.jpg" alt="‘Tangled’ Casts Its Villain, and It Was Agatha All Along" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tangled-casts-its-villain-and-it-was-agatha-all-along-2000707887" target="_blank">‘Tangled’ Casts Its Villain, and It Was Agatha All Along</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-09 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/11/qanon-shaman-e1759518230460.jpg?fit=768%2C525&amp;quality=60&amp;ssl=1" alt="The QAnon Shaman is running for governor of Arizona" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -298,15 +294,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/gmail-ending-pop3-support-email-importing?utm_medium=RSS" target="_blank">Google&#x27;s Getting Rid of a Way to Import Third-Party Accounts Into Gmail</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-08 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/Leavitt-1.jpeg?fit=1080%2C592&amp;quality=60&amp;ssl=1" alt="Leavitt claims killing a mother of three was necessary to stop a &quot;larger, sinister left-wing movement&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/08/leavitt-claims-killing-a-mother-of-three-was-necessary-to-stop-a-larger-sinister-left-wing-movement.html" target="_blank">Leavitt claims killing a mother of three was necessary to stop a &quot;larger, sinister left-wing movement&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-08 21:26</span>
             </div>
         </div>
 </div>
@@ -355,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 298 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 298 |
+        🔄 Last Updated: 13:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
