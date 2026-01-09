@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-09 02:36:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-09 03:29:41 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, January 09, 2026 - 02:36 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, January 09, 2026 - 03:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/portland-shooting-2_1767921057643_hpMain_4x3t_384.jpg" alt="2 shot by federal agent in &#x27;targeted&#x27; stop, Portland mayor asks ICE halt operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/2-shot-federal-agents-portland-sources/story?id=129038573" target="_blank">2 shot by federal agent in &#x27;targeted&#x27; stop, Portland mayor asks ICE halt operations</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-09 03:21</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -62,6 +69,15 @@
                 <span class="title"><a href="https://abcnews.go.com/US/2-shot-federal-agents-portland-sources/story?id=129038573" target="_blank">Man, woman shot by federal agent in Portland in &#x27;targeted&#x27; vehicle stop: Officials</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-09 01:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767925419305_nn_mve_ICE_shooting_250108_1920x1080-5at9xs.jpg" alt="Protests and clashes grow following deadly ICE encounter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/protests-and-clashes-grow-following-deadly-ice-encounter-255653445536" target="_blank">Protests and clashes grow following deadly ICE encounter</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-09 00:18</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +98,20 @@
                 <span class="time">2026-01-08 23:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/08/nx-s1-5671740/ice-minneapolis-grok-ai-renee-nicole-good" target="_blank">AI images and internet rumors spread confusion about ICE agent involved in shooting</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-08 23:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638a/live/38f7b410-ecc7-11f0-b5f7-49f0357294ff.jpg" alt="Storm Goretti brings 99mph winds and snow as 65,000 properties lose power" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgdezxj617o?at_medium=RSS&at_campaign=rss" target="_blank">Storm Goretti brings 99mph winds and snow as 65,000 properties lose power</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-08 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69605b15bf672fc002e0e505/master/pass/Background-of-ICE-Agent-Who-Shot-Renee-Good-Security-2255294225.jpg" alt="ICE Agent Who Reportedly Shot Renee Good Was a Firearms Trainer, Per Testimony" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ice-agent-jonathan-ross-renee-good-shooting-firearms-trainer-testimony/" target="_blank">ICE Agent Who Reportedly Shot Renee Good Was a Firearms Trainer, Per Testimony</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-09 03:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +155,6 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/fcc-to-authorize-more-powerful-wireless-devices-in-6-ghz-wi-fi-band/" target="_blank">Wi-Fi advocates get win from FCC with vote to allow higher-power devices</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-01-08 21:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/samsung-korea-flag-500x500.jpg" alt="High RAM prices mean record-setting profits for Samsung and other memory makers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/high-ram-prices-mean-record-setting-profits-for-samsung-and-other-memory-makers/" target="_blank">High RAM prices mean record-setting profits for Samsung and other memory makers</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-08 20:36</span>
             </div>
         </div>
 </div>
@@ -337,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 301 |
-        🔄 Last Updated: 02:36 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 303 |
+        🔄 Last Updated: 03:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
