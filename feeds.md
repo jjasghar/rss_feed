@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-09 17:04:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-09 18:02:35 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, January 09, 2026 - 17:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, January 09, 2026 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/9/minneapolis-leaders-urge-transparency-independent-probe-after-ice-killing?traffic_source=rss" target="_blank">Minneapolis leaders urge transparency, independent probe after ICE killing</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-09 17:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +96,20 @@
                 <span class="time">2026-01-09 14:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fa6/live/1942dce0-ed34-11f0-b984-81fd88ec25bf.jpg" alt="Changes to Elon Musk&#x27;s AI Grok &#x27;insulting&#x27; to victims, says No 10" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss" target="_blank">Changes to Elon Musk&#x27;s AI Grok &#x27;insulting&#x27; to victims, says No 10</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-09 13:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/791574/best-switch-2-controllers" target="_blank">I’ve tested the latest Switch 2 controllers, and this one is the best</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-09 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +155,6 @@
                 <span class="time">2026-01-09 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/695e7cdb11dd387d2d0862a1/master/pass/AFEELA%201%20&%20AFEELA%20Prototype%202026%20(1).jpg" alt="‘Physical AI’ Is Coming for Your Car" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/physical-ai-is-coming-for-your-car/" target="_blank">‘Physical AI’ Is Coming for Your Car</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-09 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +167,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/05/noble-upgrade-tile.jpg?resize=406%2C232&amp;ssl=1" alt="Big GPU &amp; Kernel Update Headed to Ubuntu 24.04 LTS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/ubuntu-24-04-4-lts-hwe-update-kernel-mesa" target="_blank">Big GPU &amp; Kernel Update Headed to Ubuntu 24.04 LTS</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-09 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-GC-12.1-Linux-6.20" target="_blank">AMD Enabling New  GFX12.1 &amp; More RDNA 3.5 Hardware Blocks With Linux 6.20~7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-09 16:16</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +212,6 @@
                 <span class="title"><a href="https://dzone.com/articles/production-vector-search-techniques-binary-quantization" target="_blank">Essential Techniques for Production Vector Search Systems Part 2 - Binary Quantization</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-01-09 14:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/corrosion/en/mediumimage/medium-somtochi-onyekwere-1766068003277.jpeg" alt="Presentation: Fast Eventual Consistency: Inside Corrosion, the Distributed System Powering Fly.io" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/corrosion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Fast Eventual Consistency: Inside Corrosion, the Distributed System Powering Fly.io</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-09 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anees_abdul_ec1dda9c7697b/java-internals-jdk-jre-jvm-and-jit-33kp" target="_blank">JAVA INTERNALS: JDK, JRE, JVM, and JIT!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-09 13:07</span>
             </div>
         </div>
 </div>
@@ -243,6 +243,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/greg-bovino-jan-7-2026-1280x853.jpg" alt="Why Are Federal Agents Using GoPros, Smart Glasses, and Phones to Record Us?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/why-are-federal-agents-using-gopros-smart-glasses-and-phones-to-record-us-2000707835" target="_blank">Why Are Federal Agents Using GoPros, Smart Glasses, and Phones to Record Us?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-09 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/image-31.jpg" alt="Would You Pay Over $1,000 For A Steam Machine?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/steam-machine-price-leak-division-3-fable-ps5-2000658489" target="_blank">Would You Pay Over $1,000 For A Steam Machine?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-09 17:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEHS9AQTJJSTTQGFB4VXSNFA/hero-image.png" alt="These Premium Earbuds Are Over $100 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/bowers-wilkins-pi8-anc-earbuds-sale-january-2026?utm_medium=RSS" target="_blank">These Premium Earbuds Are Over $100 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-09 17:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/ISS-1280x853.jpg" alt="NASA Orders ISS Medical Evacuation—but Here’s the Real Surprise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -267,33 +294,6 @@
                 <span class="title"><a href="https://kotaku.com/divinity-rpg-larian-bg3-loot-coop-2000658437" target="_blank">15 Things We Just Learned About Divinity</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-09 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/STARMAN-Still-1-2-1280x853.jpg" alt="New Documentary ‘Starman’ Asks the Big Question: Are We Alone in the Universe? (Exclusive)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/new-documentary-starman-asks-the-big-question-are-we-alone-in-the-universe-exclusive-2000707667" target="_blank">New Documentary ‘Starman’ Asks the Big Question: Are We Alone in the Universe? (Exclusive)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-09 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEFY9E350YSDWEJGF5STCQGK/hero-image.jpg" alt="Why Tech Launches Stopped Feeling Magical" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/why-tech-launches-stopped-feeling-magical?utm_medium=RSS" target="_blank">Why Tech Launches Stopped Feeling Magical</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-09 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KA1XXTZ6F5Y1ZE41B17VM889/hero-image.png" alt="The ‘Now You See Me’ Franchise Explained in 10 Infographics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/now-you-see-me-franchise-explained-in-infographics?utm_medium=RSS" target="_blank">The ‘Now You See Me’ Franchise Explained in 10 Infographics</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-09 13:00</span>
             </div>
         </div>
 </div>
@@ -324,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 303 |
-        🔄 Last Updated: 17:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 303 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
