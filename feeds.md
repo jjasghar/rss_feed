@@ -1,42 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-08 23:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-09 00:05:09 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 33 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, January 08, 2026 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, January 09, 2026 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2bb/live/bf90dca0-ecd0-11f0-b5f7-49f0357294ff.jpg" alt="Huge anti-government protests in Tehran and other Iranian cities, videos show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cg7y0579lp8o?at_medium=RSS&at_campaign=rss" target="_blank">Huge anti-government protests in Tehran and other Iranian cities, videos show</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-08 23:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,15 +101,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/vance-defends-ice-officer-involved-in-shooting-and-criticizes-media-over-coverage-255631429894" target="_blank">Vance defends ICE officer involved in shooting and criticizes media over coverage</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-01-08 19:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Vice Pres. Vance, Press Sec. Leavitt hold briefing: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Vice Pres. Vance, Press Sec. Leavitt hold briefing: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-08 18:28</span>
             </div>
         </div>
 </div>
@@ -182,6 +179,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yannick555/cohesion-is-not-what-you-think-a-formal-response-to-eberhard-wolff-14bn" target="_blank">Cohesion Is Not What You Think: A Formal Response to Eberhard Wolff</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-08 23:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://blog.scientific-python.org/numpy/fellowship-program-2025-retrospective/" target="_blank">A Year of Typing: My NumPy Fellowship Retrospective</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -215,20 +221,20 @@
                 <span class="time">2026-01-08 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbny6ony7ww6bsydoj30c.png" alt="TypeScript for AI Agents: From Friction to Flow with Sub-Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/javimaligno/typescript-for-ai-agents-from-friction-to-flow-with-sub-agents-3gi0" target="_blank">TypeScript for AI Agents: From Friction to Flow with Sub-Agents</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-08 19:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/" target="_blank">Who Benefited from the Aisuru and Kimwolf Botnets?</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-01-08 23:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -262,6 +268,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/Leavitt-1.jpeg?fit=1080%2C592&amp;quality=60&amp;ssl=1" alt="Leavitt claims killing a mother of three was necessary to stop a &quot;larger, sinister left-wing movement&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/08/leavitt-claims-killing-a-mother-of-three-was-necessary-to-stop-a-larger-sinister-left-wing-movement.html" target="_blank">Leavitt claims killing a mother of three was necessary to stop a &quot;larger, sinister left-wing movement&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-08 21:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/jean-luc-picard-star-trek-emmy-1280x853.jpg" alt="The Emmys Create a New ‘Legacy Award’ to Honor Old Favorites" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -286,15 +301,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/08/minnesota-officials-say-theyre-being-blocked-from-investigating-fatal-ice-shooting.html" target="_blank">Minnesota officials say they&#x27;re being blocked from investigating fatal ICE shooting</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-08 19:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/smartdog-1280x853.jpg" alt="Some Dogs Can Learn New Words by Snooping in Our Conversations, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/some-dogs-can-learn-new-words-by-snooping-in-our-conversations-study-finds-2000707107" target="_blank">Some Dogs Can Learn New Words by Snooping in Our Conversations, Study Finds</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-08 19:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 300 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 301 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
