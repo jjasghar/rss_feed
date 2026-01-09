@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-09 10:01:36 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-09 11:01:39 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, January 09, 2026 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, January 09, 2026 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/09/g-s1-104819/winter-olympics-questions" target="_blank">We&#x27;re going to the Olympics! What do you want to know?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-09 10:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +105,20 @@
                 <span class="time">2026-01-09 05:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638a/live/38f7b410-ecc7-11f0-b5f7-49f0357294ff.jpg" alt="Storm Goretti brings 99mph winds and snow as 57,000 properties lose power" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgdezxj617o?at_medium=RSS&at_campaign=rss" target="_blank">Storm Goretti brings 99mph winds and snow as 57,000 properties lose power</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-09 04:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/859288/microsoft-word-hyperlinks-new-shortcut" target="_blank">Microsoft is making it much easier to add hyperlinks in Word docs</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-09 10:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +164,6 @@
                 <span class="time">2026-01-09 03:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/859176/towerborne-launch-release-date-paid-offline" target="_blank">Xbox’s Towerborne is switching from a free-to-play game to a paid one</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-09 01:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +179,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/minibooks/2025-infoq-trends-reports-emag/en/smallimage/The-InfoQ-Trends-Reports-2025-thumb-1767092322509.jpg" alt="Mini book: The InfoQ Trends Reports 2025 eMag" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/minibooks/2025-infoq-trends-reports-emag/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Mini book: The InfoQ Trends Reports 2025 eMag</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-09 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-OS-Beta-NTSYNC" target="_blank">Latest SteamOS Beta Now Includes NTSYNC Kernel Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-09 10:47</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -184,36 +209,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://courses.csail.mit.edu/6.042/spring18/mcs.pdf" target="_blank">Mathematics for Computer Science (2018) [pdf]</a></span>
+                <span class="title"><a href="https://www.surveillancewatch.io" target="_blank">Surveillance Watch – a map that shows connections between surveillance companies</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-01-09 07:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8bbetc01tqzaa8mnrarn.png" alt="Stop Context Switching: How I Built a Tool to Generate Elite AI Prompts Inside VS Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/durasi/stop-context-switching-how-i-built-a-tool-to-generate-elite-ai-prompts-inside-vs-code-3lkb" target="_blank">Stop Context Switching: How I Built a Tool to Generate Elite AI Prompts Inside VS Code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-09 06:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr5lyn7v5qka77d6oc9s1.jpg" alt="From Morgan Stanley to MiCA: The Technical Reconstruction of Institutional Crypto Infrastructure in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/apnews/from-morgan-stanley-to-mica-the-technical-reconstruction-of-institutional-crypto-infrastructure-in-3bjj" target="_blank">From Morgan Stanley to MiCA: The Technical Reconstruction of Institutional Crypto Infrastructure in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-09 04:57</span>
+                <span class="time">2026-01-09 09:34</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/art_light/prompt-engineering-wont-fix-your-architecture-23h" target="_blank">Prompt Engineering Won’t Fix Your Architecture</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-09 04:06</span>
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/01/09/every-ecommerce-hero-needs-a-sidekick/" target="_blank">Every ecommerce hero needs a Sidekick</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-01-09 08:40</span>
             </div>
         </div>
 </div>
@@ -344,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 301 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 298 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
