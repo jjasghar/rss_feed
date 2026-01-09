@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-09 19:03:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-09 20:02:17 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, January 09, 2026 - 19:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, January 09, 2026 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767984364143_now_daily_a_cell_video_minn_ains_wint_260109_1920x1080-1k0q72.jpg" alt="Cell phone video from ICE officer shows fatal Minneapolis shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/cell-phone-video-from-ice-officer-shows-fatal-minneapolis-shooting-255695941843" target="_blank">Cell phone video from ICE officer shows fatal Minneapolis shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-09 18:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,6 +77,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/ice-minn-16-rt-gmh-260108_1767892774507_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Renee Good&#x27;s wife speaks out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-tensions-flare-minneapolis/?id=129018634" target="_blank">Minneapolis ICE shooting live updates: Renee Good&#x27;s wife speaks out</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-09 18:38</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -80,24 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/9/kurdish-leader-urges-dialogue-to-avoid-real-disaster-in?traffic_source=rss" target="_blank">Kurdish leader urges dialogue to avoid ‘real disaster in Aleppo’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-09 16:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-jacques-moretti-jessica-moretti_7130825.jpg?20260109075023" alt="Swiss bar owners detained as investigation into deadly New Year fire continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/owners-of-swiss-bar-where-40-died-in-new-year-fire-are-detained-13492538" target="_blank">Swiss bar owners detained as investigation into deadly New Year fire continues</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-09 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-kyiv-ukraine-russia-war-invasion_7130812.jpg?20260109072829" alt="Russian hypersonic missile used for first time since 2024, in strike near NATO border" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/russian-hypersonic-missile-used-for-first-time-since-2024-in-strike-near-nato-border-13492532" target="_blank">Russian hypersonic missile used for first time since 2024, in strike near NATO border</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-09 15:59</span>
             </div>
         </div>
 </div>
@@ -174,12 +177,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18819107&w=600" alt="The Rise of Diskless Kafka: Rethinking Brokers, Storage, and the Kafka Protocol" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/rise-of-diskless-kafka-rethinking-brokers-storage" target="_blank">The Rise of Diskless Kafka: Rethinking Brokers, Storage, and the Kafka Protocol</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-09 19:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/tilyupo/dynamic-configuration-in-react-feature-flags-without-the-jank-15bj" target="_blank">Dynamic Configuration in React — Feature Flags Without the Jank</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-09 18:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://iscinumpy.dev/post/packaging-faster/" target="_blank">How we made Python&#x27;s packaging library 3x faster</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-01-09 18:47</span>
             </div>
         </div>
 <div class="story">
@@ -194,28 +215,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-GC-12.1-Linux-6.20" target="_blank">AMD Enabling New  GFX12.1 &amp; More RDNA 3.5 Hardware Blocks With Linux 6.20~7.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-09 16:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/joshtom/understanding-pointers-in-go-14fe" target="_blank">Understanding Pointers in GO</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-09 14:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/london-called-and-the-world-answered-creating-a-summit-without-borders" target="_blank">London called, and the world answered: creating a Summit without borders</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-01-09 14:46</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lend-me-your-ears.specr.net" target="_blank">Show HN: I made a memory game to teach you to play piano by ear</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-09 17:17</span>
             </div>
         </div>
 </div>
@@ -247,6 +250,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEHZX6P8BKAS9C0QZX82B0DT/hero-image.png" alt="How to Delete &#x27;Bloatware&#x27; From Your Android (and Why You Should)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/delete-bloatware-from-android?utm_medium=RSS" target="_blank">How to Delete &#x27;Bloatware&#x27; From Your Android (and Why You Should)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-09 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/muskarmor.jpg" alt="Elon Musk’s Bot Lies About Locking Deepfake Nudity Factory Behind A Paywall" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/elon-musk-grok-ai-deepfakes-undressed-images-2000658486" target="_blank">Elon Musk’s Bot Lies About Locking Deepfake Nudity Factory Behind A Paywall</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-09 19:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/ss_bd668f4d12300c019fa3fa73108aa-1280x720.jpg" alt="Kingdom Come Deliverance 2 Boss Says Only ‘Terminally Online Culture Warriors’ Care About Controversies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -274,30 +295,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/image-31.jpg" alt="Would You Pay Over $1,000 For A Steam Machine?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/january-6-photo-e1767981262447.jpg?fit=768%2C470&amp;quality=60&amp;ssl=1" alt="Raskin suggests ICE masks are hiding Jan. 6 insurrectionists" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/steam-machine-price-leak-division-3-fable-ps5-2000658489" target="_blank">Would You Pay Over $1,000 For A Steam Machine?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-09 17:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEHS9AQTJJSTTQGFB4VXSNFA/hero-image.png" alt="These Premium Earbuds Are Over $100 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/bowers-wilkins-pi8-anc-earbuds-sale-january-2026?utm_medium=RSS" target="_blank">These Premium Earbuds Are Over $100 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-09 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/ISS-1280x853.jpg" alt="NASA Orders ISS Medical Evacuation—but Here’s the Real Surprise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nasa-orders-iss-medical-evacuation-but-heres-the-real-surprise-2000708096" target="_blank">NASA Orders ISS Medical Evacuation—but Here’s the Real Surprise</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-09 16:55</span>
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/09/raskin-suggests-ice-masks-are-hiding-jan-6-insurrectionists.html" target="_blank">Raskin suggests ICE masks are hiding Jan. 6 insurrectionists</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-09 17:57</span>
             </div>
         </div>
 </div>
@@ -328,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 299 |
-        🔄 Last Updated: 19:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 301 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
