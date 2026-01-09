@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-09 14:02:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-09 15:01:49 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, January 09, 2026 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, January 09, 2026 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/9/elon-musks-ai-bot-grok-limits-image-generation-amid-deepfakes-backlash?traffic_source=rss" target="_blank">Elon Musk’s AI bot Grok limits image generation amid deepfakes backlash</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-09 14:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/09/nx-s1-5672397/yemen-southern-transitional-council-dissolution-leader-uae" target="_blank">Yemen&#x27;s Southern Transitional Council says it will dissolve after its head fled to UAE</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-09 14:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fa6/live/1942dce0-ed34-11f0-b984-81fd88ec25bf.jpg" alt="Changes to Elon Musk&#x27;s AI Grok &#x27;insulting&#x27; to victims, says No 10" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss" target="_blank">Changes to Elon Musk&#x27;s AI Grok &#x27;insulting&#x27; to victims, says No 10</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-09 13:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fa6/live/1942dce0-ed34-11f0-b984-81fd88ec25bf.jpg" alt="Elon Musk’s X limits Grok AI editing after chatbot generated sexualised images from photos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -65,33 +101,6 @@
                 <span class="title"><a href="https://www.today.com/video/border-patrol-agents-shoot-2-people-during-traffic-stop-in-oregon-255673925751" target="_blank">Border Patrol Agents Shoot 2 People During Traffic Stop in Oregon</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-01-09 12:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/ice-minn-16-rt-gmh-260108_1767892774507_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Officer in shooting injured in June incident" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-tensions-flare-minneapolis/?id=129018634" target="_blank">Minneapolis ICE shooting live updates: Officer in shooting injured in June incident</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-09 11:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/9/us-to-support-cambodian-thai-ceasefire-with-45m-aid-pledge?traffic_source=rss" target="_blank">US to support Cambodian-Thai ceasefire with $45m aid pledge</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-09 10:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/09/g-s1-104819/winter-olympics-questions" target="_blank">We&#x27;re going to the Olympics! What do you want to know?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-09 10:05</span>
             </div>
         </div>
 </div>
@@ -171,6 +180,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/joshtom/understanding-pointers-in-go-14fe" target="_blank">Understanding Pointers in GO</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-09 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18839223&w=600" alt="Essential Techniques for Production Vector Search Systems Part 2 - Binary Quantization" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/production-vector-search-techniques-binary-quantization" target="_blank">Essential Techniques for Production Vector Search Systems Part 2 - Binary Quantization</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-09 14:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/corrosion/en/mediumimage/medium-somtochi-onyekwere-1766068003277.jpeg" alt="Presentation: Fast Eventual Consistency: Inside Corrosion, the Distributed System Powering Fly.io" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/corrosion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Fast Eventual Consistency: Inside Corrosion, the Distributed System Powering Fly.io</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-09 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/anees_abdul_ec1dda9c7697b/java-internals-jdk-jre-jvm-and-jit-33kp" target="_blank">JAVA INTERNALS: JDK, JRE, JVM, and JIT!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-09 13:07</span>
@@ -183,33 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.0-RADV-Transfer-SDMA" target="_blank">Mesa 26.0 RADV Lands Dedicated Transfer-Only Queue Using SDMA</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-09 11:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/minibooks/2025-infoq-trends-reports-emag/en/smallimage/The-InfoQ-Trends-Reports-2025-thumb-1767092322509.jpg" alt="Mini book: The InfoQ Trends Reports 2025 eMag" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/minibooks/2025-infoq-trends-reports-emag/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Mini book: The InfoQ Trends Reports 2025 eMag</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-09 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Steam-OS-Beta-NTSYNC" target="_blank">Latest SteamOS Beta Now Includes NTSYNC Kernel Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-09 10:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mohamedshabanai/thwyl-lfkr-l-hqyq-kyf-tbny-whdt-dhk-stny-m-langchain-w-fastapi-w-sevalla-g1l" target="_blank">تحويل الأفكار إلى حقيقة: كيف تبني وحدات ذكاء اصطناعي مع LangChain و FastAPI و Sevalla</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-09 09:49</span>
             </div>
         </div>
 </div>
@@ -240,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/STARMAN-Still-1-2-1280x853.jpg" alt="New Documentary ‘Starman’ Asks the Big Question: Are We Alone in the Universe? (Exclusive)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/new-documentary-starman-asks-the-big-question-are-we-alone-in-the-universe-exclusive-2000707667" target="_blank">New Documentary ‘Starman’ Asks the Big Question: Are We Alone in the Universe? (Exclusive)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-09 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KA1XXTZ6F5Y1ZE41B17VM889/hero-image.png" alt="The ‘Now You See Me’ Franchise Explained in 10 Infographics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +301,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/08/the-eus-infamous-curved-banana-law-is-both-real-and-completely-misunderstood.html" target="_blank">The EU&#x27;s infamous &quot;curved banana law&quot; is both real and completely misunderstood</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-09 00:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Jan2026_Lightspeed_io9-1280x853.jpg" alt="Amazon’s Relentless Growth Brings Cybernetically Enhanced War in This Poignant Sci-Fi Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/amazons-relentless-growth-brings-cybernetically-enhanced-war-in-this-poignant-sci-fi-story-2000706321" target="_blank">Amazon’s Relentless Growth Brings Cybernetically Enhanced War in This Poignant Sci-Fi Story</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-08 23:00</span>
             </div>
         </div>
 </div>
@@ -340,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 299 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 299 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
