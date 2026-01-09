@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-09 07:04:39 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-09 08:02:22 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, January 09, 2026 - 07:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, January 09, 2026 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +52,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cwygjvkvpgro?at_medium=RSS&at_campaign=rss" target="_blank">There is a &#x27;real threat&#x27; of US military action against Colombia, president tells BBC</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-09 06:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jan/09/the-gambia-female-genital-mutilation-fgm-supreme-court-case-overturn-ban" target="_blank">Attempt to overturn the Gambia’s ban on FGM heard by supreme court</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-09 06:00</span>
             </div>
         </div>
 <div class="story">
@@ -86,20 +99,20 @@
                 <span class="time">2026-01-09 03:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/9/trump-says-he-doesnt-need-international-law-amid-aggressive-us-policies?traffic_source=rss" target="_blank">Trump says he doesn’t need international law amid aggressive US policies</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-09 01:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/695fa1e1ee58ccfbdef664e7/master/pass/010826_Ocean-Temps.jpg" alt="The Oceans Just Keep Getting Hotter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-oceans-just-keep-getting-hotter/" target="_blank">The Oceans Just Keep Getting Hotter</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-09 08:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" alt="20% Squarespace Promo Codes | January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,15 +156,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/08/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/" target="_blank">CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-09 00:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/" target="_blank">Governments grapple with the flood of non-consensual nudity on X</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-08 22:08</span>
             </div>
         </div>
 </div>
@@ -332,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 303 |
-        🔄 Last Updated: 07:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 303 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
