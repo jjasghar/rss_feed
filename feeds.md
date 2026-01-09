@@ -1,29 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-01-09 06:02:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-09 07:04:39 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, January 09, 2026 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, January 09, 2026 - 07:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae3d/live/61298c40-ed1e-11f0-b5f7-49f0357294ff.png" alt="There is a &#x27;real threat&#x27; of US military action against Colombia, president tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwygjvkvpgro?at_medium=RSS&at_campaign=rss" target="_blank">There is a &#x27;real threat&#x27; of US military action against Colombia, president tells BBC</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-09 06:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/ice-minn-16-rt-gmh-260108_1767892774507_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Officer identified through court records" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,15 +92,6 @@
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/9/trump-says-he-doesnt-need-international-law-amid-aggressive-us-policies?traffic_source=rss" target="_blank">Trump says he doesn’t need international law amid aggressive US policies</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-09 01:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/shooting-medical-office_1767920028600_hpMain_4x3t_384.jpeg" alt="Man, woman shot by federal agent in Portland in &#x27;targeted&#x27; vehicle stop: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/2-shot-federal-agents-portland-sources/story?id=129038573" target="_blank">Man, woman shot by federal agent in Portland in &#x27;targeted&#x27; vehicle stop: Officials</a></span>
-                <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-09 01:19</span>
             </div>
         </div>
@@ -167,6 +169,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8bbetc01tqzaa8mnrarn.png" alt="Stop Context Switching: How I Built a Tool to Generate Elite AI Prompts Inside VS Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/durasi/stop-context-switching-how-i-built-a-tool-to-generate-elite-ai-prompts-inside-vs-code-3lkb" target="_blank">Stop Context Switching: How I Built a Tool to Generate Elite AI Prompts Inside VS Code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-09 06:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr5lyn7v5qka77d6oc9s1.jpg" alt="From Morgan Stanley to MiCA: The Technical Reconstruction of Institutional Crypto Infrastructure in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,15 +211,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/steam-snap-arm64-ubuntu-gaming-performance" target="_blank">Ubuntu’s ARM64 Steam Snap Delivers Solid Gaming Performance</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-01-09 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/anomalyco/opencode/issues/7410" target="_blank">Anthropic blocks third-party use of Claude Code subscriptions</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-09 03:44</span>
             </div>
         </div>
 </div>
@@ -330,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 302 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 303 |
+        🔄 Last Updated: 07:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
