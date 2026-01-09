@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-09 01:29:42 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-01-09 02:36:47 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, January 09, 2026 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, January 09, 2026 - 02:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/9/trump-says-he-doesnt-need-international-law-amid-aggressive-us-policies?traffic_source=rss" target="_blank">Trump says he doesn’t need international law amid aggressive US policies</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-09 01:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/shooting-medical-office_1767920028600_hpMain_4x3t_384.jpeg" alt="Man, woman shot by federal agent in Portland in &#x27;targeted&#x27; vehicle stop: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/US/2-shot-federal-agents-portland-sources/story?id=129038573" target="_blank">Man, woman shot by federal agent in Portland in &#x27;targeted&#x27; vehicle stop: Officials</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-09 01:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-binaliw-philippines_7130719.png?20260109015524" alt="One dead and 27 missing after landfill collapse sends avalanche of garbage into village" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/philippines-one-dead-and-27-missing-after-landfill-collapse-sends-avalanche-of-garbage-into-village-13492257" target="_blank">One dead and 27 missing after landfill collapse sends avalanche of garbage into village</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-09 00:18</span>
             </div>
         </div>
 <div class="story">
@@ -81,24 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvgdezxj617o?at_medium=RSS&at_campaign=rss" target="_blank">Storm Goretti brings 99mph winds and snow as 65,000 properties lose power</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-08 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/08/nx-s1-5671719/ice-shooting-minneapolis-protest" target="_blank">Photos: Protests grow over the fatal ICE shooting in Minneapolis</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-08 22:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/ice-minn-1-rt-gmh-260108_1767883204170_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Vance says it was &#x27;tragedy of her own making&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-tensions-flare-minneapolis/?id=129018634" target="_blank">Minneapolis ICE shooting live updates: Vance says it was &#x27;tragedy of her own making&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-08 20:37</span>
             </div>
         </div>
 </div>
@@ -177,6 +176,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-Snap-ARM64-FEX" target="_blank">Canonical Builds Steam Snap For Ubuntu ARM64 Leveraging FEX</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-09 01:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://kueda.net/blog/2026/01/06/why-i-left-inat/" target="_blank">Why I Left iNaturalist</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-09 01:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yannick555/cohesion-is-not-what-you-think-a-formal-response-to-eberhard-wolff-14bn" target="_blank">Cohesion Is Not What You Think: A Formal Response to Eberhard Wolff</a></span>
                 <span class="feed">DEV Community</span>
@@ -199,24 +216,6 @@
                 <span class="title"><a href="https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/" target="_blank">Why AI is pushing developers toward typed languages</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-01-08 22:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/RADV-UE5-Lumen-Merged" target="_blank">Mesa 26.0 RADV Merges The Big Ray-Tracing Improvement For UE5 Lumen</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-08 20:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18814271&w=600" alt="Speak Their Language: How Communication Profiling Prevents Agile Delivery Breakdowns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/communication-profiling-prevents-agile-delivery-breakdowns" target="_blank">Speak Their Language: How Communication Profiling Prevents Agile Delivery Breakdowns</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-08 20:00</span>
             </div>
         </div>
 </div>
@@ -307,6 +306,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5740.png" alt="The Boys Are Back In Town" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5740" target="_blank">The Boys Are Back In Town</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-01-09 02:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-pencil"></span>
@@ -329,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 302 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 301 |
+        🔄 Last Updated: 02:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
