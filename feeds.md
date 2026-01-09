@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-01-09 13:13:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-09 14:02:09 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, January 09, 2026 - 13:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, January 09, 2026 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -243,12 +241,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KA1XXTZ6F5Y1ZE41B17VM889/hero-image.png" alt="The ‘Now You See Me’ Franchise Explained in 10 Infographics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/now-you-see-me-franchise-explained-in-infographics?utm_medium=RSS" target="_blank">The ‘Now You See Me’ Franchise Explained in 10 Infographics</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-09 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Kathryn-Hahn-Agatha-All-Along-1280x853.jpg" alt="‘Tangled’ Casts Its Villain, and It Was Agatha All Along" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/tangled-casts-its-villain-and-it-was-agatha-all-along-2000707887" target="_blank">‘Tangled’ Casts Its Villain, and It Was Agatha All Along</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-09 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Mount-Moriah-cemetary-in-suburban-Philadelphia.-.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Hundreds of human skulls and &quot;decomposing torsos&quot; found in Pennsylvania man&#x27;s basement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/09/hundreds-of-human-skulls-and-decomposing-torsos-found-in-pennsylvania-mans-basement.html" target="_blank">Hundreds of human skulls and &quot;decomposing torsos&quot; found in Pennsylvania man&#x27;s basement</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-09 12:46</span>
             </div>
         </div>
 <div class="story">
@@ -276,24 +292,6 @@
                 <span class="title"><a href="https://gizmodo.com/amazons-relentless-growth-brings-cybernetically-enhanced-war-in-this-poignant-sci-fi-story-2000706321" target="_blank">Amazon’s Relentless Growth Brings Cybernetically Enhanced War in This Poignant Sci-Fi Story</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-08 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/Avowed.jpg" alt="2025’s Underrated RPG Avowed Will Come To PS5 With A Big Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/avowed-ps5-port-new-game-plus-update-races-2000658274" target="_blank">2025’s Underrated RPG Avowed Will Come To PS5 With A Big Update</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-08 22:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEFPNQA250RDQZVEXF1CWENH/hero-image.png" alt="Google&#x27;s Getting Rid of a Way to Import Third-Party Accounts Into Gmail" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/gmail-ending-pop3-support-email-importing?utm_medium=RSS" target="_blank">Google&#x27;s Getting Rid of a Way to Import Third-Party Accounts Into Gmail</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-08 21:30</span>
             </div>
         </div>
 </div>
@@ -342,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 298 |
-        🔄 Last Updated: 13:14 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 299 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
