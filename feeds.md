@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-09 20:02:17 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-01-09 21:01:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, January 09, 2026 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, January 09, 2026 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/09/nx-s1-5671286/figure-skating-championships" target="_blank">U.S. Figure Skating Championships will determine who&#x27;s going to the Olympics</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-09 20:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/Minneapolis_ICE_Officer_Thumb_Site-cdzr6r.jpg" alt="Watch: Video filmed by ICE officer shows moments before Minneapolis shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/video-filmed-by-ice-officer-shows-moments-before-minneapolis-shooting-255697989839" target="_blank">Watch: Video filmed by ICE officer shows moments before Minneapolis shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-09 20:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767984364143_now_daily_a_cell_video_minn_ains_wint_260109_1920x1080-1k0q72.jpg" alt="Cell phone video from ICE officer shows fatal Minneapolis shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +99,29 @@
                 <span class="time">2026-01-09 18:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/9/minneapolis-leaders-urge-transparency-independent-probe-after-ice-killing?traffic_source=rss" target="_blank">Minneapolis leaders urge transparency, independent probe after ICE killing</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-09 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/9/kurdish-leader-urges-dialogue-to-avoid-real-disaster-in?traffic_source=rss" target="_blank">Kurdish leader urges dialogue to avoid ‘real disaster in Aleppo’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-09 16:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/859740/this-semi-secret-lego-smart-brick-feature-gives-it-even-more-potential" target="_blank">This semi-secret Lego Smart Brick feature gives it even more potential</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-09 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-500x500-1748638352.jpg" alt="Google: Don’t make “bite-sized” content for LLMs if you care about search rank" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/" target="_blank">Google: Don’t make “bite-sized” content for LLMs if you care about search rank</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-09 20:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,24 +158,6 @@
                 <span class="time">2026-01-09 16:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/695dddb96a9f16aebe4fd97d/master/pass/Backchannel-Billionaires-Should-Pay-Taxes-Business-2196805267.jpg" alt="Silicon Valley Billionaires Panic Over California’s Proposed Wealth Tax" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/backchannel-silicon-valley-billionaires-california-taxes/" target="_blank">Silicon Valley Billionaires Panic Over California’s Proposed Wealth Tax</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-09 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69611bb29ad426bf7959906e/master/pass/sec-grok-paywell-2148556867.jpg" alt="X Didn&#x27;t Fix Grok&#x27;s ‘Undressing’ Problem. It Just Makes People Pay for It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/" target="_blank">X Didn&#x27;t Fix Grok&#x27;s ‘Undressing’ Problem. It Just Makes People Pay for It</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-09 15:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +170,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkvpdqvqj2s184132jd55.png" alt="What&#x27;s Inside the .git Folder?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/satpalsinhrana/whats-inside-the-git-folder-2obg" target="_blank">What&#x27;s Inside the .git Folder?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-09 20:36</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +217,6 @@
                 <span class="time">2026-01-09 17:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lend-me-your-ears.specr.net" target="_blank">Show HN: I made a memory game to teach you to play piano by ear</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-09 17:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Image-Baranov-Rodion-Shutterstock.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Wayward sheep invade German supermarket" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/09/wayward-sheep-invade-german-supermarket.html" target="_blank">Wayward sheep invade German supermarket</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-09 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Zepbound-1280x853.jpg" alt="Weight Loss Drugs Like Zepbound Could Help Treat Arthritis, Trial Shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/weight-loss-drugs-like-zepbound-could-help-treat-arthritis-trial-shows-2000708246" target="_blank">Weight Loss Drugs Like Zepbound Could Help Treat Arthritis, Trial Shows</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-09 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KEHZX6P8BKAS9C0QZX82B0DT/hero-image.png" alt="How to Delete &#x27;Bloatware&#x27; From Your Android (and Why You Should)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,29 +299,20 @@
                 <span class="time">2026-01-09 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KDZ8RYV3WFZDXMW56WG3PW8E/hero-image.jpg" alt="10 Hacks Every Kindle User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-kindle-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Kindle User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-09 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/january-6-photo-e1767981262447.jpg?fit=768%2C470&amp;quality=60&amp;ssl=1" alt="Raskin suggests ICE masks are hiding Jan. 6 insurrectionists" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/09/raskin-suggests-ice-masks-are-hiding-jan-6-insurrectionists.html" target="_blank">Raskin suggests ICE masks are hiding Jan. 6 insurrectionists</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-09 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1767826058-20260109.png" alt="Saturday Morning Breakfast Cereal - Future People" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/future-people" target="_blank">Saturday Morning Breakfast Cereal - Future People</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-01-09 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -331,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 301 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 305 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
