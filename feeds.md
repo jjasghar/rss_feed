@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-09 21:01:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-09 22:01:53 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, January 09, 2026 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, January 09, 2026 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/9/morocco-edge-out-cameroon-to-reach-afcon-2025-semifinals?traffic_source=rss" target="_blank">Diaz scores again as Morocco edge out Cameroon in AFCON 2025 quarterfinal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-09 21:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +103,20 @@
                 <span class="time">2026-01-09 18:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/ice-minn-16-rt-gmh-260108_1767892774507_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Renee Good&#x27;s wife speaks out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-tensions-flare-minneapolis/?id=129018634" target="_blank">Minneapolis ICE shooting live updates: Renee Good&#x27;s wife speaks out</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-09 18:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6633b47d072e549c82bf2f29/master/pass/Solawave-Abstract-Background-SOURCE-Amazon.jpg" alt="Solawave Wand Fans: Don&#x27;t Miss This Buy One, Get One Free Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/solawave-wand-fans-this-buy-one-get-one-free-deal-is-for-you/" target="_blank">Solawave Wand Fans: Don&#x27;t Miss This Buy One, Get One Free Sale</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-09 21:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +160,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/" target="_blank">Meta signs deals with three nuclear companies for 6-plus GW of power</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-09 17:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/859631/democrats-x-grok-apple-google-app-store" target="_blank">Democrats ask Apple and Google to remove X’s undressing bot from their app stores</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-09 16:55</span>
             </div>
         </div>
 </div>
@@ -202,19 +206,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://beta.dwitter.net" target="_blank">JavaScript Demos in 140 Characters</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-09 18:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://iscinumpy.dev/post/packaging-faster/" target="_blank">How we made Python&#x27;s packaging library 3x faster</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-01-09 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/05/noble-upgrade-tile.jpg?resize=406%2C232&amp;ssl=1" alt="Big GPU &amp; Kernel Update Headed to Ubuntu 24.04 LTS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/ubuntu-24-04-4-lts-hwe-update-kernel-mesa" target="_blank">Big GPU &amp; Kernel Update Headed to Ubuntu 24.04 LTS</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-09 17:55</span>
             </div>
         </div>
 </div>
@@ -245,6 +249,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/cussing.jpg?fit=1200%2C597&amp;quality=60&amp;ssl=1" alt="Swearing helps with pain — but only if you don&#x27;t do it all the time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/09/swearing-helps-with-pain-but-only-if-you-dont-do-it-all-the-time.html" target="_blank">Swearing helps with pain — but only if you don&#x27;t do it all the time</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-09 21:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-09 21:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Image-Baranov-Rodion-Shutterstock.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Wayward sheep invade German supermarket" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +301,6 @@
                 <span class="title"><a href="https://kotaku.com/elon-musk-grok-ai-deepfakes-undressed-images-2000658486" target="_blank">Elon Musk’s Bot Lies About Locking Deepfake Nudity Factory Behind A Paywall</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-09 19:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/ss_bd668f4d12300c019fa3fa73108aa-1280x720.jpg" alt="Kingdom Come Deliverance 2 Boss Says Only ‘Terminally Online Culture Warriors’ Care About Controversies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kingdom-come-deliverance-2-boss-terminally-online-culture-warriors-controveries-gay-repersenation-2000658501" target="_blank">Kingdom Come Deliverance 2 Boss Says Only ‘Terminally Online Culture Warriors’ Care About Controversies</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-09 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/greg-bovino-jan-7-2026-1280x853.jpg" alt="Why Are Federal Agents Using GoPros, Smart Glasses, and Phones to Record Us?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/why-are-federal-agents-using-gopros-smart-glasses-and-phones-to-record-us-2000707835" target="_blank">Why Are Federal Agents Using GoPros, Smart Glasses, and Phones to Record Us?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-09 18:00</span>
             </div>
         </div>
 </div>
@@ -336,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 305 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 305 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
