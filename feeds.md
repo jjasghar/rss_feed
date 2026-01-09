@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-09 22:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-09 23:01:36 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 12 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, January 09, 2026 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, January 09, 2026 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +57,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/9/morocco-edge-out-cameroon-to-reach-afcon-2025-semifinals?traffic_source=rss" target="_blank">Diaz scores again as Morocco edge out Cameroon in AFCON 2025 quarterfinal</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-09 21:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/minn-13-ht-gmh-260109_1767987174996_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: New video shows different vantage point" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-tensions-flare-minneapolis/?id=129018634" target="_blank">Minneapolis ICE shooting live updates: New video shows different vantage point</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-09 21:14</span>
             </div>
         </div>
 <div class="story">
@@ -94,20 +104,38 @@
                 <span class="time">2026-01-09 18:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/9/big-and-small-oil-companies-summoned-to-meet-trump-on-venezuelan-oil?traffic_source=rss" target="_blank">Big and small oil companies summoned to meet Trump on Venezuelan oil</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-09 18:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/860013/x-nmpa-music-publishers-dmca-antitrust-lawsuit" target="_blank">X accuses music publishers of &amp;#8216;weaponizing&amp;#8217; DMCA takedowns</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-09 22:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/" target="_blank">CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-09 22:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69615797c0c7d7edb18e6e75/master/pass/The%20Samsung%20Galaxy%20Watch%20Is%20Discounted%20on%20Amazon.png" alt="The Samsung Galaxy Watch Is Discounted on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/samsung-galaxy-watch8-deal-126/" target="_blank">The Samsung Galaxy Watch Is Discounted on Amazon</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-09 22:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6633b47d072e549c82bf2f29/master/pass/Solawave-Abstract-Background-SOURCE-Amazon.jpg" alt="Solawave Wand Fans: Don&#x27;t Miss This Buy One, Get One Free Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,33 +163,6 @@
                 <span class="time">2026-01-09 20:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/859751/meta-nuclear-energy-plant-agreements-ai-data-centers" target="_blank">Meta expands nuclear power ambitions to include Bill Gates&amp;#8217; startup</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-09 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/791574/best-switch-2-controllers" target="_blank">I’ve tested the latest Switch 2 controllers, and this one is the best</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-09 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/" target="_blank">Meta signs deals with three nuclear companies for 6-plus GW of power</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-09 17:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +175,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpr79pzmsr8t7vddtyms9.jpeg" alt="Dear Java Developer: You Haven’t Been Left Behind. You’ve Been Left Out." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mahmoudashraf/dear-java-developer-you-havent-been-left-behind-youve-been-left-out-3oj1" target="_blank">Dear Java Developer: You Haven’t Been Left Behind. You’ve Been Left Out.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-09 22:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.0-rc5" target="_blank">Wine 11.0-rc5 Brings 32 Bug Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-09 21:11</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/tilyupo/dynamic-configuration-in-react-feature-flags-without-the-jank-15bj" target="_blank">Dynamic Configuration in React — Feature Flags Without the Jank</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-09 18:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://beta.dwitter.net" target="_blank">JavaScript Demos in 140 Characters</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-09 18:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://iscinumpy.dev/post/packaging-faster/" target="_blank">How we made Python&#x27;s packaging library 3x faster</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-01-09 18:47</span>
             </div>
         </div>
 </div>
@@ -250,6 +251,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/stranger-things-season-5-ending-mass-effect-3-1280x853.jpg" alt="The Legacy of the ‘Stranger Things’ Ending Debate Goes Back to ‘Mass Effect’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/stranger-things-conformity-gate-mass-effect-indoctrination-theory-2000708251" target="_blank">The Legacy of the ‘Stranger Things’ Ending Debate Goes Back to ‘Mass Effect’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-09 22:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/buckminster-fuller.jpg?fit=955%2C1200&amp;quality=60&amp;ssl=1" alt="Buckminster Fuller&#x27;s 1943 sleep hack: two hours a day, split into half-hour naps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/09/buckminster-fullers-1943-sleep-hack-two-hours-a-day-split-into-half-hour-naps.html" target="_blank">Buckminster Fuller&#x27;s 1943 sleep hack: two hours a day, split into half-hour naps</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-09 22:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEJ6RQ8GPVMMK8PJR454FX10/hero-image.jpg" alt="The Five Weirdest AI Inventions I Saw at CES 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/weirdest-ai-inventions-ces-2026?utm_medium=RSS" target="_blank">The Five Weirdest AI Inventions I Saw at CES 2026</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-09 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/cussing.jpg?fit=1200%2C597&amp;quality=60&amp;ssl=1" alt="Swearing helps with pain — but only if you don&#x27;t do it all the time" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -276,38 +304,20 @@
                 <span class="time">2026-01-09 20:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Zepbound-1280x853.jpg" alt="Weight Loss Drugs Like Zepbound Could Help Treat Arthritis, Trial Shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/weight-loss-drugs-like-zepbound-could-help-treat-arthritis-trial-shows-2000708246" target="_blank">Weight Loss Drugs Like Zepbound Could Help Treat Arthritis, Trial Shows</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-09 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEHZX6P8BKAS9C0QZX82B0DT/hero-image.png" alt="How to Delete &#x27;Bloatware&#x27; From Your Android (and Why You Should)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/delete-bloatware-from-android?utm_medium=RSS" target="_blank">How to Delete &#x27;Bloatware&#x27; From Your Android (and Why You Should)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-09 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/muskarmor.jpg" alt="Elon Musk’s Bot Lies About Locking Deepfake Nudity Factory Behind A Paywall" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/elon-musk-grok-ai-deepfakes-undressed-images-2000658486" target="_blank">Elon Musk’s Bot Lies About Locking Deepfake Nudity Factory Behind A Paywall</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-09 19:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/09/through-a-scanner-darkly" target="_blank">Through A Scanner Darkly</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-01-09 21:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1767826058-20260109.png" alt="Saturday Morning Breakfast Cereal - Future People" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -340,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 305 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 305 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
