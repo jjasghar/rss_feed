@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-09 15:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-09 16:01:41 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, January 09, 2026 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, January 09, 2026 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/ice-minn-18-gty-gmh-260108_1767899860707_hpMain_4x3t_384.jpg" alt="Fatal ICE shooting prompts questions on &#x27;reasonable use of force&#x27;: Experts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/ice-force-policy/story?id=129016014" target="_blank">Fatal ICE shooting prompts questions on &#x27;reasonable use of force&#x27;: Experts</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-09 15:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +99,29 @@
                 <span class="time">2026-01-09 12:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767960792562_tdy_news_7a_griffin_border_patrol_shooting_oregon_260109_1920x1080-95kvvn.jpg" alt="Border Patrol Agents Shoot 2 People During Traffic Stop in Oregon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/border-patrol-agents-shoot-2-people-during-traffic-stop-in-oregon-255673925751" target="_blank">Border Patrol Agents Shoot 2 People During Traffic Stop in Oregon</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-09 12:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69611bb29ad426bf7959906e/master/pass/sec-grok-paywell-2148556867.jpg" alt="X Didn&#x27;t Fix Grok&#x27;s ‘Undressing’ Problem. It Just Makes People Pay for It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/" target="_blank">X Didn&#x27;t Fix Grok&#x27;s ‘Undressing’ Problem. It Just Makes People Pay for It</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-09 15:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/09/x-restricts-groks-image-generation-to-paying-subscribers-only-after-drawing-the-worlds-ire/" target="_blank">X restricts Grok’s image generation to paying subscribers only after drawing the world’s ire</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-09 13:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/695ee1caa31dda498ae13b79/master/pass/culture_porn_tax_constitutional.jpg" alt="Conservative Lawmakers Want Porn Taxes. Critics Say They’re Unconstitutional" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,24 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/859288/microsoft-word-hyperlinks-new-shortcut" target="_blank">Microsoft is making it much easier to add hyperlinks in Word docs</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-09 10:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/09/anthropic-adds-allianz-to-growing-list-of-enterprise-wins/" target="_blank">Anthropic adds Allianz to growing list of enterprise wins</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-09 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/695fa1e1ee58ccfbdef664e7/master/pass/010826_Ocean-Temps.jpg" alt="The Oceans Just Keep Getting Hotter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-oceans-just-keep-getting-hotter/" target="_blank">The Oceans Just Keep Getting Hotter</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-09 08:00</span>
             </div>
         </div>
 </div>
@@ -250,12 +246,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/The-Bride-1280x853.jpg" alt="The Year Ahead in Horror" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/horror-movies-tv-shows-2026-preview-2000705076" target="_blank">The Year Ahead in Horror</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-09 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/Trailer-Screenshots_07-e1765577070162-1280x744.jpg" alt="15 Things We Just Learned About Divinity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/divinity-rpg-larian-bg3-loot-coop-2000658437" target="_blank">15 Things We Just Learned About Divinity</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-09 15:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/STARMAN-Still-1-2-1280x853.jpg" alt="New Documentary ‘Starman’ Asks the Big Question: Are We Alone in the Universe? (Exclusive)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/new-documentary-starman-asks-the-big-question-are-we-alone-in-the-universe-exclusive-2000707667" target="_blank">New Documentary ‘Starman’ Asks the Big Question: Are We Alone in the Universe? (Exclusive)</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-09 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEFY9E350YSDWEJGF5STCQGK/hero-image.jpg" alt="Why Tech Launches Stopped Feeling Magical" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/why-tech-launches-stopped-feeling-magical?utm_medium=RSS" target="_blank">Why Tech Launches Stopped Feeling Magical</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-09 14:30</span>
             </div>
         </div>
 <div class="story">
@@ -274,33 +297,6 @@
                 <span class="title"><a href="https://gizmodo.com/tangled-casts-its-villain-and-it-was-agatha-all-along-2000707887" target="_blank">‘Tangled’ Casts Its Villain, and It Was Agatha All Along</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-09 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Mount-Moriah-cemetary-in-suburban-Philadelphia.-.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Hundreds of human skulls and &quot;decomposing torsos&quot; found in Pennsylvania man&#x27;s basement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/09/hundreds-of-human-skulls-and-decomposing-torsos-found-in-pennsylvania-mans-basement.html" target="_blank">Hundreds of human skulls and &quot;decomposing torsos&quot; found in Pennsylvania man&#x27;s basement</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-09 12:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/11/qanon-shaman-e1759518230460.jpg?fit=768%2C525&amp;quality=60&amp;ssl=1" alt="The QAnon Shaman is running for governor of Arizona" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/08/the-qanon-shaman-is-running-for-governor-of-arizona.html" target="_blank">The QAnon Shaman is running for governor of Arizona</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-09 01:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/banana.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="The EU&#x27;s infamous &quot;curved banana law&quot; is both real and completely misunderstood" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/08/the-eus-infamous-curved-banana-law-is-both-real-and-completely-misunderstood.html" target="_blank">The EU&#x27;s infamous &quot;curved banana law&quot; is both real and completely misunderstood</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-09 00:51</span>
             </div>
         </div>
 </div>
@@ -349,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 299 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 303 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
