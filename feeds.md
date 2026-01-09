@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-09 00:05:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-09 01:29:42 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, January 09, 2026 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, January 09, 2026 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +48,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/shooting-medical-office_1767920028600_hpMain_4x3t_384.jpeg" alt="Man, woman shot by federal agent in Portland in &#x27;targeted&#x27; vehicle stop: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/2-shot-federal-agents-portland-sources/story?id=129038573" target="_blank">Man, woman shot by federal agent in Portland in &#x27;targeted&#x27; vehicle stop: Officials</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-09 01:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2bb/live/bf90dca0-ecd0-11f0-b5f7-49f0357294ff.jpg" alt="Huge anti-government protests in Tehran and other Iranian cities, videos show" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cg7y0579lp8o?at_medium=RSS&at_campaign=rss" target="_blank">Huge anti-government protests in Tehran and other Iranian cities, videos show</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-08 23:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/08/nx-s1-5671740/ice-minneapolis-grok-ai-renee-nicole-good" target="_blank">AI images and internet rumors spread confusion about ICE agent involved in shooting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-08 23:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638a/live/38f7b410-ecc7-11f0-b5f7-49f0357294ff.jpg" alt="Storm Goretti brings 99mph winds and snow as 65,000 properties lose power" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgdezxj617o?at_medium=RSS&at_campaign=rss" target="_blank">Storm Goretti brings 99mph winds and snow as 65,000 properties lose power</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-08 23:00</span>
             </div>
         </div>
 <div class="story">
@@ -76,38 +101,20 @@
                 <span class="time">2026-01-08 20:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/08/nx-s1-5671061/minneapolis-ice-shooting-noem" target="_blank">What we know one day after the killing of Renee Good by an ICE officer in Minneapolis</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-08 20:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/08/nx-s1-5671115/venezuela-opposition" target="_blank">&#x27;The atmosphere is very authoritarian&#x27;: Venezuela&#x27;s opposition reels from the sidelines</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-08 19:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1767899811086_nbc_spec_odonnell_vance_briefing_wrap_260108_1920x1080-p8t0rp.jpg" alt="Vance defends ICE officer involved in shooting and criticizes media over coverage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/vance-defends-ice-officer-involved-in-shooting-and-criticizes-media-over-coverage-255631429894" target="_blank">Vance defends ICE officer involved in shooting and criticizes media over coverage</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-08 19:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/08/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/" target="_blank">CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-09 00:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +158,6 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/high-ram-prices-mean-record-setting-profits-for-samsung-and-other-memory-makers/" target="_blank">High RAM prices mean record-setting profits for Samsung and other memory makers</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-01-08 20:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/695e9565aa101b3c7113f21a/master/pass/How-Is-X-Still-in-App-Store-Business-2255064607.jpg" alt="Why Are Grok and X Still Available in App Stores?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/x-grok-app-store-nudify-csam-apple-google-content-moderation/" target="_blank">Why Are Grok and X Still Available in App Stores?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-08 20:25</span>
             </div>
         </div>
 </div>
@@ -250,6 +248,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/banana.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="The EU&#x27;s infamous &quot;curved banana law&quot; is both real and completely misunderstood" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/08/the-eus-infamous-curved-banana-law-is-both-real-and-completely-misunderstood.html" target="_blank">The EU&#x27;s infamous &quot;curved banana law&quot; is both real and completely misunderstood</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-09 00:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Jan2026_Lightspeed_io9-1280x853.jpg" alt="Amazon’s Relentless Growth Brings Cybernetically Enhanced War in This Poignant Sci-Fi Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -268,6 +275,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEFPNQA250RDQZVEXF1CWENH/hero-image.png" alt="Google&#x27;s Getting Rid of a Way to Import Third-Party Accounts Into Gmail" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/gmail-ending-pop3-support-email-importing?utm_medium=RSS" target="_blank">Google&#x27;s Getting Rid of a Way to Import Third-Party Accounts Into Gmail</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-08 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/Leavitt-1.jpeg?fit=1080%2C592&amp;quality=60&amp;ssl=1" alt="Leavitt claims killing a mother of three was necessary to stop a &quot;larger, sinister left-wing movement&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -283,24 +299,6 @@
                 <span class="title"><a href="https://gizmodo.com/emmys-legacy-award-franchises-2000707772" target="_blank">The Emmys Create a New ‘Legacy Award’ to Honor Old Favorites</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-08 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEFGNJDCMT3JTWC4A7YNJXZ3/hero-image.png" alt="Why I Won&#x27;t Be Giving ChatGPT Health My Medical Records" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/dont-give-chatgpt-health-your-medical-records?utm_medium=RSS" target="_blank">Why I Won&#x27;t Be Giving ChatGPT Health My Medical Records</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-08 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/noem-horse.jpg?fit=1080%2C683&amp;quality=60&amp;ssl=1" alt="Minnesota officials say they&#x27;re being blocked from investigating fatal ICE shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/08/minnesota-officials-say-theyre-being-blocked-from-investigating-fatal-ice-shooting.html" target="_blank">Minnesota officials say they&#x27;re being blocked from investigating fatal ICE shooting</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-08 19:38</span>
             </div>
         </div>
 </div>
@@ -326,22 +324,13 @@
                 <span class="time">2026-01-08 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5739.png" alt="Ayo Is Doing Great" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5739" target="_blank">Ayo Is Doing Great</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-01-08 00:35</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 301 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 302 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
