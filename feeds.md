@@ -1,41 +1,45 @@
-<!-- Processing 54 RSS feeds at 2026-01-09 11:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-09 12:02:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, January 09, 2026 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, January 09, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +55,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/ice-minn-16-rt-gmh-260108_1767892774507_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Officer in shooting injured in June incident" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-tensions-flare-minneapolis/?id=129018634" target="_blank">Minneapolis ICE shooting live updates: Officer in shooting injured in June incident</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-09 11:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/9/us-to-support-cambodian-thai-ceasefire-with-45m-aid-pledge?traffic_source=rss" target="_blank">US to support Cambodian-Thai ceasefire with $45m aid pledge</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-09 10:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +109,29 @@
                 <span class="time">2026-01-09 06:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jan/09/the-gambia-female-genital-mutilation-fgm-supreme-court-case-overturn-ban" target="_blank">Attempt to overturn the Gambia’s ban on FGM heard by supreme court</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-01-09 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/ice-minn-16-rt-gmh-260108_1767892774507_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Officer identified through court records" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-tensions-flare-minneapolis/?id=129018634" target="_blank">Minneapolis ICE shooting live updates: Officer identified through court records</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-09 05:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/858494/ces-2026-best-new-tech-tv-car-wearable" target="_blank">The Verge Awards at CES 2026</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-09 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/695e7cdb11dd387d2d0862a1/master/pass/AFEELA%201%20&%20AFEELA%20Prototype%202026%20(1).jpg" alt="‘Physical AI’ Is Coming for Your Car" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/physical-ai-is-coming-for-your-car/" target="_blank">‘Physical AI’ Is Coming for Your Car</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-09 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,24 +168,6 @@
                 <span class="time">2026-01-09 06:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/51814201006_e93b98b15e_k-500x500.jpg" alt="NASA orders “controlled medical evacuation” from the International Space Station" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/01/in-a-first-nasa-orders-astronauts-home-after-unspecified-medical-issue/" target="_blank">NASA orders “controlled medical evacuation” from the International Space Station</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-09 04:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69605b15bf672fc002e0e505/master/pass/Background-of-ICE-Agent-Who-Shot-Renee-Good-Security-2255294225.jpg" alt="ICE Agent Who Reportedly Shot Renee Good Was a Firearms Trainer, Per Testimony" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ice-agent-jonathan-ross-renee-good-shooting-firearms-trainer-testimony/" target="_blank">ICE Agent Who Reportedly Shot Renee Good Was a Firearms Trainer, Per Testimony</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-09 03:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +180,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.0-RADV-Transfer-SDMA" target="_blank">Mesa 26.0 RADV Lands Dedicated Transfer-Only Queue Using SDMA</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-09 11:28</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +225,6 @@
                 <span class="title"><a href="https://www.surveillancewatch.io" target="_blank">Surveillance Watch – a map that shows connections between surveillance companies</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-09 09:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/01/09/every-ecommerce-hero-needs-a-sidekick/" target="_blank">Every ecommerce hero needs a Sidekick</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-01-09 08:40</span>
             </div>
         </div>
 </div>
@@ -351,8 +355,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 298 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 298 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
