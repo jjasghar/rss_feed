@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-09 09:04:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-09 10:01:36 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, January 09, 2026 - 09:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, January 09, 2026 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/9/why-is-pakistan-selling-its-jf-17-fighter-jets-to-bangladesh-and-others?traffic_source=rss" target="_blank">Why is Pakistan selling its JF-17 fighter jets to Bangladesh and others?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-09 09:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef88/live/9a84b9f0-ed33-11f0-b5f7-49f0357294ff.png" alt="Colombia sees &#x27;real threat&#x27; of US military action, president tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwygjvkvpgro?at_medium=RSS&at_campaign=rss" target="_blank">Colombia sees &#x27;real threat&#x27; of US military action, president tells BBC</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-09 06:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae3d/live/61298c40-ed1e-11f0-b5f7-49f0357294ff.png" alt="There is a &#x27;real threat&#x27; of US military action against Colombia, president tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,24 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvgdezxj617o?at_medium=RSS&at_campaign=rss" target="_blank">Storm Goretti brings 99mph winds and snow as 57,000 properties lose power</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-09 04:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/9/brazils-president-lula-vetoes-bill-to-trim-bolsonaro-prison-sentence?traffic_source=rss" target="_blank">Brazil’s President Lula vetoes bill to trim Bolsonaro prison sentence</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-09 03:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/portland-shooting-2_1767921057643_hpMain_4x3t_384.jpg" alt="2 shot by federal agent in &#x27;targeted&#x27; stop, Portland mayor asks ICE halt operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/2-shot-federal-agents-portland-sources/story?id=129038573" target="_blank">2 shot by federal agent in &#x27;targeted&#x27; stop, Portland mayor asks ICE halt operations</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-09 03:21</span>
             </div>
         </div>
 </div>
@@ -171,6 +172,24 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mohamedshabanai/thwyl-lfkr-l-hqyq-kyf-tbny-whdt-dhk-stny-m-langchain-w-fastapi-w-sevalla-g1l" target="_blank">تحويل الأفكار إلى حقيقة: كيف تبني وحدات ذكاء اصطناعي مع LangChain و FastAPI و Sevalla</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-09 09:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://courses.csail.mit.edu/6.042/spring18/mcs.pdf" target="_blank">Mathematics for Computer Science (2018) [pdf]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-09 07:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8bbetc01tqzaa8mnrarn.png" alt="Stop Context Switching: How I Built a Tool to Generate Elite AI Prompts Inside VS Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -195,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/art_light/prompt-engineering-wont-fix-your-architecture-23h" target="_blank">Prompt Engineering Won’t Fix Your Architecture</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-09 04:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/03/steam-snap.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s New ARM Steam Snap is Available for Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/steam-snap-arm64-ubuntu-gaming-performance" target="_blank">Ubuntu’s New ARM Steam Snap is Available for Testing</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-09 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/03/steam-snap.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s ARM64 Steam Snap Delivers Solid Gaming Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/steam-snap-arm64-ubuntu-gaming-performance" target="_blank">Ubuntu’s ARM64 Steam Snap Delivers Solid Gaming Performance</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-09 04:00</span>
             </div>
         </div>
 </div>
@@ -343,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 302 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 301 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
