@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-10 12:02:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-10 13:10:00 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, January 10, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, January 10, 2026 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6961b2a91b3b398b136386fa/master/pass/The%20Best%20Deals%20for%20New%20Year%E2%80%99s%20Resolutions.png" alt="Best Deals for New Year’s Resolutions: Sleep, Fitness, and More (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/new-years-resolution-deals-2026/" target="_blank">Best Deals for New Year’s Resolutions: Sleep, Fitness, and More (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-10 12:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" alt="Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -151,15 +156,6 @@
                 <span class="time">2026-01-10 00:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/860058/amazon-chicago-supercenter-store-plans" target="_blank">Amazon is planning a Super Amazon-mart store near Chicago</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-09 23:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +168,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dimension-zero/13-languages-are-challenging-c-most-fail-only-five-stack-up-2no5" target="_blank">13 Languages Are Challenging C. Most Fail. Only Five Stack Up.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-10 13:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://nightingaledvs.com/dark-sky-weather-data-viz/" target="_blank">A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-10 12:23</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +215,6 @@
                 <span class="time">2026-01-10 07:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/mongodb-mongobleed-vulnerability/en/headerimage/generatedHeaderImage-1767778205575.jpg" alt="MongoBleed Vulnerability Allows Attackers to Read Data From MongoDB&#x27;s Heap Memory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/mongodb-mongobleed-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MongoBleed Vulnerability Allows Attackers to Read Data From MongoDB&#x27;s Heap Memory</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-10 07:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftb28vodfx0sp0r1nlcjk.png" alt="Kubernetes Gateway API on AKS Exposed via Azure Application Gateway" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shanaka_jayasundera_b4071/kubernetes-gateway-api-on-aks-exposed-via-azure-application-gateway-50bo" target="_blank">Kubernetes Gateway API on AKS Exposed via Azure Application Gateway</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-10 06:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,20 +229,20 @@
                 <span class="time">2026-01-09 22:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/palo-alto-crosswalk-signals-had-default-passwords.html" target="_blank">Palo Alto Crosswalk Signals Had Default Passwords</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-01-09 12:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/spinner-dolphins-1280x853.jpg" alt="The World’s Oceans Soaked Up Record-Breaking Heat for the 9th Straight Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-worlds-oceans-soaked-up-record-breaking-heat-for-the-9th-straight-year-2000708348" target="_blank">The World’s Oceans Soaked Up Record-Breaking Heat for the 9th Straight Year</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-10 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/vaccine.jpg?fit=600%2C599&amp;quality=60&amp;ssl=1" alt="A preventable outbreak: measles spreads where vaccines didn&#x27;t" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +288,6 @@
                 <span class="time">2026-01-09 22:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/buckminster-fuller.jpg?fit=955%2C1200&amp;quality=60&amp;ssl=1" alt="Buckminster Fuller&#x27;s 1943 sleep hack: two hours a day, split into half-hour naps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/09/buckminster-fullers-1943-sleep-hack-two-hours-a-day-split-into-half-hour-naps.html" target="_blank">Buckminster Fuller&#x27;s 1943 sleep hack: two hours a day, split into half-hour naps</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-09 22:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -338,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 301 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 299 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
