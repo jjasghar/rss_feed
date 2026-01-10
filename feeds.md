@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-10 04:10:18 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-10 05:02:25 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, January 10, 2026 - 04:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, January 10, 2026 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -166,10 +166,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-01-29 00:00</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/teja_das_051d874d1b872413/ui-ux-design-course-training-in-telugu-a-complete-guide-for-future-designers-2hp0" target="_blank">UI UX Design Course Training in Telugu: A Complete Guide for Future Designers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-10 04:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.bytebytego.com/p/how-reddit-migrated-comments-functionality" target="_blank">How Reddit Migrated Comments Functionality from Python to Go</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-01-10 03:25</span>
             </div>
         </div>
 <div class="story">
@@ -179,6 +188,15 @@
                 <span class="title"><a href="https://dev.to/sravesh_nandan_72969871ad/i-built-a-smarter-seo-layer-for-react-heres-why-3jc3" target="_blank">I Built a Smarter SEO Layer for React — Here’s Why</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-10 01:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-AI-Newelle-MCP-Server" target="_blank">AI Assistant App For GNOME Adds MCP Server Support To Integrate With Much More Software</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-10 01:30</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/TrueNAS-WebShare" target="_blank">TrueNAS WebShare: ZFS-Backed, Enterprise-Grade File Sharing From The Web Browser</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-09 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpr79pzmsr8t7vddtyms9.jpeg" alt="Dear Java Developer: You Haven’t Been Left Behind. You’ve Been Left Out." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mahmoudashraf/dear-java-developer-you-havent-been-left-behind-youve-been-left-out-3oj1" target="_blank">Dear Java Developer: You Haven’t Been Left Behind. You’ve Been Left Out.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-09 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mathstodon.xyz/@tao/115855840223258103" target="_blank">“Erdos problem #728 was solved more or less autonomously by AI”</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-09 22:39</span>
             </div>
         </div>
 </div>
@@ -345,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 302 |
-        🔄 Last Updated: 04:10 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 301 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
