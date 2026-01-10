@@ -1,38 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-01-10 10:01:33 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-01-10 11:01:19 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, January 10, 2026 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, January 10, 2026 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8bd/live/9d536610-edfe-11f0-b5f7-49f0357294ff.jpg" alt="Iran medics describe overwhelmed hospitals as protests continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss" target="_blank">Iran medics describe overwhelmed hospitals as protests continue</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-10 09:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/10/death-toll-in-philippines-landfill-collapse-hits-4-dozens-still-trapped?traffic_source=rss" target="_blank">Death toll in Philippines landfill collapse hits 4, dozens still trapped</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-10 09:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +92,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/10/nx-s1-5672684/benefits-fraud-unlawful-accusation-new-york-california-colorado-social-services" target="_blank">Influencer, White House welfare fraud claims are distorted, but the system has risks</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-10 00:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be27/live/96225880-eda7-11f0-a422-4ba8a094a8fa.jpg" alt="Trump says US needs to &#x27;own&#x27; Greenland to prevent Russia and China from taking it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c78vj5n7jg3o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says US needs to &#x27;own&#x27; Greenland to prevent Russia and China from taking it</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-10 00:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/9/trump-promises-oil-executives-total-safety-if-they-invest-in-venezuela?traffic_source=rss" target="_blank">Trump promises oil executives ‘total safety’ if they invest in Venezuela</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-09 23:55</span>
             </div>
         </div>
 </div>
@@ -194,6 +186,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/01/mongodb-mongobleed-vulnerability/en/headerimage/generatedHeaderImage-1767778205575.jpg" alt="MongoBleed Vulnerability Allows Attackers to Read Data From MongoDB&#x27;s Heap Memory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/mongodb-mongobleed-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MongoBleed Vulnerability Allows Attackers to Read Data From MongoDB&#x27;s Heap Memory</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-10 07:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftb28vodfx0sp0r1nlcjk.png" alt="Kubernetes Gateway API on AKS Exposed via Azure Application Gateway" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +210,6 @@
                 <span class="title"><a href="https://dev.to/vinay_sharma_e6ec1235f476/krack-attack-when-wpa2-was-not-as-safe-as-we-thought-3p0g" target="_blank">KRACK Attack - When WPA2 Was Not as Safe as We Thought</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-10 05:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/teja_das_051d874d1b872413/ui-ux-design-course-training-in-telugu-a-complete-guide-for-future-designers-2hp0" target="_blank">UI UX Design Course Training in Telugu: A Complete Guide for Future Designers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-10 04:51</span>
             </div>
         </div>
 </div>
@@ -339,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 301 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 302 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
