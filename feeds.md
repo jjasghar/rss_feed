@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-10 15:02:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-10 16:01:27 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, January 10, 2026 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, January 10, 2026 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +57,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/10/israel-issues-demolition-order-for-occupied-west-bank-football-pitch?traffic_source=rss" target="_blank">Israel issues demolition order for occupied West Bank football pitch</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-10 13:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/10/nx-s1-5666227/opinion-remembering-renee-good" target="_blank">Opinion: Remembering Renee Good</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-10 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -92,15 +102,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c20zxxlgdedo?at_medium=RSS&at_campaign=rss" target="_blank">Man dies after tree falls on caravan during storm</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-10 09:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-reza-pahlavi-iran_7131884.jpg?20260110114041" alt="Who is the exiled crown prince positioning himself as a key figure in Iran&#x27;s future after decades away?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/reza-pahlavi-who-is-the-exiled-crown-prince-positioning-himself-as-a-key-figure-in-irans-future-after-decades-away-13492713" target="_blank">Who is the exiled crown prince positioning himself as a key figure in Iran&#x27;s future after decades away?</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-10 08:43</span>
             </div>
         </div>
 </div>
@@ -204,21 +205,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/01/nvidia-open-models/en/headerimage/generatedHeaderImage-1768047944368.jpg" alt="NVIDIA Releases Open Models, Datasets, and Tools Across AI, Robotics, and Autonomous Driving" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/nvidia-open-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">NVIDIA Releases Open Models, Datasets, and Tools Across AI, Robotics, and Autonomous Driving</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-10 12:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://nightingaledvs.com/dark-sky-weather-data-viz/" target="_blank">A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-10 12:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/ollama-0.14-rc2" target="_blank">ollama 0.14 Can Make Use Of Bash For Letting AI/LLMs Run Commands On Your System</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-10 11:47</span>
             </div>
         </div>
 </div>
@@ -240,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/godzilla-minus-one-boat-chase-1280x853.jpg" alt="‘Godzilla Minus Zero’ Stomps Into Theaters This November" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/godzilla-minus-zero-stomps-into-theaters-this-november-2000708463" target="_blank">‘Godzilla Minus Zero’ Stomps Into Theaters This November</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-10 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/spinner-dolphins-1280x853.jpg" alt="The World’s Oceans Soaked Up Record-Breaking Heat for the 9th Straight Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +295,6 @@
                 <span class="time">2026-01-09 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/stranger-things-season-5-ending-mass-effect-3-1280x853.jpg" alt="The Legacy of the ‘Stranger Things’ Ending Debate Goes Back to ‘Mass Effect’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/stranger-things-conformity-gate-mass-effect-indoctrination-theory-2000708251" target="_blank">The Legacy of the ‘Stranger Things’ Ending Debate Goes Back to ‘Mass Effect’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-09 22:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 298 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
