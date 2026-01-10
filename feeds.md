@@ -1,34 +1,46 @@
-<!-- Processing 54 RSS feeds at 2026-01-10 19:01:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-10 20:02:02 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 38 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, January 10, 2026 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, January 10, 2026 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +57,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1e5/live/c59827a0-ee21-11f0-b5f7-49f0357294ff.jpg" alt="&#x27;There wasn&#x27;t even time for CPR&#x27;: Iran medics describe hospitals overwhelmed with dead and injured protesters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;There wasn&#x27;t even time for CPR&#x27;: Iran medics describe hospitals overwhelmed with dead and injured protesters</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-10 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/1/10/what-are-saudi-arabias-plans-in-southern-yemen?traffic_source=rss" target="_blank">What are Saudi Arabia’s plans in southern Yemen?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-10 19:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/minneapolis-protest-gty-jt-260110_1768068574600_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Protests remain peaceful despite arrests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-tensions-flare-minneapolis/?id=129018634" target="_blank">Minneapolis ICE shooting live updates: Protests remain peaceful despite arrests</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-10 18:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-tehran-iran-protest_7132055.jpg?20260110164927" alt="Iran&#x27;s regime is more vulnerable than ever, but it shows no sign of relenting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/irans-regime-more-vulnerable-than-it-has-ever-been-but-khamenei-shows-no-sign-of-relenting-13492900" target="_blank">Iran&#x27;s regime is more vulnerable than ever, but it shows no sign of relenting</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-10 18:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768069316663_f_mo_frey_protesters_agitators_260110_1920x1080-lnd2gg.jpg" alt="Minneapolis mayor calls out &#x27;agitators’ trying to rile up protesters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/minneapolis-mayor-calls-out-agitators-trying-to-rile-up-protesters-255750213810" target="_blank">Minneapolis mayor calls out &#x27;agitators’ trying to rile up protesters</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-10 18:22</span>
             </div>
         </div>
 <div class="story">
@@ -62,47 +110,20 @@
                 <span class="time">2026-01-10 17:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/10/thousands-of-supporters-of-yemens-separatist-stc-rally-in-aden?traffic_source=rss" target="_blank">Thousands of supporters of Yemen’s separatist STC rally in Aden</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-10 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/10/israel-issues-demolition-order-for-occupied-west-bank-football-pitch?traffic_source=rss" target="_blank">Israel issues demolition order for occupied West Bank football pitch</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-10 13:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/10/nx-s1-5666227/opinion-remembering-renee-good" target="_blank">Opinion: Remembering Renee Good</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-10 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/10/irans-army-pledges-to-defend-national-interests-after-us-backs-protesters?traffic_source=rss" target="_blank">Iran’s army pledges to defend national interests after US backs protesters</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-10 10:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/10/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/" target="_blank">Indonesia blocks Grok over non-consensual, sexualized deepfakes</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-10 19:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +167,6 @@
                 <span class="title"><a href="https://www.wired.com/story/total-wireless-promo-code/" target="_blank">Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-01-10 06:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/860106/betterment-crypto-scam-notification" target="_blank">Betterment&amp;#8217;s financial app sends customers a $10,000 crypto scam message</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-10 01:14</span>
             </div>
         </div>
 </div>
@@ -236,6 +248,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/baldurs-gate-3-wyll-1280x853.jpg" alt="A ‘Baldur’s Gate 3’ Writer Explains Wyll’s Disappointing Arc" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-baldurs-gate-3-writer-explains-wylls-disappointing-arc-2000708297" target="_blank">A ‘Baldur’s Gate 3’ Writer Explains Wyll’s Disappointing Arc</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-10 19:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/avengers-doomsday-rdj-1280x853.jpg" alt="Marvel Has Its Best-Selling Comic in Years Thanks to Robert Downey Jr." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -280,15 +301,6 @@
                 <span class="time">2026-01-10 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/noem-horse.jpg?fit=1080%2C683&amp;quality=60&amp;ssl=1" alt="ICE approval drops 30 points in a year as Americans call tactics &quot;too forceful&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/09/ice-approval-drops-30-points-in-a-year-as-americans-call-tactics-too-forceful.html" target="_blank">ICE approval drops 30 points in a year as Americans call tactics &quot;too forceful&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-09 22:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 299 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
