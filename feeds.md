@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-10 21:01:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-10 22:01:33 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, January 10, 2026 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, January 10, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251219-Dept-of-War-aa-542-35fa59.jpg" alt="U.S. launches &#x27;large-scale&#x27; strikes on ISIS targets across Syria" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/syria/us-strikes-isis-in-syria-rcna253353" target="_blank">U.S. launches &#x27;large-scale&#x27; strikes on ISIS targets across Syria</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-10 21:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6834/live/21c492d0-ee3a-11f0-b5f7-49f0357294ff.jpg" alt="Snow, rain and wind warnings continue after Goretti disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yvp0zg1deo?at_medium=RSS&at_campaign=rss" target="_blank">Snow, rain and wind warnings continue after Goretti disruption</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-10 21:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1e5/live/c59827a0-ee21-11f0-b5f7-49f0357294ff.jpg" alt="&#x27;There wasn&#x27;t even time for CPR&#x27;: Iran medics describe hospitals overwhelmed with dead and injured protesters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +103,20 @@
                 <span class="time">2026-01-10 18:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768069316663_f_mo_frey_protesters_agitators_260110_1920x1080-lnd2gg.jpg" alt="Minneapolis mayor calls out &#x27;agitators’ trying to rile up protesters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/minneapolis-mayor-calls-out-agitators-trying-to-rile-up-protesters-255750213810" target="_blank">Minneapolis mayor calls out &#x27;agitators’ trying to rile up protesters</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-10 18:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/10/nx-s1-5671107/kennedy-center-canceled-trump-washington-national-opera-wno" target="_blank">Washington National Opera leaves Kennedy Center, joining slew of artist exits</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-10 17:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/" target="_blank">OpenAI is reportedly asking contractors to upload real work from past jobs</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-10 21:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,15 +160,6 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/conservative-lawmakers-want-porn-taxes-critics-say-theyre-unconstitutional/" target="_blank">Conservative lawmakers want porn taxes. Critics say they’re unconstitutional.</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-01-10 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" alt="Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/total-wireless-promo-code/" target="_blank">Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-10 06:10</span>
             </div>
         </div>
 </div>
@@ -215,23 +223,18 @@
         </div>
 </div>
 </div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-the-chinese-squid-fishing-fleet-off-the-argentine-coast.html" target="_blank">Friday Squid Blogging: The Chinese Squid-Fishing Fleet off the Argentine Coast</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-01-09 22:00</span>
-            </div>
-        </div>
-</div>
-</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/tron-ares-streaming-jared-leto-1280x853.jpg" alt="SAG-AFTRA Is Keeping an Eye on the Disney/OpenAI Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sag-aftra-is-keeping-an-eye-on-the-disney-openai-deal-2000708414" target="_blank">SAG-AFTRA Is Keeping an Eye on the Disney/OpenAI Deal</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-10 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/baldurs-gate-3-wyll-1280x853.jpg" alt="A ‘Baldur’s Gate 3’ Writer Explains Wyll’s Disappointing Arc" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +280,6 @@
                 <span class="time">2026-01-10 00:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/BestSmartHome-1280x853.jpg" alt="The Best Smart Home Tech at CES 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-best-smart-home-tech-at-ces-2026-2000708333" target="_blank">The Best Smart Home Tech at CES 2026</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-10 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,22 +303,13 @@
                 <span class="time">2026-01-09 23:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/09/through-a-scanner-darkly" target="_blank">Through A Scanner Darkly</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-09 21:19</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 298 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 41 | 📸 With Images: 301 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
