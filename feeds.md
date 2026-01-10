@@ -1,43 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-10 08:02:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-10 09:01:56 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 35 feeds processed -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, January 10, 2026 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, January 10, 2026 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -113,6 +107,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" alt="Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/total-wireless-promo-code/" target="_blank">Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-10 06:10</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -157,15 +160,6 @@
                 <span class="time">2026-01-09 23:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/860013/x-nmpa-music-publishers-dmca-antitrust-lawsuit" target="_blank">X accuses music publishers of &amp;#8216;weaponizing&amp;#8217; DMCA takedowns</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-09 22:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,6 +172,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncta3n1h1tu3vikfyo89.png" alt="Serverless Picture Gallery on Google Cloud - Part 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ppabis/serverless-picture-gallery-on-google-cloud-part-1-5c0n" target="_blank">Serverless Picture Gallery on Google Cloud - Part 1</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-10 08:57</span>
             </div>
         </div>
 <div class="story">
@@ -214,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/teja_das_051d874d1b872413/ui-ux-design-course-training-in-telugu-a-complete-guide-for-future-designers-2hp0" target="_blank">UI UX Design Course Training in Telugu: A Complete Guide for Future Designers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-10 04:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/storypad-open-source-diary-app/" target="_blank">The Open Source Diary App for Android That Organizes Your Life on a Timeline</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-10 03:49</span>
             </div>
         </div>
 </div>
@@ -344,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 300 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 301 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
