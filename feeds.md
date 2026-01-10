@@ -1,36 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-01-10 01:29:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-10 02:32:51 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, January 10, 2026 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, January 10, 2026 - 02:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fae4/live/80dd7630-edbb-11f0-b385-5f48925de19a.jpg" alt="Musk says X outcry is &#x27;excuse for censorship&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce3kqzepp5zo?at_medium=RSS&at_campaign=rss" target="_blank">Musk says X outcry is &#x27;excuse for censorship&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-10 01:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,6 +84,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/9/trump-promises-oil-executives-total-safety-if-they-invest-in-venezuela?traffic_source=rss" target="_blank">Trump promises oil executives ‘total safety’ if they invest in Venezuela</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-09 23:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/9/morocco-edge-out-cameroon-to-reach-afcon-2025-semifinals?traffic_source=rss" target="_blank">Diaz scores again as Morocco edge out Cameroon in AFCON 2025 quarterfinal</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-09 21:36</span>
@@ -80,24 +105,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-tensions-flare-minneapolis/?id=129018634" target="_blank">Minneapolis ICE shooting live updates: New video shows different vantage point</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-09 21:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2026/01/09/g-s1-105242/rfk-jr-hepatitis-b-vaccine-ghana" target="_blank">RFK Jr. cast doubt on a key vaccine. This country can&#x27;t wait to get it</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-09 20:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/09/nx-s1-5671286/figure-skating-championships" target="_blank">U.S. Figure Skating Championships will determine who&#x27;s going to the Olympics</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-09 20:23</span>
             </div>
         </div>
 </div>
@@ -126,6 +133,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/" target="_blank">I met a lot of weird robots at CES — here are the most memorable</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-10 01:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-dominance-500x500-1768005711.jpg" alt="SpaceX gets FCC permission to launch another 7,500 Starlink satellites" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/spacex-gets-fcc-permission-to-launch-another-7500-starlink-satellites/" target="_blank">SpaceX gets FCC permission to launch another 7,500 Starlink satellites</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-10 00:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/860058/amazon-chicago-supercenter-store-plans" target="_blank">Amazon is planning a Super Amazon-mart store near Chicago</a></span>
                 <span class="feed">The Verge</span>
@@ -141,24 +166,6 @@
                 <span class="time">2026-01-09 22:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/" target="_blank">CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-09 22:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/09/28830-500x500.png" alt="Measles continues raging in South Carolina; 99 new cases since Tuesday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/01/measles-continues-raging-in-south-carolina-99-new-cases-since-tuesday/" target="_blank">Measles continues raging in South Carolina; 99 new cases since Tuesday</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-09 22:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +178,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sravesh_nandan_72969871ad/i-built-a-smarter-seo-layer-for-react-heres-why-3jc3" target="_blank">I Built a Smarter SEO Layer for React — Here’s Why</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-10 01:32</span>
             </div>
         </div>
 <div class="story">
@@ -204,16 +220,7 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mathstodon.xyz/@tao/115855840223258103" target="_blank">&quot;Erdos problem #728 was solved more or less autonomously by AI&quot;</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-09 22:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mathstodon.xyz/@tao/115855840223258103" target="_blank">AI solves Erdos problem #728 (Terence Tao mathstodon post)</a></span>
+                <span class="title"><a href="https://mathstodon.xyz/@tao/115855840223258103" target="_blank">“Erdos problem #728 was solved more or less autonomously by AI”</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-09 22:39</span>
             </div>
@@ -256,6 +263,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/noem-horse.jpg?fit=1080%2C683&amp;quality=60&amp;ssl=1" alt="ICE approval drops 30 points in a year as Americans call tactics &quot;too forceful&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/09/ice-approval-drops-30-points-in-a-year-as-americans-call-tactics-too-forceful.html" target="_blank">ICE approval drops 30 points in a year as Americans call tactics &quot;too forceful&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-09 22:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEJ4ED8RKS700X934408P5WW/hero-image.png" alt="Explore This Crowdsourced Archive of Vintage Cassette Recordings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/intertape-is-a-crowdsourced-catalog-offound-cassettes?utm_medium=RSS" target="_blank">Explore This Crowdsourced Archive of Vintage Cassette Recordings</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-09 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/stranger-things-season-5-ending-mass-effect-3-1280x853.jpg" alt="The Legacy of the ‘Stranger Things’ Ending Debate Goes Back to ‘Mass Effect’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -280,24 +305,6 @@
                 <span class="title"><a href="https://kotaku.com/crimson-desert-map-size-dragon-skyrim-2000658542" target="_blank">2026 RPG That Lets You Ride Dragons Promises A Map Twice The Size of Skyrim</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-09 22:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEJ6RQ8GPVMMK8PJR454FX10/hero-image.jpg" alt="The Five Weirdest AI Inventions I Saw at CES 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/weirdest-ai-inventions-ces-2026?utm_medium=RSS" target="_blank">The Five Weirdest AI Inventions I Saw at CES 2026</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-09 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/cussing.jpg?fit=1200%2C597&amp;quality=60&amp;ssl=1" alt="Swearing helps with pain — but only if you don&#x27;t do it all the time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/09/swearing-helps-with-pain-but-only-if-you-dont-do-it-all-the-time.html" target="_blank">Swearing helps with pain — but only if you don&#x27;t do it all the time</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-09 21:39</span>
             </div>
         </div>
 </div>
@@ -332,22 +339,13 @@
                 <span class="time">2026-01-09 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5740.png" alt="The Boys Are Back In Town" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5740" target="_blank">The Boys Are Back In Town</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-01-09 02:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 302 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 303 |
+        🔄 Last Updated: 02:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
