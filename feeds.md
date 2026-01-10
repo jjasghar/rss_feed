@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-10 05:02:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-10 06:02:05 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, January 10, 2026 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, January 10, 2026 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/09/g-s1-104620/trump-petroleo-venezuela-maduro" target="_blank">Trump quiere que petroleras estadounidenses lleguen a Venezuela. Esto es lo que usted debe saber</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-10 02:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fae4/live/80dd7630-edbb-11f0-b385-5f48925de19a.jpg" alt="Musk says X outcry is &#x27;excuse for censorship&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/9/morocco-edge-out-cameroon-to-reach-afcon-2025-semifinals?traffic_source=rss" target="_blank">Diaz scores again as Morocco edge out Cameroon in AFCON 2025 quarterfinal</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-09 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/minn-13-ht-gmh-260109_1767987174996_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: New video shows different vantage point" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-tensions-flare-minneapolis/?id=129018634" target="_blank">Minneapolis ICE shooting live updates: New video shows different vantage point</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-09 21:14</span>
             </div>
         </div>
 </div>
@@ -164,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjo75h96r0qznasus03iy.png" alt="KRACK Attack - When WPA2 Was Not as Safe as We Thought" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vinay_sharma_e6ec1235f476/krack-attack-when-wpa2-was-not-as-safe-as-we-thought-3p0g" target="_blank">KRACK Attack - When WPA2 Was Not as Safe as We Thought</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-10 05:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +217,6 @@
                 <span class="title"><a href="https://kushaldas.in/posts/introducing-ektupy.html" target="_blank">Introducing EktuPy</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-01-09 23:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/TrueNAS-WebShare" target="_blank">TrueNAS WebShare: ZFS-Backed, Enterprise-Grade File Sharing From The Web Browser</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-09 23:04</span>
             </div>
         </div>
 </div>
@@ -345,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 301 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 301 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
