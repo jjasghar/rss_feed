@@ -1,40 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-09 23:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-10 00:04:56 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 12 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, January 09, 2026 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, January 10, 2026 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -72,6 +72,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2026/01/09/g-s1-105242/rfk-jr-hepatitis-b-vaccine-ghana" target="_blank">RFK Jr. cast doubt on a key vaccine. This country can&#x27;t wait to get it</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-09 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/01/09/nx-s1-5671286/figure-skating-championships" target="_blank">U.S. Figure Skating Championships will determine who&#x27;s going to the Olympics</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-09 20:23</span>
@@ -95,20 +104,20 @@
                 <span class="time">2026-01-09 18:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/09/nx-s1-5672502/minneapolis-portland-ice-shootings" target="_blank">Federal agents shoot 2 in Portland after an ICE agent killed a woman in Minneapolis</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-09 18:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/860058/amazon-chicago-supercenter-store-plans" target="_blank">Amazon is planning a Super Amazon-mart store near Chicago</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-09 23:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -125,6 +134,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/" target="_blank">CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-09 22:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/09/28830-500x500.png" alt="Measles continues raging in South Carolina; 99 new cases since Tuesday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/01/measles-continues-raging-in-south-carolina-99-new-cases-since-tuesday/" target="_blank">Measles continues raging in South Carolina; 99 new cases since Tuesday</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-09 22:34</span>
             </div>
         </div>
 <div class="story">
@@ -145,24 +163,6 @@
                 <span class="time">2026-01-09 21:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/859740/this-semi-secret-lego-smart-brick-feature-gives-it-even-more-potential" target="_blank">This semi-secret Lego Smart Brick feature gives it even more potential</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-09 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-500x500-1748638352.jpg" alt="Google: Don’t make “bite-sized” content for LLMs if you care about search rank" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/" target="_blank">Google: Don’t make “bite-sized” content for LLMs if you care about search rank</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-09 20:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,12 +178,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://kushaldas.in/posts/introducing-ektupy.html" target="_blank">Introducing EktuPy</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-01-09 23:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpr79pzmsr8t7vddtyms9.jpeg" alt="Dear Java Developer: You Haven’t Been Left Behind. You’ve Been Left Out." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mahmoudashraf/dear-java-developer-you-havent-been-left-behind-youve-been-left-out-3oj1" target="_blank">Dear Java Developer: You Haven’t Been Left Behind. You’ve Been Left Out.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-09 22:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mathstodon.xyz/@tao/115855840223258103" target="_blank">AI solves Erdos problem #728 (Terence Tao mathstodon post)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-09 22:39</span>
             </div>
         </div>
 <div class="story">
@@ -204,24 +222,6 @@
                 <span class="time">2026-01-09 20:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18819107&w=600" alt="The Rise of Diskless Kafka: Rethinking Brokers, Storage, and the Kafka Protocol" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/rise-of-diskless-kafka-rethinking-brokers-storage" target="_blank">The Rise of Diskless Kafka: Rethinking Brokers, Storage, and the Kafka Protocol</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-09 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tilyupo/dynamic-configuration-in-react-feature-flags-without-the-jank-15bj" target="_blank">Dynamic Configuration in React — Feature Flags Without the Jank</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-09 18:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,18 +231,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/palo-alto-crosswalk-signals-had-default-passwords.html" target="_blank">Palo Alto Crosswalk Signals Had Default Passwords</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-the-chinese-squid-fishing-fleet-off-the-argentine-coast.html" target="_blank">Friday Squid Blogging: The Chinese Squid-Fishing Fleet off the Argentine Coast</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-01-09 12:06</span>
+                <span class="time">2026-01-09 22:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/" target="_blank">Who Benefited from the Aisuru and Kimwolf Botnets?</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-01-08 23:23</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/palo-alto-crosswalk-signals-had-default-passwords.html" target="_blank">Palo Alto Crosswalk Signals Had Default Passwords</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-01-09 12:06</span>
             </div>
         </div>
 </div>
@@ -266,6 +266,15 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/09/buckminster-fullers-1943-sleep-hack-two-hours-a-day-split-into-half-hour-naps.html" target="_blank">Buckminster Fuller&#x27;s 1943 sleep hack: two hours a day, split into half-hour naps</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-09 22:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/crimson-desert-1280x786.jpg" alt="2026 RPG That Lets You Ride Dragons Promises A Map Twice The Size of Skyrim" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/crimson-desert-map-size-dragon-skyrim-2000658542" target="_blank">2026 RPG That Lets You Ride Dragons Promises A Map Twice The Size of Skyrim</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-09 22:17</span>
             </div>
         </div>
 <div class="story">
@@ -293,15 +302,6 @@
                 <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-09 21:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Image-Baranov-Rodion-Shutterstock.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Wayward sheep invade German supermarket" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/09/wayward-sheep-invade-german-supermarket.html" target="_blank">Wayward sheep invade German supermarket</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-09 20:45</span>
             </div>
         </div>
 </div>
@@ -350,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 305 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 303 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
