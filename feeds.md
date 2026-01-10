@@ -1,29 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-10 14:01:32 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-01-10 15:02:02 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, January 10, 2026 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, January 10, 2026 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -76,21 +86,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/652a/live/6c69c190-ee06-11f0-a422-4ba8a094a8fa.jpg" alt="Man dies after tree falls on caravan during storm" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c20zxxlgdedo?at_medium=RSS&at_campaign=rss" target="_blank">Man dies after tree falls on caravan during storm</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-10 09:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/01/1920x1080/skynews-reza-pahlavi-iran_7131884.jpg?20260110114041" alt="Who is the exiled crown prince positioning himself as a key figure in Iran&#x27;s future after decades away?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/reza-pahlavi-who-is-the-exiled-crown-prince-positioning-himself-as-a-key-figure-in-irans-future-after-decades-away-13492713" target="_blank">Who is the exiled crown prince positioning himself as a key figure in Iran&#x27;s future after decades away?</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-01-10 08:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/10/g-s1-105387/new-video-minnesota-shooting-officer-perspective" target="_blank">New video shows fatal Minnesota ICE shooting from officer&#x27;s perspective</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-10 06:18</span>
             </div>
         </div>
 </div>
@@ -114,6 +124,15 @@
                 <span class="title"><a href="https://www.wired.com/story/new-years-resolution-deals-2026/" target="_blank">Best Deals for New Year’s Resolutions: Sleep, Fitness, and More (2026)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-01-10 12:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-155161689-500x500.jpg" alt="Conservative lawmakers want porn taxes. Critics say they’re unconstitutional." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/conservative-lawmakers-want-porn-taxes-critics-say-theyre-unconstitutional/" target="_blank">Conservative lawmakers want porn taxes. Critics say they’re unconstitutional.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-10 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -143,15 +162,6 @@
                 <span class="time">2026-01-10 01:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/" target="_blank">I met a lot of weird robots at CES — here are the most memorable</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-10 01:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,6 +174,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Debian-13.3-Released" target="_blank">Debian 13.3 Released With Many Security &amp; Bug Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-10 14:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sudoyasir/complete-esp32-security-guide-for-iot-devices-4c1g" target="_blank">Complete ESP32 Security Guide for IoT Devices</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-10 14:37</span>
             </div>
         </div>
 <div class="story">
@@ -191,24 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/ollama-0.14-rc2" target="_blank">ollama 0.14 Can Make Use Of Bash For Letting AI/LLMs Run Commands On Your System</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-10 11:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fncta3n1h1tu3vikfyo89.png" alt="Serverless Picture Gallery on Google Cloud - Part 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ppabis/serverless-picture-gallery-on-google-cloud-part-1-5c0n" target="_blank">Serverless Picture Gallery on Google Cloud - Part 1</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-10 08:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/highcenburg/til-about-starcloud-a-company-that-builds-data-centersin-space-i6f" target="_blank">TIL about Starcloud, a company that builds data centers....in space..</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-10 07:52</span>
             </div>
         </div>
 </div>
@@ -321,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 298 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
