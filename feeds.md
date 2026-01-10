@@ -1,33 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-01-10 13:10:00 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-01-10 14:01:32 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, January 10, 2026 - 13:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, January 10, 2026 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/10/israel-issues-demolition-order-for-occupied-west-bank-football-pitch?traffic_source=rss" target="_blank">Israel issues demolition order for occupied West Bank football pitch</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-10 13:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,6 +76,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-reza-pahlavi-iran_7131884.jpg?20260110114041" alt="Who is the exiled crown prince positioning himself as a key figure in Iran&#x27;s future after decades away?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/reza-pahlavi-who-is-the-exiled-crown-prince-positioning-himself-as-a-key-figure-in-irans-future-after-decades-away-13492713" target="_blank">Who is the exiled crown prince positioning himself as a key figure in Iran&#x27;s future after decades away?</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-10 08:43</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -79,29 +93,20 @@
                 <span class="time">2026-01-10 06:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/09/g-s1-104620/trump-petroleo-venezuela-maduro" target="_blank">Trump quiere que petroleras estadounidenses lleguen a Venezuela. Esto es lo que usted debe saber</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-10 02:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fae4/live/80dd7630-edbb-11f0-b385-5f48925de19a.jpg" alt="Musk says X outcry is &#x27;excuse for censorship&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce3kqzepp5zo?at_medium=RSS&at_campaign=rss" target="_blank">Musk says X outcry is &#x27;excuse for censorship&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-10 01:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/850479/desk-pc-keyboard-razer-kobo" target="_blank">What&amp;#8217;s on your desk, Stevie Bonifield?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-10 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6961b2a91b3b398b136386fa/master/pass/The%20Best%20Deals%20for%20New%20Year%E2%80%99s%20Resolutions.png" alt="Best Deals for New Year’s Resolutions: Sleep, Fitness, and More (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,15 +150,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/" target="_blank">I met a lot of weird robots at CES — here are the most memorable</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-10 01:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-dominance-500x500-1768005711.jpg" alt="SpaceX gets FCC permission to launch another 7,500 Starlink satellites" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/spacex-gets-fcc-permission-to-launch-another-7500-starlink-satellites/" target="_blank">SpaceX gets FCC permission to launch another 7,500 Starlink satellites</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-10 00:52</span>
             </div>
         </div>
 </div>
@@ -325,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 299 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 298 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
