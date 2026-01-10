@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-10 22:01:33 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-10 23:01:49 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, January 10, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, January 10, 2026 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/syria-strike-jet-ht-jt-260110_1768082891005_hpMain_4x3t_384.jpg" alt="US carries out additional &#x27;large-scale&#x27; strikes on ISIS targets in Syria" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/us-carries-additional-large-scale-strikes-isis-targets/story?id=129091171" target="_blank">US carries out additional &#x27;large-scale&#x27; strikes on ISIS targets in Syria</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-10 22:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/10/nx-s1-5673238/reza-pahlavi-iran-protests" target="_blank">Who is Reza Pahlavi, the exiled Crown Prince encouraging demonstrations across Iran?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-10 22:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251219-Dept-of-War-aa-542-35fa59.jpg" alt="U.S. launches &#x27;large-scale&#x27; strikes on ISIS targets across Syria" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +100,20 @@
                 <span class="time">2026-01-10 19:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/minneapolis-protest-gty-jt-260110_1768068574600_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Protests remain peaceful despite arrests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-tensions-flare-minneapolis/?id=129018634" target="_blank">Minneapolis ICE shooting live updates: Protests remain peaceful despite arrests</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-10 18:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-tehran-iran-protest_7132055.jpg?20260110164927" alt="Iran&#x27;s regime is more vulnerable than ever, but it shows no sign of relenting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/irans-regime-more-vulnerable-than-it-has-ever-been-but-khamenei-shows-no-sign-of-relenting-13492900" target="_blank">Iran&#x27;s regime is more vulnerable than ever, but it shows no sign of relenting</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-10 18:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/860294/elon-musk-open-source-x-algorithm" target="_blank">Musk says he&amp;#8217;s going to open-source the new X algorithm next week</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-10 21:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,15 +159,6 @@
                 <span class="time">2026-01-10 12:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-155161689-500x500.jpg" alt="Conservative lawmakers want porn taxes. Critics say they’re unconstitutional." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/conservative-lawmakers-want-porn-taxes-critics-say-theyre-unconstitutional/" target="_blank">Conservative lawmakers want porn taxes. Critics say they’re unconstitutional.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-10 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +171,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ghamdandev/build-a-robust-offline-first-flutter-app-with-bloc-dio-and-sqflite-51f5" target="_blank">Build a Robust Offline-First Flutter App with BLoC, Dio, and Sqflite</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-10 22:40</span>
             </div>
         </div>
 <div class="story">
@@ -195,30 +201,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://trails.pieterma.es/" target="_blank">Show HN: I used Claude Code to discover connections between 100 books</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-10 16:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="VitaGuard: My First Real-Time Linux System Health Monitor in Bash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/navickas/vitaguard-my-first-real-time-linux-system-health-monitor-in-bash-plm" target="_blank">VitaGuard: My First Real-Time Linux System Health Monitor in Bash</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-10 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.openchaos.dev/" target="_blank">Open Chaos: A self-evolving open-source project</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-10 16:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mageia-10-Alpha" target="_blank">Mageia 10 Alpha Released - 32-bit ISOs Still Available</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-10 15:30</span>
             </div>
         </div>
 </div>
@@ -308,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 41 | 📸 With Images: 301 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 73 | 📡 Total Sources: 41 | 📸 With Images: 300 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
