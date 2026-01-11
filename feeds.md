@@ -1,29 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-01-11 11:01:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-11 12:02:26 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 20 feeds processed -->
+<!-- Generated 4 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, January 11, 2026 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, January 11, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +53,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e0c/live/36c92b00-eeda-11f0-a422-4ba8a094a8fa.jpg" alt="I never saw young women on Epstein visits, Mandelson tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd9el4dw0z3o?at_medium=RSS&at_campaign=rss" target="_blank">I never saw young women on Epstein visits, Mandelson tells BBC</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-11 11:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251231-minnesota-health-services-mn-0936-9f396b.jpg" alt="How ICE raids in Minnesota connect to a years-old fraud scandal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/tech/internet/ice-raids-minnesota-connect-years-old-fraud-scandal-rcna253151" target="_blank">How ICE raids in Minnesota connect to a years-old fraud scandal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-11 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/11/nx-s1-5666843/venezuelas-exiles-in-chile-caught-between-hope-and-uncertainty" target="_blank">Venezuela&#x27;s exiles in Chile caught between hope and uncertainty</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-11 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -64,33 +105,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/11/nx-s1-5673845/iran-us-israel-targets-protests" target="_blank">Iran warns US troops and Israel will be targets if America strikes over protests as death toll rises</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-11 07:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/11/at-least-three-palestinians-killed-in-overnight-israeli-attacks-on-gaza?traffic_source=rss" target="_blank">At least three Palestinians killed in overnight Israeli attacks on Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-11 07:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/11/israeli-forces-raid-palestinian-wedding-in-occupied-east-jerusalem?traffic_source=rss" target="_blank">Israeli forces raid Palestinian wedding in occupied East Jerusalem</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-11 06:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ffa/live/dc852db0-eea7-11f0-b5f7-49f0357294ff.jpg" alt="Iran protesters defy crackdown as videos show violent clashes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss" target="_blank">Iran protesters defy crackdown as videos show violent clashes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-11 05:44</span>
             </div>
         </div>
 </div>
@@ -169,6 +183,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-RISC-V-Side-Channel" target="_blank">Linux Lands Safeguard For RISC-V Against Another Microarchitectural Attack Vector</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-11 11:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://antirez.com/news/158" target="_blank">Don&#x27;t fall into the anti-AI hype</a></span>
                 <span class="feed">Hacker News</span>
@@ -200,15 +223,6 @@
                 <span class="title"><a href="https://dev.to/himanshu_bhatt/html-101-5-text-formatting-quotes-code-formatting-4221" target="_blank">HTML-101 #5. Text Formatting, Quotes &amp; Code Formatting</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-11 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c623r47d67lo" target="_blank">&#x27;The answer cannot be nothing&#x27;: The battle over Canada&#x27;s mystery brain disease</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-11 04:45</span>
             </div>
         </div>
 </div>
@@ -289,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
