@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-11 06:02:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-11 07:02:43 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, January 11, 2026 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, January 11, 2026 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/11/israeli-forces-raid-palestinian-wedding-in-occupied-east-jerusalem?traffic_source=rss" target="_blank">Israeli forces raid Palestinian wedding in occupied East Jerusalem</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-11 06:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ffa/live/dc852db0-eea7-11f0-b5f7-49f0357294ff.jpg" alt="Iran protesters defy crackdown as videos show violent clashes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/10/us-launches-large-scale-attacks-against-isil-in-syria-after-deadly-ambush?traffic_source=rss" target="_blank">US launches ‘large-scale’ attacks against ISIL in Syria after deadly ambush</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-10 23:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/syria-strike-jet-ht-jt-260110_1768082891005_hpMain_4x3t_384.jpg" alt="US carries out additional &#x27;large-scale&#x27; strikes on ISIS targets in Syria" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/us-carries-additional-large-scale-strikes-isis-targets/story?id=129091171" target="_blank">US carries out additional &#x27;large-scale&#x27; strikes on ISIS targets in Syria</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-10 22:35</span>
             </div>
         </div>
 </div>
@@ -188,6 +186,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c623r47d67lo" target="_blank">&#x27;The answer cannot be nothing&#x27;: The battle over Canada&#x27;s mystery brain disease</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-11 04:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://github.com/OlaProeis/Ferrite" target="_blank">Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-11 01:50</span>
@@ -209,15 +216,6 @@
                 <span class="title"><a href="https://news.ycombinator.com/item?id=46571149" target="_blank">Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-10 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ghamdandev/build-a-robust-offline-first-flutter-app-with-bloc-dio-and-sqflite-51f5" target="_blank">Build a Robust Offline-First Flutter App with BLoC, Dio, and Sqflite</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-10 22:40</span>
             </div>
         </div>
 </div>
@@ -298,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 299 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
