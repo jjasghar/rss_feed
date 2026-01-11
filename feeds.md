@@ -1,44 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-01-11 19:01:20 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-11 20:01:50 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 35 feeds processed -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, January 11, 2026 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, January 11, 2026 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/01/11/g-s1-105436/americas-top-figure-skaters-dazzled-st-louis-i-left-with-a-new-love-for-the-sport" target="_blank">America&#x27;s top figure skaters dazzled St. Louis. I left with a new love for the sport.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-11 19:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -99,20 +93,20 @@
                 <span class="time">2026-01-11 14:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa0f/live/1ce1f880-eee8-11f0-b2af-2141ef517068.jpg" alt="Four killed and five injured in &#x27;head-on&#x27; crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0r45k245pvo?at_medium=RSS&at_campaign=rss" target="_blank">Four killed and five injured in &#x27;head-on&#x27; crash</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-11 13:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews" target="_blank">Google pulls AI overviews for some medical searches</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-11 19:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -158,15 +152,6 @@
                 <span class="time">2026-01-11 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68671d42a81e0ca3e81e8ddc/master/pass/Heat%20Protectors.png" alt="16 Best Heat Protectant Sprays for Wet and Dry Hair (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/the-best-heat-protectants-for-hair/" target="_blank">16 Best Heat Protectant Sprays for Wet and Dry Hair (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-11 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -179,6 +164,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/flameofudun/flutter-ecs-mastering-async-operations-and-complex-workflows-463g" target="_blank">Flutter ECS: Mastering Async Operations and Complex Workflows</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-11 19:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader" target="_blank">Open-source iCloud Photos Downloader (AKA escape from iCloud)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-11 19:23</span>
             </div>
         </div>
 <div class="story">
@@ -206,24 +209,6 @@
                 <span class="title"><a href="https://dev.to/robort-gabriel/ai-agents-automate-80-of-support-case-study-5793" target="_blank">AI Agents: Automate 80% of Support (Case Study)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-11 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9luxzmwvyotl9wwenau.gif" alt="Getting Started with 2D Games Using Pyxel (Part 8): Spawning Asteroids" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-8-spawning-asteroids-3an" target="_blank">Getting Started with 2D Games Using Pyxel (Part 8): Spawning Asteroids</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-11 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/aws-vpc-encryption-controls/en/headerimage/generatedHeaderImage-1767363220045.jpg" alt="AWS Introduces VPC Encryption Controls to Enforce Encryption in Transit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/aws-vpc-encryption-controls/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces VPC Encryption Controls to Enforce Encryption in Transit</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-11 14:10</span>
             </div>
         </div>
 </div>
@@ -304,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
