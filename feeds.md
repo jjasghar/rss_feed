@@ -1,43 +1,46 @@
-<!-- Processing 54 RSS feeds at 2026-01-11 12:02:26 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-01-11 13:10:33 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 34 feeds processed -->
+<!-- Generated 8 new posts out of 37 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, January 11, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, January 11, 2026 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,12 +57,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa0f/live/1ce1f880-eee8-11f0-b2af-2141ef517068.jpg" alt="Four killed and five injured in &#x27;head-on&#x27; crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0r45k245pvo?at_medium=RSS&at_campaign=rss" target="_blank">Four killed and five injured in &#x27;head-on&#x27; crash</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-11 13:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/11/iran-warns-us-it-will-retaliate-against-any-attack?traffic_source=rss" target="_blank">Iran warns US it will retaliate against any attack</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-11 12:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e0c/live/36c92b00-eeda-11f0-a422-4ba8a094a8fa.jpg" alt="I never saw young women on Epstein visits, Mandelson tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cd9el4dw0z3o?at_medium=RSS&at_campaign=rss" target="_blank">I never saw young women on Epstein visits, Mandelson tells BBC</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-11 11:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0efa/live/e83f7940-eec4-11f0-a422-4ba8a094a8fa.jpg" alt="Protesters defy crackdown as Iran warns it will retaliate if US attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss" target="_blank">Protesters defy crackdown as Iran warns it will retaliate if US attacks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-11 11:34</span>
             </div>
         </div>
 <div class="story">
@@ -80,38 +110,29 @@
                 <span class="time">2026-01-11 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/1/11/rallies-across-us-after-ice-agent-kills-renee-nicole-good-in-minneapolis?traffic_source=rss" target="_blank">Rallies across US after ICE agent kills Renee Nicole Good in Minneapolis</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-11 09:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/compare-contrast/2026/1/11/stopping-wars-or-waging-them?traffic_source=rss" target="_blank">Stopping wars or waging them?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-11 08:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/11/nx-s1-5673845/iran-us-israel-targets-protests" target="_blank">Iran warns US troops and Israel will be targets if America strikes over protests as death toll rises</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-11 07:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68671d42a81e0ca3e81e8ddc/master/pass/Heat%20Protectors.png" alt="16 Best Heat Protectant Sprays for Wet and Dry Hair (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/the-best-heat-protectants-for-hair/" target="_blank">16 Best Heat Protectant Sprays for Wet and Dry Hair (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-11 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/04/sun-over-ocean-500x500.jpg" alt="The oceans just keep getting hotter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/01/the-oceans-just-keep-getting-hotter/" target="_blank">The oceans just keep getting hotter</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-11 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69275715ca35020b3a07c608/master/pass/The%20Best%20Mattresses%20for%20Side%20Sleepers.png" alt="Best Side-Sleeper Mattresses 2026: Picked by a Sleep Science Coach" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,24 +169,6 @@
                 <span class="time">2026-01-10 21:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/10/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/" target="_blank">Indonesia blocks Grok over non-consensual, sexualized deepfakes</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-10 19:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/859777/amazfit-active-2-tracker-4k-uhd-blu-ray-deal-sale" target="_blank">Amazfit’s Active 2 tracker and Blu-rays are this week’s best deals</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-10 16:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,6 +181,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ahmedanterelsayed/from-math-teacher-to-data-science-web-development-my-coding-journeyintroduction-learning-4k58" target="_blank">From Math Teacher to Data Science &amp; Web Development: My Coding Journey#introduction #learning #webdev #python #datascience</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-11 12:52</span>
             </div>
         </div>
 <div class="story">
@@ -214,15 +226,6 @@
                 <span class="title"><a href="https://github.com/gibbok/typescript-book" target="_blank">The Concise TypeScript Book</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-11 05:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/himanshu_bhatt/html-101-5-text-formatting-quotes-code-formatting-4221" target="_blank">HTML-101 #5. Text Formatting, Quotes &amp; Code Formatting</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-11 05:00</span>
             </div>
         </div>
 </div>
@@ -303,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
