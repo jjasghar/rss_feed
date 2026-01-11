@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-11 17:01:27 UTC -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-01-11 18:02:09 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, January 11, 2026 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, January 11, 2026 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/11/nx-s1-5673942/historic-upset-soccer-fa-cup-macclesfield-beat-crystal-palace" target="_blank">Historic upset in English soccer&#x27;s FA Cup as Macclesfield beat holders Crystal Palace</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-11 17:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3498/live/1a330980-ef06-11f0-bff1-0379204eb6d3.jpg" alt="Four killed and five injured in head-on crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/11/nx-s1-5671132/after-venezuela-is-the-world-order-shifting-from-diplomacy-towards-aggression" target="_blank">After Venezuela, is the world order shifting from diplomacy towards aggression?</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-11 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/11/iran-warns-us-it-will-retaliate-against-any-attack?traffic_source=rss" target="_blank">Iran warns US it will retaliate against any attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-11 12:56</span>
             </div>
         </div>
 </div>
@@ -171,6 +172,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/robort-gabriel/ai-agents-automate-80-of-support-case-study-5793" target="_blank">AI Agents: Automate 80% of Support (Case Study)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-11 17:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9luxzmwvyotl9wwenau.gif" alt="Getting Started with 2D Games Using Pyxel (Part 8): Spawning Asteroids" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/ahmedanterelsayed/from-math-teacher-to-data-science-web-development-my-coding-journeyintroduction-learning-4k58" target="_blank">From Math Teacher to Data Science &amp; Web Development: My Coding Journey#introduction #learning #webdev #python #datascience</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-11 12:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-RISC-V-Side-Channel" target="_blank">Linux Lands Safeguard For RISC-V Against Another Microarchitectural Attack Vector</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-11 11:34</span>
             </div>
         </div>
 </div>
@@ -276,11 +277,25 @@
         </div>
 </div>
 </div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1767998058-20260111.png" alt="Saturday Morning Breakfast Cereal - Trojan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/trojan" target="_blank">Saturday Morning Breakfast Cereal - Trojan</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-01-11 16:20</span>
+            </div>
+        </div>
+</div>
+</div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
