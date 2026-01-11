@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-11 02:44:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-11 03:31:45 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 33 feeds processed -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, January 11, 2026 - 02:44 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, January 11, 2026 - 03:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/10/nx-s1-5673229/ice-protests-minneapolis-portland" target="_blank">Nationwide anti-ICE protests call for accountability after Renee Good&#x27;s death</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-11 03:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/11/kurdish-fighters-leave-syrias-aleppo-after-days-of-clashes?traffic_source=rss" target="_blank">Last Kurdish-led SDF fighters leave Syria’s Aleppo after days of clashes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-11 02:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed45/live/18aeb390-ed7e-11f0-a422-4ba8a094a8fa.jpg" alt="Google employee made redundant after reporting sexual harassment, court hears" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,24 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/10/nx-s1-5673238/reza-pahlavi-iran-protests" target="_blank">Who is Reza Pahlavi, the exiled Crown Prince encouraging demonstrations across Iran?</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-10 22:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768080702198_now_brk_syria_us_isis_260110_1920x1080-qq8b46.jpg" alt="U.S. carries out new strikes against ISIS targets in Syria" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/u-s-carries-out-new-strikes-against-isis-targets-in-syria-255748677938" target="_blank">U.S. carries out new strikes against ISIS targets in Syria</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-10 21:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251219-Dept-of-War-aa-542-35fa59.jpg" alt="U.S. launches &#x27;large-scale&#x27; strikes on ISIS targets across Syria" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/syria/us-strikes-isis-in-syria-rcna253353" target="_blank">U.S. launches &#x27;large-scale&#x27; strikes on ISIS targets across Syria</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-10 21:29</span>
             </div>
         </div>
 </div>
@@ -301,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 65 | 📡 Total Sources: 42 | 📸 With Images: 301 |
-        🔄 Last Updated: 02:44 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 42 | 📸 With Images: 299 |
+        🔄 Last Updated: 03:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
