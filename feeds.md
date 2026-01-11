@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-11 22:01:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-11 23:01:31 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, January 11, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, January 11, 2026 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b03b/live/fb6a9420-ef30-11f0-9875-11b0cf450f00.jpg" alt="Guantanamo detainee paid &#x27;substantial&#x27; compensation by UK to settle torture complicity case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2gelrxxr0o?at_medium=RSS&at_campaign=rss" target="_blank">Guantanamo detainee paid &#x27;substantial&#x27; compensation by UK to settle torture complicity case</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-11 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f96/live/25ea28f0-eef0-11f0-b5f7-49f0357294ff.jpg" alt="Iran warns it will retaliate if US attacks, as hundreds killed in protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/11/nx-s1-5673942/historic-upset-soccer-fa-cup-macclesfield-beat-crystal-palace" target="_blank">Historic upset in English soccer&#x27;s FA Cup as Macclesfield beat holders Crystal Palace</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-11 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3498/live/1a330980-ef06-11f0-bff1-0379204eb6d3.jpg" alt="Four killed and five injured in head-on crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0r45k245pvo?at_medium=RSS&at_campaign=rss" target="_blank">Four killed and five injured in head-on crash</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-11 16:39</span>
             </div>
         </div>
 </div>
@@ -171,6 +170,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqhcpbp3whipu3r3v2vit.png" alt="Kubernetes Services &amp; Ingress. project #1" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jumptotech/kubernetes-services-ingress-project-1-knl" target="_blank">Kubernetes Services &amp; Ingress. project #1</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-11 22:38</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -206,20 +214,20 @@
                 <span class="time">2026-01-11 19:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader" target="_blank">Open-source iCloud Photos Downloader (AKA escape from iCloud)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-11 19:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/shutterstock_2681240063-1280x853.jpg" alt="The 2026 Golden Globes Are Tonight. Here’s Everything You Need To Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-2026-golden-globes-are-tonight-heres-everything-you-need-to-know-2000708820" target="_blank">The 2026 Golden Globes Are Tonight. Here’s Everything You Need To Know</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-11 22:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Babbel-Language-Learning.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Travel hits different when you speak the language" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -236,24 +244,6 @@
                 <span class="title"><a href="https://gizmodo.com/star-wars-fans-havent-given-up-on-ben-solos-cinematic-return-2000708689" target="_blank">‘Star Wars’ Fans Haven’t Given Up on Ben Solo’s Cinematic Return</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-11 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/instagram-hq-1280x853.jpg" alt="Did You Get an Instagram Password Reset Email Recently? This Might Be the Very Unpleasant Reason" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/did-you-get-an-instagram-password-reset-email-recently-this-might-be-the-very-unpleasant-reason-2000708667" target="_blank">Did You Get an Instagram Password Reset Email Recently? This Might Be the Very Unpleasant Reason</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-10 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/Tesla-Diner-render-2-e1742737361244.webp?fit=1080%2C521&amp;quality=55&amp;ssl=1" alt="More staff than customers at Tesla diner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/10/more-staff-than-customers-at-tesla-diner.html" target="_blank">More staff than customers at Tesla diner</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-10 22:43</span>
             </div>
         </div>
 </div>
@@ -275,8 +265,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 66 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
