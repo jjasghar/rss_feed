@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-11 00:05:59 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-11 01:30:11 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, January 11, 2026 - 00:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, January 11, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/10/us-launches-large-scale-attacks-against-isil-in-syria-after-deadly-ambush?traffic_source=rss" target="_blank">US launches ‘large-scale’ attacks against ISIL in Syria after deadly ambush</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-10 23:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/syria-strike-jet-ht-jt-260110_1768082891005_hpMain_4x3t_384.jpg" alt="US carries out additional &#x27;large-scale&#x27; strikes on ISIS targets in Syria" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +103,20 @@
                 <span class="time">2026-01-10 21:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1e5/live/c59827a0-ee21-11f0-b5f7-49f0357294ff.jpg" alt="&#x27;There wasn&#x27;t even time for CPR&#x27;: Iran medics describe hospitals overwhelmed with dead and injured protesters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;There wasn&#x27;t even time for CPR&#x27;: Iran medics describe hospitals overwhelmed with dead and injured protesters</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-10 19:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/10/spacex-gets-fcc-approval-to-launch-7500-more-starlink-satellites/" target="_blank">SpaceX gets FCC approval to launch 7,500 more Starlink satellites</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-10 22:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +162,6 @@
                 <span class="time">2026-01-10 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6961b2a91b3b398b136386fa/master/pass/The%20Best%20Deals%20for%20New%20Year%E2%80%99s%20Resolutions.png" alt="Best Deals for New Year’s Resolutions: Sleep, Fitness, and More (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/new-years-resolution-deals-2026/" target="_blank">Best Deals for New Year’s Resolutions: Sleep, Fitness, and More (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-10 12:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +174,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7z0np1vta6t5gpzdtgur.jpg" alt="Vibe coding: Time Zone Clock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/eseguru/vibe-coding-time-zone-clock-5bjc" target="_blank">Vibe coding: Time Zone Clock</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-11 01:15</span>
             </div>
         </div>
 <div class="story">
@@ -204,15 +219,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/01/claude-code-creator-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Inside the Development Workflow of Claude Code&#x27;s Creator</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-01-10 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Budgie-10.10-Released" target="_blank">Budgie 10.10 Released: Officially Migrated From X11 To Wayland</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-10 20:04</span>
             </div>
         </div>
 </div>
@@ -293,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 41 | 📸 With Images: 300 |
-        🔄 Last Updated: 00:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 41 | 📸 With Images: 300 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
