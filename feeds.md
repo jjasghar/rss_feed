@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-11 21:01:45 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-11 22:01:23 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, January 11, 2026 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, January 11, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -61,6 +62,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-la-plagne-ski-resort_7132931.jpg?20260111195451" alt="British skier killed in avalanche in French Alps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/british-skier-killed-in-avalanche-in-french-alps-13493204" target="_blank">British skier killed in avalanche in French Alps</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-11 19:47</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -87,20 +97,20 @@
                 <span class="time">2026-01-11 16:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/TW-TINA-SMITH-20260111-ABC-JH_1768139283906_hpMain_4x3t_384.jpeg" alt="Minnesota senator: White House &#x27;attempting to cover up&#x27; Good shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/minnesota-senator-white-house-attempting-cover-good-shooting/story?id=129100690" target="_blank">Minnesota senator: White House &#x27;attempting to cover up&#x27; Good shooting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-11 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/anaconda3-500x500-1768069762.jpg" alt="That time Will Smith helped discover new species of anaconda" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/01/that-time-will-smith-helped-discover-new-species-of-anaconda/" target="_blank">That time Will Smith helped discover new species of anaconda</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-11 20:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +156,6 @@
                 <span class="time">2026-01-11 15:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/859724/wing-walmart-drone-delivery-expansion-2027" target="_blank">Wing’s drone delivery is coming to 150 more Walmarts</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-11 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,12 +171,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/" target="_blank">The struggle of resizing windows on macOS Tahoe</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-11 20:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1s9cv7ii3pop6ve63v80.png" alt="Building a Regulatory-Compliant Accessibility Scanner: From WCAG to Legal Compliance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/labontese/building-a-regulatory-compliant-accessibility-scanner-from-wcag-to-legal-compliance-38an" target="_blank">Building a Regulatory-Compliant Accessibility Scanner: From WCAG to Legal Compliance</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-11 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linutronix-New-Chapter" target="_blank">Linux Consulting Firm Linutronix Recently Began A New Chapter</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-11 20:21</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +213,6 @@
                 <span class="title"><a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader" target="_blank">Open-source iCloud Photos Downloader (AKA escape from iCloud)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-11 19:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/helloimabid/i-built-a-study-timer-competitor-that-converted-my-procrastination-into-a-game-420i" target="_blank">I Built a Study Timer Competitor That Converted My Procrastination into a Game</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-11 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/" target="_blank">Meta Announces Nuclear Energy Projects, Unlocking Up to 6.6 GW</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-11 18:49</span>
             </div>
         </div>
 </div>
@@ -255,24 +256,6 @@
                 <span class="time">2026-01-10 22:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Costco-1-Year-Gold-Star-Membership.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Join Costco as a Gold Star Member and Receive a $20 Digital Costco Shop Card*" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/10/join-costco-as-a-gold-star-member-and-receive-a-20-digital-costco-shop-card.html" target="_blank">Join Costco as a Gold Star Member and Receive a $20 Digital Costco Shop Card*</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-10 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/tron-ares-streaming-jared-leto-1280x853.jpg" alt="SAG-AFTRA Is Keeping an Eye on the Disney/OpenAI Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sag-aftra-is-keeping-an-eye-on-the-disney-openai-deal-2000708414" target="_blank">SAG-AFTRA Is Keeping an Eye on the Disney/OpenAI Deal</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-10 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +275,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
