@@ -1,28 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-11 16:02:10 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-01-11 17:01:27 UTC -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 2 new posts out of 20 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, January 11, 2026 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, January 11, 2026 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3498/live/1a330980-ef06-11f0-bff1-0379204eb6d3.jpg" alt="Four killed and five injured in head-on crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0r45k245pvo?at_medium=RSS&at_campaign=rss" target="_blank">Four killed and five injured in head-on crash</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-11 16:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/TW-TINA-SMITH-20260111-ABC-JH_1768139283906_hpMain_4x3t_384.jpeg" alt="Minnesota senator: White House &#x27;attempting to cover up&#x27; Good shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,20 +97,20 @@
                 <span class="time">2026-01-11 12:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e0c/live/36c92b00-eeda-11f0-a422-4ba8a094a8fa.jpg" alt="I never saw young women on Epstein visits, Mandelson tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd9el4dw0z3o?at_medium=RSS&at_campaign=rss" target="_blank">I never saw young women on Epstein visits, Mandelson tells BBC</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-11 11:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/860329/gamestop-is-kicking-off-2026-by-shutting-down-over-400-stores-in-42-states" target="_blank">GameStop is kicking off 2026 by shutting down over 400 stores in 42 states</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-11 16:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,15 +156,6 @@
                 <span class="time">2026-01-11 10:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/10/spacex-gets-fcc-approval-to-launch-7500-more-starlink-satellites/" target="_blank">SpaceX gets FCC approval to launch 7,500 more Starlink satellites</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-10 22:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +177,15 @@
                 <span class="title"><a href="https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-8-spawning-asteroids-3an" target="_blank">Getting Started with 2D Games Using Pyxel (Part 8): Spawning Asteroids</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-11 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/aws-vpc-encryption-controls/en/headerimage/generatedHeaderImage-1767363220045.jpg" alt="AWS Introduces VPC Encryption Controls to Enforce Encryption in Transit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/aws-vpc-encryption-controls/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces VPC Encryption Controls to Enforce Encryption in Transit</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-11 14:10</span>
             </div>
         </div>
 <div class="story">
@@ -201,20 +215,20 @@
                 <span class="time">2026-01-11 11:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://antirez.com/news/158" target="_blank">Don&#x27;t fall into the anti-AI hype</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-11 10:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Adam-Driver-Ben-Solo-Star-Wars-1280x853.jpg" alt="‘Star Wars’ Fans Haven’t Given Up on Ben Solo’s Cinematic Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-wars-fans-havent-given-up-on-ben-solos-cinematic-return-2000708689" target="_blank">‘Star Wars’ Fans Haven’t Given Up on Ben Solo’s Cinematic Return</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-11 15:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/instagram-hq-1280x853.jpg" alt="Did You Get an Instagram Password Reset Email Recently? This Might Be the Very Unpleasant Reason" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,36 +274,13 @@
                 <span class="time">2026-01-10 19:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/avengers-doomsday-rdj-1280x853.jpg" alt="Marvel Has Its Best-Selling Comic in Years Thanks to Robert Downey Jr." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/marvel-has-its-best-selling-comic-in-years-thanks-to-robert-downey-jr-2000708440" target="_blank">Marvel Has Its Best-Selling Comic in Years Thanks to Robert Downey Jr.</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-10 17:25</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1767998026-20260110.png" alt="Saturday Morning Breakfast Cereal - Ethics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/ethics-9" target="_blank">Saturday Morning Breakfast Cereal - Ethics</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-10 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
