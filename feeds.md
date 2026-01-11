@@ -1,46 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-11 13:10:33 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-01-11 14:01:20 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 37 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, January 11, 2026 - 13:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, January 11, 2026 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -68,6 +58,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/11/nx-s1-5671132/after-venezuela-is-the-world-order-shifting-from-diplomacy-towards-aggression" target="_blank">After Venezuela, is the world order shifting from diplomacy towards aggression?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-11 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/11/iran-warns-us-it-will-retaliate-against-any-attack?traffic_source=rss" target="_blank">Iran warns US it will retaliate against any attack</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -84,30 +83,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f96/live/25ea28f0-eef0-11f0-b5f7-49f0357294ff.jpg" alt="Iran warns it will retaliate if US attacks as protesters defy crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss" target="_blank">Iran warns it will retaliate if US attacks as protesters defy crackdown</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-11 11:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0efa/live/e83f7940-eec4-11f0-a422-4ba8a094a8fa.jpg" alt="Protesters defy crackdown as Iran warns it will retaliate if US attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss" target="_blank">Protesters defy crackdown as Iran warns it will retaliate if US attacks</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-11 11:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251231-minnesota-health-services-mn-0936-9f396b.jpg" alt="How ICE raids in Minnesota connect to a years-old fraud scandal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/tech/internet/ice-raids-minnesota-connect-years-old-fraud-scandal-rcna253151" target="_blank">How ICE raids in Minnesota connect to a years-old fraud scandal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-11 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/11/nx-s1-5666843/venezuelas-exiles-in-chile-caught-between-hope-and-uncertainty" target="_blank">Venezuela&#x27;s exiles in Chile caught between hope and uncertainty</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-11 11:00</span>
             </div>
         </div>
 </div>
@@ -184,6 +174,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/..%2Fimages%2Fimage-20260106141440101.png" alt="[TIL] A Three-Hour Interview with Ji Yichao, Chief Scientist at Manus (Acquired by Meta)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/evanlin/til-a-three-hour-interview-with-ji-yichao-chief-scientist-at-manus-acquired-by-meta-5c9e" target="_blank">[TIL] A Three-Hour Interview with Ji Yichao, Chief Scientist at Manus (Acquired by Meta)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-11 13:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -217,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/jiwoomap/building-a-remembering-ai-trading-agent-with-python-langgraph-and-obsidian-30hn" target="_blank">Building a &quot;Remembering&quot; AI Trading Agent with Python, LangGraph, and Obsidian</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-11 09:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/gibbok/typescript-book" target="_blank">The Concise TypeScript Book</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-11 05:42</span>
             </div>
         </div>
 </div>
@@ -306,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
