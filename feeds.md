@@ -1,28 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-11 09:01:33 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-11 10:01:45 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 20 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, January 11, 2026 - 09:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, January 11, 2026 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/1/11/rallies-across-us-after-ice-agent-kills-renee-nicole-good-in-minneapolis?traffic_source=rss" target="_blank">Rallies across US after ICE agent kills Renee Nicole Good in Minneapolis</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-11 09:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,15 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss" target="_blank">Iran protesters defy crackdown as videos show violent clashes</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-11 05:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/10/nx-s1-5673229/ice-protests-minneapolis-portland" target="_blank">Nationwide anti-ICE protests call for accountability after Renee Good&#x27;s death</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-11 03:07</span>
             </div>
         </div>
 </div>
@@ -166,6 +171,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foe2imql6s1bubc1if40u.gif" alt="Building a &quot;Remembering&quot; AI Trading Agent with Python, LangGraph, and Obsidian" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jiwoomap/building-a-remembering-ai-trading-agent-with-python-langgraph-and-obsidian-30hn" target="_blank">Building a &quot;Remembering&quot; AI Trading Agent with Python, LangGraph, and Obsidian</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-11 09:52</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -199,15 +213,6 @@
                 <span class="title"><a href="https://github.com/OlaProeis/Ferrite" target="_blank">Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-11 01:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7z0np1vta6t5gpzdtgur.jpg" alt="Vibe coding: Time Zone Clock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/eseguru/vibe-coding-time-zone-clock-5bjc" target="_blank">Vibe coding: Time Zone Clock</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-11 01:15</span>
             </div>
         </div>
 </div>
@@ -288,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 65 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
