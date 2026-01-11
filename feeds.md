@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-10 23:01:49 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-11 00:05:59 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, January 10, 2026 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, January 11, 2026 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -65,6 +62,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768080702198_now_brk_syria_us_isis_260110_1920x1080-qq8b46.jpg" alt="U.S. carries out new strikes against ISIS targets in Syria" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/u-s-carries-out-new-strikes-against-isis-targets-in-syria-255748677938" target="_blank">U.S. carries out new strikes against ISIS targets in Syria</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-10 21:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251219-Dept-of-War-aa-542-35fa59.jpg" alt="U.S. launches &#x27;large-scale&#x27; strikes on ISIS targets across Syria" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -89,15 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;There wasn&#x27;t even time for CPR&#x27;: Iran medics describe hospitals overwhelmed with dead and injured protesters</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-10 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/1/10/what-are-saudi-arabias-plans-in-southern-yemen?traffic_source=rss" target="_blank">What are Saudi Arabia’s plans in southern Yemen?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-10 19:33</span>
             </div>
         </div>
 </div>
@@ -176,10 +173,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://news.ycombinator.com/item?id=46571149" target="_blank">Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-10 23:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ghamdandev/build-a-robust-offline-first-flutter-app-with-bloc-dio-and-sqflite-51f5" target="_blank">Build a Robust Offline-First Flutter App with BLoC, Dio, and Sqflite</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-10 22:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/gaming/light-waves-rising-tides-and-drifting-ships-game-off-2025-winners/" target="_blank">Light waves, rising tides, and drifting ships: Game Off 2025 winners</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-01-10 21:36</span>
             </div>
         </div>
 <div class="story">
@@ -200,29 +215,29 @@
                 <span class="time">2026-01-10 20:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://trails.pieterma.es/" target="_blank">Show HN: I used Claude Code to discover connections between 100 books</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-10 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="VitaGuard: My First Real-Time Linux System Health Monitor in Bash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/navickas/vitaguard-my-first-real-time-linux-system-health-monitor-in-bash-plm" target="_blank">VitaGuard: My First Real-Time Linux System Health Monitor in Bash</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-10 16:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/instagram-hq-1280x853.jpg" alt="Did You Get an Instagram Password Reset Email Recently? This Might Be the Very Unpleasant Reason" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/did-you-get-an-instagram-password-reset-email-recently-this-might-be-the-very-unpleasant-reason-2000708667" target="_blank">Did You Get an Instagram Password Reset Email Recently? This Might Be the Very Unpleasant Reason</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-10 22:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Costco-1-Year-Gold-Star-Membership.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Join Costco as a Gold Star Member and Receive a $20 Digital Costco Shop Card*" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/10/join-costco-as-a-gold-star-member-and-receive-a-20-digital-costco-shop-card.html" target="_blank">Join Costco as a Gold Star Member and Receive a $20 Digital Costco Shop Card*</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-10 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/tron-ares-streaming-jared-leto-1280x853.jpg" alt="SAG-AFTRA Is Keeping an Eye on the Disney/OpenAI Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,24 +274,6 @@
                 <span class="time">2026-01-10 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/spinner-dolphins-1280x853.jpg" alt="The World’s Oceans Soaked Up Record-Breaking Heat for the 9th Straight Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-worlds-oceans-soaked-up-record-breaking-heat-for-the-9th-straight-year-2000708348" target="_blank">The World’s Oceans Soaked Up Record-Breaking Heat for the 9th Straight Year</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-10 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/vaccine.jpg?fit=600%2C599&amp;quality=60&amp;ssl=1" alt="A preventable outbreak: measles spreads where vaccines didn&#x27;t" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/09/a-preventable-outbreak-measles-spreads-where-vaccines-didnt.html" target="_blank">A preventable outbreak: measles spreads where vaccines didn&#x27;t</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-10 00:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -291,22 +288,13 @@
                 <span class="time">2026-01-10 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/09/cool-new-shit-on-store" target="_blank">Cool New Shit On Store!!!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-09 23:14</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 73 | 📡 Total Sources: 41 | 📸 With Images: 300 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 41 | 📸 With Images: 300 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
