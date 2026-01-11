@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-11 05:06:25 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-11 06:02:12 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 1 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, January 11, 2026 - 05:06 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, January 11, 2026 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ffa/live/dc852db0-eea7-11f0-b5f7-49f0357294ff.jpg" alt="Iran protesters defy crackdown as videos show violent clashes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss" target="_blank">Iran protesters defy crackdown as videos show violent clashes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-11 05:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +100,6 @@
                 <span class="title"><a href="https://abcnews.go.com/International/us-carries-additional-large-scale-strikes-isis-targets/story?id=129091171" target="_blank">US carries out additional &#x27;large-scale&#x27; strikes on ISIS targets in Syria</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-10 22:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/10/nx-s1-5673238/reza-pahlavi-iran-protests" target="_blank">Who is Reza Pahlavi, the exiled Crown Prince encouraging demonstrations across Iran?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-10 22:10</span>
             </div>
         </div>
 </div>
@@ -292,7 +299,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 299 |
-        🔄 Last Updated: 05:06 UTC
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
