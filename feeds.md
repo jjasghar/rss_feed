@@ -1,29 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-11 20:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-11 21:01:45 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, January 11, 2026 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, January 11, 2026 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f96/live/25ea28f0-eef0-11f0-b5f7-49f0357294ff.jpg" alt="Iran warns it will retaliate if US attacks, as hundreds killed in protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss" target="_blank">Iran warns it will retaliate if US attacks, as hundreds killed in protests</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-11 20:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,15 +94,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/minnesota-senator-white-house-attempting-cover-good-shooting/story?id=129100690" target="_blank">Minnesota senator: White House &#x27;attempting to cover up&#x27; Good shooting</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-11 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/1/11/iran-protests-live-tehran-says-it-will-hit-back-at-us-israel-if-attacked?traffic_source=rss" target="_blank">Iran protests live: Tehran says it will hit back at US, Israel if attacked</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-11 14:34</span>
             </div>
         </div>
 </div>
@@ -167,6 +170,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1s9cv7ii3pop6ve63v80.png" alt="Building a Regulatory-Compliant Accessibility Scanner: From WCAG to Legal Compliance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/labontese/building-a-regulatory-compliant-accessibility-scanner-from-wcag-to-legal-compliance-38an" target="_blank">Building a Regulatory-Compliant Accessibility Scanner: From WCAG to Legal Compliance</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-11 20:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,15 +212,6 @@
                 <span class="title"><a href="https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/" target="_blank">Meta Announces Nuclear Energy Projects, Unlocking Up to 6.6 GW</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-11 18:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/robort-gabriel/ai-agents-automate-80-of-support-case-study-5793" target="_blank">AI Agents: Automate 80% of Support (Case Study)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-11 17:57</span>
             </div>
         </div>
 </div>
@@ -289,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
