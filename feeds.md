@@ -1,34 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-01-11 18:02:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-11 19:01:20 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, January 11, 2026 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, January 11, 2026 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/11/nx-s1-5673949/dhs-restricts-congressional-visits-to-ice-facilities-in-minneapolis-with-new-policy" target="_blank">DHS restricts congressional visits to ICE facilities in Minneapolis with new policy</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-11 18:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +108,29 @@
                 <span class="time">2026-01-11 13:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/11/nx-s1-5671132/after-venezuela-is-the-world-order-shifting-from-diplomacy-towards-aggression" target="_blank">After Venezuela, is the world order shifting from diplomacy towards aggression?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-11 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/855851/new-years-resolution-gifts-ideas-2026-tech-gadgets-fitness" target="_blank">Here are over 20 gadgets that’ll help you achieve your New Year’s resolutions</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-11 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/" target="_blank">Google removes AI Overviews for certain medical queries</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-11 17:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +167,6 @@
                 <span class="time">2026-01-11 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/04/sun-over-ocean-500x500.jpg" alt="The oceans just keep getting hotter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/01/the-oceans-just-keep-getting-hotter/" target="_blank">The oceans just keep getting hotter</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-11 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69275715ca35020b3a07c608/master/pass/The%20Best%20Mattresses%20for%20Side%20Sleepers.png" alt="Best Side-Sleeper Mattresses 2026: Picked by a Sleep Science Coach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-mattress-for-side-sleeper/" target="_blank">Best Side-Sleeper Mattresses 2026: Picked by a Sleep Science Coach</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-11 10:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +179,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/helloimabid/i-built-a-study-timer-competitor-that-converted-my-procrastination-into-a-game-420i" target="_blank">I Built a Study Timer Competitor That Converted My Procrastination into a Game</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-11 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/" target="_blank">Meta Announces Nuclear Energy Projects, Unlocking Up to 6.6 GW</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-11 18:49</span>
             </div>
         </div>
 <div class="story">
@@ -198,29 +226,20 @@
                 <span class="time">2026-01-11 14:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/..%2Fimages%2Fimage-20260106141440101.png" alt="[TIL] A Three-Hour Interview with Ji Yichao, Chief Scientist at Manus (Acquired by Meta)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/evanlin/til-a-three-hour-interview-with-ji-yichao-chief-scientist-at-manus-acquired-by-meta-5c9e" target="_blank">[TIL] A Three-Hour Interview with Ji Yichao, Chief Scientist at Manus (Acquired by Meta)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-11 13:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ahmedanterelsayed/from-math-teacher-to-data-science-web-development-my-coding-journeyintroduction-learning-4k58" target="_blank">From Math Teacher to Data Science &amp; Web Development: My Coding Journey#introduction #learning #webdev #python #datascience</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-11 12:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Babbel-Language-Learning.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Travel hits different when you speak the language" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/11/travel-hits-different-when-you-speak-the-language.html" target="_blank">Travel hits different when you speak the language</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-11 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Adam-Driver-Ben-Solo-Star-Wars-1280x853.jpg" alt="‘Star Wars’ Fans Haven’t Given Up on Ben Solo’s Cinematic Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +285,6 @@
                 <span class="time">2026-01-10 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/baldurs-gate-3-wyll-1280x853.jpg" alt="A ‘Baldur’s Gate 3’ Writer Explains Wyll’s Disappointing Arc" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-baldurs-gate-3-writer-explains-wylls-disappointing-arc-2000708297" target="_blank">A ‘Baldur’s Gate 3’ Writer Explains Wyll’s Disappointing Arc</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-10 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
