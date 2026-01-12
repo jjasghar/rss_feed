@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-12 00:05:54 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-12 01:29:58 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, January 12, 2026 - 00:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, January 12, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251210-jerome-powell-jg-09d05b.jpg" alt="Federal Reserve hit with DOJ subpoenas in criminal probe over Chair Jerome Powell testimony" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/fed-jerome-powell-doj-investigation-rcna253517" target="_blank">Federal Reserve hit with DOJ subpoenas in criminal probe over Chair Jerome Powell testimony</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-12 00:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +102,20 @@
                 <span class="time">2026-01-11 19:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/11/nx-s1-5673949/dhs-restricts-congressional-visits-to-ice-facilities-in-minneapolis-with-new-policy" target="_blank">DHS restricts congressional visits to ICE facilities in Minneapolis with new policy</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-11 18:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/" target="_blank">Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-12 00:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,15 +161,6 @@
                 <span class="time">2026-01-11 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/" target="_blank">Google removes AI Overviews for certain medical queries</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-11 17:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +173,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.youtube.com/watch?v=KckGHaBLSn4" target="_blank">Statement by Federal Reserve Chair Jerome F. Powell [video]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-12 01:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frli56aeyvrvoe1pexzag.png" alt="FastAPI from Zero: Writing Your First API Route" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tekeu_franck_6dfe86e6f54c/fastapi-from-zero-writing-your-first-api-route-3gde" target="_blank">FastAPI from Zero: Writing Your First API Route</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-12 00:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-rc5-char-misc" target="_blank">Latest Linux 6.19 Code Fixes Rust Binder Driver, Adds Intel Nova Lake Point S To MEI</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-11 23:10</span>
             </div>
         </div>
 <div class="story">
@@ -196,33 +220,6 @@
                 <span class="time">2026-01-11 20:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1s9cv7ii3pop6ve63v80.png" alt="Building a Regulatory-Compliant Accessibility Scanner: From WCAG to Legal Compliance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/labontese/building-a-regulatory-compliant-accessibility-scanner-from-wcag-to-legal-compliance-38an" target="_blank">Building a Regulatory-Compliant Accessibility Scanner: From WCAG to Legal Compliance</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-11 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linutronix-New-Chapter" target="_blank">Linux Consulting Firm Linutronix Recently Began A New Chapter</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-11 20:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/flameofudun/flutter-ecs-mastering-async-operations-and-complex-workflows-463g" target="_blank">Flutter ECS: Mastering Async Operations and Complex Workflows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-11 19:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -235,6 +232,15 @@
                 <span class="title"><a href="https://gizmodo.com/the-2026-golden-globes-are-tonight-heres-everything-you-need-to-know-2000708820" target="_blank">The 2026 Golden Globes Are Tonight. Here’s Everything You Need To Know</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-11 22:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/newvegas-e1761047691108.jpg?fit=768%2C429&amp;quality=60&amp;ssl=1" alt="Microsoft court docs hint at Fallout 3 and New Vegas remasters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/11/microsoft-court-docs-hint-at-fallout-3-and-new-vegas-remasters.html" target="_blank">Microsoft court docs hint at Fallout 3 and New Vegas remasters</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-11 22:31</span>
             </div>
         </div>
 <div class="story">
@@ -274,8 +280,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 00:06 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
