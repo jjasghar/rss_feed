@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-12 10:02:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-12 11:02:08 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, January 12, 2026 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, January 12, 2026 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -174,6 +171,33 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/articles/spec-driven-development/en/headerimage/spec-driven-development-header-1767777707872.jpg" alt="Article: Spec Driven Development: When Architecture Becomes Executable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/spec-driven-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Spec Driven Development: When Architecture Becomes Executable</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-12 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lubo08/flutter-is-becoming-the-industrial-ui-standard-1if4" target="_blank">Flutter Is Becoming the Industrial UI Standard</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-12 10:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Budgie-11-Using-Qt6" target="_blank">Budgie 11 Desktop Being Developed With The Qt6 Toolkit</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-12 10:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2Fpako%3AeNptUl9v2jAQ_yrWPW1SioiTjJCHSUCKRGmnSZlaqQmaTOwGr4kdGZuVAd99dtJ20TY_2b7fP93dCUpJGSRQiEqRdoe-pYVA9uzNtv8o4FaWpEbX4sCVFA0TuoAe485tlvf1VP4UtSR0j5aypkxt0NXV5_MdEaRijoQWsmmIoGeU3uTpDyIqiWZtu_kjtcjuc2Io19-fuCD1qNwfepF7pvgTL4nmUjh6T2GCFuKfsLOHDGXBMGF604lspZbBGc39_MNXxRuijhaH5qZ8ZvrjIMXc7-C2lh1FaQnYEsy25iVapF_-Ivw_Q8pqfmDqOEwxx04Wrdb5qrEdWXPt5Aa-q3UHWF7nS9tmbZWHHuBBw1RDOLWzOrlCAXpnG1tAYq-UqGfndrE4YrR00SHRyjAPlDTV7u1hWko0SzmxWZu3z5aIRynfn5VyLq9k687UQhqhIfHDDgvJCV4giXA8moY4GodxjGMfRx4cIQnxCPtxGEz8aRjjEOOLB7868fFoEk8nOJiO_SjwgzD65AGz05bqrl_BbhMvvwEZU8hl%3Ftype%3Dpng" alt="Mastering Django Image Migrations: Local to S3, CDNs, and Beyond!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -189,33 +213,6 @@
                 <span class="title"><a href="https://dev.to/surhidamatya/notifications-are-not-just-messages-they-are-memory-triggers-2968" target="_blank">Notifications Are Not Just Messages. They Are Memory Triggers.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-12 09:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/facts-benchmark-suite/en/headerimage/generatedHeaderImage-1768203054355.jpg" alt="FACTS Benchmark Suite Introduced to Evaluate Factual Accuracy of Large Language Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/facts-benchmark-suite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">FACTS Benchmark Suite Introduced to Evaluate Factual Accuracy of Large Language Models</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-12 07:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mehwish_malik_4f29ff7fb04/eu-digital-omnibus-new-requirements-for-websites-and-online-services-b0k" target="_blank">EU Digital Omnibus: New Requirements for Websites and Online Services</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-12 07:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/eu-open-source-strategy-call-2026/" target="_blank">Europe Has a New Plan to Break Free from US Tech Dominance</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-12 07:47</span>
             </div>
         </div>
 </div>
@@ -305,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
