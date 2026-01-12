@@ -1,5 +1,7 @@
-<!-- Processing 54 RSS feeds at 2026-01-12 13:14:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-12 14:04:07 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
@@ -7,26 +9,35 @@
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 11 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, January 12, 2026 - 13:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, January 12, 2026 - 14:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +54,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/12/syrian-forces-search-for-explosives-weapons-after-sdf-pulls-out-of-aleppo?traffic_source=rss" target="_blank">Syrian forces search for explosives, weapons after SDF pulls out of Aleppo</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-12 13:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f1/live/5a6ee9f0-efb6-11f0-b5f7-49f0357294ff.jpg" alt="Former Tory chancellor Nadhim Zahawi defects to Reform UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c0lxn75gw1do?at_medium=RSS&at_campaign=rss" target="_blank">Former Tory chancellor Nadhim Zahawi defects to Reform UK</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-12 12:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768220885483_tdy_news_7a_haake_powell_fed_reserve_subpoenas_260112_1920x1080-sw2tow.jpg" alt="Fed Chair Jerome Powell Says He&#x27;s Being Investigated By DOJ" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-denies-involvement-in-jerome-powell-subpoenas-255789125799" target="_blank">Fed Chair Jerome Powell Says He&#x27;s Being Investigated By DOJ</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-12 12:28</span>
             </div>
         </div>
 <div class="story">
@@ -78,24 +107,6 @@
                 <span class="time">2026-01-12 10:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/12/nx-s1-5658282/how-to-responsibly-recycle-your-childrens-old-toys" target="_blank">How to responsibly recycle your children&#x27;s old toys</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-12 09:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-air-force-one-donald-trump_7133158.jpg?20260112084521" alt="Trump wants a deal but insists US will acquire Greenland &#x27;one way or the other&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-wants-a-deal-but-insists-us-will-acquire-greenland-one-way-or-the-other-13493311" target="_blank">Trump wants a deal but insists US will acquire Greenland &#x27;one way or the other&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-12 08:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -111,12 +122,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/68c1e7369f996c85f0188f7a/master/pass/The%207%20Best%20Travel%20Cameras.png" alt="Best Travel Cameras (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-travel-cameras/" target="_blank">Best Travel Cameras (2026), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-12 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6961c5bf88957c47d63b2b20/master/pass/The%20Best%20Pet%20Cameras%20for%20Dogs%20and%20Cats2_.png" alt="10 Best Pet Cameras (2026), Tested With Our Pets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
                 <span class="title"><a href="https://www.wired.com/gallery/best-pet-cameras/" target="_blank">10 Best Pet Cameras (2026), Tested With Our Pets</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-01-12 11:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/AIO-e1767961619910-500x500.jpg" alt="The most fascinating monitors at CES 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/the-most-fascinating-monitors-at-ces-2026/" target="_blank">The most fascinating monitors at CES 2026</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-12 11:30</span>
             </div>
         </div>
 <div class="story">
@@ -137,24 +166,6 @@
                 <span class="time">2026-01-12 08:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/11/indrive-turns-to-ads-and-groceries-to-diversify-revenue/" target="_blank">inDrive turns to ads and groceries to diversify revenue</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-12 05:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/" target="_blank">Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-12 00:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +178,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kvishal1012/building-geoai-models-from-spatial-data-to-actionable-insights-2kn2" target="_blank">Building GeoAI Models: From Spatial Data to Actionable Insights</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-12 14:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18816096&w=600" alt="Pragmatic Paths to On-Device AI on Android with ML Kit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/Permalinkpragmatic-paths-to-on-device-ai-on-android-with-ml-kit" target="_blank">Pragmatic Paths to On-Device AI on Android with ML Kit</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-12 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +225,6 @@
                 <span class="time">2026-01-12 10:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2Fpako%3AeNptUl9v2jAQ_yrWPW1SioiTjJCHSUCKRGmnSZlaqQmaTOwGr4kdGZuVAd99dtJ20TY_2b7fP93dCUpJGSRQiEqRdoe-pYVA9uzNtv8o4FaWpEbX4sCVFA0TuoAe485tlvf1VP4UtSR0j5aypkxt0NXV5_MdEaRijoQWsmmIoGeU3uTpDyIqiWZtu_kjtcjuc2Io19-fuCD1qNwfepF7pvgTL4nmUjh6T2GCFuKfsLOHDGXBMGF604lspZbBGc39_MNXxRuijhaH5qZ8ZvrjIMXc7-C2lh1FaQnYEsy25iVapF_-Ivw_Q8pqfmDqOEwxx04Wrdb5qrEdWXPt5Aa-q3UHWF7nS9tmbZWHHuBBw1RDOLWzOrlCAXpnG1tAYq-UqGfndrE4YrR00SHRyjAPlDTV7u1hWko0SzmxWZu3z5aIRynfn5VyLq9k687UQhqhIfHDDgvJCV4giXA8moY4GodxjGMfRx4cIQnxCPtxGEz8aRjjEOOLB7868fFoEk8nOJiO_SjwgzD65AGz05bqrl_BbhMvvwEZU8hl%3Ftype%3Dpng" alt="Mastering Django Image Migrations: Local to S3, CDNs, and Beyond!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ajitkumar/mastering-django-image-migrations-local-to-s3-cdns-and-beyond-2kn7" target="_blank">Mastering Django Image Migrations: Local to S3, CDNs, and Beyond!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-12 09:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdc4q4vf6jx254gck3x3f.png" alt="Notifications Are Not Just Messages. They Are Memory Triggers." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/surhidamatya/notifications-are-not-just-messages-they-are-memory-triggers-2968" target="_blank">Notifications Are Not Just Messages. They Are Memory Triggers.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-12 09:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +244,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/SHOKZ-PRO-BONE-1280x853.jpg" alt="Shokz Starts Open-Ear Sports Headphone Clearance With OpenRun Pro Bone-Conduction Headphones at Their Lowest Price Since Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/shokz-starts-open-ear-sports-headphone-clearance-with-openrun-pro-bone-conduction-headphones-at-their-lowest-price-since-launch-2000658302" target="_blank">Shokz Starts Open-Ear Sports Headphone Clearance With OpenRun Pro Bone-Conduction Headphones at Their Lowest Price Since Launch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-12 13:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/It-is-what-it-is.jpg?fit=2016%2C1080&amp;quality=60&amp;ssl=1" alt="Malaysia and Indonesia block Grok over deepfake sexual abuse material" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/12/malaysia-and-indonesia-block-grok-over-deepfake-sexual-abuse-material.html" target="_blank">Malaysia and Indonesia block Grok over deepfake sexual abuse material</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-12 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/golden-globes-genre-1280x853.jpg" alt="The Golden Globes Belonged to ‘KPop Demon Hunters’ and ‘Sinners’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-golden-globes-belonged-to-kpop-demon-hunters-and-sinners-2000708843" target="_blank">The Golden Globes Belonged to ‘KPop Demon Hunters’ and ‘Sinners’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-12 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/eso2601a-1280x853.jpg" alt="This Dead Star With a Glowing Shock Wave Shouldn’t Exist" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -258,33 +296,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/11/this-goats-goofy-face-is-actually-a-sophisticated-smelling-technique.html" target="_blank">This goat&#x27;s goofy face is actually a sophisticated smelling technique</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-11 22:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/newvegas-e1761047691108.jpg?fit=768%2C429&amp;quality=60&amp;ssl=1" alt="Microsoft court docs hint at Fallout 3 and New Vegas remasters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/11/microsoft-court-docs-hint-at-fallout-3-and-new-vegas-remasters.html" target="_blank">Microsoft court docs hint at Fallout 3 and New Vegas remasters</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-11 22:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Babbel-Language-Learning.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Travel hits different when you speak the language" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/11/travel-hits-different-when-you-speak-the-language.html" target="_blank">Travel hits different when you speak the language</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-11 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Adam-Driver-Ben-Solo-Star-Wars-1280x853.jpg" alt="‘Star Wars’ Fans Haven’t Given Up on Ben Solo’s Cinematic Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-wars-fans-havent-given-up-on-ben-solos-cinematic-return-2000708689" target="_blank">‘Star Wars’ Fans Haven’t Given Up on Ben Solo’s Cinematic Return</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-11 15:55</span>
             </div>
         </div>
 </div>
@@ -324,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 13:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 14:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
