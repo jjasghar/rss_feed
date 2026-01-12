@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-12 06:03:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-12 07:06:19 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, January 12, 2026 - 06:03 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, January 12, 2026 - 07:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/12/g-s1-105652/trump-says-iran-wants-to-talk" target="_blank">Death toll from protests in Iran increases as Trump says Iran wants to talk</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-12 06:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/076f/live/06a8c2e0-ed82-11f0-b5f7-49f0357294ff.jpg" alt="Vets under increasing pressure to make money for corporate owners, BBC told" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8j3020kl04o?at_medium=RSS&at_campaign=rss" target="_blank">Vets under increasing pressure to make money for corporate owners, BBC told</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-12 06:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/11/nx-s1-5674034/fed-powell-subpoena-doj-building-renovation" target="_blank">DOJ subpoenas Federal Reserve in escalating pressure campaign</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-12 02:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251210-jerome-powell-jg-09d05b.jpg" alt="Federal Reserve hit with DOJ subpoenas in criminal probe over Jerome Powell testimony" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/fed-jerome-powell-doj-investigation-rcna253517" target="_blank">Federal Reserve hit with DOJ subpoenas in criminal probe over Jerome Powell testimony</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-12 00:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251210-jerome-powell-jg-09d05b.jpg" alt="Federal Reserve hit with DOJ subpoenas in criminal probe over Chair Jerome Powell testimony" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/fed-jerome-powell-doj-investigation-rcna253517" target="_blank">Federal Reserve hit with DOJ subpoenas in criminal probe over Chair Jerome Powell testimony</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-12 00:49</span>
             </div>
         </div>
 </div>
@@ -174,6 +172,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-rc5-Released" target="_blank">Linux 6.19-rc5 Brings Fix For Newer NVIDIA GPUs, Logitech HID++ For Anywhere 3S &amp; Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-12 06:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ali_algmass/multi-dimensional-arrays-row-major-order-a-deep-dive-3b2e" target="_blank">Multi-dimensional Arrays &amp; Row-major Order: A Deep Dive</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/ajitkumar/the-silent-registration-killer-when-auto-formatters-and-linters-collide-26j5" target="_blank">The Silent Registration Killer: When Auto-Formatters and Linters Collide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-12 02:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/java-news-roundup-jan05-2026/en/headerimage/java-istock-image-01-1768162314895.jpg" alt="Java News Roundup: Spring gRPC, Quarkus, Gatherers4j, Keycloak, Grails, Java Operator SDK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/java-news-roundup-jan05-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Spring gRPC, Quarkus, Gatherers4j, Keycloak, Grails, Java Operator SDK</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-12 02:30</span>
             </div>
         </div>
 </div>
@@ -285,8 +283,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 281 |
-        🔄 Last Updated: 06:03 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 279 |
+        🔄 Last Updated: 07:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
