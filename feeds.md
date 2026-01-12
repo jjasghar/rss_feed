@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-12 21:02:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-12 22:01:30 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 10 new posts out of 31 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, January 12, 2026 - 21:02 UTC</div>
+    <div class="newspaper-date">Monday, January 12, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/12/nx-s1-5637424/as-birth-rates-tumble-some-progressives-say-the-left-needs-to-offer-solutions" target="_blank">As birth rates tumble, some progressives say the Left needs to offer solutions</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-12 21:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +99,20 @@
                 <span class="time">2026-01-12 19:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/jerome-powell-1-rt-gmh-260112_1768229021701_hpMain_4x3t_384.jpg" alt="DOJ probe into Powell sparks backlash from some Republicans, former Fed chairs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/doj-probe-powell-sparks-backlash-republicans-former-fed/story?id=129134680" target="_blank">DOJ probe into Powell sparks backlash from some Republicans, former Fed chairs</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-12 19:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1488311999-500x500.jpg" alt="Google removes some AI health summaries after investigation finds “dangerous” flaws" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/" target="_blank">Google removes some AI health summaries after investigation finds “dangerous” flaws</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-12 21:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,30 +141,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/69653de3e3da8bff2e2bbf89/master/pass/Snag%20a%20Feature-Packed%20Gaming%20Headset%20for%20Under%20$100.png" alt="Snag a Feature-Packed Gaming Headset for Under $100" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/corsair-void-wireless-v2-deal-126/" target="_blank">Snag a Feature-Packed Gaming Headset for Under $100</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-12 19:14</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/buying-guides/720160/best-switch-2-accessories" target="_blank">These are my favorite Switch 2 accessories</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-12 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/12/fintech-firm-betterment-confirms-data-breach-after-hackers-send-fake-crypto-scam-notification-to-users/" target="_blank">Fintech firm Betterment confirms data breach after hackers send fake crypto scam notification to users</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-12 18:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/860392/anker-goes-big-with-new-whole-home-backup-system" target="_blank">Anker goes big with new whole home backup system</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-12 18:00</span>
             </div>
         </div>
 </div>
@@ -178,6 +173,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9pbuap3dh0rys0reqa0x.png" alt="Why &quot;Ownership&quot; is the Best Certification: Building Infrastructure for an AWS Legend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alifunk/why-ownership-is-the-best-certification-building-infrastructure-for-an-aws-legend-4nd5" target="_blank">Why &quot;Ownership&quot; is the Best Certification: Building Infrastructure for an AWS Legend</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-12 21:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.0-Tomorrow" target="_blank">Wine 11.0 Planned For Release Tomorrow With NTSync Support, Better WoW64</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-12 20:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vsn8ea1rlevyq55aee1.png" alt="Letting Kiro Drive — Autopilot and Hooks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -187,39 +200,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18782323&w=600" alt="UX Research in Agile Product Development: Making AI Workflows Work for People" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ux-research-in-agile-product-development-making-ai" target="_blank">UX Research in Agile Product Development: Making AI Workflows Work for People</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-12 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F86gj5m3qkbauf85xynkd.png" alt="Why Version Control Exists: The Pendrive Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/subhrangsu90/why-version-control-exists-the-pendrive-problem-d0" target="_blank">Why Version Control Exists: The Pendrive Problem</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-12 19:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://claude.com/blog/cowork-research-preview" target="_blank">Cowork: Claude Code for the rest of your work</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-12 19:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/01/12/now-everyone-can-chat-on-stack-overflow/" target="_blank">Now everyone can chat on Stack Overflow</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-01-12 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18827236&w=600" alt="Kotlin Code Style: Best Practices for Former Java Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/kotlin-code-style-best-practices-for-former-java-d" target="_blank">Kotlin Code Style: Best Practices for Former Java Developers</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-12 19:00</span>
             </div>
         </div>
 </div>
@@ -241,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Impossible_colors_NCS_and_RGB_yellow_and_blue.jpg?fit=1200%2C1200&amp;quality=60&amp;ssl=1" alt="How to see &quot;impossible colors&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/12/how-to-see-impossible-colors.html" target="_blank">How to see &quot;impossible colors&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-12 21:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01J97AZA4VHK5YMW5F6PKFYXVN/hero-image.jpg" alt="What Counts As Cardio (and What Doesn&#x27;t)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +290,6 @@
                 <span class="time">2026-01-12 17:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Mummy-Trailer-1280x853.jpg" alt="‘Lee Cronin’s The Mummy’ Takes the Monster Franchise In a Creepy New Direction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/lee-cronin-mummy-trailer-2000709135" target="_blank">‘Lee Cronin’s The Mummy’ Takes the Monster Franchise In a Creepy New Direction</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-12 17:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
