@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-12 01:29:58 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-01-12 02:41:32 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, January 12, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, January 12, 2026 - 02:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/11/nx-s1-5674034/fed-powell-subpoena-doj-building-renovation" target="_blank">DOJ subpoenas Federal Reserve in escalating pressure campaign</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-12 02:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251210-jerome-powell-jg-09d05b.jpg" alt="Federal Reserve hit with DOJ subpoenas in criminal probe over Chair Jerome Powell testimony" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/01/11/g-s1-105436/americas-top-figure-skaters-dazzled-st-louis-i-left-with-a-new-love-for-the-sport" target="_blank">America&#x27;s top figure skaters dazzled St. Louis. I left with a new love for the sport.</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-11 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-la-plagne-ski-resort_7132931.jpg?20260111195451" alt="British skier killed in avalanche in French Alps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/british-skier-killed-in-avalanche-in-french-alps-13493204" target="_blank">British skier killed in avalanche in French Alps</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-11 19:47</span>
             </div>
         </div>
 </div>
@@ -178,6 +176,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ajitkumar/the-silent-registration-killer-when-auto-formatters-and-linters-collide-26j5" target="_blank">The Silent Registration Killer: When Auto-Formatters and Linters Collide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-12 02:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.youtube.com/watch?v=KckGHaBLSn4" target="_blank">Statement by Federal Reserve Chair Jerome F. Powell [video]</a></span>
                 <span class="feed">Hacker News</span>
@@ -209,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/jumptotech/kubernetes-services-ingress-project-1-knl" target="_blank">Kubernetes Services &amp; Ingress. project #1</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-11 22:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/" target="_blank">The struggle of resizing windows on macOS Tahoe</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-11 20:47</span>
             </div>
         </div>
 </div>
@@ -267,6 +265,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5741.png" alt="The Observer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5741" target="_blank">The Observer</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-01-12 01:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1767998058-20260111.png" alt="Saturday Morning Breakfast Cereal - Trojan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -280,8 +287,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 02:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
