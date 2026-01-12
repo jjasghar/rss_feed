@@ -1,43 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-12 14:04:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-12 15:03:31 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 35 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, January 12, 2026 - 14:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, January 12, 2026 - 15:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/12/los-angeles-police-arrest-man-who-drove-through-iran-protesters?traffic_source=rss" target="_blank">Los Angeles police arrest man who drove through Iran protesters</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-12 14:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,15 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/12/nx-s1-5669474/olympics-figure-skating-team-usa-malinin-glenn-liu" target="_blank">Who are the figure skaters representing Team USA? Key names and backstories to know</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-12 11:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/1/12/syrians-in-kurdish-areas-of-aleppo-pick-up-pieces-after-clashes?traffic_source=rss" target="_blank">Syrians in Kurdish areas of Aleppo pick up pieces after clashes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-12 10:50</span>
             </div>
         </div>
 </div>
@@ -190,6 +186,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18789556&w=600" alt="Why PostgreSQL Vacuum Matters More Than You Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/why-postgresql-vacuum-matters-more-than-you-think" target="_blank">Why PostgreSQL Vacuum Matters More Than You Think</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-12 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18816096&w=600" alt="Pragmatic Paths to On-Device AI on Android with ML Kit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -216,15 +221,6 @@
                 <span class="time">2026-01-12 10:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Budgie-11-Using-Qt6" target="_blank">Budgie 11 Desktop Being Developed With The Qt6 Toolkit</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-12 10:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Lego-Pokemon-Venasaur-Blastoise-Charizard-1280x853.jpg" alt="Lego’s First ‘Pokémon’ Sets Are Here, and Sorry, They Cost How Much?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lego-pokemon-sets-price-release-date-2000709017" target="_blank">Lego’s First ‘Pokémon’ Sets Are Here, and Sorry, They Cost How Much?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-12 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/image-3-1280x720.jpg" alt="The Pokémon Lego Sets Are Incredible And Expensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-lego-sets-release-date-price-pikachu-charizard-2000658895" target="_blank">The Pokémon Lego Sets Are Incredible And Expensive</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-12 14:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/SHOKZ-PRO-BONE-1280x853.jpg" alt="Shokz Starts Open-Ear Sports Headphone Clearance With OpenRun Pro Bone-Conduction Headphones at Their Lowest Price Since Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +292,6 @@
                 <span class="title"><a href="https://gizmodo.com/this-dead-star-with-a-glowing-shock-wave-shouldnt-exist-2000708244" target="_blank">This Dead Star With a Glowing Shock Wave Shouldn’t Exist</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-12 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/shutterstock_2681240063-1280x853.jpg" alt="The 2026 Golden Globes Are Tonight. Here’s Everything You Need To Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-2026-golden-globes-are-tonight-heres-everything-you-need-to-know-2000708820" target="_blank">The 2026 Golden Globes Are Tonight. Here’s Everything You Need To Know</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-11 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/01/Flehmen-Response-2-cheval.jpg?fit=266%2C400&amp;quality=60&amp;ssl=1" alt="This goat&#x27;s goofy face is actually a sophisticated smelling technique" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/11/this-goats-goofy-face-is-actually-a-sophisticated-smelling-technique.html" target="_blank">This goat&#x27;s goofy face is actually a sophisticated smelling technique</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-11 22:35</span>
             </div>
         </div>
 </div>
@@ -335,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 14:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 15:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
