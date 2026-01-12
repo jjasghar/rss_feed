@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-11 23:01:31 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-12 00:05:54 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, January 11, 2026 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, January 12, 2026 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/11/barcelona-beat-real-madrid-in-clasico-to-retain-spanish-super-cup?traffic_source=rss" target="_blank">Barcelona beat Real Madrid in El Clasico to retain Spanish Super Cup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-11 22:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b03b/live/fb6a9420-ef30-11f0-9875-11b0cf450f00.jpg" alt="Guantanamo detainee paid &#x27;substantial&#x27; compensation by UK to settle torture complicity case" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +105,29 @@
                 <span class="time">2026-01-11 18:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/11/nx-s1-5673942/historic-upset-soccer-fa-cup-macclesfield-beat-crystal-palace" target="_blank">Historic upset in English soccer&#x27;s FA Cup as Macclesfield beat holders Crystal Palace</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-11 17:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/860372/billy-woods-horrorcore-masterpiece-golliwog-a24" target="_blank">You need to listen to Billy Woods’ horrorcore masterpiece for the A24 crowd</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-11 23:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/11/google-co-founders-may-be-pulling-out-of-california/" target="_blank">Google co-founders may be leaving California</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-11 22:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/anaconda3-500x500-1768069762.jpg" alt="That time Will Smith helped discover new species of anaconda" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,24 +162,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/" target="_blank">Google removes AI Overviews for certain medical queries</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-11 17:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/860329/gamestop-is-kicking-off-2026-by-shutting-down-over-400-stores-in-42-states" target="_blank">GameStop is kicking off 2026 by shutting down over 400 stores in 42 states</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-11 16:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/11/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/" target="_blank">Indonesia and Malaysia block Grok over non-consensual, sexualized deepfakes</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-11 15:07</span>
             </div>
         </div>
 </div>
@@ -265,8 +274,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 66 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
