@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-12 02:41:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-12 03:31:07 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, January 12, 2026 - 02:41 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, January 12, 2026 - 03:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +45,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/jerome-powell-rt-gmh-260111_1768179398314_hpMain_4x3t_384.jpg" alt="DOJ launches criminal investigation into Fed Chair Jerome Powell, he says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/doj-launches-criminal-investigation-fed-chair-jerome-powell/story?id=129114228" target="_blank">DOJ launches criminal investigation into Fed Chair Jerome Powell, he says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-12 03:27</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/01/11/nx-s1-5674034/fed-powell-subpoena-doj-building-renovation" target="_blank">DOJ subpoenas Federal Reserve in escalating pressure campaign</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-12 02:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251210-jerome-powell-jg-09d05b.jpg" alt="Federal Reserve hit with DOJ subpoenas in criminal probe over Jerome Powell testimony" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/fed-jerome-powell-doj-investigation-rcna253517" target="_blank">Federal Reserve hit with DOJ subpoenas in criminal probe over Jerome Powell testimony</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-12 00:49</span>
             </div>
         </div>
 <div class="story">
@@ -80,24 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cx2gelrxxr0o?at_medium=RSS&at_campaign=rss" target="_blank">Guantanamo detainee paid &#x27;substantial&#x27; compensation by UK to settle torture complicity case</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-11 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f96/live/25ea28f0-eef0-11f0-b5f7-49f0357294ff.jpg" alt="Iran warns it will retaliate if US attacks, as hundreds killed in protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss" target="_blank">Iran warns it will retaliate if US attacks, as hundreds killed in protests</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-11 20:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/01/11/g-s1-105436/americas-top-figure-skaters-dazzled-st-louis-i-left-with-a-new-love-for-the-sport" target="_blank">America&#x27;s top figure skaters dazzled St. Louis. I left with a new love for the sport.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-11 19:56</span>
             </div>
         </div>
 </div>
@@ -183,6 +181,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/01/java-news-roundup-jan05-2026/en/headerimage/java-istock-image-01-1768162314895.jpg" alt="Java News Roundup: Spring gRPC, Quarkus, Gatherers4j, Keycloak, Grails, Java Operator SDK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/java-news-roundup-jan05-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Spring gRPC, Quarkus, Gatherers4j, Keycloak, Grails, Java Operator SDK</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-12 02:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -207,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-rc5-char-misc" target="_blank">Latest Linux 6.19 Code Fixes Rust Binder Driver, Adds Intel Nova Lake Point S To MEI</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-11 23:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqhcpbp3whipu3r3v2vit.png" alt="Kubernetes Services &amp; Ingress. project #1" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jumptotech/kubernetes-services-ingress-project-1-knl" target="_blank">Kubernetes Services &amp; Ingress. project #1</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-11 22:38</span>
             </div>
         </div>
 </div>
@@ -287,8 +285,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 02:41 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 03:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
