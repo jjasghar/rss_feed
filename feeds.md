@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-12 05:08:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-12 06:03:01 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, January 12, 2026 - 05:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, January 12, 2026 - 06:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/12/un-top-court-set-to-open-myanmar-rohingya-genocide-case?traffic_source=rss" target="_blank">UN top court set to open Myanmar Rohingya genocide case</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-12 05:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/jerome-powell-rt-gmh-260111_1768179398314_hpMain_4x3t_384.jpg" alt="DOJ launches criminal investigation into Fed Chair Jerome Powell, he says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +98,20 @@
                 <span class="time">2026-01-12 00:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/11/barcelona-beat-real-madrid-in-clasico-to-retain-spanish-super-cup?traffic_source=rss" target="_blank">Barcelona beat Real Madrid in El Clasico to retain Spanish Super Cup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-11 22:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/11/indrive-turns-to-ads-and-groceries-to-diversify-revenue/" target="_blank">inDrive turns to ads and groceries to diversify revenue</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-12 05:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +157,6 @@
                 <span class="time">2026-01-11 19:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/855851/new-years-resolution-gifts-ideas-2026-tech-gadgets-fitness" target="_blank">Here are over 20 gadgets that’ll help you achieve your New Year’s resolutions</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-11 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +169,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ali_algmass/multi-dimensional-arrays-row-major-order-a-deep-dive-3b2e" target="_blank">Multi-dimensional Arrays &amp; Row-major Order: A Deep Dive</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-12 05:54</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +214,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/01/java-news-roundup-jan05-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Spring gRPC, Quarkus, Gatherers4j, Keycloak, Grails, Java Operator SDK</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-01-12 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.youtube.com/watch?v=KckGHaBLSn4" target="_blank">Statement by Federal Reserve Chair Jerome F. Powell [video]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-12 01:05</span>
             </div>
         </div>
 </div>
@@ -285,8 +285,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 05:08 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 281 |
+        🔄 Last Updated: 06:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
