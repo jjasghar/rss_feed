@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-12 22:01:30 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-01-12 23:01:28 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, January 12, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, January 12, 2026 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260108-minneapolis-law-enforcement-ch-1215-0678e8.jpg" alt="Minnesota sues federal government to end deployment of immigration agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/minnesota-sues-federal-government-immigration-agent-rcna253686" target="_blank">Minnesota sues federal government to end deployment of immigration agents</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-12 22:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +97,20 @@
                 <span class="time">2026-01-12 19:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b181/live/401595e0-efde-11f0-be9a-5d00009628a6.jpg" alt="UK to bring into force law to tackle Grok AI deepfakes this week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq845glnvl1o?at_medium=RSS&at_campaign=rss" target="_blank">UK to bring into force law to tackle Grok AI deepfakes this week</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-12 19:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/" target="_blank">Why Amazon bought Bee, an AI wearable</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-12 21:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1488311999-500x500.jpg" alt="Google removes some AI health summaries after investigation finds “dangerous” flaws" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +156,6 @@
                 <span class="time">2026-01-12 19:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/buying-guides/720160/best-switch-2-accessories" target="_blank">These are my favorite Switch 2 accessories</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-12 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +168,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkefsasmgjwt9civl35lr.png" alt="TWD Tip: Stub Auth0 Hooks and Mock React Modules" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kevinccbsg/twd-tip-stub-auth0-hooks-and-mock-react-modules-19b1" target="_blank">TWD Tip: Stub Auth0 Hooks and Mock React Modules</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-12 22:50</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +215,6 @@
                 <span class="time">2026-01-12 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F86gj5m3qkbauf85xynkd.png" alt="Why Version Control Exists: The Pendrive Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/subhrangsu90/why-version-control-exists-the-pendrive-problem-d0" target="_blank">Why Version Control Exists: The Pendrive Problem</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-12 19:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +234,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/meta-quest-1280x852.jpg" alt="Meta Reportedly Cutting About 1,500 VR and AR Jobs Amid Renewed Push to Become an AI Juggernaut" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/meta-reportedly-cutting-about-1500-vr-and-ar-jobs-amid-renewed-push-to-become-an-ai-juggernaut-2000708826" target="_blank">Meta Reportedly Cutting About 1,500 VR and AR Jobs Amid Renewed Push to Become an AI Juggernaut</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-12 22:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/05/adbafffe54439bcfbfc6e78ceeff473d-1280x720.jpg" alt="Rockstar Wins Initial Ruling Against Fired GTA 6 Devs: ‘We Regret That We Were Put In A Position Where Dismissals Were Necessary’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/rockstar-wins-initial-ruling-against-fired-gta-6-devs-we-regret-that-we-were-put-in-a-position-where-dismissals-were-necessary-2000658984" target="_blank">Rockstar Wins Initial Ruling Against Fired GTA 6 Devs: ‘We Regret That We Were Put In A Position Where Dismissals Were Necessary’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-12 22:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KESTZCNF7TXGRXP7XKMCK28T/hero-image.png" alt="This Smart Ring Tracks Sleep Apnea, and It’s $60 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/ringconn-gen-2-smart-ring-sale-january-2026?utm_medium=RSS" target="_blank">This Smart Ring Tracks Sleep Apnea, and It’s $60 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-12 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Impossible_colors_NCS_and_RGB_yellow_and_blue.jpg?fit=1200%2C1200&amp;quality=60&amp;ssl=1" alt="How to see &quot;impossible colors&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,33 +286,6 @@
                 <span class="title"><a href="https://lifehacker.com/home/how-to-speed-up-your-hot-water-without-a-tankless-water-heater?utm_medium=RSS" target="_blank">Four Ways to Speed Up Your Hot Water (Without Installing a Tankless Water Heater)</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-12 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/detective-fest-1280x720.jpg" alt="10 Mysterious Games To Check Out In Steam’s Detective Fest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/steam-detective-fest-mystery-investigation-indie-pc-2000658918" target="_blank">10 Mysterious Games To Check Out In Steam’s Detective Fest</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-12 18:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KESFZJPJ0ZR692131HZW8APJ/hero-image.jpg" alt="This Is Why You&#x27;re Having Trouble Resizing Windows in macOS Tahoe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/this-is-why-you-are-having-trouble-with-windows-in-macos-tahoe?utm_medium=RSS" target="_blank">This Is Why You&#x27;re Having Trouble Resizing Windows in macOS Tahoe</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-12 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2019/11/kwa2e8gd462stm6h0tnd.jpg" alt="Kojima Tries To Describe The Nightmare Fuel Haunting His Sleep, Including Creature Bites And ‘Voluptuous Nude Women’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hideo-kojima-dream-sleep-death-stranding-2-2000658957" target="_blank">Kojima Tries To Describe The Nightmare Fuel Haunting His Sleep, Including Creature Bites And ‘Voluptuous Nude Women’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-12 17:40</span>
             </div>
         </div>
 </div>
@@ -327,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
