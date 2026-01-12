@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-12 12:02:29 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-12 13:14:55 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, January 12, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, January 12, 2026 - 13:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f1/live/5a6ee9f0-efb6-11f0-b5f7-49f0357294ff.jpg" alt="Former Tory chancellor Nadhim Zahawi defects to Reform UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0lxn75gw1do?at_medium=RSS&at_campaign=rss" target="_blank">Former Tory chancellor Nadhim Zahawi defects to Reform UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-12 12:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/12/g-s1-105669/up-first-newsletter-minneapolis-ice-iran-protests-doj-jerome-powell" target="_blank">More federal agents head to Minnesota. And, U.S. Figure Skating announces Olympic team</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-12 12:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,30 +88,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-air-force-one-donald-trump_7133158.jpg?20260112084521" alt="Trump wants a deal but insists US will acquire Greenland &#x27;one way or the other&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/12/israel-launches-air-strikes-against-lebanon?traffic_source=rss" target="_blank">Israel launches air strikes against Lebanon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-12 08:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/12/trump-warns-of-very-strong-options-amid-iran-unrest?traffic_source=rss" target="_blank">Trump warns of “very strong options” amid Iran unrest</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-12 07:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/12/g-s1-105652/trump-says-iran-wants-to-talk" target="_blank">Death toll from protests in Iran increases as Trump says Iran wants to talk</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-12 06:24</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-wants-a-deal-but-insists-us-will-acquire-greenland-one-way-or-the-other-13493311" target="_blank">Trump wants a deal but insists US will acquire Greenland &#x27;one way or the other&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-12 08:33</span>
             </div>
         </div>
 </div>
@@ -106,6 +101,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/860446/google-ai-shopping-standard-buy-button-gemini" target="_blank">Google brings buy buttons to Gemini and AI search</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-12 12:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6961c5bf88957c47d63b2b20/master/pass/The%20Best%20Pet%20Cameras%20for%20Dogs%20and%20Cats2_.png" alt="10 Best Pet Cameras (2026), Tested With Our Pets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +153,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/" target="_blank">Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-12 00:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/860372/billy-woods-horrorcore-masterpiece-golliwog-a24" target="_blank">You need to listen to Billy Woods’ horrorcore masterpiece for the A24 crowd</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-11 23:29</span>
             </div>
         </div>
 </div>
@@ -329,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 13:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
