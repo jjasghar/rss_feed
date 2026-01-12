@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-12 16:02:36 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-01-12 17:04:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, January 12, 2026 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, January 12, 2026 - 17:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +45,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/nyse-gty-jef-260112_1768232007905_hpMain_4x3t_384.jpg" alt="Stocks fall after Trump&#x27;s DOJ opens criminal probe into Powell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Business/stocks-fall-after-trumps-doj-opens-criminal-probe/story?id=129127081" target="_blank">Stocks fall after Trump&#x27;s DOJ opens criminal probe into Powell</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-12 16:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/12/israel-considers-plan-to-expand-illegal-settlement-in-occupied-east-jerusal?traffic_source=rss" target="_blank">Israel considers plan to expand settlement in occupied East Jerusalem</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-12 15:58</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/12/los-angeles-police-arrest-man-who-drove-through-iran-protesters?traffic_source=rss" target="_blank">Los Angeles police arrest man who drove through Iran protesters</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-12 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/books/2026/jan/12/chimamanda-ngozi-adichie-accuses-lagos-hospital-negligence-son-death" target="_blank">Author Chimamanda Ngozi Adichie accuses Lagos hospital of negligence after son’s death</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-12 14:26</span>
             </div>
         </div>
 <div class="story">
@@ -74,38 +98,20 @@
                 <span class="time">2026-01-12 12:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768220885483_tdy_news_7a_haake_powell_fed_reserve_subpoenas_260112_1920x1080-sw2tow.jpg" alt="Fed Chair Jerome Powell Says He&#x27;s Being Investigated By DOJ" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-denies-involvement-in-jerome-powell-subpoenas-255789125799" target="_blank">Fed Chair Jerome Powell Says He&#x27;s Being Investigated By DOJ</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-12 12:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/12/g-s1-105669/up-first-newsletter-minneapolis-ice-iran-protests-doj-jerome-powell" target="_blank">More federal agents head to Minnesota. And, U.S. Figure Skating announces Olympic team</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-12 12:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/12/nx-s1-5669474/olympics-figure-skating-team-usa-malinin-glenn-liu" target="_blank">Who are the figure skaters representing Team USA? Key names and backstories to know</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-12 11:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/860590/dji-mobile-7p-gimbal-stabilizer-anker-341-usb-power-strip-deal-sale" target="_blank">DJI’s mobile selfie stick / tripod / stabilizer will track you automatically for its lowest price of $103</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-12 16:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +157,6 @@
                 <span class="time">2026-01-12 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/859578/trump-white-house-ballroom-microsoft-amazon-donations" target="_blank">Trump’s fundraisers asked Microsoft for its White House ballroom donation</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-12 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +169,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/typescript-7-progress/en/headerimage/generatedHeaderImage-1767003557619-1767984008252.jpg" alt="Microsoft Share Update on TypeScript 7" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/typescript-7-progress/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Share Update on TypeScript 7</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-12 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/want-better-ai-outputs-try-context-engineering/" target="_blank">Want better AI outputs? Try context engineering.</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-01-12 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/haykgrigo3/TimeCapsuleLLM" target="_blank">TimeCapsuleLLM: LLM trained only on data from 1800-1875</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-12 16:04</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +214,6 @@
                 <span class="title"><a href="https://dev.to/kvishal1012/building-geoai-models-from-spatial-data-to-actionable-insights-2kn2" target="_blank">Building GeoAI Models: From Spatial Data to Actionable Insights</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-12 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18789556&w=600" alt="Why PostgreSQL Vacuum Matters More Than You Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-postgresql-vacuum-matters-more-than-you-think" target="_blank">Why PostgreSQL Vacuum Matters More Than You Think</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-12 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/" target="_blank">Floppy disks turn out to be the greatest TV remote for kids</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-12 13:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18816096&w=600" alt="Pragmatic Paths to On-Device AI on Android with ML Kit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/Permalinkpragmatic-paths-to-on-device-ai-on-android-with-ml-kit" target="_blank">Pragmatic Paths to On-Device AI on Android with ML Kit</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-12 13:00</span>
             </div>
         </div>
 </div>
@@ -238,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Mummy-Trailer-1280x853.jpg" alt="‘Lee Cronin’s The Mummy’ Takes the Monster Franchise In a Creepy New Direction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lee-cronin-mummy-trailer-2000709135" target="_blank">‘Lee Cronin’s The Mummy’ Takes the Monster Franchise In a Creepy New Direction</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-12 17:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Saber-Trailer-Exclusive-1280x853.jpg" alt="This Documentary Takes You Inside the Very Real World of Competitive Lightsaber Duels (Exclusive)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,20 +289,20 @@
                 <span class="time">2026-01-12 14:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/SHOKZ-PRO-BONE-1280x853.jpg" alt="Shokz Starts Open-Ear Sports Headphone Clearance With OpenRun Pro Bone-Conduction Headphones at Their Lowest Price Since Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/shokz-starts-open-ear-sports-headphone-clearance-with-openrun-pro-bone-conduction-headphones-at-their-lowest-price-since-launch-2000658302" target="_blank">Shokz Starts Open-Ear Sports Headphone Clearance With OpenRun Pro Bone-Conduction Headphones at Their Lowest Price Since Launch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-12 13:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1768176974-20260112.png" alt="Saturday Morning Breakfast Cereal - After" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/after-3" target="_blank">Saturday Morning Breakfast Cereal - After</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-01-12 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -315,22 +321,13 @@
                 <span class="time">2026-01-12 01:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1767998058-20260111.png" alt="Saturday Morning Breakfast Cereal - Trojan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/trojan" target="_blank">Saturday Morning Breakfast Cereal - Trojan</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-11 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 17:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
