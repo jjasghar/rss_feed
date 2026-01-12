@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-12 09:05:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-12 10:02:49 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, January 12, 2026 - 09:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, January 12, 2026 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/12/nx-s1-5658282/how-to-responsibly-recycle-your-childrens-old-toys" target="_blank">How to responsibly recycle your children&#x27;s old toys</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-12 09:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +100,20 @@
                 <span class="time">2026-01-12 05:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/12/un-top-court-set-to-open-myanmar-rohingya-genocide-case?traffic_source=rss" target="_blank">UN top court set to open Myanmar Rohingya genocide case</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-12 05:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/859578/trump-white-house-ballroom-microsoft-amazon-donations" target="_blank">Trump’s fundraisers asked Microsoft for its White House ballroom donation</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-12 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +159,6 @@
                 <span class="time">2026-01-11 22:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/anaconda3-500x500-1768069762.jpg" alt="That time Will Smith helped discover new species of anaconda" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/01/that-time-will-smith-helped-discover-new-species-of-anaconda/" target="_blank">That time Will Smith helped discover new species of anaconda</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-11 20:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +171,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2Fpako%3AeNptUl9v2jAQ_yrWPW1SioiTjJCHSUCKRGmnSZlaqQmaTOwGr4kdGZuVAd99dtJ20TY_2b7fP93dCUpJGSRQiEqRdoe-pYVA9uzNtv8o4FaWpEbX4sCVFA0TuoAe485tlvf1VP4UtSR0j5aypkxt0NXV5_MdEaRijoQWsmmIoGeU3uTpDyIqiWZtu_kjtcjuc2Io19-fuCD1qNwfepF7pvgTL4nmUjh6T2GCFuKfsLOHDGXBMGF604lspZbBGc39_MNXxRuijhaH5qZ8ZvrjIMXc7-C2lh1FaQnYEsy25iVapF_-Ivw_Q8pqfmDqOEwxx04Wrdb5qrEdWXPt5Aa-q3UHWF7nS9tmbZWHHuBBw1RDOLWzOrlCAXpnG1tAYq-UqGfndrE4YrR00SHRyjAPlDTV7u1hWko0SzmxWZu3z5aIRynfn5VyLq9k687UQhqhIfHDDgvJCV4giXA8moY4GodxjGMfRx4cIQnxCPtxGEz8aRjjEOOLB7868fFoEk8nOJiO_SjwgzD65AGz05bqrl_BbhMvvwEZU8hl%3Ftype%3Dpng" alt="Mastering Django Image Migrations: Local to S3, CDNs, and Beyond!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ajitkumar/mastering-django-image-migrations-local-to-s3-cdns-and-beyond-2kn7" target="_blank">Mastering Django Image Migrations: Local to S3, CDNs, and Beyond!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-12 09:54</span>
             </div>
         </div>
 <div class="story">
@@ -199,19 +212,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-rc5-Released" target="_blank">Linux 6.19-rc5 Brings Fix For Newer NVIDIA GPUs, Logitech HID++ For Anywhere 3S &amp; Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-12 06:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ali_algmass/multi-dimensional-arrays-row-major-order-a-deep-dive-3b2e" target="_blank">Multi-dimensional Arrays &amp; Row-major Order: A Deep Dive</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-12 05:54</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/eu-open-source-strategy-call-2026/" target="_blank">Europe Has a New Plan to Break Free from US Tech Dominance</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-12 07:47</span>
             </div>
         </div>
 </div>
@@ -219,6 +223,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/eso2601a-1280x853.jpg" alt="This Dead Star With a Glowing Shock Wave Shouldn’t Exist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-dead-star-with-a-glowing-shock-wave-shouldnt-exist-2000708244" target="_blank">This Dead Star With a Glowing Shock Wave Shouldn’t Exist</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-12 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/shutterstock_2681240063-1280x853.jpg" alt="The 2026 Golden Globes Are Tonight. Here’s Everything You Need To Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,6 +274,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/01/12/fallout-boy" target="_blank">Fallout Boy</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-01-12 08:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5741.png" alt="The Observer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -283,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 09:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
