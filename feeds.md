@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-12 17:04:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-12 18:02:22 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, January 12, 2026 - 17:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, January 12, 2026 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +108,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/860392/anker-goes-big-with-new-whole-home-backup-system" target="_blank">Anker goes big with new whole home backup system</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-12 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/860590/dji-mobile-7p-gimbal-stabilizer-anker-341-usb-power-strip-deal-sale" target="_blank">DJI’s mobile selfie stick / tripod / stabilizer will track you automatically for its lowest price of $103</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-12 16:53</span>
@@ -148,15 +158,6 @@
                 <span class="time">2026-01-12 11:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/AIO-e1767961619910-500x500.jpg" alt="The most fascinating monitors at CES 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/the-most-fascinating-monitors-at-ces-2026/" target="_blank">The most fascinating monitors at CES 2026</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-12 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +170,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hsr88/no-kotlin-no-problem-how-i-shipped-android-apps-using-react-capacitor-9ja" target="_blank">No Kotlin? No Problem. How I shipped Android Apps using React &amp; Capacitor</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-12 17:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Tinygrad-0.12" target="_blank">Tinygrad 0.12 Released With Mesa NIR/NAK Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-12 17:35</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +217,6 @@
                 <span class="time">2026-01-12 16:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/amitshri05/from-writing-code-to-teaching-ai-the-rise-of-the-ai-assisted-developer-4llg" target="_blank">From Writing Code to Teaching AI: The Rise of the AI-Assisted Developer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-12 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kvishal1012/building-geoai-models-from-spatial-data-to-actionable-insights-2kn2" target="_blank">Building GeoAI Models: From Spatial Data to Actionable Insights</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-12 14:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2019/11/kwa2e8gd462stm6h0tnd.jpg" alt="Kojima Tries To Describe The Nightmare Fuel Haunting His Sleep, Including Creature Bites And ‘Voluptuous Nude Women’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hideo-kojima-dream-sleep-death-stranding-2-2000658957" target="_blank">Kojima Tries To Describe The Nightmare Fuel Haunting His Sleep, Including Creature Bites And ‘Voluptuous Nude Women’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-12 17:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Mummy-Trailer-1280x853.jpg" alt="‘Lee Cronin’s The Mummy’ Takes the Monster Franchise In a Creepy New Direction" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +290,6 @@
                 <span class="time">2026-01-12 15:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/image-3-1280x720.jpg" alt="The Pokémon Lego Sets Are Incredible And Expensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-lego-sets-release-date-price-pikachu-charizard-2000658895" target="_blank">The Pokémon Lego Sets Are Incredible And Expensive</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-12 14:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 17:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
