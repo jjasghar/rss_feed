@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-12 19:04:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-12 20:01:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Generated 11 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, January 12, 2026 - 19:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, January 12, 2026 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b181/live/401595e0-efde-11f0-be9a-5d00009628a6.jpg" alt="UK to bring into force law to tackle Grok AI deepfakes this week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq845glnvl1o?at_medium=RSS&at_campaign=rss" target="_blank">UK to bring into force law to tackle Grok AI deepfakes this week</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-12 19:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/jerome-powell-1-rt-gmh-260112_1768229021701_hpMain_4x3t_384.jpg" alt="DOJ probe into Powell sparks backlash from some Republicans, former Fed chairs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/doj-probe-powell-sparks-backlash-republicans-former-fed/story?id=129134680" target="_blank">DOJ probe into Powell sparks backlash from some Republicans, former Fed chairs</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-12 19:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/12/g-s1-105740/a-judge-orders-hhs-to-restore-childrens-health-funding-as-a-lawsuit-continues" target="_blank">A judge orders HHS to restore children&#x27;s health funding as a lawsuit continues</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-12 19:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/1/12/could-the-us-really-take-over-greenland?traffic_source=rss" target="_blank">Could the US really take over Greenland?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-12 19:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -63,47 +97,20 @@
                 <span class="time">2026-01-12 16:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/12/israel-considers-plan-to-expand-illegal-settlement-in-occupied-east-jerusal?traffic_source=rss" target="_blank">Israel considers plan to expand settlement in occupied East Jerusalem</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-12 15:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/12/los-angeles-police-arrest-man-who-drove-through-iran-protesters?traffic_source=rss" target="_blank">Los Angeles police arrest man who drove through Iran protesters</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-12 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/books/2026/jan/12/chimamanda-ngozi-adichie-accuses-lagos-hospital-negligence-son-death" target="_blank">Author Chimamanda Ngozi Adichie accuses Lagos hospital of negligence after son’s death</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-01-12 14:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/12/syrian-forces-search-for-explosives-weapons-after-sdf-pulls-out-of-aleppo?traffic_source=rss" target="_blank">Syrian forces search for explosives, weapons after SDF pulls out of Aleppo</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-12 13:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-supreme-court-500x500-1732556402.jpg" alt="Supreme Court takes case that could strip FCC of authority to issue fines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/supreme-court-takes-case-that-could-strip-fcc-of-authority-to-issue-fines/" target="_blank">Supreme Court takes case that could strip FCC of authority to issue fines</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-12 19:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +156,6 @@
                 <span class="time">2026-01-12 16:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/12/luminar-lines-up-22-million-bidder-for-its-lidar-business/" target="_blank">Luminar lines up $22 million bidder for its lidar business</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-12 15:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +171,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F86gj5m3qkbauf85xynkd.png" alt="Why Version Control Exists: The Pendrive Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/subhrangsu90/why-version-control-exists-the-pendrive-problem-d0" target="_blank">Why Version Control Exists: The Pendrive Problem</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-12 19:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18827236&w=600" alt="Kotlin Code Style: Best Practices for Former Java Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/kotlin-code-style-best-practices-for-former-java-d" target="_blank">Kotlin Code Style: Best Practices for Former Java Developers</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-12 19:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -182,39 +198,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/spectre-bhi-meteor-lake" target="_blank">The Surprising Spectre BHI Mitigation Performance Impact On Meteor Lake</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-12 18:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18825950&w=600" alt="Apache Spark 4.0: What’s New for Data Engineers and ML Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/apache-spark-40-whats-new-for-data-engineers-and-ml-devs" target="_blank">Apache Spark 4.0: What’s New for Data Engineers and ML Developers</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-01-12 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/microsoft-open-sources-xaml-studio/" target="_blank">Microsoft Open-Sources XAML Studio</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-12 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hsr88/no-kotlin-no-problem-how-i-shipped-android-apps-using-react-capacitor-9ja" target="_blank">No Kotlin? No Problem. How I shipped Android Apps using React &amp; Capacitor</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-12 17:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Tinygrad-0.12" target="_blank">Tinygrad 0.12 Released With Mesa NIR/NAK Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-12 17:35</span>
             </div>
         </div>
 </div>
@@ -236,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KESNDX88GQA4F25ZZBKVYQ0Q/hero-image.png" alt="Four Ways to Speed Up Your Hot Water (Without Installing a Tankless Water Heater)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/how-to-speed-up-your-hot-water-without-a-tankless-water-heater?utm_medium=RSS" target="_blank">Four Ways to Speed Up Your Hot Water (Without Installing a Tankless Water Heater)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-12 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/detective-fest-1280x720.jpg" alt="10 Mysterious Games To Check Out In Steam’s Detective Fest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/steam-detective-fest-mystery-investigation-indie-pc-2000658918" target="_blank">10 Mysterious Games To Check Out In Steam’s Detective Fest</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-12 18:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KESFZJPJ0ZR692131HZW8APJ/hero-image.jpg" alt="This Is Why You&#x27;re Having Trouble Resizing Windows in macOS Tahoe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +286,6 @@
                 <span class="title"><a href="https://gizmodo.com/saber-documentary-star-wars-lightsabers-2000707812" target="_blank">This Documentary Takes You Inside the Very Real World of Competitive Lightsaber Duels (Exclusive)</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-12 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KD86KCRWTZADC3E2SZ40Z7HG/hero-image.jpg" alt="10 Hacks Every Apple TV User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-apple-tv-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Apple TV User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-12 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/shutterstock_2582161663.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Trial looms for former Abercrombie &amp; Fitch CEO" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/12/trial-looms-for-former-abercrombie-fitch-ceo.html" target="_blank">Trial looms for former Abercrombie &amp; Fitch CEO</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-12 15:22</span>
             </div>
         </div>
 </div>
@@ -327,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 19:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
