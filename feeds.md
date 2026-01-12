@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-12 11:02:08 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-12 12:02:29 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, January 12, 2026 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, January 12, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/12/nx-s1-5669474/olympics-figure-skating-team-usa-malinin-glenn-liu" target="_blank">Who are the figure skaters representing Team USA? Key names and backstories to know</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-12 11:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/1/12/syrians-in-kurdish-areas-of-aleppo-pick-up-pieces-after-clashes?traffic_source=rss" target="_blank">Syrians in Kurdish areas of Aleppo pick up pieces after clashes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-12 10:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +101,20 @@
                 <span class="time">2026-01-12 06:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/076f/live/06a8c2e0-ed82-11f0-b5f7-49f0357294ff.jpg" alt="Vets under increasing pressure to make money for corporate owners, BBC told" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8j3020kl04o?at_medium=RSS&at_campaign=rss" target="_blank">Vets under increasing pressure to make money for corporate owners, BBC told</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-12 06:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/5ab9b7c0-ef78-11f0-a422-4ba8a094a8fa.jpg" alt="Trump mulls &#x27;very strong&#x27; military options as hundreds killed in Iran protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czdqy3rmp78o?at_medium=RSS&at_campaign=rss" target="_blank">Trump mulls &#x27;very strong&#x27; military options as hundreds killed in Iran protests</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-12 05:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6961c5bf88957c47d63b2b20/master/pass/The%20Best%20Pet%20Cameras%20for%20Dogs%20and%20Cats2_.png" alt="10 Best Pet Cameras (2026), Tested With Our Pets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-pet-cameras/" target="_blank">10 Best Pet Cameras (2026), Tested With Our Pets</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-12 11:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +158,6 @@
                 <span class="title"><a href="https://www.theverge.com/column/860372/billy-woods-horrorcore-masterpiece-golliwog-a24" target="_blank">You need to listen to Billy Woods’ horrorcore masterpiece for the A24 crowd</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-11 23:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/11/google-co-founders-may-be-pulling-out-of-california/" target="_blank">Google co-founders may be leaving California</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-11 22:56</span>
             </div>
         </div>
 </div>
@@ -217,6 +221,20 @@
         </div>
 </div>
 </div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/corrupting-llms-through-weird-generalizations.html" target="_blank">Corrupting LLMs Through Weird Generalizations</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-01-12 12:02</span>
+            </div>
+        </div>
+</div>
+</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
@@ -236,6 +254,15 @@
                 <span class="title"><a href="https://gizmodo.com/the-2026-golden-globes-are-tonight-heres-everything-you-need-to-know-2000708820" target="_blank">The 2026 Golden Globes Are Tonight. Here’s Everything You Need To Know</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-11 22:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/01/Flehmen-Response-2-cheval.jpg?fit=266%2C400&amp;quality=60&amp;ssl=1" alt="This goat&#x27;s goofy face is actually a sophisticated smelling technique" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/11/this-goats-goofy-face-is-actually-a-sophisticated-smelling-technique.html" target="_blank">This goat&#x27;s goofy face is actually a sophisticated smelling technique</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-11 22:35</span>
             </div>
         </div>
 <div class="story">
@@ -302,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
