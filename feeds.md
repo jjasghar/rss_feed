@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-12 15:03:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-12 16:02:36 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, January 12, 2026 - 15:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, January 12, 2026 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +109,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/12/luminar-lines-up-22-million-bidder-for-its-lidar-business/" target="_blank">Luminar lines up $22 million bidder for its lidar business</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-12 15:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/860446/google-ai-shopping-standard-buy-button-gemini" target="_blank">Google brings buy buttons to Gemini and AI search</a></span>
                 <span class="feed">The Verge</span>
@@ -153,15 +160,6 @@
                 <span class="time">2026-01-12 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/12/these-gen-zers-just-raised-11-75m-to-put-africas-defense-back-in-the-hands-of-africans/" target="_blank">These Gen Zers just raised $11.75M to put Africa’s defense back in the hands of Africans</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-12 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +172,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/amitshri05/from-writing-code-to-teaching-ai-the-rise-of-the-ai-assisted-developer-4llg" target="_blank">From Writing Code to Teaching AI: The Rise of the AI-Assisted Developer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-12 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -195,30 +202,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/" target="_blank">Floppy disks turn out to be the greatest TV remote for kids</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-12 13:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18816096&w=600" alt="Pragmatic Paths to On-Device AI on Android with ML Kit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/Permalinkpragmatic-paths-to-on-device-ai-on-android-with-ml-kit" target="_blank">Pragmatic Paths to On-Device AI on Android with ML Kit</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-01-12 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/spec-driven-development/en/headerimage/spec-driven-development-header-1767777707872.jpg" alt="Article: Spec Driven Development: When Architecture Becomes Executable" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/spec-driven-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Spec Driven Development: When Architecture Becomes Executable</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-12 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lubo08/flutter-is-becoming-the-industrial-ui-standard-1if4" target="_blank">Flutter Is Becoming the Industrial UI Standard</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-12 10:53</span>
             </div>
         </div>
 </div>
@@ -240,6 +238,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Saber-Trailer-Exclusive-1280x853.jpg" alt="This Documentary Takes You Inside the Very Real World of Competitive Lightsaber Duels (Exclusive)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/saber-documentary-star-wars-lightsabers-2000707812" target="_blank">This Documentary Takes You Inside the Very Real World of Competitive Lightsaber Duels (Exclusive)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-12 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KD86KCRWTZADC3E2SZ40Z7HG/hero-image.jpg" alt="10 Hacks Every Apple TV User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-apple-tv-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Apple TV User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-12 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/shutterstock_2582161663.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Trial looms for former Abercrombie &amp; Fitch CEO" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/12/trial-looms-for-former-abercrombie-fitch-ceo.html" target="_blank">Trial looms for former Abercrombie &amp; Fitch CEO</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-12 15:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Lego-Pokemon-Venasaur-Blastoise-Charizard-1280x853.jpg" alt="Lego’s First ‘Pokémon’ Sets Are Here, and Sorry, They Cost How Much?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,33 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/shokz-starts-open-ear-sports-headphone-clearance-with-openrun-pro-bone-conduction-headphones-at-their-lowest-price-since-launch-2000658302" target="_blank">Shokz Starts Open-Ear Sports Headphone Clearance With OpenRun Pro Bone-Conduction Headphones at Their Lowest Price Since Launch</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-12 13:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/It-is-what-it-is.jpg?fit=2016%2C1080&amp;quality=60&amp;ssl=1" alt="Malaysia and Indonesia block Grok over deepfake sexual abuse material" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/12/malaysia-and-indonesia-block-grok-over-deepfake-sexual-abuse-material.html" target="_blank">Malaysia and Indonesia block Grok over deepfake sexual abuse material</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-12 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/golden-globes-genre-1280x853.jpg" alt="The Golden Globes Belonged to ‘KPop Demon Hunters’ and ‘Sinners’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-golden-globes-belonged-to-kpop-demon-hunters-and-sinners-2000708843" target="_blank">The Golden Globes Belonged to ‘KPop Demon Hunters’ and ‘Sinners’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-12 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/eso2601a-1280x853.jpg" alt="This Dead Star With a Glowing Shock Wave Shouldn’t Exist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-dead-star-with-a-glowing-shock-wave-shouldnt-exist-2000708244" target="_blank">This Dead Star With a Glowing Shock Wave Shouldn’t Exist</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-12 10:00</span>
             </div>
         </div>
 </div>
@@ -331,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 15:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
