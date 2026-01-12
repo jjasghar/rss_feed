@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-12 08:02:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-12 09:05:15 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, January 12, 2026 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, January 12, 2026 - 09:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/12/israel-launches-air-strikes-against-lebanon?traffic_source=rss" target="_blank">Israel launches air strikes against Lebanon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-12 08:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,30 +79,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/5ab9b7c0-ef78-11f0-a422-4ba8a094a8fa.jpg" alt="Trump mulls &#x27;very strong&#x27; military options as hundreds killed in Iran protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czdqy3rmp78o?at_medium=RSS&at_campaign=rss" target="_blank">Trump mulls &#x27;very strong&#x27; military options as hundreds killed in Iran protests</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-12 05:36</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/12/un-top-court-set-to-open-myanmar-rohingya-genocide-case?traffic_source=rss" target="_blank">UN top court set to open Myanmar Rohingya genocide case</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-12 05:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/jerome-powell-rt-gmh-260111_1768179398314_hpMain_4x3t_384.jpg" alt="DOJ launches criminal investigation into Fed Chair Jerome Powell, he says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/doj-launches-criminal-investigation-fed-chair-jerome-powell/story?id=129114228" target="_blank">DOJ launches criminal investigation into Fed Chair Jerome Powell, he says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-12 03:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/12/russia-ukraine-war-list-of-key-events-day-1418?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,418</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-12 03:17</span>
             </div>
         </div>
 </div>
@@ -177,6 +170,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdc4q4vf6jx254gck3x3f.png" alt="Notifications Are Not Just Messages. They Are Memory Triggers." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/surhidamatya/notifications-are-not-just-messages-they-are-memory-triggers-2968" target="_blank">Notifications Are Not Just Messages. They Are Memory Triggers.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-12 09:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/facts-benchmark-suite/en/headerimage/generatedHeaderImage-1768203054355.jpg" alt="FACTS Benchmark Suite Introduced to Evaluate Factual Accuracy of Large Language Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/facts-benchmark-suite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">FACTS Benchmark Suite Introduced to Evaluate Factual Accuracy of Large Language Models</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-12 07:55</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/ali_algmass/multi-dimensional-arrays-row-major-order-a-deep-dive-3b2e" target="_blank">Multi-dimensional Arrays &amp; Row-major Order: A Deep Dive</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-12 05:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3693525%2Fe7a9c6ab-fde5-4f0c-8d58-9173cc3c7ad6.png" alt="Shared vs VPS Hosting: Which One is Better in 2026?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arauly_tech_pvt_ltd/shared-vs-vps-hosting-which-one-is-better-in-2026-419m" target="_blank">Shared vs VPS Hosting: Which One is Better in 2026?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-12 04:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://savannah.dev/posts/the-coolest-feature-in-314/" target="_blank">The coolest feature in Python 3.14</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-01-12 04:18</span>
             </div>
         </div>
 </div>
@@ -290,8 +283,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 09:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
