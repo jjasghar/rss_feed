@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-12 18:02:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-12 19:04:08 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, January 12, 2026 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, January 12, 2026 - 19:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/12/uk-to-investigate-elon-musks-grok-over-deeply-disturbing-deepfakes?traffic_source=rss" target="_blank">UK to investigate Elon Musk’s Grok over ‘deeply concerning’ deepfakes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-12 18:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/nyse-gty-jef-260112_1768232007905_hpMain_4x3t_384.jpg" alt="Stocks fall after Trump&#x27;s DOJ opens criminal probe into Powell" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +99,6 @@
                 <span class="time">2026-01-12 13:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f1/live/5a6ee9f0-efb6-11f0-b5f7-49f0357294ff.jpg" alt="Former Tory chancellor Nadhim Zahawi defects to Reform UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0lxn75gw1do?at_medium=RSS&at_campaign=rss" target="_blank">Former Tory chancellor Nadhim Zahawi defects to Reform UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-12 12:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,9 +108,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/buying-guides/720160/best-switch-2-accessories" target="_blank">These are my favorite Switch 2 accessories</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-12 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/12/fintech-firm-betterment-confirms-data-breach-after-hackers-send-fake-crypto-scam-notification-to-users/" target="_blank">Fintech firm Betterment confirms data breach after hackers send fake crypto scam notification to users</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-12 18:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/860392/anker-goes-big-with-new-whole-home-backup-system" target="_blank">Anker goes big with new whole home backup system</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-12 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/apple_google_hero_3-500x500.jpg" alt="Apple chooses Google’s Gemini over OpenAI’s ChatGPT to power next-gen Siri" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/apple/2026/01/apple-says-its-new-ai-powered-siri-will-use-googles-gemini-language-models/" target="_blank">Apple chooses Google’s Gemini over OpenAI’s ChatGPT to power next-gen Siri</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-12 17:57</span>
             </div>
         </div>
 <div class="story">
@@ -131,33 +158,6 @@
                 <span class="time">2026-01-12 15:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/860446/google-ai-shopping-standard-buy-button-gemini" target="_blank">Google brings buy buttons to Gemini and AI search</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-12 12:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c1e7369f996c85f0188f7a/master/pass/The%207%20Best%20Travel%20Cameras.png" alt="Best Travel Cameras (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-travel-cameras/" target="_blank">Best Travel Cameras (2026), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-12 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6961c5bf88957c47d63b2b20/master/pass/The%20Best%20Pet%20Cameras%20for%20Dogs%20and%20Cats2_.png" alt="10 Best Pet Cameras (2026), Tested With Our Pets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-pet-cameras/" target="_blank">10 Best Pet Cameras (2026), Tested With Our Pets</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-12 11:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +176,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mahlongumbs/a-mnemonic-that-finally-makes-forin-vs-forof-stick-eoj" target="_blank">A Mnemonic That Finally Makes for…in vs for…of Stick</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-12 18:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18825950&w=600" alt="Apache Spark 4.0: What’s New for Data Engineers and ML Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/apache-spark-40-whats-new-for-data-engineers-and-ml-devs" target="_blank">Apache Spark 4.0: What’s New for Data Engineers and ML Developers</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-12 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/microsoft-open-sources-xaml-studio/" target="_blank">Microsoft Open-Sources XAML Studio</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-12 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hsr88/no-kotlin-no-problem-how-i-shipped-android-apps-using-react-capacitor-9ja" target="_blank">No Kotlin? No Problem. How I shipped Android Apps using React &amp; Capacitor</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-12 17:50</span>
@@ -188,33 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Tinygrad-0.12" target="_blank">Tinygrad 0.12 Released With Mesa NIR/NAK Support</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-12 17:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/typescript-7-progress/en/headerimage/generatedHeaderImage-1767003557619-1767984008252.jpg" alt="Microsoft Share Update on TypeScript 7" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/typescript-7-progress/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Share Update on TypeScript 7</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-12 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/want-better-ai-outputs-try-context-engineering/" target="_blank">Want better AI outputs? Try context engineering.</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-01-12 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/haykgrigo3/TimeCapsuleLLM" target="_blank">TimeCapsuleLLM: LLM trained only on data from 1800-1875</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-12 16:04</span>
             </div>
         </div>
 </div>
@@ -236,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KESFZJPJ0ZR692131HZW8APJ/hero-image.jpg" alt="This Is Why You&#x27;re Having Trouble Resizing Windows in macOS Tahoe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/this-is-why-you-are-having-trouble-with-windows-in-macos-tahoe?utm_medium=RSS" target="_blank">This Is Why You&#x27;re Having Trouble Resizing Windows in macOS Tahoe</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-12 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2019/11/kwa2e8gd462stm6h0tnd.jpg" alt="Kojima Tries To Describe The Nightmare Fuel Haunting His Sleep, Including Creature Bites And ‘Voluptuous Nude Women’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +290,6 @@
                 <span class="time">2026-01-12 15:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Lego-Pokemon-Venasaur-Blastoise-Charizard-1280x853.jpg" alt="Lego’s First ‘Pokémon’ Sets Are Here, and Sorry, They Cost How Much?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/lego-pokemon-sets-price-release-date-2000709017" target="_blank">Lego’s First ‘Pokémon’ Sets Are Here, and Sorry, They Cost How Much?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-12 15:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 19:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
