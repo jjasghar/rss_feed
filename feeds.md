@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-12 03:31:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-12 04:20:29 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, January 12, 2026 - 03:31 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, January 12, 2026 - 04:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +52,15 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/doj-launches-criminal-investigation-fed-chair-jerome-powell/story?id=129114228" target="_blank">DOJ launches criminal investigation into Fed Chair Jerome Powell, he says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-12 03:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/12/russia-ukraine-war-list-of-key-events-day-1418?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,418</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-12 03:17</span>
             </div>
         </div>
 <div class="story">
@@ -87,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/11/barcelona-beat-real-madrid-in-clasico-to-retain-spanish-super-cup?traffic_source=rss" target="_blank">Barcelona beat Real Madrid in El Clasico to retain Spanish Super Cup</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-11 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b03b/live/fb6a9420-ef30-11f0-9875-11b0cf450f00.jpg" alt="Guantanamo detainee paid &#x27;substantial&#x27; compensation by UK to settle torture complicity case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2gelrxxr0o?at_medium=RSS&at_campaign=rss" target="_blank">Guantanamo detainee paid &#x27;substantial&#x27; compensation by UK to settle torture complicity case</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-11 22:00</span>
             </div>
         </div>
 </div>
@@ -174,6 +175,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://savannah.dev/posts/the-coolest-feature-in-314/" target="_blank">The coolest feature in Python 3.14</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-01-12 04:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ajitkumar/the-silent-registration-killer-when-auto-formatters-and-linters-collide-26j5" target="_blank">The Silent Registration Killer: When Auto-Formatters and Linters Collide</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/tekeu_franck_6dfe86e6f54c/fastapi-from-zero-writing-your-first-api-route-3gde" target="_blank">FastAPI from Zero: Writing Your First API Route</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-12 00:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-rc5-char-misc" target="_blank">Latest Linux 6.19 Code Fixes Rust Binder Driver, Adds Intel Nova Lake Point S To MEI</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-11 23:10</span>
             </div>
         </div>
 </div>
@@ -285,8 +286,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 03:31 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 04:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
