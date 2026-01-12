@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-12 20:01:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-12 21:02:02 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, January 12, 2026 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, January 12, 2026 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/12/nx-s1-5675151/trump-credit-card-interest-rate-cap" target="_blank">Trump calls for a 10% cap on credit card interest rates</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-12 20:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/12/republican-lawmakers-break-from-us-president-on-fed-chair-indictment?traffic_source=rss" target="_blank">Republican lawmakers break from US president on Fed chair indictment</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-12 20:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/mark-kelly-2-gty-gmh-260112_1768243265567_hpMain_4x3t_384.jpg" alt="Sen. Mark Kelly files lawsuit against Pete Hegseth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/sen-mark-kelly-files-lawsuit-pete-hegseth-censure/story?id=129142913" target="_blank">Sen. Mark Kelly files lawsuit against Pete Hegseth</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-12 20:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb03/live/7d6a9300-efde-11f0-a422-4ba8a094a8fa.jpg" alt="&#x27;They just kept killing&#x27;: Eyewitnesses describe deadly crackdown in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgp70ynx1po?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;They just kept killing&#x27;: Eyewitnesses describe deadly crackdown in Iran</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-12 19:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b181/live/401595e0-efde-11f0-be9a-5d00009628a6.jpg" alt="UK to bring into force law to tackle Grok AI deepfakes this week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -61,47 +104,29 @@
                 <span class="time">2026-01-12 19:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/12/g-s1-105740/a-judge-orders-hhs-to-restore-childrens-health-funding-as-a-lawsuit-continues" target="_blank">A judge orders HHS to restore children&#x27;s health funding as a lawsuit continues</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-12 19:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/1/12/could-the-us-really-take-over-greenland?traffic_source=rss" target="_blank">Could the US really take over Greenland?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-12 19:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/12/uk-to-investigate-elon-musks-grok-over-deeply-disturbing-deepfakes?traffic_source=rss" target="_blank">UK to investigate Elon Musk’s Grok over ‘deeply concerning’ deepfakes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-12 18:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/nyse-gty-jef-260112_1768232007905_hpMain_4x3t_384.jpg" alt="Stocks fall after Trump&#x27;s DOJ opens criminal probe into Powell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/stocks-fall-after-trumps-doj-opens-criminal-probe/story?id=129127081" target="_blank">Stocks fall after Trump&#x27;s DOJ opens criminal probe into Powell</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-12 16:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/860791/baseus-enercore-cg11-6-in-1-universal-travel-adapter-deal-sale" target="_blank">Baseus’ retractable travel adapter is on sale for more than 50 percent off today</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-12 20:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/bath1-500x500.jpg" alt="Switching water sources improved hygiene of Pompeii’s public baths" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/01/switching-water-sources-improved-hygiene-of-pompeiis-public-baths/" target="_blank">Switching water sources improved hygiene of Pompeii’s public baths</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-12 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-supreme-court-500x500-1732556402.jpg" alt="Supreme Court takes case that could strip FCC of authority to issue fines" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,24 +163,6 @@
                 <span class="time">2026-01-12 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/apple_google_hero_3-500x500.jpg" alt="Apple chooses Google’s Gemini over OpenAI’s ChatGPT to power next-gen Siri" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/apple/2026/01/apple-says-its-new-ai-powered-siri-will-use-googles-gemini-language-models/" target="_blank">Apple chooses Google’s Gemini over OpenAI’s ChatGPT to power next-gen Siri</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-12 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/860590/dji-mobile-7p-gimbal-stabilizer-anker-341-usb-power-strip-deal-sale" target="_blank">DJI’s mobile selfie stick / tripod / stabilizer will track you automatically for its lowest price of $103</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-12 16:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +178,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vsn8ea1rlevyq55aee1.png" alt="Letting Kiro Drive — Autopilot and Hooks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/letting-kiro-drive-autopilot-and-hooks-12c0" target="_blank">Letting Kiro Drive — Autopilot and Hooks</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-12 20:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F86gj5m3qkbauf85xynkd.png" alt="Why Version Control Exists: The Pendrive Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -180,39 +196,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://claude.com/blog/cowork-research-preview" target="_blank">Cowork: Claude Code for the rest of your work</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-12 19:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/01/12/now-everyone-can-chat-on-stack-overflow/" target="_blank">Now everyone can chat on Stack Overflow</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-01-12 19:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18827236&w=600" alt="Kotlin Code Style: Best Practices for Former Java Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/kotlin-code-style-best-practices-for-former-java-d" target="_blank">Kotlin Code Style: Best Practices for Former Java Developers</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-01-12 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mahlongumbs/a-mnemonic-that-finally-makes-forin-vs-forof-stick-eoj" target="_blank">A Mnemonic That Finally Makes for…in vs for…of Stick</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-12 18:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/spectre-bhi-meteor-lake" target="_blank">The Surprising Spectre BHI Mitigation Performance Impact On Meteor Lake</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-12 18:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18825950&w=600" alt="Apache Spark 4.0: What’s New for Data Engineers and ML Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/apache-spark-40-whats-new-for-data-engineers-and-ml-devs" target="_blank">Apache Spark 4.0: What’s New for Data Engineers and ML Developers</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-12 18:00</span>
             </div>
         </div>
 </div>
@@ -234,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01J97AZA4VHK5YMW5F6PKFYXVN/hero-image.jpg" alt="What Counts As Cardio (and What Doesn&#x27;t)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/what-counts-as-cardio?utm_medium=RSS" target="_blank">What Counts As Cardio (and What Doesn&#x27;t)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-12 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KESNDX88GQA4F25ZZBKVYQ0Q/hero-image.png" alt="Four Ways to Speed Up Your Hot Water (Without Installing a Tankless Water Heater)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +295,6 @@
                 <span class="time">2026-01-12 17:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Saber-Trailer-Exclusive-1280x853.jpg" alt="This Documentary Takes You Inside the Very Real World of Competitive Lightsaber Duels (Exclusive)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/saber-documentary-star-wars-lightsabers-2000707812" target="_blank">This Documentary Takes You Inside the Very Real World of Competitive Lightsaber Duels (Exclusive)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-12 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
