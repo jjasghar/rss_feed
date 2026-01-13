@@ -1,43 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-13 03:29:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-13 04:14:58 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 35 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, January 13, 2026 - 03:29 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, January 13, 2026 - 04:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -90,21 +83,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768262168120_nn_kod_backlash_after_doj_launches_criminal_investigation_into_fed_chair_260112_1920x1080-8jynda.jpg" alt="Backlash after DOJ launches criminal investigation into fed chair" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/backlash-after-doj-launches-criminal-investigation-into-fed-chair-255835717642" target="_blank">Backlash after DOJ launches criminal investigation into fed chair</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-12 23:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260108-minneapolis-law-enforcement-ch-1215-0678e8.jpg" alt="Minnesota sues federal government to end deployment of immigration agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/news/us-news/minnesota-sues-federal-government-immigration-agent-rcna253686" target="_blank">Minnesota sues federal government to end deployment of immigration agents</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-01-12 22:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-iran-amir-ali-haydari_7133776.png?20260112224824" alt="&#x27;He was shot in the heart&#x27;: The teen victims of Iran&#x27;s ruthless crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/he-was-shot-in-the-heart-the-teen-victims-of-irans-ruthless-crackdown-13493544" target="_blank">&#x27;He was shot in the heart&#x27;: The teen victims of Iran&#x27;s ruthless crackdown</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-12 21:44</span>
             </div>
         </div>
 </div>
@@ -181,6 +174,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fudfwze1onqya75gcc7oz.png" alt="OpenCode: tools, commands, agents y workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kevinl/opencode-tools-commands-agents-y-workflows-i29" target="_blank">OpenCode: tools, commands, agents y workflows</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-13 04:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -214,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/kevinccbsg/twd-tip-stub-auth0-hooks-and-mock-react-modules-19b1" target="_blank">TWD Tip: Stub Auth0 Hooks and Mock React Modules</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-12 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9pbuap3dh0rys0reqa0x.png" alt="Why &quot;Ownership&quot; is the Best Certification: Building Infrastructure for an AWS Legend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alifunk/why-ownership-is-the-best-certification-building-infrastructure-for-an-aws-legend-4nd5" target="_blank">Why &quot;Ownership&quot; is the Best Certification: Building Infrastructure for an AWS Legend</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-12 21:39</span>
             </div>
         </div>
 </div>
@@ -344,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 03:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 04:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
