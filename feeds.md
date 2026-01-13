@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-13 10:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-13 11:01:59 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, January 13, 2026 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, January 13, 2026 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +51,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/13/which-countries-made-the-biggest-deals-with-israel-in-2025?traffic_source=rss" target="_blank">Which countries made the biggest deals with Israel in 2025?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-13 10:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/13/nx-s1-5670393/california-wildfires-home-insurance-climate-change" target="_blank">California fire victims say fighting with insurance companies has delayed rebuilding</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-13 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-vienna-snowplows_7134012.jpg?20260113102711" alt="Airports close and flights disrupted across Europe due to icy weather" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/airports-close-and-flights-disrupted-across-europe-due-to-icy-weather-13493226" target="_blank">Airports close and flights disrupted across Europe due to icy weather</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-13 10:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260112-donald-trump-ew-505p-2261ae.jpg" alt="Trump turns to progressives for ideas on affordability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-progressives-affordability-rcna253633" target="_blank">Trump turns to progressives for ideas on affordability</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-13 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/13/trump-wants-a-10-cap-on-credit-card-interest-rates-would-that-work?traffic_source=rss" target="_blank">Trump wants a 10% cap on credit card interest rates. Would that work?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-13 09:44</span>
@@ -67,47 +101,20 @@
                 <span class="time">2026-01-13 08:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/13/g-s1-105832/iran-first-calls-outside-world" target="_blank">People in Iran describe heavy security and some damage in first calls to outside world</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-13 08:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/13/japans-new-pm-takaichi-eyes-parliament-dissolution-for-snap-polls-report?traffic_source=rss" target="_blank">Japan’s new PM Takaichi eyes parliament dissolution for snap polls: Report</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-13 07:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/13/us-faces-war-crime-allegation-for-disguising-aircraft-in-drug-boat-attack?traffic_source=rss" target="_blank">US faces war crime allegation for ‘disguising’ aircraft in drug boat attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-13 06:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ae0/live/276611b0-f03c-11f0-a422-4ba8a094a8fa.jpg" alt="Trump briefed on military and covert options for Iran, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyev0kpk77o?at_medium=RSS&at_campaign=rss" target="_blank">Trump briefed on military and covert options for Iran, sources say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-13 05:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/695fce572daaa83c113e7a9d/master/pass/sec-ice-safety-2254637736.jpg" alt="What to Do If ICE Invades Your Neighborhood" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/what-to-do-if-ice-invades-your-neighborhood/" target="_blank">What to Do If ICE Invades Your Neighborhood</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-13 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Hoka Coupon Codes: 10% Off | January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,15 +160,6 @@
                 <span class="time">2026-01-13 00:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/12/openai-buys-tiny-health-records-startup-torch-for-reportedly-100m/" target="_blank">OpenAI buys tiny health records startup Torch for, reportedly, $100M</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-13 00:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +172,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/google-conductor/en/headerimage/generatedHeaderImage-1768216044085.jpg" alt="Google Introduces Conductor, a Context-Driven Development Extension for Gemini CLI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/google-conductor/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Introduces Conductor, a Context-Driven Development Extension for Gemini CLI</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-13 10:00</span>
             </div>
         </div>
 <div class="story">
@@ -210,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/aarya_sharma/from-widget-to-core-feature-how-developers-should-architect-chatbots-for-website-in-2026-5no" target="_blank">From Widget to Core Feature: How Developers Should Architect Chatbots For Website in 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-13 06:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kawano_aiyuki/i-debug-code-like-i-debug-life-spoiler-both-throw-exceptions-e69" target="_blank">I Debug Code Like I Debug Life (Spoiler: Both Throw Exceptions)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-13 05:00</span>
             </div>
         </div>
 </div>
@@ -331,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
