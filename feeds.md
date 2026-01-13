@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-13 12:02:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-01-13 13:14:56 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 13 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, January 13, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, January 13, 2026 - 13:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de92/live/6ff339a0-f07b-11f0-8162-5ba718a8bc6a.jpg" alt="Cover-up law delayed after concerns it will not apply fully to MI5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8rmpllmpy7o?at_medium=RSS&at_campaign=rss" target="_blank">Cover-up law delayed after concerns it will not apply fully to MI5</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-13 12:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/13/the-gaza-graffiti-artist-using-shattered-buildings-as-a-canvas?traffic_source=rss" target="_blank">The Gaza graffiti artist using shattered buildings as a canvas</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-13 12:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/In-protests-DB-260113_1768295306184_hpMain_4x3t_384.jpg" alt="Iran protests: 646 killed, activists say, as Trump weighs military action" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/iran-protests-646-killed-activists-trump-weighs-military/story?id=129156635" target="_blank">Iran protests: 646 killed, activists say, as Trump weighs military action</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-13 12:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/13/g-s1-105846/up-first-newsletter-trump-iran-minneapolis-ice-shooting-scotus-trans-sports" target="_blank">Minnesota sues over Trump&#x27;s ICE enforcement. And, SCOTUS hears trans athlete cases</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-13 12:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -63,47 +101,38 @@
                 <span class="time">2026-01-13 10:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-vienna-snowplows_7134012.jpg?20260113102711" alt="Airports close and flights disrupted across Europe due to icy weather" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/airports-close-and-flights-disrupted-across-europe-due-to-icy-weather-13493226" target="_blank">Airports close and flights disrupted across Europe due to icy weather</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-13 10:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260112-donald-trump-ew-505p-2261ae.jpg" alt="Trump turns to progressives for ideas on affordability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-progressives-affordability-rcna253633" target="_blank">Trump turns to progressives for ideas on affordability</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-13 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/13/trump-wants-a-10-cap-on-credit-card-interest-rates-would-that-work?traffic_source=rss" target="_blank">Trump wants a 10% cap on credit card interest rates. Would that work?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-13 09:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/13/taiwan-says-general-consensus-reached-with-us-on-trade-deal?traffic_source=rss" target="_blank">Taiwan says ‘general consensus’ reached with US on trade deal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-13 08:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69654c00a72deed13ec48030/master/pass/Review-%20Urevo%20SpaceWalk%205L.png" alt="Urevo SpaceWalk 5L Walking Pad Review: Compact and Affordable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/urevo-spacewalk-5l-walking-pad/" target="_blank">Urevo SpaceWalk 5L Walking Pad Review: Compact and Affordable</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-13 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/860616/insta360-link-2-2c-pro-face-tracking-webcam" target="_blank">Insta360’s face-tracking webcams get bigger sensors and more expensive</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-13 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/death-cap-mushroom-500x405.png" alt="Wild mushrooms keep killing people in California; 3 dead, 35 poisoned" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/01/wild-mushrooms-keep-killing-people-in-california-3-dead-35-poisoned/" target="_blank">Wild mushrooms keep killing people in California; 3 dead, 35 poisoned</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-13 12:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/696183e712fa4662656bef6a/master/pass/Big-Interview-UV-Solo-Reid-Hoffman-2206160049.jpg" alt="Reid Hoffman Wants Silicon Valley to ‘Stand Up’ Against the Trump Administration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,33 +160,6 @@
                 <span class="time">2026-01-13 10:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Hoka Coupon Codes: 10% Off | January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hoka-coupon-code/" target="_blank">Hoka Coupon Codes: 10% Off | January 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-13 07:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/12/meta-backed-hupo-finds-growth-after-pivot-to-ai-sales-coaching-from-mental-wellness/" target="_blank">Meta-backed Hupo finds growth after pivot to AI sales coaching from mental wellness</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-13 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/12/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/" target="_blank">More than 100 new tech unicorns were minted in 2025 — here they are</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-13 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +172,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fudoqzxdfwuctnemp65um.png" alt="Serverless Picture Gallery on Google Cloud - Part 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ppabis/serverless-picture-gallery-on-google-cloud-part-3-24k1" target="_blank">Serverless Picture Gallery on Google Cloud - Part 3</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-13 13:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18782443&w=600" alt="AI as a Co-Creator, Not Just an Assistant: The Rise of Collaborative Intelligence in Software Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-as-a-co-creator-not-just-an-assistant" target="_blank">AI as a Co-Creator, Not Just an Assistant: The Rise of Collaborative Intelligence in Software Development</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-13 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/fedora-gnome-extension-manager-proposal/" target="_blank">Hey Fedora! Listen to This Developer and Make Managing Shell Extensions Better For All of Us</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-13 12:06</span>
             </div>
         </div>
 <div class="story">
@@ -190,38 +219,20 @@
                 <span class="time">2026-01-13 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/brendon_oneill__/diving-into-doubly-linked-lists-2l09" target="_blank">Diving Into Doubly Linked Lists</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-13 11:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/bcachefs-tools-1.35" target="_blank">Bcachefs Ships Latest User-Space Utilities With bcachefs-tools 1.35</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-13 11:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/google-conductor/en/headerimage/generatedHeaderImage-1768216044085.jpg" alt="Google Introduces Conductor, a Context-Driven Development Extension for Gemini CLI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/google-conductor/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Introduces Conductor, a Context-Driven Development Extension for Gemini CLI</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-13 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/frodo-gandalf-moria-fellowship-of-the-ring-1280x853.jpg" alt="Elijah Wood Says More ‘Lord of the Rings’ Movies Are Coming, Just Don’t Ask Him if He’s in Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elijah-wood-hunt-for-gollum-lord-of-the-rings-future-2000709422" target="_blank">Elijah Wood Says More ‘Lord of the Rings’ Movies Are Coming, Just Don’t Ask Him if He’s in Them</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-13 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/trump-in-oval-office-1280x925.jpg" alt="Trump Claims He and Microsoft Have a Solution for AI-Related Utility Price Spikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +278,6 @@
                 <span class="time">2026-01-12 23:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/meta-quest-1280x852.jpg" alt="Meta Reportedly Cutting About 1,500 VR and AR Jobs Amid Renewed Push to Become an AI Juggernaut" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/meta-reportedly-cutting-about-1500-vr-and-ar-jobs-amid-renewed-push-to-become-an-ai-juggernaut-2000708826" target="_blank">Meta Reportedly Cutting About 1,500 VR and AR Jobs Amid Renewed Push to Become an AI Juggernaut</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-12 22:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 13:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
