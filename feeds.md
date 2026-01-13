@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-13 01:29:52 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-01-13 02:35:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, January 13, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, January 13, 2026 - 02:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -87,21 +81,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-iran-amir-ali-haydari_7133776.png?20260112224824" alt="&#x27;He was shot in the heart&#x27;: The teen victims of Iran&#x27;s ruthless crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/he-was-shot-in-the-heart-the-teen-victims-of-irans-ruthless-crackdown-13493544" target="_blank">&#x27;He was shot in the heart&#x27;: The teen victims of Iran&#x27;s ruthless crackdown</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-12 21:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/01/1920x1080/skynews-iran-amir-ali-haydari_7133776.png?20260112224824" alt="&#x27;He was shot in the heart&#x27; - the teen victims of Iran&#x27;s ruthless crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/he-was-shot-in-the-heart-the-teen-victims-of-irans-ruthless-crackdown-13493544" target="_blank">&#x27;He was shot in the heart&#x27; - the teen victims of Iran&#x27;s ruthless crackdown</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-01-12 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/12/nx-s1-5637424/as-birth-rates-tumble-some-progressives-say-the-left-needs-to-offer-solutions" target="_blank">As birth rates tumble, some progressives say the Left needs to offer solutions</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-12 21:05</span>
             </div>
         </div>
 </div>
@@ -180,6 +174,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GCC-16-Stage-4-Development" target="_blank">GCC 16 Compiler Steps Closer To Release With Algol 68 Frontend, AMD Zen 6, C++20 Default</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-13 01:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aws-builders/aws-graviton-migration-with-kiro-cli-and-the-arm-mcp-server-38fd" target="_blank">AWS Graviton migration with Kiro CLI and the Arm MCP server</a></span>
                 <span class="feed">DEV Community</span>
@@ -210,15 +213,6 @@
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Wine-11.0-Tomorrow" target="_blank">Wine 11.0 Planned For Release Tomorrow With NTSync Support, Better WoW64</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-01-12 20:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vsn8ea1rlevyq55aee1.png" alt="Letting Kiro Drive — Autopilot and Hooks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/letting-kiro-drive-autopilot-and-hooks-12c0" target="_blank">Letting Kiro Drive — Autopilot and Hooks</a></span>
-                <span class="feed">DEV Community</span>
                 <span class="time">2026-01-12 20:57</span>
             </div>
         </div>
@@ -301,6 +295,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5742.png" alt="Mistress Of Subtlety" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5742" target="_blank">Mistress Of Subtlety</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-01-13 01:56</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -327,22 +330,13 @@
                 <span class="time">2026-01-12 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5741.png" alt="The Observer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5741" target="_blank">The Observer</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-01-12 01:58</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 276 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 276 |
+        🔄 Last Updated: 02:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
