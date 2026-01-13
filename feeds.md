@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-13 21:01:46 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-13 22:01:33 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, January 13, 2026 - 21:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, January 13, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/13/trump-says-trade-agreement-with-mexico-canada-irrelevant-to-us?traffic_source=rss" target="_blank">Trump says trade agreement with Mexico, Canada ‘irrelevant’ to US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-13 21:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260113-minneapolis-ice-car-ew-312p-7dd794.jpg" alt="At least 3 prosecutors resign over concerns about probe into ICE shooting, source says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/justice-department/least-3-prosecutors-resign-concerns-probe-minneapolis-ice-shooting-sou-rcna253876" target="_blank">At least 3 prosecutors resign over concerns about probe into ICE shooting, source says</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-13 21:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-6-gty-gmh-260112_1768230063676_hpMain_4x3t_384.jpg" alt="Some of the military options Trump could consider against Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,24 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/13/nx-s1-5413219/scott-adams-dilbert-dies" target="_blank">Scott Adams, the controversial cartoonist behind &#x27;Dilbert,&#x27; dies at 68</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-13 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/13/nigeria-vs-morocco-afcon-2025-semifinal-lineups-start-time-osimhen-lookman-diaz?traffic_source=rss" target="_blank">Nigeria vs Morocco: AFCON semifinal – team news, start time and lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-13 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48e3/live/657dc850-f099-11f0-b841-f5ca2eea5c88.jpg" alt="Bowen: Authoritarian regimes die gradually then suddenly, but Iran is not there yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cedwgn4pqv4o?at_medium=RSS&at_campaign=rss" target="_blank">Bowen: Authoritarian regimes die gradually then suddenly, but Iran is not there yet</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-13 16:47</span>
             </div>
         </div>
 </div>
@@ -239,6 +240,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEWEENS8E6M36N5BDB1Y5Q8G/hero-image.png" alt="This Bose Waterproof Bluetooth Speaker Is $100 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/bose-soundlink-micro-speaker-sale-january-2026?utm_medium=RSS" target="_blank">This Bose Waterproof Bluetooth Speaker Is $100 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-13 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/05/4526d962d7e1c9e8f54026ded52878a5-1280x720.jpg" alt="Stellar Blade Dev Believes ‘One Person Can Perform The Work Of 100 People’ With AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/stellar-blade-2-gen-ai-shift-up-sequel-2000659439" target="_blank">Stellar Blade Dev Believes ‘One Person Can Perform The Work Of 100 People’ With AI</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-13 21:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2021/12/4a1458f61b31b075ac19b0f19aefb395-1280x720.jpg" alt="Infamous Peter Molyneux Parody Account Calls It Quits After 16 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -272,24 +291,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/samsung-odyssey-g5-gaming-monitor-sale-january-2026?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The Samsung Odyssey G5 Gaming Monitor</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-13 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Apple-Immersive-Video-Spectrum-SportsNet-front-row-video-1280x853.jpg" alt="Apple’s Big Virtual Reality NBA Game Debut Demands More Interactivity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/apples-big-virtual-reality-nba-game-debut-demands-more-interactivity-2000709640" target="_blank">Apple’s Big Virtual Reality NBA Game Debut Demands More Interactivity</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-13 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/Anker-Prime-Docking-Station-1280x853.jpg" alt="Anker Prime Docking Station (14-Port, 160W) Crashes to Lowest Price of the Year, Now Cheaper Than During Last Holidays" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/anker-prime-docking-station-14-port-160w-crashes-to-lowest-price-of-the-year-now-cheaper-than-during-last-holidays-2000659243" target="_blank">Anker Prime Docking Station (14-Port, 160W) Crashes to Lowest Price of the Year, Now Cheaper Than During Last Holidays</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-13 15:35</span>
             </div>
         </div>
 </div>
@@ -329,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
