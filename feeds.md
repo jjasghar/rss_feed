@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-13 00:04:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-13 01:29:52 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, January 13, 2026 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, January 13, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +51,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/13/us-revokes-more-than-100000-visas-since-trumps-return-to-office?traffic_source=rss" target="_blank">US revokes more than 100,000 visas since Trump’s return to office</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-13 01:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/12/g-s1-105808/offshore-orsted-revolution-wind-trump-court-clean-energy" target="_blank">Offshore wind developer prevails in U.S. court as Trump calls wind farms &#x27;losers&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-13 00:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768262774619_nn_mve_Minneapolis_ICE_260112_1920x1080-jged8w.jpg" alt="New clashes over ICE operations in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-clashes-over-ice-operations-in-minneapolis-255833669841" target="_blank">New clashes over ICE operations in Minneapolis</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-13 00:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260108-minneapolis-law-enforcement-ch-1215-0678e8.jpg" alt="Minnesota sues federal government to end deployment of immigration agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/news/us-news/minnesota-sues-federal-government-immigration-agent-rcna253686" target="_blank">Minnesota sues federal government to end deployment of immigration agents</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-01-12 22:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-iran-amir-ali-haydari_7133776.png?20260112224824" alt="&#x27;He was shot in the heart&#x27; - the teen victims of Iran&#x27;s ruthless crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/he-was-shot-in-the-heart-the-teen-victims-of-irans-ruthless-crackdown-13493544" target="_blank">&#x27;He was shot in the heart&#x27; - the teen victims of Iran&#x27;s ruthless crackdown</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-12 21:44</span>
             </div>
         </div>
 <div class="story">
@@ -67,47 +104,29 @@
                 <span class="time">2026-01-12 21:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/12/nx-s1-5675151/trump-credit-card-interest-rate-cap" target="_blank">Trump calls for a 10% cap on credit card interest rates</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-12 20:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/12/republican-lawmakers-break-from-us-president-on-fed-chair-indictment?traffic_source=rss" target="_blank">Republican lawmakers break from US president on Fed chair indictment</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-12 20:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/mark-kelly-2-gty-gmh-260112_1768243265567_hpMain_4x3t_384.jpg" alt="Sen. Mark Kelly files lawsuit against Pete Hegseth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/sen-mark-kelly-files-lawsuit-pete-hegseth-censure/story?id=129142913" target="_blank">Sen. Mark Kelly files lawsuit against Pete Hegseth</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-12 20:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb03/live/7d6a9300-efde-11f0-a422-4ba8a094a8fa.jpg" alt="&#x27;They just kept killing&#x27;: Eyewitnesses describe deadly crackdown in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgp70ynx1po?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;They just kept killing&#x27;: Eyewitnesses describe deadly crackdown in Iran</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-12 19:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69657ea7c1888fd2ae66437c/master/pass/New-Proposed-Legislation-Would-Let-Self-Driving-Cars%20Operate%20in-New-York-State-Gear-2250123135.jpg" alt="New Proposed Legislation Would Let Self-Driving Cars Operate in New York State" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/proposed-legislation-self-driving-cars-in-new-york-state/" target="_blank">New Proposed Legislation Would Let Self-Driving Cars Operate in New York State</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-13 00:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/22997597/best-robot-vacuum-cleaner" target="_blank">The best robot vacuums we’ve tested for 2026</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-13 00:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -115,6 +134,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/12/openai-buys-tiny-health-records-startup-torch-for-reportedly-100m/" target="_blank">OpenAI buys tiny health records startup Torch for, reportedly, $100M</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-13 00:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Claude-Cowork-500x500.jpg" alt="Anthropic launches Cowork, a Claude Code-like for general computing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/01/anthropic-launches-cowork-a-claude-code-like-for-general-computing/" target="_blank">Anthropic launches Cowork, a Claude Code-like for general computing</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-12 23:42</span>
             </div>
         </div>
 <div class="story">
@@ -133,33 +161,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/" target="_blank">Why Amazon bought Bee, an AI wearable</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-12 21:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1488311999-500x500.jpg" alt="Google removes some AI health summaries after investigation finds “dangerous” flaws" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/" target="_blank">Google removes some AI health summaries after investigation finds “dangerous” flaws</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-12 21:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/860791/baseus-enercore-cg11-6-in-1-universal-travel-adapter-deal-sale" target="_blank">Baseus’ retractable travel adapter is on sale for more than 50 percent off today</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-12 20:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/bath1-500x500.jpg" alt="Switching water sources improved hygiene of Pompeii’s public baths" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/01/switching-water-sources-improved-hygiene-of-pompeiis-public-baths/" target="_blank">Switching water sources improved hygiene of Pompeii’s public baths</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-12 20:00</span>
             </div>
         </div>
 </div>
@@ -340,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 276 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
