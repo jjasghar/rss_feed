@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-13 05:05:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-13 06:02:23 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, January 13, 2026 - 05:05 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, January 13, 2026 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +53,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/13/us-slams-russias-dangerous-escalation-in-ukraine-amid-new-deadly-strikes?traffic_source=rss" target="_blank">US slams Russia’s ‘dangerous escalation’ in Ukraine amid new deadly strikes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-13 04:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e23/live/24141370-f02f-11f0-871b-d73a405c0ae0.jpg" alt="X could &#x27;lose right to self regulate&#x27;, says Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq845glnvl1o?at_medium=RSS&at_campaign=rss" target="_blank">X could &#x27;lose right to self regulate&#x27;, says Starmer</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-13 03:34</span>
             </div>
         </div>
 <div class="story">
@@ -87,15 +98,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-clashes-over-ice-operations-in-minneapolis-255833669841" target="_blank">New clashes over ICE operations in Minneapolis</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-01-13 00:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768262168120_nn_kod_backlash_after_doj_launches_criminal_investigation_into_fed_chair_260112_1920x1080-8jynda.jpg" alt="Backlash after DOJ launches criminal investigation into fed chair" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/backlash-after-doj-launches-criminal-investigation-into-fed-chair-255835717642" target="_blank">Backlash after DOJ launches criminal investigation into fed chair</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-12 23:56</span>
             </div>
         </div>
 </div>
@@ -281,12 +283,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/05/adbafffe54439bcfbfc6e78ceeff473d-1280x720.jpg" alt="Rockstar Wins Initial Ruling Against Fired GTA 6 Devs: ‘We Regret That We Were Put In A Position Where Dismissals Were Necessary’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/postal-arbitrage.jpg?fit=1200%2C622&amp;quality=60&amp;ssl=1" alt="Postal arbitrage: sending gifts through Amazon for less than a stamp" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/rockstar-wins-initial-ruling-against-fired-gta-6-devs-we-regret-that-we-were-put-in-a-position-where-dismissals-were-necessary-2000658984" target="_blank">Rockstar Wins Initial Ruling Against Fired GTA 6 Devs: ‘We Regret That We Were Put In A Position Where Dismissals Were Necessary’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-12 22:17</span>
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/12/postal-arbitrage-sending-gifts-through-amazon-for-less-than-a-stamp.html" target="_blank">Postal arbitrage: sending gifts through Amazon for less than a stamp</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-12 22:24</span>
             </div>
         </div>
 </div>
@@ -335,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 05:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
