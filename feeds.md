@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-13 09:04:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-13 10:01:45 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, January 13, 2026 - 09:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, January 13, 2026 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,9 +53,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/13/trump-wants-a-10-cap-on-credit-card-interest-rates-would-that-work?traffic_source=rss" target="_blank">Trump wants a 10% cap on credit card interest rates. Would that work?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-13 09:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/13/taiwan-says-general-consensus-reached-with-us-on-trade-deal?traffic_source=rss" target="_blank">Taiwan says ‘general consensus’ reached with US on trade deal</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-13 08:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/13/g-s1-105832/iran-first-calls-outside-world" target="_blank">People in Iran describe heavy security and some damage in first calls to outside world</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-13 08:09</span>
             </div>
         </div>
 <div class="story">
@@ -82,24 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/clyev0kpk77o?at_medium=RSS&at_campaign=rss" target="_blank">Trump briefed on military and covert options for Iran, sources say</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-13 05:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/13/us-slams-russias-dangerous-escalation-in-ukraine-amid-new-deadly-strikes?traffic_source=rss" target="_blank">US slams Russia’s ‘dangerous escalation’ in Ukraine amid new deadly strikes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-13 04:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e23/live/24141370-f02f-11f0-871b-d73a405c0ae0.jpg" alt="X could &#x27;lose right to self regulate&#x27;, says Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq845glnvl1o?at_medium=RSS&at_campaign=rss" target="_blank">X could &#x27;lose right to self regulate&#x27;, says Starmer</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-13 03:34</span>
             </div>
         </div>
 </div>
@@ -176,6 +177,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faaozvlnxztssewfk5ayy.png" alt="The Regression Bug Was the Most Important Result" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dqj1998/the-regression-bug-was-the-most-important-result-1ki4" target="_blank">The Regression Bug Was the Most Important Result</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-13 09:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4cmcdqmvm80wb3y0b4hw.png" alt="Vibe coding method that actually works" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/kawano_aiyuki/i-debug-code-like-i-debug-life-spoiler-both-throw-exceptions-e69" target="_blank">I Debug Code Like I Debug Life (Spoiler: Both Throw Exceptions)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-13 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fudfwze1onqya75gcc7oz.png" alt="OpenCode: tools, commands, agents y workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kevinl/opencode-tools-commands-agents-y-workflows-i29" target="_blank">OpenCode: tools, commands, agents y workflows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-13 04:05</span>
             </div>
         </div>
 </div>
@@ -330,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 276 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
