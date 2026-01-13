@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-13 13:14:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-13 14:03:28 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 13 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, January 13, 2026 - 13:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, January 13, 2026 - 14:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/price-tag-2-gty-gmh-260112_1768254058657_hpMain_4x3t_384.jpg" alt="Inflation held firm in December, testing Fed amid DOJ probe into Powell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Business/inflation-expected-held-firm-posing-challenge-amid-doj/story?id=129127426" target="_blank">Inflation held firm in December, testing Fed amid DOJ probe into Powell</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-13 13:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/13/inuit-fisherman-fears-us-takeover-of-greenland?traffic_source=rss" target="_blank">Inuit fisherman fears US takeover of Greenland</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-13 13:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de92/live/6ff339a0-f07b-11f0-8162-5ba718a8bc6a.jpg" alt="Cover-up law delayed after concerns it will not apply fully to MI5" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +102,20 @@
                 <span class="time">2026-01-13 12:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/13/which-countries-made-the-biggest-deals-with-israel-in-2025?traffic_source=rss" target="_blank">Which countries made the biggest deals with Israel in 2025?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-13 10:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/13/nx-s1-5670393/california-wildfires-home-insurance-climate-change" target="_blank">California fire victims say fighting with insurance companies has delayed rebuilding</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-13 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/861148/lego-smart-brick-claude-code-vergecast" target="_blank">How Lego’s Smart Brick works</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-13 13:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69654c00a72deed13ec48030/master/pass/Review-%20Urevo%20SpaceWalk%205L.png" alt="Urevo SpaceWalk 5L Walking Pad Review: Compact and Affordable" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,15 +161,6 @@
                 <span class="time">2026-01-13 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/695fce572daaa83c113e7a9d/master/pass/sec-ice-safety-2254637736.jpg" alt="What to Do If ICE Invades Your Neighborhood" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/what-to-do-if-ice-invades-your-neighborhood/" target="_blank">What to Do If ICE Invades Your Neighborhood</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-13 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +173,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18789416&w=600" alt="MCP servers are everywhere, but most are collecting dust. Here are the key lessons we learned to avoid that." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/mcp-servers-are-everywhere-but-most-are-collecting" target="_blank">MCP servers are everywhere, but most are collecting dust. Here are the key lessons we learned to avoid that.</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-13 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FFmpeg-Vulkan-Starts-2026" target="_blank">FFmpeg Merges A Number Of Vulkan Improvements To Start 2026</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-13 13:15</span>
             </div>
         </div>
 <div class="story">
@@ -201,22 +220,18 @@
                 <span class="time">2026-01-13 12:06</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/deploy-spring-application-to-production" target="_blank">Deploy your Spring Boot application to production</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-01-13 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18823408&w=600" alt="Supercharge AI Workflows on Azure: Remote MCP Tool Triggers + Your First TypeScript MCP Server" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/supercharge-ai-workflows-on-azure-remote-mcp-tool-triggers" target="_blank">Supercharge AI Workflows on Azure: Remote MCP Tool Triggers + Your First TypeScript MCP Server</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-13 12:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/1980s-hacker-manifesto.html" target="_blank">1980s Hacker Manifesto</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-01-13 12:09</span>
             </div>
         </div>
 </div>
@@ -224,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/avengers-doomsday-thing-fantastic-four-1280x853.jpg" alt="The Latest ‘Avengers: Doomsday’ Trailer Gives Us an Unlikely Team-Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/avengers-doomsday-teaser-shuri-namor-fantastic-four-2000706231" target="_blank">The Latest ‘Avengers: Doomsday’ Trailer Gives Us an Unlikely Team-Up</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-13 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/zombieee-1280x720.jpg" alt="Steam’s Big New Zombie Game Is Tense, But Comes At A Bad Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/steams-big-new-zombie-game-is-tense-but-comes-at-a-bad-time-2000658992" target="_blank">Steam’s Big New Zombie Game Is Tense, But Comes At A Bad Time</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-13 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/frodo-gandalf-moria-fellowship-of-the-ring-1280x853.jpg" alt="Elijah Wood Says More ‘Lord of the Rings’ Movies Are Coming, Just Don’t Ask Him if He’s in Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -258,24 +291,6 @@
                 <span class="title"><a href="https://gizmodo.com/ai-images-create-confusion-as-real-gang-of-monkeys-roams-st-louis-2000709419" target="_blank">AI Images Create Confusion as Real Gang of Monkeys Roams St. Louis</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-13 01:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KET0KH9S92AH0Z759TFWW2Y8/hero-image.jpg" alt="Microsoft Is Finally Retiring Its Free Scanner App (but There Are Alternatives)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/microsoft-retiring-microsoft-lens?utm_medium=RSS" target="_blank">Microsoft Is Finally Retiring Its Free Scanner App (but There Are Alternatives)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-12 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/Hares-1280x720.jpg" alt="Dude Will Delete AI-Generated Game From Steam After New Girlfriend Convinces Him AI Sucks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dude-will-delete-ai-generated-game-from-steam-after-new-girlfriend-convinces-him-ai-sucks-2000659024" target="_blank">Dude Will Delete AI-Generated Game From Steam After New Girlfriend Convinces Him AI Sucks</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-12 23:22</span>
             </div>
         </div>
 </div>
@@ -315,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 13:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 14:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
