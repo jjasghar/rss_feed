@@ -1,42 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-13 20:02:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-13 21:01:46 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 34 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, January 13, 2026 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, January 13, 2026 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-6-gty-gmh-260112_1768230063676_hpMain_4x3t_384.jpg" alt="Some of the military options Trump could consider against Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/military-options-trump-iran-after-warning-big-trouble/story?id=129142628" target="_blank">Some of the military options Trump could consider against Iran</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-13 19:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,20 +101,29 @@
                 <span class="time">2026-01-13 16:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d005/live/19bcc2c0-f0a0-11f0-85ea-637af9691683.jpg" alt="Starmer considers joining Trump&#x27;s Gaza peace board" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c79rqd947vzo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer considers joining Trump&#x27;s Gaza peace board</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-13 16:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/" target="_blank">Microsoft announces glut of new data centers but says it won’t let your electricity bill go up</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-13 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/microsoft_datacenter_2025-500x500.jpg" alt="Microsoft vows to cover full power costs for energy-hungry AI data centers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/01/microsoft-vows-to-cover-full-power-costs-for-energy-hungry-ai-data-centers/" target="_blank">Microsoft vows to cover full power costs for energy-hungry AI data centers</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-13 20:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,30 +152,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2182255823-500x500.jpg" alt="EPA axes benefits from cost-benefit analysis for air pollution limits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media.wired.com/photos/6961629240ae834c4b952480/master/pass/Living-in-Clicktocracy-Politics-2254306906.jpg" alt="Everything Is Content for the ‘Clicktatorship’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/01/epa-axes-benefits-from-cost-benefit-analysis-for-air-pollution-limits/" target="_blank">EPA axes benefits from cost-benefit analysis for air pollution limits</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-13 18:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/13/doctors-think-ai-has-a-place-in-healthcare-but-maybe-not-as-a-chatbot/" target="_blank">Doctors think AI has a place in healthcare – but maybe not as a chatbot</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-13 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/861349/verizon-fcc-phone-unlocking-60-day-requirement-waived" target="_blank">Verizon gets FCC permission to end 60-day phone unlocking rule</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-13 17:48</span>
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/everything-is-content-for-the-clicktatorship/" target="_blank">Everything Is Content for the ‘Clicktatorship’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-13 18:59</span>
             </div>
         </div>
 </div>
@@ -177,6 +172,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18831235&w=600" alt="Revisiting the 7 Rs of Cloud Migration with Real-World Examples" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/revisiting-the-7-rs-of-cloud-migration-with-real-w" target="_blank">Revisiting the 7 Rs of Cloud Migration with Real-World Examples</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-13 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -213,15 +217,6 @@
                 <span class="title"><a href="https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/" target="_blank">Signal leaders warn agentic AI is an insecure, unreliable surveillance risk</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-13 18:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18829447&w=600" alt="Architecting Observability in Kubernetes with OpenTelemetry and Fluent Bit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/architecting-observability-in-kubernetes-with-otel-fluent-bit" target="_blank">Architecting Observability in Kubernetes with OpenTelemetry and Fluent Bit</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-13 18:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
