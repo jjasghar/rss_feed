@@ -1,34 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-01-13 02:35:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-13 03:29:18 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, January 13, 2026 - 02:35 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, January 13, 2026 - 03:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-6-gty-gmh-260112_1768230063676_hpMain_4x3t_384.jpg" alt="Some of the military options Trump could consider on Iran over protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/military-options-trump-iran-after-warning-big-trouble/story?id=129142628" target="_blank">Some of the military options Trump could consider on Iran over protests</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-13 01:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +107,20 @@
                 <span class="time">2026-01-12 21:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-iran-amir-ali-haydari_7133776.png?20260112224824" alt="&#x27;He was shot in the heart&#x27; - the teen victims of Iran&#x27;s ruthless crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/he-was-shot-in-the-heart-the-teen-victims-of-irans-ruthless-crackdown-13493544" target="_blank">&#x27;He was shot in the heart&#x27; - the teen victims of Iran&#x27;s ruthless crackdown</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-12 21:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/12/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/" target="_blank">More than 100 new tech unicorns were minted in 2025 — here they are</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-13 01:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69657ea7c1888fd2ae66437c/master/pass/New-Proposed-Legislation-Would-Let-Self-Driving-Cars%20Operate%20in-New-York-State-Gear-2250123135.jpg" alt="New Proposed Legislation Would Let Self-Driving Cars Operate in New York State" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +166,6 @@
                 <span class="time">2026-01-12 22:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/" target="_blank">Why Amazon bought Bee, an AI wearable</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-12 21:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +178,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jwebsite-go/readiness-probe-3co0" target="_blank">Readiness probe</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-13 02:37</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +225,6 @@
                 <span class="time">2026-01-12 21:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.0-Tomorrow" target="_blank">Wine 11.0 Planned For Release Tomorrow With NTSync Support, Better WoW64</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-12 20:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/image-10.jpg" alt="GTA Online Players Keep Making Charlie Kirk Assassination Missions And Rockstar Keeps Deleting Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gta-online-charlie-kirk-killing-assassination-missions-rockstar-deleting-censor-block-2000659038" target="_blank">GTA Online Players Keep Making Charlie Kirk Assassination Missions And Rockstar Keeps Deleting Them</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-13 01:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/monkeys-ai-sora-1280x853.jpg" alt="AI Images Create Confusion as Real Gang of Monkeys Roams St. Louis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ai-images-create-confusion-as-real-gang-of-monkeys-roams-st-louis-2000709419" target="_blank">AI Images Create Confusion as Real Gang of Monkeys Roams St. Louis</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-13 01:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KET0KH9S92AH0Z759TFWW2Y8/hero-image.jpg" alt="Microsoft Is Finally Retiring Its Free Scanner App (but There Are Alternatives)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +296,6 @@
                 <span class="title"><a href="https://kotaku.com/rockstar-wins-initial-ruling-against-fired-gta-6-devs-we-regret-that-we-were-put-in-a-position-where-dismissals-were-necessary-2000658984" target="_blank">Rockstar Wins Initial Ruling Against Fired GTA 6 Devs: ‘We Regret That We Were Put In A Position Where Dismissals Were Necessary’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-12 22:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KESTZCNF7TXGRXP7XKMCK28T/hero-image.png" alt="This Smart Ring Tracks Sleep Apnea, and It’s $60 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/ringconn-gen-2-smart-ring-sale-january-2026?utm_medium=RSS" target="_blank">This Smart Ring Tracks Sleep Apnea, and It’s $60 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-12 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/hoba-meteorite.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="The largest meteorite on Earth is still exactly where it landed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/12/the-largest-meteorite-on-earth-is-still-exactly-where-it-landed.html" target="_blank">The largest meteorite on Earth is still exactly where it landed</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-12 21:31</span>
             </div>
         </div>
 </div>
@@ -335,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 276 |
-        🔄 Last Updated: 02:35 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 03:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
