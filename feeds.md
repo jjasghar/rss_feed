@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-13 06:02:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-13 07:04:40 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, January 13, 2026 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, January 13, 2026 - 07:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/13/us-faces-war-crime-allegation-for-disguising-aircraft-in-drug-boat-attack?traffic_source=rss" target="_blank">US faces war crime allegation for ‘disguising’ aircraft in drug boat attack</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-13 06:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/12/g-s1-105808/offshore-orsted-revolution-wind-trump-court-clean-energy" target="_blank">Offshore wind developer prevails in U.S. court as Trump calls wind farms &#x27;losers&#x27;</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-13 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768262774619_nn_mve_Minneapolis_ICE_260112_1920x1080-jged8w.jpg" alt="New clashes over ICE operations in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-clashes-over-ice-operations-in-minneapolis-255833669841" target="_blank">New clashes over ICE operations in Minneapolis</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-13 00:06</span>
             </div>
         </div>
 </div>
@@ -176,6 +176,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/01/13/vibe-code-anything-in-a-hanselminute/" target="_blank">Vibe code anything in a Hanselminute</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-01-13 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw5faejtz4k0w7k9kpb1c.png" alt="From Widget to Core Feature: How Developers Should Architect Chatbots For Website in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aarya_sharma/from-widget-to-core-feature-how-developers-should-architect-chatbots-for-website-in-2026-5no" target="_blank">From Widget to Core Feature: How Developers Should Architect Chatbots For Website in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-13 06:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kawano_aiyuki/i-debug-code-like-i-debug-life-spoiler-both-throw-exceptions-e69" target="_blank">I Debug Code Like I Debug Life (Spoiler: Both Throw Exceptions)</a></span>
                 <span class="feed">DEV Community</span>
@@ -200,24 +218,6 @@
                 <span class="time">2026-01-13 02:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GCC-16-Stage-4-Development" target="_blank">GCC 16 Compiler Steps Closer To Release With Algol 68 Frontend, AMD Zen 6, C++20 Default</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-13 01:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/aws-graviton-migration-with-kiro-cli-and-the-arm-mcp-server-38fd" target="_blank">AWS Graviton migration with Kiro CLI and the Arm MCP server</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-12 23:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/trump-in-oval-office-1280x925.jpg" alt="Trump Claims He and Microsoft Have a Solution for AI-Related Utility Price Spikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-claims-he-and-microsoft-have-a-solution-for-ai-related-utility-price-spikes-2000709410" target="_blank">Trump Claims He and Microsoft Have a Solution for AI-Related Utility Price Spikes</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-13 03:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/image-10.jpg" alt="GTA Online Players Keep Making Charlie Kirk Assassination Missions And Rockstar Keeps Deleting Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/meta-reportedly-cutting-about-1500-vr-and-ar-jobs-amid-renewed-push-to-become-an-ai-juggernaut-2000708826" target="_blank">Meta Reportedly Cutting About 1,500 VR and AR Jobs Amid Renewed Push to Become an AI Juggernaut</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-12 22:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/postal-arbitrage.jpg?fit=1200%2C622&amp;quality=60&amp;ssl=1" alt="Postal arbitrage: sending gifts through Amazon for less than a stamp" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/12/postal-arbitrage-sending-gifts-through-amazon-for-less-than-a-stamp.html" target="_blank">Postal arbitrage: sending gifts through Amazon for less than a stamp</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-12 22:24</span>
             </div>
         </div>
 </div>
@@ -337,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 276 |
+        🔄 Last Updated: 07:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
