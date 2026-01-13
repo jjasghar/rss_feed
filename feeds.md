@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-13 22:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-13 23:01:27 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 12 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, January 13, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, January 13, 2026 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +54,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/13/un-chief-warns-he-could-refer-israel-to-icj-over-laws-targetting-unrwa?traffic_source=rss" target="_blank">UN chief warns he could refer Israel to ICJ over laws targetting UNRWA</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-13 22:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/13/trump-says-trade-agreement-with-mexico-canada-irrelevant-to-us?traffic_source=rss" target="_blank">Trump says trade agreement with Mexico, Canada ‘irrelevant’ to US</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-13 21:35</span>
@@ -64,6 +75,15 @@
                 <span class="title"><a href="https://www.nbcnews.com/news/justice-department/least-3-prosecutors-resign-concerns-probe-minneapolis-ice-shooting-sou-rcna253876" target="_blank">At least 3 prosecutors resign over concerns about probe into ICE shooting, source says</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-01-13 21:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768336360039_now_daily_b_ainsley_prosecutors_minn_260113_1920x1080-d0xtaa.jpg" alt="Prosecutors in Minnesota resign over concerns about ICE shooting investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/prosecutors-in-minnesota-resign-over-concerns-about-ice-shooting-investigation-255880261776" target="_blank">Prosecutors in Minnesota resign over concerns about ICE shooting investigation</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-13 20:32</span>
             </div>
         </div>
 <div class="story">
@@ -84,29 +104,38 @@
                 <span class="time">2026-01-13 18:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fd3/live/902c39e0-f09b-11f0-a422-4ba8a094a8fa.jpg" alt="Income tax changes and mansion tax on £1m homes in Scottish Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckgnryke8r0o?at_medium=RSS&at_campaign=rss" target="_blank">Income tax changes and mansion tax on £1m homes in Scottish Budget</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-13 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/13/nx-s1-5413219/scott-adams-dilbert-dies" target="_blank">Scott Adams, the controversial cartoonist behind &#x27;Dilbert,&#x27; dies at 68</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-13 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-1329130331-500x500-1768339464.jpg" alt="The RAM shortage’s silver lining: Less talk about “AI PCs”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/the-ram-shortages-silver-lining-less-talk-about-ai-pcs/" target="_blank">The RAM shortage’s silver lining: Less talk about “AI PCs”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-13 22:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/861560/weathertech-founder-david-macneil-federal-trade-commission" target="_blank">WeatherTech founder might be the newest US consumer protection official</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-13 22:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/13/new-york-governor-clears-path-for-robotaxis-everywhere-with-one-notable-exception/" target="_blank">New York governor clears path for robotaxis everywhere, with one notable exception</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-13 22:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,33 +163,6 @@
                 <span class="time">2026-01-13 20:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/13/a-consumer-watchdog-issued-a-warning-about-googles-ai-agent-shopping-protocol-google-says-shes-wrong/" target="_blank">A consumer watchdog issued a warning about Google’s AI agent shopping protocol —  Google says she’s wrong</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-13 19:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Veo-31-500x500.jpg" alt="Google’s updated Veo model can make vertical videos from reference images with 4K upscaling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2026/01/googles-updated-veo-model-can-make-vertical-videos-from-reference-images-with-4k-upscaling/" target="_blank">Google’s updated Veo model can make vertical videos from reference images with 4K upscaling</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-13 19:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6961629240ae834c4b952480/master/pass/Living-in-Clicktocracy-Politics-2254306906.jpg" alt="Everything Is Content for the ‘Clicktatorship’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/everything-is-content-for-the-clicktatorship/" target="_blank">Everything Is Content for the ‘Clicktatorship’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-13 18:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +175,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwi5yhwkecm5w9kbytblv.png" alt="Did I Make Money with AI?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gudong/did-i-make-money-with-ai-1039" target="_blank">Did I Make Money with AI?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-13 22:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/" target="_blank">We can&#x27;t have nice things because of AI scrapers</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-13 21:57</span>
             </div>
         </div>
 <div class="story">
@@ -202,24 +222,6 @@
                 <span class="time">2026-01-13 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/what-ai-is-actually-good-for-according-to-developers/" target="_blank">What AI is actually good for, according to developers</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-01-13 18:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/" target="_blank">Signal leaders warn agentic AI is an insecure, unreliable surveillance risk</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-13 18:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +241,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/emu.jpg?fit=1200%2C846&amp;quality=60&amp;ssl=1" alt="In 1932, Australia went to war against emus (the emus won)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/13/in-1932-australia-went-to-war-against-emus-the-emus-won.html" target="_blank">In 1932, Australia went to war against emus (the emus won)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-13 22:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/Fallout-mod.jpg" alt="Don’t Let Todd Howard Catch You In This Fallout 4 Mod Or You’ll Die" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/todd-howard-fallout-4-mod-blurbs-youtube-2000659450" target="_blank">Don’t Let Todd Howard Catch You In This Fallout 4 Mod Or You’ll Die</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-13 22:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEWH9AKZEB6DT0NMKSDJQ2A7/hero-image.jpg" alt="Google Is Changing Its Account Policy About Minors Who Turn 13" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-is-changing-its-account-policy-about-minors-who-turn-13?utm_medium=RSS" target="_blank">Google Is Changing Its Account Policy About Minors Who Turn 13</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-13 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KEWEENS8E6M36N5BDB1Y5Q8G/hero-image.png" alt="This Bose Waterproof Bluetooth Speaker Is $100 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,33 +295,6 @@
                 <span class="time">2026-01-13 19:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEW3NKVHEQTJ5MWMETR034PX/hero-image.jpg" alt="How Your Child&#x27;s Google Account Changes When They Turn 13" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-your-childs-google-account-changes-when-they-turn-13?utm_medium=RSS" target="_blank">How Your Child&#x27;s Google Account Changes When They Turn 13</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-13 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/image-4.jpg" alt="Scalpers Are Already Trying To Flip The Pokémon Legos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-lego-scalper-charizard-pikachu-eevee-ebay-price-2000659400" target="_blank">Scalpers Are Already Trying To Flip The Pokémon Legos</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-13 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEW51KM3PR9VYC28THVTV42M/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Samsung Odyssey G5 Gaming Monitor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/samsung-odyssey-g5-gaming-monitor-sale-january-2026?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The Samsung Odyssey G5 Gaming Monitor</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-13 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,22 +318,13 @@
                 <span class="time">2026-01-13 01:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/12/fallout-boy" target="_blank">Fallout Boy</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-12 22:10</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
