@@ -1,36 +1,45 @@
-<!-- Processing 54 RSS feeds at 2026-01-13 07:04:40 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-13 08:02:18 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, January 13, 2026 - 07:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, January 13, 2026 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,9 +59,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/13/japans-new-pm-takaichi-eyes-parliament-dissolution-for-snap-polls-report?traffic_source=rss" target="_blank">Japan’s new PM Takaichi eyes parliament dissolution for snap polls: Report</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-13 07:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/13/us-faces-war-crime-allegation-for-disguising-aircraft-in-drug-boat-attack?traffic_source=rss" target="_blank">US faces war crime allegation for ‘disguising’ aircraft in drug boat attack</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-13 06:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ae0/live/276611b0-f03c-11f0-a422-4ba8a094a8fa.jpg" alt="Trump briefed on military and covert options for Iran, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyev0kpk77o?at_medium=RSS&at_campaign=rss" target="_blank">Trump briefed on military and covert options for Iran, sources say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-13 05:03</span>
             </div>
         </div>
 <div class="story">
@@ -80,24 +107,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/military-options-trump-iran-after-warning-big-trouble/story?id=129142628" target="_blank">Some of the military options Trump could consider on Iran over protests</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-13 01:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/13/us-revokes-more-than-100000-visas-since-trumps-return-to-office?traffic_source=rss" target="_blank">US revokes more than 100,000 visas since Trump’s return to office</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-13 01:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/12/g-s1-105808/offshore-orsted-revolution-wind-trump-court-clean-energy" target="_blank">Offshore wind developer prevails in U.S. court as Trump calls wind farms &#x27;losers&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-13 00:12</span>
             </div>
         </div>
 </div>
@@ -323,22 +332,13 @@
                 <span class="time">2026-01-12 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/01/12/fallout-boy" target="_blank">Fallout Boy</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-12 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 276 |
-        🔄 Last Updated: 07:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 276 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
