@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-13 16:03:14 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-13 17:05:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, January 13, 2026 - 16:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, January 13, 2026 - 17:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/13/nigeria-vs-morocco-afcon-2025-semifinal-lineups-start-time-osimhen-lookman-diaz?traffic_source=rss" target="_blank">Nigeria vs Morocco: AFCON semifinal – team news, start time and lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-13 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d005/live/19bcc2c0-f0a0-11f0-85ea-637af9691683.jpg" alt="Starmer considers joining Trump&#x27;s Gaza peace board" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c79rqd947vzo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer considers joining Trump&#x27;s Gaza peace board</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-13 16:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/iran-2-ap-gmh-260113_1768317736950_hpMain_4x3t_384.jpg" alt="Trump says &#x27;HELP IS ON ITS WAY&#x27; for Iran as protest death toll tops 2,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/iran-protests-646-killed-activists-trump-weighs-military/story?id=129156635" target="_blank">Trump says &#x27;HELP IS ON ITS WAY&#x27; for Iran as protest death toll tops 2,000</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-13 16:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +100,38 @@
                 <span class="time">2026-01-13 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce2c/live/56604900-f086-11f0-b385-5f48925de19a.jpg" alt="New Birmingham-Manchester rail link to be proposed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c75xrwlw5n2o?at_medium=RSS&at_campaign=rss" target="_blank">New Birmingham-Manchester rail link to be proposed</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-13 14:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/13/nx-s1-5675307/epa-air-regulations-health-benefits" target="_blank">The EPA is changing how it considers the costs and benefits of air pollution rules</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-13 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/price-tag-2-gty-gmh-260112_1768254058657_hpMain_4x3t_384.jpg" alt="Inflation held firm in December, testing Fed amid DOJ probe into Powell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/inflation-expected-held-firm-posing-challenge-amid-doj/story?id=129127426" target="_blank">Inflation held firm in December, testing Fed amid DOJ probe into Powell</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-13 13:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/861257/google-veo-3-1-ai-video-ingredients-vertical-update" target="_blank">Google’s Veo now turns portrait images into vertical AI videos</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-13 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/13/googles-update-for-veo-3-1-lets-users-create-vertical-videos-through-reference-images/" target="_blank">Google’s update for Veo 3.1 lets users create vertical videos through reference images</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-13 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/monarch2-500x500.jpg" alt="A new Titan emerges in Monarch: Legacy of Monsters S2 teaser" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/01/a-new-titan-emerges-in-monarch-legacy-of-monsters-s2-teaser/" target="_blank">A new Titan emerges in Monarch: Legacy of Monsters S2 teaser</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-13 16:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/696651b1c163ae9f4c8e4310/master/pass/GettyImages-2243425578.jpg" alt="Microsoft Has a Plan to Keep Its Data Centers From Raising Your Electric Bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,33 +159,6 @@
                 <span class="time">2026-01-13 13:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69654c00a72deed13ec48030/master/pass/Review-%20Urevo%20SpaceWalk%205L.png" alt="Urevo SpaceWalk 5L Walking Pad Review: Compact and Affordable" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/urevo-spacewalk-5l-walking-pad/" target="_blank">Urevo SpaceWalk 5L Walking Pad Review: Compact and Affordable</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-13 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/860616/insta360-link-2-2c-pro-face-tracking-webcam" target="_blank">Insta360’s face-tracking webcams get bigger sensors and more expensive</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-13 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/death-cap-mushroom-500x405.png" alt="Wild mushrooms keep killing people in California; 3 dead, 35 poisoned" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/01/wild-mushrooms-keep-killing-people-in-california-3-dead-35-poisoned/" target="_blank">Wild mushrooms keep killing people in California; 3 dead, 35 poisoned</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-13 12:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +171,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rex_zhen_a9a8400ee9f22e98/the-ecs-spot-instance-dilemma-when-task-placement-strategies-force-impossible-trade-offs-2jjg" target="_blank">The ECS Spot Instance Dilemma: When Task Placement Strategies Force Impossible Trade-Offs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-13 16:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/01/Wine-Software-2025.jpg?resize=406%2C232&amp;ssl=1" alt="Wine 11.0 Brings Ntsync Support, Complete WoW64 + Other Changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/wine-11-0-released" target="_blank">Wine 11.0 Brings Ntsync Support, Complete WoW64 + Other Changes</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-13 16:20</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +218,6 @@
                 <span class="time">2026-01-13 15:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18789416&w=600" alt="MCP servers are everywhere, but most are collecting dust. Here are the key lessons we learned to avoid that." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/mcp-servers-are-everywhere-but-most-are-collecting" target="_blank">MCP servers are everywhere, but most are collecting dust. Here are the key lessons we learned to avoid that.</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-13 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://buckscountybeacon.com/2026/01/opinion-local-journalism-is-how-democracy-shows-up-close-to-home/" target="_blank">Local Journalism Is How Democracy Shows Up Close to Home</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-13 13:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Apple-Immersive-Video-Spectrum-SportsNet-front-row-video-1280x853.jpg" alt="Apple’s Big Virtual Reality NBA Game Debut Demands More Interactivity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/apples-big-virtual-reality-nba-game-debut-demands-more-interactivity-2000709640" target="_blank">Apple’s Big Virtual Reality NBA Game Debut Demands More Interactivity</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-13 16:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/Anker-Prime-Docking-Station-1280x853.jpg" alt="Anker Prime Docking Station (14-Port, 160W) Crashes to Lowest Price of the Year, Now Cheaper Than During Last Holidays" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,20 +291,20 @@
                 <span class="time">2026-01-13 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/frodo-gandalf-moria-fellowship-of-the-ring-1280x853.jpg" alt="Elijah Wood Says More ‘Lord of the Rings’ Movies Are Coming, Just Don’t Ask Him if He’s in Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elijah-wood-hunt-for-gollum-lord-of-the-rings-future-2000709422" target="_blank">Elijah Wood Says More ‘Lord of the Rings’ Movies Are Coming, Just Don’t Ask Him if He’s in Them</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-13 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1768177022-20260113.png" alt="Saturday Morning Breakfast Cereal - Consent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/consent" target="_blank">Saturday Morning Breakfast Cereal - Consent</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-01-13 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5742.png" alt="Mistress Of Subtlety" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -315,22 +323,13 @@
                 <span class="time">2026-01-12 22:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1768176974-20260112.png" alt="Saturday Morning Breakfast Cereal - After" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/after-3" target="_blank">Saturday Morning Breakfast Cereal - After</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-12 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 16:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 41 | 📸 With Images: 276 |
+        🔄 Last Updated: 17:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
