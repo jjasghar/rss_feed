@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-13 14:03:28 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-13 15:03:03 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, January 13, 2026 - 14:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, January 13, 2026 - 15:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/business/2026/jan/13/developing-countries-poorer-world-bank-report" target="_blank">Quarter of developing countries poorer than in 2019, World Bank finds</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-13 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce2c/live/56604900-f086-11f0-b385-5f48925de19a.jpg" alt="New Birmingham-Manchester rail link to be proposed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c75xrwlw5n2o?at_medium=RSS&at_campaign=rss" target="_blank">New Birmingham-Manchester rail link to be proposed</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-13 14:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/13/nx-s1-5675307/epa-air-regulations-health-benefits" target="_blank">The EPA is changing how it considers the costs and benefits of air pollution rules</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-13 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Business/price-tag-2-gty-gmh-260112_1768254058657_hpMain_4x3t_384.jpg" alt="Inflation held firm in December, testing Fed amid DOJ probe into Powell" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,39 +94,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de92/live/6ff339a0-f07b-11f0-8162-5ba718a8bc6a.jpg" alt="Cover-up law delayed after concerns it will not apply fully to MI5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-gaza-weather-wind-dead_7134283.jpg?20260113143833" alt="Four people killed in Gaza after walls collapse on tents during strong winds - health officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8rmpllmpy7o?at_medium=RSS&at_campaign=rss" target="_blank">Cover-up law delayed after concerns it will not apply fully to MI5</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-13 12:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/13/the-gaza-graffiti-artist-using-shattered-buildings-as-a-canvas?traffic_source=rss" target="_blank">The Gaza graffiti artist using shattered buildings as a canvas</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-13 12:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/In-protests-DB-260113_1768295306184_hpMain_4x3t_384.jpg" alt="Iran protests: 646 killed, activists say, as Trump weighs military action" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/iran-protests-646-killed-activists-trump-weighs-military/story?id=129156635" target="_blank">Iran protests: 646 killed, activists say, as Trump weighs military action</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-13 12:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/13/g-s1-105846/up-first-newsletter-trump-iran-minneapolis-ice-shooting-scotus-trans-sports" target="_blank">Minnesota sues over Trump&#x27;s ICE enforcement. And, SCOTUS hears trans athlete cases</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-13 12:13</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/four-people-killed-in-gaza-after-walls-collapse-on-tents-during-strong-winds-hospital-authorities-say-13493740" target="_blank">Four people killed in Gaza after walls collapse on tents during strong winds - health officials</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-13 13:25</span>
             </div>
         </div>
 </div>
@@ -107,6 +107,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/696651b1c163ae9f4c8e4310/master/pass/GettyImages-2243425578.jpg" alt="Microsoft Has a Plan to Keep Its Data Centers From Raising Your Electric Bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/microsoft-has-a-plan-to-keep-its-data-centers-from-raising-your-electric-bill/" target="_blank">Microsoft Has a Plan to Keep Its Data Centers From Raising Your Electric Bill</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-13 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/13/apple-launches-creator-studio-bundle-of-apps-for-12-99-per-month/" target="_blank">Apple launches ‘Creator Studio’ bundle of apps for $12.99 per month</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-13 14:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +159,6 @@
                 <span class="title"><a href="https://arstechnica.com/health/2026/01/wild-mushrooms-keep-killing-people-in-california-3-dead-35-poisoned/" target="_blank">Wild mushrooms keep killing people in California; 3 dead, 35 poisoned</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-01-13 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/696183e712fa4662656bef6a/master/pass/Big-Interview-UV-Solo-Reid-Hoffman-2206160049.jpg" alt="Reid Hoffman Wants Silicon Valley to ‘Stand Up’ Against the Trump Administration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-big-interview-podcast-reid-hoffman/" target="_blank">Reid Hoffman Wants Silicon Valley to ‘Stand Up’ Against the Trump Administration</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-13 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/" target="_blank">Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-13 11:30</span>
             </div>
         </div>
 </div>
@@ -240,6 +240,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEPMMS05BVVPHJ1ARGQKB804/hero-image.jpg" alt="10 Hacks Every Google Maps User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-google-maps-hacks-everyone-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Google Maps User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-13 14:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/avengers-doomsday-thing-fantastic-four-1280x853.jpg" alt="The Latest ‘Avengers: Doomsday’ Trailer Gives Us an Unlikely Team-Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -284,15 +293,6 @@
                 <span class="time">2026-01-13 01:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/monkeys-ai-sora-1280x853.jpg" alt="AI Images Create Confusion as Real Gang of Monkeys Roams St. Louis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ai-images-create-confusion-as-real-gang-of-monkeys-roams-st-louis-2000709419" target="_blank">AI Images Create Confusion as Real Gang of Monkeys Roams St. Louis</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-13 01:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 14:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 15:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
