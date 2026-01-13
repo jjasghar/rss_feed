@@ -1,45 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-13 08:02:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-13 09:04:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 36 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, January 13, 2026 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, January 13, 2026 - 09:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/13/taiwan-says-general-consensus-reached-with-us-on-trade-deal?traffic_source=rss" target="_blank">Taiwan says ‘general consensus’ reached with US on trade deal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-13 08:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -100,20 +102,20 @@
                 <span class="time">2026-01-13 03:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-6-gty-gmh-260112_1768230063676_hpMain_4x3t_384.jpg" alt="Some of the military options Trump could consider on Iran over protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/military-options-trump-iran-after-warning-big-trouble/story?id=129142628" target="_blank">Some of the military options Trump could consider on Iran over protests</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-13 01:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Hoka Coupon Codes: 10% Off | January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hoka-coupon-code/" target="_blank">Hoka Coupon Codes: 10% Off | January 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-13 07:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -159,15 +161,6 @@
                 <span class="time">2026-01-13 00:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Claude-Cowork-500x500.jpg" alt="Anthropic launches Cowork, a Claude Code-like for general computing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/01/anthropic-launches-cowork-a-claude-code-like-for-general-computing/" target="_blank">Anthropic launches Cowork, a Claude Code-like for general computing</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-12 23:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -180,6 +173,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4cmcdqmvm80wb3y0b4hw.png" alt="Vibe coding method that actually works" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/singhdevhub/vibe-coding-method-that-actually-works-2pbb" target="_blank">Vibe coding method that actually works</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-13 08:58</span>
             </div>
         </div>
 <div class="story">
@@ -216,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/kevinl/opencode-tools-commands-agents-y-workflows-i29" target="_blank">OpenCode: tools, commands, agents y workflows</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-13 04:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jwebsite-go/readiness-probe-3co0" target="_blank">Readiness probe</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-13 02:37</span>
             </div>
         </div>
 </div>
@@ -338,7 +331,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 276 |
-        🔄 Last Updated: 08:02 UTC
+        🔄 Last Updated: 09:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
