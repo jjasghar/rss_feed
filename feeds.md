@@ -1,36 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-01-13 19:03:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-13 20:02:00 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, January 13, 2026 - 19:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, January 13, 2026 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/13/nx-s1-5675261/supreme-court-state-bans-trans-athletes" target="_blank">Supreme Court appears likely to uphold state bans on transgender athletes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-13 18:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fd3/live/902c39e0-f09b-11f0-a422-4ba8a094a8fa.jpg" alt="Income tax changes and mansion tax on £1m homes in Scottish Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +106,38 @@
                 <span class="time">2026-01-13 16:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/iran-2-ap-gmh-260113_1768317736950_hpMain_4x3t_384.jpg" alt="Trump says &#x27;HELP IS ON ITS WAY&#x27; for Iran as protest death toll tops 2,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/iran-protests-646-killed-activists-trump-weighs-military/story?id=129156635" target="_blank">Trump says &#x27;HELP IS ON ITS WAY&#x27; for Iran as protest death toll tops 2,000</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-13 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/861326/meat-food-pyramid-protein-nutrition-guideline-climate-beef-whole-milk-tallow" target="_blank">RFK Jr.’s new food pyramid could be a disaster for the environment — if Americans actually pay any attention to it</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-13 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/13/a-consumer-watchdog-issued-a-warning-about-googles-ai-agent-shopping-protocol-google-says-shes-wrong/" target="_blank">A consumer watchdog issued a warning about Google’s AI agent shopping protocol —  Google says she’s wrong</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-13 19:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Veo-31-500x500.jpg" alt="Google’s updated Veo model can make vertical videos from reference images with 4K upscaling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2026/01/googles-updated-veo-model-can-make-vertical-videos-from-reference-images-with-4k-upscaling/" target="_blank">Google’s updated Veo model can make vertical videos from reference images with 4K upscaling</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-13 19:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2182255823-500x500.jpg" alt="EPA axes benefits from cost-benefit analysis for air pollution limits" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -132,33 +165,6 @@
                 <span class="time">2026-01-13 17:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/WS025_007WS-500x500.jpg" alt="This one could use less power: The Jeep Wagoneer S EV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/01/this-one-could-use-less-power-the-jeep-wagoneer-s-ev/" target="_blank">This one could use less power: The Jeep Wagoneer S EV</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-13 17:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/861257/google-veo-3-1-ai-video-ingredients-vertical-update" target="_blank">Google’s Veo now turns portrait images into vertical AI videos</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-13 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/13/googles-update-for-veo-3-1-lets-users-create-vertical-videos-through-reference-images/" target="_blank">Google’s update for Veo 3.1 lets users create vertical videos through reference images</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-13 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +177,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/JPEG-XL-Returns-Chrome-Chromium" target="_blank">JPEG-XL Image Support Returns To Latest Chrome / Chromium Code</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-13 19:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18829463&w=600" alt="Architecting a Production-Ready GenAI Service Desk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/architecting-a-production-ready-genai-service-desk" target="_blank">Architecting a Production-Ready GenAI Service Desk</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-13 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +224,6 @@
                 <span class="time">2026-01-13 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gaodalie_ai/rlm-the-ultimate-evolution-of-ai-recursive-language-models-3h8o" target="_blank">RLM: The Ultimate Evolution of AI? Recursive Language Models</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-13 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/7c18204f-9aa1-4c08-aa3b-89f94b0c4826_1240x790.png" alt="Design Systems for Software Engineers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/design-systems-for-software-engineers" target="_blank">Design Systems for Software Engineers</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-01-13 17:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2021/12/4a1458f61b31b075ac19b0f19aefb395-1280x720.jpg" alt="Infamous Peter Molyneux Parody Account Calls It Quits After 16 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/peter-molyneux-molydeux-parody-masters-albion-trailer-release-date-2000659410" target="_blank">Infamous Peter Molyneux Parody Account Calls It Quits After 16 Years</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-13 19:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KEW3NKVHEQTJ5MWMETR034PX/hero-image.jpg" alt="How Your Child&#x27;s Google Account Changes When They Turn 13" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +297,6 @@
                 <span class="time">2026-01-13 15:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KESAP49PQ1QASAW3XQ336EQV/hero-image.jpg" alt="10 Hacks Every Gmail User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-gmail-hacks-to-bring-your-inbox-under-control?utm_medium=RSS" target="_blank">10 Hacks Every Gmail User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-13 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 19:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
