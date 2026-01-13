@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-12 23:01:28 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-13 00:04:24 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, January 12, 2026 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, January 13, 2026 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +112,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/12/openai-buys-tiny-health-records-startup-torch-for-reportedly-100m/" target="_blank">OpenAI buys tiny health records startup Torch for, reportedly, $100M</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-13 00:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/861004/rockstar-fired-union-workers-pay" target="_blank">Fired Rockstar employees’ plea for interim pay denied</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-12 22:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/" target="_blank">Why Amazon bought Bee, an AI wearable</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-12 21:55</span>
@@ -138,24 +162,6 @@
                 <span class="time">2026-01-12 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-supreme-court-500x500-1732556402.jpg" alt="Supreme Court takes case that could strip FCC of authority to issue fines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/supreme-court-takes-case-that-could-strip-fcc-of-authority-to-issue-fines/" target="_blank">Supreme Court takes case that could strip FCC of authority to issue fines</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-12 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69653de3e3da8bff2e2bbf89/master/pass/Snag%20a%20Feature-Packed%20Gaming%20Headset%20for%20Under%20$100.png" alt="Snag a Feature-Packed Gaming Headset for Under $100" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/corsair-void-wireless-v2-deal-126/" target="_blank">Snag a Feature-Packed Gaming Headset for Under $100</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-12 19:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +174,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/aws-graviton-migration-with-kiro-cli-and-the-arm-mcp-server-38fd" target="_blank">AWS Graviton migration with Kiro CLI and the Arm MCP server</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-12 23:46</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +221,6 @@
                 <span class="time">2026-01-12 20:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18782323&w=600" alt="UX Research in Agile Product Development: Making AI Workflows Work for People" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ux-research-in-agile-product-development-making-ai" target="_blank">UX Research in Agile Product Development: Making AI Workflows Work for People</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-12 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KET0KH9S92AH0Z759TFWW2Y8/hero-image.jpg" alt="Microsoft Is Finally Retiring Its Free Scanner App (but There Are Alternatives)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/microsoft-retiring-microsoft-lens?utm_medium=RSS" target="_blank">Microsoft Is Finally Retiring Its Free Scanner App (but There Are Alternatives)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-12 23:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/Hares-1280x720.jpg" alt="Dude Will Delete AI-Generated Game From Steam After New Girlfriend Convinces Him AI Sucks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dude-will-delete-ai-generated-game-from-steam-after-new-girlfriend-convinces-him-ai-sucks-2000659024" target="_blank">Dude Will Delete AI-Generated Game From Steam After New Girlfriend Convinces Him AI Sucks</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-12 23:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/meta-quest-1280x852.jpg" alt="Meta Reportedly Cutting About 1,500 VR and AR Jobs Amid Renewed Push to Become an AI Juggernaut" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,30 +286,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Impossible_colors_NCS_and_RGB_yellow_and_blue.jpg?fit=1200%2C1200&amp;quality=60&amp;ssl=1" alt="How to see &quot;impossible colors&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/hoba-meteorite.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="The largest meteorite on Earth is still exactly where it landed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/12/how-to-see-impossible-colors.html" target="_blank">How to see &quot;impossible colors&quot;</a></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/12/the-largest-meteorite-on-earth-is-still-exactly-where-it-landed.html" target="_blank">The largest meteorite on Earth is still exactly where it landed</a></span>
                 <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-12 21:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01J97AZA4VHK5YMW5F6PKFYXVN/hero-image.jpg" alt="What Counts As Cardio (and What Doesn&#x27;t)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/what-counts-as-cardio?utm_medium=RSS" target="_blank">What Counts As Cardio (and What Doesn&#x27;t)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-12 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KESNDX88GQA4F25ZZBKVYQ0Q/hero-image.png" alt="Four Ways to Speed Up Your Hot Water (Without Installing a Tankless Water Heater)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/how-to-speed-up-your-hot-water-without-a-tankless-water-heater?utm_medium=RSS" target="_blank">Four Ways to Speed Up Your Hot Water (Without Installing a Tankless Water Heater)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-12 19:00</span>
+                <span class="time">2026-01-12 21:31</span>
             </div>
         </div>
 </div>
@@ -293,6 +299,15 @@
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/12/fallout-boy" target="_blank">Fallout Boy</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-01-12 22:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1768176974-20260112.png" alt="Saturday Morning Breakfast Cereal - After" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -325,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
