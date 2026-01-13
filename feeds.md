@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-13 11:01:59 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-01-13 12:02:32 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, January 13, 2026 - 11:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, January 13, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +105,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/696183e712fa4662656bef6a/master/pass/Big-Interview-UV-Solo-Reid-Hoffman-2206160049.jpg" alt="Reid Hoffman Wants Silicon Valley to ‘Stand Up’ Against the Trump Administration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-big-interview-podcast-reid-hoffman/" target="_blank">Reid Hoffman Wants Silicon Valley to ‘Stand Up’ Against the Trump Administration</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-13 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/" target="_blank">Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-13 11:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/695fce572daaa83c113e7a9d/master/pass/sec-ice-safety-2254637736.jpg" alt="What to Do If ICE Invades Your Neighborhood" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -142,24 +158,6 @@
                 <span class="time">2026-01-13 01:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69657ea7c1888fd2ae66437c/master/pass/New-Proposed-Legislation-Would-Let-Self-Driving-Cars%20Operate%20in-New-York-State-Gear-2250123135.jpg" alt="New Proposed Legislation Would Let Self-Driving Cars Operate in New York State" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/proposed-legislation-self-driving-cars-in-new-york-state/" target="_blank">New Proposed Legislation Would Let Self-Driving Cars Operate in New York State</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-13 00:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/22997597/best-robot-vacuum-cleaner" target="_blank">The best robot vacuums we’ve tested for 2026</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-13 00:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,62 +173,48 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/deploy-spring-application-to-production" target="_blank">Deploy your Spring Boot application to production</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-01-13 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18823408&w=600" alt="Supercharge AI Workflows on Azure: Remote MCP Tool Triggers + Your First TypeScript MCP Server" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/supercharge-ai-workflows-on-azure-remote-mcp-tool-triggers" target="_blank">Supercharge AI Workflows on Azure: Remote MCP Tool Triggers + Your First TypeScript MCP Server</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-13 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/brendon_oneill__/diving-into-doubly-linked-lists-2l09" target="_blank">Diving Into Doubly Linked Lists</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-13 11:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/bcachefs-tools-1.35" target="_blank">Bcachefs Ships Latest User-Space Utilities With bcachefs-tools 1.35</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-13 11:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/01/google-conductor/en/headerimage/generatedHeaderImage-1768216044085.jpg" alt="Google Introduces Conductor, a Context-Driven Development Extension for Gemini CLI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/news/2026/01/google-conductor/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Introduces Conductor, a Context-Driven Development Extension for Gemini CLI</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-01-13 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faaozvlnxztssewfk5ayy.png" alt="The Regression Bug Was the Most Important Result" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dqj1998/the-regression-bug-was-the-most-important-result-1ki4" target="_blank">The Regression Bug Was the Most Important Result</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-13 09:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4cmcdqmvm80wb3y0b4hw.png" alt="Vibe coding method that actually works" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/singhdevhub/vibe-coding-method-that-actually-works-2pbb" target="_blank">Vibe coding method that actually works</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-13 08:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/01/13/vibe-code-anything-in-a-hanselminute/" target="_blank">Vibe code anything in a Hanselminute</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-01-13 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw5faejtz4k0w7k9kpb1c.png" alt="From Widget to Core Feature: How Developers Should Architect Chatbots For Website in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aarya_sharma/from-widget-to-core-feature-how-developers-should-architect-chatbots-for-website-in-2026-5no" target="_blank">From Widget to Core Feature: How Developers Should Architect Chatbots For Website in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-13 06:53</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/corrupting-llms-through-weird-generalizations.html" target="_blank">Corrupting LLMs Through Weird Generalizations</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-01-12 12:02</span>
             </div>
         </div>
 </div>
@@ -329,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
