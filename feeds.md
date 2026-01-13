@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-13 18:02:29 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-13 19:03:28 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, January 13, 2026 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, January 13, 2026 - 19:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fd3/live/902c39e0-f09b-11f0-a422-4ba8a094a8fa.jpg" alt="Income tax changes and mansion tax on £1m homes in Scottish Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckgnryke8r0o?at_medium=RSS&at_campaign=rss" target="_blank">Income tax changes and mansion tax on £1m homes in Scottish Budget</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-13 18:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +100,29 @@
                 <span class="time">2026-01-13 16:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/13/g-s1-105849/iran-protests-israel-palestinian-reaction" target="_blank">As Iran&#x27;s protests continue, Israelis and Palestinians watch closely</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-13 15:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2182255823-500x500.jpg" alt="EPA axes benefits from cost-benefit analysis for air pollution limits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/01/epa-axes-benefits-from-cost-benefit-analysis-for-air-pollution-limits/" target="_blank">EPA axes benefits from cost-benefit analysis for air pollution limits</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-13 18:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/13/doctors-think-ai-has-a-place-in-healthcare-but-maybe-not-as-a-chatbot/" target="_blank">Doctors think AI has a place in healthcare – but maybe not as a chatbot</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-13 18:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,24 +159,6 @@
                 <span class="time">2026-01-13 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/monarch2-500x500.jpg" alt="A new Titan emerges in Monarch: Legacy of Monsters S2 teaser" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/01/a-new-titan-emerges-in-monarch-legacy-of-monsters-s2-teaser/" target="_blank">A new Titan emerges in Monarch: Legacy of Monsters S2 teaser</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-13 16:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/696651b1c163ae9f4c8e4310/master/pass/GettyImages-2243425578.jpg" alt="Microsoft Has a Plan to Keep Its Data Centers From Raising Your Electric Bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/microsoft-has-a-plan-to-keep-its-data-centers-from-raising-your-electric-bill/" target="_blank">Microsoft Has a Plan to Keep Its Data Centers From Raising Your Electric Bill</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-13 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +171,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/what-ai-is-actually-good-for-according-to-developers/" target="_blank">What AI is actually good for, according to developers</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-01-13 18:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/" target="_blank">Signal leaders warn agentic AI is an insecure, unreliable surveillance risk</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-13 18:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18829447&w=600" alt="Architecting Observability in Kubernetes with OpenTelemetry and Fluent Bit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/architecting-observability-in-kubernetes-with-otel-fluent-bit" target="_blank">Architecting Observability in Kubernetes with OpenTelemetry and Fluent Bit</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-13 18:00</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +216,6 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/design-systems-for-software-engineers" target="_blank">Design Systems for Software Engineers</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2026-01-13 17:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/shorepine/tulipcc" target="_blank">The Tulip Creative Computer</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-13 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/linux-mint-22.3.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 22.3 Released with New App Menu, OSK &amp; System Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/linux-mint-22-3-released" target="_blank">Linux Mint 22.3 Released with New App Menu, OSK &amp; System Apps</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-13 17:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rex_zhen_a9a8400ee9f22e98/the-ecs-spot-instance-dilemma-when-task-placement-strategies-force-impossible-trade-offs-2jjg" target="_blank">The ECS Spot Instance Dilemma: When Task Placement Strategies Force Impossible Trade-Offs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-13 16:44</span>
             </div>
         </div>
 </div>
@@ -239,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEW3NKVHEQTJ5MWMETR034PX/hero-image.jpg" alt="How Your Child&#x27;s Google Account Changes When They Turn 13" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-your-childs-google-account-changes-when-they-turn-13?utm_medium=RSS" target="_blank">How Your Child&#x27;s Google Account Changes When They Turn 13</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-13 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/image-4.jpg" alt="Scalpers Are Already Trying To Flip The Pokémon Legos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +291,6 @@
                 <span class="time">2026-01-13 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEPMMS05BVVPHJ1ARGQKB804/hero-image.jpg" alt="10 Hacks Every Google Maps User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-google-maps-hacks-everyone-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Google Maps User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-13 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 19:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
