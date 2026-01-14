@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-14 21:01:41 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-14 22:01:34 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, January 14, 2026 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, January 14, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/14/uk-prosecutors-seek-to-reinstate-terrorism-charge-against-kneecap-rapper?traffic_source=rss" target="_blank">UK prosecutors seek to reinstate ‘terrorism’ charge against Kneecap rapper</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-14 21:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2290/live/818e12f0-f168-11f0-b34c-412d8cd6a3dc.jpg" alt="Mahmood has no confidence in police chief after Israeli fan ban" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +103,29 @@
                 <span class="time">2026-01-14 17:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06b4/live/d44d2ca0-f15f-11f0-bfbc-db36ba7a9ce1.jpg" alt="US and UK pulling some personnel from Qatar military base" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c701xywwxw8o?at_medium=RSS&at_campaign=rss" target="_blank">US and UK pulling some personnel from Qatar military base</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-14 17:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/oddcore1-500x500.png" alt="I can’t stop shooting Oddcore’s endless waves of weird little guys" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/01/i-cant-stop-shooting-oddcores-endless-waves-of-weird-little-guys/" target="_blank">I can’t stop shooting Oddcore’s endless waves of weird little guys</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-14 21:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/861956/verizon-is-down-outage-cell-wireless-service-sos-mode" target="_blank">Verizon’s wireless network is down for many people nationwide</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-14 21:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,24 +162,6 @@
                 <span class="time">2026-01-14 19:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/" target="_blank">AI models are starting to crack high-level math problems</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-14 19:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/14/blackstone-general-atlantic-backed-liftoff-mobile-files-for-ipo/" target="_blank">Blackstone, General Atlantic-backed Liftoff Mobile files for IPO</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-14 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +174,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F7600%2F0%2AltKanbgMM9Oj9xlu" alt="Application Migrations for ASP.NET Core: A Small Library for a Common Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sbastien_sougnez_c15451f/application-migrations-for-aspnet-core-a-small-library-for-a-common-problem-3a3p" target="_blank">Application Migrations for ASP.NET Core: A Small Library for a Common Problem</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-14 21:19</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +221,6 @@
                 <span class="time">2026-01-14 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18810403&w=600" alt="What Actually Breaks When LLM Agents Hit Production — And How Amazon&#x27;s Agent Core Fixes It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/what-actually-breaks-when-llm-agents-hit-production" target="_blank">What Actually Breaks When LLM Agents Hit Production — And How Amazon&#x27;s Agent Core Fixes It</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-14 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +249,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/05/f5cc9782a918a1290f428db2be49b9dd-1024x575.jpg" alt="DoorDash and Uber Eats Cost Delivery Workers Millions of Dollars in Tips, NYC Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/doordash-and-uber-eats-cost-delivery-workers-millions-of-dollars-in-tips-nyc-says-2000710487" target="_blank">DoorDash and Uber Eats Cost Delivery Workers Millions of Dollars in Tips, NYC Says</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-14 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/MR.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="MTV Rewind is a searchable archive of over 33,000 music videos from the channel&#x27;s glory days" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/14/mtv-rewind-is-a-searchable-archive-of-over-33000-music-videos-from-the-channels-glory-days.html" target="_blank">MTV Rewind is a searchable archive of over 33,000 music videos from the channel&#x27;s glory days</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-14 21:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/Meta-Quest-3S-XBOX-2-1280x853.jpg" alt="Meta Just Absolutely Gutted the Best Part of Quest VR Headsets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +301,6 @@
                 <span class="title"><a href="https://gizmodo.com/marty-supreme-almost-ended-with-an-actual-vampire-2000710371" target="_blank">‘Marty Supreme’ Almost Ended With an Actual Vampire</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-14 19:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2020/03/zfsiaiitxszj4qfbsqq5-1280x720.jpg" alt="Star Wars Modders Have Taken Battlefront 3 Into Their Own Hands And It Looks Great" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/star-wars-battlefront-3-swbf2-mod-kyber-2000659850" target="_blank">Star Wars Modders Have Taken Battlefront 3 Into Their Own Hands And It Looks Great</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-14 18:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/framework-laptop-16-review-11-1280x853.jpg" alt="Nvidia Proves It Still Has the Best Software for Better-Looking Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nvidia-proves-it-still-has-the-best-software-for-better-looking-games-2000710251" target="_blank">Nvidia Proves It Still Has the Best Software for Better-Looking Games</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-14 17:45</span>
             </div>
         </div>
 </div>
@@ -345,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
