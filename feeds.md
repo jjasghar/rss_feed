@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-14 10:02:09 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-14 11:02:15 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, January 14, 2026 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, January 14, 2026 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/14/irans-judiciary-to-speed-up-trials-of-accused-in-protests-crackdown?traffic_source=rss" target="_blank">Iran’s judiciary to speed up trials of accused in protests crackdown</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-14 10:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/14/g-s1-105949/death-toll-crackdown-protests-iran" target="_blank">The death toll from a crackdown on protests in Iran jumps to over 2,500, activists say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-14 10:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Iran-bodies-DB-260114_1768379483255_hpMain_4x3t_384.jpg" alt="Iran protests: 2,500 killed, activists say, as Trump says US will &#x27;act accordingly&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +102,20 @@
                 <span class="time">2026-01-14 07:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/14/g-s1-105936/vance-to-meet-danish-greenland-officials" target="_blank">Vance to meet Danish and Greenlandic officials in Washington on Wednesday</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-14 06:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/14/analysis-why-greenland-and-europe-might-have-to-compromise-with-trump?traffic_source=rss" target="_blank">Analysis: Why Greenland and Europe might have to compromise with Trump</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-14 06:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6966abea428592e866cf6614/master/pass/The%20Best%20Bone%20Conduction%20Headphones.png" alt="Best Bone Conduction Headphones (2026): Shokz, Suunto, Mojawa" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-bone-conduction-headphones/" target="_blank">Best Bone Conduction Headphones (2026): Shokz, Suunto, Mojawa</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-14 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69658f6f524cefeddfd6cbc8/master/pass/Repair-Act-Hearing-Took-Place-in-House-Subcommittee-Gear-2254475597.jpg" alt="The Fight on Capitol Hill to Make It Easier to Fix Your Car" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,15 +159,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/861560/weathertech-founder-david-macneil-federal-trade-commission" target="_blank">WeatherTech founder might be the newest US consumer protection official</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-13 22:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/13/new-york-governor-clears-path-for-robotaxis-everywhere-with-one-notable-exception/" target="_blank">New York governor clears path for robotaxis everywhere, with one notable exception</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-13 22:05</span>
             </div>
         </div>
 </div>
@@ -327,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
