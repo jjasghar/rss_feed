@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-14 06:02:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-14 07:04:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 32 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, January 14, 2026 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, January 14, 2026 - 07:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/14/g-s1-105936/vance-to-meet-danish-greenland-officials" target="_blank">Vance to meet Danish and Greenlandic officials in Washington on Wednesday</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-14 06:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/14/analysis-why-greenland-and-europe-might-have-to-compromise-with-trump?traffic_source=rss" target="_blank">Analysis: Why Greenland and Europe might have to compromise with Trump</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-14 06:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,24 +98,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates/?id=129124338" target="_blank">Minneapolis ICE shooting live updates: &#x27;No basis&#x27; for civil rights probe, DOJ says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-14 01:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/13/g-s1-105927/claudette-colvin-obituary-montgomery-bus-civil-rights" target="_blank">Claudette Colvin, who refused to move seats on a bus at start of civil rights movement, dies</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-14 01:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/14/russia-ukraine-war-list-of-key-events-day-1420?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,420</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-14 01:06</span>
             </div>
         </div>
 </div>
@@ -231,6 +226,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/" target="_blank">Patch Tuesday, January 2026 Edition</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-01-14 00:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/1980s-hacker-manifesto.html" target="_blank">1980s Hacker Manifesto</a></span>
                 <span class="feed">Schneier on Security</span>
@@ -324,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 07:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
