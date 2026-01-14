@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-14 14:03:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-14 15:03:23 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, January 14, 2026 - 14:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, January 14, 2026 - 15:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +107,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/861715/nbc-sports-nippon-television-ai-viztrick-aidi-player-tracking-mobile-viewing" target="_blank">NBC Sports’ new real-time player tracking lets viewers focus on their favorite athletes</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-14 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/861413/honda-acura-rdx-two-motor-hybrid-base-station-rv" target="_blank">Honda relaunching Acura RDX as a next-gen two-motor hybrid</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-14 14:00</span>
@@ -123,6 +128,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/14/voicerun-nabs-5-5m-to-build-voice-agent-factory/" target="_blank">VoiceRun nabs $5.5M to build voice agent factory</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-14 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68563692fd268ad4c81d6dc3/master/pass/The%2014%20Best%20Office%20Chairs.png" alt="15 Best Office Chairs of 2026— I’ve Tested 65 to Pick Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-office-chairs/" target="_blank">15 Best Office Chairs of 2026— I’ve Tested 65 to Pick Them</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-14 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -143,24 +157,6 @@
                 <span class="time">2026-01-14 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6966abea428592e866cf6614/master/pass/The%20Best%20Bone%20Conduction%20Headphones.png" alt="Best Bone Conduction Headphones (2026): Shokz, Suunto, Mojawa" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-bone-conduction-headphones/" target="_blank">Best Bone Conduction Headphones (2026): Shokz, Suunto, Mojawa</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-14 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69658f6f524cefeddfd6cbc8/master/pass/Repair-Act-Hearing-Took-Place-in-House-Subcommittee-Gear-2254475597.jpg" alt="The Fight on Capitol Hill to Make It Easier to Fix Your Car" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/repair-act-us-house-legislation-right-to-repair-your-car/" target="_blank">The Fight on Capitol Hill to Make It Easier to Fix Your Car</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-13 23:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,48 +172,48 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18823360&w=600" alt="How to Secure a Spring AI MCP Server with an API Key via Spring Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-to-secure-a-spring-ai-mcp-server-with-an-api-k" target="_blank">How to Secure a Spring AI MCP Server with an API Key via Spring Security</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-14 13:00</span>
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/01/14/gen-z-wrapped-2025/" target="_blank">If you&#x27;re a Zoomer, this one&#x27;s for you: Everything Gen Z needs to know about the 2025 tech landscape</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-01-14 17:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blogs.igalia.com/mrego/servo-2025-stats/" target="_blank">Servo 2025 Stats</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-14 12:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The AI Smart Home Dilemma" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rawveg/the-ai-smart-home-dilemma-3ofh" target="_blank">The AI Smart Home Dilemma</a></span>
+                <span class="title"><a href="https://dev.to/rmarsigli/so-ai-will-finally-take-your-job-e0f" target="_blank">So, AI will finally take your job</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-01-14 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/agoda-unified-data-pipeline/en/headerimage/Agoda-Centralized-Processing-Pipeline-Header-1768045943046.jpg" alt="How Agoda Unified Multiple Data Pipelines Into a Single Source of Truth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/agoda-unified-data-pipeline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Agoda Unified Multiple Data Pipelines Into a Single Source of Truth</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-14 11:30</span>
+                <span class="time">2026-01-14 15:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-CR-26.01.36711.4" target="_blank">Intel Compute Runtime Updated With Initial Crescent Island &amp; Nova Lake S Support</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Mutter-Shell-50-Alpha" target="_blank">GNOME Mutter 50 Alpha Released With X11 Backend Removed</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-01-14 11:27</span>
+                <span class="time">2026-01-14 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.sparkfun.com/official-response" target="_blank">SparkFun Officially Dropping AdaFruit due to CoC Violation</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-14 14:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18823360&w=600" alt="How to Secure a Spring AI MCP Server with an API Key via Spring Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-to-secure-a-spring-ai-mcp-server-with-an-api-k" target="_blank">How to Secure a Spring AI MCP Server with an API Key via Spring Security</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-14 13:00</span>
             </div>
         </div>
 </div>
@@ -239,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEX02QN7P0Z5NYPQQ1KPNA1N/hero-image.webp" alt="Smart Glasses Are About to Have a Big Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/ssmart-glasses-in-2026-apple-google-meta?utm_medium=RSS" target="_blank">Smart Glasses Are About to Have a Big Year</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-14 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/brown-dwarf-1280x853.jpg" alt="Millions Used Their Computers to Search for Aliens. Now Scientists Have 100 Signals Worth a Closer Look" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/millions-used-their-computers-to-search-for-aliens-now-scientists-have-100-signals-worth-a-closer-look-2000709902" target="_blank">Millions Used Their Computers to Search for Aliens. Now Scientists Have 100 Signals Worth a Closer Look</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-14 14:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/ASUS-The-SFF-Ready-Prime-GeForce-RTX™-5070-12GB-GDDR7-Graphics-Card-1280x854.jpg" alt="If You’re Prime and a Gamer, Asus RTX 5070 Plunges to Near-Record Low on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +289,6 @@
                 <span class="time">2026-01-14 05:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/cigarette.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Man spent 40 years perfecting a lettuce cigarette" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/13/man-spent-40-years-perfecting-a-lettuce-cigarette.html" target="_blank">Man spent 40 years perfecting a lettuce cigarette</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-14 01:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/22FUCK-ICE22-sticker-spotted-in-New-Orleans.-photo.jpg?fit=1080%2C1208&amp;quality=60&amp;ssl=1" alt="Jazz musicians disrupt Arizona Republicans&#x27; pro-ICE press event" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/13/jazz-musicians-disrupt-arizona-republicans-pro-ice-press-event.html" target="_blank">Jazz musicians disrupt Arizona Republicans&#x27; pro-ICE press event</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-14 01:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 14:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 15:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
