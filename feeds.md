@@ -1,38 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-01-14 00:05:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-14 01:30:09 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, January 14, 2026 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, January 14, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/14/russia-ukraine-war-list-of-key-events-day-1420?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,420</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-14 01:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-trump-iran_7134732.jpg?20260114004330" alt="&#x27;Help is on its way,&#x27; Trump tells Iranian protesters - as demonstrator faces &#x27;imminent&#x27; execution" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/iranian-protester-faces-imminent-execution-claims-human-rights-group-13493858" target="_blank">&#x27;Help is on its way,&#x27; Trump tells Iranian protesters - as demonstrator faces &#x27;imminent&#x27; execution</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-13 23:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/13/trump-says-trade-agreement-with-mexico-canada-irrelevant-to-us?traffic_source=rss" target="_blank">Trump says trade agreement with Mexico, Canada ‘irrelevant’ to US</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-13 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260113-minneapolis-ice-car-ew-312p-7dd794.jpg" alt="At least 3 prosecutors resign over concerns about probe into ICE shooting, source says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/justice-department/least-3-prosecutors-resign-concerns-probe-minneapolis-ice-shooting-sou-rcna253876" target="_blank">At least 3 prosecutors resign over concerns about probe into ICE shooting, source says</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-13 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768336360039_now_daily_b_ainsley_prosecutors_minn_260113_1920x1080-d0xtaa.jpg" alt="Prosecutors in Minnesota resign over concerns about ICE shooting investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/prosecutors-in-minnesota-resign-over-concerns-about-ice-shooting-investigation-255880261776" target="_blank">Prosecutors in Minnesota resign over concerns about ICE shooting investigation</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-13 20:32</span>
             </div>
         </div>
 </div>
@@ -178,10 +170,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Hangover-11.0-Released" target="_blank">Hangover 11.0 Released: Wine + FEX/Box64 Pairing For Windows x86 Apps On ARM64 Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-14 01:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/ubuntu-circuit-yellow.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 Undergoes ‘Mass Rebuild’ of All Archive Packages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/ubuntu-2604-resolute-archive-rebuild" target="_blank">Ubuntu 26.04 Undergoes ‘Mass Rebuild’ of All Archive Packages</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-13 23:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/wmdn9116/react-performance-problems-usually-start-with-state-not-rendering-1lk4" target="_blank">React Performance Problems Usually Start with State, Not Rendering</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-13 23:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://questdb.com/blog/jvm-current-thread-user-time/" target="_blank">A 40-line fix eliminated a 400x performance gap</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-13 23:00</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +210,6 @@
                 <span class="title"><a href="https://dev.to/gudong/did-i-make-money-with-ai-1039" target="_blank">Did I Make Money with AI?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-13 22:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/" target="_blank">We can&#x27;t have nice things because of AI scrapers</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-13 21:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18831235&w=600" alt="Revisiting the 7 Rs of Cloud Migration with Real-World Examples" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/revisiting-the-7-rs-of-cloud-migration-with-real-w" target="_blank">Revisiting the 7 Rs of Cloud Migration with Real-World Examples</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-13 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/JPEG-XL-Returns-Chrome-Chromium" target="_blank">JPEG-XL Image Support Returns To Latest Chrome / Chromium Code</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-13 19:38</span>
             </div>
         </div>
 </div>
@@ -239,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/22FUCK-ICE22-sticker-spotted-in-New-Orleans.-photo.jpg?fit=1080%2C1208&amp;quality=60&amp;ssl=1" alt="Jazz musicians disrupt Arizona Republicans&#x27; pro-ICE press event" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/13/jazz-musicians-disrupt-arizona-republicans-pro-ice-press-event.html" target="_blank">Jazz musicians disrupt Arizona Republicans&#x27; pro-ICE press event</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-14 01:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/StrangerThings_mikewriting-1-1280x853.jpg" alt="The ‘Stranger Things’ Documentary Maker Weighs in on That ChatGPT Controversy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +285,6 @@
                 <span class="time">2026-01-13 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/05/4526d962d7e1c9e8f54026ded52878a5-1280x720.jpg" alt="Stellar Blade Dev Believes ‘One Person Can Perform The Work Of 100 People’ With AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/stellar-blade-2-gen-ai-shift-up-sequel-2000659439" target="_blank">Stellar Blade Dev Believes ‘One Person Can Perform The Work Of 100 People’ With AI</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-13 21:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
