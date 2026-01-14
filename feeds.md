@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-14 20:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-14 21:01:41 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 26 feeds processed -->
+<!-- Generated 14 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, January 14, 2026 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, January 14, 2026 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2290/live/818e12f0-f168-11f0-b34c-412d8cd6a3dc.jpg" alt="Mahmood has no confidence in police chief after Israeli fan ban" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgn984j9d7o?at_medium=RSS&at_campaign=rss" target="_blank">Mahmood has no confidence in police chief after Israeli fan ban</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-14 20:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +99,38 @@
                 <span class="time">2026-01-14 17:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-gaza-zeitoun_7135341.png?20260114174623" alt="US moves to transitional government in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/us-announces-launch-of-phase-two-to-end-conflict-in-gaza-13494283" target="_blank">US moves to transitional government in Gaza</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-14 16:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/14/netflixs-first-original-video-podcasts-feature-pete-davidson-and-michael-irvin/" target="_blank">Netflix’s first original video podcasts feature Pete Davidson and Michael Irvin</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-14 20:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2178190944-500x500.jpg" alt="US gov’t: House sysadmin stole 200 phones, caught by House IT desk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/us-govt-house-sysadmin-stole-200-phones-caught-by-house-it-desk/" target="_blank">US gov’t: House sysadmin stole 200 phones, caught by House IT desk</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-14 20:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6967dd15f33351a63c751f1c/master/pass/procrastinacion.jpg" alt="Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why People Leave Certain Tasks for Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/neuroscience-procrastination-brain-mechanism-task-avoidance/" target="_blank">Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why People Leave Certain Tasks for Later</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-14 20:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6967f13a42f9ee4526e48a48/master/pass/One%20of%20Our%20Favorite%20Work%20Lights%20Is%2025%25%20Off.png" alt="Save Big on One of Our Favorite Desk Lamps from Lume Cube" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,33 +158,6 @@
                 <span class="time">2026-01-14 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/civ7-iphone-500x500-1768415746.jpg" alt="Civilization VII is headed to iPhone and iPad with “Arcade Edition”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/01/civilization-vii-is-headed-to-iphone-and-ipad-with-arcade-edition/" target="_blank">Civilization VII is headed to iPhone and iPad with “Arcade Edition”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-14 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/no_robot_music_2-500x500.jpg" alt="Bandcamp bans purely AI-generated music from its platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/" target="_blank">Bandcamp bans purely AI-generated music from its platform</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-14 17:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Woolly-rhino-by-Mammoth-museum-of-North-Eastern-Federal-University-Yakutsk-Russia-500x500.jpg" alt="Scientists sequence a woolly rhino genome from a 14,400-year-old wolf’s stomach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/01/scientists-sequence-a-woolly-rhino-genome-from-a-14400-year-old-wolfs-stomach/" target="_blank">Scientists sequence a woolly rhino genome from a 14,400-year-old wolf’s stomach</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-14 17:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +170,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2604-jan-amd-epyc" target="_blank">An Early Run With Ubuntu 26.04 On AMD EPYC Turin - The Current Performance Gains Over Ubuntu 24.04 LTS</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-14 20:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files" target="_blank">Claude Cowork Exfiltrates Files</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-14 20:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18834480&w=600" alt="Integrating AI-Enhanced Microservices in SAFe 5.0 Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/integrating-ai-enhanced-microservices-in-safe-50-f" target="_blank">Integrating AI-Enhanced Microservices in SAFe 5.0 Framework</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-14 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +215,6 @@
                 <span class="title"><a href="https://dzone.com/articles/what-actually-breaks-when-llm-agents-hit-production" target="_blank">What Actually Breaks When LLM Agents Hit Production — And How Amazon&#x27;s Agent Core Fixes It</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-01-14 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.firstcoastnews.com/article/news/nation-world/verizon-outage-reported/507-ef3cb3d0-f595-432f-9f84-d1690a5085a7" target="_blank">East coast. Verizon outage in US</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-14 18:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18834472&w=600" alt="Designing Chatbots for Multiple Use Cases: Intent Routing and Orchestration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/designing-chatbots-for-multiple-use-cases-intent-r" target="_blank">Designing Chatbots for Multiple Use Cases: Intent Routing and Orchestration</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-14 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/RADV-10x-Fast-RT-Pipeline-Comp" target="_blank">New RADV Code Can Deliver 10x Faster Ray-Tracing Pipeline Compilation For Some Games</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-14 17:42</span>
             </div>
         </div>
 </div>
@@ -245,6 +246,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/Meta-Quest-3S-XBOX-2-1280x853.jpg" alt="Meta Just Absolutely Gutted the Best Part of Quest VR Headsets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/meta-just-absolutely-gutted-the-best-part-of-quest-vr-headsets-2000710320" target="_blank">Meta Just Absolutely Gutted the Best Part of Quest VR Headsets</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-14 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/stack.jpg?fit=1200%2C911&amp;quality=60&amp;ssl=1" alt="Stack Overflow is dead, and its toxic community helped kill it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/14/stack-overflow-is-dead-and-its-toxic-community-helped-kill-it.html" target="_blank">Stack Overflow is dead, and its toxic community helped kill it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-14 20:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2HFA1NX2ZENNBGHJ79AMPW/hero-image.png" alt="The Best Sales on Headphones and Earbuds Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/best-deals-on-earbuds-and-headphones-right-now?utm_medium=RSS" target="_blank">The Best Sales on Headphones and Earbuds Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-14 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Timothee-Chalamet-Marty-Supreme-1280x853.jpg" alt="‘Marty Supreme’ Almost Ended With an Actual Vampire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -269,33 +297,6 @@
                 <span class="title"><a href="https://gizmodo.com/nvidia-proves-it-still-has-the-best-software-for-better-looking-games-2000710251" target="_blank">Nvidia Proves It Still Has the Best Software for Better-Looking Games</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-14 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/hytale1-1280x720.jpg" alt="The 10-Year Wait For ‘Minecraft Killer’ Hytale Is Finally Over" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hytale-minecraft-riot-hotfix-doom-early-access-2000659825" target="_blank">The 10-Year Wait For ‘Minecraft Killer’ Hytale Is Finally Over</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-14 17:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Tumatwolf-1280x853.jpg" alt="You Won’t Believe Where Scientists Found a 14,400-Year-Old Woolly Rhino Genome" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/you-wont-believe-where-scientists-found-a-14400-year-old-woolly-rhino-genome-2000710184" target="_blank">You Won’t Believe Where Scientists Found a 14,400-Year-Old Woolly Rhino Genome</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-14 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/1767TEASER1200-scarry-ICE-operation.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Tom the Dancing Bug: A Busy, Busy Immigration Enforcement Operation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/14/tom-the-dancing-bug-a-busy-busy-immigration-enforcement-operation.html" target="_blank">Tom the Dancing Bug: A Busy, Busy Immigration Enforcement Operation</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-14 16:04</span>
             </div>
         </div>
 </div>
@@ -344,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 278 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
