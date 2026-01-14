@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-14 17:05:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-14 18:02:05 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, January 14, 2026 - 17:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, January 14, 2026 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/14/nx-s1-5677124/how-marco-rubio-shifted-from-trump-critic-to-trump-champion" target="_blank">How Marco Rubio shifted from Trump critic to Trump champion</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-14 17:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-gaza-zeitoun_7135341.png?20260114174623" alt="US moves to transitional government in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/us-announces-launch-of-phase-two-to-end-conflict-in-gaza-13494283" target="_blank">US moves to transitional government in Gaza</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-14 16:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +105,20 @@
                 <span class="time">2026-01-14 12:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Soldiers-Greenland-DB-260113_1768310015134_hpMain_4x3t_384.jpg" alt="US talks pose &#x27;conundrum&#x27; for Greenland, Denmark: Analysts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/us-talks-pose-conundrum-greenland-denmark-analysts/story?id=129159022" target="_blank">US talks pose &#x27;conundrum&#x27; for Greenland, Denmark: Analysts</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-14 11:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2026/1/14/adelaide-festival-removing-palestinian-author-is-an-act-of?traffic_source=rss" target="_blank">Adelaide Festival removing Palestinian author is an “act of censorship”</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-14 11:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/no_robot_music_2-500x500.jpg" alt="Bandcamp bans purely AI-generated music from its platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/" target="_blank">Bandcamp bans purely AI-generated music from its platform</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-14 17:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Woolly-rhino-by-Mammoth-museum-of-North-Eastern-Federal-University-Yakutsk-Russia-500x500.jpg" alt="Scientists sequence a woolly rhino genome from a 14,400-year-old wolf’s stomach" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +164,6 @@
                 <span class="time">2026-01-14 15:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/861715/nbc-sports-nippon-television-ai-viztrick-aidi-player-tracking-mobile-viewing" target="_blank">NBC Sports’ new real-time player tracking lets viewers focus on their favorite athletes</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-14 14:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +176,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RADV-10x-Fast-RT-Pipeline-Comp" target="_blank">New RADV Code Can Deliver 10x Faster Ray-Tracing Pipeline Compilation For Some Games</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-14 17:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now" target="_blank">So, You&#x27;ve Hit an Age Gate. What Now?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-14 17:27</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +223,6 @@
                 <span class="time">2026-01-14 15:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18828296&w=600" alt="Why Browsers Are the Weakest Link in Zero Trust Architectures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-browsers-are-the-weakest-link-in-zero-trust-ar" target="_blank">Why Browsers Are the Weakest Link in Zero Trust Architectures</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-14 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rmarsigli/so-ai-will-finally-take-your-job-e0f" target="_blank">So, AI will finally take your job</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-14 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/framework-laptop-16-review-11-1280x853.jpg" alt="Nvidia Proves It Still Has the Best Software for Better-Looking Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nvidia-proves-it-still-has-the-best-software-for-better-looking-games-2000710251" target="_blank">Nvidia Proves It Still Has the Best Software for Better-Looking Games</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-14 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/hytale1-1280x720.jpg" alt="The 10-Year Wait For ‘Minecraft Killer’ Hytale Is Finally Over" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hytale-minecraft-riot-hotfix-doom-early-access-2000659825" target="_blank">The 10-Year Wait For ‘Minecraft Killer’ Hytale Is Finally Over</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-14 17:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Tumatwolf-1280x853.jpg" alt="You Won’t Believe Where Scientists Found a 14,400-Year-Old Woolly Rhino Genome" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +296,6 @@
                 <span class="time">2026-01-14 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEX02QN7P0Z5NYPQQ1KPNA1N/hero-image.webp" alt="Smart Glasses Are About to Have a Big Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/ssmart-glasses-in-2026-apple-google-meta?utm_medium=RSS" target="_blank">Smart Glasses Are About to Have a Big Year</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-14 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/brown-dwarf-1280x853.jpg" alt="Millions Used Their Computers to Search for Aliens. Now Scientists Have 100 Signals Worth a Closer Look" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/millions-used-their-computers-to-search-for-aliens-now-scientists-have-100-signals-worth-a-closer-look-2000709902" target="_blank">Millions Used Their Computers to Search for Aliens. Now Scientists Have 100 Signals Worth a Closer Look</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-14 14:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 17:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
