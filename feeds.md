@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-14 02:40:45 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-01-14 03:31:28 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, January 14, 2026 - 02:41 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, January 14, 2026 - 03:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/14/us-senators-introduce-bill-to-stop-trump-seizing-greenland?traffic_source=rss" target="_blank">US senators introduce bill to stop Trump seizing Greenland</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-14 03:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/joe-thompson-gty-jef-260113_1768335541361_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: &#x27;No basis&#x27; for civil rights probe, DOJ says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,30 +85,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768349465035_nn_sbr_ICE_shooting_260113_1920x1080-nslp3q.jpg" alt="Source: Prosecutors resign over concerns about ICE shooting investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/source-prosecutors-resign-over-concerns-about-ice-shooting-investigation-255907909852" target="_blank">Source: Prosecutors resign over concerns about ICE shooting investigation</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-14 00:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/01/1920x1080/skynews-trump-iran_7134732.jpg?20260114004330" alt="Trump makes Iran pledge as more than 2,000 protesters reported killed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/iranian-protester-faces-imminent-execution-claims-human-rights-group-13493858" target="_blank">Trump makes Iran pledge as more than 2,000 protesters reported killed</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-01-13 23:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-trump-iran_7134732.jpg?20260114004330" alt="&#x27;Help is on its way,&#x27; Trump tells Iranian protesters - as demonstrator faces &#x27;imminent&#x27; execution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/iranian-protester-faces-imminent-execution-claims-human-rights-group-13493858" target="_blank">&#x27;Help is on its way,&#x27; Trump tells Iranian protesters - as demonstrator faces &#x27;imminent&#x27; execution</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-13 23:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/1/13/whats-at-stake-in-ugandas-presidential-election?traffic_source=rss" target="_blank">What’s at stake in Uganda’s presidential election?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-13 23:07</span>
             </div>
         </div>
 </div>
@@ -324,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 02:41 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 03:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
