@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-14 18:02:05 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-01-14 19:02:43 UTC -->
 <!-- Processing: Questionable Content -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 33 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, January 14, 2026 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, January 14, 2026 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/14/mapping-who-controls-what-in-yemen-in-2026?traffic_source=rss" target="_blank">Mapping who controls what in Yemen in 2026</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-14 18:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +100,29 @@
                 <span class="time">2026-01-14 12:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/14/g-s1-105963/up-first-newsletter-minnesota-prosecutors-trump-economy-speech-inflation" target="_blank">New analysis on U.S. economy. And, MN prosecutors quit over DOJ probe into Good widow</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-14 12:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/14/blackstone-general-atlantic-backed-liftoff-mobile-files-for-ipo/" target="_blank">Blackstone, General Atlantic-backed Liftoff Mobile files for IPO</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-14 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/civ7-iphone-500x500-1768415746.jpg" alt="Civilization VII is headed to iPhone and iPad with “Arcade Edition”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/01/civilization-vii-is-headed-to-iphone-and-ipad-with-arcade-edition/" target="_blank">Civilization VII is headed to iPhone and iPad with “Arcade Edition”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-14 18:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/no_robot_music_2-500x500.jpg" alt="Bandcamp bans purely AI-generated music from its platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,24 +159,6 @@
                 <span class="time">2026-01-14 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/861576/google-gemini-ai-personal-intelligence-gmail-search-youtube-photos" target="_blank">Google’s Gemini AI will use what it knows about you from Gmail, Search, and YouTube</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-14 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/695c1d907b9363e433a5e800/master/pass/sec-trendeagarua-AP25205510694833.jpg" alt="Trump Warned of a Tren de Aragua ‘Invasion.’ US Intel Told a Different Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/trump-warned-of-a-tren-de-aragua-invasion-us-intel-told-a-different-story/" target="_blank">Trump Warned of a Tren de Aragua ‘Invasion.’ US Intel Told a Different Story</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-14 15:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +171,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18834472&w=600" alt="Designing Chatbots for Multiple Use Cases: Intent Routing and Orchestration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/designing-chatbots-for-multiple-use-cases-intent-r" target="_blank">Designing Chatbots for Multiple Use Cases: Intent Routing and Orchestration</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-14 18:00</span>
             </div>
         </div>
 <div class="story">
@@ -214,15 +218,6 @@
                 <span class="time">2026-01-14 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tmcd054/exploring-azure-ado-mcp-server-a-smart-assistant-for-smarter-development-3p2e" target="_blank">Exploring Azure ADO MCP Server: A Smart Assistant for Smarter Development</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-14 15:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2020/03/zfsiaiitxszj4qfbsqq5-1280x720.jpg" alt="Star Wars Modders Have Taken Battlefront 3 Into Their Own Hands And It Looks Great" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/star-wars-battlefront-3-swbf2-mod-kyber-2000659850" target="_blank">Star Wars Modders Have Taken Battlefront 3 Into Their Own Hands And It Looks Great</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-14 18:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/framework-laptop-16-review-11-1280x853.jpg" alt="Nvidia Proves It Still Has the Best Software for Better-Looking Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +291,6 @@
                 <span class="time">2026-01-14 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEXSRGN5TZ31YRPCRT6TZGJD/hero-image.jpg" alt="This App Brings Some of My Favorite Windows Features to Mac" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/this-app-brings-some-of-my-favorite-windows-features-to-mac?utm_medium=RSS" target="_blank">This App Brings Some of My Favorite Windows Features to Mac</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-14 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
