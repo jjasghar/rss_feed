@@ -1,30 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-14 01:30:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-14 02:40:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, January 14, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, January 14, 2026 - 02:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,12 +52,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/joe-thompson-gty-jef-260113_1768335541361_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: &#x27;No basis&#x27; for civil rights probe, DOJ says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates/?id=129124338" target="_blank">Minneapolis ICE shooting live updates: &#x27;No basis&#x27; for civil rights probe, DOJ says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-14 01:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/13/g-s1-105927/claudette-colvin-obituary-montgomery-bus-civil-rights" target="_blank">Claudette Colvin, who refused to move seats on a bus at start of civil rights movement, dies</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-14 01:13</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/14/russia-ukraine-war-list-of-key-events-day-1420?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,420</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-14 01:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-trump-iran_7134732.jpg?20260114004330" alt="Trump makes Iran pledge as more than 2,000 protesters reported killed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/iranian-protester-faces-imminent-execution-claims-human-rights-group-13493858" target="_blank">Trump makes Iran pledge as more than 2,000 protesters reported killed</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-13 23:10</span>
             </div>
         </div>
 <div class="story">
@@ -65,33 +103,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/1/13/whats-at-stake-in-ugandas-presidential-election?traffic_source=rss" target="_blank">What’s at stake in Uganda’s presidential election?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-13 23:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/134a/live/e02cf810-f0ac-11f0-b546-d96774f73259.jpg" alt="More than 2,000 people reported killed at Iran protests as Trump says &#x27;help is on its way&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr57vmznmd9o?at_medium=RSS&at_campaign=rss" target="_blank">More than 2,000 people reported killed at Iran protests as Trump says &#x27;help is on its way&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-13 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/13/un-chief-warns-he-could-refer-israel-to-icj-over-laws-targetting-unrwa?traffic_source=rss" target="_blank">UN chief warns he could refer Israel to ICJ over laws targetting UNRWA</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-13 22:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/13/trump-says-trade-agreement-with-mexico-canada-irrelevant-to-us?traffic_source=rss" target="_blank">Trump says trade agreement with Mexico, Canada ‘irrelevant’ to US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-13 21:35</span>
             </div>
         </div>
 </div>
@@ -115,6 +126,15 @@
                 <span class="title"><a href="https://www.theverge.com/column/861476/trump-memes-venezuela-ice-shooting" target="_blank">Inside the White House shitposting machine</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-13 23:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/BMW-M-Electrified-Arjeplog-_046-500x500.jpg" alt="BMW’s first electric M car is coming in 2027—with one motor per wheel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/01/bmws-first-electric-m-car-is-coming-in-2027-with-one-motor-per-wheel/" target="_blank">BMW’s first electric M car is coming in 2027—with one motor per wheel</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-13 23:01</span>
             </div>
         </div>
 <div class="story">
@@ -144,15 +164,6 @@
                 <span class="time">2026-01-13 22:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/" target="_blank">Microsoft announces glut of new data centers but says it won’t let your electricity bill go up</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-13 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,6 +176,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffczuv4ykgl5utntkw31b.png" alt="AAoM-02: XML Parser with W3C Conformance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/milky2018/aaom-02-xml-parser-with-w3c-conformance-5a2f" target="_blank">AAoM-02: XML Parser with W3C Conformance</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-14 02:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ZLUDA-Q4-2025-Report" target="_blank">ZLUDA Boasts Full Llama.cpp Support, Better Windows Handling For CUDA On Non-NVIDIA GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-14 01:39</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +223,6 @@
                 <span class="time">2026-01-13 23:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://questdb.com/blog/jvm-current-thread-user-time/" target="_blank">A 40-line fix eliminated a 400x performance gap</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-13 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwi5yhwkecm5w9kbytblv.png" alt="Did I Make Money with AI?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gudong/did-i-make-money-with-ai-1039" target="_blank">Did I Make Money with AI?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-13 22:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/cigarette.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Man spent 40 years perfecting a lettuce cigarette" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/13/man-spent-40-years-perfecting-a-lettuce-cigarette.html" target="_blank">Man spent 40 years perfecting a lettuce cigarette</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-14 01:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/22FUCK-ICE22-sticker-spotted-in-New-Orleans.-photo.jpg?fit=1080%2C1208&amp;quality=60&amp;ssl=1" alt="Jazz musicians disrupt Arizona Republicans&#x27; pro-ICE press event" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,20 +296,20 @@
                 <span class="time">2026-01-13 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEWEENS8E6M36N5BDB1Y5Q8G/hero-image.png" alt="This Bose Waterproof Bluetooth Speaker Is $100 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/bose-soundlink-micro-speaker-sale-january-2026?utm_medium=RSS" target="_blank">This Bose Waterproof Bluetooth Speaker Is $100 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-13 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5743.png" alt="First Responder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5743" target="_blank">First Responder</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-01-14 02:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1768177022-20260113.png" alt="Saturday Morning Breakfast Cereal - Consent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -299,22 +319,13 @@
                 <span class="time">2026-01-13 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5742.png" alt="Mistress Of Subtlety" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5742" target="_blank">Mistress Of Subtlety</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-01-13 01:56</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 02:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
