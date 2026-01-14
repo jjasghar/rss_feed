@@ -1,28 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-14 13:14:48 UTC -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-01-14 14:03:46 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 7 new posts out of 20 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, January 14, 2026 - 13:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, January 14, 2026 - 14:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -100,6 +110,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/861413/honda-acura-rdx-two-motor-hybrid-base-station-rv" target="_blank">Honda relaunching Acura RDX as a next-gen two-motor hybrid</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-14 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/14/voicerun-nabs-5-5m-to-build-voice-agent-factory/" target="_blank">VoiceRun nabs $5.5M to build voice agent factory</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-14 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/01/14/meta-to-reportedly-lay-off-10-of-reality-labs-staff/" target="_blank">Meta to reportedly lay off 10% of Reality Labs staff</a></span>
                 <span class="feed">TechCrunch</span>
@@ -133,24 +161,6 @@
                 <span class="time">2026-01-13 23:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/861476/trump-memes-venezuela-ice-shooting" target="_blank">Inside the White House shitposting machine</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-13 23:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/BMW-M-Electrified-Arjeplog-_046-500x500.jpg" alt="BMW’s first electric M car is coming in 2027—with one motor per wheel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/01/bmws-first-electric-m-car-is-coming-in-2027-with-one-motor-per-wheel/" target="_blank">BMW’s first electric M car is coming in 2027—with one motor per wheel</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-13 23:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -163,6 +173,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18823360&w=600" alt="How to Secure a Spring AI MCP Server with an API Key via Spring Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-to-secure-a-spring-ai-mcp-server-with-an-api-k" target="_blank">How to Secure a Spring AI MCP Server with an API Key via Spring Security</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-14 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -201,15 +220,6 @@
                 <span class="time">2026-01-14 11:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/build-dora-ready-infrastructure-with-verifiable-provenance" target="_blank">How to build DORA-ready infrastructure with verifiable provenance and reliable support</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-01-14 09:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,6 +239,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/ASUS-The-SFF-Ready-Prime-GeForce-RTX™-5070-12GB-GDDR7-Graphics-Card-1280x854.jpg" alt="If You’re Prime and a Gamer, Asus RTX 5070 Plunges to Near-Record Low on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/if-youre-prime-and-a-gamer-asus-rtx-5070-plunges-to-near-record-low-on-amazon-2000659476" target="_blank">If You’re Prime and a Gamer, Asus RTX 5070 Plunges to Near-Record Low on Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-14 13:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEWSRKZ2BAFKD483MGAJ5048/hero-image.jpg" alt="Microsoft&#x27;s Latest Patch Tuesday Fixes 114 Vulnerabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/microsoft-patch-tuesday-january-2026?utm_medium=RSS" target="_blank">Microsoft&#x27;s Latest Patch Tuesday Fixes 114 Vulnerabilities</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-14 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Apple-Creator-Studio-hed.webp?fit=1440%2C960&amp;quality=55&amp;ssl=1" alt="Apple Creator Studio means I&#x27;ll no longer need to defile my Mac with Adobe software" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/14/apple-creator-studio-launched-for-those-tired-of-defiling-their-macs-with-adobe-software.html" target="_blank">Apple Creator Studio means I&#x27;ll no longer need to defile my Mac with Adobe software</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-14 13:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/dogpooping-1280x853.jpg" alt="Scientists Found Something Unexpected in Pet Poop—and It’s Not Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -254,33 +291,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/13/jazz-musicians-disrupt-arizona-republicans-pro-ice-press-event.html" target="_blank">Jazz musicians disrupt Arizona Republicans&#x27; pro-ICE press event</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-14 01:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/StrangerThings_mikewriting-1-1280x853.jpg" alt="The ‘Stranger Things’ Documentary Maker Weighs in on That ChatGPT Controversy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/stranger-things-duffer-brothers-chatgpt-netflix-2000709898" target="_blank">The ‘Stranger Things’ Documentary Maker Weighs in on That ChatGPT Controversy</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-13 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/emu.jpg?fit=1200%2C846&amp;quality=60&amp;ssl=1" alt="In 1932, Australia went to war against emus (the emus won)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/13/in-1932-australia-went-to-war-against-emus-the-emus-won.html" target="_blank">In 1932, Australia went to war against emus (the emus won)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-13 22:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/Fallout-mod.jpg" alt="Don’t Let Todd Howard Catch You In This Fallout 4 Mod Or You’ll Die" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/todd-howard-fallout-4-mod-blurbs-youtube-2000659450" target="_blank">Don’t Let Todd Howard Catch You In This Fallout 4 Mod Or You’ll Die</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-13 22:03</span>
             </div>
         </div>
 </div>
@@ -311,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 13:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 14:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
