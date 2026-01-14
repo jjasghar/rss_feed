@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-14 16:02:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-14 17:05:30 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, January 14, 2026 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, January 14, 2026 - 17:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/14/uganda-faces-mounting-calls-to-end-internet-blackout-before-elections?traffic_source=rss" target="_blank">Uganda faces mounting calls to end internet blackout before elections</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-14 16:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +98,38 @@
                 <span class="time">2026-01-14 11:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be58/live/587fafb0-f10c-11f0-a422-4ba8a094a8fa.jpg" alt="Trump vows &#x27;very strong action&#x27; if Iran executes protesters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cqj2qgw8w08o?at_medium=RSS&at_campaign=rss" target="_blank">Trump vows &#x27;very strong action&#x27; if Iran executes protesters</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-14 11:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Woolly-rhino-by-Mammoth-museum-of-North-Eastern-Federal-University-Yakutsk-Russia-500x500.jpg" alt="Scientists sequence a woolly rhino genome from a 14,400-year-old wolf’s stomach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/01/scientists-sequence-a-woolly-rhino-genome-from-a-14400-year-old-wolfs-stomach/" target="_blank">Scientists sequence a woolly rhino genome from a 14,400-year-old wolf’s stomach</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-14 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/14/bill-gates-backed-type-one-energy-raises-87m-ahead-of-250m-series-b/" target="_blank">Bill Gates-backed Type One Energy raises $87M ahead of $250M Series B</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-14 16:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6966fde09abf1a3c869127fe/master/pass/politics_proud_boys_trump_ice.jpg" alt="Trump Doesn’t Need the Proud Boys Anymore" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/trump-proud-boys-ice/" target="_blank">Trump Doesn’t Need the Proud Boys Anymore</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-14 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,33 +157,6 @@
                 <span class="time">2026-01-14 14:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/07/GettyImages-1228769036-500x500.jpg" alt="EPA makes it harder for states, tribes to block pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/01/epa-makes-it-harder-for-states-tribes-to-block-pipelines/" target="_blank">EPA makes it harder for states, tribes to block pipelines</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-14 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/861413/honda-acura-rdx-two-motor-hybrid-base-station-rv" target="_blank">Honda relaunching Acura RDX as a next-gen two-motor hybrid</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-14 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/14/voicerun-nabs-5-5m-to-build-voice-agent-factory/" target="_blank">VoiceRun nabs $5.5M to build voice agent factory</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-14 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -182,6 +178,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/01/14/gen-z-wrapped-2025/" target="_blank">If you&#x27;re a Zoomer, this one&#x27;s for you: Everything Gen Z needs to know about the 2025 tech landscape</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-01-14 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18832335&w=600" alt="The Art of Idempotency: Preventing Double Charges and Duplicate Actions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/art-of-idempotency-preventing-double-charges-and-duplicate" target="_blank">The Art of Idempotency: Preventing Double Charges and Duplicate Actions</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-14 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -211,15 +216,6 @@
                 <span class="time">2026-01-14 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Mutter-Shell-50-Alpha" target="_blank">GNOME Mutter 50 Alpha Released With X11 Backend Removed</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-14 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Tumatwolf-1280x853.jpg" alt="You Won’t Believe Where Scientists Found a 14,400-Year-Old Woolly Rhino Genome" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/you-wont-believe-where-scientists-found-a-14400-year-old-woolly-rhino-genome-2000710184" target="_blank">You Won’t Believe Where Scientists Found a 14,400-Year-Old Woolly Rhino Genome</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-14 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/1767TEASER1200-scarry-ICE-operation.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Tom the Dancing Bug: A Busy, Busy Immigration Enforcement Operation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/14/tom-the-dancing-bug-a-busy-busy-immigration-enforcement-operation.html" target="_blank">Tom the Dancing Bug: A Busy, Busy Immigration Enforcement Operation</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-14 16:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/gta6-1280x720.jpg" alt="A Detail About GTA 6′s Super Secret Multiplayer Just Got Accidentally Revealed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +289,6 @@
                 <span class="time">2026-01-14 14:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/ASUS-The-SFF-Ready-Prime-GeForce-RTX™-5070-12GB-GDDR7-Graphics-Card-1280x854.jpg" alt="If You’re Prime and a Gamer, Asus RTX 5070 Plunges to Near-Record Low on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/if-youre-prime-and-a-gamer-asus-rtx-5070-plunges-to-near-record-low-on-amazon-2000659476" target="_blank">If You’re Prime and a Gamer, Asus RTX 5070 Plunges to Near-Record Low on Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-14 13:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEWSRKZ2BAFKD483MGAJ5048/hero-image.jpg" alt="Microsoft&#x27;s Latest Patch Tuesday Fixes 114 Vulnerabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/microsoft-patch-tuesday-january-2026?utm_medium=RSS" target="_blank">Microsoft&#x27;s Latest Patch Tuesday Fixes 114 Vulnerabilities</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-14 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,22 +312,13 @@
                 <span class="time">2026-01-14 02:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1768177022-20260113.png" alt="Saturday Morning Breakfast Cereal - Consent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/consent" target="_blank">Saturday Morning Breakfast Cereal - Consent</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-13 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 17:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
