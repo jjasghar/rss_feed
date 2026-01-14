@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-01-14 22:01:34 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-01-14 23:01:28 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, January 14, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, January 14, 2026 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -70,6 +62,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/14/g-s1-106011/greenland-denmark-trump" target="_blank">Denmark says there&#x27;s a &#x27;fundamental disagreement&#x27; with Trump over Greenland</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-14 19:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/14/senegal-beat-egypt-1-0-egypt-in-afcon-semifinal-as-sadio-mane-scores-late?traffic_source=rss" target="_blank">Senegal beat Egypt 1-0 Egypt in AFCON semifinal as Sadio Mane scores late</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -94,20 +95,20 @@
                 <span class="time">2026-01-14 18:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/14/nx-s1-5677124/how-marco-rubio-shifted-from-trump-critic-to-trump-champion" target="_blank">How Marco Rubio shifted from Trump critic to Trump champion</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-14 17:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6965992c482e29ae79e365d8/master/pass/Backlash-Against-ICE-Policing-Tactics-Business-2242486803.jpg" alt="Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/backlash-against-ice-policing-tactics-grows-in-silicon-valley/" target="_blank">Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-14 22:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/oddcore1-500x500.png" alt="I can’t stop shooting Oddcore’s endless waves of weird little guys" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,15 +154,6 @@
                 <span class="time">2026-01-14 20:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6967f13a42f9ee4526e48a48/master/pass/One%20of%20Our%20Favorite%20Work%20Lights%20Is%2025%25%20Off.png" alt="Save Big on One of Our Favorite Desk Lamps from Lume Cube" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lume-edge-light-deal-126/" target="_blank">Save Big on One of Our Favorite Desk Lamps from Lume Cube</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-14 19:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +166,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GRUB-2.14-Released" target="_blank">GRUB 2.14 Bootloader Released With EROFS Support, Shim Loader Protocol</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-14 22:54</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +213,6 @@
                 <span class="time">2026-01-14 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rr26ywep5hvxw3qrt0x.jpg" alt="Beyond Linear Chains: Building a Self-Correcting AI Agent with LangGraph.js" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/programmingcentral/beyond-linear-chains-building-a-self-correcting-ai-agent-with-langgraphjs-4mjd" target="_blank">Beyond Linear Chains: Building a Self-Correcting AI Agent with LangGraph.js</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-14 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -250,6 +242,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/07/shutterstock_3993856-scaled.jpg?fit=2560%2C1707&amp;quality=60&amp;ssl=1" alt="This subreddit is full of beautifully worn-out objects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/14/this-subreddit-is-full-of-beautifully-worn-out-objects.html" target="_blank">This subreddit is full of beautifully worn-out objects</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-14 22:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEZ98JWN58ZWTZ1R5BS0R01B/hero-image.png" alt="The JBL Flip 6 Bluetooth Speaker Is Nearly Half Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-jbl-flip-6-bluetooth-speaker-deal-january-2026?utm_medium=RSS" target="_blank">The JBL Flip 6 Bluetooth Speaker Is Nearly Half Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-14 22:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/bulllly-1280x720.jpg" alt="Bully Online Mod Suddenly Shutting Down Just Months After Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/bully-online-mod-suddenly-shutting-down-just-months-after-launch-2000659899" target="_blank">Bully Online Mod Suddenly Shutting Down Just Months After Launch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-14 21:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/05/f5cc9782a918a1290f428db2be49b9dd-1024x575.jpg" alt="DoorDash and Uber Eats Cost Delivery Workers Millions of Dollars in Tips, NYC Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -274,33 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/meta-just-absolutely-gutted-the-best-part-of-quest-vr-headsets-2000710320" target="_blank">Meta Just Absolutely Gutted the Best Part of Quest VR Headsets</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-14 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/stack.jpg?fit=1200%2C911&amp;quality=60&amp;ssl=1" alt="Stack Overflow is dead, and its toxic community helped kill it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/14/stack-overflow-is-dead-and-its-toxic-community-helped-kill-it.html" target="_blank">Stack Overflow is dead, and its toxic community helped kill it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-14 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HFA1NX2ZENNBGHJ79AMPW/hero-image.png" alt="The Best Sales on Headphones and Earbuds Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/best-deals-on-earbuds-and-headphones-right-now?utm_medium=RSS" target="_blank">The Best Sales on Headphones and Earbuds Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-14 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Timothee-Chalamet-Marty-Supreme-1280x853.jpg" alt="‘Marty Supreme’ Almost Ended With an Actual Vampire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/marty-supreme-almost-ended-with-an-actual-vampire-2000710371" target="_blank">‘Marty Supreme’ Almost Ended With an Actual Vampire</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-14 19:40</span>
             </div>
         </div>
 </div>
@@ -349,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
