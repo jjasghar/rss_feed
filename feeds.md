@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-14 15:03:23 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-01-14 16:02:31 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, January 14, 2026 - 15:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, January 14, 2026 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/14/nx-s1-5677104/trump-administration-letter-terminating-addiction-mental-health-grants" target="_blank">Trump administration sends letter wiping out addiction, mental health grants</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-14 14:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +102,6 @@
                 <span class="time">2026-01-14 11:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/14/irans-judiciary-to-speed-up-trials-of-accused-in-protests-crackdown?traffic_source=rss" target="_blank">Iran’s judiciary to speed up trials of accused in protests crackdown</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-14 10:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -107,9 +111,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/861576/google-gemini-ai-personal-intelligence-gmail-search-youtube-photos" target="_blank">Google’s Gemini AI will use what it knows about you from Gmail, Search, and YouTube</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-14 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/695c1d907b9363e433a5e800/master/pass/sec-trendeagarua-AP25205510694833.jpg" alt="Trump Warned of a Tren de Aragua ‘Invasion.’ US Intel Told a Different Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/trump-warned-of-a-tren-de-aragua-invasion-us-intel-told-a-different-story/" target="_blank">Trump Warned of a Tren de Aragua ‘Invasion.’ US Intel Told a Different Story</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-14 15:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/861715/nbc-sports-nippon-television-ai-viztrick-aidi-player-tracking-mobile-viewing" target="_blank">NBC Sports’ new real-time player tracking lets viewers focus on their favorite athletes</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-14 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/07/GettyImages-1228769036-500x500.jpg" alt="EPA makes it harder for states, tribes to block pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/01/epa-makes-it-harder-for-states-tribes-to-block-pipelines/" target="_blank">EPA makes it harder for states, tribes to block pipelines</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-14 14:01</span>
             </div>
         </div>
 <div class="story">
@@ -128,33 +159,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/14/voicerun-nabs-5-5m-to-build-voice-agent-factory/" target="_blank">VoiceRun nabs $5.5M to build voice agent factory</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-14 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68563692fd268ad4c81d6dc3/master/pass/The%2014%20Best%20Office%20Chairs.png" alt="15 Best Office Chairs of 2026— I’ve Tested 65 to Pick Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-office-chairs/" target="_blank">15 Best Office Chairs of 2026— I’ve Tested 65 to Pick Them</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-14 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/14/meta-to-reportedly-lay-off-10-of-reality-labs-staff/" target="_blank">Meta to reportedly lay off 10% of Reality Labs staff</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-14 12:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/14/skyfi-raises-12-7m-to-turn-satellite-images-into-insights/" target="_blank">SkyFi raises $12.7M to turn satellite images into insights</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-14 11:30</span>
             </div>
         </div>
 </div>
@@ -184,6 +188,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tmcd054/exploring-azure-ado-mcp-server-a-smart-assistant-for-smarter-development-3p2e" target="_blank">Exploring Azure ADO MCP Server: A Smart Assistant for Smarter Development</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-14 15:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18828296&w=600" alt="Why Browsers Are the Weakest Link in Zero Trust Architectures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/why-browsers-are-the-weakest-link-in-zero-trust-ar" target="_blank">Why Browsers Are the Weakest Link in Zero Trust Architectures</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-14 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rmarsigli/so-ai-will-finally-take-your-job-e0f" target="_blank">So, AI will finally take your job</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-14 15:00</span>
@@ -196,24 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GNOME-Mutter-Shell-50-Alpha" target="_blank">GNOME Mutter 50 Alpha Released With X11 Backend Removed</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-14 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.sparkfun.com/official-response" target="_blank">SparkFun Officially Dropping AdaFruit due to CoC Violation</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-14 14:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18823360&w=600" alt="How to Secure a Spring AI MCP Server with an API Key via Spring Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-to-secure-a-spring-ai-mcp-server-with-an-api-k" target="_blank">How to Secure a Spring AI MCP Server with an API Key via Spring Security</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-14 13:00</span>
             </div>
         </div>
 </div>
@@ -235,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/gta6-1280x720.jpg" alt="A Detail About GTA 6′s Super Secret Multiplayer Just Got Accidentally Revealed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gta-6-multiplayer-one-detail-leak-court-docs-player-count-32-rockstar-2000659780" target="_blank">A Detail About GTA 6′s Super Secret Multiplayer Just Got Accidentally Revealed</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-14 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEXSRGN5TZ31YRPCRT6TZGJD/hero-image.jpg" alt="This App Brings Some of My Favorite Windows Features to Mac" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/this-app-brings-some-of-my-favorite-windows-features-to-mac?utm_medium=RSS" target="_blank">This App Brings Some of My Favorite Windows Features to Mac</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-14 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KEX02QN7P0Z5NYPQQ1KPNA1N/hero-image.webp" alt="Smart Glasses Are About to Have a Big Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,29 +293,20 @@
                 <span class="time">2026-01-14 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Apple-Creator-Studio-hed.webp?fit=1440%2C960&amp;quality=55&amp;ssl=1" alt="Apple Creator Studio means I&#x27;ll no longer need to defile my Mac with Adobe software" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/14/apple-creator-studio-launched-for-those-tired-of-defiling-their-macs-with-adobe-software.html" target="_blank">Apple Creator Studio means I&#x27;ll no longer need to defile my Mac with Adobe software</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-14 13:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/dogpooping-1280x853.jpg" alt="Scientists Found Something Unexpected in Pet Poop—and It’s Not Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/scientists-found-something-unexpected-in-pet-poop-and-its-not-good-2000709819" target="_blank">Scientists Found Something Unexpected in Pet Poop—and It’s Not Good</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-14 05:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/01/14/clarkesworld" target="_blank">Clarkesworld</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-01-14 08:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5743.png" alt="First Responder" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -317,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 15:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
