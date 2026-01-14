@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-14 05:04:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-14 06:02:30 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, January 14, 2026 - 05:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, January 14, 2026 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/14/at-least-22-people-killed-after-crane-falls-on-train-in-northeast-thailand?traffic_source=rss" target="_blank">At least 22 people killed after crane falls on train in northeast Thailand</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-14 05:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +103,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/14/russia-ukraine-war-list-of-key-events-day-1420?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,420</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-14 01:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768349465035_nn_sbr_ICE_shooting_260113_1920x1080-nslp3q.jpg" alt="Source: Prosecutors resign over concerns about ICE shooting investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/source-prosecutors-resign-over-concerns-about-ice-shooting-investigation-255907909852" target="_blank">Source: Prosecutors resign over concerns about ICE shooting investigation</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-14 00:11</span>
             </div>
         </div>
 </div>
@@ -175,6 +179,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fogr55jjpervucs1gbpa1.png" alt="Why I built my own portfolio template" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aishwarya_sk/why-i-built-my-own-portfolio-template-j42" target="_blank">Why I built my own portfolio template</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-14 05:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dev.to/assets/images/blog/2026/01/google-ucp-prestashop-agentic-commerce/schema-ucp-architecture.webp?utm_source=devTo&amp;utm_medium=social&amp;utm_campaign=Google%20UCP:%20The%20End%20of%20Closed%20Marketplaces?%20What%20It%20Means%20for%20PrestaShop" alt="Google UCP: The End of Closed Marketplaces? What It Means for PrestaShop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +223,6 @@
                 <span class="time">2026-01-14 02:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/ZLUDA-Q4-2025-Report" target="_blank">ZLUDA Boasts Full Llama.cpp Support, Better Windows Handling For CUDA On Non-NVIDIA GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-14 01:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/dogpooping-1280x853.jpg" alt="Scientists Found Something Unexpected in Pet Poop—and It’s Not Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/scientists-found-something-unexpected-in-pet-poop-and-its-not-good-2000709819" target="_blank">Scientists Found Something Unexpected in Pet Poop—and It’s Not Good</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-14 05:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/cigarette.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Man spent 40 years perfecting a lettuce cigarette" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +296,6 @@
                 <span class="time">2026-01-13 22:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEWH9AKZEB6DT0NMKSDJQ2A7/hero-image.jpg" alt="Google Is Changing Its Account Policy About Minors Who Turn 13" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-is-changing-its-account-policy-about-minors-who-turn-13?utm_medium=RSS" target="_blank">Google Is Changing Its Account Policy About Minors Who Turn 13</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-13 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 05:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
