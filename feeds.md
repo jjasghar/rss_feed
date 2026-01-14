@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-14 04:19:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-14 05:04:35 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, January 14, 2026 - 04:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, January 14, 2026 - 05:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -178,6 +175,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dev.to/assets/images/blog/2026/01/google-ucp-prestashop-agentic-commerce/schema-ucp-architecture.webp?utm_source=devTo&amp;utm_medium=social&amp;utm_campaign=Google%20UCP:%20The%20End%20of%20Closed%20Marketplaces?%20What%20It%20Means%20for%20PrestaShop" alt="Google UCP: The End of Closed Marketplaces? What It Means for PrestaShop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ndabene/google-ucp-the-end-of-closed-marketplaces-what-it-means-for-prestashop-31f8" target="_blank">Google UCP: The End of Closed Marketplaces? What It Means for PrestaShop</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-14 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/linux-mint-22-3-release/" target="_blank">Linux Mint 22.3 &amp;quot;Zena&amp;quot; is Officially Available Now! Introduces Two New Apps</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-14 04:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpgn7se13hc8rfsfdpaa6.png" alt="Building an AI Blog Generator with FastAPI, React, and Hugging Face (Pt1)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,24 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/ZLUDA-Q4-2025-Report" target="_blank">ZLUDA Boasts Full Llama.cpp Support, Better Windows Handling For CUDA On Non-NVIDIA GPUs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-14 01:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Hangover-11.0-Released" target="_blank">Hangover 11.0 Released: Wine + FEX/Box64 Pairing For Windows x86 Apps On ARM64 Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-14 01:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/ubuntu-circuit-yellow.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 Undergoes ‘Mass Rebuild’ of All Archive Packages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/ubuntu-2604-resolute-archive-rebuild" target="_blank">Ubuntu 26.04 Undergoes ‘Mass Rebuild’ of All Archive Packages</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-13 23:56</span>
             </div>
         </div>
 </div>
@@ -324,7 +321,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 04:19 UTC
+        🔄 Last Updated: 05:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
