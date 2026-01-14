@@ -1,36 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-01-14 12:02:33 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-14 13:14:48 UTC -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 7 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, January 14, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, January 14, 2026 - 13:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +38,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/1/14/trumps-neo-con-turn-on-iran?traffic_source=rss" target="_blank">Trump’s neo-con turn on Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-14 12:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/14/g-s1-105963/up-first-newsletter-minnesota-prosecutors-trump-economy-speech-inflation" target="_blank">New analysis on U.S. economy. And, MN prosecutors quit over DOJ probe into Good widow</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-14 12:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Soldiers-Greenland-DB-260113_1768310015134_hpMain_4x3t_384.jpg" alt="US talks pose &#x27;conundrum&#x27; for Greenland, Denmark: Analysts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +92,20 @@
                 <span class="time">2026-01-14 10:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/14/g-s1-105949/death-toll-crackdown-protests-iran" target="_blank">The death toll from a crackdown on protests in Iran jumps to over 2,500, activists say</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-14 10:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260106-greeland-vl-230p-bb73df.jpg" alt="Buying Greenland could cost as much as $700 billion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/buying-greenland-cost-much-700-billion-rcna253921" target="_blank">Buying Greenland could cost as much as $700 billion</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-14 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/14/meta-to-reportedly-lay-off-10-of-reality-labs-staff/" target="_blank">Meta to reportedly lay off 10% of Reality Labs staff</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-14 12:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +151,29 @@
                 <span class="time">2026-01-13 23:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-1329130331-500x500-1768339464.jpg" alt="The RAM shortage’s silver lining: Less talk about “AI PCs”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/the-ram-shortages-silver-lining-less-talk-about-ai-pcs/" target="_blank">The RAM shortage’s silver lining: Less talk about “AI PCs”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-13 22:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blogs.igalia.com/mrego/servo-2025-stats/" target="_blank">Servo 2025 Stats</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-14 12:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The AI Smart Home Dilemma" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -185,37 +195,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-CR-26.01.36711.4" target="_blank">Intel Compute Runtime Updated With Initial Crescent Island &amp; Nova Lake S Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-14 11:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://ubuntu.com//blog/build-dora-ready-infrastructure-with-verifiable-provenance" target="_blank">How to build DORA-ready infrastructure with verifiable provenance and reliable support</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-01-14 09:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/platform-golden-path-approach/en/headerimage/header-platform-golden-path-approach-1768216983360.jpg" alt="Article: Platform-as-a-Product: Declarative Infrastructure for Developer Velocity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/platform-golden-path-approach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Platform-as-a-Product: Declarative Infrastructure for Developer Velocity</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-14 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fogr55jjpervucs1gbpa1.png" alt="Why I built my own portfolio template" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aishwarya_sk/why-i-built-my-own-portfolio-template-j42" target="_blank">Why I built my own portfolio template</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-14 05:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dev.to/assets/images/blog/2026/01/google-ucp-prestashop-agentic-commerce/schema-ucp-architecture.webp?utm_source=devTo&amp;utm_medium=social&amp;utm_campaign=Google%20UCP:%20The%20End%20of%20Closed%20Marketplaces?%20What%20It%20Means%20for%20PrestaShop" alt="Google UCP: The End of Closed Marketplaces? What It Means for PrestaShop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ndabene/google-ucp-the-end-of-closed-marketplaces-what-it-means-for-prestashop-31f8" target="_blank">Google UCP: The End of Closed Marketplaces? What It Means for PrestaShop</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-14 05:00</span>
             </div>
         </div>
 </div>
@@ -230,15 +222,6 @@
                 <span class="title"><a href="https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/" target="_blank">Patch Tuesday, January 2026 Edition</a></span>
                 <span class="feed">Krebs on Security</span>
                 <span class="time">2026-01-14 00:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/1980s-hacker-manifesto.html" target="_blank">1980s Hacker Manifesto</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-01-13 12:09</span>
             </div>
         </div>
 </div>
@@ -328,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 13:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
