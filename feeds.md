@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-14 11:02:15 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-01-14 12:02:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, January 14, 2026 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, January 14, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Soldiers-Greenland-DB-260113_1768310015134_hpMain_4x3t_384.jpg" alt="US talks pose &#x27;conundrum&#x27; for Greenland, Denmark: Analysts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/us-talks-pose-conundrum-greenland-denmark-analysts/story?id=129159022" target="_blank">US talks pose &#x27;conundrum&#x27; for Greenland, Denmark: Analysts</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-14 11:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2026/1/14/adelaide-festival-removing-palestinian-author-is-an-act-of?traffic_source=rss" target="_blank">Adelaide Festival removing Palestinian author is an “act of censorship”</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-14 11:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be58/live/587fafb0-f10c-11f0-a422-4ba8a094a8fa.jpg" alt="Trump vows &#x27;very strong action&#x27; if Iran executes protesters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cqj2qgw8w08o?at_medium=RSS&at_campaign=rss" target="_blank">Trump vows &#x27;very strong action&#x27; if Iran executes protesters</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-14 11:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,39 +92,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/International/Iran-bodies-DB-260114_1768379483255_hpMain_4x3t_384.jpg" alt="Iran protests: 2,500 killed, activists say, as Trump says US will &#x27;act accordingly&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260106-greeland-vl-230p-bb73df.jpg" alt="Buying Greenland could cost as much as $700 billion" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/iran-protests-2500-killed-activists-trump-us-act/story?id=129194150" target="_blank">Iran protests: 2,500 killed, activists say, as Trump says US will &#x27;act accordingly&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-14 08:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/14/scientists-confirm-2025-as-third-warmest-year-ever-recorded?traffic_source=rss" target="_blank">Scientists confirm 2025 as third-warmest year ever recorded</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-14 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/14/chinese-app-are-you-dead-to-change-name-after-surge-in-popularity?traffic_source=rss" target="_blank">Chinese app ‘Are You Dead?’ to change name after surge in popularity</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-14 07:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/14/nx-s1-5677029/chinas-trade-surplus-surges-1-2-trillion-trump-tariffs" target="_blank">China&#x27;s trade surplus surges 20% to a record $1.2 trillion, even with Trump&#x27;s tariffs</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-14 07:12</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/buying-greenland-cost-much-700-billion-rcna253921" target="_blank">Buying Greenland could cost as much as $700 billion</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-14 10:00</span>
             </div>
         </div>
 </div>
@@ -107,6 +105,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/14/skyfi-raises-12-7m-to-turn-satellite-images-into-insights/" target="_blank">SkyFi raises $12.7M to turn satellite images into insights</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-14 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6966abea428592e866cf6614/master/pass/The%20Best%20Bone%20Conduction%20Headphones.png" alt="Best Bone Conduction Headphones (2026): Shokz, Suunto, Mojawa" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,27 +159,27 @@
                 <span class="time">2026-01-13 22:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/861560/weathertech-founder-david-macneil-federal-trade-commission" target="_blank">WeatherTech founder might be the newest US consumer protection official</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-13 22:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
-            
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The AI Smart Home Dilemma" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-01-29 00:00</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rawveg/the-ai-smart-home-dilemma-3ofh" target="_blank">The AI Smart Home Dilemma</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-14 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/agoda-unified-data-pipeline/en/headerimage/Agoda-Centralized-Processing-Pipeline-Header-1768045943046.jpg" alt="How Agoda Unified Multiple Data Pipelines Into a Single Source of Truth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/agoda-unified-data-pipeline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Agoda Unified Multiple Data Pipelines Into a Single Source of Truth</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-14 11:30</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/ndabene/google-ucp-the-end-of-closed-marketplaces-what-it-means-for-prestashop-31f8" target="_blank">Google UCP: The End of Closed Marketplaces? What It Means for PrestaShop</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-14 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/linux-mint-22-3-release/" target="_blank">Linux Mint 22.3 &amp;quot;Zena&amp;quot; is Officially Available Now! Introduces Two New Apps</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-14 04:36</span>
             </div>
         </div>
 </div>
@@ -330,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
