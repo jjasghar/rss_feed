@@ -1,35 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-15 13:14:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-15 14:03:23 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, January 15, 2026 - 13:14 UTC</div>
+    <div class="newspaper-date">Thursday, January 15, 2026 - 14:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/15/european-troops-arrive-in-greenland-as-talks-with-us-hit-wall-over-future?traffic_source=rss" target="_blank">European troops arrive in Greenland as talks with US hit wall over future</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-15 13:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +105,20 @@
                 <span class="time">2026-01-15 10:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/15/protests-after-man-shot-during-us-federal-raid-in-minneapolis?traffic_source=rss" target="_blank">Protests after man shot during US federal raid in Minneapolis</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-15 09:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68ccac118d273e101d2e0944/master/pass/Our%20Favorite%20Smartwatches%20Do%20Much%20More%20Than%20Just%20Tell%20Time.png" alt="11 Best Smartwatches (2026): Apple, Wear OS, Hybrid &amp; Kids’ Watches" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-smartwatches/" target="_blank">11 Best Smartwatches (2026): Apple, Wear OS, Hybrid &amp; Kids’ Watches</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-15 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69681695f8c9325b9d266809/master/pass/The%20Best%20Blind%20Boxes%20You%20Can%20Buy%20Online.png" alt="9 Best Blind Boxes—Bag Charms, Plush Pendants, and More (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +164,6 @@
                 <span class="time">2026-01-15 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/696593324409f416a6d8b608/master/pass/Wikipedia-Turns-25-Culture-1193880551.jpg" alt="Wikipedia’s Existential Threats Feel Greater Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/wikipedias-existential-threats-have-never-been-greater/" target="_blank">Wikipedia’s Existential Threats Feel Greater Than Ever</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-15 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +176,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/slick_phantom/how-to-create-telegram-bots-4ej4" target="_blank">How to create telegram bots in Ruby</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-15 13:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Whisper-cpp-1.8.3-12x-Perf" target="_blank">Whisper.cpp 1.8.3 Delivers A &quot;12x Performance Boost&quot; With Integrated Graphics</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-15 13:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://investinglive.com/news/the-500000-ton-typo-why-data-center-copper-math-doesnt-add-up-20260113/" target="_blank">The 500k-ton typo: Why data center copper math doesn&#x27;t add up</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-15 12:53</span>
             </div>
         </div>
 <div class="story">
@@ -188,33 +221,6 @@
                 <span class="title"><a href="https://dogdogfish.com/blog/2026/01/14/banning-things-for-other-people/" target="_blank">Banning Things for Other People Is Easy</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-15 11:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/libvirt-12.0" target="_blank">libvirt 12.0 Released - Bhyve ARM64 Support &amp; Other Improvements For The BSD Hypervisor</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-15 11:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/technical-leadership-path/en/headerimage/header-technical-leadership-path-1768212956569.jpg" alt="Taking the Technical Leadership Path" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/technical-leadership-path/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Taking the Technical Leadership Path</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-15 11:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fkodus.io%2Fwp-content%2Fuploads%2F2026%2F01%2Fcoding_standard-1-1024x576.jpg" alt="Code Standards and Best Practices for Growing Teams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kodus/code-standards-and-best-practices-for-growing-teams-l4g" target="_blank">Code Standards and Best Practices for Growing Teams</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-15 10:55</span>
             </div>
         </div>
 </div>
@@ -245,6 +251,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/millenium-falcon-set-lego-1280x853.jpg" alt="LEGO Drops Prices on Iconic Millennium Falcon Sets, Now One of the Cheapest in the Star Wars Line" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lego-drops-prices-on-iconic-millennium-falcon-sets-now-one-of-the-cheapest-in-the-star-wars-line-2000659923" target="_blank">LEGO Drops Prices on Iconic Millennium Falcon Sets, Now One of the Cheapest in the Star Wars Line</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-15 13:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEZFADEQPZKW7W1QYK3C7CEV/hero-image.png" alt="&#x27;Pipit&#x27; Is a Great Voice-to-Text App for Mac, and It&#x27;s Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/pipit-voice-to-text-mac-app?utm_medium=RSS" target="_blank">&#x27;Pipit&#x27; Is a Great Voice-to-Text App for Mac, and It&#x27;s Free</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-15 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/K2-e1768438800978.jpeg?fit=768%2C498&amp;quality=60&amp;ssl=1" alt="How one climber&#x27;s false summit claim helped turn K2 into a graveyard" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +303,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/14/this-subreddit-is-full-of-beautifully-worn-out-objects.html" target="_blank">This subreddit is full of beautifully worn-out objects</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-14 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEZ98JWN58ZWTZ1R5BS0R01B/hero-image.png" alt="The JBL Flip 6 Bluetooth Speaker Is Nearly Half Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/the-jbl-flip-6-bluetooth-speaker-deal-january-2026?utm_medium=RSS" target="_blank">The JBL Flip 6 Bluetooth Speaker Is Nearly Half Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-14 22:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/bulllly-1280x720.jpg" alt="Bully Online Mod Suddenly Shutting Down Just Months After Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/bully-online-mod-suddenly-shutting-down-just-months-after-launch-2000659899" target="_blank">Bully Online Mod Suddenly Shutting Down Just Months After Launch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-14 21:52</span>
             </div>
         </div>
 </div>
@@ -336,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 13:14 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 286 |
+        🔄 Last Updated: 14:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
