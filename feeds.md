@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-15 22:01:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-15 23:01:28 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, January 15, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, January 15, 2026 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/minn-1-rt-gmh-260115_1768491636317_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Tear gas deployed outside fed building protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates/?id=129124338" target="_blank">Minneapolis ICE shooting live updates: Tear gas deployed outside fed building protest</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-15 22:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c95/live/982df2b0-f257-11f0-b701-f5326e98c6e3.jpg" alt="Venezuelan Nobel Peace Prize winner presents her medal to Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss" target="_blank">Venezuelan Nobel Peace Prize winner presents her medal to Trump</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-15 22:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768515353903_now_hallie_machado_trump_peace_prize_260115_1920x1080-sd3i2v.jpg" alt="Venezuela&#x27;s opposition leader says she &#x27;presented&#x27; Trump with her Nobel Peace Prize" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/machado-says-she-presented-trump-with-her-nobel-peace-prize-256050757782" target="_blank">Venezuela&#x27;s opposition leader says she &#x27;presented&#x27; Trump with her Nobel Peace Prize</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-15 22:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/15/israel-kills-six-in-gaza-as-us-declares-phase-two-of-peace-plan-launched?traffic_source=rss" target="_blank">Israel kills 8 in Gaza as US declares phase two of ceasefire deal launched</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-15 21:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faf6/live/6b705ef0-f24f-11f0-a422-4ba8a094a8fa.jpg" alt="Jenrick defects to Reform UK after being sacked by Tories" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,47 +100,38 @@
                 <span class="time">2026-01-15 20:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/15/us-says-all-options-on-the-table-if-iran-protest-killings-continue?traffic_source=rss" target="_blank">US says ‘all options on the table’ if Iran protest killings continue</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-15 20:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-1-rt-gmh-260115_1768486044205_hpMain_4x3t_384.jpg" alt="Trump threatens Insurrection Act as Blanche accuses Gov. Walz of &#x27;terrorism&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/tensions-escalate-trump-threatens-insurrection-act-blanche-accuses/story?id=129237716" target="_blank">Trump threatens Insurrection Act as Blanche accuses Gov. Walz of &#x27;terrorism&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-15 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/noem-1-ap-gmh-260115_1768492803919_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: &#x27;No plans&#x27; to pull fed agents out, Noem says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates/?id=129124338" target="_blank">Minneapolis ICE shooting live updates: &#x27;No plans&#x27; to pull fed agents out, Noem says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-15 19:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/15/nx-s1-5678612/minneapolis-insurrection-act-trump-threats" target="_blank">Trump threatened to invoke the Insurrection Act (again). What is it?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-15 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/863046/natural-cycles-wristband-digital-birth-control" target="_blank">Natural Cycles launches wristband to replace thermometers for its FDA-cleared birth control app</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-15 22:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6279a15ca95c6a3c6c74ef00/master/pass/Supernatural-VR-Boxing-MR-Games.jpg" alt="Meta’s Layoffs Leave Supernatural Fitness Users in Mourning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/metas-layoffs-supernatural-fitness-users/" target="_blank">Meta’s Layoffs Leave Supernatural Fitness Users in Mourning</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-15 22:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/" target="_blank">The AI lab revolving door spins ever faster</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-15 22:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/power-outage-electric-cord-500x500.jpg" alt="Why I’m withholding certainty that “precise” US cyber-op disrupted Venezuelan electricity" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,33 +159,6 @@
                 <span class="time">2026-01-15 19:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2248295045-500x500.jpg" alt="Spotify’s 3rd price hike in 2.5 years hints at potential new normal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/spotify-to-raise-subscription-prices-by-up-to-2-in-february/" target="_blank">Spotify’s 3rd price hike in 2.5 years hints at potential new normal</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-15 19:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/696120e39c539b8af2cca8f5/master/pass/sec-ice-murderers-2254509191.jpg" alt="Why ICE Can Kill With Impunity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/why-ice-can-kill-with-impunity/" target="_blank">Why ICE Can Kill With Impunity</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-15 18:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/791574/best-switch-2-controllers" target="_blank">I’ve tested the latest Switch 2 controllers, and this one is the best</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-15 17:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +171,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-aws-european-sovereign-cloud" target="_blank">Canonical Ubuntu and Ubuntu Pro now available on AWS European Sovereign Cloud</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-01-15 22:06</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +218,6 @@
                 <span class="time">2026-01-15 19:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/ai-hat-2-plus.jpg?resize=406%2C232&amp;ssl=1" alt="Raspberry Pi AI HAT+ 2 Lets You Run LLMs Locally" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/raspberry-pi-ai-hat-2-runs-llms" target="_blank">Raspberry Pi AI HAT+ 2 Lets You Run LLMs Locally</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-15 18:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +238,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KF1VCPBQQVEYEP14708NDPYC/hero-image.png" alt="This Entry-Level Samsung OLED TV Just Got Even Cheaper" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-oled-tv-s85f-deal-january-2026?utm_medium=RSS" target="_blank">This Entry-Level Samsung OLED TV Just Got Even Cheaper</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-15 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/All-You-Need-Is-Kill-io9-2025-review-1280x853.jpg" alt="‘All You Need Is Kill’ Spins a Trippy, Heart‑Flecked Loop That Only Partially Lands" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -259,6 +265,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2020/04/gu9fjx3yu0oqlb2bxkwr.jpg" alt="Final Fantasy VII Remake Is Getting A New Mode Where Every Hit Does 9,999 Damage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/final-fantasy-7-remake-update-switch-2-difficulty-2000660271" target="_blank">Final Fantasy VII Remake Is Getting A New Mode Where Every Hit Does 9,999 Damage</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-15 21:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/mcu-shows-1280x853.jpg" alt="Five Years Later, Has the MCU’s TV Excursion Worked?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -274,24 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/fallout-amazon-tv-show-reality-vault-shelter-2000660254" target="_blank">A Reality TV Show Is Going To Put Actual People Inside A Fallout Vault</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-15 20:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/hytale7-1280x711.jpg" alt="10 Things I Wish I Knew Before Starting Survival Sim Hytale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hytale-tips-guide-crafting-workbench-teleporter-2000660168" target="_blank">10 Things I Wish I Knew Before Starting Survival Sim Hytale</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-15 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/shutterstock_2574932545-e1768505026976.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="A bet, a parachute, and Devil&#x27;s Tower: a perfect plan until it wasn&#x27;t" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/15/a-bet-a-parachute-and-devils-tower-a-perfect-plan-until-it-wasnt.html" target="_blank">A bet, a parachute, and Devil&#x27;s Tower: a perfect plan until it wasn&#x27;t</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-15 19:25</span>
             </div>
         </div>
 </div>
@@ -317,22 +314,13 @@
                 <span class="time">2026-01-15 01:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/14/clarkesworld" target="_blank">Clarkesworld</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-14 22:33</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
