@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-15 19:06:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-15 20:01:58 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, January 15, 2026 - 19:06 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, January 15, 2026 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-1-rt-gmh-260115_1768486044205_hpMain_4x3t_384.jpg" alt="Trump threatens Insurrection Act as Blanche accuses Gov. Walz of &#x27;terrorism&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/tensions-escalate-trump-threatens-insurrection-act-blanche-accuses/story?id=129237716" target="_blank">Trump threatens Insurrection Act as Blanche accuses Gov. Walz of &#x27;terrorism&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-15 19:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/15/nx-s1-5678612/minneapolis-insurrection-act-trump-threats" target="_blank">Trump threatened to invoke the Insurrection Act (again). What is it?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-15 17:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +99,29 @@
                 <span class="time">2026-01-15 16:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/15/nx-s1-5677335/julian-barnes-departures" target="_blank">Julian Barnes says he&#x27;s enjoying himself, but that &#x27;Departure(s)&#x27; is his last book</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-15 15:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/jan/15/hepatitis-b-vaccines-study-africa-cancel" target="_blank">Controversial US study on hepatitis B vaccines in Africa is cancelled</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-01-15 15:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/" target="_blank">AI video startup, Higgsfield, founded by ex-Snap exec, lands $1.3B valuation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-15 19:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2248295045-500x500.jpg" alt="Spotify’s 3rd price hike in 2.5 years hints at potential new normal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/spotify-to-raise-subscription-prices-by-up-to-2-in-february/" target="_blank">Spotify’s 3rd price hike in 2.5 years hints at potential new normal</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-15 19:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/696120e39c539b8af2cca8f5/master/pass/sec-ice-murderers-2254509191.jpg" alt="Why ICE Can Kill With Impunity" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,24 +158,6 @@
                 <span class="time">2026-01-15 17:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/15/the-us-imposes-25-tariff-on-nvidias-h200-ai-chips-headed-to-china/" target="_blank">The US imposes 25% tariff on Nvidia’s H200 AI chips headed to China</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-15 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/bullyonline-500x500-1768493249.png" alt="Bully Online mod taken down abruptly one month after launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/01/online-mod-for-rockstars-classic-bully-is-abruptly-taken-down-after-one-month/" target="_blank">Bully Online mod taken down abruptly one month after launch</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-15 16:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +170,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/lenovo-thinkpad-p1-gen8" target="_blank">Lenovo ThinkPad P1 Gen 8: A High-End, Intel + NVIDIA Mobile Workstation Great For Linux Use</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-15 19:12</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +217,6 @@
                 <span class="time">2026-01-15 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://adamj.eu/tech/2026/01/14/python-introducing-tprof/" target="_blank">Python: introducing tprof, a targeting profiler</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-01-15 16:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,20 +231,20 @@
                 <span class="time">2026-01-15 12:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/hacking-wheelchairs-over-bluetooth.html" target="_blank">Hacking Wheelchairs over Bluetooth</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-01-14 19:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/hytale7-1280x711.jpg" alt="10 Things I Wish I Knew Before Starting Survival Sim Hytale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hytale-tips-guide-crafting-workbench-teleporter-2000660168" target="_blank">10 Things I Wish I Knew Before Starting Survival Sim Hytale</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-15 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KEZ2PB6CK2RBVR8RWYGAW717/hero-image.png" alt="Scammers Are Impersonating LinkedIn" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,20 +290,20 @@
                 <span class="time">2026-01-15 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Tomb-Raider-Sophie-Turner-io9_BG-9-1280x853.jpg" alt="Here’s Your First Look at Sophie Turner’s Lara Croft" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sophie-turner-tomb-raider-lara-croft-first-look-amazon-2000710641" target="_blank">Here’s Your First Look at Sophie Turner’s Lara Croft</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-15 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1768281961-20260115.png" alt="Saturday Morning Breakfast Cereal - Basic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/basic" target="_blank">Saturday Morning Breakfast Cereal - Basic</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-01-15 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5744.png" alt="The Older, Wiser Sister" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -325,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 19:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
