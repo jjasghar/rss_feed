@@ -1,28 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-15 10:01:38 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-15 11:01:42 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 19 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, January 15, 2026 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, January 15, 2026 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +57,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/15/protests-after-man-shot-during-us-federal-raid-in-minneapolis?traffic_source=rss" target="_blank">Protests after man shot during US federal raid in Minneapolis</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-15 09:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-yoweri-museveni-uganda_7135333.jpg?20260114173557" alt="&#x27;It&#x27;s like a road closure&#x27; - Uganda&#x27;s president on shutting the internet as his country votes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/its-like-a-road-closure-ugandas-president-on-shutting-down-the-internet-as-his-country-votes-in-election-13494517" target="_blank">&#x27;It&#x27;s like a road closure&#x27; - Uganda&#x27;s president on shutting the internet as his country votes</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-15 08:34</span>
             </div>
         </div>
 <div class="story">
@@ -83,20 +104,20 @@
                 <span class="time">2026-01-15 04:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/minneapolis_1768445484454_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Officer shot person after being attacked: DHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates/?id=129124338" target="_blank">Minneapolis ICE shooting live updates: Officer shot person after being attacked: DHS</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-15 03:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/696593324409f416a6d8b608/master/pass/Wikipedia-Turns-25-Culture-1193880551.jpg" alt="Wikipedia’s Existential Threats Feel Greater Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/wikipedias-existential-threats-have-never-been-greater/" target="_blank">Wikipedia’s Existential Threats Feel Greater Than Ever</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-15 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -104,6 +125,15 @@
                 <span class="title"><a href="https://www.theverge.com/news/861935/wikipedia-25th-anniversary-2026" target="_blank">Wikipedia turns 25 and shares a glimpse into the lives of its volunteer editors</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-15 08:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/volvo-hugin-500x500.jpg" alt="Exclusive: Volvo tells us why having Gemini in your next car is a good thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/01/exclusive-volvo-tells-us-why-having-gemini-in-your-next-car-is-a-good-thing/" target="_blank">Exclusive: Volvo tells us why having Gemini in your next car is a good thing</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-15 08:00</span>
             </div>
         </div>
 <div class="story">
@@ -133,24 +163,6 @@
                 <span class="time">2026-01-15 00:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/redcoat1-500x500.jpg" alt="A British redcoat’s lost memoir resurfaces" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/01/a-british-redcoats-lost-memoir-resurfaces/" target="_blank">A British redcoat’s lost memoir resurfaces</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-15 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6965992c482e29ae79e365d8/master/pass/Backlash-Against-ICE-Policing-Tactics-Business-2242486803.jpg" alt="Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/backlash-against-ice-policing-tactics-grows-in-silicon-valley/" target="_blank">Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-14 22:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -163,6 +175,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fkodus.io%2Fwp-content%2Fuploads%2F2026%2F01%2Fcoding_standard-1-1024x576.jpg" alt="Code Standards and Best Practices for Growing Teams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kodus/code-standards-and-best-practices-for-growing-teams-l4g" target="_blank">Code Standards and Best Practices for Growing Teams</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-15 10:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Raspberry-Pi-AI-HAT-2" target="_blank">Raspberry Pi AI HAT+ 2 Released &amp; Designed For Running GenAI Models</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-15 10:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/onlyoffice-desktop-editors-arm-support/" target="_blank">You Can Now Use ONLYOFFICE on Raspberry Pi Like ARM Devices</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-15 10:26</span>
             </div>
         </div>
 <div class="story">
@@ -181,33 +220,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/01/mistral-ocr3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Mistral Releases OCR 3 With Improved Accuracy on Handwritten and Structured Documents</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-01-15 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/01/15/transforming-enterprise-workflows-how-ibm-is-unlocking-ai-s-potential/" target="_blank">Transforming enterprise workflows: How IBM is unlocking AI&#x27;s potential</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-01-15 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffs2ldmofmr84sy26vn4d.png" alt="When we built a real-time AI system for baseball training, the model wasn’t the hardest part. HUMAN BEHAVIOR WAS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cizo/when-we-built-a-real-time-ai-system-for-baseball-training-the-model-wasnt-the-hardest-part-2kk8" target="_blank">When we built a real-time AI system for baseball training, the model wasn’t the hardest part. HUMAN BEHAVIOR WAS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-15 07:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-26-03/" target="_blank">FOSS Weekly #26.03: Torvalds Using AI, Dash to Dock, Linux Kernel Bugs, Pacman&amp;#x27;s Rust Replacement and More</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-15 06:12</span>
             </div>
         </div>
 </div>
@@ -320,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
