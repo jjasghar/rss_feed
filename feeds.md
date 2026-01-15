@@ -1,27 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-15 06:02:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-15 07:04:21 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 19 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, January 15, 2026 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, January 15, 2026 - 07:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/15/australian-open-tennis-2026-key-dates-draw-top-seeds-prize-money?traffic_source=rss" target="_blank">Australian Open tennis 2026: Key dates, draw, top seeds, prize money</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-15 06:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b91/live/61c27910-f1cd-11f0-b5f7-49f0357294ff.jpg" alt="Trump told &#x27;killing has stopped&#x27; in Iran after violent protest crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c07xpndjdd8o?at_medium=RSS&at_campaign=rss" target="_blank">Trump told &#x27;killing has stopped&#x27; in Iran after violent protest crackdown</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-15 04:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/minneapolis_1768445484454_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Officer shot person after being attacked: DHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,24 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/14/g-s1-106093/senate-war-powers-venezuela" target="_blank">Senate Republicans block Venezuela war powers resolution</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-15 02:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e752/live/a5d32690-f17d-11f0-afcf-4f8c8e73dd06.png" alt="Twenty one English councils ask for election delays" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd7z892jzdeo?at_medium=RSS&at_campaign=rss" target="_blank">Twenty one English councils ask for election delays</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-15 01:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/14/g-s1-106065/trump-immigrant-visa-suspensions-public-assistance" target="_blank">U.S. to suspend immigrant visas from 75 countries over public assistance concerns</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-15 00:09</span>
             </div>
         </div>
 </div>
@@ -165,6 +171,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-26-03/" target="_blank">FOSS Weekly #26.03: Torvalds Using AI, Dash to Dock, Linux Kernel Bugs, Pacman&amp;#x27;s Rust Replacement and More</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-15 06:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F72pdu5n4ycgsp9o0f9bu.png" alt="Rethinking Learning Dynamics in AI Models: An Early Theory from Experimentation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/sam_lee_880a38a45a170858b/building-a-production-ready-square-image-editor-with-nextjs-lessons-from-squareimage-2cjc" target="_blank">Building a Production-Ready Square Image Editor with Next.js: Lessons from SquareImage</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-15 02:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/orion-linux-alpha.jpg?resize=406%2C232&amp;ssl=1" alt="Orion Browser Releases Its First Linux Alpha" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/orion-browser-for-linux-alpha" target="_blank">Orion Browser Releases Its First Linux Alpha</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-15 02:05</span>
             </div>
         </div>
 </div>
@@ -328,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 07:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
