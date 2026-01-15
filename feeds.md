@@ -1,34 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-01-15 00:05:42 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-01-15 01:29:34 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, January 15, 2026 - 00:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, January 15, 2026 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +37,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/14/g-s1-106065/trump-immigrant-visa-suspensions-public-assistance" target="_blank">U.S. to suspend immigrant visas from 75 countries over public assistance concerns</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-15 00:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768434474601_nn_ren_trump_iran_protests_260114_1920x1080-3h7ej6.jpg" alt="President Trump’s new message to Iranian protestors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/president-trump-s-new-message-to-iranian-protestors-255989829618" target="_blank">President Trump’s new message to Iranian protestors</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-14 23:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +91,20 @@
                 <span class="time">2026-01-14 20:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/14/g-s1-106011/greenland-denmark-trump" target="_blank">Denmark says there&#x27;s a &#x27;fundamental disagreement&#x27; with Trump over Greenland</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-14 19:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/14/senegal-beat-egypt-1-0-egypt-in-afcon-semifinal-as-sadio-mane-scores-late?traffic_source=rss" target="_blank">Senegal beat Egypt 1-0 Egypt in AFCON semifinal as Sadio Mane scores late</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-14 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23769068/best-ebook-readers" target="_blank">The best e-reader to buy right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-15 00:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6965992c482e29ae79e365d8/master/pass/Backlash-Against-ICE-Policing-Tactics-Business-2242486803.jpg" alt="Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +150,6 @@
                 <span class="time">2026-01-14 20:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6967dd15f33351a63c751f1c/master/pass/procrastinacion.jpg" alt="Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why People Leave Certain Tasks for Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/neuroscience-procrastination-brain-mechanism-task-avoidance/" target="_blank">Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why People Leave Certain Tasks for Later</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-14 20:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +162,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frqr8rkw69rjz6anpyl5g.png" alt="How I Built a Intelligent AgTech Risk Monitoring System: Architecture, Technical Decisions, and Key Learnings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/guilherme_daros/how-i-built-a-intelligent-agtech-risk-monitoring-system-architecture-technical-decisions-and-key-1n5a" target="_blank">How I Built a Intelligent AgTech Risk Monitoring System: Architecture, Technical Decisions, and Key Learnings</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-15 01:04</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +209,6 @@
                 <span class="time">2026-01-14 20:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files" target="_blank">Claude Cowork Exfiltrates Files</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-14 20:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,15 +221,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/hacking-wheelchairs-over-bluetooth.html" target="_blank">Hacking Wheelchairs over Bluetooth</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-01-14 19:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/" target="_blank">Patch Tuesday, January 2026 Edition</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-01-14 00:47</span>
             </div>
         </div>
 </div>
@@ -353,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 00:06 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
