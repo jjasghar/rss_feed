@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-15 14:03:23 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-15 15:02:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, January 15, 2026 - 14:03 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, January 15, 2026 - 15:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/15/nx-s1-5677711/mental-health-addiction-grants-cut-then-restored" target="_blank">24 hours of chaos as mental health grants are slashed then restored</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-15 14:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +102,29 @@
                 <span class="time">2026-01-15 11:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5a1/live/6fee14f0-f1f9-11f0-b5f7-49f0357294ff.jpg" alt="Millions of people to see their local council elections delayed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd7z892jzdeo?at_medium=RSS&at_campaign=rss" target="_blank">Millions of people to see their local council elections delayed</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-15 10:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/862340/sony-bravia-8-ii-tv-review" target="_blank">The Sony Bravia 8 II is a TV enthusiast’s dream</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-15 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/15/how-one-startup-is-using-probiotics-to-try-and-ease-the-copper-shortage/" target="_blank">How one startup is using probiotics to try and ease the copper shortage</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-15 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68ccac118d273e101d2e0944/master/pass/Our%20Favorite%20Smartwatches%20Do%20Much%20More%20Than%20Just%20Tell%20Time.png" alt="11 Best Smartwatches (2026): Apple, Wear OS, Hybrid &amp; Kids’ Watches" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,24 +161,6 @@
                 <span class="time">2026-01-15 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/862076/documented-immigration-reporting-whatsapp-wechat-nextdoor" target="_blank">All the news that’s fit to WhatsApp</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-15 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/15/etherealx-jumps-5-5x-in-valuation-on-spacex-style-reuse-bet-from-india/" target="_blank">Indian SpaceX rival EtherealX hits 5x valuation as it readies engine tests</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-15 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +173,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.linux.com/news/celebrating-the-second-year-of-linux-man-pages-maintenance-sponsorship/" target="_blank">Celebrating the Second Year of Linux Man-Pages Maintenance Sponsorship</a></span>
+                <span class="feed">Linux.com</span>
+                <span class="time">2026-01-15 14:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Imagination-AM62P-Linux-7.0" target="_blank">Imagination Driver To Support The TI AM62P SoC In Linux 6.20~7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-15 14:27</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +218,6 @@
                 <span class="title"><a href="https://investinglive.com/news/the-500000-ton-typo-why-data-center-copper-math-doesnt-add-up-20260113/" target="_blank">The 500k-ton typo: Why data center copper math doesn&#x27;t add up</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-15 12:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/D7VK-1.2-Released" target="_blank">D7VK 1.2 Released For Improving Direct3D 6 Front-End</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-15 12:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dogdogfish.com/blog/2026/01/14/banning-things-for-other-people/" target="_blank">Banning Things for Other People Is Easy</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-15 11:51</span>
             </div>
         </div>
 </div>
@@ -342,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 286 |
-        🔄 Last Updated: 14:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 15:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
