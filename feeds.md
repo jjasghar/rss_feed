@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-15 12:02:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-15 13:14:23 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Generated 11 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, January 15, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, January 15, 2026 - 13:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/15/g-s1-104702/menstrual-health-pads-luxury-tax-pakistan" target="_blank">This country taxes menstrual pads as luxury goods. She&#x27;s suing to end the tax</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-15 13:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ede/live/7c02ea20-f1f6-11f0-b5f7-49f0357294ff.jpg" alt="Astronauts splash down to Earth after medical evacuation from space station" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c205r8n0276o?at_medium=RSS&at_campaign=rss" target="_blank">Astronauts splash down to Earth after medical evacuation from space station</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-15 12:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/15/uganda-vote-election-yoweri-museveni-bobi-wine" target="_blank">Voting in Uganda’s general election delayed by technical and logistical issues</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-15 12:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,38 +99,38 @@
                 <span class="time">2026-01-15 09:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-yoweri-museveni-uganda_7135333.jpg?20260114173557" alt="&#x27;It&#x27;s like a road closure&#x27; - Uganda&#x27;s president on shutting down the internet as his country votes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/its-like-a-road-closure-ugandas-president-on-shutting-down-the-internet-as-his-country-votes-in-election-13494517" target="_blank">&#x27;It&#x27;s like a road closure&#x27; - Uganda&#x27;s president on shutting down the internet as his country votes</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-15 08:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-yoweri-museveni-uganda_7135333.jpg?20260114173557" alt="&#x27;It&#x27;s like a road closure&#x27; - Uganda&#x27;s president on shutting the internet as his country votes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/its-like-a-road-closure-ugandas-president-on-shutting-down-the-internet-as-his-country-votes-in-election-13494517" target="_blank">&#x27;It&#x27;s like a road closure&#x27; - Uganda&#x27;s president on shutting the internet as his country votes</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-15 08:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/15/another-crane-collapses-in-thailand-killing-two-after-32-die-previous-day?traffic_source=rss" target="_blank">Another crane collapses in Thailand, killing two, after 32 die previous day</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-15 07:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69681695f8c9325b9d266809/master/pass/The%20Best%20Blind%20Boxes%20You%20Can%20Buy%20Online.png" alt="9 Best Blind Boxes—Bag Charms, Plush Pendants, and More (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-blind-boxes/" target="_blank">9 Best Blind Boxes—Bag Charms, Plush Pendants, and More (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-15 13:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/861838/hbo-a-knight-of-the-seven-kingdoms-review" target="_blank">Game of Thrones shows its playful side in A Knight of the Seven Kingdoms</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-15 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Polestar-Mille-Miglia-Pics-18-500x500.jpg" alt="The difficulty of driving an EV in the “most beautiful race in the world”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/features/2026/01/the-difficulty-of-driving-an-ev-in-the-most-beautiful-race-in-the-world/" target="_blank">The difficulty of driving an EV in the “most beautiful race in the world”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-15 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,33 +158,6 @@
                 <span class="time">2026-01-15 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/861935/wikipedia-25th-anniversary-2026" target="_blank">Wikipedia turns 25 and shares a glimpse into the lives of its volunteer editors</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-15 08:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/volvo-hugin-500x500.jpg" alt="Exclusive: Volvo tells us why having Gemini in your next car is a good thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/01/exclusive-volvo-tells-us-why-having-gemini-in-your-next-car-is-a-good-thing/" target="_blank">Exclusive: Volvo tells us why having Gemini in your next car is a good thing</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-15 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/" target="_blank">Mira Murati’s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-15 02:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,9 +176,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/D7VK-1.2-Released" target="_blank">D7VK 1.2 Released For Improving Direct3D 6 Front-End</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-15 12:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://dogdogfish.com/blog/2026/01/14/banning-things-for-other-people/" target="_blank">Banning Things for Other People Is Easy</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-15 11:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/libvirt-12.0" target="_blank">libvirt 12.0 Released - Bhyve ARM64 Support &amp; Other Improvements For The BSD Hypervisor</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-15 11:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/technical-leadership-path/en/headerimage/header-technical-leadership-path-1768212956569.jpg" alt="Taking the Technical Leadership Path" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/technical-leadership-path/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Taking the Technical Leadership Path</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-15 11:08</span>
             </div>
         </div>
 <div class="story">
@@ -186,38 +217,20 @@
                 <span class="time">2026-01-15 10:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Raspberry-Pi-AI-HAT-2" target="_blank">Raspberry Pi AI HAT+ 2 Released &amp; Designed For Running GenAI Models</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-15 10:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/onlyoffice-desktop-editors-arm-support/" target="_blank">You Can Now Use ONLYOFFICE on Raspberry Pi Like ARM Devices</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-15 10:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frelaa13rgynbigsekxli.png" alt="A Beginner&#x27;s Guide to Downloading Large Files from Google Drive with Python." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/raafe_asad/-a-beginners-guide-to-downloading-large-files-from-google-drive-with-python-4m09" target="_blank">A Beginner&#x27;s Guide to Downloading Large Files from Google Drive with Python.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-15 09:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/new-vulnerability-in-n8n.html" target="_blank">New Vulnerability in n8n</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-01-15 12:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -323,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 13:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
