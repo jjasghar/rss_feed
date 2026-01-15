@@ -1,35 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-01-15 09:04:08 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-01-15 10:01:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, January 15, 2026 - 09:04 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, January 15, 2026 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/15/protests-after-man-shot-during-us-federal-raid-in-minneapolis?traffic_source=rss" target="_blank">Protests after man shot during US federal raid in Minneapolis</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-15 09:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +90,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates/?id=129124338" target="_blank">Minneapolis ICE shooting live updates: Officer shot person after being attacked: DHS</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-15 03:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/15/venezuelas-rodriguez-vows-release-of-more-prisoners-holds-call-with-trump?traffic_source=rss" target="_blank">Venezuela’s Rodriguez vows release of more prisoners, holds call with Trump</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-15 03:01</span>
             </div>
         </div>
 </div>
@@ -173,6 +166,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frelaa13rgynbigsekxli.png" alt="A Beginner&#x27;s Guide to Downloading Large Files from Google Drive with Python." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/raafe_asad/-a-beginners-guide-to-downloading-large-files-from-google-drive-with-python-4m09" target="_blank">A Beginner&#x27;s Guide to Downloading Large Files from Google Drive with Python.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-15 09:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/01/mistral-ocr3/en/headerimage/generatedHeaderImage-1768295105983.jpg" alt="Mistral Releases OCR 3 With Improved Accuracy on Handwritten and Structured Documents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -206,15 +208,6 @@
                 <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-26-03/" target="_blank">FOSS Weekly #26.03: Torvalds Using AI, Dash to Dock, Linux Kernel Bugs, Pacman&amp;#x27;s Rust Replacement and More</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-01-15 06:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F72pdu5n4ycgsp9o0f9bu.png" alt="Rethinking Learning Dynamics in AI Models: An Early Theory from Experimentation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nebuladata/rethinking-learning-dynamics-in-ai-models-an-early-theory-from-experimentation-4dmp" target="_blank">Rethinking Learning Dynamics in AI Models: An Early Theory from Experimentation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-15 03:39</span>
             </div>
         </div>
 </div>
@@ -328,7 +321,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 09:04 UTC
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
