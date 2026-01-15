@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-15 20:01:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-15 21:01:49 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, January 15, 2026 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, January 15, 2026 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faf6/live/6b705ef0-f24f-11f0-a422-4ba8a094a8fa.jpg" alt="Jenrick defects to Reform UK after being sacked by Tories" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyrpdy42n1o?at_medium=RSS&at_campaign=rss" target="_blank">Jenrick defects to Reform UK after being sacked by Tories</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-15 20:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/15/us-says-all-options-on-the-table-if-iran-protest-killings-continue?traffic_source=rss" target="_blank">US says ‘all options on the table’ if Iran protest killings continue</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-15 20:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-1-rt-gmh-260115_1768486044205_hpMain_4x3t_384.jpg" alt="Trump threatens Insurrection Act as Blanche accuses Gov. Walz of &#x27;terrorism&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +101,20 @@
                 <span class="time">2026-01-15 16:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/15/uganda-vote-election-yoweri-museveni-bobi-wine" target="_blank">Opposition candidate Bobi Wine claims ‘massive ballot stuffing’ as Uganda goes to polls</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-01-15 16:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/protest-main_1768470995807_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Trump threatens to invoke Insurrection Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates/?id=129124338" target="_blank">Minneapolis ICE shooting live updates: Trump threatens to invoke Insurrection Act</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-15 16:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/55042362006_eb0e4d16ab_k-500x500.jpg" alt="NASA’s first-ever medical evacuation from space ends with on-target splashdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/01/nasas-first-ever-medical-evacuation-from-space-ends-with-on-target-splashdown/" target="_blank">NASA’s first-ever medical evacuation from space ends with on-target splashdown</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-15 20:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +160,6 @@
                 <span class="time">2026-01-15 17:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6968004423ca349862cde959/master/pass/Cowork_email-hero-illustration.jpg" alt="Hands On With Anthropic’s Claude Cowork, an AI Agent That Actually Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/anthropic-claude-cowork-agent/" target="_blank">Hands On With Anthropic’s Claude Cowork, an AI Agent That Actually Works</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-15 17:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +175,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp6uc8zjloe2rbfhwsv3o.jpg" alt="Integrating TON blockchain into Trust Wallet: a case study" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/polyprogrammist/integrating-ton-blockchain-into-trust-wallet-a-case-study-2fch" target="_blank">Integrating TON blockchain into Trust Wallet: a case study</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-15 20:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/" target="_blank">When protections outlive their purpose: A lesson on managing defense systems at scale</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-01-15 20:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -182,39 +202,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/ai-hat-2-plus.jpg?resize=406%2C232&amp;ssl=1" alt="Raspberry Pi AI HAT+ 2 Lets You Run LLMs Locally" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/raspberry-pi-ai-hat-2-runs-llms" target="_blank">Raspberry Pi AI HAT+ 2 Lets You Run LLMs Locally</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-15 18:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/ai-hat-2-plus.jpg?resize=406%2C232&amp;ssl=1" alt="Raspberry Pi AI HAT+ 2 Brings Gen AI to Raspberry Pi 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/raspberry-pi-ai-hat-2-runs-llms" target="_blank">Raspberry Pi AI HAT+ 2 Brings Gen AI to Raspberry Pi 5</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-01-15 18:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Intel-GPU-Temperature" target="_blank">Linux 7.0 To Expand Temperature Reporting For Intel Graphics Cards</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-15 17:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/71c871d7-4eb4-432e-9fa4-ed9f29887a57_420x300.png" alt="The Pulse #159: Long-running agents and orchestrating lots of them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-159-long-running-agents" target="_blank">The Pulse #159: Long-running agents and orchestrating lots of them</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-01-15 17:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18834517&w=600" alt="Taming Reinforcement Learning Chaos: An MLOps Architecture for Experiment Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/taming-reinforcement-learning-chaos-an-mlops-archi" target="_blank">Taming Reinforcement Learning Chaos: An MLOps Architecture for Experiment Management</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-15 17:00</span>
             </div>
         </div>
 </div>
@@ -237,12 +239,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/mcu-shows-1280x853.jpg" alt="Five Years Later, Has the MCU’s TV Excursion Worked?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/five-years-later-has-the-mcus-tv-excursion-worked-2000709110" target="_blank">Five Years Later, Has the MCU’s TV Excursion Worked?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-15 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/faaa-1280x720.jpg" alt="A Reality TV Show Is Going To Put Actual People Inside A Fallout Vault" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fallout-amazon-tv-show-reality-vault-shelter-2000660254" target="_blank">A Reality TV Show Is Going To Put Actual People Inside A Fallout Vault</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-15 20:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/hytale7-1280x711.jpg" alt="10 Things I Wish I Knew Before Starting Survival Sim Hytale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/hytale-tips-guide-crafting-workbench-teleporter-2000660168" target="_blank">10 Things I Wish I Knew Before Starting Survival Sim Hytale</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-15 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/shutterstock_2574932545-e1768505026976.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="A bet, a parachute, and Devil&#x27;s Tower: a perfect plan until it wasn&#x27;t" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/15/a-bet-a-parachute-and-devils-tower-a-perfect-plan-until-it-wasnt.html" target="_blank">A bet, a parachute, and Devil&#x27;s Tower: a perfect plan until it wasn&#x27;t</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-15 19:25</span>
             </div>
         </div>
 <div class="story">
@@ -261,33 +290,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/15/god-of-wars-thor-actor-becomes-kratos-for-amazon-show.html" target="_blank">God of War&#x27;s Thor actor becomes Kratos for Amazon show</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-15 17:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/TheBride-2-1280x853.jpg" alt="The Dead Have Something to Scream About in ‘The Bride!’ Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-dead-have-something-to-scream-about-in-the-bride-trailer-2000709858" target="_blank">The Dead Have Something to Scream About in ‘The Bride!’ Trailer</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-15 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/acnh-microsite-thumbnail-resetti-service.jpg" alt="Everything To Know Before Jumping Into Animal Crossing: New Horizons’ 3.0 Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/animal-crossing-new-horizons-3-0-tips-guide-2000660180" target="_blank">Everything To Know Before Jumping Into Animal Crossing: New Horizons’ 3.0 Update</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-15 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KF1528KXYVYE2NFHBF575YW5/hero-image.jpg" alt="Spotify Is Raising Prices Yet Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/spotify-is-raising-prices-again?utm_medium=RSS" target="_blank">Spotify Is Raising Prices Yet Again</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-15 16:30</span>
             </div>
         </div>
 </div>
@@ -327,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
