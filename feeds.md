@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-15 17:08:17 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-15 18:04:48 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, January 15, 2026 - 17:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, January 15, 2026 - 18:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/15/nx-s1-5678612/trump-threatened-to-invoke-the-insurrection-act-what-is-it" target="_blank">Trump threatened to invoke the Insurrection Act (again). What is it?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-15 17:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +103,47 @@
                 <span class="time">2026-01-15 15:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/15/nx-s1-5677711/mental-health-addiction-grants-cut-then-restored" target="_blank">24 hours of chaos as mental health grants are slashed then restored</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-15 14:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/791574/best-switch-2-controllers" target="_blank">I’ve tested the latest Switch 2 controllers, and this one is the best</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-15 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Buds-Pro-2-1-500x500.jpg" alt="Many Bluetooth devices with Google Fast Pair vulnerable to “WhisperPair” hack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/researchers-reveal-whisperpair-attack-to-eavesdrop-on-google-fast-pair-headphones/" target="_blank">Many Bluetooth devices with Google Fast Pair vulnerable to “WhisperPair” hack</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-15 17:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6968004423ca349862cde959/master/pass/Cowork_email-hero-illustration.jpg" alt="Hands On With Anthropic’s Claude Cowork, an AI Agent That Actually Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anthropic-claude-cowork-agent/" target="_blank">Hands On With Anthropic’s Claude Cowork, an AI Agent That Actually Works</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-15 17:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/15/the-us-imposes-25-tariff-on-nvidias-h200-ai-chips-headed-to-china/" target="_blank">The US imposes 25% tariff on Nvidia’s H200 AI chips headed to China</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-15 16:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/bullyonline-500x500-1768493249.png" alt="Bully Online mod taken down abruptly one month after launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -117,42 +162,6 @@
                 <span class="time">2026-01-15 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/684baa39e0d143bc348e43f4/master/pass/The%20Best%20Packing%20Cubes%20for%20Every%20Kind%20of%20Trip_.png" alt="Best Packing Cubes for Every Kind of Trip (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-packing-cubes/" target="_blank">Best Packing Cubes for Every Kind of Trip (2026), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-15 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/15/how-one-startup-is-using-probiotics-to-try-and-ease-the-copper-shortage/" target="_blank">How one startup is using probiotics to try and ease the copper shortage</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-15 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ccac118d273e101d2e0944/master/pass/Our%20Favorite%20Smartwatches%20Do%20Much%20More%20Than%20Just%20Tell%20Time.png" alt="11 Best Smartwatches (2026): Apple, Wear OS, Hybrid &amp; Kids’ Watches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-smartwatches/" target="_blank">11 Best Smartwatches (2026): Apple, Wear OS, Hybrid &amp; Kids’ Watches</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-15 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69681695f8c9325b9d266809/master/pass/The%20Best%20Blind%20Boxes%20You%20Can%20Buy%20Online.png" alt="9 Best Blind Boxes—Bag Charms, Plush Pendants, and More (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-blind-boxes/" target="_blank">9 Best Blind Boxes—Bag Charms, Plush Pendants, and More (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-15 13:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,6 +174,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Intel-GPU-Temperature" target="_blank">Linux 7.0 To Expand Temperature Reporting For Intel Graphics Cards</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-15 17:35</span>
             </div>
         </div>
 <div class="story">
@@ -203,15 +221,6 @@
                 <span class="time">2026-01-15 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.linux.com/news/celebrating-the-second-year-of-linux-man-pages-maintenance-sponsorship/" target="_blank">Celebrating the Second Year of Linux Man-Pages Maintenance Sponsorship</a></span>
-                <span class="feed">Linux.com</span>
-                <span class="time">2026-01-15 14:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/1200x-1-e1742501495234.jpg?fit=768%2C416&amp;quality=60&amp;ssl=1" alt="God of War&#x27;s Thor actor becomes Kratos for Amazon show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/15/god-of-wars-thor-actor-becomes-kratos-for-amazon-show.html" target="_blank">God of War&#x27;s Thor actor becomes Kratos for Amazon show</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-15 17:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/TheBride-2-1280x853.jpg" alt="The Dead Have Something to Scream About in ‘The Bride!’ Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +303,6 @@
                 <span class="time">2026-01-15 13:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEZFADEQPZKW7W1QYK3C7CEV/hero-image.png" alt="&#x27;Pipit&#x27; Is a Great Voice-to-Text App for Mac, and It&#x27;s Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/pipit-voice-to-text-mac-app?utm_medium=RSS" target="_blank">&#x27;Pipit&#x27; Is a Great Voice-to-Text App for Mac, and It&#x27;s Free</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-15 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 17:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 18:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
