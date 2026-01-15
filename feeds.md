@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-15 18:04:48 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-15 19:06:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, January 15, 2026 - 18:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, January 15, 2026 - 19:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/696120e39c539b8af2cca8f5/master/pass/sec-ice-murderers-2254509191.jpg" alt="Why ICE Can Kill With Impunity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/why-ice-can-kill-with-impunity/" target="_blank">Why ICE Can Kill With Impunity</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-15 18:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -153,15 +156,6 @@
                 <span class="time">2026-01-15 16:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/862340/sony-bravia-8-ii-tv-review" target="_blank">The Sony Bravia 8 II is a TV enthusiast’s dream</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-15 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -177,12 +171,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/ai-hat-2-plus.jpg?resize=406%2C232&amp;ssl=1" alt="Raspberry Pi AI HAT+ 2 Brings Gen AI to Raspberry Pi 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/raspberry-pi-ai-hat-2-runs-llms" target="_blank">Raspberry Pi AI HAT+ 2 Brings Gen AI to Raspberry Pi 5</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-15 18:31</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Intel-GPU-Temperature" target="_blank">Linux 7.0 To Expand Temperature Reporting For Intel Graphics Cards</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-15 17:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/71c871d7-4eb4-432e-9fa4-ed9f29887a57_420x300.png" alt="The Pulse #159: Long-running agents and orchestrating lots of them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-159-long-running-agents" target="_blank">The Pulse #159: Long-running agents and orchestrating lots of them</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-01-15 17:09</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +213,6 @@
                 <span class="title"><a href="https://adamj.eu/tech/2026/01/14/python-introducing-tprof/" target="_blank">Python: introducing tprof, a targeting profiler</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-01-15 16:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc" target="_blank">Apple Is Fighting for TSMC Capacity as Nvidia Takes Center Stage</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-15 15:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/01/15/how-stack-overflow-is-taking-on-spam-and-bad-actors/" target="_blank">How Stack Overflow is taking on spam and bad actors</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-01-15 15:00</span>
             </div>
         </div>
 </div>
@@ -249,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEZ2PB6CK2RBVR8RWYGAW717/hero-image.png" alt="Scammers Are Impersonating LinkedIn" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/scammers-are-impersonating-linkedin-with-this-phishing-scheme?utm_medium=RSS" target="_blank">Scammers Are Impersonating LinkedIn</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-15 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/1200x-1-e1742501495234.jpg?fit=768%2C416&amp;quality=60&amp;ssl=1" alt="God of War&#x27;s Thor actor becomes Kratos for Amazon show" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,15 +297,6 @@
                 <span class="time">2026-01-15 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/millenium-falcon-set-lego-1280x853.jpg" alt="LEGO Drops Prices on Iconic Millennium Falcon Sets, Now One of the Cheapest in the Star Wars Line" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lego-drops-prices-on-iconic-millennium-falcon-sets-now-one-of-the-cheapest-in-the-star-wars-line-2000659923" target="_blank">LEGO Drops Prices on Iconic Millennium Falcon Sets, Now One of the Cheapest in the Star Wars Line</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-15 13:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,7 +326,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 18:05 UTC
+        🔄 Last Updated: 19:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
