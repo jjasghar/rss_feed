@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-01-15 03:29:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-15 04:15:43 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, January 15, 2026 - 03:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, January 15, 2026 - 04:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/minneapolis_1768445484454_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Officer shot person after being attacked: DHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates/?id=129124338" target="_blank">Minneapolis ICE shooting live updates: Officer shot person after being attacked: DHS</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-15 03:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/15/venezuelas-rodriguez-vows-release-of-more-prisoners-holds-call-with-trump?traffic_source=rss" target="_blank">Venezuela’s Rodriguez vows release of more prisoners, holds call with Trump</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-15 03:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +95,20 @@
                 <span class="time">2026-01-14 23:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/14/nx-s1-5647442/midterm-elections-redistricting-trump-california" target="_blank">In a win for Democrats, court allows California&#x27;s redistricting plan to proceed</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-14 23:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Iran-bodies-DB-260114_1768379483255_hpMain_4x3t_384.jpg" alt="Iran protests: Trump says he&#x27;s been told &#x27;killing&#x27; stopped, executions won&#x27;t occur" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/iran-protests-2500-killed-activists-trump-us-act/story?id=129194150" target="_blank">Iran protests: Trump says he&#x27;s been told &#x27;killing&#x27; stopped, executions won&#x27;t occur</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-14 22:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/" target="_blank">Mira Murati’s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-15 02:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +154,6 @@
                 <span class="time">2026-01-14 21:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/14/netflixs-first-original-video-podcasts-feature-pete-davidson-and-michael-irvin/" target="_blank">Netflix’s first original video podcasts feature Pete Davidson and Michael Irvin</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-14 20:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +166,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F72pdu5n4ycgsp9o0f9bu.png" alt="Rethinking Learning Dynamics in AI Models: An Early Theory from Experimentation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nebuladata/rethinking-learning-dynamics-in-ai-models-an-early-theory-from-experimentation-4dmp" target="_blank">Rethinking Learning Dynamics in AI Models: An Early Theory from Experimentation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-15 03:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://creepylink.com/" target="_blank">The URL shortener that makes your links look as suspicious as possible</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-15 03:28</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +211,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/orion-browser-for-linux-alpha" target="_blank">Orion Browser Releases Its First Linux Alpha</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-01-15 02:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/RADV-RT-RDNA3-RDNA4-Wave32" target="_blank">Another RADV Ray-Tracing Merge Lands Some Additional Gains For Mesa 26.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-15 01:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frqr8rkw69rjz6anpyl5g.png" alt="How I Built a Intelligent AgTech Risk Monitoring System: Architecture, Technical Decisions, and Key Learnings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/guilherme_daros/how-i-built-a-intelligent-agtech-risk-monitoring-system-architecture-technical-decisions-and-key-1n5a" target="_blank">How I Built a Intelligent AgTech Risk Monitoring System: Architecture, Technical Decisions, and Key Learnings</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-15 01:04</span>
             </div>
         </div>
 </div>
@@ -357,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 03:30 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 04:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
