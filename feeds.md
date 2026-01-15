@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-15 21:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-15 22:01:27 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, January 15, 2026 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, January 15, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -59,6 +61,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/15/nx-s1-5678654/trump-great-healthcare-plan-video-announcement-aca-premiums" target="_blank">Trump health care plan doesn&#x27;t help people facing skyrocketing ACA premiums</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-15 20:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/15/us-says-all-options-on-the-table-if-iran-protest-killings-continue?traffic_source=rss" target="_blank">US says ‘all options on the table’ if Iran protest killings continue</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -75,6 +86,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/noem-1-ap-gmh-260115_1768492803919_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: &#x27;No plans&#x27; to pull fed agents out, Noem says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates/?id=129124338" target="_blank">Minneapolis ICE shooting live updates: &#x27;No plans&#x27; to pull fed agents out, Noem says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-15 19:25</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -83,29 +103,20 @@
                 <span class="time">2026-01-15 17:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/15/nx-s1-5678612/trump-threatened-to-invoke-the-insurrection-act-what-is-it" target="_blank">Trump threatened to invoke the Insurrection Act (again). What is it?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-15 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/15/nx-s1-5678539/iran-protests-trump" target="_blank">Iran&#x27;s protests appear increasingly smothered after a deadly crackdown</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-15 16:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/power-outage-electric-cord-500x500.jpg" alt="Why I’m withholding certainty that “precise” US cyber-op disrupted Venezuelan electricity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/01/unnamed-officials-tell-nyt-precise-cyber-op-took-out-venezuelas-power-grid/" target="_blank">Why I’m withholding certainty that “precise” US cyber-op disrupted Venezuelan electricity</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-15 21:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/55042362006_eb0e4d16ab_k-500x500.jpg" alt="NASA’s first-ever medical evacuation from space ends with on-target splashdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,15 +162,6 @@
                 <span class="time">2026-01-15 17:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Buds-Pro-2-1-500x500.jpg" alt="Many Bluetooth devices with Google Fast Pair vulnerable to “WhisperPair” hack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/researchers-reveal-whisperpair-attack-to-eavesdrop-on-google-fast-pair-headphones/" target="_blank">Many Bluetooth devices with Google Fast Pair vulnerable to “WhisperPair” hack</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-15 17:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +174,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aragossa/please-stop-redirecting-to-login-on-401-errors-3c0l" target="_blank">Please, Stop Redirecting to Login on 401 Errors 🛑</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-15 21:57</span>
             </div>
         </div>
 <div class="story">
@@ -210,15 +221,6 @@
                 <span class="time">2026-01-15 18:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/ai-hat-2-plus.jpg?resize=406%2C232&amp;ssl=1" alt="Raspberry Pi AI HAT+ 2 Brings Gen AI to Raspberry Pi 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/raspberry-pi-ai-hat-2-runs-llms" target="_blank">Raspberry Pi AI HAT+ 2 Brings Gen AI to Raspberry Pi 5</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-15 18:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/All-You-Need-Is-Kill-io9-2025-review-1280x853.jpg" alt="‘All You Need Is Kill’ Spins a Trippy, Heart‑Flecked Loop That Only Partially Lands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/all-you-need-is-kill-spins-a-trippy-heart%e2%80%91flecked-loop-that-only-partially-lands-2000707828" target="_blank">‘All You Need Is Kill’ Spins a Trippy, Heart‑Flecked Loop That Only Partially Lands</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-15 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KDNBSRSHKRHDFRYRE32T83BF/hero-image.jpg" alt="You Might Soon Be Able to Change Your Gmail Address" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/you-might-soon-be-able-to-change-gmail-address?utm_medium=RSS" target="_blank">You Might Soon Be Able to Change Your Gmail Address</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-15 21:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/mcu-shows-1280x853.jpg" alt="Five Years Later, Has the MCU’s TV Excursion Worked?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +292,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/15/a-bet-a-parachute-and-devils-tower-a-perfect-plan-until-it-wasnt.html" target="_blank">A bet, a parachute, and Devil&#x27;s Tower: a perfect plan until it wasn&#x27;t</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-15 19:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEZ2PB6CK2RBVR8RWYGAW717/hero-image.png" alt="Scammers Are Impersonating LinkedIn" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/scammers-are-impersonating-linkedin-with-this-phishing-scheme?utm_medium=RSS" target="_blank">Scammers Are Impersonating LinkedIn</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-15 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/1200x-1-e1742501495234.jpg?fit=768%2C416&amp;quality=60&amp;ssl=1" alt="God of War&#x27;s Thor actor becomes Kratos for Amazon show" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/15/god-of-wars-thor-actor-becomes-kratos-for-amazon-show.html" target="_blank">God of War&#x27;s Thor actor becomes Kratos for Amazon show</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-15 17:28</span>
             </div>
         </div>
 </div>
@@ -329,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
