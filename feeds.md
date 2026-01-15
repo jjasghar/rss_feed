@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-14 23:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-15 00:05:42 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, January 14, 2026 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, January 15, 2026 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/14/nx-s1-5647442/midterm-elections-redistricting-trump-california" target="_blank">In a win for Democrats, court allows California&#x27;s redistricting plan to proceed</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-14 23:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Iran-bodies-DB-260114_1768379483255_hpMain_4x3t_384.jpg" alt="Iran protests: Trump says he&#x27;s been told &#x27;killing&#x27; stopped, executions won&#x27;t occur" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/iran-protests-2500-killed-activists-trump-us-act/story?id=129194150" target="_blank">Iran protests: Trump says he&#x27;s been told &#x27;killing&#x27; stopped, executions won&#x27;t occur</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-14 22:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/14/senegal-beat-egypt-1-0-egypt-in-afcon-semifinal-as-sadio-mane-scores-late?traffic_source=rss" target="_blank">Senegal beat Egypt 1-0 Egypt in AFCON semifinal as Sadio Mane scores late</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-14 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/14/nx-s1-5674884/kitchen-countertop-workers-are-dying-some-lawmakers-want-to-ban-their-lawsuits" target="_blank">Kitchen countertop workers are dying. Some lawmakers want to ban their lawsuits</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-14 19:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/14/mapping-who-controls-what-in-yemen-in-2026?traffic_source=rss" target="_blank">Mapping who controls what in Yemen in 2026</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-14 18:14</span>
             </div>
         </div>
 </div>
@@ -171,6 +174,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jjdelcerro/no-la-ia-no-programa-y-los-que-te-dicen-lo-contrario-te-estan-vendiendo-humo-4506" target="_blank">No, la IA no programa. Y los que te dicen lo contrario te están vendiendo humo</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-15 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/GRUB-2.14-Released" target="_blank">GRUB 2.14 Bootloader Released With EROFS Support, Shim Loader Protocol</a></span>
                 <span class="feed">Phoronix</span>
@@ -204,15 +216,6 @@
                 <span class="time">2026-01-14 20:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18834480&w=600" alt="Integrating AI-Enhanced Microservices in SAFe 5.0 Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/integrating-ai-enhanced-microservices-in-safe-50-f" target="_blank">Integrating AI-Enhanced Microservices in SAFe 5.0 Framework</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-14 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/SolarOpposites-sidecar-1280x853.jpg" alt="The ‘Solar Opposites’ Team Has a New Sci-Fi Animated Series Coming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-solar-opposites-team-has-a-new-sci-fi-animated-series-coming-2000710288" target="_blank">The ‘Solar Opposites’ Team Has a New Sci-Fi Animated Series Coming</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-14 23:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEZ4TFVAM7CBBH36G7A9E6DF/hero-image.jpg" alt="What I Learned After Trying Out Every Exoskeleton at CES" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/trying-on-every-exoskeleton-ces-2026?utm_medium=RSS" target="_blank">What I Learned After Trying Out Every Exoskeleton at CES</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-14 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/07/shutterstock_3993856-scaled.jpg?fit=2560%2C1707&amp;quality=60&amp;ssl=1" alt="This subreddit is full of beautifully worn-out objects" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,29 +298,20 @@
                 <span class="time">2026-01-14 21:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/MR.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="MTV Rewind is a searchable archive of over 33,000 music videos from the channel&#x27;s glory days" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/14/mtv-rewind-is-a-searchable-archive-of-over-33000-music-videos-from-the-channels-glory-days.html" target="_blank">MTV Rewind is a searchable archive of over 33,000 music videos from the channel&#x27;s glory days</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-14 21:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/Meta-Quest-3S-XBOX-2-1280x853.jpg" alt="Meta Just Absolutely Gutted the Best Part of Quest VR Headsets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/meta-just-absolutely-gutted-the-best-part-of-quest-vr-headsets-2000710320" target="_blank">Meta Just Absolutely Gutted the Best Part of Quest VR Headsets</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-14 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/14/clarkesworld" target="_blank">Clarkesworld</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-01-14 22:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1768281950-20260114.png" alt="Saturday Morning Breakfast Cereal - Mc" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -341,8 +353,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
