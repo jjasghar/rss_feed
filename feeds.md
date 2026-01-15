@@ -1,27 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-15 01:29:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-15 02:36:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 18 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, January 15, 2026 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, January 15, 2026 - 02:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/14/g-s1-106093/senate-war-powers-venezuela" target="_blank">Senate Republicans block Venezuela war powers resolution</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-15 02:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,21 +88,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/01/1920x1080/image_7135534.jpg?20260114213147" alt="Iran&#x27;s regime could fall, says Trump - as US president considers intervention" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/14/uk-prosecutors-seek-to-reinstate-terrorism-charge-against-kneecap-rapper?traffic_source=rss" target="_blank">UK prosecutors seek to reinstate ‘terrorism’ charge against Kneecap rapper</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-14 21:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2290/live/818e12f0-f168-11f0-b34c-412d8cd6a3dc.jpg" alt="Mahmood has no confidence in police chief after Israeli fan ban" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgn984j9d7o?at_medium=RSS&at_campaign=rss" target="_blank">Mahmood has no confidence in police chief after Israeli fan ban</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-14 20:24</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/irans-regime-could-fall-says-trump-as-us-president-considers-intervention-13494415" target="_blank">Iran&#x27;s regime could fall, says Trump - as US president considers intervention</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-14 22:24</span>
             </div>
         </div>
 </div>
@@ -165,6 +170,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sam_lee_880a38a45a170858b/building-a-production-ready-square-image-editor-with-nextjs-lessons-from-squareimage-2cjc" target="_blank">Building a Production-Ready Square Image Editor with Next.js: Lessons from SquareImage</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-15 02:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frqr8rkw69rjz6anpyl5g.png" alt="How I Built a Intelligent AgTech Risk Monitoring System: Architecture, Technical Decisions, and Key Learnings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/sbastien_sougnez_c15451f/application-migrations-for-aspnet-core-a-small-library-for-a-common-problem-3a3p" target="_blank">Application Migrations for ASP.NET Core: A Small Library for a Common Problem</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-14 21:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2604-jan-amd-epyc" target="_blank">An Early Run With Ubuntu 26.04 On AMD EPYC Turin - The Current Performance Gains Over Ubuntu 24.04 LTS</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-14 20:23</span>
             </div>
         </div>
 </div>
@@ -288,6 +293,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5744.png" alt="The Older, Wiser Sister" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5744" target="_blank">The Older, Wiser Sister</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-01-15 01:47</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -315,6 +329,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/16_part_epoxy.png" alt="16-Part Epoxy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3194/" target="_blank">16-Part Epoxy</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-01-14 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://imgs.xkcd.com/comics/16_part_epoxy.png" alt="16 Part Epoxy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-laugh"></span>
@@ -323,22 +346,13 @@
                 <span class="time">2026-01-14 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5743.png" alt="First Responder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5743" target="_blank">First Responder</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-01-14 02:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 02:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
