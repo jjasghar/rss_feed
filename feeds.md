@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-01-15 15:02:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-01-15 16:05:13 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, January 15, 2026 - 15:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, January 15, 2026 - 16:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/protest-main_1768470995807_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Trump threatens to invoke Insurrection Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates/?id=129124338" target="_blank">Minneapolis ICE shooting live updates: Trump threatens to invoke Insurrection Act</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-15 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/15/nx-s1-5677335/julian-barnes-departures" target="_blank">Julian Barnes says he&#x27;s enjoying himself, but that &#x27;Departure(s)&#x27; is his last book</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-15 15:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/jan/15/hepatitis-b-vaccines-study-africa-cancel" target="_blank">Controversial US study on hepatitis B vaccines in Africa is cancelled</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-15 15:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,39 +87,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/15/g-s1-104702/menstrual-health-pads-luxury-tax-pakistan" target="_blank">This country taxes menstrual pads as luxury goods. She&#x27;s suing to end the tax</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-15 13:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ede/live/7c02ea20-f1f6-11f0-b5f7-49f0357294ff.jpg" alt="Astronauts splash down to Earth after medical evacuation from space station" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d56d/live/a3d0a190-f206-11f0-b385-5f48925de19a.jpg" alt="European military personnel arrive in Greenland as Trump says US needs island" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c205r8n0276o?at_medium=RSS&at_campaign=rss" target="_blank">Astronauts splash down to Earth after medical evacuation from space station</a></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd0ydjvxpejo?at_medium=RSS&at_campaign=rss" target="_blank">European military personnel arrive in Greenland as Trump says US needs island</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-01-15 12:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/15/uganda-vote-election-yoweri-museveni-bobi-wine" target="_blank">Voting in Uganda’s general election delayed by technical and logistical issues</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-01-15 12:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/15/ice-officer-shoots-venezuelan-immigrant-in-minneapolis-what-we-know?traffic_source=rss" target="_blank">ICE officer shoots Venezuelan immigrant in Minneapolis: What we know</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-15 11:06</span>
+                <span class="time">2026-01-15 13:33</span>
             </div>
         </div>
 </div>
@@ -113,6 +106,15 @@
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/862340/sony-bravia-8-ii-tv-review" target="_blank">The Sony Bravia 8 II is a TV enthusiast’s dream</a></span>
                 <span class="feed">The Verge</span>
+                <span class="time">2026-01-15 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/684baa39e0d143bc348e43f4/master/pass/The%20Best%20Packing%20Cubes%20for%20Every%20Kind%20of%20Trip_.png" alt="Best Packing Cubes for Every Kind of Trip (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-packing-cubes/" target="_blank">Best Packing Cubes for Every Kind of Trip (2026), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
                 <span class="time">2026-01-15 15:00</span>
             </div>
         </div>
@@ -152,15 +154,6 @@
                 <span class="time">2026-01-15 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Polestar-Mille-Miglia-Pics-18-500x500.jpg" alt="The difficulty of driving an EV in the “most beautiful race in the world”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/features/2026/01/the-difficulty-of-driving-an-ev-in-the-most-beautiful-race-in-the-world/" target="_blank">The difficulty of driving an EV in the “most beautiful race in the world”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-15 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +166,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc" target="_blank">Apple Is Fighting for TSMC Capacity as Nvidia Takes Center Stage</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-15 15:02</span>
             </div>
         </div>
 <div class="story">
@@ -211,15 +213,6 @@
                 <span class="time">2026-01-15 13:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://investinglive.com/news/the-500000-ton-typo-why-data-center-copper-math-doesnt-add-up-20260113/" target="_blank">The 500k-ton typo: Why data center copper math doesn&#x27;t add up</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-15 12:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Tomb-Raider-Sophie-Turner-io9_BG-9-1280x853.jpg" alt="Here’s Your First Look at Sophie Turner’s Lara Croft" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sophie-turner-tomb-raider-lara-croft-first-look-amazon-2000710641" target="_blank">Here’s Your First Look at Sophie Turner’s Lara Croft</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-15 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/millenium-falcon-set-lego-1280x853.jpg" alt="LEGO Drops Prices on Iconic Millennium Falcon Sets, Now One of the Cheapest in the Star Wars Line" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +295,6 @@
                 <span class="time">2026-01-14 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/07/shutterstock_3993856-scaled.jpg?fit=2560%2C1707&amp;quality=60&amp;ssl=1" alt="This subreddit is full of beautifully worn-out objects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/14/this-subreddit-is-full-of-beautifully-worn-out-objects.html" target="_blank">This subreddit is full of beautifully worn-out objects</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-14 22:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -339,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 15:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 16:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
