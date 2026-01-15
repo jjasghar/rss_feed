@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-15 07:04:21 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-01-15 08:02:15 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, January 15, 2026 - 07:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, January 15, 2026 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,9 +51,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/15/another-crane-collapses-in-thailand-killing-two-after-32-die-previous-day?traffic_source=rss" target="_blank">Another crane collapses in Thailand, killing two, after 32 die previous day</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-15 07:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/15/australian-open-tennis-2026-key-dates-draw-top-seeds-prize-money?traffic_source=rss" target="_blank">Australian Open tennis 2026: Key dates, draw, top seeds, prize money</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-15 06:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/15/uganda-vote-election-yoweri-museveni-bobi-wine" target="_blank">Ugandans to vote in election expected to extend Museveni’s four-decade rule</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-15 05:00</span>
             </div>
         </div>
 <div class="story">
@@ -77,24 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/15/venezuelas-rodriguez-vows-release-of-more-prisoners-holds-call-with-trump?traffic_source=rss" target="_blank">Venezuela’s Rodriguez vows release of more prisoners, holds call with Trump</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-15 03:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/14/nx-s1-5677714/trump-administration-mental-health-addiction-grant-cuts-restored" target="_blank">Trump administration rolls back $2 billion mental health, addiction grant cuts</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-15 02:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/14/g-s1-106093/senate-war-powers-venezuela" target="_blank">Senate Republicans block Venezuela war powers resolution</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-15 02:07</span>
             </div>
         </div>
 </div>
@@ -171,6 +175,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffs2ldmofmr84sy26vn4d.png" alt="When we built a real-time AI system for baseball training, the model wasn’t the hardest part. HUMAN BEHAVIOR WAS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cizo/when-we-built-a-real-time-ai-system-for-baseball-training-the-model-wasnt-the-hardest-part-2kk8" target="_blank">When we built a real-time AI system for baseball training, the model wasn’t the hardest part. HUMAN BEHAVIOR WAS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-15 07:52</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -204,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/sangwoo_rhie/aws-7-aws-route-53-dns-domain-name-system-routing-policies-lae" target="_blank">[AWS] 7. AWS Route 53, DNS (Domain Name System), Routing Policies</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-15 03:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sam_lee_880a38a45a170858b/building-a-production-ready-square-image-editor-with-nextjs-lessons-from-squareimage-2cjc" target="_blank">Building a Production-Ready Square Image Editor with Next.js: Lessons from SquareImage</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-15 02:20</span>
             </div>
         </div>
 </div>
@@ -320,22 +324,13 @@
                 <span class="time">2026-01-14 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/01/14/clarkesworld" target="_blank">Clarkesworld</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-14 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 07:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
