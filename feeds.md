@@ -1,31 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-01-15 16:05:13 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-01-15 17:08:17 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Generated 10 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, January 15, 2026 - 16:05 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, January 15, 2026 - 17:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/15/nx-s1-5678539/iran-protests-trump" target="_blank">Iran&#x27;s protests appear increasingly smothered after a deadly crackdown</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-15 16:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/15/uganda-vote-election-yoweri-museveni-bobi-wine" target="_blank">Opposition candidate Bobi Wine claims ‘massive ballot stuffing’ as Uganda goes to polls</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-15 16:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/protest-main_1768470995807_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Trump threatens to invoke Insurrection Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +94,20 @@
                 <span class="time">2026-01-15 14:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/15/european-troops-arrive-in-greenland-as-talks-with-us-hit-wall-over-future?traffic_source=rss" target="_blank">European troops arrive in Greenland as talks with US hit wall over future</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-15 13:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d56d/live/a3d0a190-f206-11f0-b385-5f48925de19a.jpg" alt="European military personnel arrive in Greenland as Trump says US needs island" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd0ydjvxpejo?at_medium=RSS&at_campaign=rss" target="_blank">European military personnel arrive in Greenland as Trump says US needs island</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-15 13:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/bullyonline-500x500-1768493249.png" alt="Bully Online mod taken down abruptly one month after launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/01/online-mod-for-rockstars-classic-bully-is-abruptly-taken-down-after-one-month/" target="_blank">Bully Online mod taken down abruptly one month after launch</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-15 16:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +153,6 @@
                 <span class="time">2026-01-15 13:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/861838/hbo-a-knight-of-the-seven-kingdoms-review" target="_blank">Game of Thrones shows its playful side in A Knight of the Seven Kingdoms</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-15 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +168,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18834517&w=600" alt="Taming Reinforcement Learning Chaos: An MLOps Architecture for Experiment Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/taming-reinforcement-learning-chaos-an-mlops-archi" target="_blank">Taming Reinforcement Learning Chaos: An MLOps Architecture for Experiment Management</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-15 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://adamj.eu/tech/2026/01/14/python-introducing-tprof/" target="_blank">Python: introducing tprof, a targeting profiler</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-01-15 16:47</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -180,37 +197,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/01/15/how-stack-overflow-is-taking-on-spam-and-bad-actors/" target="_blank">How Stack Overflow is taking on spam and bad actors</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-01-15 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.linux.com/news/celebrating-the-second-year-of-linux-man-pages-maintenance-sponsorship/" target="_blank">Celebrating the Second Year of Linux Man-Pages Maintenance Sponsorship</a></span>
                 <span class="feed">Linux.com</span>
                 <span class="time">2026-01-15 14:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Imagination-AM62P-Linux-7.0" target="_blank">Imagination Driver To Support The TI AM62P SoC In Linux 6.20~7.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-15 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/slick_phantom/how-to-create-telegram-bots-4ej4" target="_blank">How to create telegram bots in Ruby</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-15 13:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Whisper-cpp-1.8.3-12x-Perf" target="_blank">Whisper.cpp 1.8.3 Delivers A &quot;12x Performance Boost&quot; With Integrated Graphics</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-15 13:19</span>
             </div>
         </div>
 </div>
@@ -242,6 +241,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/TheBride-2-1280x853.jpg" alt="The Dead Have Something to Scream About in ‘The Bride!’ Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-dead-have-something-to-scream-about-in-the-bride-trailer-2000709858" target="_blank">The Dead Have Something to Scream About in ‘The Bride!’ Trailer</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-15 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/acnh-microsite-thumbnail-resetti-service.jpg" alt="Everything To Know Before Jumping Into Animal Crossing: New Horizons’ 3.0 Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/animal-crossing-new-horizons-3-0-tips-guide-2000660180" target="_blank">Everything To Know Before Jumping Into Animal Crossing: New Horizons’ 3.0 Update</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-15 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KF1528KXYVYE2NFHBF575YW5/hero-image.jpg" alt="Spotify Is Raising Prices Yet Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/spotify-is-raising-prices-again?utm_medium=RSS" target="_blank">Spotify Is Raising Prices Yet Again</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-15 16:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Tomb-Raider-Sophie-Turner-io9_BG-9-1280x853.jpg" alt="Here’s Your First Look at Sophie Turner’s Lara Croft" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -268,33 +294,6 @@
                 <span class="time">2026-01-15 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/K2-e1768438800978.jpeg?fit=768%2C498&amp;quality=60&amp;ssl=1" alt="How one climber&#x27;s false summit claim helped turn K2 into a graveyard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/14/how-one-climbers-false-summit-claim-helped-turn-k2-into-a-graveyard.html" target="_blank">How one climber&#x27;s false summit claim helped turn K2 into a graveyard</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-15 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/SolarOpposites-sidecar-1280x853.jpg" alt="The ‘Solar Opposites’ Team Has a New Sci-Fi Animated Series Coming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-solar-opposites-team-has-a-new-sci-fi-animated-series-coming-2000710288" target="_blank">The ‘Solar Opposites’ Team Has a New Sci-Fi Animated Series Coming</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-14 23:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEZ4TFVAM7CBBH36G7A9E6DF/hero-image.jpg" alt="What I Learned After Trying Out Every Exoskeleton at CES" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/trying-on-every-exoskeleton-ces-2026?utm_medium=RSS" target="_blank">What I Learned After Trying Out Every Exoskeleton at CES</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-14 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,22 +317,13 @@
                 <span class="time">2026-01-14 22:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1768281950-20260114.png" alt="Saturday Morning Breakfast Cereal - Mc" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/mc" target="_blank">Saturday Morning Breakfast Cereal - Mc</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-14 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 16:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 17:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
