@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-15 04:15:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-15 05:05:20 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Generated 1 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, January 15, 2026 - 04:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, January 15, 2026 - 05:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -78,21 +80,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e752/live/a5d32690-f17d-11f0-afcf-4f8c8e73dd06.png" alt="Twenty one English councils ask for election delays" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd7z892jzdeo?at_medium=RSS&at_campaign=rss" target="_blank">Twenty one English councils ask for election delays</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-15 01:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/01/14/g-s1-106065/trump-immigrant-visa-suspensions-public-assistance" target="_blank">U.S. to suspend immigrant visas from 75 countries over public assistance concerns</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-15 00:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768434474601_nn_ren_trump_iran_protests_260114_1920x1080-3h7ej6.jpg" alt="President Trump’s new message to Iranian protestors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/president-trump-s-new-message-to-iranian-protestors-255989829618" target="_blank">President Trump’s new message to Iranian protestors</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-14 23:48</span>
             </div>
         </div>
 </div>
@@ -327,31 +329,13 @@
                 <span class="time">2026-01-14 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/16_part_epoxy.png" alt="16-Part Epoxy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3194/" target="_blank">16-Part Epoxy</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-01-14 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/16_part_epoxy.png" alt="16 Part Epoxy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3194/" target="_blank">16 Part Epoxy</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-01-14 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 04:15 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 05:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
