@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-15 02:36:38 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-01-15 03:29:59 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, January 15, 2026 - 02:36 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, January 15, 2026 - 03:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/14/nx-s1-5677714/trump-administration-mental-health-addiction-grant-cuts-restored" target="_blank">Trump administration rolls back $2 billion mental health, addiction grant cuts</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-15 02:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +102,6 @@
                 <span class="time">2026-01-14 22:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/image_7135534.jpg?20260114213147" alt="Iran&#x27;s regime could fall, says Trump - as US president considers intervention" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/irans-regime-could-fall-says-trump-as-us-president-considers-intervention-13494415" target="_blank">Iran&#x27;s regime could fall, says Trump - as US president considers intervention</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-14 22:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,6 +114,15 @@
                 <span class="title"><a href="https://www.theverge.com/23769068/best-ebook-readers" target="_blank">The best e-reader to buy right now</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-15 00:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/redcoat1-500x500.jpg" alt="A British redcoat’s lost memoir resurfaces" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/01/a-british-redcoats-lost-memoir-resurfaces/" target="_blank">A British redcoat’s lost memoir resurfaces</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-15 00:01</span>
             </div>
         </div>
 <div class="story">
@@ -146,15 +161,6 @@
                 <span class="time">2026-01-14 20:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2178190944-500x500.jpg" alt="US gov’t: House sysadmin stole 200 phones, caught by House IT desk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/us-govt-house-sysadmin-stole-200-phones-caught-by-house-it-desk/" target="_blank">US gov’t: House sysadmin stole 200 phones, caught by House IT desk</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-14 20:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +176,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmm6p3p9euazwazsw837d.png" alt="[AWS] 7. AWS Route 53, DNS (Domain Name System), Routing Policies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sangwoo_rhie/aws-7-aws-route-53-dns-domain-name-system-routing-policies-lae" target="_blank">[AWS] 7. AWS Route 53, DNS (Domain Name System), Routing Policies</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-15 03:21</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -179,39 +194,30 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frqr8rkw69rjz6anpyl5g.png" alt="How I Built a Intelligent AgTech Risk Monitoring System: Architecture, Technical Decisions, and Key Learnings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/orion-linux-alpha.jpg?resize=406%2C232&amp;ssl=1" alt="Orion Browser Releases Its First Linux Alpha" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/guilherme_daros/how-i-built-a-intelligent-agtech-risk-monitoring-system-architecture-technical-decisions-and-key-1n5a" target="_blank">How I Built a Intelligent AgTech Risk Monitoring System: Architecture, Technical Decisions, and Key Learnings</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-15 01:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jjdelcerro/no-la-ia-no-programa-y-los-que-te-dicen-lo-contrario-te-estan-vendiendo-humo-4506" target="_blank">No, la IA no programa. Y los que te dicen lo contrario te están vendiendo humo</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-15 00:00</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/orion-browser-for-linux-alpha" target="_blank">Orion Browser Releases Its First Linux Alpha</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-15 02:05</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GRUB-2.14-Released" target="_blank">GRUB 2.14 Bootloader Released With EROFS Support, Shim Loader Protocol</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RADV-RT-RDNA3-RDNA4-Wave32" target="_blank">Another RADV Ray-Tracing Merge Lands Some Additional Gains For Mesa 26.0</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-01-14 22:54</span>
+                <span class="time">2026-01-15 01:11</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F7600%2F0%2AltKanbgMM9Oj9xlu" alt="Application Migrations for ASP.NET Core: A Small Library for a Common Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frqr8rkw69rjz6anpyl5g.png" alt="How I Built a Intelligent AgTech Risk Monitoring System: Architecture, Technical Decisions, and Key Learnings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sbastien_sougnez_c15451f/application-migrations-for-aspnet-core-a-small-library-for-a-common-problem-3a3p" target="_blank">Application Migrations for ASP.NET Core: A Small Library for a Common Problem</a></span>
+                <span class="title"><a href="https://dev.to/guilherme_daros/how-i-built-a-intelligent-agtech-risk-monitoring-system-architecture-technical-decisions-and-key-1n5a" target="_blank">How I Built a Intelligent AgTech Risk Monitoring System: Architecture, Technical Decisions, and Key Learnings</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-01-14 21:19</span>
+                <span class="time">2026-01-15 01:04</span>
             </div>
         </div>
 </div>
@@ -233,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/K2-e1768438800978.jpeg?fit=768%2C498&amp;quality=60&amp;ssl=1" alt="How one climber&#x27;s false summit claim helped turn K2 into a graveyard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/14/how-one-climbers-false-summit-claim-helped-turn-k2-into-a-graveyard.html" target="_blank">How one climber&#x27;s false summit claim helped turn K2 into a graveyard</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-15 01:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/SolarOpposites-sidecar-1280x853.jpg" alt="The ‘Solar Opposites’ Team Has a New Sci-Fi Animated Series Coming" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/bully-online-mod-suddenly-shutting-down-just-months-after-launch-2000659899" target="_blank">Bully Online Mod Suddenly Shutting Down Just Months After Launch</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-14 21:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/05/f5cc9782a918a1290f428db2be49b9dd-1024x575.jpg" alt="DoorDash and Uber Eats Cost Delivery Workers Millions of Dollars in Tips, NYC Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/doordash-and-uber-eats-cost-delivery-workers-millions-of-dollars-in-tips-nyc-says-2000710487" target="_blank">DoorDash and Uber Eats Cost Delivery Workers Millions of Dollars in Tips, NYC Says</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-14 21:50</span>
             </div>
         </div>
 </div>
@@ -351,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 02:36 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 03:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
