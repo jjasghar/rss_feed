@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-16 16:02:08 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-16 17:04:12 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, January 16, 2026 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, January 16, 2026 - 17:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/16/nx-s1-5680094/december-planet-money-board-game-update-sasquatch" target="_blank">December board game update</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-16 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f7/live/9e316900-f2eb-11f0-b5f7-49f0357294ff.jpg" alt="Hospital violated trans complaint nurses&#x27; dignity, tribunal rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0jv9l5n32zo?at_medium=RSS&at_campaign=rss" target="_blank">Hospital violated trans complaint nurses&#x27; dignity, tribunal rules</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-16 15:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +102,38 @@
                 <span class="time">2026-01-16 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/16/uganda-election-early-results-show-museveni-in-lead-as-violence-reported" target="_blank">Early results show Museveni leading Uganda election amid reports of violence</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-01-16 10:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/667e/live/9a206f10-f2b3-11f0-885c-ef5f6008fb41.jpg" alt="China and Canada announce tariffs relief after a high-stakes meeting between Carney and Xi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy59pvkqvl5o?at_medium=RSS&at_campaign=rss" target="_blank">China and Canada announce tariffs relief after a high-stakes meeting between Carney and Xi</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-16 10:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/tsmc_factory-500x500.jpg" alt="TSMC says AI demand is “endless” after record Q4 earnings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/01/tsmc-says-ai-demand-is-endless-after-record-q4-earnings/" target="_blank">TSMC says AI demand is “endless” after record Q4 earnings</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-16 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/863393/canada-china-ev-import-trade-deal-us-trump-tariffs" target="_blank">Canada is going to start importing Chinese EVs — will the US follow?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-16 16:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69698c37b8df1f891caafa19/master/pass/Backchannel-Former-USDS-Set-to-Fix-what-DOGE-Broke-Business-2199882528.jpg" alt="Former USDS Leaders Launch Tech Reform Project to Fix What DOGE Broke" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/former-usds-leaders-launch-tech-reform-project-doge/" target="_blank">Former USDS Leaders Launch Tech Reform Project to Fix What DOGE Broke</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-16 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,33 +161,6 @@
                 <span class="time">2026-01-16 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/863319/highlights-musk-v-altman-openai" target="_blank">‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-16 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/863297/asus-pr-mess-rtx-5070-ti-end-of-life-statements-memory-shortages" target="_blank">Asus now claims it&amp;#8217;s not dropping the RTX 5070 Ti amid memory shortages</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-16 12:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/spacex-500x500.jpg" alt="Rocket Report: Ariane 64 to debut soon; India has a Falcon 9 clone too?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/01/rocket-report-ariane-64-to-debut-soon-india-has-a-falcon-9-clone-too/" target="_blank">Rocket Report: Ariane 64 to debut soon; India has a Falcon 9 clone too?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-16 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +173,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flywwg80wcrpo3ge8i7il.png" alt="Building a Local RAG AI Agent for Airline Reviews with Ollama" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/najilouis/building-a-local-rag-ai-agent-for-airline-reviews-with-ollama-2ik5" target="_blank">Building a Local RAG AI Agent for Airline Reviews with Ollama</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-16 16:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-8534p-2year-linux" target="_blank">AMD EPYC 8004 &quot;Siena&quot; Shows Some Nice Linux Performance Gains Over The Past Two Years</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-16 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/arkregex-introduced-typescript/en/headerimage/header-1762364329894-1768562484523.jpg" alt="ArkType Introduces ArkRegex with Type Safe Regular Expressions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/arkregex-introduced-typescript/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">ArkType Introduces ArkRegex with Type Safe Regular Expressions</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-16 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -192,33 +218,6 @@
                 <span class="title"><a href="https://dzone.com/articles/chatbot-to-agent-react-pattern-python" target="_blank">From Chatbot to Agent: Implementing the ReAct Pattern in Python</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-01-16 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/uber-hivesync-data-lake/en/headerimage/generatedHeaderImage-1768281800202.jpg" alt="350PB, Millions of Events, One System: Inside Uber’s Cross-Region Data Lake and Disaster Recovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/uber-hivesync-data-lake/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">350PB, Millions of Events, One System: Inside Uber’s Cross-Region Data Lake and Disaster Recovery</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-16 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hejhdiss/building-production-ready-nmap-integrations-a-complete-guide-to-nmap-exec-api-48cn" target="_blank">Building Production-Ready Nmap Integrations: A Complete Guide to nmap-exec-api</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-16 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://astro.build/blog/joining-cloudflare/" target="_blank">Astro Joining Cloudflare</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-16 14:25</span>
             </div>
         </div>
 </div>
@@ -240,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KF1CR6JBZ1C2NCQPA8GWRMGC/hero-image.jpg" alt="15 Shows Like &#x27;Bridgerton&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-bridgerton-to-watch-next?utm_medium=RSS" target="_blank">15 Shows Like &#x27;Bridgerton&#x27; You Should Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-16 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/iScanner-App.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Get lifetime access to the iScanner app for just $40" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/16/get-lifetime-access-to-the-iscanner-app-for-just-40.html" target="_blank">Get lifetime access to the iScanner app for just $40</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-16 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KF1KKB3K7ZPSR71AE99FZV1F/hero-image.jpg" alt="How to Protect Your Credit Cards From &#x27;Web Skimming&#x27; Scams" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,29 +293,20 @@
                 <span class="time">2026-01-16 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/New-World-1280x720.jpg" alt="Rust Exec Reacts To Amazon Killing New World: ‘Games Should Never Die’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/new-world-mmo-servers-rust-facepunch-amazon-2000660558" target="_blank">Rust Exec Reacts To Amazon Killing New World: ‘Games Should Never Die’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-16 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/the_room_blockbuster_original.png?fit=1600%2C1209&amp;quality=55&amp;ssl=1" alt="Print out nostalgic VHS inserts with the Blockbuster Sleeve Generator" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/16/print-out-nostalgic-vhs-inserts-with-the-blockbuster-sleeve-generator.html" target="_blank">Print out nostalgic VHS inserts with the Blockbuster Sleeve Generator</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-16 12:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1768536485-20260116.png" alt="Saturday Morning Breakfast Cereal - Gender" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/gender-2" target="_blank">Saturday Morning Breakfast Cereal - Gender</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-01-16 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -326,22 +334,13 @@
                 <span class="time">2026-01-16 01:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1768281961-20260115.png" alt="Saturday Morning Breakfast Cereal - Basic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/basic" target="_blank">Saturday Morning Breakfast Cereal - Basic</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-15 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 17:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
