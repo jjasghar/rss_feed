@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-16 14:02:36 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-16 15:02:38 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 10 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, January 16, 2026 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, January 16, 2026 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -172,48 +178,48 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/01/uber-hivesync-data-lake/en/headerimage/generatedHeaderImage-1768281800202.jpg" alt="350PB, Millions of Events, One System: Inside Uber’s Cross-Region Data Lake and Disaster Recovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/uber-hivesync-data-lake/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">350PB, Millions of Events, One System: Inside Uber’s Cross-Region Data Lake and Disaster Recovery</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-16 15:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jahongir2007/how-to-create-otp-flow-system-on-nodejs-step-by-step-mcg" target="_blank">How to create OTP flow system on Node.js (step-by- step)</a></span>
+                <span class="title"><a href="https://dev.to/hejhdiss/building-production-ready-nmap-integrations-a-complete-guide-to-nmap-exec-api-48cn" target="_blank">Building Production-Ready Nmap Integrations: A Complete Guide to nmap-exec-api</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-01-16 13:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.04-Faster-NVIDIA" target="_blank">Ubuntu 26.04 Aims To Deliver Better NVIDIA Wayland Performance Atop GNOME</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-16 13:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/local-desktop/" target="_blank">Android Power Users Can Now Run Full Desktop Linux Environments Without Root Access</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-16 13:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq15adlrheqtsyuobbh46.gif" alt="Mastering LangChain Expression Language (LCEL): Branching, Parallelism, and Streaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/harishkotra/mastering-langchain-expression-language-lcel-branching-parallelism-and-streaming-1md5" target="_blank">Mastering LangChain Expression Language (LCEL): Branching, Parallelism, and Streaming</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-16 13:00</span>
+                <span class="time">2026-01-16 14:55</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://justthebrowser.com/" target="_blank">Just the Browser</a></span>
+                <span class="title"><a href="https://astro.build/blog/joining-cloudflare/" target="_blank">Astro Joining Cloudflare</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-01-16 12:03</span>
+                <span class="time">2026-01-16 14:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Intel-TSX-Default" target="_blank">Linux 7.0 Looks To Enable Intel TSX By Default On Capable CPUs For Better Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-16 14:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18837072&w=600" alt="Parallel S3 Writes for Massive Sparse DataFrames: How to Maintain Row Order Without Blowing Memory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/parallel-s3-writes-massive-sparse-dataframes" target="_blank">Parallel S3 Writes for Massive Sparse DataFrames: How to Maintain Row Order Without Blowing Memory</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-16 14:00</span>
             </div>
         </div>
 </div>
@@ -221,6 +227,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/govee-floor-lamp-2-1280x853.jpg" alt="Govee Is Offering Its Updated RGBIC Smart Lamp at a Major Discount, Now Cheaper Than a Standard Lamp" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/govee-is-offering-its-updated-rgbic-smart-lamp-at-a-major-discount-now-cheaper-than-a-standard-lamp-2000660309" target="_blank">Govee Is Offering Its Updated RGBIC Smart Lamp at a Major Discount, Now Cheaper Than a Standard Lamp</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-16 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Starlink-1280x853.jpg" alt="China’s Proposed Megaconstellations Would Flood Orbit With 200,000 Satellites" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/china-wants-to-launch-200000-satellites-to-earth-orbit-outnumbering-all-other-constellations-2000710704" target="_blank">China’s Proposed Megaconstellations Would Flood Orbit With 200,000 Satellites</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-16 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KETFZQ8Z74CRRS7Q7MAMGX8R/hero-image.png" alt="What People Are Getting Wrong This Week: Is Gravity Ending?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-is-gravity-ending?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: Is Gravity Ending?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-16 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/New-World-1280x720.jpg" alt="Rust Exec Reacts To Amazon Killing New World: ‘Games Should Never Die’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -246,33 +279,6 @@
                 <span class="title"><a href="https://gizmodo.com/maybe-a-han-solo-movie-wasnt-a-great-idea-admits-kathleen-kennedy-2000710907" target="_blank">Maybe a Han Solo Movie Wasn’t a Great Idea, Admits Kathleen Kennedy</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-16 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/shutterstock_1430014880-1-e1749661914914.jpg?fit=768%2C532&amp;quality=60&amp;ssl=1" alt="LA City Council asks LAPD to relax and treat riot gear as a last resort" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/15/la-city-council-asks-lapd-to-relax-and-treat-riot-gear-as-a-last-resort.html" target="_blank">LA City Council asks LAPD to relax and treat riot gear as a last resort</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-16 00:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/star-wars-starfighter-ryan-gosling-1280x853.jpg" alt="Kathleen Kennedy Gives Some Intriguing ‘Star Wars’ Movie Updates After Her Lucasfilm Exit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/kathleen-kennedy-gives-some-intriguing-star-wars-movie-updates-after-her-lucasfilm-exit-2000710897" target="_blank">Kathleen Kennedy Gives Some Intriguing ‘Star Wars’ Movie Updates After Her Lucasfilm Exit</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-15 23:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/The_Boy_Wot_Visits_The_Palace.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="A teenager kept sneaking into Buckingham Palace to &quot;see how royals lived&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/15/a-teenager-kept-sneaking-into-buckingham-palace-to-see-how-royals-lived.html" target="_blank">A teenager kept sneaking into Buckingham Palace to &quot;see how royals lived&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-15 23:13</span>
             </div>
         </div>
 </div>
@@ -312,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
