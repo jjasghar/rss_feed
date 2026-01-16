@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-16 20:02:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-16 21:01:38 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, January 16, 2026 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, January 16, 2026 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/16/nx-s1-5677299/measles-outbreak-vaccines-kids-health" target="_blank">Measles is spreading fast in S.C. Here&#x27;s what it says about vaccine exemptions</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-16 20:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +100,29 @@
                 <span class="time">2026-01-16 18:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c634/live/073bf860-f2f7-11f0-9a08-61d9f795eeed.jpg" alt="Exiled crown prince urges world to help protesters topple Iran&#x27;s government" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c70lx085z85o?at_medium=RSS&at_campaign=rss" target="_blank">Exiled crown prince urges world to help protesters topple Iran&#x27;s government</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-16 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/863620/data-centers-ai-power-auction-trump" target="_blank">Trump and Mid-Atlantic governors want tech companies to pay for new power plants</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-16 20:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/16/epa-rules-that-xais-natural-gas-generators-were-illegally-used/" target="_blank">EPA rules that xAI’s natural gas generators were illegally used</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-16 20:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +157,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/863554/visible-verizon-outage-credit-january-2026" target="_blank">Verizon-owned Visible is offering outage credits, too</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-16 18:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6969e23027d67473e4bb6b79/master/pass/GettyImages-2253746109.jpg" alt="Ads Are Coming to ChatGPT. Here’s How They’ll Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-testing-ads-us/" target="_blank">Ads Are Coming to ChatGPT. Here’s How They’ll Work</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-16 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/863428/openai-chatgpt-shopping-ads-test" target="_blank">Ads are coming soon to ChatGPT, starting with shopping links</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-16 18:00</span>
             </div>
         </div>
 </div>
@@ -238,12 +238,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEZE34CWQ13BSFK762AA2ZPM/hero-image.jpg" alt="Why Everyone Thought We&#x27;d Be Shopping by Voice (and Why That Never Actually Happened)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/what-happened-to-shopping-by-voice?utm_medium=RSS" target="_blank">Why Everyone Thought We&#x27;d Be Shopping by Voice (and Why That Never Actually Happened)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-16 20:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/Pokemon_Pokopia_Screenshot_14-1280x720.jpeg" alt="Pokémon Pokopia: Everything We Know About The Animal Crossing-Style Life Sim" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/pokemon-pokopia-release-date-switch-2-multiplayer-ditto-2000660646" target="_blank">Pokémon Pokopia: Everything We Know About The Animal Crossing-Style Life Sim</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-16 19:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Baychimo.jpg?fit=1200%2C775&amp;quality=60&amp;ssl=1" alt="The ghost ship that drifted the Arctic for 38 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/16/the-ghost-ship-that-drifted-the-arctic-for-38-years.html" target="_blank">The ghost ship that drifted the Arctic for 38 years</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-16 19:19</span>
             </div>
         </div>
 <div class="story">
@@ -271,24 +289,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-bridgerton-to-watch-next?utm_medium=RSS" target="_blank">15 Shows Like &#x27;Bridgerton&#x27; You Should Watch Next</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-16 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/iScanner-App.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Get lifetime access to the iScanner app for just $40" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/16/get-lifetime-access-to-the-iscanner-app-for-just-40.html" target="_blank">Get lifetime access to the iScanner app for just $40</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-16 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KF1KKB3K7ZPSR71AE99FZV1F/hero-image.jpg" alt="How to Protect Your Credit Cards From &#x27;Web Skimming&#x27; Scams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/how-to-protect-your-credit-cards-from-web-skimming-scams?utm_medium=RSS" target="_blank">How to Protect Your Credit Cards From &#x27;Web Skimming&#x27; Scams</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-16 15:30</span>
             </div>
         </div>
 </div>
@@ -337,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
