@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-16 19:03:25 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-16 20:02:11 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, January 16, 2026 - 19:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, January 16, 2026 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/16/us-says-canada-will-regret-decision-to-allow-chinese-evs-into-their-market?traffic_source=rss" target="_blank">US says Canada will regret decision to allow Chinese EVs into their market</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-16 19:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b43c/live/803dc740-f2ff-11f0-b2ab-f70ba525289e.jpg" alt="Police chief retires over Israeli fans ban row" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,20 +100,29 @@
                 <span class="time">2026-01-16 17:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/16/uganda-election-early-results-show-museveni-in-lead-as-violence-reported" target="_blank">Ugandan opposition MP says security forces stormed home killing 10 people</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-01-16 17:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/16/supreme-court-hacker-posted-stolen-government-data-on-instagram/" target="_blank">Supreme Court hacker posted stolen government data on Instagram</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-16 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_2659-1-500x500-1768591761.jpeg" alt="RAM shortage chaos expands to GPUs, high-capacity SSDs, and even hard drives" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/ram-shortage-chaos-expands-to-gpus-high-capacity-ssds-and-even-hard-drives/" target="_blank">RAM shortage chaos expands to GPUs, high-capacity SSDs, and even hard drives</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-16 19:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,24 +159,6 @@
                 <span class="time">2026-01-16 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/16/how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east/" target="_blank">How a hacking campaign targeted high-profile Gmail and WhatsApp users across the Middle East</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-16 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/tsmc_factory-500x500.jpg" alt="TSMC says AI demand is “endless” after record Q4 earnings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/01/tsmc-says-ai-demand-is-endless-after-record-q4-earnings/" target="_blank">TSMC says AI demand is “endless” after record Q4 earnings</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-16 16:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +171,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ThinkPad-Damaged-Device-Ready" target="_blank">Linux ThinkPad Driver Ready For Reporting Damage Device - Starting With Bad USB-C Ports</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-16 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/deere-sdk/i-built-a-typescript-sdk-for-john-deere-because-nobody-else-did-2eb6" target="_blank">I Built a TypeScript SDK for John Deere Because Nobody Else Did</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-16 19:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18837126&w=600" alt="IT Asset, Vulnerability, and Patch Management Best Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/it-assets-vulnerability-management-and-patches" target="_blank">IT Asset, Vulnerability, and Patch Management Best Practices</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-16 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -192,33 +216,6 @@
                 <span class="title"><a href="https://github.com/Pankajtanwarbanna/stfu" target="_blank">STFU</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-16 17:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/dotnet-10.jpg?resize=406%2C232&amp;ssl=1" alt="First .NET 10 Servicing Update Now Available in Ubuntu 24.04 LTS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/dotnet-10-0-1-update-ubuntu-24-04-lts" target="_blank">First .NET 10 Servicing Update Now Available in Ubuntu 24.04 LTS</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-16 17:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flywwg80wcrpo3ge8i7il.png" alt="Building a Local RAG AI Agent for Airline Reviews with Ollama" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/najilouis/building-a-local-rag-ai-agent-for-airline-reviews-with-ollama-2ik5" target="_blank">Building a Local RAG AI Agent for Airline Reviews with Ollama</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-16 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-8534p-2year-linux" target="_blank">AMD EPYC 8004 &quot;Siena&quot; Shows Some Nice Linux Performance Gains Over The Past Two Years</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-16 16:45</span>
             </div>
         </div>
 </div>
@@ -240,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/Pokemon_Pokopia_Screenshot_14-1280x720.jpeg" alt="Pokémon Pokopia: Everything We Know About The Animal Crossing-Style Life Sim" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-pokopia-release-date-switch-2-multiplayer-ditto-2000660646" target="_blank">Pokémon Pokopia: Everything We Know About The Animal Crossing-Style Life Sim</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-16 19:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/arc-raiders-banned.jpg" alt="Arc Raiders Starts Handing Out Brutal Permanent Bans To Its Worst Cheaters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +289,6 @@
                 <span class="title"><a href="https://lifehacker.com/money/how-to-protect-your-credit-cards-from-web-skimming-scams?utm_medium=RSS" target="_blank">How to Protect Your Credit Cards From &#x27;Web Skimming&#x27; Scams</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-16 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/govee-floor-lamp-2-1280x853.jpg" alt="Govee Is Offering Its Updated RGBIC Smart Lamp at a Major Discount, Now Cheaper Than a Standard Lamp" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/govee-is-offering-its-updated-rgbic-smart-lamp-at-a-major-discount-now-cheaper-than-a-standard-lamp-2000660309" target="_blank">Govee Is Offering Its Updated RGBIC Smart Lamp at a Major Discount, Now Cheaper Than a Standard Lamp</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-16 14:50</span>
             </div>
         </div>
 </div>
@@ -340,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 19:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 282 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
