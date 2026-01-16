@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-16 09:03:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-16 10:01:52 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, January 16, 2026 - 09:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, January 16, 2026 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/minn-1-rt-gmh-260115_1768491636317_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Renee Good shot in chest, forearm and head" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates/?id=129124338" target="_blank">Minneapolis ICE shooting live updates: Renee Good shot in chest, forearm and head</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-16 09:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/16/regained-momentum-sets-yemen-governments-eyes-on-houthis-in-the-north?traffic_source=rss" target="_blank">Regained momentum sets Yemen government’s eyes on Houthis in the north</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-16 09:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +101,20 @@
                 <span class="time">2026-01-16 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-maria-corina-machado_7136766.jpg?20260116043839" alt="Machado gave Trump her Nobel Peace Prize medal in pursuit of a greater prize" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/venezuelas-machado-gave-trump-her-gold-medal-in-pursuit-of-a-greater-prize-13494861" target="_blank">Machado gave Trump her Nobel Peace Prize medal in pursuit of a greater prize</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-16 03:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/16/us-seizes-sixth-tanker-as-venezuelas-interim-leader-vows-oil-sector-reform?traffic_source=rss" target="_blank">US seizes sixth tanker as Venezuela’s interim leader vows oil sector reform</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-16 03:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/" target="_blank">Anthropic taps former Microsoft India MD to lead Bengaluru expansion</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-16 07:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" alt="20% Off Brooks Promo Code &amp; Deals for January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,15 +158,6 @@
                 <span class="title"><a href="https://arstechnica.com/health/2026/01/big-pharma-is-openly-railing-against-rfk-jr-s-anti-vaccine-agenda/" target="_blank">“I am very annoyed”: Pharma execs blast RFK Jr.’s attack on vaccines</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-01-15 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/863046/natural-cycles-wristband-digital-birth-control" target="_blank">Natural Cycles launches wristband to replace thermometers for its FDA-cleared birth control app</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-15 22:46</span>
             </div>
         </div>
 </div>
@@ -295,6 +298,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/01/16/road-to-impressed" target="_blank">Road To Impressed</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-01-16 08:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5745.png" alt="The Slow Passage Of Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -317,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
