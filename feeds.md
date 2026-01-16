@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-16 11:01:41 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-16 12:02:27 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, January 16, 2026 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, January 16, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/16/why-the-gambia-wants-myanmar-punished-for-rohingya-genocide?traffic_source=rss" target="_blank">Why The Gambia wants Myanmar punished for Rohingya genocide</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-16 11:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/16/nx-s1-5679469/canada-cut-tariff-chinese-evs-canadian-farm-products" target="_blank">Canada agrees to cut tariff on Chinese EVs in return for lower tariffs on Canadian farm products</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-16 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +100,29 @@
                 <span class="time">2026-01-16 09:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/16/regained-momentum-sets-yemen-governments-eyes-on-houthis-in-the-north?traffic_source=rss" target="_blank">Regained momentum sets Yemen government’s eyes on Houthis in the north</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-16 09:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/1/16/photos-residents-of-kyiv-endure-freezing-conditions-due-to-power-outages?traffic_source=rss" target="_blank">Photos: Power outages leave people in freezing conditions in Kyiv</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-16 07:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/spacex-500x500.jpg" alt="Rocket Report: Ariane 64 to debut soon; India has a Falcon 9 clone too?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/01/rocket-report-ariane-64-to-debut-soon-india-has-a-falcon-9-clone-too/" target="_blank">Rocket Report: Ariane 64 to debut soon; India has a Falcon 9 clone too?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-16 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/696770c527e4d5dcaa4ce890/master/pass/Pluribus_Photo_010804.jpg" alt="How Does the Hive Mind Work in ‘Pluribus?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-does-the-hive-mind-work-in-pluribus/" target="_blank">How Does the Hive Mind Work in ‘Pluribus?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-16 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,24 +159,6 @@
                 <span class="time">2026-01-16 04:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/" target="_blank">AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-16 00:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/11/GettyImages-1232477788-500x500.jpeg" alt="“I am very annoyed”: Pharma execs blast RFK Jr.’s attack on vaccines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/01/big-pharma-is-openly-railing-against-rfk-jr-s-anti-vaccine-agenda/" target="_blank">“I am very annoyed”: Pharma execs blast RFK Jr.’s attack on vaccines</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-15 23:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +171,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ficm53vu3fezyvh46gknd.png" alt="Incident Memory System Building a Self-Learning, Self-Healing AWS Operations Engine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shree_abhijeet/incident-memory-system-building-a-self-learning-self-healing-aws-operations-engine-4b44" target="_blank">Incident Memory System Building a Self-Learning, Self-Healing AWS Operations Engine</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-16 11:51</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +218,6 @@
                 <span class="time">2026-01-16 04:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/badmonster0/i-built-a-real-time-hackernews-trend-radar-with-ai-and-it-runs-itself-1apm" target="_blank">I Built a Real-Time HackerNews Trend Radar With AI (And It Runs Itself)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-16 03:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Solo-a-Star-Wars-Story-1280x853.jpg" alt="Maybe a Han Solo Movie Wasn’t a Great Idea, Admits Kathleen Kennedy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/maybe-a-han-solo-movie-wasnt-a-great-idea-admits-kathleen-kennedy-2000710907" target="_blank">Maybe a Han Solo Movie Wasn’t a Great Idea, Admits Kathleen Kennedy</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-16 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/shutterstock_1430014880-1-e1749661914914.jpg?fit=768%2C532&amp;quality=60&amp;ssl=1" alt="LA City Council asks LAPD to relax and treat riot gear as a last resort" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +291,6 @@
                 <span class="time">2026-01-15 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KDNBSRSHKRHDFRYRE32T83BF/hero-image.jpg" alt="You Might Soon Be Able to Change Your Gmail Address" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/you-might-soon-be-able-to-change-gmail-address?utm_medium=RSS" target="_blank">You Might Soon Be Able to Change Your Gmail Address</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-15 21:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 283 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
