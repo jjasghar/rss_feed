@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-16 13:13:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-16 14:02:36 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, January 16, 2026 - 13:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, January 16, 2026 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +104,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/696580c8d1c95de496d7b4e4/master/pass/Made-In-China-Why-Everyone-Suddenly-in-a-Very-Chinese-Time-of-My-Life-Business.jpg" alt="Why Everyone Is Suddenly in a ‘Very Chinese Time’ in Their Lives" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/made-in-china-chinese-time-of-my-life/" target="_blank">Why Everyone Is Suddenly in a ‘Very Chinese Time’ in Their Lives</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-16 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/863319/highlights-musk-v-altman-openai" target="_blank">‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-16 13:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -137,24 +157,6 @@
                 <span class="time">2026-01-16 07:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" alt="20% Off Brooks Promo Code &amp; Deals for January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/brooks-promo-code/" target="_blank">20% Off Brooks Promo Code &amp; Deals for January 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-16 07:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" alt="30% VistaPrint Coupon &amp; Promo Codes | January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/vistaprint-coupon-code/" target="_blank">30% VistaPrint Coupon &amp; Promo Codes | January 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-16 06:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +169,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jahongir2007/how-to-create-otp-flow-system-on-nodejs-step-by-step-mcg" target="_blank">How to create OTP flow system on Node.js (step-by- step)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-16 13:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.04-Faster-NVIDIA" target="_blank">Ubuntu 26.04 Aims To Deliver Better NVIDIA Wayland Performance Atop GNOME</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-16 13:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/local-desktop/" target="_blank">Android Power Users Can Now Run Full Desktop Linux Environments Without Root Access</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-16 13:08</span>
             </div>
         </div>
 <div class="story">
@@ -187,38 +216,20 @@
                 <span class="time">2026-01-16 12:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/cloudflare-resilience-plan/en/headerimage/generatedHeaderImage-1768039481376.jpg" alt="Cloudflare Launches ‘Code Orange: Fail Small’ Resilience Plan After Multiple Global Outages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/cloudflare-resilience-plan/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Launches ‘Code Orange: Fail Small’ Resilience Plan After Multiple Global Outages</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-16 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ficm53vu3fezyvh46gknd.png" alt="Incident Memory System Building a Self-Learning, Self-Healing AWS Operations Engine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shree_abhijeet/incident-memory-system-building-a-self-learning-self-healing-aws-operations-engine-4b44" target="_blank">Incident Memory System Building a Self-Learning, Self-Healing AWS Operations Engine</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-16 11:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/01/16/how-aws-re-invented-the-cloud/" target="_blank">How AWS re:Invented the cloud</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-01-16 08:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/New-World-1280x720.jpg" alt="Rust Exec Reacts To Amazon Killing New World: ‘Games Should Never Die’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/new-world-mmo-servers-rust-facepunch-amazon-2000660558" target="_blank">Rust Exec Reacts To Amazon Killing New World: ‘Games Should Never Die’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-16 13:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/the_room_blockbuster_original.png?fit=1600%2C1209&amp;quality=55&amp;ssl=1" alt="Print out nostalgic VHS inserts with the Blockbuster Sleeve Generator" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +275,6 @@
                 <span class="time">2026-01-15 23:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KF1VCPBQQVEYEP14708NDPYC/hero-image.png" alt="This Entry-Level Samsung OLED TV Just Got Even Cheaper" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-oled-tv-s85f-deal-january-2026?utm_medium=RSS" target="_blank">This Entry-Level Samsung OLED TV Just Got Even Cheaper</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-15 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
