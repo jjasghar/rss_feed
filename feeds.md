@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-16 18:02:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-16 19:03:25 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, January 16, 2026 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, January 16, 2026 - 19:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b43c/live/803dc740-f2ff-11f0-b2ab-f70ba525289e.jpg" alt="Police chief retires over Israeli fans ban row" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c77k670ez6yo?at_medium=RSS&at_campaign=rss" target="_blank">Police chief retires over Israeli fans ban row</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-16 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/minn-3-ap-gmh-260115_1768571776233_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Trump says officials have &#x27;lost control&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates/?id=129124338" target="_blank">Minneapolis ICE shooting live updates: Trump says officials have &#x27;lost control&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-16 18:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/16/nx-s1-5678967/drug-addiction-prison-jails-overdose-vulnerability-opioid-medication-treatment" target="_blank">For those with addiction, going into and coming out of prison can be a minefield.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-16 18:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/1/16/what-are-the-hurdles-to-implementing-phase-two-of-gaza-ceasefire?traffic_source=rss" target="_blank">What are the hurdles to implementing phase two of Gaza ceasefire?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-16 18:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c634/live/073bf860-f2f7-11f0-9a08-61d9f795eeed.jpg" alt="Exiled crown prince urges world to help protesters topple Iran&#x27;s government" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -60,47 +103,38 @@
                 <span class="time">2026-01-16 17:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/16/nx-s1-5680094/december-planet-money-board-game-update-sasquatch" target="_blank">December board game update</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-16 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260116-Renee-Good-rs-c47946.jpg" alt="Minneapolis reports reveal chaotic moments after ICE officer fatally shot Renee Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/minneapolis-police-fire-department-reports-reveal-chaotic-moments-ice-rcna254362" target="_blank">Minneapolis reports reveal chaotic moments after ICE officer fatally shot Renee Good</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-16 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f7/live/9e316900-f2eb-11f0-b5f7-49f0357294ff.jpg" alt="Hospital violated trans complaint nurses&#x27; dignity, tribunal rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0jv9l5n32zo?at_medium=RSS&at_campaign=rss" target="_blank">Hospital violated trans complaint nurses&#x27; dignity, tribunal rules</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-16 15:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/digidocs/2026/1/16/aje-onl-digidocs_theunknown-150126?traffic_source=rss" target="_blank">The Unknown: A Filmmaker’s Search for Lost Connections</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-16 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/video/the-ai-healthcare-gold-rush-is-here/" target="_blank">The AI healthcare gold rush is here</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-16 18:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/863554/visible-verizon-outage-credit-january-2026" target="_blank">Verizon-owned Visible is offering outage credits, too</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-16 18:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6969e23027d67473e4bb6b79/master/pass/GettyImages-2253746109.jpg" alt="Ads Are Coming to ChatGPT. Here’s How They’ll Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-testing-ads-us/" target="_blank">Ads Are Coming to ChatGPT. Here’s How They’ll Work</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-16 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -128,33 +162,6 @@
                 <span class="time">2026-01-16 16:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/863393/canada-china-ev-import-trade-deal-us-trump-tariffs" target="_blank">Canada is going to start importing Chinese EVs — will the US follow?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-16 16:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69698c37b8df1f891caafa19/master/pass/Backchannel-Former-USDS-Set-to-Fix-what-DOGE-Broke-Business-2199882528.jpg" alt="Former USDS Leaders Launch Tech Reform Project to Fix What DOGE Broke" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/former-usds-leaders-launch-tech-reform-project-doge/" target="_blank">Former USDS Leaders Launch Tech Reform Project to Fix What DOGE Broke</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-16 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/16/youtube-relaxes-monetization-guidelines-for-some-controversial-topics/" target="_blank">YouTube relaxes monetization guidelines for some controversial topics</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-16 15:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +174,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18837123&w=600" alt="Speeding Up BigQuery Reads in Apache Beam/Dataflow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/bigquery-read-optimization-beam-dataflow" target="_blank">Speeding Up BigQuery Reads in Apache Beam/Dataflow</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-16 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/Pankajtanwarbanna/stfu" target="_blank">STFU</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-16 17:32</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +221,6 @@
                 <span class="time">2026-01-16 16:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/arkregex-introduced-typescript/en/headerimage/header-1762364329894-1768562484523.jpg" alt="ArkType Introduces ArkRegex with Type Safe Regular Expressions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/arkregex-introduced-typescript/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">ArkType Introduces ArkRegex with Type Safe Regular Expressions</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-16 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/andrewhoule/things-i-wish-i-knew-when-i-started-my-business-3c9e" target="_blank">Things I Wish I Knew When I Started My Business</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-16 15:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/arc-raiders-banned.jpg" alt="Arc Raiders Starts Handing Out Brutal Permanent Bans To Its Worst Cheaters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/arc-raiders-permanent-bans-cheaters-stream-sniping-2000660615" target="_blank">Arc Raiders Starts Handing Out Brutal Permanent Bans To Its Worst Cheaters</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-16 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/Kratos-stares-1280x720.jpg" alt="Why The God Of War Casting Has Me Worried" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +292,6 @@
                 <span class="title"><a href="https://kotaku.com/govee-is-offering-its-updated-rgbic-smart-lamp-at-a-major-discount-now-cheaper-than-a-standard-lamp-2000660309" target="_blank">Govee Is Offering Its Updated RGBIC Smart Lamp at a Major Discount, Now Cheaper Than a Standard Lamp</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-16 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Starlink-1280x853.jpg" alt="China’s Proposed Megaconstellations Would Flood Orbit With 200,000 Satellites" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/china-wants-to-launch-200000-satellites-to-earth-orbit-outnumbering-all-other-constellations-2000710704" target="_blank">China’s Proposed Megaconstellations Would Flood Orbit With 200,000 Satellites</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-16 14:45</span>
             </div>
         </div>
 </div>
@@ -333,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 19:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
