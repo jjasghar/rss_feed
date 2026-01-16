@@ -1,29 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-01-16 02:37:24 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-16 03:29:40 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, January 16, 2026 - 02:37 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, January 16, 2026 - 03:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/16/un-security-council-holds-emergency-meeting-on-deadly-protests-in-iran?traffic_source=rss" target="_blank">UN Security Council holds emergency meeting on deadly protests in Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-16 02:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/16/trump-welcomes-venezuelas-maria-corina-machado-in-closed-door-meeting?traffic_source=rss" target="_blank">Trump welcomes Venezuela’s Maria Corina Machado in closed-door meeting</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-16 01:54</span>
@@ -55,6 +66,15 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/violent-clashes-in-minneapolis-over-ice-operations-256058949576" target="_blank">Violent clashes in Minneapolis over ICE operations</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-01-16 00:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/15/nx-s1-5678969/doj-voter-data-california-dismissal" target="_blank">A federal judge dismisses the DOJ&#x27;s effort to get voter data from California</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-15 23:59</span>
             </div>
         </div>
 <div class="story">
@@ -73,24 +93,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss" target="_blank">Venezuelan Nobel Peace Prize winner presents her medal to Trump</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-15 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/minneapolis-ice-01-rt-jt-260115_1768511279515_hpMain_4x3t_384.jpg" alt="Majority of Americans say ICE agent’s shooting of Good was unjustified, inappropriate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/majority-americans-ice-agents-shooting-good-unjustified-inappropriate/story?id=129253596" target="_blank">Majority of Americans say ICE agent’s shooting of Good was unjustified, inappropriate</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-15 22:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768515353903_now_hallie_machado_trump_peace_prize_260115_1920x1080-sd3i2v.jpg" alt="Venezuela&#x27;s opposition leader says she &#x27;presented&#x27; Trump with her Nobel Peace Prize" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/machado-says-she-presented-trump-with-her-nobel-peace-prize-256050757782" target="_blank">Venezuela&#x27;s opposition leader says she &#x27;presented&#x27; Trump with her Nobel Peace Prize</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-15 22:16</span>
             </div>
         </div>
 </div>
@@ -170,6 +172,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/badmonster0/i-built-a-real-time-hackernews-trend-radar-with-ai-and-it-runs-itself-1apm" target="_blank">I Built a Real-Time HackerNews Trend Radar With AI (And It Runs Itself)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-16 03:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.undeadly.org/cgi?action=article;sid=20260115203619" target="_blank">OpenBSD-current now runs as guest under Apple Hypervisor</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-16 03:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/arina_cholee/how-a-small-engineering-team-secured-their-self-hosted-stack-with-safeline-waf-59cc" target="_blank">How a Small Engineering Team Secured Their Self-Hosted Stack with SafeLine WAF</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-16 02:25</span>
@@ -191,24 +211,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/opera-gx-linux-version-being-worked-on" target="_blank">Opera GX Gaming Browser is Coming to Linux</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-01-16 00:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/EndeavourOS-2026.01.12" target="_blank">EndeavourOS 2026.01.12 Released With Linux 6.18 LTS Kernel, NVIDIA Open Modules</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-15 22:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-aws-european-sovereign-cloud" target="_blank">Canonical Ubuntu and Ubuntu Pro now available on AWS European Sovereign Cloud</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-01-15 22:06</span>
             </div>
         </div>
 </div>
@@ -290,6 +292,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5745.png" alt="The Slow Passage Of Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5745" target="_blank">The Slow Passage Of Time</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-01-16 01:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1768281961-20260115.png" alt="Saturday Morning Breakfast Cereal - Basic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -303,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 02:37 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 03:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
