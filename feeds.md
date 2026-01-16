@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-16 15:02:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-16 16:02:08 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, January 16, 2026 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, January 16, 2026 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +109,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/16/youtube-relaxes-monetization-guidelines-for-some-controversial-topics/" target="_blank">YouTube relaxes monetization guidelines for some controversial topics</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-16 15:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/863144/optimizer-groov-insoles-shoes-wearables-wellness-placebo-tech" target="_blank">This 3D-scanned insole is another example of placebo tech</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-16 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/696580c8d1c95de496d7b4e4/master/pass/Made-In-China-Why-Everyone-Suddenly-in-a-Very-Chinese-Time-of-My-Life-Business.jpg" alt="Why Everyone Is Suddenly in a ‘Very Chinese Time’ in Their Lives" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -145,24 +162,6 @@
                 <span class="time">2026-01-16 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/696770c527e4d5dcaa4ce890/master/pass/Pluribus_Photo_010804.jpg" alt="How Does the Hive Mind Work in ‘Pluribus?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-does-the-hive-mind-work-in-pluribus/" target="_blank">How Does the Hive Mind Work in ‘Pluribus?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-16 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/" target="_blank">Anthropic taps former Microsoft India MD to lead Bengaluru expansion</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-16 07:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +174,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/andrewhoule/things-i-wish-i-knew-when-i-started-my-business-3c9e" target="_blank">Things I Wish I Knew When I Started My Business</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-16 15:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18837100&w=600" alt="From Chatbot to Agent: Implementing the ReAct Pattern in Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/chatbot-to-agent-react-pattern-python" target="_blank">From Chatbot to Agent: Implementing the ReAct Pattern in Python</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-16 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -204,22 +221,18 @@
                 <span class="time">2026-01-16 14:25</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Intel-TSX-Default" target="_blank">Linux 7.0 Looks To Enable Intel TSX By Default On Capable CPUs For Better Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-16 14:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18837072&w=600" alt="Parallel S3 Writes for Massive Sparse DataFrames: How to Maintain Row Order Without Blowing Memory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/parallel-s3-writes-massive-sparse-dataframes" target="_blank">Parallel S3 Writes for Massive Sparse DataFrames: How to Maintain Row Order Without Blowing Memory</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-16 14:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/ai-and-the-corporate-capture-of-knowledge.html" target="_blank">AI and the Corporate Capture of Knowledge</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-01-16 14:44</span>
             </div>
         </div>
 </div>
@@ -227,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KF1KKB3K7ZPSR71AE99FZV1F/hero-image.jpg" alt="How to Protect Your Credit Cards From &#x27;Web Skimming&#x27; Scams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/how-to-protect-your-credit-cards-from-web-skimming-scams?utm_medium=RSS" target="_blank">How to Protect Your Credit Cards From &#x27;Web Skimming&#x27; Scams</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-16 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/govee-floor-lamp-2-1280x853.jpg" alt="Govee Is Offering Its Updated RGBIC Smart Lamp at a Major Discount, Now Cheaper Than a Standard Lamp" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +294,6 @@
                 <span class="time">2026-01-16 12:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Solo-a-Star-Wars-Story-1280x853.jpg" alt="Maybe a Han Solo Movie Wasn’t a Great Idea, Admits Kathleen Kennedy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/maybe-a-han-solo-movie-wasnt-a-great-idea-admits-kathleen-kennedy-2000710907" target="_blank">Maybe a Han Solo Movie Wasn’t a Great Idea, Admits Kathleen Kennedy</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-16 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,6 +306,15 @@
                 <span class="title"><a href="https://www.penny-arcade.com/comic/2026/01/16/road-to-impressed" target="_blank">Road To Impressed</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-01-16 08:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/international_station.png" alt="International Station" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3195/" target="_blank">International Station</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-01-16 05:00</span>
             </div>
         </div>
 <div class="story">
@@ -318,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
