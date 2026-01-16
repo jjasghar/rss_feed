@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-16 05:04:31 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-01-16 06:02:24 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, January 16, 2026 - 05:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, January 16, 2026 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +110,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/861948/casting-netflix-dead" target="_blank">Casting is dead. Long live casting!</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-16 04:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/" target="_blank">AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp</a></span>
                 <span class="feed">TechCrunch</span>
@@ -146,15 +161,6 @@
                 <span class="time">2026-01-15 22:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/power-outage-electric-cord-500x500.jpg" alt="Why I’m withholding certainty that “precise” US cyber-op disrupted Venezuelan electricity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/01/unnamed-officials-tell-nyt-precise-cyber-op-took-out-venezuelas-power-grid/" target="_blank">Why I’m withholding certainty that “precise” US cyber-op disrupted Venezuelan electricity</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-15 21:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +173,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/01/16/how-aws-re-invented-the-cloud/" target="_blank">How AWS re:Invented the cloud</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-01-16 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fesyp2u5iztwsx6n7pc1d.jpg" alt="🧱 Building QRForge PRO with PySide6 (Beginner-Friendly Guide)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/matetechnologie/building-qrforge-pro-with-pyside6-beginner-friendly-guide-53kb" target="_blank">🧱 Building QRForge PRO with PySide6 (Beginner-Friendly Guide)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-16 05:59</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +218,6 @@
                 <span class="title"><a href="https://www.undeadly.org/cgi?action=article;sid=20260115203619" target="_blank">OpenBSD-current now runs as guest under Apple Hypervisor</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-16 03:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arina_cholee/how-a-small-engineering-team-secured-their-self-hosted-stack-with-safeline-waf-59cc" target="_blank">How a Small Engineering Team Secured Their Self-Hosted Stack with SafeLine WAF</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-16 02:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-50-Alpha" target="_blank">GNOME 50 Alpha Released With The X11 Code Gutted</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-16 01:45</span>
             </div>
         </div>
 </div>
@@ -315,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 05:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
