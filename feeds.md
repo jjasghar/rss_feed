@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-16 22:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-16 23:01:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, January 16, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, January 16, 2026 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +52,15 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2026/jan/16/uganda-election-early-results-show-museveni-in-lead-as-violence-reported" target="_blank">Uganda’s opposition leader ‘taken by army’ as Museveni nears re-election</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-01-16 21:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/16/nx-s1-5677712/ice-surge-sparks-fear-and-resistance-in-minneapolis" target="_blank">ICE surge sparks fear and resistance in Minneapolis</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-16 21:32</span>
             </div>
         </div>
 <div class="story">
@@ -90,20 +99,29 @@
                 <span class="time">2026-01-16 18:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/minn-3-ap-gmh-260115_1768571776233_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Trump says officials have &#x27;lost control&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates/?id=129124338" target="_blank">Minneapolis ICE shooting live updates: Trump says officials have &#x27;lost control&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-16 18:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Ubena_von_Bremen_Kiel2007_1_cropped-500x500.jpg" alt="Archaeologists find a supersized medieval shipwreck in Denmark" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/01/archaeologists-find-a-supersized-medieval-shipwreck-in-denmark/" target="_blank">Archaeologists find a supersized medieval shipwreck in Denmark</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-16 22:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/16/snowflake-databricks-challenger-clickhouse-hits-15b-valuation/" target="_blank">Snowflake, Databricks challenger ClickHouse hits $15B valuation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-16 22:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/library-shelves-500x500-1768598739.jpg" alt="Judge orders Anna’s Archive to delete scraped data; no one thinks it will comply" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,24 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/863620/data-centers-ai-power-auction-trump" target="_blank">Trump and Mid-Atlantic governors want tech companies to pay for new power plants</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-16 20:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/16/epa-rules-that-xais-natural-gas-generators-were-illegally-used/" target="_blank">EPA rules that xAI’s natural gas generators were illegally used</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-16 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/16/supreme-court-hacker-posted-stolen-government-data-on-instagram/" target="_blank">Supreme Court hacker posted stolen government data on Instagram</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-16 20:01</span>
             </div>
         </div>
 </div>
@@ -237,6 +237,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/TheScream.jpg?fit=1200%2C855&amp;quality=60&amp;ssl=1" alt="Scaphism: the ancient Persian execution where insects ate you alive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/16/scaphism-the-ancient-persian-execution-where-insects-ate-you-alive.html" target="_blank">Scaphism: the ancient Persian execution where insects ate you alive</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-16 22:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/anthropic-e1768598845926-1280x852.jpg" alt="Anthropic (an AI Company) Warns That AI Will Worsen Inequality" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -279,15 +288,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/16/the-ghost-ship-that-drifted-the-arctic-for-38-years.html" target="_blank">The ghost ship that drifted the Arctic for 38 years</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-16 19:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/arc-raiders-banned.jpg" alt="Arc Raiders Starts Handing Out Brutal Permanent Bans To Its Worst Cheaters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/arc-raiders-permanent-bans-cheaters-stream-sniping-2000660615" target="_blank">Arc Raiders Starts Handing Out Brutal Permanent Bans To Its Worst Cheaters</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-16 19:00</span>
             </div>
         </div>
 </div>
@@ -336,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
