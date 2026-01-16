@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-16 06:02:24 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-01-16 07:03:59 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, January 16, 2026 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, January 16, 2026 - 07:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,10 +45,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/16/nx-s1-5679424/venezuela-machado-nobel-prize-trump-meeting" target="_blank">Venezuela&#x27;s Machado says she presented her Nobel Peace Prize to Trump during their meeting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-16 06:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
                 <span class="title"><a href="https://www.theguardian.com/global-development/2026/jan/16/cloth-wraps-treated-with-insecticide-cut-malaria-cases-in-babies" target="_blank">Cloth wraps treated with ‘dirt cheap’ insecticide cut malaria cases in babies</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-01-16 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-maria-corina-machado_7136766.jpg?20260116043839" alt="Machado gave Trump her Nobel Peace Prize medal in pursuit of a greater prize" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/venezuelas-machado-gave-trump-her-gold-medal-in-pursuit-of-a-greater-prize-13494861" target="_blank">Machado gave Trump her Nobel Peace Prize medal in pursuit of a greater prize</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-16 03:44</span>
             </div>
         </div>
 <div class="story">
@@ -84,29 +96,20 @@
                 <span class="time">2026-01-16 01:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768527609150_nn_sbr_ICE_minneapolis_260115_1920x1080-p21f9z.jpg" alt="Violent clashes in Minneapolis over ICE operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/violent-clashes-in-minneapolis-over-ice-operations-256058949576" target="_blank">Violent clashes in Minneapolis over ICE operations</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-16 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/15/nx-s1-5678969/doj-voter-data-california-dismissal" target="_blank">A federal judge dismisses the DOJ&#x27;s effort to get voter data from California</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-15 23:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" alt="30% VistaPrint Coupon &amp; Promo Codes | January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/vistaprint-coupon-code/" target="_blank">30% VistaPrint Coupon &amp; Promo Codes | January 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-16 06:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +155,6 @@
                 <span class="time">2026-01-15 22:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/" target="_blank">The AI lab revolving door spins ever faster</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-15 22:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -182,6 +176,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/01/16/how-aws-re-invented-the-cloud/" target="_blank">How AWS re:Invented the cloud</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-01-16 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/explain-the-basic-concepts-of-generative-ai-1gcb" target="_blank">Explain The Basic Concepts of Generative AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-16 06:48</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/badmonster0/i-built-a-real-time-hackernews-trend-radar-with-ai-and-it-runs-itself-1apm" target="_blank">I Built a Real-Time HackerNews Trend Radar With AI (And It Runs Itself)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-16 03:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.undeadly.org/cgi?action=article;sid=20260115203619" target="_blank">OpenBSD-current now runs as guest under Apple Hypervisor</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-16 03:10</span>
             </div>
         </div>
 </div>
@@ -321,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 07:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
