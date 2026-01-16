@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-16 21:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-16 22:01:38 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, January 16, 2026 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, January 16, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/16/uganda-election-early-results-show-museveni-in-lead-as-violence-reported" target="_blank">Uganda’s opposition leader ‘taken by army’ as Museveni nears re-election</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-16 21:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260115-ice-shootings-lr-db8fd6.jpg" alt="Trump&#x27;s DHS has shot 11 people during immigration enforcement operations since September" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immigration-operations-rcna254202" target="_blank">Trump&#x27;s DHS has shot 11 people during immigration enforcement operations since September</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-16 21:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +99,38 @@
                 <span class="time">2026-01-16 18:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/16/nx-s1-5678967/drug-addiction-prison-jails-overdose-vulnerability-opioid-medication-treatment" target="_blank">For those with addiction, going into and coming out of prison can be a minefield.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-16 18:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/1/16/what-are-the-hurdles-to-implementing-phase-two-of-gaza-ceasefire?traffic_source=rss" target="_blank">What are the hurdles to implementing phase two of Gaza ceasefire?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-16 18:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/library-shelves-500x500-1768598739.jpg" alt="Judge orders Anna’s Archive to delete scraped data; no one thinks it will comply" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/judge-orders-annas-archive-to-delete-scraped-data-no-one-thinks-it-will-comply/" target="_blank">Judge orders Anna’s Archive to delete scraped data; no one thinks it will comply</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-16 21:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/16/tiktok-quietly-launches-a-micro-drama-app-called-pinedrama/" target="_blank">TikTok quietly launches a microdrama app called ‘PineDrama’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-16 21:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/696a850de87333c2e62100d6/master/pass/Our%20Favorite%20Compact%20Power%20Station%20Is%20$100%20Off.png" alt="Our Favorite Compact Power Station Is on Sale for 33% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/jackery-explorer-300-plus-deal-126/" target="_blank">Our Favorite Compact Power Station Is on Sale for 33% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-16 21:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,33 +158,6 @@
                 <span class="time">2026-01-16 20:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_2659-1-500x500-1768591761.jpeg" alt="RAM shortage chaos expands to GPUs, high-capacity SSDs, and even hard drives" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/ram-shortage-chaos-expands-to-gpus-high-capacity-ssds-and-even-hard-drives/" target="_blank">RAM shortage chaos expands to GPUs, high-capacity SSDs, and even hard drives</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-16 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/video/the-ai-healthcare-gold-rush-is-here/" target="_blank">The AI healthcare gold rush is here</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-16 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/863554/visible-verizon-outage-credit-january-2026" target="_blank">Verizon-owned Visible is offering outage credits, too</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-16 18:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +170,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Adobe-Photoshop-2025-Wine-Patch" target="_blank">Adobe Photoshop 2025 Installer Now Working On Linux With Patched Wine</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-16 21:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18837132&w=600" alt="RAG at Scale: The Data Engineering Challenges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/rag-at-scale-data-engineering-challenges" target="_blank">RAG at Scale: The Data Engineering Challenges</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-16 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +217,6 @@
                 <span class="time">2026-01-16 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18837123&w=600" alt="Speeding Up BigQuery Reads in Apache Beam/Dataflow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/bigquery-read-optimization-beam-dataflow" target="_blank">Speeding Up BigQuery Reads in Apache Beam/Dataflow</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-16 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/Pankajtanwarbanna/stfu" target="_blank">STFU</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-16 17:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/anthropic-e1768598845926-1280x852.jpg" alt="Anthropic (an AI Company) Warns That AI Will Worsen Inequality" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/anthropic-an-ai-company-warns-that-ai-will-worsen-inequality-2000710841" target="_blank">Anthropic (an AI Company) Warns That AI Will Worsen Inequality</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-16 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/jayden-scott.jpg?fit=1200%2C908&amp;quality=60&amp;ssl=1" alt="&quot;We executed one of you&quot; guy now facing child custody arrest warrant in Michigan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/16/we-executed-one-of-you-guy-now-facing-child-custody-arrest-warrant-in-michigan.html" target="_blank">&quot;We executed one of you&quot; guy now facing child custody arrest warrant in Michigan</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-16 21:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KEZE34CWQ13BSFK762AA2ZPM/hero-image.jpg" alt="Why Everyone Thought We&#x27;d Be Shopping by Voice (and Why That Never Actually Happened)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/arc-raiders-permanent-bans-cheaters-stream-sniping-2000660615" target="_blank">Arc Raiders Starts Handing Out Brutal Permanent Bans To Its Worst Cheaters</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-16 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/Kratos-stares-1280x720.jpg" alt="Why The God Of War Casting Has Me Worried" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/god-of-war-casting-kratos-ryan-hurst-amazon-tv-series-2000660584" target="_blank">Why The God Of War Casting Has Me Worried</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-16 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KF1CR6JBZ1C2NCQPA8GWRMGC/hero-image.jpg" alt="15 Shows Like &#x27;Bridgerton&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-bridgerton-to-watch-next?utm_medium=RSS" target="_blank">15 Shows Like &#x27;Bridgerton&#x27; You Should Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-16 16:30</span>
             </div>
         </div>
 </div>
@@ -337,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
