@@ -1,32 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-01-16 01:29:52 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-01-16 02:37:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, January 16, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, January 16, 2026 - 02:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/16/trump-welcomes-venezuelas-maria-corina-machado-in-closed-door-meeting?traffic_source=rss" target="_blank">Trump welcomes Venezuela’s Maria Corina Machado in closed-door meeting</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-16 01:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768527609150_nn_sbr_ICE_minneapolis_260115_1920x1080-p21f9z.jpg" alt="Violent clashes in Minneapolis over ICE operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/violent-clashes-in-minneapolis-over-ice-operations-256058949576" target="_blank">Violent clashes in Minneapolis over ICE operations</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-16 00:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/minn-1-rt-gmh-260115_1768491636317_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Tear gas deployed outside fed building protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -61,6 +76,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/minneapolis-ice-01-rt-jt-260115_1768511279515_hpMain_4x3t_384.jpg" alt="Majority of Americans say ICE agent’s shooting of Good was unjustified, inappropriate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/majority-americans-ice-agents-shooting-good-unjustified-inappropriate/story?id=129253596" target="_blank">Majority of Americans say ICE agent’s shooting of Good was unjustified, inappropriate</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-15 22:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768515353903_now_hallie_machado_trump_peace_prize_260115_1920x1080-sd3i2v.jpg" alt="Venezuela&#x27;s opposition leader says she &#x27;presented&#x27; Trump with her Nobel Peace Prize" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -69,38 +93,20 @@
                 <span class="time">2026-01-15 22:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/15/israel-kills-six-in-gaza-as-us-declares-phase-two-of-peace-plan-launched?traffic_source=rss" target="_blank">Israel kills 8 in Gaza as US declares phase two of ceasefire deal launched</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-15 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faf6/live/6b705ef0-f24f-11f0-a422-4ba8a094a8fa.jpg" alt="Jenrick defects to Reform UK after being sacked by Tories" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyrpdy42n1o?at_medium=RSS&at_campaign=rss" target="_blank">Jenrick defects to Reform UK after being sacked by Tories</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-15 20:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/15/nx-s1-5678654/trump-great-healthcare-plan-video-announcement-aca-premiums" target="_blank">Trump health care plan doesn&#x27;t help people facing skyrocketing ACA premiums</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-15 20:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/" target="_blank">AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-16 00:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/11/GettyImages-1232477788-500x500.jpeg" alt="“I am very annoyed”: Pharma execs blast RFK Jr.’s attack on vaccines" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,15 +152,6 @@
                 <span class="time">2026-01-15 21:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/55042362006_eb0e4d16ab_k-500x500.jpg" alt="NASA’s first-ever medical evacuation from space ends with on-target splashdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/01/nasas-first-ever-medical-evacuation-from-space-ends-with-on-target-splashdown/" target="_blank">NASA’s first-ever medical evacuation from space ends with on-target splashdown</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-15 20:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,12 +167,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arina_cholee/how-a-small-engineering-team-secured-their-self-hosted-stack-with-safeline-waf-59cc" target="_blank">How a Small Engineering Team Secured Their Self-Hosted Stack with SafeLine WAF</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-16 02:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fww3zqigeiy1975bmjw8j.jpg" alt="Computer Science PvP: A Meta-Strat for countering lategame Functional Bro Dual-Wielder builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rkeeves/computer-science-pvp-a-meta-strat-for-countering-lategame-functional-bro-dual-wielder-builds-5d8" target="_blank">Computer Science PvP: A Meta-Strat for countering lategame Functional Bro Dual-Wielder builds</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-16 01:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/opera-gx.jpg?resize=406%2C232&amp;ssl=1" alt="Opera GX Gaming Browser is Coming to Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/opera-gx-linux-version-being-worked-on" target="_blank">Opera GX Gaming Browser is Coming to Linux</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-16 00:21</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +209,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/ubuntu-aws-european-sovereign-cloud" target="_blank">Canonical Ubuntu and Ubuntu Pro now available on AWS European Sovereign Cloud</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-01-15 22:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aragossa/please-stop-redirecting-to-login-on-401-errors-3c0l" target="_blank">Please, Stop Redirecting to Login on 401 Errors 🛑</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-15 21:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/building-an-agentic-memory-system-for-github-copilot/" target="_blank">Building an agentic memory system for GitHub Copilot</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-01-15 21:31</span>
             </div>
         </div>
 </div>
@@ -233,6 +230,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/shutterstock_1430014880-1-e1749661914914.jpg?fit=768%2C532&amp;quality=60&amp;ssl=1" alt="LA City Council asks LAPD to relax and treat riot gear as a last resort" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/15/la-city-council-asks-lapd-to-relax-and-treat-riot-gear-as-a-last-resort.html" target="_blank">LA City Council asks LAPD to relax and treat riot gear as a last resort</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-16 00:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/The_Boy_Wot_Visits_The_Palace.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="A teenager kept sneaking into Buckingham Palace to &quot;see how royals lived&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +284,6 @@
                 <span class="time">2026-01-15 21:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/mcu-shows-1280x853.jpg" alt="Five Years Later, Has the MCU’s TV Excursion Worked?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/five-years-later-has-the-mcus-tv-excursion-worked-2000709110" target="_blank">Five Years Later, Has the MCU’s TV Excursion Worked?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-15 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,22 +298,13 @@
                 <span class="time">2026-01-15 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5744.png" alt="The Older, Wiser Sister" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5744" target="_blank">The Older, Wiser Sister</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-01-15 01:47</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 02:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
