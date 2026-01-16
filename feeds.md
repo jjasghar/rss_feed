@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-16 03:29:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-16 04:14:57 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, January 16, 2026 - 03:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, January 16, 2026 - 04:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/16/us-seizes-sixth-tanker-as-venezuelas-interim-leader-vows-oil-sector-reform?traffic_source=rss" target="_blank">US seizes sixth tanker as Venezuela’s interim leader vows oil sector reform</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-16 03:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +99,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates/?id=129124338" target="_blank">Minneapolis ICE shooting live updates: Tear gas deployed outside fed building protest</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-15 22:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c95/live/982df2b0-f257-11f0-b701-f5326e98c6e3.jpg" alt="Venezuelan Nobel Peace Prize winner presents her medal to Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss" target="_blank">Venezuelan Nobel Peace Prize winner presents her medal to Trump</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-15 22:40</span>
             </div>
         </div>
 </div>
@@ -172,6 +178,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rushikesh_bodakhe_db28644/looking-for-collaborators-to-build-a-developer-tool-vizora-2pd8" target="_blank">Looking for collaborators to build a developer tool (Vizora)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-16 04:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/badmonster0/i-built-a-real-time-hackernews-trend-radar-with-ai-and-it-runs-itself-1apm" target="_blank">I Built a Real-Time HackerNews Trend Radar With AI (And It Runs Itself)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-16 03:11</span>
@@ -196,21 +211,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fww3zqigeiy1975bmjw8j.jpg" alt="Computer Science PvP: A Meta-Strat for countering lategame Functional Bro Dual-Wielder builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rkeeves/computer-science-pvp-a-meta-strat-for-countering-lategame-functional-bro-dual-wielder-builds-5d8" target="_blank">Computer Science PvP: A Meta-Strat for countering lategame Functional Bro Dual-Wielder builds</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-16 01:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/opera-gx.jpg?resize=406%2C232&amp;ssl=1" alt="Opera GX Gaming Browser is Coming to Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/opera-gx-linux-version-being-worked-on" target="_blank">Opera GX Gaming Browser is Coming to Linux</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-16 00:21</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-50-Alpha" target="_blank">GNOME 50 Alpha Released With The X11 Code Gutted</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-16 01:45</span>
             </div>
         </div>
 </div>
@@ -239,6 +245,15 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/15/la-city-council-asks-lapd-to-relax-and-treat-riot-gear-as-a-last-resort.html" target="_blank">LA City Council asks LAPD to relax and treat riot gear as a last resort</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-16 00:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/star-wars-starfighter-ryan-gosling-1280x853.jpg" alt="Kathleen Kennedy Gives Some Intriguing ‘Star Wars’ Movie Updates After Her Lucasfilm Exit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/kathleen-kennedy-gives-some-intriguing-star-wars-movie-updates-after-her-lucasfilm-exit-2000710897" target="_blank">Kathleen Kennedy Gives Some Intriguing ‘Star Wars’ Movie Updates After Her Lucasfilm Exit</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-15 23:40</span>
             </div>
         </div>
 <div class="story">
@@ -277,15 +292,6 @@
                 <span class="time">2026-01-15 21:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2020/04/gu9fjx3yu0oqlb2bxkwr.jpg" alt="Final Fantasy VII Remake Is Getting A New Mode Where Every Hit Does 9,999 Damage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/final-fantasy-7-remake-update-switch-2-difficulty-2000660271" target="_blank">Final Fantasy VII Remake Is Getting A New Mode Where Every Hit Does 9,999 Damage</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-15 21:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 03:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 04:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
