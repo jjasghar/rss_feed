@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-16 12:02:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-16 13:13:35 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, January 16, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, January 16, 2026 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/digidocs/2026/1/16/aje-onl-digidocs_theunknown-150126?traffic_source=rss" target="_blank">The Unknown: A Filmmaker’s Search for Lost Connections</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-16 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/16/g-s1-106275/up-first-newsletter-minneapolis-protests-venezuela-opposition-trump-health-care-plan" target="_blank">Trump threatens military action in Minneapolis. And, inside his healthcare plan</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-16 12:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +96,20 @@
                 <span class="time">2026-01-16 10:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/16/g-s1-106110/greenland-denmark-nasa-grok-star-trek-golden-globes" target="_blank">What do eggs, Grok and Greenland have in common? They&#x27;re all quiz-worthy! Are you?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-16 10:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/minn-1-rt-gmh-260115_1768491636317_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Renee Good shot in chest, forearm and head" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates/?id=129124338" target="_blank">Minneapolis ICE shooting live updates: Renee Good shot in chest, forearm and head</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-16 09:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/863297/asus-pr-mess-rtx-5070-ti-end-of-life-statements-memory-shortages" target="_blank">Asus now claims it&amp;#8217;s not dropping the RTX 5070 Ti amid memory shortages</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-16 12:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/spacex-500x500.jpg" alt="Rocket Report: Ariane 64 to debut soon; India has a Falcon 9 clone too?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +155,6 @@
                 <span class="time">2026-01-16 06:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/861948/casting-netflix-dead" target="_blank">Casting is dead. Long live casting!</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-16 04:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +167,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq15adlrheqtsyuobbh46.gif" alt="Mastering LangChain Expression Language (LCEL): Branching, Parallelism, and Streaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/harishkotra/mastering-langchain-expression-language-lcel-branching-parallelism-and-streaming-1md5" target="_blank">Mastering LangChain Expression Language (LCEL): Branching, Parallelism, and Streaming</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-16 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://justthebrowser.com/" target="_blank">Just the Browser</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-16 12:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/cloudflare-resilience-plan/en/headerimage/generatedHeaderImage-1768039481376.jpg" alt="Cloudflare Launches ‘Code Orange: Fail Small’ Resilience Plan After Multiple Global Outages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/cloudflare-resilience-plan/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Launches ‘Code Orange: Fail Small’ Resilience Plan After Multiple Global Outages</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-16 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -191,52 +214,20 @@
                 <span class="time">2026-01-16 08:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/explain-the-basic-concepts-of-generative-ai-1gcb" target="_blank">Explain The Basic Concepts of Generative AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-16 06:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fesyp2u5iztwsx6n7pc1d.jpg" alt="🧱 Building QRForge PRO with PySide6 (Beginner-Friendly Guide)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/matetechnologie/building-qrforge-pro-with-pyside6-beginner-friendly-guide-53kb" target="_blank">🧱 Building QRForge PRO with PySide6 (Beginner-Friendly Guide)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-16 05:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rushikesh_bodakhe_db28644/looking-for-collaborators-to-build-a-developer-tool-vizora-2pd8" target="_blank">Looking for collaborators to build a developer tool (Vizora)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-16 04:11</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/new-vulnerability-in-n8n.html" target="_blank">New Vulnerability in n8n</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-01-15 12:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/the_room_blockbuster_original.png?fit=1600%2C1209&amp;quality=55&amp;ssl=1" alt="Print out nostalgic VHS inserts with the Blockbuster Sleeve Generator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/16/print-out-nostalgic-vhs-inserts-with-the-blockbuster-sleeve-generator.html" target="_blank">Print out nostalgic VHS inserts with the Blockbuster Sleeve Generator</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-16 12:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Solo-a-Star-Wars-Story-1280x853.jpg" alt="Maybe a Han Solo Movie Wasn’t a Great Idea, Admits Kathleen Kennedy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +273,6 @@
                 <span class="time">2026-01-15 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/All-You-Need-Is-Kill-io9-2025-review-1280x853.jpg" alt="‘All You Need Is Kill’ Spins a Trippy, Heart‑Flecked Loop That Only Partially Lands" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/all-you-need-is-kill-spins-a-trippy-heart%e2%80%91flecked-loop-that-only-partially-lands-2000707828" target="_blank">‘All You Need Is Kill’ Spins a Trippy, Heart‑Flecked Loop That Only Partially Lands</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-15 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 283 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 282 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
