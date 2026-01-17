@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-17 13:09:44 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-17 14:01:42 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, January 17, 2026 - 13:09 UTC</div>
+    <div class="newspaper-date">Saturday, January 17, 2026 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c884/live/7349b990-f39a-11f0-9212-79f406d84709.jpg" alt="Iran supreme leader blames US for deadly protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckglee733wno?at_medium=RSS&at_campaign=rss" target="_blank">Iran supreme leader blames US for deadly protests</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-17 13:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/uk-news/2026/jan/17/afcon-little-morocco-london-confidence-high" target="_blank">Confidence runs high in London’s Little Morocco as Afcon glory beckons</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-17 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +104,20 @@
                 <span class="time">2026-01-17 07:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/environment/2026/jan/17/twin-baby-mountain-gorilla-virunga-drc-survival-conservation-aoe" target="_blank">Rare twins born in DRC raise cautious hope for endangered mountain gorillas</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-01-17 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/16/g-s1-106374/immigration-peaceful-protesters" target="_blank">Judge rules immigration officers in Minneapolis can&#x27;t detain peaceful protesters</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-17 04:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/860917/big-hops-review-pc-nintendo-switch-ps5" target="_blank">A cute frog game that remixes Nintendo&amp;#8217;s best</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-17 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68d1a8a2627fe89f30b86df5/master/pass/The%20Best%20External%20Hard%20Drives.png" alt="Best External Hard Drive (2026): SSD to Store Data, Video &amp; More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -113,6 +125,15 @@
                 <span class="title"><a href="https://www.wired.com/story/best-portable-external-storage-drives/" target="_blank">Best External Hard Drive (2026): SSD to Store Data, Video &amp; More</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-01-17 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/06_Lifestyle-500x500.jpg" alt="Meta’s layoffs leave Supernatural fitness users in mourning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/metas-layoffs-leave-supernatural-fitness-users-in-mourning/" target="_blank">Meta’s layoffs leave Supernatural fitness users in mourning</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-17 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -142,24 +163,6 @@
                 <span class="time">2026-01-17 08:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/" target="_blank">Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-17 08:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Petlibro Discount Codes and Deals: Save Up to 50%" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/petlibro-discount-code/" target="_blank">Petlibro Discount Codes and Deals: Save Up to 50%</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-17 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +175,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9la2noe1lzojvrla5n22.webp" alt="Interfacing Reyax RYLR999 LoRa Module with Arduino" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rachna62/interfacing-reyax-rylr999-lora-module-with-arduino-2pj0" target="_blank">Interfacing Reyax RYLR999 LoRa Module with Arduino</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-17 13:54</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +220,6 @@
                 <span class="title"><a href="https://alexharri.com/blog/ascii-rendering" target="_blank">ASCII characters are not pixels: a deep dive into ASCII rendering</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-17 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Shotcut-26.1-Beta" target="_blank">Shotcut 26.1 Beta Video Editor Adds New Hardware Decoder Options</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-17 10:49</span>
             </div>
         </div>
 </div>
@@ -320,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
