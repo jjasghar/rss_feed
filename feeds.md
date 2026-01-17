@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-01-17 07:01:53 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-01-17 08:01:52 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, January 17, 2026 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, January 17, 2026 - 08:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/17/minneapolis-mayor-says-reported-doj-probe-intimidation-amid-ice-raids?traffic_source=rss" target="_blank">Minneapolis mayor says reported DOJ probe ‘intimidation’ amid ICE raids</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-17 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/environment/2026/jan/17/twin-baby-mountain-gorilla-virunga-drc-survival-conservation-aoe" target="_blank">Rare twins born in DRC raise cautious hope for endangered mountain gorillas</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-17 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +93,6 @@
                 <span class="title"><a href="https://news.sky.com/story/tony-blair-to-oversee-gazas-future-as-part-of-trumps-greatest-and-most-prestigious-board-of-peace-13495223" target="_blank">Tony Blair to oversee Gaza&#x27;s future as part of Trump&#x27;s &#x27;greatest and most prestigious&#x27; Board of Peace</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-01-17 00:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/16/ugandas-bobi-wine-taken-to-unknown-location-in-army-helicopter-party-says?traffic_source=rss" target="_blank">Uganda’s Bobi Wine taken to unknown location in army helicopter, party says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-16 23:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2db7/live/9c8c8ba0-f338-11f0-b5f7-49f0357294ff.jpg" alt="Tony Blair and Marco Rubio among names on Gaza &#x27;Board of Peace&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c07xv92vrz2o?at_medium=RSS&at_campaign=rss" target="_blank">Tony Blair and Marco Rubio among names on Gaza &#x27;Board of Peace&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-16 23:15</span>
             </div>
         </div>
 </div>
@@ -171,6 +169,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/01/pulumi-adds-terraform-hcl/en/headerimage/header-1768430049943.jpeg" alt="Pulumi Adds Native Support for Terraform and HCL" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/pulumi-adds-terraform-hcl/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pulumi Adds Native Support for Terraform and HCL</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-17 08:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,15 +211,6 @@
                 <span class="title"><a href="https://brusselssignal.eu/2026/01/germanys-shut-down-of-nuclear-plants-a-huge-mistake-says-merz/" target="_blank">Germany&#x27;s shut down of nuclear plants a &#x27;huge mistake&#x27;, says Merz</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-17 04:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/esp32-microcontroller-projects/" target="_blank">11 Interesting ESP32 Microcontroller Projects Beginners Can Try</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-17 03:41</span>
             </div>
         </div>
 </div>
@@ -311,22 +309,13 @@
                 <span class="time">2026-01-16 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/01/16/road-to-impressed" target="_blank">Road To Impressed</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-16 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 08:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
