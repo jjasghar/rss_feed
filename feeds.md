@@ -1,38 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-01-17 21:01:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-17 22:01:42 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, January 17, 2026 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, January 17, 2026 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b39/live/14032990-f3e4-11f0-808e-fddbe2ff1e6c.jpg" alt="Starmer says Trump&#x27;s tariff threat over Greenland &#x27;completely wrong&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c78ene3221yo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer says Trump&#x27;s tariff threat over Greenland &#x27;completely wrong&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-17 21:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/greenland-1-gty-er-260117_1768669423064_hpMain_4x3t_384.jpg" alt="Trump announces tariffs on NATO allies over Greenland response" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +106,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/17/nigeria-beat-egypt-on-penalties-to-claim-afcon-bronze-medal?traffic_source=rss" target="_blank">Nigeria beat Egypt on penalties to claim AFCON bronze medal</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-17 19:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/f_tov_nuuk_protest_tariffs_260117.00_01_01_23.Still001-0k2tul.jpg" alt="Trump announces tariffs on eight countries as protests take place in Nuuk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-announces-tariffs-on-eight-countries-as-greelanders-protest-256147525832" target="_blank">Trump announces tariffs on eight countries as protests take place in Nuuk</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-17 18:35</span>
             </div>
         </div>
 </div>
@@ -179,6 +185,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thejuanguerrero/from-python-to-opengl-a-modern-cross-platform-survival-guide-for-osu-cs-450-50pk" target="_blank">From Python to OpenGL: A Modern, Cross-Platform Survival Guide for OSU CS-450</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-17 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/link2twenty/express-setup-simple-scalable-3hin" target="_blank">Express Setup: Simple &amp; Scalable</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-17 20:42</span>
@@ -211,20 +226,20 @@
                 <span class="time">2026-01-17 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9la2noe1lzojvrla5n22.webp" alt="Interfacing Reyax RYLR999 LoRa Module with Arduino" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rachna62/interfacing-reyax-rylr999-lora-module-with-arduino-2pj0" target="_blank">Interfacing Reyax RYLR999 LoRa Module with Arduino</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-17 13:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/fallout-mtg-1280x853.jpg" alt="‘Fallout’ Returns to ‘Magic: The Gathering’ and Secret Lair" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/fallout-returns-to-magic-the-gathering-and-secret-lair-2000711431" target="_blank">‘Fallout’ Returns to ‘Magic: The Gathering’ and Secret Lair</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-17 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/iran-btc-1280x854.jpg" alt="Report Shows Massive Increase in Iranian Bitcoin Adoption Amid Nationwide Unrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -232,6 +247,15 @@
                 <span class="title"><a href="https://gizmodo.com/iranian-bitcoin-adoption-amid-nationwide-unrest-2000711457" target="_blank">Report Shows Massive Increase in Iranian Bitcoin Adoption Amid Nationwide Unrest</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-17 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/recklessdriving.jpeg?fit=1500%2C924&amp;quality=60&amp;ssl=1" alt="Hungary&#x27;s musical road uses music to encourage safe driving" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/17/hungarys-musical-road-uses-music-to-encourage-safe-driving.html" target="_blank">Hungary&#x27;s musical road uses music to encourage safe driving</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-17 20:41</span>
             </div>
         </div>
 <div class="story">
@@ -259,24 +283,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-wacky-musk-openai-legal-war-now-involves-a-fittingly-insane-amount-of-money-2000709452" target="_blank">The Wacky Musk-OpenAI Legal War Now Involves a Fittingly Insane Amount of Money</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-17 18:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Pok-Pok.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This addiction-free gaming center for kids is only $60 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/17/this-addiction-free-gaming-center-for-kids-is-only-60-for-life.html" target="_blank">This addiction-free gaming center for kids is only $60 for life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-17 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/atari-hotel-phoenix-1280x720.jpg" alt="The Atari Hotel in Las Vegas Isn’t Happening Anymore" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-atari-hotel-in-las-vegas-isnt-happening-anymore-2000711372" target="_blank">The Atari Hotel in Las Vegas Isn’t Happening Anymore</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-17 14:30</span>
             </div>
         </div>
 </div>
@@ -307,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
