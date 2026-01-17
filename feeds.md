@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-17 14:01:42 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-01-17 15:01:20 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, January 17, 2026 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, January 17, 2026 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -60,11 +55,29 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768657476837_tdy_sat_shaquille_minnesota_ice_protests_260117_1920x1080-4ml7ic.jpg" alt="DOJ Launches Investigation Into Gov. Tim Walz, Mayor Jacob Frey" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/doj-is-investigating-gov-tim-walz-and-mayor-jacob-frey-256142405774" target="_blank">DOJ Launches Investigation Into Gov. Tim Walz, Mayor Jacob Frey</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-17 13:44</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
                 <span class="title"><a href="https://www.theguardian.com/uk-news/2026/jan/17/afcon-little-morocco-london-confidence-high" target="_blank">Confidence runs high in London’s Little Morocco as Afcon glory beckons</a></span>
                 <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-17 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/17/nx-s1-5673199/opinion-remembering-ai-a-remarkably-intelligent-chimpanzee" target="_blank">Opinion: Remembering Ai, a remarkably intelligent chimpanzee</a></span>
+                <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-17 13:00</span>
             </div>
         </div>
@@ -86,29 +99,20 @@
                 <span class="time">2026-01-17 11:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/17/nx-s1-5679562/trump-sanctuary-cities-ice-immigration" target="_blank">Trump is threatening to cut funding from sanctuary cities. Here&#x27;s what to know</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-17 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/17/minneapolis-mayor-says-reported-doj-probe-intimidation-amid-ice-raids?traffic_source=rss" target="_blank">Minneapolis mayor says reported DOJ probe ‘intimidation’ amid ICE raids</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-17 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/862881/all-you-need-is-kill-review" target="_blank">All You Need Is Kill is a dazzling movie with the soul of a video game</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-17 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/gallery/the-best-mattresses-for-back-pain/" target="_blank">The Best Mattress for Back Pain: 7 Top Options We Tested (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-01-17 10:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/reviews/863910/tcl-playcube-portable-projector-review-battery" target="_blank">TCL’s PlayCube projector is more fun than a Rubik’s Cube</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-17 08:55</span>
             </div>
         </div>
 </div>
@@ -224,23 +219,18 @@
         </div>
 </div>
 </div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/ai-and-the-corporate-capture-of-knowledge.html" target="_blank">AI and the Corporate Capture of Knowledge</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-01-16 14:44</span>
-            </div>
-        </div>
-</div>
-</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/atari-hotel-phoenix-1280x720.jpg" alt="The Atari Hotel in Las Vegas Isn’t Happening Anymore" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-atari-hotel-in-las-vegas-isnt-happening-anymore-2000711372" target="_blank">The Atari Hotel in Las Vegas Isn’t Happening Anymore</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-17 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/eufy-omni-e28-review-1-1280x853.jpg" alt="Eufy Robot Vacuum Omni E28 Review: A Good Vacuum That Tries to Do Too Much" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +276,6 @@
                 <span class="time">2026-01-16 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/TheScream.jpg?fit=1200%2C855&amp;quality=60&amp;ssl=1" alt="Scaphism: the ancient Persian execution where insects ate you alive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/16/scaphism-the-ancient-persian-execution-where-insects-ate-you-alive.html" target="_blank">Scaphism: the ancient Persian execution where insects ate you alive</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-16 22:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
