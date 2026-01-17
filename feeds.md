@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-17 04:09:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-17 05:02:17 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, January 17, 2026 - 04:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, January 17, 2026 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -176,6 +180,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mykytaio/how-we-built-afina-and-why-webrtc-quic-actually-matter-31gh" target="_blank">How we built Afina and why WebRTC + QUIC actually matter</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-17 04:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://brusselssignal.eu/2026/01/germanys-shut-down-of-nuclear-plants-a-huge-mistake-says-merz/" target="_blank">Germany&#x27;s shut down of nuclear plants a &#x27;huge mistake&#x27;, says Merz</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-17 04:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/esp32-microcontroller-projects/" target="_blank">11 Interesting ESP32 Microcontroller Projects Beginners Can Try</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
@@ -198,24 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/exFAT-Faster-Seq-Reads-10p" target="_blank">Upcoming exFAT Linux Driver Patch Can Boost Sequential Read Performance By ~10%</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-17 01:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Adobe-Photoshop-2025-Wine-Patch" target="_blank">Adobe Photoshop 2025 Installer Now Working On Linux With Patched Wine</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-16 21:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18837132&w=600" alt="RAG at Scale: The Data Engineering Challenges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/rag-at-scale-data-engineering-challenges" target="_blank">RAG at Scale: The Data Engineering Challenges</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-16 20:00</span>
             </div>
         </div>
 </div>
@@ -323,22 +327,13 @@
                 <span class="time">2026-01-16 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/international_station.png" alt="International Station" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3195/" target="_blank">International Station</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-01-16 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 04:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
