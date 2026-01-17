@@ -1,31 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-17 08:01:52 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-17 09:01:54 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, January 17, 2026 - 08:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, January 17, 2026 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +111,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/reviews/863910/tcl-playcube-portable-projector-review-battery" target="_blank">TCL’s PlayCube projector is more fun than a Rubik’s Cube</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-17 08:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/" target="_blank">Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-17 08:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Petlibro Discount Codes and Deals: Save Up to 50%" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/petlibro-discount-code/" target="_blank">Petlibro Discount Codes and Deals: Save Up to 50%</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-17 06:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Artemis-II-Trajectory-Thumbnail-1-500x500.jpg" alt="Managers on alert for “launch fever” as pressure builds for NASA’s Moon mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -127,33 +164,6 @@
                 <span class="time">2026-01-16 23:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/" target="_blank">AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-16 23:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2206289956-500x500.jpg" alt="Rackspace customers grapple with “devastating” email hosting price hike" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/" target="_blank">Rackspace customers grapple with “devastating” email hosting price hike</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-16 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/696810d9c189964fca1e9bae/master/pass/Right-Wing-Dehumanize-Renee-Good-Culture-2255169999.jpg" alt="The Campaign to Destroy Renee Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-campaign-to-destroy-renee-good/" target="_blank">The Campaign to Destroy Renee Good</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-16 22:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,6 +176,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/itsmecharan7/what-is-software-compilation-56e" target="_blank">⚙️ What is Software Compilation?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-17 08:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://geohot.github.io//blog/jekyll/update/2026/01/17/three-minutes.html" target="_blank">You have three minutes to escape the perpetual underclass – geohot</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-17 08:23</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +223,6 @@
                 <span class="time">2026-01-17 05:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mykytaio/how-we-built-afina-and-why-webrtc-quic-actually-matter-31gh" target="_blank">How we built Afina and why WebRTC + QUIC actually matter</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-17 04:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://brusselssignal.eu/2026/01/germanys-shut-down-of-nuclear-plants-a-huge-mistake-says-merz/" target="_blank">Germany&#x27;s shut down of nuclear plants a &#x27;huge mistake&#x27;, says Merz</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-17 04:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +249,15 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/16/friday-night-fascism.html" target="_blank">Friday night fascism</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-17 01:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Centuria-Manga-Plus-io9-template-circle-light-dark-1280x853.jpg" alt="‘Centuria’ Is a Dark Fantasy Manga More People Should Be Obsessed With" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/centuria-is-a-dark-fantasy-manga-more-people-should-be-obsessed-with-2000711127" target="_blank">‘Centuria’ Is a Dark Fantasy Manga More People Should Be Obsessed With</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-16 23:45</span>
             </div>
         </div>
 <div class="story">
@@ -277,15 +296,6 @@
                 <span class="time">2026-01-16 21:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/jayden-scott.jpg?fit=1200%2C908&amp;quality=60&amp;ssl=1" alt="&quot;We executed one of you&quot; guy now facing child custody arrest warrant in Michigan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/16/we-executed-one-of-you-guy-now-facing-child-custody-arrest-warrant-in-michigan.html" target="_blank">&quot;We executed one of you&quot; guy now facing child custody arrest warrant in Michigan</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-16 21:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 08:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
