@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-17 11:01:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-17 12:02:15 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, January 17, 2026 - 11:01 UTC</div>
+    <div class="newspaper-date">Saturday, January 17, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/1/17/photos-gaza-ceasefire-brings-no-relief-as-israeli-bombings-continue?traffic_source=rss" target="_blank">Photos: Gaza ceasefire brings no relief as Israeli bombings continue</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-17 11:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/17/nx-s1-5679562/trump-sanctuary-cities-ice-immigration" target="_blank">Trump is threatening to cut funding from sanctuary cities. Here&#x27;s what to know</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-17 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +103,20 @@
                 <span class="time">2026-01-17 02:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768613957490_now_staytuned_doj_walz_frey_260116_1920x1080-6gzamk.jpg" alt="DOJ launches criminal investigation into Gov. Walz and Mayor Frey" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/doj-launches-criminal-investigation-into-gov-walz-and-mayor-frey-256129093755" target="_blank">DOJ launches criminal investigation into Gov. Walz and Mayor Frey</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-17 01:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/minnesota-rt-er-260116_1768607157057_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Fed probe for mayor, governor, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates/?id=129124338" target="_blank">Minneapolis ICE shooting live updates: Fed probe for mayor, governor, officials say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-17 01:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/685f1374106fb0cb6e6aa9fb/master/pass/The%20Best%20Mesh%20Wi-Fi%20Systems.png" alt="7 Best Mesh Wi-Fi Systems (2026), Tested in a Tech Reviewer&#x27;s Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-mesh-wifi-routers/" target="_blank">7 Best Mesh Wi-Fi Systems (2026), Tested in a Tech Reviewer&#x27;s Home</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-17 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/696b0cafd820e0d950af3bae/master/pass/The%20Best%20Mattresses%20for%20Back%20Pain.png" alt="The Best Mattress for Back Pain: 7 Top Options We Tested (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,15 +162,6 @@
                 <span class="time">2026-01-17 04:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/696a8f537c423f5d10d2153d/master/pass/Serious-Ethical-Misconduct-at-Thinking-Machines-Business-1320133023.jpg" alt="Thinking Machines Cofounder’s Office Relationship Preceded His Termination" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/thinking-machines-lab-cofounder-office-relationship-firing-openai/" target="_blank">Thinking Machines Cofounder’s Office Relationship Preceded His Termination</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-17 00:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -182,9 +180,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Glibc-Security-Fix-For-1996-Bug" target="_blank">CVE-2026-0915: GNU C Library Fixes A Security Issue Present Since 1996</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-17 11:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Shotcut-26.1-Beta" target="_blank">Shotcut 26.1 Beta Video Editor Adds New Hardware Decoder Options</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-17 10:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.niemanlab.org/2026/01/after-25-years-wikipedia-has-proved-that-news-doesnt-need-to-look-like-news/" target="_blank">After 25 years, Wikipedia has proved that news doesn&#x27;t need to look like news</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-17 10:29</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +219,6 @@
                 <span class="title"><a href="https://langfuse.com/blog/joining-clickhouse" target="_blank">ClickHouse Acquires Langfuse</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-17 09:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/itsmecharan7/what-is-software-compilation-56e" target="_blank">⚙️ What is Software Compilation?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-17 08:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://geohot.github.io//blog/jekyll/update/2026/01/17/three-minutes.html" target="_blank">You have three minutes to escape the perpetual underclass – geohot</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-17 08:23</span>
             </div>
         </div>
 </div>
@@ -324,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
