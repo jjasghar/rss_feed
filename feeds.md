@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-17 12:02:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-17 13:09:44 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, January 17, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, January 17, 2026 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-listening-post/2026/1/17/iran-the-protests-the-blackout-and-the-narrative-war?traffic_source=rss" target="_blank">Iran: The protests, the blackout and the narrative war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-17 12:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +101,20 @@
                 <span class="time">2026-01-17 04:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/17/us-iran-tensions-trump-has-no-path-to-an-easy-win-despite-tehrans-woes?traffic_source=rss" target="_blank">US-Iran tensions: Trump has no path to an easy ‘win’ despite Tehran’s woes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-17 02:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68d1a8a2627fe89f30b86df5/master/pass/The%20Best%20External%20Hard%20Drives.png" alt="Best External Hard Drive (2026): SSD to Store Data, Video &amp; More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-portable-external-storage-drives/" target="_blank">Best External Hard Drive (2026): SSD to Store Data, Video &amp; More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-17 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/685f1374106fb0cb6e6aa9fb/master/pass/The%20Best%20Mesh%20Wi-Fi%20Systems.png" alt="7 Best Mesh Wi-Fi Systems (2026), Tested in a Tech Reviewer&#x27;s Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,15 +160,6 @@
                 <span class="time">2026-01-17 06:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Artemis-II-Trajectory-Thumbnail-1-500x500.jpg" alt="Managers on alert for “launch fever” as pressure builds for NASA’s Moon mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/01/managers-on-alert-for-launch-fever-as-pressure-builds-for-nasas-moon-mission/" target="_blank">Managers on alert for “launch fever” as pressure builds for NASA’s Moon mission</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-17 04:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -179,6 +177,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arturk/greenfield-vs-legacy-software-the-hidden-career-benefits-of-legacy-code-o2k" target="_blank">Greenfield vs Legacy Software: The Hidden Career Benefits of Legacy Code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-17 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15.1-KDE-Desktop-Option" target="_blank">FreeBSD 15.1 Aims To Have KDE Desktop Installer Option</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-17 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Glibc-Security-Fix-For-1996-Bug" target="_blank">CVE-2026-0915: GNU C Library Fixes A Security Issue Present Since 1996</a></span>
                 <span class="feed">Phoronix</span>
@@ -188,37 +204,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://alexharri.com/blog/ascii-rendering" target="_blank">ASCII characters are not pixels: a deep dive into ASCII rendering</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-17 11:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Shotcut-26.1-Beta" target="_blank">Shotcut 26.1 Beta Video Editor Adds New Hardware Decoder Options</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-17 10:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.niemanlab.org/2026/01/after-25-years-wikipedia-has-proved-that-news-doesnt-need-to-look-like-news/" target="_blank">After 25 years, Wikipedia has proved that news doesn&#x27;t need to look like news</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-17 10:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/cloudflare-salt-configuration/en/headerimage/generatedHeaderImage-1768556832221.jpg" alt="Cloudflare Automates Salt Configuration Management Debugging, Reducing Release Delays" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/cloudflare-salt-configuration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Automates Salt Configuration Management Debugging, Reducing Release Delays</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-17 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://langfuse.com/blog/joining-clickhouse" target="_blank">ClickHouse Acquires Langfuse</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-17 09:15</span>
             </div>
         </div>
 </div>
@@ -240,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/eufy-omni-e28-review-1-1280x853.jpg" alt="Eufy Robot Vacuum Omni E28 Review: A Good Vacuum That Tries to Do Too Much" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/eufy-robot-vacuum-omni-e28-review-a-good-vacuum-that-tries-to-do-too-much-2000699135" target="_blank">Eufy Robot Vacuum Omni E28 Review: A Good Vacuum That Tries to Do Too Much</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-17 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/22FUCK-ICE22-sticker-spotted-in-New-Orleans.-photo-e1768412930269.jpg?fit=768%2C859&amp;quality=60&amp;ssl=1" alt="Friday night fascism" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +292,6 @@
                 <span class="time">2026-01-16 22:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/anthropic-e1768598845926-1280x852.jpg" alt="Anthropic (an AI Company) Warns That AI Will Worsen Inequality" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/anthropic-an-ai-company-warns-that-ai-will-worsen-inequality-2000710841" target="_blank">Anthropic (an AI Company) Warns That AI Will Worsen Inequality</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-16 21:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
