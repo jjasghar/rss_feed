@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-17 18:02:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-17 19:01:38 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, January 17, 2026 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, January 17, 2026 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +108,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/863980/disney-deleted-anti-fascist-thread" target="_blank">Disney deleted a Thread because people kept quoting its movies at it</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-17 18:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/01/17/trump-administrations-legal-setbacks-are-good-news-for-offshore-wind-and-the-grid/" target="_blank">Trump administration’s legal setbacks are good news for offshore wind — and the grid</a></span>
                 <span class="feed">TechCrunch</span>
@@ -146,15 +159,6 @@
                 <span class="time">2026-01-17 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d1a8a2627fe89f30b86df5/master/pass/The%20Best%20External%20Hard%20Drives.png" alt="Best External Hard Drive (2026): SSD to Store Data, Video &amp; More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-portable-external-storage-drives/" target="_blank">Best External Hard Drive (2026): SSD to Store Data, Video &amp; More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-17 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +171,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/android-studio-otter-llm-flex/en/headerimage/android-studio-otter-llm-1768670713680.jpeg" alt="Android Studio Otter Boosts Agent Workflows and Adds LLM Flexibility" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/android-studio-otter-llm-flex/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Android Studio Otter Boosts Agent Workflows and Adds LLM Flexibility</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-17 18:00</span>
             </div>
         </div>
 <div class="story">
@@ -205,20 +218,29 @@
                 <span class="time">2026-01-17 11:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://alexharri.com/blog/ascii-rendering" target="_blank">ASCII characters are not pixels: a deep dive into ASCII rendering</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-17 11:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/musk-steepling-hands-1280x853.jpg" alt="The Wacky Musk-OpenAI Legal War Now Involves a Fittingly Insane Amount of Money" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-wacky-musk-openai-legal-war-now-involves-a-fittingly-insane-amount-of-money-2000709452" target="_blank">The Wacky Musk-OpenAI Legal War Now Involves a Fittingly Insane Amount of Money</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-17 18:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Pok-Pok.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This addiction-free gaming center for kids is only $60 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/17/this-addiction-free-gaming-center-for-kids-is-only-60-for-life.html" target="_blank">This addiction-free gaming center for kids is only $60 for life</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-17 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/atari-hotel-phoenix-1280x720.jpg" alt="The Atari Hotel in Las Vegas Isn’t Happening Anymore" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -255,24 +277,6 @@
                 <span class="time">2026-01-16 23:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KF48QB0BCY2BAXR19HG0QPQT/hero-image.webp" alt="ChatGPT Is Getting a Cheaper Subscription Tier (but Also Ads)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/chatgpt-go-ad-subscription?utm_medium=RSS" target="_blank">ChatGPT Is Getting a Cheaper Subscription Tier (but Also Ads)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-16 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/Baby-steps-1280x722.jpg" alt="Awards Show Bravely Acknowledges Clair Obscur Wasn’t The Only Great Game Last Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/baby-steps-awards-gdc-igf-2025-goty-2000660694" target="_blank">Awards Show Bravely Acknowledges Clair Obscur Wasn’t The Only Great Game Last Year</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-16 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 101 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
