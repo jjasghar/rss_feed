@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-17 01:29:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-17 02:31:43 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, January 17, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, January 17, 2026 - 02:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768613957490_now_staytuned_doj_walz_frey_260116_1920x1080-6gzamk.jpg" alt="DOJ launches criminal investigation into Gov. Walz and Mayor Frey" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/doj-launches-criminal-investigation-into-gov-walz-and-mayor-frey-256129093755" target="_blank">DOJ launches criminal investigation into Gov. Walz and Mayor Frey</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-17 01:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/minnesota-rt-er-260116_1768607157057_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Fed probe for mayor, governor, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +94,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2026/jan/16/uganda-election-early-results-show-museveni-in-lead-as-violence-reported" target="_blank">Uganda’s opposition leader ‘taken by army’ as Museveni nears re-election</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-01-16 21:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/16/nx-s1-5677712/ice-surge-sparks-fear-and-resistance-in-minneapolis" target="_blank">ICE surge sparks fear and resistance in Minneapolis</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-16 21:32</span>
             </div>
         </div>
 </div>
@@ -177,6 +173,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/exFAT-Faster-Seq-Reads-10p" target="_blank">Upcoming exFAT Linux Driver Patch Can Boost Sequential Read Performance By ~10%</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-17 01:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Adobe-Photoshop-2025-Wine-Patch" target="_blank">Adobe Photoshop 2025 Installer Now Working On Linux With Patched Wine</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-16 21:22</span>
@@ -207,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/deere-sdk/i-built-a-typescript-sdk-for-john-deere-because-nobody-else-did-2eb6" target="_blank">I Built a TypeScript SDK for John Deere Because Nobody Else Did</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-16 19:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18837126&w=600" alt="IT Asset, Vulnerability, and Patch Management Best Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/it-assets-vulnerability-management-and-patches" target="_blank">IT Asset, Vulnerability, and Patch Management Best Practices</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-16 19:00</span>
             </div>
         </div>
 </div>
@@ -332,22 +328,13 @@
                 <span class="time">2026-01-16 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5745.png" alt="The Slow Passage Of Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5745" target="_blank">The Slow Passage Of Time</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-01-16 01:49</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 02:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
