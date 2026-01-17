@@ -1,25 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-17 00:04:51 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-17 01:29:41 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 4 new posts out of 17 feeds processed -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, January 17, 2026 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, January 17, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -35,6 +46,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/minnesota-rt-er-260116_1768607157057_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Fed probe for mayor, governor, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates/?id=129124338" target="_blank">Minneapolis ICE shooting live updates: Fed probe for mayor, governor, officials say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-17 01:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/16/ugandas-bobi-wine-taken-to-unknown-location-in-army-helicopter-party-says?traffic_source=rss" target="_blank">Uganda’s Bobi Wine taken to unknown location in army helicopter, party says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-16 23:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2db7/live/9c8c8ba0-f338-11f0-b5f7-49f0357294ff.jpg" alt="Tony Blair and Marco Rubio among names on Gaza &#x27;Board of Peace&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c07xv92vrz2o?at_medium=RSS&at_campaign=rss" target="_blank">Tony Blair and Marco Rubio among names on Gaza &#x27;Board of Peace&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-16 23:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2db7/live/9c8c8ba0-f338-11f0-b5f7-49f0357294ff.jpg" alt="Blair and Rubio among names on Gaza &#x27;Board of Peace&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c07xv92vrz2o?at_medium=RSS&at_campaign=rss" target="_blank">Blair and Rubio among names on Gaza &#x27;Board of Peace&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-16 23:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -53,47 +100,47 @@
                 <span class="time">2026-01-16 21:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260115-ice-shootings-lr-db8fd6.jpg" alt="Trump&#x27;s DHS has shot 11 people during immigration enforcement operations since September" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immigration-operations-rcna254202" target="_blank">Trump&#x27;s DHS has shot 11 people during immigration enforcement operations since September</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-16 21:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/16/nx-s1-5677299/measles-outbreak-vaccines-kids-health" target="_blank">Measles is spreading fast in S.C. Here&#x27;s what it says about vaccine exemptions</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-16 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-uganda-election_7137570.jpg?20260116214739" alt="&#x27;People power&#x27; opposition supporters shout as voting count in Uganda election turns violent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/people-power-opposition-supporters-shout-as-voting-count-in-uganda-election-turns-violent-13495174" target="_blank">&#x27;People power&#x27; opposition supporters shout as voting count in Uganda election turns violent</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-16 20:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/16/us-says-canada-will-regret-decision-to-allow-chinese-evs-into-their-market?traffic_source=rss" target="_blank">US says Canada will regret decision to allow Chinese EVs into their market</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-16 19:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/696a8f537c423f5d10d2153d/master/pass/Serious-Ethical-Misconduct-at-Thinking-Machines-Business-1320133023.jpg" alt="Thinking Machines Cofounder’s Office Relationship Preceded His Termination" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/thinking-machines-lab-cofounder-office-relationship-firing-openai/" target="_blank">Thinking Machines Cofounder’s Office Relationship Preceded His Termination</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-17 00:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals" target="_blank">The best deals on MacBooks right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-16 23:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/" target="_blank">AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-16 23:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2206289956-500x500.jpg" alt="Rackspace customers grapple with “devastating” email hosting price hike" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/" target="_blank">Rackspace customers grapple with “devastating” email hosting price hike</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-16 23:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/696810d9c189964fca1e9bae/master/pass/Right-Wing-Dehumanize-Renee-Good-Culture-2255169999.jpg" alt="The Campaign to Destroy Renee Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -110,42 +157,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/01/archaeologists-find-a-supersized-medieval-shipwreck-in-denmark/" target="_blank">Archaeologists find a supersized medieval shipwreck in Denmark</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-01-16 22:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/16/snowflake-databricks-challenger-clickhouse-hits-15b-valuation/" target="_blank">Snowflake, Databricks challenger ClickHouse hits $15B valuation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-16 22:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/library-shelves-500x500-1768598739.jpg" alt="Judge orders Anna’s Archive to delete scraped data; no one thinks it will comply" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/judge-orders-annas-archive-to-delete-scraped-data-no-one-thinks-it-will-comply/" target="_blank">Judge orders Anna’s Archive to delete scraped data; no one thinks it will comply</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-16 21:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/16/tiktok-quietly-launches-a-micro-drama-app-called-pinedrama/" target="_blank">TikTok quietly launches a microdrama app called ‘PineDrama’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-16 21:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/696a850de87333c2e62100d6/master/pass/Our%20Favorite%20Compact%20Power%20Station%20Is%20$100%20Off.png" alt="Our Favorite Compact Power Station Is on Sale for 33% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/jackery-explorer-300-plus-deal-126/" target="_blank">Our Favorite Compact Power Station Is on Sale for 33% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-16 21:10</span>
             </div>
         </div>
 </div>
@@ -286,6 +297,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/17/road-to-impressed" target="_blank">Road To Impressed</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-01-17 00:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1768536485-20260116.png" alt="Saturday Morning Breakfast Cereal - Gender" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -326,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
