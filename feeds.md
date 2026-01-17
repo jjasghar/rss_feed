@@ -1,30 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-17 17:01:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-17 18:02:11 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, January 17, 2026 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, January 17, 2026 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/17/indonesia-searches-for-missing-plane-with-at-least-10-on-board?traffic_source=rss" target="_blank">Indonesia searches for missing plane with at least 10 on board</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-17 17:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/17/nx-s1-5680839/trump-eu-greenland-tariffs" target="_blank">Trump says 8 EU countries to be charged 10% tariff for opposing US control of Greenland</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-17 17:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/17/yoweri-museveni-wins-ugandan-election-as-opponent-condemns-fake-result" target="_blank">Yoweri Museveni wins Ugandan election as opponent condemns ‘fake result’</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-17 17:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260117-greenland-ch-1135-f84ba7.jpg" alt="Trump hits eight European countries with tariffs in push for Greenland purchase" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/economy/trump-denmark-european-tariffs-greenland-deal-rcna254551" target="_blank">Trump hits eight European countries with tariffs in push for Greenland purchase</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-17 16:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/17/trump-pledges-to-slap-tariffs-on-european-allies-over-greenland?traffic_source=rss" target="_blank">Trump pledges to slap tariffs on European allies over Greenland</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-17 16:41</span>
@@ -58,47 +96,20 @@
                 <span class="time">2026-01-17 15:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c884/live/7349b990-f39a-11f0-9212-79f406d84709.jpg" alt="Iran supreme leader admits thousands killed during recent protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckglee733wno?at_medium=RSS&at_campaign=rss" target="_blank">Iran supreme leader admits thousands killed during recent protests</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-17 14:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c884/live/7349b990-f39a-11f0-9212-79f406d84709.jpg" alt="Iran supreme leader blames US for deadly protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckglee733wno?at_medium=RSS&at_campaign=rss" target="_blank">Iran supreme leader blames US for deadly protests</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-17 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768657476837_tdy_sat_shaquille_minnesota_ice_protests_260117_1920x1080-4ml7ic.jpg" alt="DOJ Launches Investigation Into Gov. Tim Walz, Mayor Jacob Frey" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/doj-is-investigating-gov-tim-walz-and-mayor-jacob-frey-256142405774" target="_blank">DOJ Launches Investigation Into Gov. Tim Walz, Mayor Jacob Frey</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-17 13:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/uk-news/2026/jan/17/afcon-little-morocco-london-confidence-high" target="_blank">Confidence runs high in London’s Little Morocco as Afcon glory beckons</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-01-17 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/17/trump-administrations-legal-setbacks-are-good-news-for-offshore-wind-and-the-grid/" target="_blank">Trump administration’s legal setbacks are good news for offshore wind — and the grid</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-17 17:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,15 +153,6 @@
                 <span class="title"><a href="https://www.wired.com/story/best-portable-external-storage-drives/" target="_blank">Best External Hard Drive (2026): SSD to Store Data, Video &amp; More</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-01-17 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/06_Lifestyle-500x500.jpg" alt="Meta’s layoffs leave Supernatural fitness users in mourning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/metas-layoffs-leave-supernatural-fitness-users-in-mourning/" target="_blank">Meta’s layoffs leave Supernatural fitness users in mourning</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-17 12:00</span>
             </div>
         </div>
 </div>
@@ -290,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
