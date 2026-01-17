@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-17 20:01:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-17 21:01:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, January 17, 2026 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, January 17, 2026 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/greenland-1-gty-er-260117_1768669423064_hpMain_4x3t_384.jpg" alt="Trump announces tariffs on NATO allies over Greenland response" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/trump-announces-tariffs-nato-allies-opposing-us-control/story?id=129310383" target="_blank">Trump announces tariffs on NATO allies over Greenland response</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-17 20:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c884/live/7349b990-f39a-11f0-9212-79f406d84709.jpg" alt="Iran supreme leader acknowledges thousands killed during recent protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckglee733wno?at_medium=RSS&at_campaign=rss" target="_blank">Iran supreme leader acknowledges thousands killed during recent protests</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-17 20:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/17/ugandas-museveni-wins-7th-term-opponent-calls-results?traffic_source=rss" target="_blank">Uganda’s Museveni wins 7th term, opponent calls results ‘fake’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-17 20:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/greenland-1-gty-er-260117_1768669423064_hpMain_4x3t_384.jpg" alt="Trump announces tariffs on NATO allies for opposing US control of Greenland" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,33 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/trump-announces-tariffs-on-eight-countries-as-greelanders-protest-256147525832" target="_blank">Trump announces tariffs on eight countries as protests take place in Nuuk</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-01-17 18:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/17/indonesia-searches-for-missing-plane-with-at-least-10-on-board?traffic_source=rss" target="_blank">Indonesia searches for missing plane with at least 10 on board</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-17 17:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/17/nx-s1-5680839/trump-eu-greenland-tariffs" target="_blank">Trump says 8 EU countries to be charged 10% tariff for opposing US control of Greenland</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-17 17:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/17/yoweri-museveni-wins-ugandan-election-as-opponent-condemns-fake-result" target="_blank">Yoweri Museveni wins Ugandan election as opponent condemns ‘fake result’</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-01-17 17:20</span>
             </div>
         </div>
 </div>
@@ -181,6 +179,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/link2twenty/express-setup-simple-scalable-3hin" target="_blank">Express Setup: Simple &amp; Scalable</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-17 20:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/More-AMDGPU-PR-Linux-7.0-Dongle" target="_blank">Important AMDGPU &amp; AMDKFD Driver Improvements Readied For Linux 6.20~7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-17 20:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pratik280/production-grade-spring-boot-apis-part-3-consistent-responses-global-exception-handling-47c2" target="_blank">Production-Grade Spring Boot APIs — Part 3: Consistent Responses &amp; Global Exception Handling</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-17 19:59</span>
@@ -204,29 +220,29 @@
                 <span class="time">2026-01-17 13:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arturk/greenfield-vs-legacy-software-the-hidden-career-benefits-of-legacy-code-o2k" target="_blank">Greenfield vs Legacy Software: The Hidden Career Benefits of Legacy Code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-17 12:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15.1-KDE-Desktop-Option" target="_blank">FreeBSD 15.1 Aims To Have KDE Desktop Installer Option</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-17 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/iran-btc-1280x854.jpg" alt="Report Shows Massive Increase in Iranian Bitcoin Adoption Amid Nationwide Unrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/iranian-bitcoin-adoption-amid-nationwide-unrest-2000711457" target="_blank">Report Shows Massive Increase in Iranian Bitcoin Adoption Amid Nationwide Unrest</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-17 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/07/Screen-Shot-2023-07-08-at-12.42.09-PM.png?fit=1090%2C1024&amp;quality=55&amp;ssl=1" alt="This tree kangaroo quenching his thirst is top-notch &quot;animals drinking&quot; ASMR" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/17/this-tree-kangaroo-quenching-his-thirst-is-top-notch-animals-drinking-asmr.html" target="_blank">This tree kangaroo quenching his thirst is top-notch &quot;animals drinking&quot; ASMR</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-17 20:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Kpop-Demon-Hunters-Netflix-1280x853.jpg" alt="Sony and Netflix Will Keep Being Streaming Buddies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,24 +279,6 @@
                 <span class="time">2026-01-17 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/eufy-omni-e28-review-1-1280x853.jpg" alt="Eufy Robot Vacuum Omni E28 Review: A Good Vacuum That Tries to Do Too Much" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/eufy-robot-vacuum-omni-e28-review-a-good-vacuum-that-tries-to-do-too-much-2000699135" target="_blank">Eufy Robot Vacuum Omni E28 Review: A Good Vacuum That Tries to Do Too Much</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-17 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/22FUCK-ICE22-sticker-spotted-in-New-Orleans.-photo-e1768412930269.jpg?fit=768%2C859&amp;quality=60&amp;ssl=1" alt="Friday night fascism" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/16/friday-night-fascism.html" target="_blank">Friday night fascism</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-17 01:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
