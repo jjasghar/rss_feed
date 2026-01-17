@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-17 09:01:54 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-01-17 10:01:21 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, January 17, 2026 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, January 17, 2026 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -72,6 +68,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/16/g-s1-106374/immigration-peaceful-protesters" target="_blank">Judge rules immigration officers in Minneapolis can&#x27;t detain peaceful protesters</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-17 04:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/17/us-iran-tensions-trump-has-no-path-to-an-easy-win-despite-tehrans-woes?traffic_source=rss" target="_blank">US-Iran tensions: Trump has no path to an easy ‘win’ despite Tehran’s woes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -94,15 +99,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates/?id=129124338" target="_blank">Minneapolis ICE shooting live updates: Fed probe for mayor, governor, officials say</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-17 01:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-tony-blair-donald-trump_7137624.jpg?20260117005605" alt="Tony Blair to oversee Gaza&#x27;s future as part of Trump&#x27;s &#x27;greatest and most prestigious&#x27; Board of Peace" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/tony-blair-to-oversee-gazas-future-as-part-of-trumps-greatest-and-most-prestigious-board-of-peace-13495223" target="_blank">Tony Blair to oversee Gaza&#x27;s future as part of Trump&#x27;s &#x27;greatest and most prestigious&#x27; Board of Peace</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-17 00:49</span>
             </div>
         </div>
 </div>
@@ -181,6 +177,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://langfuse.com/blog/joining-clickhouse" target="_blank">ClickHouse Acquires Langfuse</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-17 09:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/itsmecharan7/what-is-software-compilation-56e" target="_blank">⚙️ What is Software Compilation?</a></span>
                 <span class="feed">DEV Community</span>
@@ -212,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/antonmb/gdpr-as-a-blueprint-for-risk-aware-architecture-51oo" target="_blank">GDPR as a Blueprint for Risk-Aware Architecture</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-17 06:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/web3nomad/build-your-10-person-engineering-team-with-universal-agent-1anc" target="_blank">Universal Agent + Skills Tutorial: Build Your 10-Person Team from Scratch</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-17 05:52</span>
             </div>
         </div>
 </div>
@@ -324,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
