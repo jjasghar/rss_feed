@@ -1,40 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-01-17 05:02:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-17 06:02:03 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, January 17, 2026 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, January 17, 2026 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +99,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Artemis-II-Trajectory-Thumbnail-1-500x500.jpg" alt="Managers on alert for “launch fever” as pressure builds for NASA’s Moon mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/01/managers-on-alert-for-launch-fever-as-pressure-builds-for-nasas-moon-mission/" target="_blank">Managers on alert for “launch fever” as pressure builds for NASA’s Moon mission</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-17 04:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/696a8f537c423f5d10d2153d/master/pass/Serious-Ethical-Misconduct-at-Thinking-Machines-Business-1320133023.jpg" alt="Thinking Machines Cofounder’s Office Relationship Preceded His Termination" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -154,15 +152,6 @@
                 <span class="time">2026-01-16 22:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Ubena_von_Bremen_Kiel2007_1_cropped-500x500.jpg" alt="Archaeologists find a supersized medieval shipwreck in Denmark" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/01/archaeologists-find-a-supersized-medieval-shipwreck-in-denmark/" target="_blank">Archaeologists find a supersized medieval shipwreck in Denmark</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-16 22:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +164,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/web3nomad/build-your-10-person-engineering-team-with-universal-agent-1anc" target="_blank">Universal Agent + Skills Tutorial: Build Your 10-Person Team from Scratch</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-17 05:52</span>
             </div>
         </div>
 <div class="story">
@@ -211,15 +209,6 @@
                 <span class="title"><a href="https://dev.to/wtsolutions/json-to-excel-add-in-seamless-integration-within-excel-5ccn" target="_blank">JSON to Excel Add-in - Seamless Integration Within Excel</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-17 03:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/exFAT-Faster-Seq-Reads-10p" target="_blank">Upcoming exFAT Linux Driver Patch Can Boost Sequential Read Performance By ~10%</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-17 01:44</span>
             </div>
         </div>
 </div>
@@ -332,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
