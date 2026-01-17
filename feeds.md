@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-17 02:31:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-01-17 03:28:02 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, January 17, 2026 - 02:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, January 17, 2026 - 03:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/17/us-iran-tensions-trump-has-no-path-to-an-easy-win-despite-tehrans-woes?traffic_source=rss" target="_blank">US-Iran tensions: Trump has no path to an easy ‘win’ despite Tehran’s woes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-17 02:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768613957490_now_staytuned_doj_walz_frey_260116_1920x1080-6gzamk.jpg" alt="DOJ launches criminal investigation into Gov. Walz and Mayor Frey" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -61,6 +78,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-tony-blair-donald-trump_7137624.jpg?20260117005605" alt="Tony Blair to oversee Gaza&#x27;s future as part of Trump&#x27;s &#x27;greatest and most prestigious&#x27; Board of Peace" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/tony-blair-to-oversee-gazas-future-as-part-of-trumps-greatest-and-most-prestigious-board-of-peace-13495223" target="_blank">Tony Blair to oversee Gaza&#x27;s future as part of Trump&#x27;s &#x27;greatest and most prestigious&#x27; Board of Peace</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-17 00:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -76,24 +102,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c07xv92vrz2o?at_medium=RSS&at_campaign=rss" target="_blank">Tony Blair and Marco Rubio among names on Gaza &#x27;Board of Peace&#x27;</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-16 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2db7/live/9c8c8ba0-f338-11f0-b5f7-49f0357294ff.jpg" alt="Blair and Rubio among names on Gaza &#x27;Board of Peace&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c07xv92vrz2o?at_medium=RSS&at_campaign=rss" target="_blank">Blair and Rubio among names on Gaza &#x27;Board of Peace&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-16 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/16/uganda-election-early-results-show-museveni-in-lead-as-violence-reported" target="_blank">Uganda’s opposition leader ‘taken by army’ as Museveni nears re-election</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-01-16 21:33</span>
             </div>
         </div>
 </div>
@@ -172,6 +180,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wtsolutions/json-to-excel-add-in-seamless-integration-within-excel-5ccn" target="_blank">JSON to Excel Add-in - Seamless Integration Within Excel</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-17 03:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/exFAT-Faster-Seq-Reads-10p" target="_blank">Upcoming exFAT Linux Driver Patch Can Boost Sequential Read Performance By ~10%</a></span>
                 <span class="feed">Phoronix</span>
@@ -205,15 +222,6 @@
                 <span class="time">2026-01-16 19:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/deere-sdk/i-built-a-typescript-sdk-for-john-deere-because-nobody-else-did-2eb6" target="_blank">I Built a TypeScript SDK for John Deere Because Nobody Else Did</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-16 19:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,12 +242,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/22FUCK-ICE22-sticker-spotted-in-New-Orleans.-photo-e1768412930269.jpg?fit=768%2C859&amp;quality=60&amp;ssl=1" alt="Friday night fascism" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/16/friday-night-fascism.html" target="_blank">Friday night fascism</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-17 01:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KF48QB0BCY2BAXR19HG0QPQT/hero-image.webp" alt="ChatGPT Is Getting a Cheaper Subscription Tier (but Also Ads)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/chatgpt-go-ad-subscription?utm_medium=RSS" target="_blank">ChatGPT Is Getting a Cheaper Subscription Tier (but Also Ads)</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-16 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/Baby-steps-1280x722.jpg" alt="Awards Show Bravely Acknowledges Clair Obscur Wasn’t The Only Great Game Last Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/baby-steps-awards-gdc-igf-2025-goty-2000660694" target="_blank">Awards Show Bravely Acknowledges Clair Obscur Wasn’t The Only Great Game Last Year</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-16 22:30</span>
             </div>
         </div>
 <div class="story">
@@ -267,24 +293,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/16/we-executed-one-of-you-guy-now-facing-child-custody-arrest-warrant-in-michigan.html" target="_blank">&quot;We executed one of you&quot; guy now facing child custody arrest warrant in Michigan</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-16 21:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEZE34CWQ13BSFK762AA2ZPM/hero-image.jpg" alt="Why Everyone Thought We&#x27;d Be Shopping by Voice (and Why That Never Actually Happened)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/what-happened-to-shopping-by-voice?utm_medium=RSS" target="_blank">Why Everyone Thought We&#x27;d Be Shopping by Voice (and Why That Never Actually Happened)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-16 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/Pokemon_Pokopia_Screenshot_14-1280x720.jpeg" alt="Pokémon Pokopia: Everything We Know About The Animal Crossing-Style Life Sim" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-pokopia-release-date-switch-2-multiplayer-ditto-2000660646" target="_blank">Pokémon Pokopia: Everything We Know About The Animal Crossing-Style Life Sim</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-16 19:32</span>
             </div>
         </div>
 </div>
@@ -333,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 02:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 03:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
