@@ -1,35 +1,25 @@
-<!-- Processing 54 RSS feeds at 2026-01-16 23:01:32 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-17 00:04:51 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 4 new posts out of 17 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, January 16, 2026 - 23:01 UTC</div>
+    <div class="newspaper-date">Saturday, January 17, 2026 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -82,6 +72,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-uganda-election_7137570.jpg?20260116214739" alt="&#x27;People power&#x27; opposition supporters shout as voting count in Uganda election turns violent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/people-power-opposition-supporters-shout-as-voting-count-in-uganda-election-turns-violent-13495174" target="_blank">&#x27;People power&#x27; opposition supporters shout as voting count in Uganda election turns violent</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-16 20:35</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -90,20 +89,20 @@
                 <span class="time">2026-01-16 19:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b43c/live/803dc740-f2ff-11f0-b2ab-f70ba525289e.jpg" alt="Police chief retires over Israeli fans ban row" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c77k670ez6yo?at_medium=RSS&at_campaign=rss" target="_blank">Police chief retires over Israeli fans ban row</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-16 18:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/696810d9c189964fca1e9bae/master/pass/Right-Wing-Dehumanize-Renee-Good-Culture-2255169999.jpg" alt="The Campaign to Destroy Renee Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-campaign-to-destroy-renee-good/" target="_blank">The Campaign to Destroy Renee Good</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-16 22:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Ubena_von_Bremen_Kiel2007_1_cropped-500x500.jpg" alt="Archaeologists find a supersized medieval shipwreck in Denmark" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,15 +146,6 @@
                 <span class="title"><a href="https://www.wired.com/story/jackery-explorer-300-plus-deal-126/" target="_blank">Our Favorite Compact Power Station Is on Sale for 33% Off</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-01-16 21:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/863620/data-centers-ai-power-auction-trump" target="_blank">Trump and Mid-Atlantic governors want tech companies to pay for new power plants</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-16 20:51</span>
             </div>
         </div>
 </div>
@@ -237,6 +227,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KF48QB0BCY2BAXR19HG0QPQT/hero-image.webp" alt="ChatGPT Is Getting a Cheaper Subscription Tier (but Also Ads)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/chatgpt-go-ad-subscription?utm_medium=RSS" target="_blank">ChatGPT Is Getting a Cheaper Subscription Tier (but Also Ads)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-16 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/TheScream.jpg?fit=1200%2C855&amp;quality=60&amp;ssl=1" alt="Scaphism: the ancient Persian execution where insects ate you alive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -279,15 +278,6 @@
                 <span class="title"><a href="https://kotaku.com/pokemon-pokopia-release-date-switch-2-multiplayer-ditto-2000660646" target="_blank">Pokémon Pokopia: Everything We Know About The Animal Crossing-Style Life Sim</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-16 19:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Baychimo.jpg?fit=1200%2C775&amp;quality=60&amp;ssl=1" alt="The ghost ship that drifted the Arctic for 38 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/16/the-ghost-ship-that-drifted-the-arctic-for-38-years.html" target="_blank">The ghost ship that drifted the Arctic for 38 years</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-16 19:19</span>
             </div>
         </div>
 </div>
@@ -336,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
