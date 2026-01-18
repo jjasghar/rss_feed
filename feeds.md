@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-01-18 18:02:03 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-18 19:01:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, January 18, 2026 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, January 18, 2026 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/039e/live/9ebb4470-f496-11f0-a422-4ba8a094a8fa.jpg" alt="&#x27;Europe won&#x27;t be blackmailed,&#x27; Danish PM says in wake of Trump Greenland threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Europe won&#x27;t be blackmailed,&#x27; Danish PM says in wake of Trump Greenland threats</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-18 18:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/18/nx-s1-5681406/syrian-government-ceasefire-kurdish-syrian-democratic-forces" target="_blank">Syrian government announces a ceasefire with the Kurdish-led Syrian Democratic Forces</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-18 18:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +94,20 @@
                 <span class="time">2026-01-18 14:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768746547393_mtp_full_bessent_260118_1920x1080-4mamyv.jpg" alt="Scott Bessent says Greenland ‘can only be defended if it is part of the U.S.’: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/scott-bessent-says-greenland-can-only-be-defended-if-it-is-part-of-the-u-s-full-interview-256166981804" target="_blank">Scott Bessent says Greenland ‘can only be defended if it is part of the U.S.’: Full interview</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-18 14:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/talk-to-al-jazeera/2026/1/18/jagan-chapagain-is-the-global-humanitarian-system-breaking-down?traffic_source=rss" target="_blank">Jagan Chapagain: Is the global humanitarian system breaking down?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-18 14:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/864032/microsofts-out-of-band-windows-11-update-bug" target="_blank">Microsoft’s first Windows 11 update of 2026 stopped some computers from shutting down</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-18 16:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +153,6 @@
                 <span class="time">2026-01-18 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/17/why-silicon-valley-is-really-talking-about-fleeing-california-its-not-the-5/" target="_blank">Why Silicon Valley is really talking about fleeing California (it’s not the 5%)</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-18 01:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +165,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devopsdynamicshub/azure-practice-day-1-1kp8" target="_blank">Azure Practice Day 1</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-18 18:44</span>
             </div>
         </div>
 <div class="story">
@@ -205,20 +212,20 @@
                 <span class="time">2026-01-18 13:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/swifteexstudio/hey-world-i-made-a-programming-language-and-its-alive-1154" target="_blank">Hey world, I made a programming language (and it’s alive!)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-18 12:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/pentagon-uap-ufo-1262x1280.jpg" alt="The Disclosure of Aliens Could Cause a Bitcoin Rush, Former Bank of England Analyst Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471" target="_blank">The Disclosure of Aliens Could Cause a Bitcoin Rush, Former Bank of England Analyst Says</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-18 18:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/07/181b6bd0441bacbbf5bf0c60d646957f-1280x720.jpg" alt="Ex-Assassin’s Creed Boss Sues Ubisoft For Nearly $1 Million Over Alleged Forced Firing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +271,6 @@
                 <span class="time">2026-01-17 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/iran-btc-1280x854.jpg" alt="Report Shows Massive Increase in Iranian Bitcoin Adoption Amid Nationwide Unrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/iranian-bitcoin-adoption-amid-nationwide-unrest-2000711457" target="_blank">Report Shows Massive Increase in Iranian Bitcoin Adoption Amid Nationwide Unrest</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-17 20:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
