@@ -1,41 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-18 22:01:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-18 23:01:28 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, January 18, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, January 18, 2026 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c15b/live/e1130f00-f4a1-11f0-b385-5f48925de19a.jpg" alt="Government pulls Hillsborough Law debate after backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yvldj47v9o?at_medium=RSS&at_campaign=rss" target="_blank">Government pulls Hillsborough Law debate after backlash</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-18 22:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/18/nx-s1-5680263/in-los-angeles-iranian-americans-march-against-government-crackdown-in-iran" target="_blank">In Los Angeles, Iranian-Americans march against government crackdown in Iran</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-18 22:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,24 +102,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c5yvldj47v9o?at_medium=RSS&at_campaign=rss" target="_blank">Government pulls Hillsborough Law amendment after backlash</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-18 19:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/039e/live/9ebb4470-f496-11f0-a422-4ba8a094a8fa.jpg" alt="&#x27;Europe won&#x27;t be blackmailed,&#x27; Danish PM says in wake of Trump Greenland threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Europe won&#x27;t be blackmailed,&#x27; Danish PM says in wake of Trump Greenland threats</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-18 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/18/nx-s1-5681406/syrian-government-ceasefire-kurdish-syrian-democratic-forces" target="_blank">Syrian government announces a ceasefire with the Kurdish-led Syrian Democratic Forces</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-18 18:39</span>
             </div>
         </div>
 </div>
@@ -292,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
