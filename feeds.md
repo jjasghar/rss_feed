@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-18 21:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-18 22:01:27 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, January 18, 2026 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, January 18, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/18/nx-s1-5678366/united-nations-general-assembly-80-london" target="_blank">United Nations leaders bemoan global turmoil as the General Assembly turns 80</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-18 21:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/1/18/will-the-syrian-army-end-up-controlling-kurdish-held-areas?traffic_source=rss" target="_blank">Will the Syrian army end up controlling Kurdish-held areas?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-18 20:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +103,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/18/nx-s1-5681406/syrian-government-ceasefire-kurdish-syrian-democratic-forces" target="_blank">Syrian government announces a ceasefire with the Kurdish-led Syrian Democratic Forces</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-18 18:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/18/trump-announces-new-tariffs-over-greenland-how-have-eu-allies-responded?traffic_source=rss" target="_blank">Trump announces new tariffs over Greenland: How have EU allies responded?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-18 17:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/18/benin-opposition-loses-all-parliamentary-seats-provisional-results-show?traffic_source=rss" target="_blank">Benin’s opposition loses all parliamentary seats, provisional results show</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-18 16:25</span>
             </div>
         </div>
 </div>
@@ -171,6 +179,24 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/siy/slices-the-right-size-for-microservices-c4" target="_blank">Slices: The Right Size for Microservices</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-18 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ReactOS-Async-Net-Connect" target="_blank">ReactOS For &quot;Open-Source Windows&quot; Achieves Massive Networking Performance Boost</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-18 20:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/01/Wine-Software-2025.jpg?resize=406%2C232&amp;ssl=1" alt="Wine Patches Bring Newer Versions of Adobe Photoshop to Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -197,29 +223,20 @@
                 <span class="time">2026-01-18 17:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Apple-Mac-USB2-Fixes" target="_blank">Linux 6.19 Landing Fixes For USB2/USB3 Issues With Apple M1/M2 Macs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-18 17:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ni66pgsmypw4rh6deqh.jpg" alt="The Real Cost of Loving What You Do: The Uncomfortable Truth About Developer Burnout" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/georgekobaidze/the-real-cost-of-loving-what-you-do-the-uncomfortable-truth-about-developer-burnout-43n6" target="_blank">The Real Cost of Loving What You Do: The Uncomfortable Truth About Developer Burnout</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-18 15:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/shutterstock_2396034011-1280x853.jpg" alt="EPA Rule Clarification Hits a Significant Source of Grok’s Electricity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/epa-rule-clarification-hits-a-significant-source-of-groks-electricity-2000711569" target="_blank">EPA Rule Clarification Hits a Significant Source of Grok’s Electricity</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-18 21:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/pentagon-uap-ufo-1262x1280.jpg" alt="The Disclosure of Aliens Could Cause a Bitcoin Rush, Former Bank of England Analyst Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,24 +273,6 @@
                 <span class="time">2026-01-18 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Microsoft-Windows-11-Pro-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="The most advanced Microsoft OS is now $10 — yes, really." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/17/the-most-advanced-microsoft-os-is-now-10-yes-really.html" target="_blank">The most advanced Microsoft OS is now $10 — yes, really.</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-17 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/fallout-mtg-1280x853.jpg" alt="‘Fallout’ Returns to ‘Magic: The Gathering’ and Secret Lair" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/fallout-returns-to-magic-the-gathering-and-secret-lair-2000711431" target="_blank">‘Fallout’ Returns to ‘Magic: The Gathering’ and Secret Lair</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-17 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
