@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-18 02:43:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-18 03:30:40 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, January 18, 2026 - 02:43 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, January 18, 2026 - 03:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +48,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/18/military-leader-doumbouya-sworn-in-as-guineas-president?traffic_source=rss" target="_blank">Military leader Doumbouya sworn in as Guinea’s president</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-18 02:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/USA-TRUMP-MINNESOTA_1768701595891_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Active-duty soldiers on standby, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates/?id=129124338" target="_blank">Minneapolis ICE shooting live updates: Active-duty soldiers on standby, sources say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-18 02:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768698457922_wnn_trump_threatens_greenland_tariffs_260117_1920x1080-1uc9p5.jpg" alt="Trump hits Denmark and 7 other U.S. allies with tariffs, escalating standoff over Greenland" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/video/trump-hits-denmark-and-7-other-u-s-allies-with-tariffs-escalating-standoff-over-greenland-256154181886" target="_blank">Trump hits Denmark and 7 other U.S. allies with tariffs, escalating standoff over Greenland</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-01-18 01:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/17/g-s1-106420/harbaugh-ny-giants-coach-ravens" target="_blank">New York Giants hire John Harbaugh as coach after identifying him as their top choice</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-18 00:40</span>
             </div>
         </div>
 <div class="story">
@@ -68,33 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cy4qjwk9n2no?at_medium=RSS&at_campaign=rss" target="_blank">Trump tariff threat over Greenland &#x27;unacceptable&#x27;, European leaders say</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-17 22:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/17/us-says-it-killed-al-qaeda-affiliated-leader-tied-to-deadly-syria-ambush?traffic_source=rss" target="_blank">US says it killed al-Qaeda-affiliated leader tied to deadly Syria ambush</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-17 21:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b39/live/14032990-f3e4-11f0-808e-fddbe2ff1e6c.jpg" alt="Starmer says Trump&#x27;s tariff threat over Greenland &#x27;completely wrong&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c78ene3221yo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer says Trump&#x27;s tariff threat over Greenland &#x27;completely wrong&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-17 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/greenland-1-gty-er-260117_1768669423064_hpMain_4x3t_384.jpg" alt="Trump announces tariffs on NATO allies over Greenland response" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/trump-announces-tariffs-nato-allies-opposing-us-control/story?id=129310383" target="_blank">Trump announces tariffs on NATO allies over Greenland response</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-17 20:42</span>
             </div>
         </div>
 </div>
@@ -173,6 +177,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tremolgraterol/el-sesgo-tech-del-newdev-cuando-la-novedad-nubla-la-eficiencia-19fh" target="_blank">El Sesgo Tech del &#x27;NewDev&#x27;: Cuando la Novedad Nubla la Eficiencia</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-18 03:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Synex-Debian-With-ZFS" target="_blank">Synex Server: A New Debian Based Linux Distro With Native ZFS Installation Support</a></span>
                 <span class="feed">Phoronix</span>
@@ -204,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/punkpeye/mcp-inspector-is-now-stable-a-browser-based-tool-for-testing-mcp-servers-4dim" target="_blank">MCP Inspector is Now Stable: A Browser-Based Tool for Testing MCP Servers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-17 22:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://willhbr.net/2025/10/20/light-mode-infffffflation/" target="_blank">Light Mode InFFFFFFlation</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-17 22:19</span>
             </div>
         </div>
 </div>
@@ -293,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 02:43 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 03:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
