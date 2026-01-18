@@ -1,29 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-18 15:01:28 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-18 16:01:39 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, January 18, 2026 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, January 18, 2026 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,12 +48,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/18/nx-s1-5681372/u-s-military-troops-on-standby-for-possible-deployment-to-minnesota" target="_blank">U.S. military troops on standby for possible deployment to Minnesota</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-18 15:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/TW-MICHAEL-MCCAUL-20260118-ABC-JH_1768746077259_hpMain_4x3t_384.jpeg" alt="GOP Rep. McCaul says a US invasion of Greenland would mean &#x27;war with NATO itself&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Politics/gop-rep-mccaul-us-invasion-greenland-war-nato/story?id=129325652" target="_blank">GOP Rep. McCaul says a US invasion of Greenland would mean &#x27;war with NATO itself&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-18 14:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768746547393_mtp_full_bessent_260118_1920x1080-4mamyv.jpg" alt="Scott Bessent says Greenland ‘can only be defended if it is part of the U.S.’: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/scott-bessent-says-greenland-can-only-be-defended-if-it-is-part-of-the-u-s-full-interview-256166981804" target="_blank">Scott Bessent says Greenland ‘can only be defended if it is part of the U.S.’: Full interview</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-18 14:29</span>
             </div>
         </div>
 <div class="story">
@@ -75,29 +101,20 @@
                 <span class="time">2026-01-18 11:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/18/nx-s1-5678974/venezuela-maduro-enforcer-cabello" target="_blank">Venezuela: Maduro&#x27;s enforcer Cabello still central to power</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-18 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-tony-blair_7137765.jpg?20260118110732" alt="US &#x27;wants countries to pay $1bn to stay on Gaza peace board&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/us-wants-countries-to-pay-1bn-to-stay-on-gaza-peace-board-13495801" target="_blank">US &#x27;wants countries to pay $1bn to stay on Gaza peace board&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-18 10:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/" target="_blank">Moxie Marlinspike has a privacy-conscious alternative to ChatGPT</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-18 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,15 +160,6 @@
                 <span class="time">2026-01-18 01:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/17/who-gets-to-inherit-the-stars-a-space-ethicist-on-what-were-not-talking-about/" target="_blank">Who gets to inherit the stars? A space ethicist on what we’re not talking about</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-17 22:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,6 +172,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ni66pgsmypw4rh6deqh.jpg" alt="The Real Cost of Loving What You Do: The Uncomfortable Truth About Developer Burnout" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/georgekobaidze/the-real-cost-of-loving-what-you-do-the-uncomfortable-truth-about-developer-burnout-43n6" target="_blank">The Real Cost of Loving What You Do: The Uncomfortable Truth About Developer Burnout</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-18 15:48</span>
             </div>
         </div>
 <div class="story">
@@ -202,20 +219,20 @@
                 <span class="time">2026-01-18 11:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anisubhra_sarkar/javascript-design-patterns-and-when-you-should-actually-use-them-25c4" target="_blank">JavaScript Design Patterns — And When You Should Actually Use Them</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-18 10:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/stranger-things-snl-1280x853.jpg" alt="The Ninth ‘Stranger Things’ Episode Exists…on ‘SNL’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-ninth-stranger-things-episode-exists-on-snl-2000711539" target="_blank">The Ninth ‘Stranger Things’ Episode Exists…on ‘SNL’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-18 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/switchbot-video-doorbell-review-1-1280x853.jpg" alt="The SwitchBot Smart Video Doorbell Is a Smart Home Camera for Almost Nobody" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,15 +278,6 @@
                 <span class="time">2026-01-17 20:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/07/Screen-Shot-2023-07-08-at-12.42.09-PM.png?fit=1090%2C1024&amp;quality=55&amp;ssl=1" alt="This tree kangaroo quenching his thirst is top-notch &quot;animals drinking&quot; ASMR" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/17/this-tree-kangaroo-quenching-his-thirst-is-top-notch-animals-drinking-asmr.html" target="_blank">This tree kangaroo quenching his thirst is top-notch &quot;animals drinking&quot; ASMR</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-17 20:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -289,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
