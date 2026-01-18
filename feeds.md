@@ -1,41 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-18 08:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-18 09:02:02 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Generated 3 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, January 18, 2026 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, January 18, 2026 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/18/anti-ice-rally-chases-off-us-far-right-influencer-jake-lang-in-minneapolis?traffic_source=rss" target="_blank">Anti-ICE rally chases off US far-right influencer Jake Lang in Minneapolis</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-18 08:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +103,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/18/military-leader-doumbouya-sworn-in-as-guineas-president?traffic_source=rss" target="_blank">Military leader Doumbouya sworn in as Guinea’s president</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-18 02:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/USA-TRUMP-MINNESOTA_1768701595891_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Active-duty soldiers on standby, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates/?id=129124338" target="_blank">Minneapolis ICE shooting live updates: Active-duty soldiers on standby, sources say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-18 02:35</span>
             </div>
         </div>
 </div>
@@ -179,6 +179,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/davidscanu/guide-nutritionnel-aliments-classes-par-valeur-calorique-3h63" target="_blank">🥙🥗 Guide Nutritionnel : Aliments classés par valeur calorique</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-18 08:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/01/huggingface-fine-translations/en/headerimage/generatedHeaderImage-1768297164332.jpg" alt="Hugging Face Releases FineTranslations, a Trillion-Token Multilingual Parallel Text Dataset" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -212,15 +221,6 @@
                 <span class="title"><a href="https://dev.to/codebunny20/introducing-bloom-what-ive-built-what-ive-fixed-and-why-im-making-it-8jg" target="_blank">🌱 Introducing Bloom — What I’ve Built, What I’ve Fixed, and Why I’m Making It</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-18 04:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cyberpath/agentic-ai-vs-agentic-attacks-the-autonomous-threat-landscape-of-2026-352p" target="_blank">Agentic AI vs. Agentic Attacks: The Autonomous Threat Landscape of 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-18 04:07</span>
             </div>
         </div>
 </div>
@@ -301,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
