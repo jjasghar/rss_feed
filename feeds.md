@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-18 07:02:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-18 08:01:48 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, January 18, 2026 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, January 18, 2026 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,9 +55,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/1/18/enormous-pain-in-my-heart-palestinian-evictions-mount-in-east-jerusalem?traffic_source=rss" target="_blank">‘Enormous pain in my heart’: Palestinian evictions mount in East Jerusalem</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-18 07:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/18/thousands-rally-in-serbia-as-students-continue-fight-against-corruption?traffic_source=rss" target="_blank">Thousands rally in Serbia as students continue fight against corruption</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-18 06:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-donald-trump-eu_7138626.jpg?20260118041448" alt="Trump is not bluffing, Greenland situation is critical for the EU and NATO" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-wants-greenland-the-challenge-is-to-find-a-middle-ground-if-there-is-one-13495736" target="_blank">Trump is not bluffing, Greenland situation is critical for the EU and NATO</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-18 06:00</span>
             </div>
         </div>
 <div class="story">
@@ -76,24 +103,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates/?id=129124338" target="_blank">Minneapolis ICE shooting live updates: Active-duty soldiers on standby, sources say</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-18 02:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768698457922_wnn_trump_threatens_greenland_tariffs_260117_1920x1080-1uc9p5.jpg" alt="Trump hits Denmark and 7 other U.S. allies with tariffs, escalating standoff over Greenland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-hits-denmark-and-7-other-u-s-allies-with-tariffs-escalating-standoff-over-greenland-256154181886" target="_blank">Trump hits Denmark and 7 other U.S. allies with tariffs, escalating standoff over Greenland</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-18 01:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/17/g-s1-106420/harbaugh-ny-giants-coach-ravens" target="_blank">New York Giants hire John Harbaugh as coach after identifying him as their top choice</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-18 00:40</span>
             </div>
         </div>
 </div>
@@ -170,6 +179,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/01/huggingface-fine-translations/en/headerimage/generatedHeaderImage-1768297164332.jpg" alt="Hugging Face Releases FineTranslations, a Trillion-Token Multilingual Parallel Text Dataset" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/huggingface-fine-translations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Hugging Face Releases FineTranslations, a Trillion-Token Multilingual Parallel Text Dataset</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-18 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5622AQFWQiuIBr8eWA%2Ffeedshare-shrink_1280%2FB56ZptbF5iG0As-%2F0%2F1762772415626%3Fe%3D2147483647%26v%3Dbeta%26t%3DzgCclwTLAm9qv1Ow13VYXBJ3E5iT7idBJBhwXDToYwY" alt="Deploying the AWS re:Invent Map with AWS Amplify Hosting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-heroes/deploying-the-aws-reinvent-map-with-aws-amplify-hosting-3em" target="_blank">Deploying the AWS re:Invent Map with AWS Amplify Hosting</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-18 07:51</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -194,24 +221,6 @@
                 <span class="title"><a href="https://dev.to/cyberpath/agentic-ai-vs-agentic-attacks-the-autonomous-threat-landscape-of-2026-352p" target="_blank">Agentic AI vs. Agentic Attacks: The Autonomous Threat Landscape of 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-18 04:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://twitter.com/neelsomani/status/2012695714187325745" target="_blank">Erdos 281 solved with ChatGPT 5.2 Pro</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-18 03:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tremolgraterol/el-sesgo-tech-del-newdev-cuando-la-novedad-nubla-la-eficiencia-19fh" target="_blank">El Sesgo Tech del &#x27;NewDev&#x27;: Cuando la Novedad Nubla la Eficiencia</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-18 03:00</span>
             </div>
         </div>
 </div>
@@ -292,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
