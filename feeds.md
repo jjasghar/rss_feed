@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-18 01:30:06 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-18 02:43:24 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, January 18, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, January 18, 2026 - 02:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768698457922_wnn_trump_threatens_greenland_tariffs_260117_1920x1080-1uc9p5.jpg" alt="Trump hits Denmark and 7 other U.S. allies with tariffs, escalating standoff over Greenland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-hits-denmark-and-7-other-u-s-allies-with-tariffs-escalating-standoff-over-greenland-256154181886" target="_blank">Trump hits Denmark and 7 other U.S. allies with tariffs, escalating standoff over Greenland</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-18 01:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +95,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/trump-announces-tariffs-nato-allies-opposing-us-control/story?id=129310383" target="_blank">Trump announces tariffs on NATO allies over Greenland response</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-17 20:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c884/live/7349b990-f39a-11f0-9212-79f406d84709.jpg" alt="Iran supreme leader acknowledges thousands killed during recent protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckglee733wno?at_medium=RSS&at_campaign=rss" target="_blank">Iran supreme leader acknowledges thousands killed during recent protests</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-17 20:14</span>
             </div>
         </div>
 </div>
@@ -178,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Synex-Debian-With-ZFS" target="_blank">Synex Server: A New Debian Based Linux Distro With Native ZFS Installation Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-18 01:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rex_zhen_a9a8400ee9f22e98/why-service-mesh-never-took-off-despite-being-incredibly-powerful-3fao" target="_blank">Why Service Mesh Never Took Off (Despite Being Incredibly Powerful)</a></span>
                 <span class="feed">DEV Community</span>
@@ -209,15 +213,6 @@
                 <span class="title"><a href="https://willhbr.net/2025/10/20/light-mode-infffffflation/" target="_blank">Light Mode InFFFFFFlation</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-17 22:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thejuanguerrero/from-python-to-opengl-a-modern-cross-platform-survival-guide-for-osu-cs-450-50pk" target="_blank">From Python to OpenGL: A Modern, Cross-Platform Survival Guide for OSU CS-450</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-17 21:56</span>
             </div>
         </div>
 </div>
@@ -298,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 02:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
