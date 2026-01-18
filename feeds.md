@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-18 04:16:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-01-18 05:03:56 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, January 18, 2026 - 04:16 UTC</div>
+    <div class="newspaper-date">Sunday, January 18, 2026 - 05:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -171,9 +174,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/codebunny20/introducing-bloom-what-ive-built-what-ive-fixed-and-why-im-making-it-8jg" target="_blank">🌱 Introducing Bloom — What I’ve Built, What I’ve Fixed, and Why I’m Making It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-18 04:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/cyberpath/agentic-ai-vs-agentic-attacks-the-autonomous-threat-landscape-of-2026-352p" target="_blank">Agentic AI vs. Agentic Attacks: The Autonomous Threat Landscape of 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-18 04:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://twitter.com/neelsomani/status/2012695714187325745" target="_blank">Erdos 281 solved with ChatGPT 5.2 Pro</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-18 03:48</span>
             </div>
         </div>
 <div class="story">
@@ -192,24 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Synex-Debian-With-ZFS" target="_blank">Synex Server: A New Debian Based Linux Distro With Native ZFS Installation Support</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-18 01:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rex_zhen_a9a8400ee9f22e98/why-service-mesh-never-took-off-despite-being-incredibly-powerful-3fao" target="_blank">Why Service Mesh Never Took Off (Despite Being Incredibly Powerful)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-17 23:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1" target="_blank">If you put Apple icons in reverse it looks like someone getting good at design</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-17 23:47</span>
             </div>
         </div>
 </div>
@@ -290,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 04:16 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 05:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
