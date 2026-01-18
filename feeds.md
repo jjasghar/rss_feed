@@ -1,41 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-01-18 12:02:16 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-18 13:09:48 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, January 18, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, January 18, 2026 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2026/1/18/israel-recognises-homesh-settlement-to-prevent-a-palestinian?traffic_source=rss" target="_blank">Israel recognises Homesh settlement to “prevent a Palestinian state”</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-18 12:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ad6/live/853738d0-f45d-11f0-9770-99416102eb44.jpg" alt="Reform is not rescue charity for panicky Tory MPs, Farage says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -96,15 +93,6 @@
                 <span class="time">2026-01-18 10:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/18/nx-s1-5678579/ice-clashes-new-hampshire-bishop-urges-clergy-prepare-wills" target="_blank">Amid ICE clashes, New Hampshire bishop urges clergy to prepare their wills</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-18 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -116,6 +104,15 @@
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/science/2026/01/ocean-damage-nearly-doubles-the-cost-of-climate-change/" target="_blank">Ocean damage nearly doubles the cost of climate change</a></span>
                 <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-18 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/696b10ea3766328cdf7d499c/master/pass/The%2015%20Best%20Electric%20Bikes%20for%20Every%20Kind%20of%20Ride-jan2026.png" alt="15 Best Electric Bikes (2026), Tested and Reviewed: Commuting, Mountain Biking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-electric-bikes/" target="_blank">15 Best Electric Bikes (2026), Tested and Reviewed: Commuting, Mountain Biking</a></span>
+                <span class="feed">WIRED</span>
                 <span class="time">2026-01-18 12:00</span>
             </div>
         </div>
@@ -155,15 +152,6 @@
                 <span class="time">2026-01-17 18:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/863980/disney-deleted-anti-fascist-thread" target="_blank">Disney deleted a Thread because people kept quoting its movies at it</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-17 18:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +164,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/swifteexstudio/hey-world-i-made-a-programming-language-and-its-alive-1154" target="_blank">Hey world, I made a programming language (and it’s alive!)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-18 12:58</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +209,6 @@
                 <span class="title"><a href="https://dev.to/davidscanu/guide-nutritionnel-aliments-classes-par-valeur-calorique-3h63" target="_blank">🥙🥗 Guide Nutritionnel : Aliments classés par valeur calorique</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-18 08:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/huggingface-fine-translations/en/headerimage/generatedHeaderImage-1768297164332.jpg" alt="Hugging Face Releases FineTranslations, a Trillion-Token Multilingual Parallel Text Dataset" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/huggingface-fine-translations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Hugging Face Releases FineTranslations, a Trillion-Token Multilingual Parallel Text Dataset</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-18 08:00</span>
             </div>
         </div>
 </div>
@@ -301,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
