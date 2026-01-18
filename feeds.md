@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-18 09:02:02 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-18 10:01:22 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 32 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, January 18, 2026 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, January 18, 2026 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/18/at-least-six-killed-in-pakistan-as-fire-rips-through-karachi-shopping-mall?traffic_source=rss" target="_blank">At least six killed in Pakistan as fire rips through Karachi shopping mall</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-18 09:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,30 +84,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-donald-trump-eu_7138626.jpg?20260118041448" alt="Trump is not bluffing, Greenland situation is critical for Europe and NATO" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-is-not-bluffing-greenland-situation-is-critical-for-europe-and-nato-13495736" target="_blank">Trump is not bluffing, Greenland situation is critical for Europe and NATO</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-18 06:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/01/1920x1080/skynews-donald-trump-eu_7138626.jpg?20260118041448" alt="Trump is not bluffing, Greenland situation is critical for the EU and NATO" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/trump-wants-greenland-the-challenge-is-to-find-a-middle-ground-if-there-is-one-13495736" target="_blank">Trump is not bluffing, Greenland situation is critical for the EU and NATO</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-01-18 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-donald-trump-eu_7138626.jpg?20260118041448" alt="Trump wants Greenland: The challenge is to find a middle ground - if there is one" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-wants-greenland-the-challenge-is-to-find-a-middle-ground-if-there-is-one-13495736" target="_blank">Trump wants Greenland: The challenge is to find a middle ground - if there is one</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-18 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/18/military-leader-doumbouya-sworn-in-as-guineas-president?traffic_source=rss" target="_blank">Military leader Doumbouya sworn in as Guinea’s president</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-18 02:59</span>
             </div>
         </div>
 </div>
@@ -179,6 +175,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/01/opsworker-ai-sre/en/headerimage/generatedHeaderImage-1768694462332.jpg" alt="Human‑Centred AI for SRE: Multi‑Agent Incident Response without Losing Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/opsworker-ai-sre/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Human‑Centred AI for SRE: Multi‑Agent Incident Response without Losing Control</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-18 09:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -212,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/njokijoan003commits/getting-started-with-git-and-github-a-beginners-guide-2k93" target="_blank">🚀 Getting Started with Git and GitHub: A Beginner’s Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-18 05:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/codebunny20/introducing-bloom-what-ive-built-what-ive-fixed-and-why-im-making-it-8jg" target="_blank">🌱 Introducing Bloom — What I’ve Built, What I’ve Fixed, and Why I’m Making It</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-18 04:54</span>
             </div>
         </div>
 </div>
@@ -302,7 +298,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 09:02 UTC
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
