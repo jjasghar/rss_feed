@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-18 00:05:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-18 01:30:06 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, January 18, 2026 - 00:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, January 18, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +55,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/17/g-s1-106418/us-strike-syria-islamic-state-ambush" target="_blank">US launches new retaliatory strike in Syria, killing leader tied to deadly Islamic State ambush</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-17 22:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2519/live/b7c7f9e0-f3e2-11f0-808e-fddbe2ff1e6c.png" alt="Trump tariff threat over Greenland &#x27;unacceptable&#x27;, European leaders say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy4qjwk9n2no?at_medium=RSS&at_campaign=rss" target="_blank">Trump tariff threat over Greenland &#x27;unacceptable&#x27;, European leaders say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-17 22:05</span>
             </div>
         </div>
 <div class="story">
@@ -89,20 +102,20 @@
                 <span class="time">2026-01-17 20:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/17/ugandas-museveni-wins-7th-term-opponent-calls-results?traffic_source=rss" target="_blank">Uganda’s Museveni wins 7th term, opponent calls results ‘fake’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-17 20:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/17/why-silicon-valley-is-really-talking-about-fleeing-california-its-not-the-5/" target="_blank">Why Silicon Valley is really talking about fleeing California (it’s not the 5%)</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-18 01:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +161,6 @@
                 <span class="time">2026-01-17 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/863503/apple-mac-mini-m4-lg-c5-oled-tv-deal-sale" target="_blank">The LG C5 and Apple’s M4 Mac Mini are both steeply discounted this weekend</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-17 15:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,6 +182,15 @@
                 <span class="title"><a href="https://dev.to/rex_zhen_a9a8400ee9f22e98/why-service-mesh-never-took-off-despite-being-incredibly-powerful-3fao" target="_blank">Why Service Mesh Never Took Off (Despite Being Incredibly Powerful)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-17 23:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1" target="_blank">If you put Apple icons in reverse it looks like someone getting good at design</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-17 23:47</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/thejuanguerrero/from-python-to-opengl-a-modern-cross-platform-survival-guide-for-osu-cs-450-50pk" target="_blank">From Python to OpenGL: A Modern, Cross-Platform Survival Guide for OSU CS-450</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-17 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/link2twenty/express-setup-simple-scalable-3hin" target="_blank">Express Setup: Simple &amp; Scalable</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-17 20:42</span>
             </div>
         </div>
 </div>
@@ -289,22 +293,13 @@
                 <span class="time">2026-01-17 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/17/road-to-impressed" target="_blank">Road To Impressed</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-17 00:26</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 00:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
