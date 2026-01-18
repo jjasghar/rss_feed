@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-18 10:01:22 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-01-18 11:01:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, January 18, 2026 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, January 18, 2026 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +52,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/18/al-jazeera-reports-from-greenlands-capital-as-thousands-protest-us-threats?traffic_source=rss" target="_blank">Al Jazeera reports from Greenland’s capital as thousands protest US threats</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-18 10:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4560/live/b6840160-f454-11f0-a422-4ba8a094a8fa.jpg" alt="Greenland&#x27;s people must decide its future, says Nandy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyn90l1dneo?at_medium=RSS&at_campaign=rss" target="_blank">Greenland&#x27;s people must decide its future, says Nandy</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-18 10:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/greenland-3-ap-gmh-260116_1768587781283_hpMain_4x3t_384.jpg" alt="Europe &#x27;united&#x27; in face of Trump&#x27;s Greenland threats, tariffs, EU chief says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/europe-united-face-trumps-greenland-threats-tariffs-eu/story?id=129324420" target="_blank">Europe &#x27;united&#x27; in face of Trump&#x27;s Greenland threats, tariffs, EU chief says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-18 10:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/18/nx-s1-5678579/ice-clashes-new-hampshire-bishop-urges-clergy-prepare-wills" target="_blank">Amid ICE clashes, New Hampshire bishop urges clergy to prepare their wills</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-18 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/18/at-least-six-killed-in-pakistan-as-fire-rips-through-karachi-shopping-mall?traffic_source=rss" target="_blank">At least six killed in Pakistan as fire rips through Karachi shopping mall</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-18 09:31</span>
@@ -63,42 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/18/anti-ice-rally-chases-off-us-far-right-influencer-jake-lang-in-minneapolis?traffic_source=rss" target="_blank">Anti-ICE rally chases off US far-right influencer Jake Lang in Minneapolis</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-18 08:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/1/18/enormous-pain-in-my-heart-palestinian-evictions-mount-in-east-jerusalem?traffic_source=rss" target="_blank">‘Enormous pain in my heart’: Palestinian evictions mount in East Jerusalem</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-18 07:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/18/thousands-rally-in-serbia-as-students-continue-fight-against-corruption?traffic_source=rss" target="_blank">Thousands rally in Serbia as students continue fight against corruption</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-18 06:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-donald-trump-eu_7138626.jpg?20260118041448" alt="Trump is not bluffing, Greenland situation is critical for Europe and NATO" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-is-not-bluffing-greenland-situation-is-critical-for-europe-and-nato-13495736" target="_blank">Trump is not bluffing, Greenland situation is critical for Europe and NATO</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-18 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-donald-trump-eu_7138626.jpg?20260118041448" alt="Trump is not bluffing, Greenland situation is critical for the EU and NATO" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-wants-greenland-the-challenge-is-to-find-a-middle-ground-if-there-is-one-13495736" target="_blank">Trump is not bluffing, Greenland situation is critical for the EU and NATO</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-18 06:00</span>
             </div>
         </div>
 </div>
@@ -175,6 +176,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anisubhra_sarkar/javascript-design-patterns-and-when-you-should-actually-use-them-25c4" target="_blank">JavaScript Design Patterns — And When You Should Actually Use Them</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-18 10:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/01/opsworker-ai-sre/en/headerimage/generatedHeaderImage-1768694462332.jpg" alt="Human‑Centred AI for SRE: Multi‑Agent Incident Response without Losing Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -208,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/aws-heroes/deploying-the-aws-reinvent-map-with-aws-amplify-hosting-3em" target="_blank">Deploying the AWS re:Invent Map with AWS Amplify Hosting</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-18 07:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/njokijoan003commits/getting-started-with-git-and-github-a-beginners-guide-2k93" target="_blank">🚀 Getting Started with Git and GitHub: A Beginner’s Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-18 05:50</span>
             </div>
         </div>
 </div>
@@ -297,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
