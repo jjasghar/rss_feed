@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-18 17:01:52 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-18 18:02:03 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, January 18, 2026 - 17:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, January 18, 2026 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +49,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/18/benin-opposition-loses-all-parliamentary-seats-provisional-results-show?traffic_source=rss" target="_blank">Benin’s opposition loses all parliamentary seats, provisional results show</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-18 16:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/18/nx-s1-5681372/us-military-troops-on-standby-for-possible-deployment-to-minnesota" target="_blank">U.S. military troops on standby for possible deployment to Minnesota</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-18 15:34</span>
             </div>
         </div>
 <div class="story">
@@ -89,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/talk-to-al-jazeera/2026/1/18/jagan-chapagain-is-the-global-humanitarian-system-breaking-down?traffic_source=rss" target="_blank">Jagan Chapagain: Is the global humanitarian system breaking down?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-18 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa7d/live/fd16c770-f468-11f0-a0d3-85939bf94401.jpg" alt="Minister &#x27;confident&#x27; issues over Hillsborough Law can be resolved" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yvldj47v9o?at_medium=RSS&at_campaign=rss" target="_blank">Minister &#x27;confident&#x27; issues over Hillsborough Law can be resolved</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-18 13:28</span>
             </div>
         </div>
 </div>
@@ -174,6 +170,24 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/afrologicinsect/building-production-ai-a-three-part-mlops-journey-pt2-415m" target="_blank">Building Production AI: A Three-Part MLOps Journey - Pt.2</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-18 17:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Apple-Mac-USB2-Fixes" target="_blank">Linux 6.19 Landing Fixes For USB2/USB3 Issues With Apple M1/M2 Macs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-18 17:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ni66pgsmypw4rh6deqh.jpg" alt="The Real Cost of Loving What You Do: The Uncomfortable Truth About Developer Burnout" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,29 +214,20 @@
                 <span class="time">2026-01-18 12:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff9wdziejgzmug7qal2jz.png" alt="Hexagonal architecture - Another way to the hexagone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/marabesi/hexagonal-architecture-another-way-to-the-hexagone-25g0" target="_blank">Hexagonal architecture - Another way to the hexagone</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-18 11:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/intel-speed-select-non-root" target="_blank">Linux&#x27;s Intel-Speed-Select Tool Will Allow Non-Root Use With Linux 7.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-18 11:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/07/181b6bd0441bacbbf5bf0c60d646957f-1280x720.jpg" alt="Ex-Assassin’s Creed Boss Sues Ubisoft For Nearly $1 Million Over Alleged Forced Firing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/assassins-creed-lawsuit-ubisoft-marc-alexis-cote-hexe-2000660833" target="_blank">Ex-Assassin’s Creed Boss Sues Ubisoft For Nearly $1 Million Over Alleged Forced Firing</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-18 16:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/stranger-things-snl-1280x853.jpg" alt="The Ninth ‘Stranger Things’ Episode Exists…on ‘SNL’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +273,6 @@
                 <span class="time">2026-01-17 20:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/recklessdriving.jpeg?fit=1500%2C924&amp;quality=60&amp;ssl=1" alt="Hungary&#x27;s musical road uses music to encourage safe driving" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/17/hungarys-musical-road-uses-music-to-encourage-safe-driving.html" target="_blank">Hungary&#x27;s musical road uses music to encourage safe driving</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-17 20:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
