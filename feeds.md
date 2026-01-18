@@ -1,29 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-18 13:09:48 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-01-18 14:01:33 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, January 18, 2026 - 13:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, January 18, 2026 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -67,6 +77,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-tony-blair_7137765.jpg?20260118110732" alt="US &#x27;wants countries to pay $1bn to stay on Gaza peace board&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/us-wants-countries-to-pay-1bn-to-stay-on-gaza-peace-board-13495801" target="_blank">US &#x27;wants countries to pay $1bn to stay on Gaza peace board&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-18 10:53</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -84,20 +103,20 @@
                 <span class="time">2026-01-18 10:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/greenland-3-ap-gmh-260116_1768587781283_hpMain_4x3t_384.jpg" alt="Europe &#x27;united&#x27; in face of Trump&#x27;s Greenland threats, tariffs, EU chief says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/europe-united-face-trumps-greenland-threats-tariffs-eu/story?id=129324420" target="_blank">Europe &#x27;united&#x27; in face of Trump&#x27;s Greenland threats, tariffs, EU chief says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-18 10:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/863660/best-buy-winter-sale-2026-oled-tvs-headphones-fitness-trackers-deal-sale" target="_blank">Here are the 10 deals worth grabbing from Best Buy’s winter sales event</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-18 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2245161347-500x500.jpg" alt="Ocean damage nearly doubles the cost of climate change" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,15 +162,6 @@
                 <span class="time">2026-01-17 22:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/863980/disney-deleted-anti-fascist-thread" target="_blank">Disney deleted a Thread because people kept putting anti-fascist quotes from its movies in the replies</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-17 18:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,6 +174,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dangote/why-you-cant-skip-a-custom-backend-even-with-ai-powered-frontends-2ibf" target="_blank">Why You Can’t Skip a Custom Backend—Even With AI-Powered Frontends</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-18 13:44</span>
             </div>
         </div>
 <div class="story">
@@ -187,28 +206,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anisubhra_sarkar/javascript-design-patterns-and-when-you-should-actually-use-them-25c4" target="_blank">JavaScript Design Patterns — And When You Should Actually Use Them</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-18 10:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/opsworker-ai-sre/en/headerimage/generatedHeaderImage-1768694462332.jpg" alt="Human‑Centred AI for SRE: Multi‑Agent Incident Response without Losing Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/opsworker-ai-sre/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Human‑Centred AI for SRE: Multi‑Agent Incident Response without Losing Control</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-18 09:00</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/intel-speed-select-non-root" target="_blank">Linux&#x27;s Intel-Speed-Select Tool Will Allow Non-Root Use With Linux 7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-18 11:13</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/davidscanu/guide-nutritionnel-aliments-classes-par-valeur-calorique-3h63" target="_blank">🥙🥗 Guide Nutritionnel : Aliments classés par valeur calorique</a></span>
+                <span class="title"><a href="https://dev.to/anisubhra_sarkar/javascript-design-patterns-and-when-you-should-actually-use-them-25c4" target="_blank">JavaScript Design Patterns — And When You Should Actually Use Them</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-01-18 08:49</span>
+                <span class="time">2026-01-18 10:51</span>
             </div>
         </div>
 </div>
@@ -216,6 +226,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/switchbot-video-doorbell-review-1-1280x853.jpg" alt="The SwitchBot Smart Video Doorbell Is a Smart Home Camera for Almost Nobody" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-switchbot-smart-video-doorbell-is-a-smart-home-camera-for-almost-nobody-2000710234" target="_blank">The SwitchBot Smart Video Doorbell Is a Smart Home Camera for Almost Nobody</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-18 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Microsoft-Windows-11-Pro-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="The most advanced Microsoft OS is now $10 — yes, really." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,15 +280,6 @@
                 <span class="time">2026-01-17 20:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Kpop-Demon-Hunters-Netflix-1280x853.jpg" alt="Sony and Netflix Will Keep Being Streaming Buddies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sony-and-netflix-will-keep-being-streaming-buddies-2000711367" target="_blank">Sony and Netflix Will Keep Being Streaming Buddies</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-17 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -289,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
