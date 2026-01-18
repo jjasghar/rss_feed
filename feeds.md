@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-18 11:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-18 12:02:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, January 18, 2026 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, January 18, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ad6/live/853738d0-f45d-11f0-9770-99416102eb44.jpg" alt="Reform is not rescue charity for panicky Tory MPs, Farage says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gv9gyxgjjo?at_medium=RSS&at_campaign=rss" target="_blank">Reform is not rescue charity for panicky Tory MPs, Farage says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-18 11:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/18/nx-s1-5678974/venezuela-maduro-enforcer-cabello" target="_blank">Venezuela: Maduro&#x27;s enforcer Cabello still central to power</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-18 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +105,29 @@
                 <span class="time">2026-01-18 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/18/at-least-six-killed-in-pakistan-as-fire-rips-through-karachi-shopping-mall?traffic_source=rss" target="_blank">At least six killed in Pakistan as fire rips through Karachi shopping mall</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-18 09:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/18/anti-ice-rally-chases-off-us-far-right-influencer-jake-lang-in-minneapolis?traffic_source=rss" target="_blank">Anti-ICE rally chases off US far-right influencer Jake Lang in Minneapolis</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-18 08:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2245161347-500x500.jpg" alt="Ocean damage nearly doubles the cost of climate change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/01/ocean-damage-nearly-doubles-the-cost-of-climate-change/" target="_blank">Ocean damage nearly doubles the cost of climate change</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-18 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/685b2e3571fc58f3301f8d30/master/pass/The%20Best%20Water%20Leak%20Detectors%20for%20Your%20Home.png" alt="5 Best Water Leak Detectors (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-water-leak-detectors/" target="_blank">5 Best Water Leak Detectors (2026), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-18 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,24 +164,6 @@
                 <span class="time">2026-01-17 18:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/17/trump-administrations-legal-setbacks-are-good-news-for-offshore-wind-and-the-grid/" target="_blank">Trump administration’s legal setbacks are good news for offshore wind — and the grid</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-17 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/" target="_blank">Oshen built the first ocean robot to collect data in a Category 5 hurricane</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-17 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +176,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff9wdziejgzmug7qal2jz.png" alt="Hexagonal architecture - Another way to the hexagone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/marabesi/hexagonal-architecture-another-way-to-the-hexagone-25g0" target="_blank">Hexagonal architecture - Another way to the hexagone</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-18 11:45</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +221,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/01/huggingface-fine-translations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Hugging Face Releases FineTranslations, a Trillion-Token Multilingual Parallel Text Dataset</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-01-18 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5622AQFWQiuIBr8eWA%2Ffeedshare-shrink_1280%2FB56ZptbF5iG0As-%2F0%2F1762772415626%3Fe%3D2147483647%26v%3Dbeta%26t%3DzgCclwTLAm9qv1Ow13VYXBJ3E5iT7idBJBhwXDToYwY" alt="Deploying the AWS re:Invent Map with AWS Amplify Hosting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-heroes/deploying-the-aws-reinvent-map-with-aws-amplify-hosting-3em" target="_blank">Deploying the AWS re:Invent Map with AWS Amplify Hosting</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-18 07:51</span>
             </div>
         </div>
 </div>
@@ -298,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
