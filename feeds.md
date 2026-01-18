@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-18 19:01:32 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-18 20:01:24 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, January 18, 2026 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, January 18, 2026 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/18/nx-s1-5681422/european-leaders-greenland-tariffs-downward-spiral" target="_blank">European leaders warn Trump&#x27;s Greenland tariffs threaten &#x27;dangerous downward spiral&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-18 19:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/039e/live/9ebb4470-f496-11f0-a422-4ba8a094a8fa.jpg" alt="&#x27;Europe won&#x27;t be blackmailed,&#x27; Danish PM says in wake of Trump Greenland threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -62,6 +79,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/18/trump-announces-new-tariffs-over-greenland-how-have-eu-allies-responded?traffic_source=rss" target="_blank">Trump announces new tariffs over Greenland: How have EU allies responded?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-18 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/18/benin-opposition-loses-all-parliamentary-seats-provisional-results-show?traffic_source=rss" target="_blank">Benin’s opposition loses all parliamentary seats, provisional results show</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-18 16:25</span>
@@ -76,29 +102,20 @@
                 <span class="time">2026-01-18 15:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/18/nx-s1-5681372/u-s-military-troops-on-standby-for-possible-deployment-to-minnesota" target="_blank">U.S. military troops on standby for possible deployment to Minnesota</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-18 15:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/TW-MICHAEL-MCCAUL-20260118-ABC-JH_1768746077259_hpMain_4x3t_384.jpeg" alt="GOP Rep. McCaul says a US invasion of Greenland would mean &#x27;war with NATO itself&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/gop-rep-mccaul-us-invasion-greenland-war-nato/story?id=129325652" target="_blank">GOP Rep. McCaul says a US invasion of Greenland would mean &#x27;war with NATO itself&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-18 14:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/18/techcrunch-mobility-physical-ai-enters-the-hype-machine/" target="_blank">TechCrunch Mobility: ‘Physical AI’ enters the hype machine</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-18 17:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +161,6 @@
                 <span class="time">2026-01-18 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685b2e3571fc58f3301f8d30/master/pass/The%20Best%20Water%20Leak%20Detectors%20for%20Your%20Home.png" alt="5 Best Water Leak Detectors (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-water-leak-detectors/" target="_blank">5 Best Water Leak Detectors (2026), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-18 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,6 +173,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/01/Wine-Software-2025.jpg?resize=406%2C232&amp;ssl=1" alt="Wine Patches Bring Newer Versions of Adobe Photoshop to Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/adobe-creative-cloud-linux-wine-patches" target="_blank">Wine Patches Bring Newer Versions of Adobe Photoshop to Linux</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-18 19:52</span>
             </div>
         </div>
 <div class="story">
@@ -201,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/georgekobaidze/the-real-cost-of-loving-what-you-do-the-uncomfortable-truth-about-developer-burnout-43n6" target="_blank">The Real Cost of Loving What You Do: The Uncomfortable Truth About Developer Burnout</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-18 15:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dangote/why-you-cant-skip-a-custom-backend-even-with-ai-powered-frontends-2ibf" target="_blank">Why You Can’t Skip a Custom Backend—Even With AI-Powered Frontends</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-18 13:44</span>
             </div>
         </div>
 </div>
@@ -290,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
