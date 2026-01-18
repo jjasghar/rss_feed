@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-18 05:03:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-18 06:02:11 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 1 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, January 18, 2026 - 05:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, January 18, 2026 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -174,6 +178,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/njokijoan003commits/getting-started-with-git-and-github-a-beginners-guide-2k93" target="_blank">🚀 Getting Started with Git and GitHub: A Beginner’s Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-18 05:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/codebunny20/introducing-bloom-what-ive-built-what-ive-fixed-and-why-im-making-it-8jg" target="_blank">🌱 Introducing Bloom — What I’ve Built, What I’ve Fixed, and Why I’m Making It</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-18 04:54</span>
@@ -204,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/tremolgraterol/el-sesgo-tech-del-newdev-cuando-la-novedad-nubla-la-eficiencia-19fh" target="_blank">El Sesgo Tech del &#x27;NewDev&#x27;: Cuando la Novedad Nubla la Eficiencia</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-18 03:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Synex-Debian-With-ZFS" target="_blank">Synex Server: A New Debian Based Linux Distro With Native ZFS Installation Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-18 01:23</span>
             </div>
         </div>
 </div>
@@ -293,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 05:04 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
