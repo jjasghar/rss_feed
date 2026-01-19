@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-19 18:02:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-19 19:03:53 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, January 19, 2026 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, January 19, 2026 - 19:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/Minnesota-main_1768819384027_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: DOJ investigating apparent church disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis ICE shooting live updates: DOJ investigating apparent church disruption</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-19 18:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/19/the-us-economy-seems-strong-after-a-year-of-trump-but-is-it-really?traffic_source=rss" target="_blank">The US economy seems strong after a year of Trump, but is it really?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-19 16:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/487f/live/f0eecb40-f522-11f0-ba9e-6162a5db7583.png" alt="Trade war in no-one&#x27;s interest, says PM in face of Trump threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgjkrr4pk0o?at_medium=RSS&at_campaign=rss" target="_blank">Trade war in no-one&#x27;s interest, says PM in face of Trump threats</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-19 16:43</span>
             </div>
         </div>
 <div class="story">
@@ -77,24 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/19/nx-s1-5682038/trump-greenland-nobel-peace-prize" target="_blank">Trump says he&#x27;s pursuing Greenland after perceived Nobel Peace Prize snub</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-19 15:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Greenland-soldiers-DB-260119_1768812437737_hpMain_4x3t_384.jpg" alt="Europe mobilizes as Trump again demands &#x27;complete and total control&#x27; of Greenland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/trumps-greenland-threats-prompt-extraordinary-meeting-european-leaders/story?id=129340526" target="_blank">Europe mobilizes as Trump again demands &#x27;complete and total control&#x27; of Greenland</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-19 15:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/1/19/in-iran-the-us-israeli-addiction-to-hybrid-warfare-is-on-full-display?traffic_source=rss" target="_blank">In Iran, the US-Israeli addiction to hybrid warfare is on full display</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-19 14:35</span>
             </div>
         </div>
 </div>
@@ -171,12 +174,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F844r1vbsnbon7op5o147.png" alt="MongoDB backup best practices — Essential strategies for MongoDB backup and recovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/piteradyson/mongodb-backup-best-practices-essential-strategies-for-mongodb-backup-and-recovery-542l" target="_blank">MongoDB backup best practices — Essential strategies for MongoDB backup and recovery</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-19 18:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18812561&w=600" alt="Self-Healing Infrastructure Automation Platform That Reduced MTTR by 40%" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/self-healing-infrastructure-automation-platform-reduce" target="_blank">Self-Healing Infrastructure Automation Platform That Reduced MTTR by 40%</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-01-19 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.cloudflare.com/cname-a-record-order-dns-standards/" target="_blank">What came first: the CNAME or the A record?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-19 17:13</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/kalwiggins/why-per-seat-pricing-for-support-tools-is-bleeding-your-saas-dry-1k4p" target="_blank">Why Per-Seat Pricing for Support Tools is Bleeding Your SaaS Dry</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-19 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Firefox-Nightly-RPMs" target="_blank">Mozilla Now Providing RPM Packages For Firefox Nightly Builds</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-19 16:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18814336&w=600" alt="Passwordless Authentication: Hype vs. Reality" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/passwordless-authentication-hype-vs-reality" target="_blank">Passwordless Authentication: Hype vs. Reality</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-19 16:00</span>
             </div>
         </div>
 </div>
@@ -234,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Gnosia-Crunchyroll-1280x854.jpg" alt="We Got Anime ‘Among Us’ Before That Stacked Hollywood Cast ‘Among Us’ Cartoon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/we-got-anime-among-us-before-that-stacked-hollywood-cast-among-us-cartoon-2000710855" target="_blank">We Got Anime ‘Among Us’ Before That Stacked Hollywood Cast ‘Among Us’ Cartoon</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-19 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/PS5-Dualsense-Marathon-1280x745.jpg" alt="Finally, A Limited Edition DualSense Controller That Actually Looks Cool" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-is-my-favorite-limited-edition-ps5-dualsense-controller-yet-2000660992" target="_blank">Finally, A Limited Edition DualSense Controller That Actually Looks Cool</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-19 17:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/Johnny-Silverhand.jpg" alt="Modder Blasts ‘Corpo Logic’ Over Cyberpunk 2077 VR Takedown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,29 +291,20 @@
                 <span class="time">2026-01-19 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/2025_DEC_Marathon_Press_Kit_Compressed_015-1280x720.jpg" alt="New Marathon Story Trailer Leaks Final Release Date Early" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marathon-release-date-trailer-leak-bungie-2000660975" target="_blank">New Marathon Story Trailer Leaks Final Release Date Early</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-19 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/09/shutterstock_2274341269-scaled.jpg?fit=2560%2C1703&amp;quality=60&amp;ssl=1" alt="Trump sends weird angry letter to Norway&#x27;s Prime Minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/19/trump-sends-weird-angry-letter-to-norways-prime-minister.html" target="_blank">Trump sends weird angry letter to Norway&#x27;s Prime Minister</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-19 14:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1768703677-20260119.png" alt="Saturday Morning Breakfast Cereal - Beep" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/beep-2" target="_blank">Saturday Morning Breakfast Cereal - Beep</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-01-19 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -316,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 19:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
