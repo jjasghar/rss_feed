@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-19 20:01:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-19 21:02:11 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, January 19, 2026 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, January 19, 2026 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/19/us-fed-chair-powell-to-attend-supreme-court-session-on-cook-case-report?traffic_source=rss" target="_blank">US Fed Chair Powell to attend Supreme Court session on Cook case: Report</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-19 20:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/pam-bondi-1-rt-gmh-260119_1768849052028_hpMain_4x3t_384.jpg" alt="Protesters disrupt Minneapolis church service where ICE field director is pastor" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +100,6 @@
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/International/trumps-greenland-threats-prompt-extraordinary-meeting-european-leaders/story?id=129340526" target="_blank">Trump tells Norway he no longer has &#x27;obligation to think purely of Peace&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-19 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-trump-greenland_7127625.jpg?20260106015144" alt="Trump&#x27;s extraordinary letter to Norway about Greenland - in full and fact-checked" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trumps-extraordinary-letter-to-norway-about-greenland-in-full-and-fact-checked-13496272" target="_blank">Trump&#x27;s extraordinary letter to Norway about Greenland - in full and fact-checked</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-01-19 15:40</span>
             </div>
         </div>
@@ -178,6 +179,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kargatharaaakash/the-designer-flow-for-ai-why-i-built-a-bridge-to-google-stitch-423k" target="_blank">The &quot;Designer Flow&quot; for AI: Why I Built a Bridge to Google Stitch</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-19 20:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18838807&w=600" alt="Scaling Infrastructure as Code in Enterprise Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/scaling-infrastructure-as-code-in-enterprise-autom" target="_blank">Scaling Infrastructure as Code in Enterprise Automation</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-19 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Open-Tree-Namespace" target="_blank">OPEN_TREE_NAMESPACE To Provide A Security &amp; Performance Win For Dealing With Containers</a></span>
                 <span class="feed">Phoronix</span>
@@ -202,24 +221,6 @@
                 <span class="time">2026-01-19 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.cloudflare.com/cname-a-record-order-dns-standards/" target="_blank">What came first: the CNAME or the A record?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-19 17:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/google-agentic-commerce-ucp/en/headerimage/generatedHeaderImage-1768542133357.jpg" alt="Google and Retail Leaders Launch Universal Commerce Protocol to Power Next‑Generation AI Shopping" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/google-agentic-commerce-ucp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google and Retail Leaders Launch Universal Commerce Protocol to Power Next‑Generation AI Shopping</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-19 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/thepitt.jpg?fit=1200%2C673&amp;quality=60&amp;ssl=1" alt="Catch up on the Pitt with a real doctor&#x27;s reaction videos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/19/catch-up-on-the-pitt-with-a-real-doctors-reaction-videos.html" target="_blank">Catch up on the Pitt with a real doctor&#x27;s reaction videos</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-19 20:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/marvel-rivals-1280x812.jpg" alt="Marvel Rivals Promises A Crackdown On The Recent Epidemic Of ‘Lord Farming’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +294,6 @@
                 <span class="time">2026-01-19 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KFB8ESWPXTMGJD2NH21V7EBQ/hero-image.png" alt="This Samsung 2-in-1 Laptop and Tablet Combo Is $450 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-book5-pro-360-sale-january-2026?utm_medium=RSS" target="_blank">This Samsung 2-in-1 Laptop and Tablet Combo Is $450 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-19 16:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
