@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-19 10:03:27 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing 54 RSS feeds at 2026-01-19 11:02:53 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, January 19, 2026 - 10:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, January 19, 2026 - 11:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +48,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/Greenland-soldiers-DB-260119_1768812437737_hpMain_4x3t_384.jpg" alt="Trump&#x27;s Greenland threats prompt &#x27;extraordinary meeting&#x27; of European leaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/trumps-greenland-threats-prompt-extraordinary-meeting-european-leaders/story?id=129340526" target="_blank">Trump&#x27;s Greenland threats prompt &#x27;extraordinary meeting&#x27; of European leaders</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-19 10:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251220-Epstein-Maxwell-ch-1411-c27024.jpg" alt="A month after Epstein files deadline, only a fraction of DOJ records have been released" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/one-month-epstein-files-deadline-rcna254416" target="_blank">A month after Epstein files deadline, only a fraction of DOJ records have been released</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-19 10:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/19/new-storm-to-hit-gaza-piling-on-suffering-for-thousands-of-displaced?traffic_source=rss" target="_blank">New storm to hit Gaza, piling on suffering for thousands of displaced</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-19 09:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-spain-train-crash_7139395.jpg?20260119081944" alt="Spain train crash: What we know about the fatal derailment so far" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/what-we-know-so-far-about-the-fatal-train-crash-in-spain-13496110" target="_blank">Spain train crash: What we know about the fatal derailment so far</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-19 08:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d332/live/68e21de0-f50b-11f0-a422-4ba8a094a8fa.jpg" alt="High-speed train crash in Spain kills at least 39" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss" target="_blank">High-speed train crash in Spain kills at least 39</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-19 08:20</span>
             </div>
         </div>
 <div class="story">
@@ -64,47 +101,20 @@
                 <span class="time">2026-01-19 07:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/19/clashes-in-colombia-between-rival-rebel-groups-kill-27-people?traffic_source=rss" target="_blank">Clashes in Colombia between rival rebel groups kill 27 people</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-19 06:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b11/live/056a3850-f4e9-11f0-a422-4ba8a094a8fa.jpg" alt="High-speed train collision in Spain kills at least 21" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss" target="_blank">High-speed train collision in Spain kills at least 21</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-19 05:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/19/dangerous-downward-spiral-european-leaders-slam-trumps-tariff-threat?traffic_source=rss" target="_blank">‘Dangerous downward spiral’: European leaders slam Trump’s tariff threat</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-19 03:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/ImmigrationEnforcementMinnesota_1768703358883_hpMain_2_4x3t_384.jpg" alt="Lawyers allege DHS is denying legal counsel to Minnesota detainees" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/lawyers-allege-dept-homeland-security-denying-legal-counsel/story?id=129335914" target="_blank">Lawyers allege DHS is denying legal counsel to Minnesota detainees</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-19 02:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6940951c5ef9ba38705f23ee/master/pass/The%20Best%20Streaming%20Deals%20top%20art%20122025%20SOURCE%20HBO%20Max.jpg" alt="The Best Streaming Bundles and Streaming Deals of January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/" target="_blank">The Best Streaming Bundles and Streaming Deals of January 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-19 10:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/696af5f8760211e43e025ef8/master/pass/DeepSeek-Europe-Race-Business-2196250439.jpg" alt="The Race to Build the DeepSeek of Europe Is On" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +160,6 @@
                 <span class="time">2026-01-18 16:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/" target="_blank">Moxie Marlinspike has a privacy-conscious alternative to ChatGPT</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-18 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +172,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fquickchart.io%2Fchart%3Fc%3D%257Btype%253A%2527bar%2527%252Cdata%253A%257Blabels%253A%255B%2527Smart%2520Office%2520Devices%2527%252C%2527Hybrid%2520Work%2520Essentials%2527%252C%2527Connected%2520Devices%2527%255D%252Cdatasets%253A%255B%257Blabel%253A%2527Total%2520Sales%2520Revenue%2527%252Cdata%253A%255B4288440.0%252C1525521.9%252C1288424.8%255D%257D%255D%257D%257D" alt="Building AI-Powered Data Analytics with MindsDB Enterprise: From Natural Language to Charts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mindsdb/building-ai-powered-data-analytics-with-mindsdb-enterprise-from-natural-language-to-charts-49o3" target="_blank">Building AI-Powered Data Analytics with MindsDB Enterprise: From Natural Language to Charts</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-19 10:48</span>
             </div>
         </div>
 <div class="story">
@@ -209,20 +219,20 @@
                 <span class="time">2026-01-19 07:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/cagent-testing/en/headerimage/generatedHeaderImage-1768594554533.jpg" alt="Docker’s Cagent Brings Deterministic Testing to AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/cagent-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Docker’s Cagent Brings Deterministic Testing to AI Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-19 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/shutterstock_2664070787-1280x853.jpg" alt="NFL-Related Accounts on Facebook Are Posting Some of the Most Shameless AI Slop Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nfl-related-accounts-on-facebook-are-posting-some-of-the-most-shameless-ai-slop-yet-2000711584" target="_blank">NFL-Related Accounts on Facebook Are Posting Some of the Most Shameless AI Slop Yet</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-19 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/tether-venezuela-1280x856.jpg" alt="DOJ Alleges One Venezuelan Used Crypto Stablecoin Tether to Launder $1 Billion for Criminals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,20 +278,20 @@
                 <span class="time">2026-01-18 18:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/181b6bd0441bacbbf5bf0c60d646957f-1280x720.jpg" alt="Ex-Assassin’s Creed Boss Sues Ubisoft For Nearly $1 Million Over Alleged Forced Firing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/assassins-creed-lawsuit-ubisoft-marc-alexis-cote-hexe-2000660833" target="_blank">Ex-Assassin’s Creed Boss Sues Ubisoft For Nearly $1 Million Over Alleged Forced Firing</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-18 16:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/01/19/the-inheritance" target="_blank">The Inheritance</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-01-19 08:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5746.png" alt="Workflow Analysis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -305,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 10:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 11:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
