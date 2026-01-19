@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-19 09:06:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-19 10:03:27 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, January 19, 2026 - 09:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, January 19, 2026 - 10:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/19/new-storm-to-hit-gaza-piling-on-suffering-for-thousands-of-displaced?traffic_source=rss" target="_blank">New storm to hit Gaza, piling on suffering for thousands of displaced</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-19 09:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b11/live/056a3850-f4e9-11f0-a422-4ba8a094a8fa.jpg" alt="High-speed train collision in Spain kills at least 39" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +98,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/lawyers-allege-dept-homeland-security-denying-legal-counsel/story?id=129335914" target="_blank">Lawyers allege DHS is denying legal counsel to Minnesota detainees</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-19 02:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0871/live/ced51930-f4b7-11f0-a422-4ba8a094a8fa.jpg" alt="At least 21 killed in Spain after crash involving high-speed trains" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss" target="_blank">At least 21 killed in Spain after crash involving high-speed trains</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-19 01:30</span>
             </div>
         </div>
 </div>
@@ -174,6 +174,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/01/gitlab-18-8-duo-agent-platform/en/headerimage/gitlab-duo-agent-platform-1768816118643.jpeg" alt="GitLab 18.8 Marks General Availability of the Duo Agent Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/gitlab-18-8-duo-agent-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitLab 18.8 Marks General Availability of the Duo Agent Platform</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-19 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/numbpill3d/vibe-coding-will-replace-traditional-debugging-by-2027-2e1h" target="_blank">Vibe Coding Will Replace Traditional Debugging by 2027</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-19 09:51</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,29 +218,20 @@
                 <span class="time">2026-01-19 07:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/david_essien/how-to-authenticate-users-with-solana-wallets-in-nestjs-46gd" target="_blank">How to Authenticate Users with Solana Wallets in NestJS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-19 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/opera-gx-linux-announcement/" target="_blank">Linux Gamers Are Finally Getting Their Own Browser</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-19 06:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/tether-venezuela-1280x856.jpg" alt="DOJ Alleges One Venezuelan Used Crypto Stablecoin Tether to Launder $1 Billion for Criminals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/doj-alleges-one-venezuelan-used-crypto-stablecoin-tether-to-launder-1-billion-for-criminals-2000711586" target="_blank">DOJ Alleges One Venezuelan Used Crypto Stablecoin Tether to Launder $1 Billion for Criminals</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-19 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/threads-1280x853.jpg" alt="Threads Is Now Clearly More Popular Than X (in Mobile App Form), Report Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +277,6 @@
                 <span class="time">2026-01-18 16:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/stranger-things-snl-1280x853.jpg" alt="The Ninth ‘Stranger Things’ Episode Exists…on ‘SNL’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-ninth-stranger-things-episode-exists-on-snl-2000711539" target="_blank">The Ninth ‘Stranger Things’ Episode Exists…on ‘SNL’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-18 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 09:06 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 10:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
