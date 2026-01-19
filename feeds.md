@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-19 11:02:53 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-01-19 12:02:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, January 19, 2026 - 11:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, January 19, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/19/india-is-profiling-kashmir-mosques-raising-new-surveillance-fears?traffic_source=rss" target="_blank">India is profiling Kashmir mosques, raising new surveillance fears</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-19 11:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/Greenland-soldiers-DB-260119_1768812437737_hpMain_4x3t_384.jpg" alt="Trump&#x27;s Greenland threats prompt &#x27;extraordinary meeting&#x27; of European leaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/International/trumps-greenland-threats-prompt-extraordinary-meeting-european-leaders/story?id=129340526" target="_blank">Trump&#x27;s Greenland threats prompt &#x27;extraordinary meeting&#x27; of European leaders</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-19 10:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/19/nx-s1-5678248/morning-news-brief" target="_blank">Morning news brief</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-19 10:01</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +100,29 @@
                 <span class="time">2026-01-19 08:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d332/live/68e21de0-f50b-11f0-a422-4ba8a094a8fa.jpg" alt="High-speed train crash in Spain kills at least 39" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss" target="_blank">High-speed train crash in Spain kills at least 39</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-19 08:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b11/live/056a3850-f4e9-11f0-a422-4ba8a094a8fa.jpg" alt="High-speed train collision in Spain kills at least 39" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss" target="_blank">High-speed train collision in Spain kills at least 39</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-19 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/864099/threads-overtakes-x-daily-mobile-ios-android-users" target="_blank">Threads overtakes X on mobile, but still lags far behind</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-19 11:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/696b1d07448fe6138c33f0e4/master/pass/How%20to%20Clean%20Your%20Keurig.png" alt="How to Clean Your Keurig (and When)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-clean-keurig/" target="_blank">How to Clean Your Keurig (and When)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-19 11:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6940951c5ef9ba38705f23ee/master/pass/The%20Best%20Streaming%20Deals%20top%20art%20122025%20SOURCE%20HBO%20Max.jpg" alt="The Best Streaming Bundles and Streaming Deals of January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,24 +159,6 @@
                 <span class="time">2026-01-18 20:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/18/techcrunch-mobility-physical-ai-enters-the-hype-machine/" target="_blank">TechCrunch Mobility: ‘Physical AI’ enters the hype machine</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-18 17:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/864032/microsofts-out-of-band-windows-11-update-bug" target="_blank">Microsoft’s first Windows 11 update of 2026 stopped some computers from shutting down</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-18 16:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +171,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-HDMI-Gaming-Features" target="_blank">New Patches Provide HDMI VRR &amp; Auto Low Latency Mode Gaming Features For AMD Linux GPU Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-19 11:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/showcasing-open-design-in-action-loughborough-university-design-students-explore-open-source-projects" target="_blank">Showcasing open design in action: Loughborough University design students explore open source projects</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-01-19 11:09</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/numbpill3d/vibe-coding-will-replace-traditional-debugging-by-2027-2e1h" target="_blank">Vibe Coding Will Replace Traditional Debugging by 2027</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-19 09:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/chnghia/accelerating-ai-inference-workflows-with-the-atomic-inference-boilerplate-75b" target="_blank">Accelerating AI Inference Workflows with the Atomic Inference Boilerplate</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-19 07:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://bitchat.free/" target="_blank">A decentralized peer-to-peer messaging application that operates over Bluetooth</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-19 07:14</span>
             </div>
         </div>
 </div>
@@ -315,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 11:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
