@@ -1,40 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-01-19 16:02:29 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-19 17:04:08 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 11 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, January 19, 2026 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, January 19, 2026 - 17:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +114,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/864146/bungie-marathon-release-date-march-5th-price" target="_blank">Bungie’s Marathon shooter launches on March 5th</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-19 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/cowtool1-500x500.jpg" alt="Meet Veronika, the tool-using cow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/01/meet-veronika-the-tool-using-cow/" target="_blank">Meet Veronika, the tool-using cow</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-19 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/01/19/well-there-goes-the-metaverse/" target="_blank">Well, there goes the metaverse!</a></span>
                 <span class="feed">TechCrunch</span>
@@ -145,24 +165,6 @@
                 <span class="time">2026-01-19 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/super-programmer-hes-heating-up-500x500.jpg" alt="10 things I learned from burning myself out with AI coding agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/" target="_blank">10 things I learned from burning myself out with AI coding agents</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-19 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/864099/threads-overtakes-x-daily-mobile-ios-android-users" target="_blank">Threads overtakes X on mobile, but still lags far behind</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-19 11:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +177,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/google-agentic-commerce-ucp/en/headerimage/generatedHeaderImage-1768542133357.jpg" alt="Google and Retail Leaders Launch Universal Commerce Protocol to Power Next‑Generation AI Shopping" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/google-agentic-commerce-ucp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google and Retail Leaders Launch Universal Commerce Protocol to Power Next‑Generation AI Shopping</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-19 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kalwiggins/why-per-seat-pricing-for-support-tools-is-bleeding-your-saas-dry-1k4p" target="_blank">Why Per-Seat Pricing for Support Tools is Bleeding Your SaaS Dry</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-19 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Firefox-Nightly-RPMs" target="_blank">Mozilla Now Providing RPM Packages For Firefox Nightly Builds</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-19 16:18</span>
             </div>
         </div>
 <div class="story">
@@ -193,33 +222,6 @@
                 <span class="title"><a href="https://dev.to/sakshampaliwal/what-is-aws-bedrock-50da" target="_blank">What is AWS Bedrock??</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-19 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.kielinstitut.de/publications/americas-own-goal-who-pays-the-tariffs-19398/" target="_blank">Kiel Institute Analysis: US Americans pay 96% of tariff burden</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-19 15:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ben/meme-monday-dcl" target="_blank">Meme Monday</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-19 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/nvidia-gb10-gh200" target="_blank">How NVIDIA GB10 Performance With the Dell Pro Max GB10 Compares To The GH200</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-19 14:37</span>
             </div>
         </div>
 </div>
@@ -242,6 +244,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/Johnny-Silverhand.jpg" alt="Modder Blasts ‘Corpo Logic’ Over Cyberpunk 2077 VR Takedown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/cyberpunk-2077-vr-mod-baldurs-gate-3-takedown-2000660987" target="_blank">Modder Blasts ‘Corpo Logic’ Over Cyberpunk 2077 VR Takedown</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-19 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Star-Wars-Rey-Kylo-1280x853.jpg" alt="How Often Is Too Often for New ‘Star Wars’ Movies?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-often-is-too-often-for-new-star-wars-movies-2000710894" target="_blank">How Often Is Too Often for New ‘Star Wars’ Movies?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-19 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KFB8ESWPXTMGJD2NH21V7EBQ/hero-image.png" alt="This Samsung 2-in-1 Laptop and Tablet Combo Is $450 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-book5-pro-360-sale-january-2026?utm_medium=RSS" target="_blank">This Samsung 2-in-1 Laptop and Tablet Combo Is $450 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-19 16:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Microsoft-Office-Professional-2021-for-Windows.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Skip the Office subscription stress for $35" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/19/skip-the-office-subscription-stress-for-35.html" target="_blank">Skip the Office subscription stress for $35</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-19 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/2025_DEC_Marathon_Press_Kit_Compressed_015-1280x720.jpg" alt="New Marathon Story Trailer Leaks Final Release Date Early" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -257,42 +295,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/19/trump-sends-weird-angry-letter-to-norways-prime-minister.html" target="_blank">Trump sends weird angry letter to Norway&#x27;s Prime Minister</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-19 14:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/UGREENUSBC-1280x853.jpg" alt="UGREEN’s USB-C Cables Hit Record Lows Across All Sizes, Time to Stock Up Thanks to an Amazon Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ugreens-usb-c-cables-hit-record-lows-across-all-sizes-time-to-stock-up-thanks-to-an-amazon-deal-2000660695" target="_blank">UGREEN’s USB-C Cables Hit Record Lows Across All Sizes, Time to Stock Up Thanks to an Amazon Deal</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-19 13:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Jack-OConnell-28-Years-Bone-Temple-1280x853.jpg" alt="’28 Years Later: The Bone Temple’ Runs to Decent Box Office Start" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/28-years-later-the-bone-temple-runs-to-decent-box-office-start-2000711607" target="_blank">’28 Years Later: The Bone Temple’ Runs to Decent Box Office Start</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-19 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/shutterstock_2664070787-1280x853.jpg" alt="NFL-Related Accounts on Facebook Are Posting Some of the Most Shameless AI Slop Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nfl-related-accounts-on-facebook-are-posting-some-of-the-most-shameless-ai-slop-yet-2000711584" target="_blank">NFL-Related Accounts on Facebook Are Posting Some of the Most Shameless AI Slop Yet</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-19 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/tether-venezuela-1280x856.jpg" alt="DOJ Alleges One Venezuelan Used Crypto Stablecoin Tether to Launder $1 Billion for Criminals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/doj-alleges-one-venezuelan-used-crypto-stablecoin-tether-to-launder-1-billion-for-criminals-2000711586" target="_blank">DOJ Alleges One Venezuelan Used Crypto Stablecoin Tether to Launder $1 Billion for Criminals</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-19 10:00</span>
             </div>
         </div>
 </div>
@@ -318,22 +320,13 @@
                 <span class="time">2026-01-19 02:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1768703599-20260118.png" alt="Saturday Morning Breakfast Cereal - Fuzz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/fuzz" target="_blank">Saturday Morning Breakfast Cereal - Fuzz</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-18 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 17:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
