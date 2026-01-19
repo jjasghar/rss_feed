@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-18 23:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-19 00:05:52 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, January 18, 2026 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, January 19, 2026 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,6 +55,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c5yvldj47v9o?at_medium=RSS&at_campaign=rss" target="_blank">Government pulls Hillsborough Law debate after backlash</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-18 22:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/18/two-high-speed-trains-collide-in-spain-killing?traffic_source=rss" target="_blank">Two high-speed trains collide in Spain, killing at least 21</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-18 22:27</span>
             </div>
         </div>
 <div class="story">
@@ -93,15 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/18/nx-s1-5681422/european-leaders-greenland-tariffs-downward-spiral" target="_blank">European leaders warn Trump&#x27;s Greenland tariffs threaten &#x27;dangerous downward spiral&#x27;</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-18 19:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c15b/live/e1130f00-f4a1-11f0-b385-5f48925de19a.jpg" alt="Government pulls Hillsborough Law amendment after backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yvldj47v9o?at_medium=RSS&at_campaign=rss" target="_blank">Government pulls Hillsborough Law amendment after backlash</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-18 19:02</span>
             </div>
         </div>
 </div>
@@ -181,6 +179,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jjdelcerro/no-la-ia-no-programa-parte-2-las-pruebas-realizadas-99g" target="_blank">No, la ia no programa... (parte 2) las pruebas realizadas.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-19 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/siy/slices-the-right-size-for-microservices-c4" target="_blank">Slices: The Right Size for Microservices</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-18 21:49</span>
@@ -213,20 +220,29 @@
                 <span class="time">2026-01-18 18:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/afrologicinsect/building-production-ai-a-three-part-mlops-journey-pt2-415m" target="_blank">Building Production AI: A Three-Part MLOps Journey - Pt.2</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-18 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/threads-1280x853.jpg" alt="Threads Is Now Clearly More Popular Than X (in Mobile App Form), Report Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/threads-is-now-clearly-more-popular-than-x-in-mobile-app-form-report-says-2000711592" target="_blank">Threads Is Now Clearly More Popular Than X (in Mobile App Form), Report Says</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-18 23:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Calmind-Premium-Master-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Calmind turns a phone flashlight into a guided unwind session" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/18/calmind-turns-a-phone-flashlight-into-a-guided-unwind-session.html" target="_blank">Calmind turns a phone flashlight into a guided unwind session</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-18 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/shutterstock_2396034011-1280x853.jpg" alt="EPA Rule Clarification Hits a Significant Source of Grok’s Electricity" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,15 +279,6 @@
                 <span class="time">2026-01-18 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/switchbot-video-doorbell-review-1-1280x853.jpg" alt="The SwitchBot Smart Video Doorbell Is a Smart Home Camera for Almost Nobody" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-switchbot-smart-video-doorbell-is-a-smart-home-camera-for-almost-nobody-2000710234" target="_blank">The SwitchBot Smart Video Doorbell Is a Smart Home Camera for Almost Nobody</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-18 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -291,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
