@@ -1,42 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-19 17:04:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-19 18:02:08 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 34 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, January 19, 2026 - 17:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, January 19, 2026 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,11 +44,29 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/19/the-us-economy-seems-strong-after-a-year-of-trump-but-is-it-really?traffic_source=rss" target="_blank">The US economy seems strong after a year of Trump, but is it really?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-19 16:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/Greenland-soldiers-DB-260119_1768812437737_hpMain_4x3t_384.jpg" alt="Trump tells Norway he no longer has &#x27;obligation to think purely of Peace&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/International/trumps-greenland-threats-prompt-extraordinary-meeting-european-leaders/story?id=129340526" target="_blank">Trump tells Norway he no longer has &#x27;obligation to think purely of Peace&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-19 15:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-trump-greenland_7127625.jpg?20260106015144" alt="Trump&#x27;s extraordinary letter to Norway about Greenland - in full and fact-checked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trumps-extraordinary-letter-to-norway-about-greenland-in-full-and-fact-checked-13496272" target="_blank">Trump&#x27;s extraordinary letter to Norway about Greenland - in full and fact-checked</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-01-19 15:40</span>
             </div>
         </div>
@@ -86,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2026/1/19/in-iran-the-us-israeli-addiction-to-hybrid-warfare-is-on-full-display?traffic_source=rss" target="_blank">In Iran, the US-Israeli addiction to hybrid warfare is on full display</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-19 14:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98c1/live/4e0dab90-f521-11f0-ba9e-6162a5db7583.jpg" alt="Trump ties Greenland demands to Nobel Prize in message to Norway leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy7mev35x2lo?at_medium=RSS&at_campaign=rss" target="_blank">Trump ties Greenland demands to Nobel Prize in message to Norway leader</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-19 13:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/19/keir-starmer-says-trumps-tariffs-over-greenland-are-completely?traffic_source=rss" target="_blank">Keir Starmer says Trump’s tariffs over Greenland are ‘completely wrong’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-19 13:44</span>
             </div>
         </div>
 </div>
@@ -180,6 +171,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18812561&w=600" alt="Self-Healing Infrastructure Automation Platform That Reduced MTTR by 40%" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/self-healing-infrastructure-automation-platform-reduce" target="_blank">Self-Healing Infrastructure Automation Platform That Reduced MTTR by 40%</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-19 18:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/01/google-agentic-commerce-ucp/en/headerimage/generatedHeaderImage-1768542133357.jpg" alt="Google and Retail Leaders Launch Universal Commerce Protocol to Power Next‑Generation AI Shopping" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -213,15 +213,6 @@
                 <span class="title"><a href="https://dzone.com/articles/passwordless-authentication-hype-vs-reality" target="_blank">Passwordless Authentication: Hype vs. Reality</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-01-19 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sakshampaliwal/what-is-aws-bedrock-50da" target="_blank">What is AWS Bedrock??</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-19 15:50</span>
             </div>
         </div>
 </div>
@@ -325,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 17:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
