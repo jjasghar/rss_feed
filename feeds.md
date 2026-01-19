@@ -1,46 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-19 22:01:25 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-19 23:01:36 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 37 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, January 19, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, January 19, 2026 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -116,6 +109,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_0127-1-500x500.jpg" alt="The fastest human spaceflight mission in history crawls closer to liftoff" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/01/nasas-artemis-ii-rocket-rolls-to-launch-pad-but-key-test-looms-ahead/" target="_blank">The fastest human spaceflight mission in history crawls closer to liftoff</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-19 22:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/marathon-500x500.png" alt="The first new Marathon game in decades will launch on March 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -160,15 +162,6 @@
                 <span class="time">2026-01-19 16:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/cowtool1-500x500.jpg" alt="Meet Veronika, the tool-using cow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/01/meet-veronika-the-tool-using-cow/" target="_blank">Meet Veronika, the tool-using cow</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-19 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -190,6 +183,15 @@
                 <span class="title"><a href="https://dev.to/philipfong/when-playwrights-locator-tool-isnt-enough-561h" target="_blank">When Playwright’s Locator Tool Isn’t Enough</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-19 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-SI-Power-Management" target="_blank">New Patches From Valve Bring AMDGPU Power Management Improvements For Old GCN 1.0 GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-19 21:09</span>
             </div>
         </div>
 <div class="story">
@@ -219,15 +221,6 @@
                 <span class="time">2026-01-19 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Open-Tree-Namespace" target="_blank">OPEN_TREE_NAMESPACE To Provide A Security &amp; Performance Win For Dealing With Containers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-19 19:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/warner-bros-logo-1280x853.jpg" alt="The Fight for Warner Bros. Is Paramount’s Most Embarrassing Moment Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/paramount-netflix-warner-bros-david-ellison-2000710809" target="_blank">The Fight for Warner Bros. Is Paramount’s Most Embarrassing Moment Yet</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-19 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/07/9aaf3a7a4e8b86450e159604947d1efb-1280x720.jpg" alt="Twitch Streamers Are Still Being Paid To Play MindsEye Over Six Months After It Flopped" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +292,6 @@
                 <span class="title"><a href="https://gizmodo.com/we-got-anime-among-us-before-that-stacked-hollywood-cast-among-us-cartoon-2000710855" target="_blank">We Got Anime ‘Among Us’ Before That Stacked Hollywood Cast ‘Among Us’ Cartoon</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-19 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/PS5-Dualsense-Marathon-1280x745.jpg" alt="Finally, A Limited Edition DualSense Controller That Actually Looks Cool" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-is-my-favorite-limited-edition-ps5-dualsense-controller-yet-2000660992" target="_blank">Finally, A Limited Edition DualSense Controller That Actually Looks Cool</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-19 17:13</span>
             </div>
         </div>
 </div>
@@ -347,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
