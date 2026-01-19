@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-01-19 00:05:52 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-19 01:30:08 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, January 19, 2026 - 00:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, January 19, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jan/19/brazen-political-influence-rich-laid-bare-wealth-billionaires-inequality-poverty-instability-oxfam" target="_blank">‘Brazen’ political influence of rich laid bare as wealth of billionaires reaches $18.3tn, says Oxfam</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-19 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/18/russia-ukraine-war-list-of-key-events-day-1425?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,425</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-18 23:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c15b/live/e1130f00-f4a1-11f0-b385-5f48925de19a.jpg" alt="Government pulls Hillsborough Law debate after backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +95,20 @@
                 <span class="time">2026-01-18 21:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/1/18/will-the-syrian-army-end-up-controlling-kurdish-held-areas?traffic_source=rss" target="_blank">Will the Syrian army end up controlling Kurdish-held areas?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-18 20:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/18/nx-s1-5681422/european-leaders-greenland-tariffs-downward-spiral" target="_blank">European leaders warn Trump&#x27;s Greenland tariffs threaten &#x27;dangerous downward spiral&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-18 19:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/" target="_blank">Sequoia to invest in Anthropic, breaking VC taboo on backing rivals: FT</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-18 22:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +151,6 @@
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/science/2026/01/ocean-damage-nearly-doubles-the-cost-of-climate-change/" target="_blank">Ocean damage nearly doubles the cost of climate change</a></span>
                 <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-18 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/696b10ea3766328cdf7d499c/master/pass/The%2015%20Best%20Electric%20Bikes%20for%20Every%20Kind%20of%20Ride-jan2026.png" alt="15 Best Electric Bikes (2026), Tested and Reviewed: Commuting, Mountain Biking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-electric-bikes/" target="_blank">15 Best Electric Bikes (2026), Tested and Reviewed: Commuting, Mountain Biking</a></span>
-                <span class="feed">WIRED</span>
                 <span class="time">2026-01-18 12:00</span>
             </div>
         </div>
@@ -298,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 00:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
