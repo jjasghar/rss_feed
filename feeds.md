@@ -1,37 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-01-19 14:05:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-19 15:03:17 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 12 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, January 19, 2026 - 14:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, January 19, 2026 - 15:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +54,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/Greenland-soldiers-DB-260119_1768812437737_hpMain_4x3t_384.jpg" alt="Europe mobilizes as Trump again demands &#x27;complete and total control&#x27; of Greenland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/trumps-greenland-threats-prompt-extraordinary-meeting-european-leaders/story?id=129340526" target="_blank">Europe mobilizes as Trump again demands &#x27;complete and total control&#x27; of Greenland</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-19 15:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/1/19/in-iran-the-us-israeli-addiction-to-hybrid-warfare-is-on-full-display?traffic_source=rss" target="_blank">In Iran, the US-Israeli addiction to hybrid warfare is on full display</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-19 14:35</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/19/keir-starmer-says-trumps-tariffs-over-greenland-are-completely?traffic_source=rss" target="_blank">Keir Starmer says Trump’s tariffs over Greenland are ‘completely wrong’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-19 13:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/19/g-s1-106465/up-first-newsletter-minnesota-troop-deployment-greenland-trump-gaza-peace-board" target="_blank">Troops stand by to enter Minnesota. And, Trump plans for a Board of Peace</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-19 12:32</span>
             </div>
         </div>
 <div class="story">
@@ -74,38 +107,20 @@
                 <span class="time">2026-01-19 12:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/19/india-is-profiling-kashmir-mosques-raising-new-surveillance-fears?traffic_source=rss" target="_blank">India is profiling Kashmir mosques, raising new surveillance fears</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-19 11:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Greenland-soldiers-DB-260119_1768812437737_hpMain_4x3t_384.jpg" alt="Trump&#x27;s Greenland threats prompt &#x27;extraordinary meeting&#x27; of European leaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/trumps-greenland-threats-prompt-extraordinary-meeting-european-leaders/story?id=129340526" target="_blank">Trump&#x27;s Greenland threats prompt &#x27;extraordinary meeting&#x27; of European leaders</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-19 10:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/19/nx-s1-5678248/morning-news-brief" target="_blank">Morning news brief</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-19 10:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/863361/razer-ceo-min-liang-tan-ces-2026-ai-gaming-project-ava-interview" target="_blank">Gamers love AI in game dev — they just don&amp;#8217;t know it yet, says Razer&amp;#8217;s CEO</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-19 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -122,6 +137,15 @@
                 <span class="title"><a href="https://www.wired.com/story/whats-going-on-with-the-dji-drone-ban/" target="_blank">Are DJI Drones Still Banned? (2026)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-01-19 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/super-programmer-hes-heating-up-500x500.jpg" alt="10 things I learned from burning myself out with AI coding agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/" target="_blank">10 things I learned from burning myself out with AI coding agents</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-19 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -142,24 +166,6 @@
                 <span class="time">2026-01-19 11:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6940951c5ef9ba38705f23ee/master/pass/The%20Best%20Streaming%20Deals%20top%20art%20122025%20SOURCE%20HBO%20Max.jpg" alt="The Best Streaming Bundles and Streaming Deals of January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/" target="_blank">The Best Streaming Bundles and Streaming Deals of January 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-19 10:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/696af5f8760211e43e025ef8/master/pass/DeepSeek-Europe-Race-Business-2196250439.jpg" alt="The Race to Build the DeepSeek of Europe Is On" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/europe-race-us-deepseek-sovereign-ai/" target="_blank">The Race to Build the DeepSeek of Europe Is On</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-19 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,45 +184,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vigneshjd/demystifying-ai-serving-for-java-developers-apache-camel-tensorflow-explained-46dp" target="_blank">Demystifying AI Serving for Java Developers: Apache Camel + TensorFlow Explained</a></span>
+                <span class="title"><a href="https://dev.to/ben/meme-monday-dcl" target="_blank">Meme Monday</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-01-19 14:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc85w46fwu1cupjmgdjm2.png" alt="How to better your Claude CoWork experience with MCPs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/composiodev/how-to-better-your-claude-cowork-experience-with-mcps-3hfp" target="_blank">How to better your Claude CoWork experience with MCPs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-19 13:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/photoshop-installer-runs-on-linux/" target="_blank">Photoshop Installer Runs on Linux Despite Adobe Not Giving a Damn For Years</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-19 13:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://corporateeurope.org/en/2026/01/article-article-how-big-tech-shaped-eus-roll-back-digital-rights" target="_blank">Article by article, how Big Tech shaped the EU&#x27;s roll-back of digital rights</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-19 12:53</span>
+                <span class="time">2026-01-19 14:51</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-HDMI-Gaming-Features" target="_blank">New Patches Provide HDMI VRR &amp; Auto Low Latency Mode Gaming Features For AMD Linux GPU Driver</a></span>
+                <span class="title"><a href="https://www.phoronix.com/review/nvidia-gb10-gh200" target="_blank">How NVIDIA GB10 Performance With the Dell Pro Max GB10 Compares To The GH200</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-01-19 11:38</span>
+                <span class="time">2026-01-19 14:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vigneshjd/demystifying-ai-serving-for-java-developers-apache-camel-tensorflow-explained-46dp" target="_blank">Demystifying AI Serving for Java Developers: Apache Camel + TensorFlow Explained</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-19 14:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18836653&w=600" alt="DeepSeek’s mHC: Manifold-Constrained Hyper-Connections, Explained for Practical Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/deepseeks-mhc-manifold-constrained-hyper-connectio" target="_blank">DeepSeek’s mHC: Manifold-Constrained Hyper-Connections, Explained for Practical Use</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-19 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/one-testing-environment/en/mediumimage/po-linn-chia-medium-1768379281165.jpg" alt="Presentation: No QA Environment? No Problem: How Classpass Enables Testing on a Single Environment in ECS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/one-testing-environment/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: No QA Environment? No Problem: How Classpass Enables Testing on a Single Environment in ECS</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-19 13:21</span>
             </div>
         </div>
 </div>
@@ -238,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/09/shutterstock_2274341269-scaled.jpg?fit=2560%2C1703&amp;quality=60&amp;ssl=1" alt="Trump sends weird angry letter to Norway&#x27;s Prime Minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/19/trump-sends-weird-angry-letter-to-norways-prime-minister.html" target="_blank">Trump sends weird angry letter to Norway&#x27;s Prime Minister</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-19 14:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/UGREENUSBC-1280x853.jpg" alt="UGREEN’s USB-C Cables Hit Record Lows Across All Sizes, Time to Stock Up Thanks to an Amazon Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +298,6 @@
                 <span class="time">2026-01-18 23:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Calmind-Premium-Master-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Calmind turns a phone flashlight into a guided unwind session" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/18/calmind-turns-a-phone-flashlight-into-a-guided-unwind-session.html" target="_blank">Calmind turns a phone flashlight into a guided unwind session</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-18 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 14:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 15:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
