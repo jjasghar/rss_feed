@@ -1,29 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-19 13:16:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-19 14:05:24 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 20 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, January 19, 2026 - 13:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, January 19, 2026 - 14:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/19/keir-starmer-says-trumps-tariffs-over-greenland-are-completely?traffic_source=rss" target="_blank">Keir Starmer says Trump’s tariffs over Greenland are ‘completely wrong’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-19 13:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,20 +101,20 @@
                 <span class="time">2026-01-19 10:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251220-Epstein-Maxwell-ch-1411-c27024.jpg" alt="A month after Epstein files deadline, only a fraction of DOJ records have been released" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/one-month-epstein-files-deadline-rcna254416" target="_blank">A month after Epstein files deadline, only a fraction of DOJ records have been released</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-19 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/863747/animal-crossing-new-horizons-update-3-0-switch-2-quality-of-life" target="_blank">Animal Crossing: New Horizons added just enough to suck me back in</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-19 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/696b16ccffa70349baa317dc/master/pass/DJI%20Mini%205%20Pro%20in%20flight%20front.jpg" alt="Are DJI Drones Still Banned? (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,15 +160,6 @@
                 <span class="time">2026-01-19 07:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/" target="_blank">Sequoia to invest in Anthropic, breaking VC taboo on backing rivals: FT</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-18 22:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,6 +172,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vigneshjd/demystifying-ai-serving-for-java-developers-apache-camel-tensorflow-explained-46dp" target="_blank">Demystifying AI Serving for Java Developers: Apache Camel + TensorFlow Explained</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-19 14:02</span>
             </div>
         </div>
 <div class="story">
@@ -202,15 +219,6 @@
                 <span class="time">2026-01-19 11:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/showcasing-open-design-in-action-loughborough-university-design-students-explore-open-source-projects" target="_blank">Showcasing open design in action: Loughborough University design students explore open source projects</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-01-19 11:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/UGREENUSBC-1280x853.jpg" alt="UGREEN’s USB-C Cables Hit Record Lows Across All Sizes, Time to Stock Up Thanks to an Amazon Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ugreens-usb-c-cables-hit-record-lows-across-all-sizes-time-to-stock-up-thanks-to-an-amazon-deal-2000660695" target="_blank">UGREEN’s USB-C Cables Hit Record Lows Across All Sizes, Time to Stock Up Thanks to an Amazon Deal</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-19 13:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Jack-OConnell-28-Years-Bone-Temple-1280x853.jpg" alt="’28 Years Later: The Bone Temple’ Runs to Decent Box Office Start" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +292,6 @@
                 <span class="time">2026-01-18 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/shutterstock_2396034011-1280x853.jpg" alt="EPA Rule Clarification Hits a Significant Source of Grok’s Electricity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/epa-rule-clarification-hits-a-significant-source-of-groks-electricity-2000711569" target="_blank">EPA Rule Clarification Hits a Significant Source of Grok’s Electricity</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-18 21:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 13:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 14:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
