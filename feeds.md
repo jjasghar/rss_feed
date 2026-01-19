@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-19 07:07:16 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-01-19 08:02:43 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, January 19, 2026 - 07:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, January 19, 2026 - 08:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -171,6 +177,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/chnghia/accelerating-ai-inference-workflows-with-the-atomic-inference-boilerplate-75b" target="_blank">Accelerating AI Inference Workflows with the Atomic Inference Boilerplate</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-19 07:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/01/cagent-testing/en/headerimage/generatedHeaderImage-1768594554533.jpg" alt="Docker’s Cagent Brings Deterministic Testing to AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -198,21 +213,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6y3v2socc32naukk3622.png" alt="Introducing WeddingCrossword.com - Custom Crossword Puzzles for Your Special Day 💕" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/_90182f41aa96ab0f245ab/introducing-weddingcrosswordcom-custom-crossword-puzzles-for-your-special-day-k7k" target="_blank">Introducing WeddingCrossword.com - Custom Crossword Puzzles for Your Special Day 💕</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-19 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft31c98n675y87zzlx1tj.png" alt="Hello World, PardoX: Why I Built a Data Engine in Rust (and Why I Need You to Break It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/betoalien/hello-world-pardox-why-i-built-a-data-engine-in-rust-and-why-i-need-you-to-break-it-1pik" target="_blank">Hello World, PardoX: Why I Built a Data Engine in Rust (and Why I Need You to Break It)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-19 03:18</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://pdfwithlove.netlify.app" target="_blank">Show HN: Pdfwithlove – PDF tools that run 100% locally (no uploads, no back end)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-19 05:04</span>
             </div>
         </div>
 </div>
@@ -302,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 07:07 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 08:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
