@@ -1,42 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-19 06:03:50 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-19 07:07:16 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: The Verge -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 33 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, January 19, 2026 - 06:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, January 19, 2026 - 07:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b11/live/056a3850-f4e9-11f0-a422-4ba8a094a8fa.jpg" alt="High-speed train collision in Spain kills at least 39" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss" target="_blank">High-speed train collision in Spain kills at least 39</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-19 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/19/clashes-in-colombia-between-rival-rebel-groups-kill-27-people?traffic_source=rss" target="_blank">Clashes in Colombia between rival rebel groups kill 27 people</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-19 06:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b11/live/056a3850-f4e9-11f0-a422-4ba8a094a8fa.jpg" alt="High-speed train collision in Spain kills at least 21" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,24 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss" target="_blank">At least 21 killed in Spain after crash involving high-speed trains</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-19 01:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/18/nx-s1-5681493/spain-train-derailment" target="_blank">High-speed trains collide after one derails in southern Spain, killing at least 21</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-19 00:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jan/19/brazen-political-influence-rich-laid-bare-wealth-billionaires-inequality-poverty-instability-oxfam" target="_blank">‘Brazen’ political influence of rich laid bare as wealth of billionaires reaches $18.3tn, says Oxfam</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-01-19 00:01</span>
             </div>
         </div>
 </div>
@@ -180,6 +171,33 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/01/cagent-testing/en/headerimage/generatedHeaderImage-1768594554533.jpg" alt="Docker’s Cagent Brings Deterministic Testing to AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/cagent-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Docker’s Cagent Brings Deterministic Testing to AI Agents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-19 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/david_essien/how-to-authenticate-users-with-solana-wallets-in-nestjs-46gd" target="_blank">How to Authenticate Users with Solana Wallets in NestJS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-19 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/opera-gx-linux-announcement/" target="_blank">Linux Gamers Are Finally Getting Their Own Browser</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-19 06:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6y3v2socc32naukk3622.png" alt="Introducing WeddingCrossword.com - Custom Crossword Puzzles for Your Special Day 💕" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -195,33 +213,6 @@
                 <span class="title"><a href="https://dev.to/betoalien/hello-world-pardox-why-i-built-a-data-engine-in-rust-and-why-i-need-you-to-break-it-1pik" target="_blank">Hello World, PardoX: Why I Built a Data Engine in Rust (and Why I Need You to Break It)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-19 03:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/java-news-roundup-jan12-2026/en/headerimage/java-istock-image-01-1768776899325.jpg" alt="Java News Roundup: WildFly 39, Open Liberty, Spring Framework, JobRunr, Gradle, Micrometer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/java-news-roundup-jan12-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: WildFly 39, Open Liberty, Spring Framework, JobRunr, Gradle, Micrometer</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-19 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-rc6-Released" target="_blank">Linux 6.19-rc6 Released With More Bug Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-19 00:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jjdelcerro/no-la-ia-no-programa-parte-2-las-pruebas-realizadas-99g" target="_blank">No, la ia no programa... (parte 2) las pruebas realizadas.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-19 00:00</span>
             </div>
         </div>
 </div>
@@ -311,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 06:04 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 07:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
