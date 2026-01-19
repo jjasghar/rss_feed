@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-19 01:30:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-19 02:41:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, January 19, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, January 19, 2026 - 02:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/ImmigrationEnforcementMinnesota_1768703358883_hpMain_2_4x3t_384.jpg" alt="Lawyers allege DHS is denying legal counsel to Minnesota detainees" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/lawyers-allege-dept-homeland-security-denying-legal-counsel/story?id=129335914" target="_blank">Lawyers allege DHS is denying legal counsel to Minnesota detainees</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-19 02:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0871/live/ced51930-f4b7-11f0-a422-4ba8a094a8fa.jpg" alt="At least 21 killed in Spain after crash involving high-speed trains" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss" target="_blank">At least 21 killed in Spain after crash involving high-speed trains</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-19 01:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/18/nx-s1-5681493/spain-train-derailment" target="_blank">High-speed trains collide after one derails in southern Spain, killing at least 21</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-19 00:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,33 +100,6 @@
                 <span class="time">2026-01-18 22:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/18/two-high-speed-trains-collide-in-spain-killing?traffic_source=rss" target="_blank">Two high-speed trains collide in Spain, killing at least 21</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-18 22:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/18/nx-s1-5680263/in-los-angeles-iranian-americans-march-against-government-crackdown-in-iran" target="_blank">In Los Angeles, Iranian-Americans march against government crackdown in Iran</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-18 22:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/18/nx-s1-5678366/united-nations-general-assembly-80-london" target="_blank">United Nations leaders bemoan global turmoil as the General Assembly turns 80</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-18 21:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -107,6 +112,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/" target="_blank">Sequoia to invest in Anthropic, breaking VC taboo on backing rivals: FT</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-18 22:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/864078/cosmic-horror-comedy-podcast-welcome-to-night-vale" target="_blank">You need to listen to the cosmic horror-comedy podcast Welcome to Night Vale</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-18 20:30</span>
             </div>
         </div>
 <div class="story">
@@ -145,15 +159,6 @@
                 <span class="time">2026-01-18 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2245161347-500x500.jpg" alt="Ocean damage nearly doubles the cost of climate change" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/01/ocean-damage-nearly-doubles-the-cost-of-climate-change/" target="_blank">Ocean damage nearly doubles the cost of climate change</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-18 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,6 +171,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/java-news-roundup-jan12-2026/en/headerimage/java-istock-image-01-1768776899325.jpg" alt="Java News Roundup: WildFly 39, Open Liberty, Spring Framework, JobRunr, Gradle, Micrometer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/java-news-roundup-jan12-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: WildFly 39, Open Liberty, Spring Framework, JobRunr, Gradle, Micrometer</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-19 02:30</span>
             </div>
         </div>
 <div class="story">
@@ -202,15 +216,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/adobe-creative-cloud-linux-wine-patches" target="_blank">Wine Patches Bring Newer Versions of Adobe Photoshop to Linux</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-01-18 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devopsdynamicshub/azure-practice-day-1-1kp8" target="_blank">Azure Practice Day 1</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-18 18:44</span>
             </div>
         </div>
 </div>
@@ -278,6 +283,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5746.png" alt="Workflow Analysis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5746" target="_blank">Workflow Analysis</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-01-19 02:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1768703599-20260118.png" alt="Saturday Morning Breakfast Cereal - Fuzz" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -291,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 02:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
