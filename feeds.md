@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-19 19:03:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-19 20:01:34 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, January 19, 2026 - 19:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, January 19, 2026 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/pam-bondi-1-rt-gmh-260119_1768849052028_hpMain_4x3t_384.jpg" alt="Protesters disrupt Minneapolis church service where ICE field director is pastor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/doj-investigating-after-protesters-disrupt-service-minneapolis-church/story?id=129349242" target="_blank">Protesters disrupt Minneapolis church service where ICE field director is pastor</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-19 19:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Minnesota-main_1768819384027_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: DOJ investigating apparent church disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +102,29 @@
                 <span class="time">2026-01-19 15:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/19/nx-s1-5682038/trump-greenland-nobel-peace-prize" target="_blank">Trump says he&#x27;s pursuing Greenland after perceived Nobel Peace Prize snub</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-19 15:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_6215-500x500-1768851903.jpeg" alt="Signs point to a sooner-rather-than-later M5 MacBook Pro refresh" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/signs-point-to-a-sooner-rather-than-later-m5-macbook-pro-refresh/" target="_blank">Signs point to a sooner-rather-than-later M5 MacBook Pro refresh</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-19 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/" target="_blank">Here are the 55 US AI startups that raised $100M or more in 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-19 18:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +161,6 @@
                 <span class="time">2026-01-19 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/863747/animal-crossing-new-horizons-update-3-0-switch-2-quality-of-life" target="_blank">Animal Crossing: New Horizons added just enough to suck me back in</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-19 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/696b16ccffa70349baa317dc/master/pass/DJI%20Mini%205%20Pro%20in%20flight%20front.jpg" alt="Are DJI Drones Still Banned? (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/whats-going-on-with-the-dji-drone-ban/" target="_blank">Are DJI Drones Still Banned? (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-19 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +173,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Open-Tree-Namespace" target="_blank">OPEN_TREE_NAMESPACE To Provide A Security &amp; Performance Win For Dealing With Containers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-19 19:44</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +220,6 @@
                 <span class="time">2026-01-19 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kalwiggins/why-per-seat-pricing-for-support-tools-is-bleeding-your-saas-dry-1k4p" target="_blank">Why Per-Seat Pricing for Support Tools is Bleeding Your SaaS Dry</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-19 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/marvel-rivals-1280x812.jpg" alt="Marvel Rivals Promises A Crackdown On The Recent Epidemic Of ‘Lord Farming’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marvel-rivals-s6-lord-farming-proficiency-detection-2000661005" target="_blank">Marvel Rivals Promises A Crackdown On The Recent Epidemic Of ‘Lord Farming’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-19 19:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Gnosia-Crunchyroll-1280x854.jpg" alt="We Got Anime ‘Among Us’ Before That Stacked Hollywood Cast ‘Among Us’ Cartoon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +293,6 @@
                 <span class="time">2026-01-19 16:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Microsoft-Office-Professional-2021-for-Windows.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Skip the Office subscription stress for $35" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/19/skip-the-office-subscription-stress-for-35.html" target="_blank">Skip the Office subscription stress for $35</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-19 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 19:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
