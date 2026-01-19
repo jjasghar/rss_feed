@@ -1,39 +1,46 @@
-<!-- Processing 54 RSS feeds at 2026-01-19 21:02:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-19 22:01:25 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 37 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, January 19, 2026 - 21:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, January 19, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,9 +60,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/19/norway-pm-trump-preoccupied-with-nobel-peace-prize-on-greenland-texts?traffic_source=rss" target="_blank">Norway PM: Trump ‘preoccupied’ with Nobel Peace Prize on Greenland texts</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-19 20:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/19/us-fed-chair-powell-to-attend-supreme-court-session-on-cook-case-report?traffic_source=rss" target="_blank">US Fed Chair Powell to attend Supreme Court session on Cook case: Report</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-19 20:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/19/1114518694/valentino-garavani-dead" target="_blank">Italian fashion designer Valentino dies at 93</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-19 19:58</span>
             </div>
         </div>
 <div class="story">
@@ -85,29 +110,29 @@
                 <span class="time">2026-01-19 16:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/487f/live/f0eecb40-f522-11f0-ba9e-6162a5db7583.png" alt="Trade war in no-one&#x27;s interest, says PM in face of Trump threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgjkrr4pk0o?at_medium=RSS&at_campaign=rss" target="_blank">Trade war in no-one&#x27;s interest, says PM in face of Trump threats</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-19 16:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Greenland-soldiers-DB-260119_1768812437737_hpMain_4x3t_384.jpg" alt="Trump tells Norway he no longer has &#x27;obligation to think purely of Peace&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/trumps-greenland-threats-prompt-extraordinary-meeting-european-leaders/story?id=129340526" target="_blank">Trump tells Norway he no longer has &#x27;obligation to think purely of Peace&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-19 15:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/marathon-500x500.png" alt="The first new Marathon game in decades will launch on March 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/01/bungies-delayed-marathon-revival-will-finally-launch-march-5/" target="_blank">The first new Marathon game in decades will launch on March 5</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-19 21:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/864229/openai-focus-practical-adoption-sarah-friar" target="_blank">OpenAI’s 2026 ‘focus’ is ‘practical adoption’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-19 21:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_6215-500x500-1768851903.jpeg" alt="Signs point to a sooner-rather-than-later M5 MacBook Pro refresh" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,24 +169,6 @@
                 <span class="time">2026-01-19 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/19/well-there-goes-the-metaverse/" target="_blank">Well, there goes the metaverse!</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-19 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/863361/razer-ceo-min-liang-tan-ces-2026-ai-gaming-project-ava-interview" target="_blank">Gamers love AI in game dev — they just don&amp;#8217;t know it yet, says Razer&amp;#8217;s CEO</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-19 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +181,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/philipfong/when-playwrights-locator-tool-isnt-enough-561h" target="_blank">When Playwright’s Locator Tool Isn’t Enough</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-19 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf" target="_blank">Simple Sabotage Field Manual [pdf]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-19 20:51</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +228,6 @@
                 <span class="time">2026-01-19 19:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F844r1vbsnbon7op5o147.png" alt="MongoDB backup best practices — Essential strategies for MongoDB backup and recovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/piteradyson/mongodb-backup-best-practices-essential-strategies-for-mongodb-backup-and-recovery-542l" target="_blank">MongoDB backup best practices — Essential strategies for MongoDB backup and recovery</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-19 18:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18812561&w=600" alt="Self-Healing Infrastructure Automation Platform That Reduced MTTR by 40%" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/self-healing-infrastructure-automation-platform-reduce" target="_blank">Self-Healing Infrastructure Automation Platform That Reduced MTTR by 40%</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-19 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/07/9aaf3a7a4e8b86450e159604947d1efb-1280x720.jpg" alt="Twitch Streamers Are Still Being Paid To Play MindsEye Over Six Months After It Flopped" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mindseye-update-twitch-sponsored-streamer-2000661013" target="_blank">Twitch Streamers Are Still Being Paid To Play MindsEye Over Six Months After It Flopped</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-19 21:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/star-wars-galaxys-edge-darth-vader-1280x853.jpg" alt="Disney Couldn’t Even Kill the Original ‘Galaxy’s Edge’ Right" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-wars-galaxys-edge-changes-disney-lucasfilm-2000711222" target="_blank">Disney Couldn’t Even Kill the Original ‘Galaxy’s Edge’ Right</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-19 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/thepitt.jpg?fit=1200%2C673&amp;quality=60&amp;ssl=1" alt="Catch up on the Pitt with a real doctor&#x27;s reaction videos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,29 +301,20 @@
                 <span class="time">2026-01-19 17:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/Johnny-Silverhand.jpg" alt="Modder Blasts ‘Corpo Logic’ Over Cyberpunk 2077 VR Takedown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/cyberpunk-2077-vr-mod-baldurs-gate-3-takedown-2000660987" target="_blank">Modder Blasts ‘Corpo Logic’ Over Cyberpunk 2077 VR Takedown</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-19 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Star-Wars-Rey-Kylo-1280x853.jpg" alt="How Often Is Too Often for New ‘Star Wars’ Movies?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-often-is-too-often-for-new-star-wars-movies-2000710894" target="_blank">How Often Is Too Often for New ‘Star Wars’ Movies?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-19 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/19/blue-skies" target="_blank">Blue Skies</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-01-19 21:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1768703677-20260119.png" alt="Saturday Morning Breakfast Cereal - Beep" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -331,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
