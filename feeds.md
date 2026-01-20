@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-20 19:19:42 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-20 20:21:11 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 31 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, January 20, 2026 - 19:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, January 20, 2026 - 20:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2026/1/20/how-winter-is-making-gazas-humanitarian-crisis-worse?traffic_source=rss" target="_blank">How winter is making Gaza’s humanitarian crisis worse</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-20 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump marks first year of second term" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +100,38 @@
                 <span class="time">2026-01-20 15:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/20/gul-plaza-fire-how-a-deadly-inferno-exposed-karachis-safety-failures?traffic_source=rss" target="_blank">Gul Plaza fire: How a deadly inferno exposed Karachi’s safety failures</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-20 15:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/864543/google-has-finally-killed-the-stadia-bluetooth-tool-but-this-person-rescued-it" target="_blank">Google has finally killed the Stadia Bluetooth tool — but this person rescued it</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-20 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/20/amazon-ceo-andy-jassy-says-tariffs-are-starting-to-drive-up-product-prices/" target="_blank">Amazon CEO Andy Jassy says tariffs are starting to drive up product prices</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-20 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/netflix-paramount-wb-icons-500x500-1767815415.jpg" alt="Netflix to pay all cash for Warner Bros. to fend off Paramount hostile takeover" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/netflix-to-pay-all-cash-for-warner-bros-to-fend-off-paramount-hostile-takeover/" target="_blank">Netflix to pay all cash for Warner Bros. to fend off Paramount hostile takeover</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-20 19:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/696f9dbc71bff0d7499888d3/master/pass/ice-agents-minnesota.jpg" alt="ICE Details a New Minnesota-Based Detention Network That Spans 5 States" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,33 +159,6 @@
                 <span class="time">2026-01-20 18:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/20/ice-becomes-one-of-the-most-blocked-accounts-on-bluesky-after-its-verification/" target="_blank">ICE becomes one of the most-blocked accounts on Bluesky after its verification</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-20 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/864412/nintendo-doug-bowser-joins-hasbro-build" target="_blank">Former Nintendo of America boss Doug Bowser is joining Hasbro</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-20 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/20/one-of-the-first-alternative-app-stores-in-the-eu-is-shutting-down/" target="_blank">One of the first alternative app stores in the EU is shutting down</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-20 16:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +171,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18839377&w=600" alt="Automating Traceability with Generative AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/automating-traceability-with-generative-ai" target="_blank">Automating Traceability with Generative AI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-20 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/cyberark-agents-defenses/en/headerimage/cyberark-model-security-1768938605226.jpeg" alt="How CyberArk Protects AI Agents with Instruction Detectors and History-Aware Validation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/cyberark-agents-defenses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How CyberArk Protects AI Agents with Instruction Detectors and History-Aware Validation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-20 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -204,24 +218,6 @@
                 <span class="time">2026-01-20 17:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/developer-skills/application-development/context-windows-plan-agent-and-tdd-what-i-learned-building-a-countdown-app-with-github-copilot/" target="_blank">Context windows, Plan agent, and TDD: What I learned building a countdown app with GitHub Copilot</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-01-20 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18840222&w=600" alt="The Messaging Challenges No One Talks About in Regulated, Air-Gapped, and Hybrid Environments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/messaging-challenges-regulated-hybrid" target="_blank">The Messaging Challenges No One Talks About in Regulated, Air-Gapped, and Hybrid Environments</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-20 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/09/Sarco-Assisted-Suicide-Capsule-in-Zurich-1024x683.jpg" alt="Controversial Swiss Suicide Pod Gets an AI-Powered Mental Fitness Upgrade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/controversial-swiss-suicide-pod-gets-an-ai-powered-mental-fitness-upgrade-2000712092" target="_blank">Controversial Swiss Suicide Pod Gets an AI-Powered Mental Fitness Upgrade</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-20 20:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/coyote.jpeg?fit=1500%2C1001&amp;quality=60&amp;ssl=1" alt="A coyote swam to Alcatraz for the first time ever documented" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/is-this-really-the-iphone-18-pro-2000711918" target="_blank">Is This Really the iPhone 18 Pro?</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-20 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KFDNAD1YSQ1ND85BJHHDSG0H/hero-image.png" alt="How to Get Samsung Galaxy&#x27;s Best Feature on Your Pixel (or Any Android)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-get-samsung-galaxy-best-feature-on-your-pixel-or-any-android?utm_medium=RSS" target="_blank">How to Get Samsung Galaxy&#x27;s Best Feature on Your Pixel (or Any Android)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-20 15:30</span>
             </div>
         </div>
 </div>
@@ -342,7 +338,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 19:19 UTC
+        🔄 Last Updated: 20:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
