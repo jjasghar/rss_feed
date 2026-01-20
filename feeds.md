@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-20 01:29:51 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-01-20 02:38:02 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, January 20, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, January 20, 2026 - 02:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/20/more-than-100-vehicle-pile-up-leaves-us-motorists-stranded-in-snowstorm?traffic_source=rss" target="_blank">More than 100 vehicle pile-up leaves US motorists stranded in snowstorm</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-20 01:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65f7/live/cea87290-f575-11f0-b385-5f48925de19a.png" alt="Trump says he will &#x27;100%&#x27; carry out Greenland tariffs threat, as EU vows to protect its interests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/19/us-fed-chair-powell-to-attend-supreme-court-session-on-cook-case-report?traffic_source=rss" target="_blank">US Fed Chair Powell to attend Supreme Court session on Cook case: Report</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-19 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/19/1114518694/valentino-garavani-dead" target="_blank">Italian fashion designer Valentino dies at 93</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-19 19:58</span>
             </div>
         </div>
 </div>
@@ -177,6 +173,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jtvanwage/using-ai-in-personal-projects-vs-enterprise-codebases-40eo" target="_blank">Using AI in Personal Projects vs Enterprise Codebases</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-20 02:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2018/06/intel-nuc-image-from-trustedreviews.jpg?resize=406%2C232&amp;ssl=1" alt="Will Intel’s Core 3 Replicate the N100’s Budget Mini-PC Success?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/intel-wildcat-lake-n100-successor" target="_blank">Will Intel’s Core 3 Replicate the N100’s Budget Mini-PC Success?</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-20 01:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/X.Org-Server-Main-Repo" target="_blank">X.Org Server May Create A New Selective Git Branch With Hopes Of A New Release This Year</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-20 01:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/philipfong/when-playwrights-locator-tool-isnt-enough-561h" target="_blank">When Playwright’s Locator Tool Isn’t Enough</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-19 21:47</span>
@@ -189,33 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-SI-Power-Management" target="_blank">New Patches From Valve Bring AMDGPU Power Management Improvements For Old GCN 1.0 GPUs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-19 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf" target="_blank">Simple Sabotage Field Manual [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-19 20:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kargatharaaakash/the-designer-flow-for-ai-why-i-built-a-bridge-to-google-stitch-423k" target="_blank">The &quot;Designer Flow&quot; for AI: Why I Built a Bridge to Google Stitch</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-19 20:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026" target="_blank">Level S4 solar radiation event</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-19 20:26</span>
             </div>
         </div>
 </div>
@@ -297,6 +293,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5747.png" alt="Social Grace" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5747" target="_blank">Social Grace</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-01-20 02:17</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -324,12 +329,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="http://www.questionablecontent.net/comics/5746.png" alt="Workflow Analysis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://imgs.xkcd.com/comics/aurora_coolness.png" alt="Aurora Coolness" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5746" target="_blank">Workflow Analysis</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-01-19 02:03</span>
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3196/" target="_blank">Aurora Coolness</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-01-19 05:00</span>
             </div>
         </div>
 </div>
@@ -337,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 116 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 02:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
