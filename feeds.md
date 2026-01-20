@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-20 08:02:23 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-20 09:06:40 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: NPR News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, January 20, 2026 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, January 20, 2026 - 09:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/20/manhunt-for-isil-prisoners-in-syria-after-fighting-near-jails?traffic_source=rss" target="_blank">Manhunt for ISIL prisoners in Syria after fighting near jails</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-20 08:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png" alt="UK&#x27;s Chagos Islands deal an &#x27;act of great stupidity&#x27;, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +96,20 @@
                 <span class="time">2026-01-20 02:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/20/more-than-100-vehicle-pile-up-leaves-us-motorists-stranded-in-snowstorm?traffic_source=rss" target="_blank">More than 100 vehicle pile-up leaves US motorists stranded in snowstorm</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-20 01:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/864254/realme-promises-days-of-battery-from-its-10001mah-phone" target="_blank">Realme promises days of battery from its 10,001mAh phone</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-20 08:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +155,6 @@
                 <span class="time">2026-01-19 21:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_6215-500x500-1768851903.jpeg" alt="Signs point to a sooner-rather-than-later M5 MacBook Pro refresh" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/signs-point-to-a-sooner-rather-than-later-m5-macbook-pro-refresh/" target="_blank">Signs point to a sooner-rather-than-later M5 MacBook Pro refresh</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-19 19:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +167,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shinyakato_/4-causes-of-table-bloat-in-postgresql-and-how-to-address-them-3ec9" target="_blank">4 causes of table bloat in PostgreSQL and how to address them</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-20 08:55</span>
             </div>
         </div>
 <div class="story">
@@ -199,23 +208,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/highcenburg/problem-10-duplicate-removal-4884" target="_blank">Problem 10: Duplicate Removal</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-20 06:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="Developers should understand that software is not disappearing, but low-code AI is quietly absorbing large parts of what traditional software used to do. 
-
-It&#x27;s time for developers to understand, otherwise they will lose the opportunity." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jaideepparashar/developers-should-understand-that-software-is-not-disappearing-but-low-code-ai-is-quietly-2dgn" target="_blank">Developers should understand that software is not disappearing, but low-code AI is quietly absorbing large parts of what traditional software used to do. 
-
-It&#x27;s time for developers to understand, otherwise they will lose the opportunity.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-20 05:55</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://paulmakeswebsites.com/writing/shadcn-radio-button/" target="_blank">The Overcomplexity of the Shadcn Radio Button</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-20 07:35</span>
             </div>
         </div>
 </div>
@@ -337,8 +333,8 @@ It&#x27;s time for developers to understand, otherwise they will lose the opport
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 41 | 📸 With Images: 259 |
+        🔄 Last Updated: 09:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
