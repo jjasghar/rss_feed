@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-20 20:21:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-20 21:03:07 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, January 20, 2026 - 20:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, January 20, 2026 - 21:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +48,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/walz-frey-rt-gmh-260120_1768942026790_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Subpoenas served to Gov. Walz, Mayor Frey" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis ICE shooting live updates: Subpoenas served to Gov. Walz, Mayor Frey</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-20 20:55</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2026/1/20/how-winter-is-making-gazas-humanitarian-crisis-worse?traffic_source=rss" target="_blank">How winter is making Gaza’s humanitarian crisis worse</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-20 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/20/g-s1-106551/asean-wont-endorse-election-in-military-ruled-myanmar-malaysia-says" target="_blank">ASEAN won&#x27;t endorse election in military-ruled Myanmar, Malaysia says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-20 19:10</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +101,38 @@
                 <span class="time">2026-01-20 17:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/20/a-deal-is-a-deal-eu-blasts-trumps-greenland-tariffs-in-davos?traffic_source=rss" target="_blank">‘A deal is a deal’: EU blasts Trump’s Greenland tariffs in Davos</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-20 16:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9a7/live/8eaf5ae0-f545-11ef-9e61-71ee71f26eb1.jpg" alt="UK defends Chagos deal after Trump calls it &#x27;act of great stupidity&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0mkp021rvro?at_medium=RSS&at_campaign=rss" target="_blank">UK defends Chagos deal after Trump calls it &#x27;act of great stupidity&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-20 15:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/20/trump-administration-admits-doge-may-have-misused-americans-social-security-data/" target="_blank">Trump administration admits DOGE may have misused Americans’ Social Security data</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-20 20:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/864585/nova-launcher-instabridge-acquisition-owner-ads" target="_blank">Nova Launcher’s new owner might offer a version with ads</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-20 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/696fc7a0e81ed4b074c7ed54/master/pass/All-Clad%20Factory%20Seconds.png" alt="7 Best All-Clad Deals From the Factory Seconds Sale (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/all-clad-factory-seconds-sale-january-2026/" target="_blank">7 Best All-Clad Deals From the Factory Seconds Sale (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-20 20:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,33 +158,6 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/netflix-to-pay-all-cash-for-warner-bros-to-fend-off-paramount-hostile-takeover/" target="_blank">Netflix to pay all cash for Warner Bros. to fend off Paramount hostile takeover</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-01-20 19:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/696f9dbc71bff0d7499888d3/master/pass/ice-agents-minnesota.jpg" alt="ICE Details a New Minnesota-Based Detention Network That Spans 5 States" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ice-detention-network-minnesota-5-states/" target="_blank">ICE Details a New Minnesota-Based Detention Network That Spans 5 States</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-20 19:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-1236174910-500x500-1768934080.jpg" alt="Sony is giving TCL control over its high-end Bravia TVs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/tcl-to-gain-majority-ownership-over-sonys-bravia-tvs/" target="_blank">Sony is giving TCL control over its high-end Bravia TVs</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-20 18:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/864404/samsung-p9-microsd-express-card-deal-sale" target="_blank">Samsung’s discounted microSD Express card more than doubles your Switch 2 storage</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-20 18:36</span>
             </div>
         </div>
 </div>
@@ -194,6 +195,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/ai-supported-vulnerability-triage-with-the-github-security-lab-taskflow-agent/" target="_blank">AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-01-20 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/" target="_blank">The 26,000-Year Astronomical Monument Hidden in Plain Sight</a></span>
                 <span class="feed">Hacker News</span>
@@ -207,15 +217,6 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-product-minded-engineer" target="_blank">The Product-Minded Engineer: The importance of good errors and warnings</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2026-01-20 17:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LLVM-Human-In-The-Loop" target="_blank">LLVM Adopts &quot;Human In The Loop&quot; Policy For AI/Tool-Assisted Contributions</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-20 17:13</span>
             </div>
         </div>
 </div>
@@ -237,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/lore-olympus-1280x853.jpg" alt="‘Lore Olympus’ Will Be Prime Video’s Next Animated Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lore-olympus-will-be-prime-videos-next-animated-show-2000712033" target="_blank">‘Lore Olympus’ Will Be Prime Video’s Next Animated Show</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-20 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/image-49-1280x720.jpg" alt="It Took Five Years For Forza Horizon 5 To Become My Antidote To Doomscrolling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/forza-horizon-5-backlog-pulse-music-ps5-xbox-2000661365" target="_blank">It Took Five Years For Forza Horizon 5 To Become My Antidote To Doomscrolling</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-20 20:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/09/Sarco-Assisted-Suicide-Capsule-in-Zurich-1024x683.jpg" alt="Controversial Swiss Suicide Pod Gets an AI-Powered Mental Fitness Upgrade" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/samsung-drops-galaxy-tab-a9-to-a-record-low-to-clear-out-older-tablets-no-need-to-look-for-budget-brands-2000659054" target="_blank">Samsung Drops Galaxy Tab A9+ to a Record Low to Clear Out Older Tablets, No Need to Look for Budget Brands</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-20 16:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/general-relativity-diagram-1280x853.jpg" alt="No, Earth Won’t Lose Gravity for 7 Seconds on August 12, NASA Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/no-earth-wont-lose-gravity-for-7-seconds-on-august-12-nasa-says-2000711970" target="_blank">No, Earth Won’t Lose Gravity for 7 Seconds on August 12, NASA Says</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-20 16:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/iPhone-18-Pro-leak-1280x853.jpg" alt="Is This Really the iPhone 18 Pro?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/is-this-really-the-iphone-18-pro-2000711918" target="_blank">Is This Really the iPhone 18 Pro?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-20 15:50</span>
             </div>
         </div>
 </div>
@@ -337,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 20:21 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 21:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
