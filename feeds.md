@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-20 05:07:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-20 06:02:56 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, January 20, 2026 - 05:07 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, January 20, 2026 - 06:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/20/gazas-phase-two-from-a-distance-why-hope-still-feels-out-of-reach?traffic_source=rss" target="_blank">Gaza’s ‘phase two’ from a distance: Why hope still feels out of reach</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-20 05:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/20/g-s1-106504/indiana-wins-first-national-title" target="_blank">Indiana completes undefeated season and wins first national title, beating Miami</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-20 05:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c4g5345ylk0o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he will &#x27;100%&#x27; carry out Greenland tariffs threat, as EU vows to protect its interests</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-19 23:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef3/live/79cca350-f592-11f0-aa20-fb06cdeb5920.jpg" alt="UK to consult on social media ban for under 16s" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgm4xpyxp7lo?at_medium=RSS&at_campaign=rss" target="_blank">UK to consult on social media ban for under 16s</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-19 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/pam-bondi-1-rt-gmh-260119_1768849052028_hpMain_4x3t_384.jpg" alt="Protesters disrupt St. Paul church service where ICE field director is pastor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/doj-investigating-after-protesters-disrupt-service-minneapolis-church/story?id=129349242" target="_blank">Protesters disrupt St. Paul church service where ICE field director is pastor</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-19 22:14</span>
             </div>
         </div>
 </div>
@@ -172,6 +176,28 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="Developers should understand that software is not disappearing, but low-code AI is quietly absorbing large parts of what traditional software used to do. 
+
+It&#x27;s time for developers to understand, otherwise they will lose the opportunity." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jaideepparashar/developers-should-understand-that-software-is-not-disappearing-but-low-code-ai-is-quietly-2dgn" target="_blank">Developers should understand that software is not disappearing, but low-code AI is quietly absorbing large parts of what traditional software used to do. 
+
+It&#x27;s time for developers to understand, otherwise they will lose the opportunity.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-20 05:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/xai-org/x-algorithm" target="_blank">X For You Feed Algorithm</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-20 05:16</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -196,24 +222,6 @@
                 <span class="title"><a href="https://dev.to/jtvanwage/using-ai-in-personal-projects-vs-enterprise-codebases-40eo" target="_blank">Using AI in Personal Projects vs Enterprise Codebases</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-20 02:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2018/06/intel-nuc-image-from-trustedreviews.jpg?resize=406%2C232&amp;ssl=1" alt="Will Intel’s Core 3 Replicate the N100’s Budget Mini-PC Success?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/intel-wildcat-lake-n100-successor" target="_blank">Will Intel’s Core 3 Replicate the N100’s Budget Mini-PC Success?</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-20 01:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/X.Org-Server-Main-Repo" target="_blank">X.Org Server May Create A New Selective Git Branch With Hopes Of A New Release This Year</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-20 01:51</span>
             </div>
         </div>
 </div>
@@ -344,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 05:07 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 120 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 06:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
