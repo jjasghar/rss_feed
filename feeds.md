@@ -1,29 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-20 18:02:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-20 19:19:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Generated 12 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, January 20, 2026 - 18:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, January 20, 2026 - 19:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,12 +51,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump marks first year of second term" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  President Trump marks first year of second term</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-20 18:43</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/01/20/nx-s1-5675192/kennedy-center-canceled-performances" target="_blank">Here&#x27;s who&#x27;s canceled their Kennedy Center performances since Trump took over</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-20 17:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/jan/20/us-diplomats-urged-to-remind-african-leaders-of-us-generosity-despite-usaid-closing" target="_blank">Head of US Africa bureau urges staff to highlight US ‘generosity’ despite aid cuts</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-20 17:11</span>
             </div>
         </div>
 <div class="story">
@@ -75,29 +104,38 @@
                 <span class="time">2026-01-20 15:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/20/bobi-wine-tells-al-jazeera-he-escaped-police-raid-amid-uganda-elections?traffic_source=rss" target="_blank">Bobi Wine tells Al Jazeera he escaped police raid amid Uganda elections</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-20 13:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/20/trumps-greenland-tariffs-whats-europes-bazooka-option-to-hit-back?traffic_source=rss" target="_blank">Trump’s Greenland tariffs: What’s Europe’s ‘bazooka’ option to hit back?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-20 12:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/696f9dbc71bff0d7499888d3/master/pass/ice-agents-minnesota.jpg" alt="ICE Details a New Minnesota-Based Detention Network That Spans 5 States" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ice-detention-network-minnesota-5-states/" target="_blank">ICE Details a New Minnesota-Based Detention Network That Spans 5 States</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-20 19:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-1236174910-500x500-1768934080.jpg" alt="Sony is giving TCL control over its high-end Bravia TVs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/tcl-to-gain-majority-ownership-over-sonys-bravia-tvs/" target="_blank">Sony is giving TCL control over its high-end Bravia TVs</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-20 18:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/864404/samsung-p9-microsd-express-card-deal-sale" target="_blank">Samsung’s discounted microSD Express card more than doubles your Switch 2 storage</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-20 18:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -125,33 +163,6 @@
                 <span class="time">2026-01-20 16:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/20/humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round/" target="_blank">Humans&amp;, a ‘human-centric’ AI startup founded by Anthropic, xAI, Google alums, raised $480M seed round</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-20 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Vast_Haven-1_Integration_Phase-1_ISO8_Cleanroom_Spring_2026-01-15-DSC_1375-3-500x500.jpg" alt="The first commercial space station, Haven-1, is now undergoing assembly for launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/01/the-first-commercial-space-station-haven-1-is-now-undergoing-assembly-for-launch/" target="_blank">The first commercial space station, Haven-1, is now undergoing assembly for launch</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-20 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/863318/netflix-warner-bros-discovery-merger-revision-cash-deal" target="_blank">Netflix revises Warner Bros. bid to an all-cash offer</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-20 12:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,10 +180,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/" target="_blank">The 26,000-Year Astronomical Monument Hidden in Plain Sight</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-20 18:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!LMPN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6e271a6-0139-47fd-83ba-88e56338affe_1600x1200.jpeg" alt="The Product-Minded Engineer: The importance of good errors and warnings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-product-minded-engineer" target="_blank">The Product-Minded Engineer: The importance of good errors and warnings</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-01-20 17:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/LLVM-Human-In-The-Loop" target="_blank">LLVM Adopts &quot;Human In The Loop&quot; Policy For AI/Tool-Assisted Contributions</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-20 17:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/developer-skills/application-development/context-windows-plan-agent-and-tdd-what-i-learned-building-a-countdown-app-with-github-copilot/" target="_blank">Context windows, Plan agent, and TDD: What I learned building a countdown app with GitHub Copilot</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-01-20 17:00</span>
             </div>
         </div>
 <div class="story">
@@ -182,33 +220,6 @@
                 <span class="title"><a href="https://dzone.com/articles/messaging-challenges-regulated-hybrid" target="_blank">The Messaging Challenges No One Talks About in Regulated, Air-Gapped, and Hybrid Environments</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-01-20 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization" target="_blank">De-dollarization: Is the US dollar losing its dominance?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-20 16:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18839225&w=600" alt="Why High Performance Storage is Important for AI Cloud Build" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-high-performance-storage-is-important-for-ai-cloud" target="_blank">Why High Performance Storage is Important for AI Cloud Build</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-20 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq08bybekbx41bapnpk9d.png" alt="A.I. — The Amplifier: From Software Developer to Software Creator 🚀" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sweetpapa/ai-the-amplifier-from-software-developer-to-software-creator-2nb9" target="_blank">A.I. — The Amplifier: From Software Developer to Software Creator 🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-20 16:00</span>
             </div>
         </div>
 </div>
@@ -230,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/coyote.jpeg?fit=1500%2C1001&amp;quality=60&amp;ssl=1" alt="A coyote swam to Alcatraz for the first time ever documented" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/20/a-coyote-swam-to-alcatraz-for-the-first-time-ever-documented.html" target="_blank">A coyote swam to Alcatraz for the first time ever documented</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-20 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KFE651KG7WCF3RHTJQAS5K48/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Beats Pill Portable Speaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,20 +295,20 @@
                 <span class="time">2026-01-20 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/MS-0120-blakes-7-1280x853.jpg" alt="British Sci-Fi Legend ‘Blake’s 7’ Might Get the Reboot Treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/blakes-7-reboot-peter-hoar-last-of-us-2000711587" target="_blank">British Sci-Fi Legend ‘Blake’s 7’ Might Get the Reboot Treatment</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-20 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1768703713-20260120.png" alt="Saturday Morning Breakfast Cereal - Rare" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/rare" target="_blank">Saturday Morning Breakfast Cereal - Rare</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-01-20 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5747.png" alt="Social Grace" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -321,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 18:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 19:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
