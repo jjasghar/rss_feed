@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-20 10:03:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-20 11:03:27 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, January 20, 2026 - 10:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, January 20, 2026 - 11:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/greenland-19-rt-gmh-260119_1768859684394_hpMain_4x3t_384.jpg" alt="EU leaders talk coordination over Greenland as Trump readies for Davos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/eu-leaders-talk-coordination-greenland-trump-readies-davos/story?id=129373093" target="_blank">EU leaders talk coordination over Greenland as Trump readies for Davos</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-20 10:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +101,29 @@
                 <span class="time">2026-01-20 05:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/20/denmark-sends-more-troops-to-greenland-amid-tensions-with-trump?traffic_source=rss" target="_blank">Denmark sends more troops to Greenland amid tensions with Trump</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-20 02:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/20/metas-oversight-board-is-taking-on-its-first-case-focused-the-companys-ability-to-disable-accounts/" target="_blank">Meta’s Oversight Board takes up permanent bans in landmark case</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-20 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/864261/xbox-cloud-gaming-free-ads-testing" target="_blank">Microsoft’s free Xbox Cloud Gaming is coming soon with ads</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-20 10:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,24 +160,6 @@
                 <span class="time">2026-01-19 22:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/marathon-500x500.png" alt="The first new Marathon game in decades will launch on March 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/01/bungies-delayed-marathon-revival-will-finally-launch-march-5/" target="_blank">The first new Marathon game in decades will launch on March 5</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-19 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/864229/openai-focus-practical-adoption-sarah-friar" target="_blank">OpenAI’s 2026 ‘focus’ is ‘practical adoption’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-19 21:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +172,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxweh4feca4z1a7k2d27y.gif" alt="The Cloud Exit Strategy: Architecting for Independence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ken_mwaura1/the-cloud-exit-strategy-architecting-for-independence-5cbg" target="_blank">The Cloud Exit Strategy: Architecting for Independence</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-20 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +219,6 @@
                 <span class="time">2026-01-20 08:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dinesh_04/migrate-vs-import-in-unreal-engine-finally-made-sense-31p9" target="_blank">Migrate vs Import in Unreal Engine Finally Made Sense</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-20 07:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/grim-reaper-1280x855.jpg" alt="Cryptocurrencies Are Dying in Record Numbers, Report Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/cryptocurrencies-are-dying-in-record-numbers-report-says-2000711765" target="_blank">Cryptocurrencies Are Dying in Record Numbers, Report Says</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-20 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/05/Sam-Altman-1280x853.jpg" alt="OpenAI Says Its Physical Device Is ‘On Track’ for an Unveiling Later This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +290,6 @@
                 <span class="title"><a href="https://gizmodo.com/star-wars-galaxys-edge-changes-disney-lucasfilm-2000711222" target="_blank">Disney Couldn’t Even Kill the Original ‘Galaxy’s Edge’ Right</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-19 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/thepitt.jpg?fit=1200%2C673&amp;quality=60&amp;ssl=1" alt="Catch up on the Pitt with a real doctor&#x27;s reaction videos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/19/catch-up-on-the-pitt-with-a-real-doctors-reaction-videos.html" target="_blank">Catch up on the Pitt with a real doctor&#x27;s reaction videos</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-19 20:32</span>
             </div>
         </div>
 </div>
@@ -334,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 10:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 11:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
