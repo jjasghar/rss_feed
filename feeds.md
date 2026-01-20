@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-20 16:04:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-20 17:06:11 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, January 20, 2026 - 16:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, January 20, 2026 - 17:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/20/a-deal-is-a-deal-eu-blasts-trumps-greenland-tariffs-in-davos?traffic_source=rss" target="_blank">‘A deal is a deal’: EU blasts Trump’s Greenland tariffs in Davos</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-20 16:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9a7/live/8eaf5ae0-f545-11ef-9e61-71ee71f26eb1.jpg" alt="UK defends Chagos deal after Trump calls it &#x27;act of great stupidity&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +98,29 @@
                 <span class="time">2026-01-20 12:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768911577675_tdy_news_7a_gutierrez_trump_greenland_260120_1920x1080-5dorzg.jpg" alt="Trump Heads to Davos With EU on Edge Over Greenland Threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-links-greenland-push-to-nobel-peace-prize-snub-256238661998" target="_blank">Trump Heads to Davos With EU on Edge Over Greenland Threats</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-20 12:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/864412/nintendo-doug-bowser-joins-hasbro-build" target="_blank">Former Nintendo of America boss Doug Bowser is joining Hasbro</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-20 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/20/one-of-the-first-alternative-app-stores-in-the-eu-is-shutting-down/" target="_blank">One of the first alternative app stores in the EU is shutting down</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-20 16:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,24 +157,6 @@
                 <span class="time">2026-01-20 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/864296/spotify-page-match-audiobook-testing-feature" target="_blank">Spotify is testing a feature that syncs audiobooks with paper editions</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-20 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/20/metas-oversight-board-is-taking-on-its-first-case-focused-the-companys-ability-to-disable-accounts/" target="_blank">Meta’s Oversight Board takes up permanent bans in landmark case</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-20 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +172,24 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization" target="_blank">De-dollarization: Is the US dollar losing its dominance?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-20 16:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18839225&w=600" alt="Why High Performance Storage is Important for AI Cloud Build" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/why-high-performance-storage-is-important-for-ai-cloud" target="_blank">Why High Performance Storage is Important for AI Cloud Build</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-20 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq08bybekbx41bapnpk9d.png" alt="A.I. — The Amplifier: From Software Developer to Software Creator 🚀" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -184,39 +199,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Anthropic announces Claude CoWork" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/claude-cowork/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic announces Claude CoWork</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-20 15:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18837903&w=600" alt="A Step-by-Step Guide to AWS Lambda Durable Functions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/aws-lambda-durable-functions-guide" target="_blank">A Step-by-Step Guide to AWS Lambda Durable Functions</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-01-20 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Intel-dGPU-FW-Non-x86" target="_blank">Patches Ready For Linux 7.0 To Enable Intel GPU Firmware Updates On Non-x86 Systems</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-20 14:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.potaroo.net/ispcol/2026-01/addr2025.html" target="_blank">IP Addresses Through 2025</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-20 13:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dpeluola/beyond-just-code-crafting-a-portfolio-that-stands-out-in-2026-4ck0" target="_blank">Beyond Just Code: Crafting a Portfolio That Stands Out in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-20 13:13</span>
             </div>
         </div>
 </div>
@@ -238,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/samsung-tab-1280x853.jpg" alt="Samsung Drops Galaxy Tab A9+ to a Record Low to Clear Out Older Tablets, No Need to Look for Budget Brands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/samsung-drops-galaxy-tab-a9-to-a-record-low-to-clear-out-older-tablets-no-need-to-look-for-budget-brands-2000659054" target="_blank">Samsung Drops Galaxy Tab A9+ to a Record Low to Clear Out Older Tablets, No Need to Look for Budget Brands</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-20 16:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/general-relativity-diagram-1280x853.jpg" alt="No, Earth Won’t Lose Gravity for 7 Seconds on August 12, NASA Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/no-earth-wont-lose-gravity-for-7-seconds-on-august-12-nasa-says-2000711970" target="_blank">No, Earth Won’t Lose Gravity for 7 Seconds on August 12, NASA Says</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-20 16:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/iPhone-18-Pro-leak-1280x853.jpg" alt="Is This Really the iPhone 18 Pro?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +289,6 @@
                 <span class="time">2026-01-20 13:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KEY5BVN3JKCGYTRDA7J2QRBW/hero-image.jpg" alt="Why Everyone Should Still Use an RSS Reader in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/why-everyone-should-still-use-an-rss-reader-in-2026?utm_medium=RSS" target="_blank">Why Everyone Should Still Use an RSS Reader in 2026</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-20 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/grim-reaper-1280x855.jpg" alt="Cryptocurrencies Are Dying in Record Numbers, Report Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/cryptocurrencies-are-dying-in-record-numbers-report-says-2000711765" target="_blank">Cryptocurrencies Are Dying in Record Numbers, Report Says</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-20 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,22 +321,13 @@
                 <span class="time">2026-01-19 21:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1768703677-20260119.png" alt="Saturday Morning Breakfast Cereal - Beep" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/beep-2" target="_blank">Saturday Morning Breakfast Cereal - Beep</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-19 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 102 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 16:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 17:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
