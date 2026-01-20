@@ -1,34 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-01-20 17:06:11 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-20 18:02:52 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, January 20, 2026 - 17:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, January 20, 2026 - 18:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/20/nx-s1-5675192/kennedy-center-canceled-performances" target="_blank">Here&#x27;s who&#x27;s canceled their Kennedy Center performances since Trump took over</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-20 17:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +93,20 @@
                 <span class="time">2026-01-20 12:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/20/g-s1-106126/trump-world-health-organization-withdrawal" target="_blank">The divorce between the U.S. and WHO is final this week. Or is it?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-20 12:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/20/ice-becomes-one-of-the-most-blocked-accounts-on-bluesky-after-its-verification/" target="_blank">ICE becomes one of the most-blocked accounts on Bluesky after its verification</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-20 18:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +152,6 @@
                 <span class="time">2026-01-20 12:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/696a8483be0f780f22088794/master/pass/Big-Interview-UV-Solo-Jimmy-Wales-Business-2250589251.jpg" alt="Jimmy Wales Will Never Edit Donald Trump’s Wikipedia Page: He ‘Makes Me Insane’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-big-interview-podcast-jimmy-wales/" target="_blank">Jimmy Wales Will Never Edit Donald Trump’s Wikipedia Page: He ‘Makes Me Insane’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-20 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +164,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LLVM-Human-In-The-Loop" target="_blank">LLVM Adopts &quot;Human In The Loop&quot; Policy For AI/Tool-Assisted Contributions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-20 17:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18840222&w=600" alt="The Messaging Challenges No One Talks About in Regulated, Air-Gapped, and Hybrid Environments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/messaging-challenges-regulated-hybrid" target="_blank">The Messaging Challenges No One Talks About in Regulated, Air-Gapped, and Hybrid Environments</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-20 17:00</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +211,6 @@
                 <span class="time">2026-01-20 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Anthropic announces Claude CoWork" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/claude-cowork/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic announces Claude CoWork</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-20 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18837903&w=600" alt="A Step-by-Step Guide to AWS Lambda Durable Functions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/aws-lambda-durable-functions-guide" target="_blank">A Step-by-Step Guide to AWS Lambda Durable Functions</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-20 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +230,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KFE651KG7WCF3RHTJQAS5K48/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Beats Pill Portable Speaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/beats-pill-portable-speaker-sale-january-2026?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The Beats Pill Portable Speaker</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-20 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/samsung-tab-1280x853.jpg" alt="Samsung Drops Galaxy Tab A9+ to a Record Low to Clear Out Older Tablets, No Need to Look for Budget Brands" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +284,6 @@
                 <span class="time">2026-01-20 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/WD_Black-1TB-C50--1280x853.jpg" alt="WD_Black 1TB Storage Expansion Card for Xbox Drops to $0.15 per GB With Its First Discount of the Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/wd_black-1tb-storage-expansion-card-for-xbox-drops-to-0-15-per-gb-with-its-first-discount-of-the-year-2000661045" target="_blank">WD_Black 1TB Storage Expansion Card for Xbox Drops to $0.15 per GB With Its First Discount of the Year</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-20 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 17:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 18:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
