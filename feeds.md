@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-20 22:02:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-20 23:01:32 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, January 20, 2026 - 22:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, January 20, 2026 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/20/trump-made-many-statements-on-us-economy-most-are-untrue?traffic_source=rss" target="_blank">Trump made many statements on US economy. Most are untrue</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-20 22:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2026/1/20/aje-onl-grl_greenlandtakeover_av_v3-200126?traffic_source=rss" target="_blank">What’s behind Trump’s push to control Greenland?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-20 21:35</span>
@@ -61,6 +71,15 @@
                 <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis ICE shooting live updates: Subpoenas served to Gov. Walz, Mayor Frey</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-20 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79ba/live/9cad8ea0-f64d-11f0-b5f7-49f0357294ff.png" alt="Lyse Doucet: Trump is shaking the world order more than any president since WW2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2lej7d52po?at_medium=RSS&at_campaign=rss" target="_blank">Lyse Doucet: Trump is shaking the world order more than any president since WW2</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-20 20:18</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +100,29 @@
                 <span class="time">2026-01-20 19:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump marks first year of second term" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  President Trump marks first year of second term</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-20 18:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/20/nx-s1-5675192/kennedy-center-canceled-performances" target="_blank">Here&#x27;s who&#x27;s canceled their Kennedy Center performances since Trump took over</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-20 17:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/696fdb8f1edd5d44a19b910e/master/pass/The%20Unique%20Ninja%20Air%20Fryer%20Is%20Marked%20Down.png" alt="Super Savings on This Unique Air Fryer That Cooks Food in Heat-Proof Glass" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ninja-crispi-deal-126/" target="_blank">Super Savings on This Unique Air Fryer That Cooks Food in Heat-Proof Glass</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-20 22:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/" target="_blank">Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-20 22:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,24 +159,6 @@
                 <span class="time">2026-01-20 20:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/864543/google-has-finally-killed-the-stadia-bluetooth-tool-but-this-person-rescued-it" target="_blank">Google has finally killed the Stadia Bluetooth tool — but this person rescued it</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-20 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/20/amazon-ceo-andy-jassy-says-tariffs-are-starting-to-drive-up-product-prices/" target="_blank">Amazon CEO Andy Jassy says tariffs are starting to drive up product prices</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-20 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +171,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years" target="_blank">California is free of drought for the first time in 25 years</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-20 22:39</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +218,6 @@
                 <span class="time">2026-01-20 18:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!LMPN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6e271a6-0139-47fd-83ba-88e56338affe_1600x1200.jpeg" alt="The Product-Minded Engineer: The importance of good errors and warnings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-product-minded-engineer" target="_blank">The Product-Minded Engineer: The importance of good errors and warnings</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-01-20 17:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,11 +238,38 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/star-trek-starfleet-academy-captain-ake-glasses-1280x853.jpg" alt="I Can’t Believe This Is What Is Getting Right Wing Weirdos Mad About ‘Starfleet Academy’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-trek-starfleet-academy-glasses-stephen-miller-william-shatner-2000712197" target="_blank">I Can’t Believe This Is What Is Getting Right Wing Weirdos Mad About ‘Starfleet Academy’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-20 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/pokemon-pikachu-surging-sparks.jpg" alt="Even Trump’s Pentagon Is Selling Rare Pokémon Cards Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/even-trumps-pentagon-is-selling-rare-pokemon-cards-now-2000661388" target="_blank">Even Trump’s Pentagon Is Selling Rare Pokémon Cards Now</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-20 22:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Knight-of-the-Seven-Kingdoms-egg-dunk-1280x853.jpg" alt="A Brief Reminder of When ‘A Knight of the Seven Kingdoms’ Takes Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/knight-of-the-seven-kingdoms-timeline-game-of-thrones-house-of-the-dragon-2000712068" target="_blank">A Brief Reminder of When ‘A Knight of the Seven Kingdoms’ Takes Place</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-20 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/cow.jpg?fit=1200%2C698&amp;quality=60&amp;ssl=1" alt="Scientists document first case of tool use in cattle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/20/scientists-document-first-case-of-tool-use-in-cattle.html" target="_blank">Scientists document first case of tool use in cattle</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-20 22:00</span>
             </div>
         </div>
@@ -261,33 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/lore-olympus-will-be-prime-videos-next-animated-show-2000712033" target="_blank">‘Lore Olympus’ Will Be Prime Video’s Next Animated Show</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-20 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/image-49-1280x720.jpg" alt="It Took Five Years For Forza Horizon 5 To Become My Antidote To Doomscrolling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/forza-horizon-5-backlog-pulse-music-ps5-xbox-2000661365" target="_blank">It Took Five Years For Forza Horizon 5 To Become My Antidote To Doomscrolling</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-20 20:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/09/Sarco-Assisted-Suicide-Capsule-in-Zurich-1024x683.jpg" alt="Controversial Swiss Suicide Pod Gets an AI-Powered Mental Fitness Upgrade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/controversial-swiss-suicide-pod-gets-an-ai-powered-mental-fitness-upgrade-2000712092" target="_blank">Controversial Swiss Suicide Pod Gets an AI-Powered Mental Fitness Upgrade</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-20 20:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/coyote.jpeg?fit=1500%2C1001&amp;quality=60&amp;ssl=1" alt="A coyote swam to Alcatraz for the first time ever documented" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/20/a-coyote-swam-to-alcatraz-for-the-first-time-ever-documented.html" target="_blank">A coyote swam to Alcatraz for the first time ever documented</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-20 18:30</span>
             </div>
         </div>
 </div>
@@ -327,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
