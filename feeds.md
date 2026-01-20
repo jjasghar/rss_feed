@@ -1,41 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-20 07:06:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-20 08:02:23 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, January 20, 2026 - 07:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, January 20, 2026 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +102,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/864095/roland-gomixer-studio-namm" target="_blank">Roland’s Go:Mixer Studio turns your phone into a mobile music studio</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-20 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/20/everstone-combines-wingify-ab-tasty-for-100m-digital-experience-optimization-platform/" target="_blank">Everstone combines Wingify, AB Tasty for $100M+ digital experience optimization platform</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-20 08:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_0127-1-500x500.jpg" alt="The fastest human spaceflight mission in history crawls closer to liftoff" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -146,24 +155,6 @@
                 <span class="time">2026-01-19 19:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/" target="_blank">Here are the 55 US AI startups that raised $100M or more in 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-19 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/864146/bungie-marathon-release-date-march-5th-price" target="_blank">Bungie’s Marathon shooter launches on March 5th</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-19 16:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -188,6 +179,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/01/prisma-7-performance/en/headerimage/generatedHeaderImage-1767003557619-1768826370562.jpg" alt="Prisma 7: Rust-Free Architecture and Performance Gains" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/prisma-7-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Prisma 7: Rust-Free Architecture and Performance Gains</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-20 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dinesh_04/migrate-vs-import-in-unreal-engine-finally-made-sense-31p9" target="_blank">Migrate vs Import in Unreal Engine Finally Made Sense</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-20 07:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,24 +216,6 @@ It&#x27;s time for developers to understand, otherwise they will lose the opport
 It&#x27;s time for developers to understand, otherwise they will lose the opportunity.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-20 05:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/xai-org/x-algorithm" target="_blank">X For You Feed Algorithm</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-20 05:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.linux.com/news/jan26-training-promo/" target="_blank">Build the skills you need for 2026</a></span>
-                <span class="feed">Linux.com</span>
-                <span class="time">2026-01-20 04:12</span>
             </div>
         </div>
 </div>
@@ -341,22 +332,13 @@ It&#x27;s time for developers to understand, otherwise they will lose the opport
                 <span class="time">2026-01-19 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/01/19/the-inheritance" target="_blank">The Inheritance</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-19 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 118 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 07:06 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
