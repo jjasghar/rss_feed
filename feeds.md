@@ -1,41 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-20 12:02:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-20 13:16:51 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, January 20, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, January 20, 2026 - 13:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/20/trumps-greenland-tariffs-whats-europes-bazooka-option-to-hit-back?traffic_source=rss" target="_blank">Trump’s Greenland tariffs: What’s Europe’s ‘bazooka’ option to hit back?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-20 12:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/20/g-s1-106126/trump-world-health-organization-withdrawal" target="_blank">The divorce between the U.S. and WHO is final this week. Or is it?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-20 12:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +97,20 @@
                 <span class="time">2026-01-20 07:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/1/20/syria-fighting-live-ceasefire-under-duress-as-govt-moves-into-hasakah?traffic_source=rss" target="_blank">Syria fighting live: Ceasefire under duress as army moves in to Hasakah</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-20 06:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/20/gazas-phase-two-from-a-distance-why-hope-still-feels-out-of-reach?traffic_source=rss" target="_blank">Gaza’s ‘phase two’ from a distance: Why hope still feels out of reach</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-20 05:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/863318/netflix-warner-bros-discovery-merger-revision-cash-deal" target="_blank">Netflix revises Warner Bros. bid to an all-cash offer</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-20 12:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/696a8483be0f780f22088794/master/pass/Big-Interview-UV-Solo-Jimmy-Wales-Business-2250589251.jpg" alt="Jimmy Wales Will Never Edit Donald Trump’s Wikipedia Page: He ‘Makes Me Insane’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,15 +156,6 @@
                 <span class="time">2026-01-20 08:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/864095/roland-gomixer-studio-namm" target="_blank">Roland’s Go:Mixer Studio turns your phone into a mobile music studio</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-20 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +168,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dpeluola/beyond-just-code-crafting-a-portfolio-that-stands-out-in-2026-4ck0" target="_blank">Beyond Just Code: Crafting a Portfolio That Stands Out in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-20 13:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/snap-store-under-siege/" target="_blank">Ubuntu&amp;#x27;s Snap Store is Under Siege from Scammers, and The Gates are Open</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-20 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -205,22 +215,18 @@
                 <span class="time">2026-01-20 09:56</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shinyakato_/4-causes-of-table-bloat-in-postgresql-and-how-to-address-them-3ec9" target="_blank">4 causes of table bloat in PostgreSQL and how to address them</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-20 08:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/01/20/don-t-let-your-backend-write-checks-your-frontend-can-t-cache/" target="_blank">Don’t let your backend write checks your frontend can’t cache</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-01-20 08:40</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/could-chatgpt-convince-you-to-buy-something.html" target="_blank">Could ChatGPT Convince You to Buy Something?</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-01-20 12:08</span>
             </div>
         </div>
 </div>
@@ -228,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/WD_Black-1TB-C50--1280x853.jpg" alt="WD_Black 1TB Storage Expansion Card for Xbox Drops to $0.15 per GB With Its First Discount of the Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/wd_black-1tb-storage-expansion-card-for-xbox-drops-to-0-15-per-gb-with-its-first-discount-of-the-year-2000661045" target="_blank">WD_Black 1TB Storage Expansion Card for Xbox Drops to $0.15 per GB With Its First Discount of the Year</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-20 13:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/grim-reaper-1280x855.jpg" alt="Cryptocurrencies Are Dying in Record Numbers, Report Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +286,6 @@
                 <span class="title"><a href="https://kotaku.com/mindseye-update-twitch-sponsored-streamer-2000661013" target="_blank">Twitch Streamers Are Still Being Paid To Play MindsEye Over Six Months After It Flopped</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-19 21:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/star-wars-galaxys-edge-darth-vader-1280x853.jpg" alt="Disney Couldn’t Even Kill the Original ‘Galaxy’s Edge’ Right" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-wars-galaxys-edge-changes-disney-lucasfilm-2000711222" target="_blank">Disney Couldn’t Even Kill the Original ‘Galaxy’s Edge’ Right</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-19 21:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 13:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
