@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-20 00:05:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-20 01:29:51 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, January 20, 2026 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, January 20, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -62,6 +65,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/pam-bondi-1-rt-gmh-260119_1768849052028_hpMain_4x3t_384.jpg" alt="Protesters disrupt St. Paul church service where ICE field director is pastor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/doj-investigating-after-protesters-disrupt-service-minneapolis-church/story?id=129349242" target="_blank">Protesters disrupt St. Paul church service where ICE field director is pastor</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-19 22:14</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -86,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/19/1114518694/valentino-garavani-dead" target="_blank">Italian fashion designer Valentino dies at 93</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-19 19:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/pam-bondi-1-rt-gmh-260119_1768849052028_hpMain_4x3t_384.jpg" alt="Protesters disrupt Minneapolis church service where ICE field director is pastor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/doj-investigating-after-protesters-disrupt-service-minneapolis-church/story?id=129349242" target="_blank">Protesters disrupt Minneapolis church service where ICE field director is pastor</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-19 19:55</span>
             </div>
         </div>
 </div>
@@ -207,12 +210,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18838807&w=600" alt="Scaling Infrastructure as Code in Enterprise Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/scaling-infrastructure-as-code-in-enterprise-autom" target="_blank">Scaling Infrastructure as Code in Enterprise Automation</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-19 20:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026" target="_blank">Level S4 solar radiation event</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-19 20:26</span>
             </div>
         </div>
 </div>
@@ -241,6 +244,15 @@
                 <span class="title"><a href="https://gizmodo.com/paramount-netflix-warner-bros-david-ellison-2000710809" target="_blank">The Fight for Warner Bros. Is Paramount’s Most Embarrassing Moment Yet</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-19 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/1min.AI-Advanced-Business-Plan-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This is the AI platform for people tired of managing 12 logins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/19/this-is-the-ai-platform-for-people-tired-of-managing-12-logins.html" target="_blank">This is the AI platform for people tired of managing 12 logins</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-19 22:00</span>
             </div>
         </div>
 <div class="story">
@@ -277,15 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/marvel-rivals-s6-lord-farming-proficiency-detection-2000661005" target="_blank">Marvel Rivals Promises A Crackdown On The Recent Epidemic Of ‘Lord Farming’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-19 19:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Gnosia-Crunchyroll-1280x854.jpg" alt="We Got Anime ‘Among Us’ Before That Stacked Hollywood Cast ‘Among Us’ Cartoon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/we-got-anime-among-us-before-that-stacked-hollywood-cast-among-us-cartoon-2000710855" target="_blank">We Got Anime ‘Among Us’ Before That Stacked Hollywood Cast ‘Among Us’ Cartoon</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-19 19:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
