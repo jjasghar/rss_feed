@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-20 14:06:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-20 15:05:46 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, January 20, 2026 - 14:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, January 20, 2026 - 15:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -179,6 +174,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Intel-dGPU-FW-Non-x86" target="_blank">Patches Ready For Linux 7.0 To Enable Intel GPU Firmware Updates On Non-x86 Systems</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-20 14:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dpeluola/beyond-just-code-crafting-a-portfolio-that-stands-out-in-2026-4ck0" target="_blank">Beyond Just Code: Crafting a Portfolio That Stands Out in 2026</a></span>
                 <span class="feed">DEV Community</span>
@@ -212,15 +216,6 @@
                 <span class="time">2026-01-20 11:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxweh4feca4z1a7k2d27y.gif" alt="The Cloud Exit Strategy: Architecting for Independence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ken_mwaura1/the-cloud-exit-strategy-architecting-for-independence-5cbg" target="_blank">The Cloud Exit Strategy: Architecting for Independence</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-20 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/MS-0120-blakes-7-1280x853.jpg" alt="British Sci-Fi Legend ‘Blake’s 7’ Might Get the Reboot Treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/blakes-7-reboot-peter-hoar-last-of-us-2000711587" target="_blank">British Sci-Fi Legend ‘Blake’s 7’ Might Get the Reboot Treatment</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-20 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/WD_Black-1TB-C50--1280x853.jpg" alt="WD_Black 1TB Storage Expansion Card for Xbox Drops to $0.15 per GB With Its First Discount of the Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/paramount-netflix-warner-bros-david-ellison-2000710809" target="_blank">The Fight for Warner Bros. Is Paramount’s Most Embarrassing Moment Yet</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-19 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/1min.AI-Advanced-Business-Plan-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This is the AI platform for people tired of managing 12 logins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/19/this-is-the-ai-platform-for-people-tired-of-managing-12-logins.html" target="_blank">This is the AI platform for people tired of managing 12 logins</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-19 22:00</span>
             </div>
         </div>
 </div>
@@ -340,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 14:07 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 15:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
