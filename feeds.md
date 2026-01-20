@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-20 13:16:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-20 14:06:58 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, January 20, 2026 - 13:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, January 20, 2026 - 14:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/20/bobi-wine-tells-al-jazeera-he-escaped-police-raid-amid-uganda-elections?traffic_source=rss" target="_blank">Bobi Wine tells Al Jazeera he escaped police raid amid Uganda elections</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-20 13:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/20/manhunt-for-isil-prisoners-in-syria-after-fighting-near-jails?traffic_source=rss" target="_blank">Manhunt for ISIL prisoners in Syria after fighting near jails</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-20 08:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png" alt="UK&#x27;s Chagos Islands deal an &#x27;act of great stupidity&#x27;, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0mkp021rvro?at_medium=RSS&at_campaign=rss" target="_blank">UK&#x27;s Chagos Islands deal an &#x27;act of great stupidity&#x27;, Trump says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-20 07:02</span>
             </div>
         </div>
 </div>
@@ -198,21 +204,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/" target="_blank">Running Claude Code dangerously (safely)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-20 11:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxweh4feca4z1a7k2d27y.gif" alt="The Cloud Exit Strategy: Architecting for Independence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ken_mwaura1/the-cloud-exit-strategy-architecting-for-independence-5cbg" target="_blank">The Cloud Exit Strategy: Architecting for Independence</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-20 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5e3pyk8i590sq5vc7btb.png" alt="Stepping into agentic coding" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ms_74/stepping-into-agentic-coding-58ip" target="_blank">Stepping into agentic coding</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-20 09:56</span>
             </div>
         </div>
 </div>
@@ -241,6 +247,15 @@
                 <span class="title"><a href="https://kotaku.com/wd_black-1tb-storage-expansion-card-for-xbox-drops-to-0-15-per-gb-with-its-first-discount-of-the-year-2000661045" target="_blank">WD_Black 1TB Storage Expansion Card for Xbox Drops to $0.15 per GB With Its First Discount of the Year</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-20 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KEY5BVN3JKCGYTRDA7J2QRBW/hero-image.jpg" alt="Why Everyone Should Still Use an RSS Reader in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/why-everyone-should-still-use-an-rss-reader-in-2026?utm_medium=RSS" target="_blank">Why Everyone Should Still Use an RSS Reader in 2026</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-20 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -277,15 +292,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/19/this-is-the-ai-platform-for-people-tired-of-managing-12-logins.html" target="_blank">This is the AI platform for people tired of managing 12 logins</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-19 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/9aaf3a7a4e8b86450e159604947d1efb-1280x720.jpg" alt="Twitch Streamers Are Still Being Paid To Play MindsEye Over Six Months After It Flopped" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mindseye-update-twitch-sponsored-streamer-2000661013" target="_blank">Twitch Streamers Are Still Being Paid To Play MindsEye Over Six Months After It Flopped</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-19 21:10</span>
             </div>
         </div>
 </div>
@@ -334,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 13:17 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 14:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
