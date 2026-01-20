@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-20 06:02:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-20 07:06:22 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, January 20, 2026 - 06:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, January 20, 2026 - 07:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png" alt="UK&#x27;s Chagos Islands deal an &#x27;act of great stupidity&#x27;, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0mkp021rvro?at_medium=RSS&at_campaign=rss" target="_blank">UK&#x27;s Chagos Islands deal an &#x27;act of great stupidity&#x27;, Trump says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-20 07:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/1/20/syria-fighting-live-ceasefire-under-duress-as-govt-moves-into-hasakah?traffic_source=rss" target="_blank">Syria fighting live: Ceasefire under duress as army moves in to Hasakah</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-20 06:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +103,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/20/more-than-100-vehicle-pile-up-leaves-us-motorists-stranded-in-snowstorm?traffic_source=rss" target="_blank">More than 100 vehicle pile-up leaves US motorists stranded in snowstorm</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-20 01:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/19/nx-s1-5682310/cardinals-catholic-church-foreign-policy-trump" target="_blank">Top U.S. archbishops denounce American foreign policy</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-20 01:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65f7/live/cea87290-f575-11f0-b385-5f48925de19a.png" alt="Trump says he will &#x27;100%&#x27; carry out Greenland tariffs threat, as EU vows to protect its interests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g5345ylk0o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he will &#x27;100%&#x27; carry out Greenland tariffs threat, as EU vows to protect its interests</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-19 23:36</span>
             </div>
         </div>
 </div>
@@ -176,6 +179,24 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/01/20/don-t-let-your-backend-write-checks-your-frontend-can-t-cache/" target="_blank">Don’t let your backend write checks your frontend can’t cache</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-01-20 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/highcenburg/problem-10-duplicate-removal-4884" target="_blank">Problem 10: Duplicate Removal</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-20 06:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="Developers should understand that software is not disappearing, but low-code AI is quietly absorbing large parts of what traditional software used to do. 
 
 It&#x27;s time for developers to understand, otherwise they will lose the opportunity." class="story-image" loading="lazy" onerror="this.style.display='none'">
@@ -204,24 +225,6 @@ It&#x27;s time for developers to understand, otherwise they will lose the opport
                 <span class="title"><a href="https://www.linux.com/news/jan26-training-promo/" target="_blank">Build the skills you need for 2026</a></span>
                 <span class="feed">Linux.com</span>
                 <span class="time">2026-01-20 04:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bibimbop123/sliding-windows-explained-sunglasses-analogy-with-ruby-code-cpg" target="_blank">Sliding Windows Explained: Sunglasses Analogy with Ruby Code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-20 03:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jtvanwage/using-ai-in-personal-projects-vs-enterprise-codebases-40eo" target="_blank">Using AI in Personal Projects vs Enterprise Codebases</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-20 02:12</span>
             </div>
         </div>
 </div>
@@ -352,8 +355,8 @@ It&#x27;s time for developers to understand, otherwise they will lose the opport
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 120 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 06:03 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 118 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 07:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
