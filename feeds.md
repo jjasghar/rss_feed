@@ -1,32 +1,26 @@
-<!-- Processing 54 RSS feeds at 2026-01-20 02:38:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-20 03:30:42 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 5 new posts out of 17 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, January 20, 2026 - 02:38 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, January 20, 2026 - 03:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +36,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/20/denmark-sends-more-troops-to-greenland-amid-tensions-with-trump?traffic_source=rss" target="_blank">Denmark sends more troops to Greenland amid tensions with Trump</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-20 02:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +88,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/19/norway-pm-trump-preoccupied-with-nobel-peace-prize-on-greenland-texts?traffic_source=rss" target="_blank">Norway PM: Trump ‘preoccupied’ with Nobel Peace Prize on Greenland texts</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-19 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/19/us-fed-chair-powell-to-attend-supreme-court-session-on-cook-case-report?traffic_source=rss" target="_blank">US Fed Chair Powell to attend Supreme Court session on Cook case: Report</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-19 20:03</span>
             </div>
         </div>
 </div>
@@ -173,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bibimbop123/sliding-windows-explained-sunglasses-analogy-with-ruby-code-cpg" target="_blank">Sliding Windows Explained: Sunglasses Analogy with Ruby Code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-20 03:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jtvanwage/using-ai-in-personal-projects-vs-enterprise-codebases-40eo" target="_blank">Using AI in Personal Projects vs Enterprise Codebases</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-20 02:12</span>
@@ -205,15 +208,6 @@
                 <span class="time">2026-01-19 21:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-SI-Power-Management" target="_blank">New Patches From Valve Bring AMDGPU Power Management Improvements For Old GCN 1.0 GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-19 21:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +227,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/05/Sam-Altman-1280x853.jpg" alt="OpenAI Says Its Physical Device Is ‘On Track’ for an Unveiling Later This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/openai-says-its-physical-device-is-on-track-for-an-unveiling-later-this-year-2000711755" target="_blank">OpenAI Says Its Physical Device Is ‘On Track’ for an Unveiling Later This Year</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-20 00:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/warner-bros-logo-1280x853.jpg" alt="The Fight for Warner Bros. Is Paramount’s Most Embarrassing Moment Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +281,6 @@
                 <span class="time">2026-01-19 20:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/marvel-rivals-1280x812.jpg" alt="Marvel Rivals Promises A Crackdown On The Recent Epidemic Of ‘Lord Farming’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marvel-rivals-s6-lord-farming-proficiency-detection-2000661005" target="_blank">Marvel Rivals Promises A Crackdown On The Recent Epidemic Of ‘Lord Farming’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-19 19:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,6 +293,15 @@
                 <span class="title"><a href="http://questionablecontent.net/view.php?comic=5747" target="_blank">Social Grace</a></span>
                 <span class="feed">QC RSS</span>
                 <span class="time">2026-01-20 02:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/20/the-inheritance" target="_blank">The Inheritance</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-01-20 01:38</span>
             </div>
         </div>
 <div class="story">
@@ -342,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 116 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 02:38 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 118 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 03:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
