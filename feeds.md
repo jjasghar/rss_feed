@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-20 21:03:07 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-01-20 22:02:14 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, January 20, 2026 - 21:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, January 20, 2026 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2026/1/20/aje-onl-grl_greenlandtakeover_av_v3-200126?traffic_source=rss" target="_blank">What’s behind Trump’s push to control Greenland?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-20 21:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/walz-frey-rt-gmh-260120_1768942026790_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Subpoenas served to Gov. Walz, Mayor Frey" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +99,20 @@
                 <span class="time">2026-01-20 17:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/jan/20/us-diplomats-urged-to-remind-african-leaders-of-us-generosity-despite-usaid-closing" target="_blank">Head of US Africa bureau urges staff to highlight US ‘generosity’ despite aid cuts</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-01-20 17:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/20/x-open-sources-its-algorithm-while-facing-a-transparency-fine-and-grok-controversies/" target="_blank">X open sources its algorithm while facing a transparency fine and Grok controversies</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-20 21:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +156,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/20/amazon-ceo-andy-jassy-says-tariffs-are-starting-to-drive-up-product-prices/" target="_blank">Amazon CEO Andy Jassy says tariffs are starting to drive up product prices</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-20 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/netflix-paramount-wb-icons-500x500-1767815415.jpg" alt="Netflix to pay all cash for Warner Bros. to fend off Paramount hostile takeover" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/netflix-to-pay-all-cash-for-warner-bros-to-fend-off-paramount-hostile-takeover/" target="_blank">Netflix to pay all cash for Warner Bros. to fend off Paramount hostile takeover</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-20 19:24</span>
             </div>
         </div>
 </div>
@@ -239,6 +237,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Knight-of-the-Seven-Kingdoms-egg-dunk-1280x853.jpg" alt="A Brief Reminder of When ‘A Knight of the Seven Kingdoms’ Takes Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/knight-of-the-seven-kingdoms-timeline-game-of-thrones-house-of-the-dragon-2000712068" target="_blank">A Brief Reminder of When ‘A Knight of the Seven Kingdoms’ Takes Place</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-20 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/fortniteowmen-1280x720.jpg" alt="Fortnite Creators Are Using Women To Chase Clout And Make Money" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fortnite-creators-are-using-women-to-chase-clout-and-make-money-2000661353" target="_blank">Fortnite Creators Are Using Women To Chase Clout And Make Money</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-20 21:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/lore-olympus-1280x853.jpg" alt="‘Lore Olympus’ Will Be Prime Video’s Next Animated Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -274,24 +290,6 @@
                 <span class="time">2026-01-20 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KFE651KG7WCF3RHTJQAS5K48/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Beats Pill Portable Speaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/beats-pill-portable-speaker-sale-january-2026?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The Beats Pill Portable Speaker</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-20 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/samsung-tab-1280x853.jpg" alt="Samsung Drops Galaxy Tab A9+ to a Record Low to Clear Out Older Tablets, No Need to Look for Budget Brands" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/samsung-drops-galaxy-tab-a9-to-a-record-low-to-clear-out-older-tablets-no-need-to-look-for-budget-brands-2000659054" target="_blank">Samsung Drops Galaxy Tab A9+ to a Record Low to Clear Out Older Tablets, No Need to Look for Budget Brands</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-20 16:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,22 +322,13 @@
                 <span class="time">2026-01-20 01:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/19/blue-skies" target="_blank">Blue Skies</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-19 21:36</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 21:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
