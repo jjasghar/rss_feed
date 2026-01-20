@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-20 09:06:40 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-01-20 10:03:09 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 1 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, January 20, 2026 - 09:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, January 20, 2026 - 10:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -170,6 +171,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5e3pyk8i590sq5vc7btb.png" alt="Stepping into agentic coding" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ms_74/stepping-into-agentic-coding-58ip" target="_blank">Stepping into agentic coding</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-20 09:56</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/dinesh_04/migrate-vs-import-in-unreal-engine-finally-made-sense-31p9" target="_blank">Migrate vs Import in Unreal Engine Finally Made Sense</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-20 07:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://paulmakeswebsites.com/writing/shadcn-radio-button/" target="_blank">The Overcomplexity of the Shadcn Radio Button</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-20 07:35</span>
             </div>
         </div>
 </div>
@@ -333,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 41 | 📸 With Images: 259 |
-        🔄 Last Updated: 09:07 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 10:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
