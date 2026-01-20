@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-20 04:17:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-20 05:07:02 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 1 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, January 20, 2026 - 04:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, January 20, 2026 - 05:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -174,6 +174,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.linux.com/news/jan26-training-promo/" target="_blank">Build the skills you need for 2026</a></span>
+                <span class="feed">Linux.com</span>
+                <span class="time">2026-01-20 04:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/bibimbop123/sliding-windows-explained-sunglasses-analogy-with-ruby-code-cpg" target="_blank">Sliding Windows Explained: Sunglasses Analogy with Ruby Code</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/X.Org-Server-Main-Repo" target="_blank">X.Org Server May Create A New Selective Git Branch With Hopes Of A New Release This Year</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-20 01:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/philipfong/when-playwrights-locator-tool-isnt-enough-561h" target="_blank">When Playwright’s Locator Tool Isn’t Enough</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-19 21:47</span>
             </div>
         </div>
 </div>
@@ -339,22 +339,13 @@
                 <span class="time">2026-01-19 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/aurora_coolness.png" alt="Aurora Coolness" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3196/" target="_blank">Aurora Coolness</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-01-19 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 04:17 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 05:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
