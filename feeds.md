@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-20 23:01:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-01-21 00:05:29 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, January 20, 2026 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, January 21, 2026 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -83,6 +83,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768939323257_nbc_spec_trump_ice_mistakes_260120_1920x1080-qhid2u.jpg" alt="Trump admits ICE is &#x27;going to make mistakes sometimes&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-ice-is-going-to-make-mistakes-sometimes-256269381527" target="_blank">Trump admits ICE is &#x27;going to make mistakes sometimes&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-20 20:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -91,20 +100,20 @@
                 <span class="time">2026-01-20 19:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/20/g-s1-106551/asean-wont-endorse-election-in-military-ruled-myanmar-malaysia-says" target="_blank">ASEAN won&#x27;t endorse election in military-ruled Myanmar, Malaysia says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-20 19:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/20/one-time-hot-insurance-tech-ethos-poised-to-be-first-tech-ipo-of-the-year/" target="_blank">One-time hot insurance tech Ethos poised to be first tech IPO of the year</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-20 23:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/696fdb8f1edd5d44a19b910e/master/pass/The%20Unique%20Ninja%20Air%20Fryer%20Is%20Marked%20Down.png" alt="Super Savings on This Unique Air Fryer That Cooks Food in Heat-Proof Glass" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +157,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/864585/nova-launcher-instabridge-acquisition-owner-ads" target="_blank">Nova Launcher’s new owner might offer a version with ads</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-20 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/696fc7a0e81ed4b074c7ed54/master/pass/All-Clad%20Factory%20Seconds.png" alt="7 Best All-Clad Deals From the Factory Seconds Sale (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/all-clad-factory-seconds-sale-january-2026/" target="_blank">7 Best All-Clad Deals From the Factory Seconds Sale (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-20 20:34</span>
             </div>
         </div>
 </div>
@@ -213,7 +213,7 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/" target="_blank">The 26,000-Year Astronomical Monument Hidden in Plain Sight</a></span>
+                <span class="title"><a href="https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/" target="_blank">A 26,000-year astronomical monument hidden in plain sight (2019)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-20 18:16</span>
             </div>
@@ -238,6 +238,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Wizard-of-Oz-Sphere-1280x853.jpg" alt="Sphere’s ‘Wizard of Oz’ Re-Release Was One of 2025’s Highest Grossing Films—for One Big Reason" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/spheres-wizard-of-oz-re-release-was-one-of-2025s-highest-grossing-films-for-one-big-reason-2000712070" target="_blank">Sphere’s ‘Wizard of Oz’ Re-Release Was One of 2025’s Highest Grossing Films—for One Big Reason</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-21 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/infinite-glitch-1280x720.jpg" alt="‘Infinite Money Glitch’ Finally Gave People Good Deals On Trade-Ins So GameStop Killed It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/infinite-money-glitch-switch-2-gamestop-fixed-patched-used-games-2000661415" target="_blank">‘Infinite Money Glitch’ Finally Gave People Good Deals On Trade-Ins So GameStop Killed It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-20 23:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/star-trek-starfleet-academy-captain-ake-glasses-1280x853.jpg" alt="I Can’t Believe This Is What Is Getting Right Wing Weirdos Mad About ‘Starfleet Academy’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -256,39 +274,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KFEKS8DMD51MCVFZJA3GFBZT/hero-image.jpg" alt="Scammers Are Targeting Your Verizon Outage Refund" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/scammers-are-targeting-your-verizon-outage-refund?utm_medium=RSS" target="_blank">Scammers Are Targeting Your Verizon Outage Refund</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-20 22:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Knight-of-the-Seven-Kingdoms-egg-dunk-1280x853.jpg" alt="A Brief Reminder of When ‘A Knight of the Seven Kingdoms’ Takes Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/knight-of-the-seven-kingdoms-timeline-game-of-thrones-house-of-the-dragon-2000712068" target="_blank">A Brief Reminder of When ‘A Knight of the Seven Kingdoms’ Takes Place</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-20 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/cow.jpg?fit=1200%2C698&amp;quality=60&amp;ssl=1" alt="Scientists document first case of tool use in cattle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/20/scientists-document-first-case-of-tool-use-in-cattle.html" target="_blank">Scientists document first case of tool use in cattle</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-20 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/fortniteowmen-1280x720.jpg" alt="Fortnite Creators Are Using Women To Chase Clout And Make Money" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fortnite-creators-are-using-women-to-chase-clout-and-make-money-2000661353" target="_blank">Fortnite Creators Are Using Women To Chase Clout And Make Money</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-20 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/lore-olympus-1280x853.jpg" alt="‘Lore Olympus’ Will Be Prime Video’s Next Animated Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/lore-olympus-will-be-prime-videos-next-animated-show-2000712033" target="_blank">‘Lore Olympus’ Will Be Prime Video’s Next Animated Show</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-20 21:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
