@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-21 15:05:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-21 16:05:43 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, January 21, 2026 - 15:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, January 21, 2026 - 16:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,9 +48,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/1/21/stripped-naked-yemeni-detainee-recounts-torture-in-uae-run-prison?traffic_source=rss" target="_blank">‘Stripped naked’: Yemeni detainee recounts torture in UAE-run prison</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-21 15:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-davos-2-gty-jef-260121_1769003727272_hpMain_4x3t_384.jpg" alt="Trump rules out using military force to acquire Greenland in Davos speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-nation-secure-greenland-us-davos-speech/story?id=129417816" target="_blank">Trump rules out using military force to acquire Greenland in Davos speech</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-21 15:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/21/g-s1-106277/south-africa-kalk-bay" target="_blank">Greetings from Kalk Bay, a South African fishing village where wild seals await scraps</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-21 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/21/greenlands-strategic-position-in-seven-maps-why-trump-wants-the-island?traffic_source=rss" target="_blank">Greenland’s strategic position in seven maps: Why Trump wants the island</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-21 13:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-davos-world-economic-forum_7140375.jpg?20260120095439" alt="Is a new world &#x27;without rules&#x27; emerging? What global leaders have said" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/is-a-new-world-without-rules-emerging-what-global-leaders-have-said-13497144" target="_blank">Is a new world &#x27;without rules&#x27; emerging? What global leaders have said</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-21 13:18</span>
             </div>
         </div>
 <div class="story">
@@ -60,47 +98,29 @@
                 <span class="time">2026-01-21 12:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768997551210_tdy_news_7a_peter_trump_davos_260121_1920x1080-rkst4e.jpg" alt="Trump Arrives in Davos as Tensions Run High Over Greenland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-arrives-in-davos-as-tensions-run-high-over-greenland-256307781841" target="_blank">Trump Arrives in Davos as Tensions Run High Over Greenland</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-21 12:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e64/live/c0d14180-f6b8-11f0-b5f7-49f0357294ff.jpg" alt="UK inflation rises for first time in five months - but one-off factors blamed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cnvg251g25yo?at_medium=RSS&at_campaign=rss" target="_blank">UK inflation rises for first time in five months - but one-off factors blamed</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-21 10:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/davos-2-rt-gmh-260119_1768839023707_hpMain_4x3t_384.jpg" alt="US allies push back on Greenland at Davos ahead of Trump address" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/us-allies-push-back-greenland-davos-ahead-trump/story?id=129411091" target="_blank">US allies push back on Greenland at Davos ahead of Trump address</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-21 10:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/21/us-allies-unite-against-trumps-threats-to-take-over-greenland-at-davos?traffic_source=rss" target="_blank">US allies unite against Trump’s threats to take over Greenland at Davos</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-21 10:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/696fe1a65733b4e1ddbfbf10/master/pass/politics_maga_manifest_destiny_greenland.jpg" alt="MAGA’s ‘Manifest Destiny’ Coalition Has Arrived" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/maga-manifest-destiny-coalition/" target="_blank">MAGA’s ‘Manifest Destiny’ Coalition Has Arrived</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-21 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/864595/nexphone-android-linux-windows-11" target="_blank">This midrange Android phone also runs Windows and Linux</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-21 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +157,6 @@
                 <span class="time">2026-01-21 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/20/snap-reaches-settlement-in-social-media-addiction-lawsuit/" target="_blank">Snap reaches settlement in social media addiction lawsuit</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-21 07:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="Sealy Promo Code: Save $200 on Mattresses This Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sealy-promo-code/" target="_blank">Sealy Promo Code: Save $200 on Mattresses This Month</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-21 06:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +169,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fketv0811x3aa00jlivvk.png" alt="5 Open-Source Resume Builders That&#x27;ll Help Get You Hired in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/srbhr/5-open-source-resume-builders-thatll-help-get-you-hired-in-2026-1b92" target="_blank">5 Open-Source Resume Builders That&#x27;ll Help Get You Hired in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-21 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/nvidia-gb10-cpu" target="_blank">The CPU Performance Of The NVIDIA GB10 With The Dell Pro Max vs. AMD Ryzen AI Max+ &quot;Strix Halo&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-21 15:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18839421&w=600" alt="MERGE and Liquid Clustering: Common Performance Issues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/merge-liquid-clustering-common-issues" target="_blank">MERGE and Liquid Clustering: Common Performance Issues</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-21 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -185,33 +214,6 @@
                 <span class="title"><a href="https://dzone.com/articles/java-high-availability-failures" target="_blank">Why High-Availability Java Systems Fail Quietly Before They Fail Loudly</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-01-21 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/describe-the-training-and-fine-tuning-process-for-foundation-models-1n12" target="_blank">Describe The Training And Fine-Tuning Process For Foundation Models</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-21 10:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-x86-Boot-Cleanup" target="_blank">New Patches Aim To Make x86 Linux EFI Stub &amp; Relocatable Kernel Support Unconditional</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-21 10:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.eu-inc.org/" target="_blank">EU–INC – One Europe. One Standard. – Pan-European Legal Entity</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-21 10:49</span>
             </div>
         </div>
 </div>
@@ -233,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KESKTCBDE3KNNCBYP7VPWVH3/hero-image.jpg" alt="How to Tap Into a &#x27;Flow State&#x27; In Your Workouts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/how-to-tap-into-a-flow-state-in-your-workouts?utm_medium=RSS" target="_blank">How to Tap Into a &#x27;Flow State&#x27; In Your Workouts</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-21 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/For-All-Mankind-Season-5-Sean-Kaufman-1280x853.jpg" alt="The First Look at ‘For All Mankind’ Season 5 Soars" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +289,6 @@
                 <span class="time">2026-01-21 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/KPop_Demon_Hunters_stadium-1280x853.jpg" alt="Holy Crap, So Many People Watched ‘KPop Demon Hunters’ Last Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/holy-crap-so-many-people-watched-kpop-demon-hunters-last-year-2000712204" target="_blank">Holy Crap, So Many People Watched ‘KPop Demon Hunters’ Last Year</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-21 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 15:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 16:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
