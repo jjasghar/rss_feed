@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-21 03:30:14 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-21 04:17:31 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, January 21, 2026 - 03:30 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, January 21, 2026 - 04:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd9/live/086dc520-f67a-11f0-b5f7-49f0357294ff.jpg" alt="Trump doubles down on Greenland, saying there is &#x27;no going back&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgr19m642zo?at_medium=RSS&at_campaign=rss" target="_blank">Trump doubles down on Greenland, saying there is &#x27;no going back&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-21 03:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +98,6 @@
                 <span class="time">2026-01-20 23:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/20/trump-made-many-statements-on-us-economy-most-are-untrue?traffic_source=rss" target="_blank">Trump made many statements on US economy. Most are untrue</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-20 22:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -124,6 +119,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/20/one-time-hot-insurance-tech-ethos-poised-to-be-first-tech-ipo-of-the-year/" target="_blank">One-time hot insurance tech Ethos poised to be first tech IPO of the year</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-20 23:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/STScI-01KCMAMZ8ZSMRTR9KKD8Y6EMRJ-500x500.png" alt="Webb reveals a planetary nebula with phenomenal clarity, and it is spectacular" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/01/webb-has-given-us-with-a-stunning-new-view-of-a-well-known-planetary-nebula/" target="_blank">Webb reveals a planetary nebula with phenomenal clarity, and it is spectacular</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-20 23:33</span>
             </div>
         </div>
 <div class="story">
@@ -153,15 +157,6 @@
                 <span class="time">2026-01-20 22:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/20/x-open-sources-its-algorithm-while-facing-a-transparency-fine-and-grok-controversies/" target="_blank">X open sources its algorithm while facing a transparency fine and Grok controversies</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-20 21:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +169,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyinsgynj5764zp29ij2q.png" alt="Are We All Just Copying Code and Pretending We Know What We&#x27;re Doing?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thebitforge/are-we-all-just-copying-code-and-pretending-we-know-what-were-doing-1cfk" target="_blank">Are We All Just Copying Code and Pretending We Know What We&#x27;re Doing?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-21 03:55</span>
             </div>
         </div>
 <div class="story">
@@ -210,15 +214,6 @@
                 <span class="title"><a href="https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years" target="_blank">California is free of drought for the first time in 25 years</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-20 22:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18839377&w=600" alt="Automating Traceability with Generative AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/automating-traceability-with-generative-ai" target="_blank">Automating Traceability with Generative AI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-20 20:00</span>
             </div>
         </div>
 </div>
@@ -300,6 +295,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5748.png" alt="The Giving Gloop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5748" target="_blank">The Giving Gloop</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-01-21 02:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1768703713-20260120.png" alt="Saturday Morning Breakfast Cereal - Rare" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -313,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 03:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 04:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
