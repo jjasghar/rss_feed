@@ -1,40 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-01-21 17:19:39 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-21 18:10:55 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, January 21, 2026 - 17:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, January 21, 2026 - 18:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +39,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/21/g-s1-106572/global-buzzwords-disease-x-aid-cuts-health" target="_blank">Global buzzwords that will be buzzing in your ear in 2026</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-21 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/al-jazeera-world/2026/1/21/super-saliha?traffic_source=rss" target="_blank">Super Saliha</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-21 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/european-parliament-gty-jt-260121_1769012099234_hpMain_4x3t_384.jpg" alt="European officials suspend US trade agreement amid tariff dispute over Greenland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Business/european-officials-suspend-us-trade-agreement-amid-tariff/story?id=129422031" target="_blank">European officials suspend US trade agreement amid tariff dispute over Greenland</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-21 17:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,38 +93,38 @@
                 <span class="time">2026-01-21 16:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/1/21/stripped-naked-yemeni-detainee-recounts-torture-in-uae-run-prison?traffic_source=rss" target="_blank">‘Stripped naked’: Yemeni detainee recounts torture in UAE-run prison</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-21 15:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-davos-2-gty-jef-260121_1769003727272_hpMain_4x3t_384.jpg" alt="Trump rules out using military force to acquire Greenland in Davos speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-nation-secure-greenland-us-davos-speech/story?id=129417816" target="_blank">Trump rules out using military force to acquire Greenland in Davos speech</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-21 15:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/21/g-s1-106277/south-africa-kalk-bay" target="_blank">Greetings from Kalk Bay, a South African fishing village where wild seals await scraps</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-21 15:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/697109eb07553744ab004ef1/master/pass/012126-health-data-surveillance.jpg" alt="Surveillance and ICE Are Driving Patients Away From Medical Care, Report Warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/surveillance-and-ice-are-driving-patients-away-from-medical-care-report-warns/" target="_blank">Surveillance and ICE Are Driving Patients Away From Medical Care, Report Warns</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-21 18:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/JPG-Full-TIM_1154_EX60_DETAIL_HIGH_FRONT-500x500.jpg" alt="Here&#x27;s Volvo&#x27;s new EX60 $60,000 electric midsize SUV" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/01/heres-volvos-new-ex60-60000-electric-midsize-suv/" target="_blank">Here&#x27;s Volvo&#x27;s new EX60 $60,000 electric midsize SUV</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-21 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/864561/volvo-ex60-range-price-specs" target="_blank">Volvo aims for an EV reset with the new EX60 crossover</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-21 17:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,33 +152,6 @@
                 <span class="time">2026-01-21 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/864566/youtube-tv-custom-multiview-channel-packages" target="_blank">YouTube TV will launch custom multiview and channel packages ‘soon’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-21 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/21/nyt-games-scrabble-like-game-crossplay-is-a-dream-come-true/" target="_blank">NYT Games’ Scrabble-like game Crossplay is a dream come true</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-21 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_typewriter_getty-500x500.jpg" alt="Wikipedia volunteers spent years cataloging AI tells. Now there&#x27;s a plugin to avoid them." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/01/new-ai-plugin-uses-wikipedias-ai-writing-detection-rules-to-help-it-sound-human/" target="_blank">Wikipedia volunteers spent years cataloging AI tells. Now there&#x27;s a plugin to avoid them.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-21 12:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +164,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/how-aws-s3-is-built" target="_blank">How AWS S3 is built</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-01-21 18:00</span>
             </div>
         </div>
 <div class="story">
@@ -213,15 +211,6 @@
                 <span class="time">2026-01-21 15:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18839421&w=600" alt="MERGE and Liquid Clustering: Common Performance Issues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/merge-liquid-clustering-common-issues" target="_blank">MERGE and Liquid Clustering: Common Performance Issues</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-21 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +230,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/2XKO.jpg" alt="League Of Legends Fighting Game Finally Hits Consoles But PS5 Players Say It Needs More Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/2xko-ps5-league-legends-fighting-game-issues-2000661845" target="_blank">League Of Legends Fighting Game Finally Hits Consoles But PS5 Players Say It Needs More Work</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-21 18:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/rainbowshirts.jpeg?fit=1500%2C1001&amp;quality=60&amp;ssl=1" alt="Site tells you best days to hang dry clothes outside" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +284,6 @@
                 <span class="time">2026-01-21 14:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Copy_of_Copy_of_01rockshoesideview_1600x.webp?fit=1080%2C1080&amp;quality=55&amp;ssl=1" alt="These shoes rock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/21/these-shoes-rock.html" target="_blank">These shoes rock</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-21 14:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 17:19 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 18:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
