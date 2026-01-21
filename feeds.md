@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-21 09:05:11 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-21 10:02:51 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, January 21, 2026 - 09:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, January 21, 2026 - 10:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/21/nx-s1-5678263/morning-news-brief" target="_blank">Morning news brief</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-21 09:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/225d/live/541a6210-f6a4-11f0-a422-4ba8a094a8fa.jpg" alt="UK inflation rises to 3.4%, driven by tobacco and airfares" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cnvg251g25yo?at_medium=RSS&at_campaign=rss" target="_blank">UK inflation rises to 3.4%, driven by tobacco and airfares</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-21 09:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/21/us-trade-with-southeast-asia-and-taiwan-surging-despite-trump-tariffs?traffic_source=rss" target="_blank">US trade with Southeast Asia and Taiwan surging despite Trump tariffs</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-21 05:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd9/live/086dc520-f67a-11f0-b5f7-49f0357294ff.jpg" alt="Trump doubles down on Greenland, saying there is &#x27;no going back&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgr19m642zo?at_medium=RSS&at_campaign=rss" target="_blank">Trump doubles down on Greenland, saying there is &#x27;no going back&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-21 03:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/21/stock-markets-plunge-as-trump-ramps-up-tensions-over-greenland?traffic_source=rss" target="_blank">Stock markets plunge as Trump ramps up tensions over Greenland</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-21 03:05</span>
             </div>
         </div>
 </div>
@@ -194,6 +190,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.nibzard.com/agentic-handbook" target="_blank">The Agentic AI Handbook: Production-Ready Patterns</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-21 06:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yuer/the-only-real-fix-for-agents-running-wild-is-control-by-design-4dlc" target="_blank">The Only Real Fix for Agents Running Wild Is Control by Design</a></span>
                 <span class="feed">DEV Community</span>
@@ -207,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/thebitforge/are-we-all-just-copying-code-and-pretending-we-know-what-were-doing-1cfk" target="_blank">Are We All Just Copying Code and Pretending We Know What We&#x27;re Doing?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-21 03:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn8pyz6g6iv29o0gv2n8c.png" alt="9.Create EBS Volume Using Terraform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thukhakyawe_cloud/9create-ebs-volume-using-terraform-35jf" target="_blank">9.Create EBS Volume Using Terraform</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-21 03:20</span>
             </div>
         </div>
 </div>
@@ -319,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 09:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 255 |
+        🔄 Last Updated: 10:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
