@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-21 21:05:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-21 22:02:44 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, January 21, 2026 - 21:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, January 21, 2026 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/21/nx-s1-5684152/bill-clinton-hillary-clinton-contempt-of-congress-vote" target="_blank">House Oversight panel votes to hold Bill and Hillary Clinton in contempt of Congress</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-21 21:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +99,20 @@
                 <span class="time">2026-01-21 19:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/21/deadly-roof-collapse-at-russian-shopping-mall-after-heavy-snowfall?traffic_source=rss" target="_blank">Deadly roof collapse at Russian shopping mall after heavy snowfall</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-21 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/jimmy-kimmel-return-500x500-1758739137.jpg" alt="Trump FCC threatens to enforce equal-time rule on late-night talk shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/trump-fcc-tries-to-get-more-republicans-on-late-night-and-daytime-talk-shows/" target="_blank">Trump FCC threatens to enforce equal-time rule on late-night talk shows</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-21 21:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Tomb-Raider-hero-500x500.jpg" alt="The problem with revisiting Tomb Raider: Reacclimating to tank controls" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +158,29 @@
                 <span class="time">2026-01-21 18:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/21/blue-origins-satellite-internet-network-terawave-will-move-data-at-6tbps/" target="_blank">Blue Origin’s satellite internet network TeraWave will move data at 6Tbps</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-21 18:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/keyshade/common-ci-misconfigurations-that-leak-credentials-1ag1" target="_blank">Common CI Misconfigurations That Leak Credentials</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-21 21:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/" target="_blank">eBay Explicitly Bans AI &quot;Buy for Me&quot; Agents in User Agreement Update</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-21 21:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,24 +217,6 @@
                 <span class="time">2026-01-21 18:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.linuxfromscratch.org/lfs/view/stable/" target="_blank">Linux from Scratch</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-21 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://nullprogram.com/blog/2026/01/01/" target="_blank">WebAssembly as a Python extension platform</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-01-21 18:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/comicon.jpg?fit=1200%2C1200&amp;quality=60&amp;ssl=1" alt="San Diego Comic-Con bans AI art after artist pushback" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/21/san-diego-comic-con-bans-ai-art-after-artist-pushback.html" target="_blank">San Diego Comic-Con bans AI art after artist pushback</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-21 21:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/07/e3bcbbe9062247a4b248a3a60f3ece54-1280x720.jpg" alt="How A Headline Gets Written At Kotaku: Battlefield 6 Edition" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +288,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/21/teaser-trailer-for-new-live-action-he-man.html" target="_blank">Teaser trailer for new live-action He-Man</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-21 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/2XKO.jpg" alt="League Of Legends Fighting Game Finally Hits Consoles But PS5 Players Say It Needs More Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/2xko-ps5-league-legends-fighting-game-issues-2000661845" target="_blank">League Of Legends Fighting Game Finally Hits Consoles But PS5 Players Say It Needs More Work</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-21 18:04</span>
             </div>
         </div>
 </div>
@@ -359,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 21:05 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
