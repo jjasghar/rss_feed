@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-21 00:05:29 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-21 01:30:15 UTC -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, January 21, 2026 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, January 21, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/21/us-seizes-a-seventh-venezuela-linked-oil-tanker?traffic_source=rss" target="_blank">US seizes a seventh Venezuela-linked oil tanker</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-21 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/866c/live/81d21110-f65b-11f0-ada9-edf8a48c6899.jpg" alt="Driving test cheating soars as candidates turn to Bluetooth headsets and impersonators" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2g30wwmnno?at_medium=RSS&at_campaign=rss" target="_blank">Driving test cheating soars as candidates turn to Bluetooth headsets and impersonators</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-21 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-donald-trump-greenland_7141126.jpg?20260120231956" alt="Trump offers ominous message on Greenland ahead of crunch talks with European leaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-offers-ominous-message-on-greenland-and-says-starmer-gets-a-little-rough-with-him-13496909" target="_blank">Trump offers ominous message on Greenland ahead of crunch talks with European leaders</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-20 23:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,33 +96,6 @@
                 <span class="time">2026-01-20 20:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79ba/live/9cad8ea0-f64d-11f0-b5f7-49f0357294ff.png" alt="Lyse Doucet: Trump is shaking the world order more than any president since WW2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2lej7d52po?at_medium=RSS&at_campaign=rss" target="_blank">Lyse Doucet: Trump is shaking the world order more than any president since WW2</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-20 20:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768939323257_nbc_spec_trump_ice_mistakes_260120_1920x1080-qhid2u.jpg" alt="Trump admits ICE is &#x27;going to make mistakes sometimes&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-ice-is-going-to-make-mistakes-sometimes-256269381527" target="_blank">Trump admits ICE is &#x27;going to make mistakes sometimes&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-20 20:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2026/1/20/how-winter-is-making-gazas-humanitarian-crisis-worse?traffic_source=rss" target="_blank">How winter is making Gaza’s humanitarian crisis worse</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-20 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -112,6 +108,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/20/one-time-hot-insurance-tech-ethos-poised-to-be-first-tech-ipo-of-the-year/" target="_blank">One-time hot insurance tech Ethos poised to be first tech IPO of the year</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-20 23:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/696fdb8f1edd5d44a19b910e/master/pass/The%20Unique%20Ninja%20Air%20Fryer%20Is%20Marked%20Down.png" alt="Super Savings on This Unique Air Fryer That Cooks Food in Heatproof Glass" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ninja-crispi-deal-126/" target="_blank">Super Savings on This Unique Air Fryer That Cooks Food in Heatproof Glass</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-20 22:33</span>
             </div>
         </div>
 <div class="story">
@@ -150,15 +155,6 @@
                 <span class="time">2026-01-20 20:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/864585/nova-launcher-instabridge-acquisition-owner-ads" target="_blank">Nova Launcher’s new owner might offer a version with ads</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-20 20:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +167,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7mer7mtfdlvvkfuyr5cq.png" alt="Cómo los MCPs de AWS y los agentes de IA están cambiando mi forma de diseñar infraestructura" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/marcosferr/como-los-mcps-de-aws-y-los-agentes-de-ia-estan-cambiando-mi-forma-de-disenar-infraestructura-2e44" target="_blank">Cómo los MCPs de AWS y los agentes de IA están cambiando mi forma de diseñar infraestructura</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-21 01:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RADV-More-Perf-Mesa-26.0" target="_blank">An Exciting Day With More Performance Optimizations Merged For RADV In Mesa 26.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-21 01:09</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +212,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/01/cyberark-agents-defenses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How CyberArk Protects AI Agents with Instruction Detectors and History-Aware Validation</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-01-20 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/ai-supported-vulnerability-triage-with-the-github-security-lab-taskflow-agent/" target="_blank">AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-01-20 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/" target="_blank">A 26,000-year astronomical monument hidden in plain sight (2019)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-20 18:16</span>
             </div>
         </div>
 </div>
@@ -328,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
