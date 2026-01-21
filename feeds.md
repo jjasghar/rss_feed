@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-21 22:02:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-21 23:02:58 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, January 21, 2026 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, January 21, 2026 - 23:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +49,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/21/nx-s1-5684152/bill-clinton-hillary-clinton-contempt-of-congress-vote" target="_blank">House Oversight panel votes to hold Bill and Hillary Clinton in contempt of Congress</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-21 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-trump100-podcast_7142023.png?20260121220316" alt="Quick take: Major tariff U-turn for Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/quick-take-major-tariff-u-turn-for-trump-13497318" target="_blank">Quick take: Major tariff U-turn for Trump</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-21 20:53</span>
             </div>
         </div>
 <div class="story">
@@ -90,20 +96,20 @@
                 <span class="time">2026-01-21 19:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260121-donald-trump-ew-237p-c6ea82.jpg" alt="Trump pauses Greenland-linked tariffs on 8 European countries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/economy/trump-pauses-greenland-tariffs-rcna255270" target="_blank">Trump pauses Greenland-linked tariffs on 8 European countries</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-21 19:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/21/a-timeline-of-the-u-s-semiconductor-market-in-2025/" target="_blank">A timeline of the US semiconductor market in 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-21 22:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/jimmy-kimmel-return-500x500-1758739137.jpg" alt="Trump FCC threatens to enforce equal-time rule on late-night talk shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,21 +147,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" alt="$100 Off Shark Promo Code | This January" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media.wired.com/photos/6850566ce46fc92c73b3584b/master/pass/What's%20your%20Type_Mattress.png" alt="What Type of Mattress Is Right for You? (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/shark-promo-code/" target="_blank">$100 Off Shark Promo Code | This January</a></span>
+                <span class="title"><a href="https://www.wired.com/story/mattress-types-explained/" target="_blank">What Type of Mattress Is Right for You? (2026)</a></span>
                 <span class="feed">WIRED</span>
-                <span class="time">2026-01-21 19:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/G_NEl2bbgAAr100-500x500.jpg" alt="Another Jeff Bezos company has announced plans to develop a megaconstellation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/01/blue-origin-we-want-to-have-a-megaconstellation-too/" target="_blank">Another Jeff Bezos company has announced plans to develop a megaconstellation</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-21 18:40</span>
+                <span class="time">2026-01-21 20:34</span>
             </div>
         </div>
 </div>
@@ -166,10 +163,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Linux-GLBE-GLSBE-PLZA" target="_blank">AMD Sends Out Linux Patches For Next-Gen EPYC Features: GLBE, GLSBE &amp; PLZA</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-21 22:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/keyshade/common-ci-misconfigurations-that-leak-credentials-1ag1" target="_blank">Common CI Misconfigurations That Leak Credentials</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-21 21:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://deadneurons.substack.com/p/what-if-ai-is-both-really-good-and" target="_blank">What if AI is both good and not that disruptive?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-21 21:11</span>
             </div>
         </div>
 <div class="story">
@@ -188,33 +212,6 @@
                 <span class="title"><a href="https://dev.to/hectorw_tt/why-programs-fail-a-guide-to-systematic-debugging-by-andreas-zeller-a-book-review-24h8" target="_blank">Why Programs Fail A Guide to Systematic Debugging by Andreas Zeller-A Book Review</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-21 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18844039&w=600" alt="The Future of Data Streaming with Apache Flink for Agentic AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/future-of-data-streaming-apache-flink-for-agentic-ai" target="_blank">The Future of Data Streaming with Apache Flink for Agentic AI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-21 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.0-rc1-Released" target="_blank">Mesa 26.0-rc1 Released With RADV Improvements Leading The Way Along With Intel &amp; NVK</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-21 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6q71mgilnyn4i7g3n4xs.png" alt="Simplified: AI Engineer Vs. ML Engineer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/francistrdev/simplified-ai-engineer-vs-ml-engineer-4jch" target="_blank">Simplified: AI Engineer Vs. ML Engineer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-21 18:59</span>
             </div>
         </div>
 </div>
@@ -236,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_739472080.jpg?fit=1200%2C787&amp;quality=60&amp;ssl=1" alt="California is completely drought-free for the first time in 25 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/21/california-is-completely-drought-free-for-the-first-time-in-25-years.html" target="_blank">California is completely drought-free for the first time in 25 years</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-21 22:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KFBNC4DH3NPKSSCJ5S2GG58Q/hero-image.jpg" alt="The Emergency Repair Supplies Every Homeowner Should Have on Hand" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/essential-emergency-home-repair-supplies?utm_medium=RSS" target="_blank">The Emergency Repair Supplies Every Homeowner Should Have on Hand</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-21 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/comicon.jpg?fit=1200%2C1200&amp;quality=60&amp;ssl=1" alt="San Diego Comic-Con bans AI art after artist pushback" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +285,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/21/poll-71-of-americans-say-country-is-out-of-control-under-trump.html" target="_blank">Poll: 71% of Americans say country is &quot;out of control&quot; under Trump</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-21 19:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KFEP7X0ZKW1JD10MJE2ZNW9R/hero-image.jpg" alt="This &#x27;Ad Blocker&#x27; Actually Initiates ClickFix Attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/this-ad-blocker-actually-initiates-clickfix-attacks?utm_medium=RSS" target="_blank">This &#x27;Ad Blocker&#x27; Actually Initiates ClickFix Attacks</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-21 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Nicholas-Galitzine-as-Prince-Adam-of-Eternia.jpg?fit=1080%2C601&amp;quality=60&amp;ssl=1" alt="Teaser trailer for new live-action He-Man" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/21/teaser-trailer-for-new-live-action-he-man.html" target="_blank">Teaser trailer for new live-action He-Man</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-21 18:09</span>
             </div>
         </div>
 </div>
@@ -341,12 +338,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="http://www.questionablecontent.net/comics/5748.png" alt="The Giving Gloop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://imgs.xkcd.com/comics/cost_savings.png" alt="Cost Savings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5748" target="_blank">The Giving Gloop</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-01-21 02:10</span>
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3197/" target="_blank">Cost Savings</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-01-21 05:00</span>
             </div>
         </div>
 </div>
@@ -354,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 23:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
