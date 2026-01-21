@@ -1,31 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-01-21 12:02:41 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing 54 RSS feeds at 2026-01-21 13:16:15 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, January 21, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, January 21, 2026 - 13:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/trump-main_1768999737755_hpMain_4x3t_384.jpg" alt="Trump lands in Switzerland ahead of Davos address after Air Force One&#x27;s &#x27;issue&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-speak-world-economic-forum-amid-feud-nato/story?id=129393695" target="_blank">Trump lands in Switzerland ahead of Davos address after Air Force One&#x27;s &#x27;issue&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-21 12:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1768997551210_tdy_news_7a_peter_trump_davos_260121_1920x1080-rkst4e.jpg" alt="Trump Arrives in Davos as Tensions Run High Over Greenland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-arrives-in-davos-as-tensions-run-high-over-greenland-256307781841" target="_blank">Trump Arrives in Davos as Tensions Run High Over Greenland</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-21 12:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e64/live/c0d14180-f6b8-11f0-b5f7-49f0357294ff.jpg" alt="UK inflation rises for first time in five months - but one-off factors blamed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +95,20 @@
                 <span class="time">2026-01-21 10:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/21/nx-s1-5678635/trump-offshore-wind-national-security-climate-change" target="_blank">Trump administration claims offshore wind poses a threat. But it won&#x27;t say how.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-21 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/21/nx-s1-5678263/morning-news-brief" target="_blank">Morning news brief</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-21 09:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_typewriter_getty-500x500.jpg" alt="Wikipedia volunteers spent years cataloging AI tells. Now there&#x27;s a plugin to avoid them." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/01/new-ai-plugin-uses-wikipedias-ai-writing-detection-rules-to-help-it-sound-human/" target="_blank">Wikipedia volunteers spent years cataloging AI tells. Now there&#x27;s a plugin to avoid them.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-21 12:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +154,6 @@
                 <span class="time">2026-01-21 02:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/20/one-time-hot-insurance-tech-ethos-poised-to-be-first-tech-ipo-of-the-year/" target="_blank">One-time hot insurance tech Ethos poised to be first tech IPO of the year</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-20 23:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -189,28 +189,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.eu-inc.org/" target="_blank">EU–INC – One Europe. One Standard. – Pan-European Legal Entity</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-21 10:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/ai-assisted-development-series/en/headerimage/ai-assisted-development-header-image-1768388299998.jpg" alt="Article Series - AI Assisted Development: Real World Patterns, Pitfalls, and Production Readiness" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/ai-assisted-development-series/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article Series - AI Assisted Development: Real World Patterns, Pitfalls, and Production Readiness</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-21 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rio14/virus-while-youre-coding-how-ai-can-compromise-your-project-30bc" target="_blank">Virus While You’re Coding: How AI Can Compromise Your Project</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-21 07:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/richard-stallman-georgia-tech/" target="_blank">Richard Stallman to Speak on Software Freedom and AI at Georgia Tech</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-21 07:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.nibzard.com/agentic-handbook" target="_blank">The Agentic AI Handbook: Production-Ready Patterns</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-21 06:48</span>
             </div>
         </div>
 </div>
@@ -222,9 +222,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/could-chatgpt-convince-you-to-buy-something.html" target="_blank">Could ChatGPT Convince You to Buy Something?</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/internet-voting-is-too-insecure-for-use-in-elections.html" target="_blank">Internet Voting is Too Insecure for Use in Elections</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-01-20 12:08</span>
+                <span class="time">2026-01-21 12:05</span>
             </div>
         </div>
 </div>
@@ -232,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/peter-claffey-danny-webb-2-1280x853.jpg" alt="Does It Matter If Dunk Was Really Knighted on ‘A Knight of the Seven Kingdoms’?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/does-it-matter-if-dunk-was-really-knighted-on-a-knight-of-the-seven-kingdoms-2000712266" target="_blank">Does It Matter If Dunk Was Really Knighted on ‘A Knight of the Seven Kingdoms’?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-21 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/KPop_Demon_Hunters_stadium-1280x853.jpg" alt="Holy Crap, So Many People Watched ‘KPop Demon Hunters’ Last Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +286,6 @@
                 <span class="time">2026-01-21 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/infinite-glitch-1280x720.jpg" alt="‘Infinite Money Glitch’ Finally Gave People Good Deals On Trade-Ins So GameStop Killed It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/infinite-money-glitch-switch-2-gamestop-fixed-patched-used-games-2000661415" target="_blank">‘Infinite Money Glitch’ Finally Gave People Good Deals On Trade-Ins So GameStop Killed It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-20 23:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 13:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
