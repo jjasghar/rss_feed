@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-21 16:05:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-21 17:19:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 26 feeds processed -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, January 21, 2026 - 16:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, January 21, 2026 - 17:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/21/nx-s1-5683968/supreme-court-federal-reserve-lisa-cook" target="_blank">Supreme Court appears wary of allowing Trump to fire Fed&#x27;s Cook in closely watched case</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-21 17:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/1/21/live-marseille-vs-liverpool-uefa-champions-league?traffic_source=rss" target="_blank">LIVE: Marseille vs Liverpool – UEFA Champions League</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-21 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8689/live/24e7bfc0-f6d5-11f0-b385-5f48925de19a.jpg" alt="I will not yield to Trump&#x27;s pressure on Greenland, says PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c98j90y2y6lo?at_medium=RSS&at_campaign=rss" target="_blank">I will not yield to Trump&#x27;s pressure on Greenland, says PM</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-21 16:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +104,20 @@
                 <span class="time">2026-01-21 15:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/21/greenlands-strategic-position-in-seven-maps-why-trump-wants-the-island?traffic_source=rss" target="_blank">Greenland’s strategic position in seven maps: Why Trump wants the island</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-21 13:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-davos-world-economic-forum_7140375.jpg?20260120095439" alt="Is a new world &#x27;without rules&#x27; emerging? What global leaders have said" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/is-a-new-world-without-rules-emerging-what-global-leaders-have-said-13497144" target="_blank">Is a new world &#x27;without rules&#x27; emerging? What global leaders have said</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-21 13:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/trump-main_1768999737755_hpMain_4x3t_384.jpg" alt="Trump lands in Switzerland ahead of Davos address after Air Force One&#x27;s &#x27;issue&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-speak-world-economic-forum-amid-feud-nato/story?id=129393695" target="_blank">Trump lands in Switzerland ahead of Davos address after Air Force One&#x27;s &#x27;issue&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-21 12:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/21/threads-rolls-out-ads-to-all-users-worldwide/" target="_blank">Threads rolls out ads to all users worldwide</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-21 16:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/696fe1a65733b4e1ddbfbf10/master/pass/politics_maga_manifest_destiny_greenland.jpg" alt="MAGA’s ‘Manifest Destiny’ Coalition Has Arrived" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +163,6 @@
                 <span class="time">2026-01-21 12:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/864601/zipline-drone-delivery-food-takeout-texas" target="_blank">Burritos from Heaven: Are drones the future of delivery?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-21 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +175,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmdbgehalj1cfzmzdnjsr.png" alt="myRoster: from copypaste to 2-minute submissions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lfariaus/myroster-from-copypaste-to-2-minute-submissions-dao" target="_blank">myRoster: from copypaste to 2-minute submissions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-21 17:12</span>
             </div>
         </div>
 <div class="story">
@@ -190,30 +205,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/presentations/autonomous-driving-data/en/mediumimage/kyra-mozley-medium-1768380754768.jpeg" alt="Presentation: How to Unlock Insights and Enable Discovery Within Petabytes of Autonomous Driving Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/autonomous-driving-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: How to Unlock Insights and Enable Discovery Within Petabytes of Autonomous Driving Data</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-21 15:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18839421&w=600" alt="MERGE and Liquid Clustering: Common Performance Issues" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/merge-liquid-clustering-common-issues" target="_blank">MERGE and Liquid Clustering: Common Performance Issues</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-01-21 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/01/21/is-that-allowed-authentication-and-authorization-in-model-context-protocol/" target="_blank">Is that allowed? Authentication and authorization in Model Context Protocol</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-01-21 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18839411&w=600" alt="Why High-Availability Java Systems Fail Quietly Before They Fail Loudly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/java-high-availability-failures" target="_blank">Why High-Availability Java Systems Fail Quietly Before They Fail Loudly</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-21 14:00</span>
             </div>
         </div>
 </div>
@@ -235,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/rainbowshirts.jpeg?fit=1500%2C1001&amp;quality=60&amp;ssl=1" alt="Site tells you best days to hang dry clothes outside" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/21/site-tells-you-best-days-to-hang-dry-clothes-outside.html" target="_blank">Site tells you best days to hang dry clothes outside</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-21 17:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/chris-pratt-sci-fi-movies-ranked-electric-state-guardians-of-the-galaxy-jurassic-world-1280x853.jpg" alt="Chris Pratt’s Sci-Fi Movies, Ranked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/chris-pratts-sci-fi-movies-ranked-2000712057" target="_blank">Chris Pratt’s Sci-Fi Movies, Ranked</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-21 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KESKTCBDE3KNNCBYP7VPWVH3/hero-image.jpg" alt="How to Tap Into a &#x27;Flow State&#x27; In Your Workouts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,29 +295,20 @@
                 <span class="time">2026-01-21 14:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KFGC7YZ34M3TDM3VRV3BP1BR/hero-image.png" alt="The Razer Kishi Ultra Gaming Controller Is Nearly 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/razer-kishi-gaming-controller-sale-january-2026?utm_medium=RSS" target="_blank">The Razer Kishi Ultra Gaming Controller Is Nearly 50% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-21 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/peter-claffey-danny-webb-2-1280x853.jpg" alt="Does It Matter If Dunk Was Really Knighted on ‘A Knight of the Seven Kingdoms’?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/does-it-matter-if-dunk-was-really-knighted-on-a-knight-of-the-seven-kingdoms-2000712266" target="_blank">Does It Matter If Dunk Was Really Knighted on ‘A Knight of the Seven Kingdoms’?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-21 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1768948013-20260121.png" alt="Saturday Morning Breakfast Cereal - Unified" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/unified-2" target="_blank">Saturday Morning Breakfast Cereal - Unified</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-01-21 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -312,22 +327,13 @@
                 <span class="time">2026-01-21 02:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1768703713-20260120.png" alt="Saturday Morning Breakfast Cereal - Rare" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/rare" target="_blank">Saturday Morning Breakfast Cereal - Rare</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-20 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 16:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 17:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
