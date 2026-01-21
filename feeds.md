@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-01-21 11:03:54 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-01-21 12:02:41 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, January 21, 2026 - 11:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, January 21, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e64/live/c0d14180-f6b8-11f0-b5f7-49f0357294ff.jpg" alt="UK inflation rises for first time in five months - but one-off factors blamed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cnvg251g25yo?at_medium=RSS&at_campaign=rss" target="_blank">UK inflation rises for first time in five months - but one-off factors blamed</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-21 10:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/davos-2-rt-gmh-260119_1768839023707_hpMain_4x3t_384.jpg" alt="US allies push back on Greenland at Davos ahead of Trump address" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +95,20 @@
                 <span class="time">2026-01-21 09:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/225d/live/541a6210-f6a4-11f0-a422-4ba8a094a8fa.jpg" alt="UK inflation rises to 3.4%, driven by tobacco and airfares" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cnvg251g25yo?at_medium=RSS&at_campaign=rss" target="_blank">UK inflation rises to 3.4%, driven by tobacco and airfares</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-21 09:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/864601/zipline-drone-delivery-food-takeout-texas" target="_blank">Burritos from Heaven: Are drones the future of delivery?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-21 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +152,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/20/one-time-hot-insurance-tech-ethos-poised-to-be-first-tech-ipo-of-the-year/" target="_blank">One-time hot insurance tech Ethos poised to be first tech IPO of the year</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-20 23:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/STScI-01KCMAMZ8ZSMRTR9KKD8Y6EMRJ-500x500.png" alt="Webb reveals a planetary nebula with phenomenal clarity, and it is spectacular" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/01/webb-has-given-us-with-a-stunning-new-view-of-a-well-known-planetary-nebula/" target="_blank">Webb reveals a planetary nebula with phenomenal clarity, and it is spectacular</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-20 23:33</span>
             </div>
         </div>
 </div>
@@ -240,6 +233,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/KPop_Demon_Hunters_stadium-1280x853.jpg" alt="Holy Crap, So Many People Watched ‘KPop Demon Hunters’ Last Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/holy-crap-so-many-people-watched-kpop-demon-hunters-last-year-2000712204" target="_blank">Holy Crap, So Many People Watched ‘KPop Demon Hunters’ Last Year</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-21 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/shutterstock_2382503331.jpg?fit=1000%2C639&amp;quality=60&amp;ssl=1" alt="Sony to spin off TV business" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/21/sony-to-spin-off-tv-business.html" target="_blank">Sony to spin off TV business</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-21 11:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/05/cb79fa87c30c913a9fbbf251632de056-1024x576.jpg" alt="Document Disclosures Reveal Microsoft’s Influence as OpenAI Became a Revenue-Crazed Behemoth" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -273,24 +284,6 @@
                 <span class="title"><a href="https://kotaku.com/infinite-money-glitch-switch-2-gamestop-fixed-patched-used-games-2000661415" target="_blank">‘Infinite Money Glitch’ Finally Gave People Good Deals On Trade-Ins So GameStop Killed It</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-20 23:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/defecator.jpg?fit=1108%2C684&amp;quality=60&amp;ssl=1" alt="Florida woman who &quot;defecated toward officers&quot; to avoid arrest was arrested" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/20/florida-woman-who-defecated-toward-officers-to-avoid-arrest-was-arrested.html" target="_blank">Florida woman who &quot;defecated toward officers&quot; to avoid arrest was arrested</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-20 23:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/star-trek-starfleet-academy-captain-ake-glasses-1280x853.jpg" alt="I Can’t Believe This Is What Is Getting Right Wing Weirdos Mad About ‘Starfleet Academy’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-trek-starfleet-academy-glasses-stephen-miller-william-shatner-2000712197" target="_blank">I Can’t Believe This Is What Is Getting Right Wing Weirdos Mad About ‘Starfleet Academy’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-20 23:00</span>
             </div>
         </div>
 </div>
@@ -330,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 11:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
