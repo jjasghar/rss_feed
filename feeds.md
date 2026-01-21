@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-21 10:02:51 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-21 11:03:54 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, January 21, 2026 - 10:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, January 21, 2026 - 11:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/davos-2-rt-gmh-260119_1768839023707_hpMain_4x3t_384.jpg" alt="US allies push back on Greenland at Davos ahead of Trump address" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/us-allies-push-back-greenland-davos-ahead-trump/story?id=129411091" target="_blank">US allies push back on Greenland at Davos ahead of Trump address</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-21 10:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/21/us-allies-unite-against-trumps-threats-to-take-over-greenland-at-davos?traffic_source=rss" target="_blank">US allies unite against Trump’s threats to take over Greenland at Davos</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-21 10:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac52/live/eda48cb0-f6ab-11f0-a917-d3d793525367.jpg" alt="Could US Congress stop Trump from taking over Greenland?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c701rvrpjwko?at_medium=RSS&at_campaign=rss" target="_blank">Could US Congress stop Trump from taking over Greenland?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-21 10:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/21/nx-s1-5678635/trump-offshore-wind-national-security-climate-change" target="_blank">Trump administration claims offshore wind poses a threat. But it won&#x27;t say how.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-21 10:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -58,42 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cnvg251g25yo?at_medium=RSS&at_campaign=rss" target="_blank">UK inflation rises to 3.4%, driven by tobacco and airfares</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-21 09:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/21/japan-to-restart-worlds-biggest-nuclear-plant-after-15-year-shutdown?traffic_source=rss" target="_blank">Japan to restart world’s biggest nuclear plant after 15-year shutdown</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-21 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/21/s-koreas-former-pm-found-guilty-of-insurrection-given-23-years-in?traffic_source=rss" target="_blank">S Korea’s former PM found guilty of insurrection, given 23 years in prison</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-21 07:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/21/g-s1-106639/iran-warns-trump-khamenei" target="_blank">Iran warns Trump not to take action against Khamenei</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-21 06:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/21/us-trade-with-southeast-asia-and-taiwan-surging-despite-trump-tariffs?traffic_source=rss" target="_blank">US trade with Southeast Asia and Taiwan surging despite Trump tariffs</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-21 05:18</span>
             </div>
         </div>
 </div>
@@ -173,6 +179,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/describe-the-training-and-fine-tuning-process-for-foundation-models-1n12" target="_blank">Describe The Training And Fine-Tuning Process For Foundation Models</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-21 10:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-x86-Boot-Cleanup" target="_blank">New Patches Aim To Make x86 Linux EFI Stub &amp; Relocatable Kernel Support Unconditional</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-21 10:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rio14/virus-while-youre-coding-how-ai-can-compromise-your-project-30bc" target="_blank">Virus While You’re Coding: How AI Can Compromise Your Project</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-21 07:53</span>
@@ -196,24 +220,6 @@
                 <span class="time">2026-01-21 06:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yuer/the-only-real-fix-for-agents-running-wild-is-control-by-design-4dlc" target="_blank">The Only Real Fix for Agents Running Wild Is Control by Design</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-21 04:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyinsgynj5764zp29ij2q.png" alt="Are We All Just Copying Code and Pretending We Know What We&#x27;re Doing?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thebitforge/are-we-all-just-copying-code-and-pretending-we-know-what-were-doing-1cfk" target="_blank">Are We All Just Copying Code and Pretending We Know What We&#x27;re Doing?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-21 03:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/05/cb79fa87c30c913a9fbbf251632de056-1024x576.jpg" alt="Document Disclosures Reveal Microsoft’s Influence as OpenAI Became a Revenue-Crazed Behemoth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/document-disclosures-reveal-microsofts-influence-as-openai-became-a-revenue-crazed-behemoth-2000712308" target="_blank">Document Disclosures Reveal Microsoft’s Influence as OpenAI Became a Revenue-Crazed Behemoth</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-21 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/elon-1280x854.jpg" alt="Elon Musk Makes Part of X Algorithm Open Source, Says It ‘Sucks’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,20 +293,20 @@
                 <span class="time">2026-01-20 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/pokemon-pikachu-surging-sparks.jpg" alt="Even Trump’s Pentagon Is Selling Rare Pokémon Cards Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/even-trumps-pentagon-is-selling-rare-pokemon-cards-now-2000661388" target="_blank">Even Trump’s Pentagon Is Selling Rare Pokémon Cards Now</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-20 22:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/01/21/staryeet-academy" target="_blank">Staryeet Academy</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-01-21 08:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5748.png" alt="The Giving Gloop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -315,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 10:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 11:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
