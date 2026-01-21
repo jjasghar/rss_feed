@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-21 01:30:15 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-01-21 02:38:08 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, January 21, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, January 21, 2026 - 02:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +51,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/21/us-seizes-a-seventh-venezuela-linked-oil-tanker?traffic_source=rss" target="_blank">US seizes a seventh Venezuela-linked oil tanker</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-21 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/20/nx-s1-5683321/minnesota-tim-walz-mayor-jacob-frey-subpoena" target="_blank">Minnesota Gov. Tim Walz, Minneapolis Mayor Jacob Frey have been subpoenaed by the DOJ</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-21 01:08</span>
             </div>
         </div>
 <div class="story">
@@ -87,20 +98,20 @@
                 <span class="time">2026-01-20 21:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/walz-frey-rt-gmh-260120_1768942026790_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Subpoenas served to Gov. Walz, Mayor Frey" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis ICE shooting live updates: Subpoenas served to Gov. Walz, Mayor Frey</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-20 20:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/" target="_blank">Bolna nabs $6.3M from General Catalyst for its India-focused voice orchestration platform</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-21 02:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +155,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/20/x-open-sources-its-algorithm-while-facing-a-transparency-fine-and-grok-controversies/" target="_blank">X open sources its algorithm while facing a transparency fine and Grok controversies</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-20 21:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/20/trump-administration-admits-doge-may-have-misused-americans-social-security-data/" target="_blank">Trump administration admits DOGE may have misused Americans’ Social Security data</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-20 20:56</span>
             </div>
         </div>
 </div>
@@ -234,6 +236,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/elon-1280x854.jpg" alt="Elon Musk Makes Part of X Algorithm Open Source, Says It ‘Sucks’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musk-makes-part-of-x-algorithm-open-source-says-it-sucks-2000712201" target="_blank">Elon Musk Makes Part of X Algorithm Open Source, Says It ‘Sucks’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-21 02:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Wizard-of-Oz-Sphere-1280x853.jpg" alt="Sphere’s ‘Wizard of Oz’ Re-Release Was One of 2025’s Highest Grossing Films—for One Big Reason" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -249,6 +260,15 @@
                 <span class="title"><a href="https://kotaku.com/infinite-money-glitch-switch-2-gamestop-fixed-patched-used-games-2000661415" target="_blank">‘Infinite Money Glitch’ Finally Gave People Good Deals On Trade-Ins So GameStop Killed It</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-20 23:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/defecator.jpg?fit=1108%2C684&amp;quality=60&amp;ssl=1" alt="Florida woman who &quot;defecated toward officers&quot; to avoid arrest was arrested" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/20/florida-woman-who-defecated-toward-officers-to-avoid-arrest-was-arrested.html" target="_blank">Florida woman who &quot;defecated toward officers&quot; to avoid arrest was arrested</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-20 23:08</span>
             </div>
         </div>
 <div class="story">
@@ -269,24 +289,6 @@
                 <span class="time">2026-01-20 22:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KFEKS8DMD51MCVFZJA3GFBZT/hero-image.jpg" alt="Scammers Are Targeting Your Verizon Outage Refund" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/scammers-are-targeting-your-verizon-outage-refund?utm_medium=RSS" target="_blank">Scammers Are Targeting Your Verizon Outage Refund</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-20 22:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Knight-of-the-Seven-Kingdoms-egg-dunk-1280x853.jpg" alt="A Brief Reminder of When ‘A Knight of the Seven Kingdoms’ Takes Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/knight-of-the-seven-kingdoms-timeline-game-of-thrones-house-of-the-dragon-2000712068" target="_blank">A Brief Reminder of When ‘A Knight of the Seven Kingdoms’ Takes Place</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-20 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,31 +303,13 @@
                 <span class="time">2026-01-20 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5747.png" alt="Social Grace" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5747" target="_blank">Social Grace</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-01-20 02:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/20/the-inheritance" target="_blank">The Inheritance</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-20 01:38</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 258 |
+        🔄 Last Updated: 02:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
