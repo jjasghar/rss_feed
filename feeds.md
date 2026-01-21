@@ -1,29 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-21 18:10:55 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-21 19:08:24 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 21 feeds processed -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, January 21, 2026 - 18:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, January 21, 2026 - 19:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/21/deadly-roof-collapse-at-russian-shopping-mall-after-heavy-snowfall?traffic_source=rss" target="_blank">Deadly roof collapse at Russian shopping mall after heavy snowfall</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-21 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,20 +96,29 @@
                 <span class="time">2026-01-21 17:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8689/live/24e7bfc0-f6d5-11f0-b385-5f48925de19a.jpg" alt="I will not yield to Trump&#x27;s pressure on Greenland, says PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c98j90y2y6lo?at_medium=RSS&at_campaign=rss" target="_blank">I will not yield to Trump&#x27;s pressure on Greenland, says PM</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-21 16:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" alt="$100 Off Shark Promo Code | This January" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/shark-promo-code/" target="_blank">$100 Off Shark Promo Code | This January</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-21 19:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/G_NEl2bbgAAr100-500x500.jpg" alt="Another Jeff Bezos company has announced plans to develop a megaconstellation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/01/blue-origin-we-want-to-have-a-megaconstellation-too/" target="_blank">Another Jeff Bezos company has announced plans to develop a megaconstellation</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-21 18:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/697109eb07553744ab004ef1/master/pass/012126-health-data-surveillance.jpg" alt="Surveillance and ICE Are Driving Patients Away From Medical Care, Report Warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,24 +155,6 @@
                 <span class="time">2026-01-21 16:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/696fe1a65733b4e1ddbfbf10/master/pass/politics_maga_manifest_destiny_greenland.jpg" alt="MAGA’s ‘Manifest Destiny’ Coalition Has Arrived" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/maga-manifest-destiny-coalition/" target="_blank">MAGA’s ‘Manifest Destiny’ Coalition Has Arrived</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-21 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/864595/nexphone-android-linux-windows-11" target="_blank">This midrange Android phone also runs Windows and Linux</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-21 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +170,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6q71mgilnyn4i7g3n4xs.png" alt="Simplified: AI Engineer Vs. ML Engineer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/francistrdev/simplified-ai-engineer-vs-ml-engineer-4jch" target="_blank">Simplified: AI Engineer Vs. ML Engineer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-21 18:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-wrench"></span>
@@ -176,39 +188,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/PyTorch-2.10-Released" target="_blank">PyTorch 2.10 Released With More Improvements For AMD ROCm &amp; Intel GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-21 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/affinity-on-linux/" target="_blank">I Ran the Famed Affinity Designer on Linux. Here&amp;#x27;s How It Went</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-21 17:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmdbgehalj1cfzmzdnjsr.png" alt="myRoster: from copypaste to 2-minute submissions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/lfariaus/myroster-from-copypaste-to-2-minute-submissions-dao" target="_blank">myRoster: from copypaste to 2-minute submissions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-21 17:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fketv0811x3aa00jlivvk.png" alt="5 Open-Source Resume Builders That&#x27;ll Help Get You Hired in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/srbhr/5-open-source-resume-builders-thatll-help-get-you-hired-in-2026-1b92" target="_blank">5 Open-Source Resume Builders That&#x27;ll Help Get You Hired in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-21 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/nvidia-gb10-cpu" target="_blank">The CPU Performance Of The NVIDIA GB10 With The Dell Pro Max vs. AMD Ryzen AI Max+ &quot;Strix Halo&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-21 15:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/autonomous-driving-data/en/mediumimage/kyra-mozley-medium-1768380754768.jpeg" alt="Presentation: How to Unlock Insights and Enable Discovery Within Petabytes of Autonomous Driving Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/autonomous-driving-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: How to Unlock Insights and Enable Discovery Within Petabytes of Autonomous Driving Data</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-21 15:13</span>
             </div>
         </div>
 </div>
@@ -230,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Nicholas-Galitzine-as-Prince-Adam-of-Eternia.jpg?fit=1080%2C601&amp;quality=60&amp;ssl=1" alt="Teaser trailer for new live-action He-Man" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/21/teaser-trailer-for-new-live-action-he-man.html" target="_blank">Teaser trailer for new live-action He-Man</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-21 18:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/2XKO.jpg" alt="League Of Legends Fighting Game Finally Hits Consoles But PS5 Players Say It Needs More Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +287,6 @@
                 <span class="time">2026-01-21 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/2026_Marathon_Preorder_Press_Kit_Preorder_Rewards_Compressed_001-1280x720.jpg" alt="Marathon Pre-Order Bug Forced Players To Automatically Install Destiny 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marathon-pre-order-steam-destiny-2-bug-2000661822" target="_blank">Marathon Pre-Order Bug Forced Players To Automatically Install Destiny 2</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-21 14:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 18:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 19:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
