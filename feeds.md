@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-21 20:04:48 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-21 21:05:19 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 15 new posts out of 30 feeds processed -->
+<!-- Generated 10 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, January 21, 2026 - 20:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, January 21, 2026 - 21:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +51,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/21/nx-s1-5684189/lindsey-halligan-trump-justice-us-attorney" target="_blank">Lindsey Halligan, Trump&#x27;s former personal attorney, exits Virginia prosecutor&#x27;s office</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-21 20:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-4-gty-gmh-260121_1769005144350_hpMain_4x3t_384.jpg" alt="Trump stands down on NATO tariff threat, citing &#x27;framework&#x27; for a deal on Greenland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-stands-nato-tariff-threat-citing-framework-deal/story?id=129430043" target="_blank">Trump stands down on NATO tariff threat, citing &#x27;framework&#x27; for a deal on Greenland</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-21 20:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faa6/live/48c1c240-f6fa-11f0-bb31-83eb955a217a.jpg" alt="Trump&#x27;s jibes are wearing thin for many of Europe&#x27;s leaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cd9ez1nj3n3o?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s jibes are wearing thin for many of Europe&#x27;s leaders</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-21 20:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769025477586_now_daily_b_allen_trump_framework_future_260121_1920x1080-o8iivh.jpg" alt="Trump to pause tariffs after reaching &#x27;framework&#x27; of Greenland deal with NATO" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-to-pause-tariffs-after-reaching-framework-of-greenland-deal-with-nato-256337989648" target="_blank">Trump to pause tariffs after reaching &#x27;framework&#x27; of Greenland deal with NATO</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-21 19:58</span>
             </div>
         </div>
 <div class="story">
@@ -75,38 +104,38 @@
                 <span class="time">2026-01-21 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/21/g-s1-106572/global-buzzwords-disease-x-aid-cuts-health" target="_blank">Global buzzwords that will be buzzing in your ear in 2026</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-21 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/al-jazeera-world/2026/1/21/super-saliha?traffic_source=rss" target="_blank">Super Saliha</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-21 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/european-parliament-gty-jt-260121_1769012099234_hpMain_4x3t_384.jpg" alt="European officials suspend US trade agreement amid tariff dispute over Greenland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/european-officials-suspend-us-trade-agreement-amid-tariff/story?id=129422031" target="_blank">European officials suspend US trade agreement amid tariff dispute over Greenland</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-21 17:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Tomb-Raider-hero-500x500.jpg" alt="The problem with revisiting Tomb Raider: Reacclimating to tank controls" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/01/the-problem-with-revisiting-tomb-raider-reacclimating-to-tank-controls/" target="_blank">The problem with revisiting Tomb Raider: Reacclimating to tank controls</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-21 21:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/21/apps-for-boycotting-american-products-surge-to-the-top-of-the-danish-app-store/" target="_blank">Apps for boycotting American products surge to the top of the Danish App Store</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-21 20:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc" target="_blank">Anthropic’s new Claude ‘constitution’: be helpful and honest, and don’t destroy humanity</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-21 20:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" alt="$100 Off Shark Promo Code | This January" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,33 +163,6 @@
                 <span class="time">2026-01-21 18:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/865083/samsung-galaxy-s26-battery-pack-qi2-support" target="_blank">Samsung Galaxy S26 battery pack leak points to Qi2 charging support</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-21 18:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697109eb07553744ab004ef1/master/pass/012126-health-data-surveillance.jpg" alt="Surveillance and ICE Are Driving Patients Away From Medical Care, Report Warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/surveillance-and-ice-are-driving-patients-away-from-medical-care-report-warns/" target="_blank">Surveillance and ICE Are Driving Patients Away From Medical Care, Report Warns</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-21 18:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/JPG-Full-TIM_1154_EX60_DETAIL_HIGH_FRONT-500x500.jpg" alt="Here&#x27;s Volvo&#x27;s new EX60 $60,000 electric midsize SUV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/01/heres-volvos-new-ex60-60000-electric-midsize-suv/" target="_blank">Here&#x27;s Volvo&#x27;s new EX60 $60,000 electric midsize SUV</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-21 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,18 +171,18 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-01-29 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hectorw_tt/why-programs-fail-a-guide-to-systematic-debugging-by-andreas-zeller-a-book-review-24h8" target="_blank">Why Programs Fail A Guide to Systematic Debugging by Andreas Zeller-A Book Review</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2026-01-21 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18844039&w=600" alt="The Future of Data Streaming with Apache Flink for Agentic AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/future-of-data-streaming-apache-flink-for-agentic-ai" target="_blank">The Future of Data Streaming with Apache Flink for Agentic AI</a></span>
+                <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-01-21 20:00</span>
             </div>
         </div>
@@ -240,6 +242,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/07/e3bcbbe9062247a4b248a3a60f3ece54-1280x720.jpg" alt="How A Headline Gets Written At Kotaku: Battlefield 6 Edition" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/how-a-headline-gets-written-at-kotaku-battlefield-6-edition-2000661912" target="_blank">How A Headline Gets Written At Kotaku: Battlefield 6 Edition</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-21 20:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Freren-Crunchyroll-season-2-io9-template-circle-light-1280x853.jpg" alt="If You’re Not Watching ‘Frieren,’ You’re Missing Out on the Best Fantasy Anime in Ages" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -284,20 +295,29 @@
                 <span class="time">2026-01-21 18:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/rainbowshirts.jpeg?fit=1500%2C1001&amp;quality=60&amp;ssl=1" alt="Site tells you best days to hang dry clothes outside" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/21/site-tells-you-best-days-to-hang-dry-clothes-outside.html" target="_blank">Site tells you best days to hang dry clothes outside</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-21 17:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/21/staryeet-academy" target="_blank">Staryeet Academy</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-01-21 19:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/inspire-people/" target="_blank">Inspire People</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-01-21 19:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -339,8 +359,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 20:04 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 21:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
