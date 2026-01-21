@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-21 14:07:13 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-21 15:05:34 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, January 21, 2026 - 14:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, January 21, 2026 - 15:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -176,6 +172,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/01/21/is-that-allowed-authentication-and-authorization-in-model-context-protocol/" target="_blank">Is that allowed? Authentication and authorization in Model Context Protocol</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-01-21 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18839411&w=600" alt="Why High-Availability Java Systems Fail Quietly Before They Fail Loudly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/java-high-availability-failures" target="_blank">Why High-Availability Java Systems Fail Quietly Before They Fail Loudly</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-21 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aws-builders/describe-the-training-and-fine-tuning-process-for-foundation-models-1n12" target="_blank">Describe The Training And Fine-Tuning Process For Foundation Models</a></span>
                 <span class="feed">DEV Community</span>
@@ -200,24 +214,6 @@
                 <span class="time">2026-01-21 10:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/ai-assisted-development-series/en/headerimage/ai-assisted-development-header-image-1768388299998.jpg" alt="Article Series - AI Assisted Development: Real World Patterns, Pitfalls, and Production Readiness" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/ai-assisted-development-series/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article Series - AI Assisted Development: Real World Patterns, Pitfalls, and Production Readiness</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-21 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rio14/virus-while-youre-coding-how-ai-can-compromise-your-project-30bc" target="_blank">Virus While You’re Coding: How AI Can Compromise Your Project</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-21 07:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +234,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/For-All-Mankind-Season-5-Sean-Kaufman-1280x853.jpg" alt="The First Look at ‘For All Mankind’ Season 5 Soars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/for-all-mankind-season-5-release-date-2000712233" target="_blank">The First Look at ‘For All Mankind’ Season 5 Soars</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-21 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/2026_Marathon_Preorder_Press_Kit_Preorder_Rewards_Compressed_001-1280x720.jpg" alt="Marathon Pre-Order Bug Forced Players To Automatically Install Destiny 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marathon-pre-order-steam-destiny-2-bug-2000661822" target="_blank">Marathon Pre-Order Bug Forced Players To Automatically Install Destiny 2</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-21 14:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Copy_of_Copy_of_01rockshoesideview_1600x.webp?fit=1080%2C1080&amp;quality=55&amp;ssl=1" alt="These shoes rock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/21/these-shoes-rock.html" target="_blank">These shoes rock</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-21 14:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KFGC7YZ34M3TDM3VRV3BP1BR/hero-image.png" alt="The Razer Kishi Ultra Gaming Controller Is Nearly 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/razer-kishi-gaming-controller-sale-january-2026?utm_medium=RSS" target="_blank">The Razer Kishi Ultra Gaming Controller Is Nearly 50% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-21 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/peter-claffey-danny-webb-2-1280x853.jpg" alt="Does It Matter If Dunk Was Really Knighted on ‘A Knight of the Seven Kingdoms’?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -253,42 +285,6 @@
                 <span class="title"><a href="https://gizmodo.com/holy-crap-so-many-people-watched-kpop-demon-hunters-last-year-2000712204" target="_blank">Holy Crap, So Many People Watched ‘KPop Demon Hunters’ Last Year</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-21 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/shutterstock_2382503331.jpg?fit=1000%2C639&amp;quality=60&amp;ssl=1" alt="Sony to spin off TV business" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/21/sony-to-spin-off-tv-business.html" target="_blank">Sony to spin off TV business</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-21 11:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/05/cb79fa87c30c913a9fbbf251632de056-1024x576.jpg" alt="Document Disclosures Reveal Microsoft’s Influence as OpenAI Became a Revenue-Crazed Behemoth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/document-disclosures-reveal-microsofts-influence-as-openai-became-a-revenue-crazed-behemoth-2000712308" target="_blank">Document Disclosures Reveal Microsoft’s Influence as OpenAI Became a Revenue-Crazed Behemoth</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-21 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/elon-1280x854.jpg" alt="Elon Musk Makes Part of X Algorithm Open Source, Says It ‘Sucks’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musk-makes-part-of-x-algorithm-open-source-says-it-sucks-2000712201" target="_blank">Elon Musk Makes Part of X Algorithm Open Source, Says It ‘Sucks’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-21 02:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Wizard-of-Oz-Sphere-1280x853.jpg" alt="Sphere’s ‘Wizard of Oz’ Re-Release Was One of 2025’s Highest Grossing Films—for One Big Reason" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spheres-wizard-of-oz-re-release-was-one-of-2025s-highest-grossing-films-for-one-big-reason-2000712070" target="_blank">Sphere’s ‘Wizard of Oz’ Re-Release Was One of 2025’s Highest Grossing Films—for One Big Reason</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-21 00:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 14:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 15:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
