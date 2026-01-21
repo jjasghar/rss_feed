@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-21 06:02:46 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-21 07:06:32 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, January 21, 2026 - 06:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, January 21, 2026 - 07:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/21/g-s1-106639/iran-warns-trump-khamenei" target="_blank">Iran warns Trump not to take action against Khamenei</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-21 06:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,6 +84,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/OBRIEN-J6-PARDONS-CAP-POLICE_1768955981803_hpMain_4x3t_384.jpeg" alt="A year later, some Jan. 6 rioters are emboldened by Trump&#x27;s pardons" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/year-jan-6-rioters-emboldened-trumps-pardons/story?id=129396511" target="_blank">A year later, some Jan. 6 rioters are emboldened by Trump&#x27;s pardons</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-21 02:29</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -79,29 +101,20 @@
                 <span class="time">2026-01-21 01:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/20/nx-s1-5683321/minnesota-tim-walz-mayor-jacob-frey-subpoena" target="_blank">Minnesota Gov. Tim Walz, Minneapolis Mayor Jacob Frey have been subpoenaed by the DOJ</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-21 01:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/866c/live/81d21110-f65b-11f0-ada9-edf8a48c6899.jpg" alt="Driving test cheating soars as candidates turn to Bluetooth headsets and impersonators" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2g30wwmnno?at_medium=RSS&at_campaign=rss" target="_blank">Driving test cheating soars as candidates turn to Bluetooth headsets and impersonators</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-21 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="Sealy Promo Code: Save $200 on Mattresses This Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sealy-promo-code/" target="_blank">Sealy Promo Code: Save $200 on Mattresses This Month</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-21 06:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,15 +156,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
                 <span class="title"><a href="https://www.wired.com/story/ninja-crispi-deal-126/" target="_blank">Super Savings on This Unique Air Fryer That Cooks Food in Heatproof Glass</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-20 22:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/696fdb8f1edd5d44a19b910e/master/pass/The%20Unique%20Ninja%20Air%20Fryer%20Is%20Marked%20Down.png" alt="Super Savings on This Unique Air Fryer That Cooks Food in Heat-Proof Glass" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ninja-crispi-deal-126/" target="_blank">Super Savings on This Unique Air Fryer That Cooks Food in Heat-Proof Glass</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-01-20 22:33</span>
             </div>
@@ -198,21 +202,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/anthropics/original_performance_takehome" target="_blank">Anthropic&#x27;s original take home assignment open sourced</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-21 02:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7mer7mtfdlvvkfuyr5cq.png" alt="Cómo los MCPs de AWS y los agentes de IA están cambiando mi forma de diseñar infraestructura" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/marcosferr/como-los-mcps-de-aws-y-los-agentes-de-ia-estan-cambiando-mi-forma-de-disenar-infraestructura-2e44" target="_blank">Cómo los MCPs de AWS y los agentes de IA están cambiando mi forma de diseñar infraestructura</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-21 01:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/RADV-More-Perf-Mesa-26.0" target="_blank">An Exciting Day With More Performance Optimizations Merged For RADV In Mesa 26.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-21 01:09</span>
             </div>
         </div>
 </div>
@@ -316,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 06:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 07:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
