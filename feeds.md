@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-22 08:02:31 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-22 09:06:16 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 22 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, January 22, 2026 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, January 22, 2026 - 09:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2026/1/22/does-the-world-economic-forum-still-matter-in-a-fractured-global-economy?traffic_source=rss" target="_blank">Does the World Economic Forum still matter in a fractured global economy?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-22 08:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/ice-1-rt-er-260121_1769040250087_hpMain_4x3t_384.jpg" alt="ICE memo allows agents to enter homes without judicial warrant: Whistleblowers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/22/worlds-oldest-cave-art-discovered-in-indonesias-muna-island?traffic_source=rss" target="_blank">World’s oldest cave art discovered in Indonesia’s Muna island</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-22 02:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-greenland-nato-denmark_7142105.png?20260122011635" alt="The truth behind Trump&#x27;s Greenland &#x27;deal&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/the-truth-behind-trumps-greenland-deal-13497401" target="_blank">The truth behind Trump&#x27;s Greenland &#x27;deal&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-22 02:31</span>
             </div>
         </div>
 </div>
@@ -171,6 +180,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jestersimpps/claude-cowork-the-ai-coworker-we-didnt-know-we-needed-55n9" target="_blank">Claude Cowork: The AI Coworker We Didn&#x27;t Know We Needed</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-22 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/llvm-ai-policy/" target="_blank">Open Source Project LLVM Says Yes to AI-Generated Code, But Not Without Conditions</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-22 07:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/thiraisuvadu_dev/identifier-vaikkum-peyr-5aag" target="_blank">Identifier - வைக்கும் &quot;பெயர்&quot;</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-22 07:02</span>
@@ -192,24 +219,6 @@
                 <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-26-04/" target="_blank">FOSS Weekly #26.04: Mint 22.3 Released, Stallman is Back, Ubuntu&amp;#x27;s Snap Store Under Attack and More</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-01-22 05:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/apiverve/add-daily-horoscopes-to-your-app-in-5-minutes-1a09" target="_blank">Add Daily Horoscopes to Your App in 5 Minutes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-22 04:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmvb5vlgk7tfran41bm6b.png" alt="Day 13: Nigerian Market Sales Intelligence Engine — Mastering List Comprehension &amp; Lambda in Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kinspirecyber/day-13-nigerian-market-sales-intelligence-engine-mastering-list-comprehension-lambda-in-python-1hci" target="_blank">Day 13: Nigerian Market Sales Intelligence Engine — Mastering List Comprehension &amp; Lambda in Python</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-22 03:11</span>
             </div>
         </div>
 </div>
@@ -340,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 09:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
