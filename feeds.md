@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-21 23:02:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-22 00:05:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 23 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, January 21, 2026 - 23:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, January 22, 2026 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,10 +51,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-india-report/2026/1/21/does-the-awami-league-have-a-future-in-bangladesh?traffic_source=rss" target="_blank">Does the Awami League have a future in Bangladesh?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-21 23:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-4-gty-gmh-260121_1769005144350_hpMain_4x3t_384.jpg" alt="Trump announces &#x27;framework&#x27; for a future deal on Greenland, drops NATO tariff threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-stands-nato-tariff-threat-citing-framework-deal/story?id=129430043" target="_blank">Trump announces &#x27;framework&#x27; for a future deal on Greenland, drops NATO tariff threat</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-21 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/01/21/nx-s1-5684152/bill-clinton-hillary-clinton-contempt-of-congress-vote" target="_blank">House Oversight panel votes to hold Bill and Hillary Clinton in contempt of Congress</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-21 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-syria-army-al-hol-camp_7141397.jpg?20260121101251" alt="US moves 150 Islamic State prisoners out of Syria with thousands more to follow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/us-moves-150-islamic-state-prisoners-out-of-syria-with-thousands-more-to-follow-13497338" target="_blank">US moves 150 Islamic State prisoners out of Syria with thousands more to follow</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-21 21:20</span>
             </div>
         </div>
 <div class="story">
@@ -67,33 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/21/nx-s1-5684189/lindsey-halligan-trump-justice-us-attorney" target="_blank">Lindsey Halligan, Trump&#x27;s former personal attorney, exits Virginia prosecutor&#x27;s office</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-21 20:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-4-gty-gmh-260121_1769005144350_hpMain_4x3t_384.jpg" alt="Trump stands down on NATO tariff threat, citing &#x27;framework&#x27; for a deal on Greenland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-stands-nato-tariff-threat-citing-framework-deal/story?id=129430043" target="_blank">Trump stands down on NATO tariff threat, citing &#x27;framework&#x27; for a deal on Greenland</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-21 20:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faa6/live/48c1c240-f6fa-11f0-bb31-83eb955a217a.jpg" alt="Trump&#x27;s jibes are wearing thin for many of Europe&#x27;s leaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd9ez1nj3n3o?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s jibes are wearing thin for many of Europe&#x27;s leaders</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-21 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769025477586_now_daily_b_allen_trump_framework_future_260121_1920x1080-o8iivh.jpg" alt="Trump to pause tariffs after reaching &#x27;framework&#x27; of Greenland deal with NATO" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-to-pause-tariffs-after-reaching-framework-of-greenland-deal-with-nato-256337989648" target="_blank">Trump to pause tariffs after reaching &#x27;framework&#x27; of Greenland deal with NATO</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-21 19:58</span>
             </div>
         </div>
 </div>
@@ -172,6 +178,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vishalmysore/universal-commerce-protocol-ucp-in-java-a-practical-travel-booking-implementation-with-agent-5d12" target="_blank">Universal Commerce Protocol (UCP) in Java: A Practical Travel Booking Implementation with Agent Integration</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-22 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-Linux-GLBE-GLSBE-PLZA" target="_blank">AMD Sends Out Linux Patches For Next-Gen EPYC Features: GLBE, GLSBE &amp; PLZA</a></span>
                 <span class="feed">Phoronix</span>
@@ -205,15 +220,6 @@
                 <span class="time">2026-01-21 21:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hectorw_tt/why-programs-fail-a-guide-to-systematic-debugging-by-andreas-zeller-a-book-review-24h8" target="_blank">Why Programs Fail A Guide to Systematic Debugging by Andreas Zeller-A Book Review</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-21 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/SquidGametoymask-1280x853.jpg" alt="Bring the Existential Horror of Capitalism to Your Shelf With This ‘Squid Game’ Figure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/bring-the-existential-horror-of-capitalism-to-your-shelf-with-this-squid-game-figure-2000712704" target="_blank">Bring the Existential Horror of Capitalism to Your Shelf With This ‘Squid Game’ Figure</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-21 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_739472080.jpg?fit=1200%2C787&amp;quality=60&amp;ssl=1" alt="California is completely drought-free for the first time in 25 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +291,6 @@
                 <span class="title"><a href="https://gizmodo.com/if-youre-not-watching-frieren-youre-missing-out-on-the-best-fantasy-anime-in-ages-2000712509" target="_blank">If You’re Not Watching ‘Frieren,’ You’re Missing Out on the Best Fantasy Anime in Ages</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-21 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/trump-ear.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Poll: 71% of Americans say country is &quot;out of control&quot; under Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/21/poll-71-of-americans-say-country-is-out-of-control-under-trump.html" target="_blank">Poll: 71% of Americans say country is &quot;out of control&quot; under Trump</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-21 19:37</span>
             </div>
         </div>
 </div>
@@ -351,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 23:03 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
