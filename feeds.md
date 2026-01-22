@@ -1,31 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-01-22 12:02:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-22 13:16:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Generated 11 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, January 22, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, January 22, 2026 - 13:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/22/trump-opens-board-of-peace-by-listing-countries-the-us-has-bombed?traffic_source=rss" target="_blank">Trump opens ‘Board of Peace’ by listing countries the US has bombed</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-22 12:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/22/g-s1-106787/up-first-newsletter-eu-emergency-meeting-trump-greenland-canada-scotus-fed" target="_blank">World leaders to hold emergency summit on Greenland. And, SCOTUS weighs Fed case</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-22 12:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada8/live/fddf44c0-f71f-11f0-a422-4ba8a094a8fa.jpg" alt="What we know about Trump&#x27;s  &#x27;framework of future deal&#x27; over Greenland" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +108,20 @@
                 <span class="time">2026-01-22 09:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c4/live/8ad7acf0-f775-11f0-a422-4ba8a094a8fa.jpg" alt="Two dead and several missing in New Zealand landslides" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cje11x527n4o?at_medium=RSS&at_campaign=rss" target="_blank">Two dead and several missing in New Zealand landslides</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-22 09:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/22/guinea-bissau-sets-election-date-following-last-years-coup?traffic_source=rss" target="_blank">Guinea-Bissau sets election date following last year’s coup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-22 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/865219/ubisoft-reorganization-ea-playstation-big-games" target="_blank">Big games are getting bigger — and so are the stakes</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-22 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/684cf3f15fcfa637bf965ebe/master/pass/The%20Best%20WIRED-Tested%20Organic%20Mattresses_.png" alt="Best Organic Mattresses (2026): Birch, Avocado, Naturepedic, More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,15 +167,6 @@
                 <span class="time">2026-01-21 23:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/865282/blue-origin-terawave-satellite-6tb" target="_blank">Blue Origin’s Starlink rival TeraWave promises 6-terabit satellite internet</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-21 23:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,12 +182,39 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18844393&w=600" alt="MCP Isn&#x27;t Just Convenience; It&#x27;s a Security Problem and a Governance Opportunity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/mcp-security-governance-opportunity" target="_blank">MCP Isn&#x27;t Just Convenience; It&#x27;s a Security Problem and a Governance Opportunity</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-22 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Compiler-Expert-Now-AMD" target="_blank">Prominent Intel Compiler Engineer Heads Off To AMD</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-22 11:12</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/usapopopooon/beyond-surrogate-pairs-hidden-pitfalls-in-js-character-counting-with-phpmysql-1pj7" target="_blank">Beyond Surrogate Pairs: Hidden Pitfalls in JS Character Counting with PHP/MySQL</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-22 10:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/espressif-launches-esp32-e22/" target="_blank">Espressif Launches &amp;quot;Radio Co-Processor&amp;quot; ESP32-E22</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-22 10:49</span>
             </div>
         </div>
 <div class="story">
@@ -186,33 +226,6 @@
                 <span class="time">2026-01-22 10:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/barbora_klusackova/vlog-oss-finder-01-git-push-origin-comeback-2b23" target="_blank">Vlog-OSS-Finder-01: Git Push Origin Comeback</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-22 09:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jestersimpps/claude-cowork-the-ai-coworker-we-didnt-know-we-needed-55n9" target="_blank">Claude Cowork: The AI Coworker We Didn&#x27;t Know We Needed</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-22 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/llvm-ai-policy/" target="_blank">Open Source Project LLVM Says Yes to AI-Generated Code, But Not Without Conditions</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-22 07:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -222,9 +235,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/internet-voting-is-too-insecure-for-use-in-elections.html" target="_blank">Internet Voting is Too Insecure for Use in Elections</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/why-ai-keeps-falling-for-prompt-injection-attacks.html" target="_blank">Why AI Keeps Falling for Prompt Injection Attacks</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-01-21 12:05</span>
+                <span class="time">2026-01-22 12:35</span>
             </div>
         </div>
 </div>
@@ -232,6 +245,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/05/196b0dbd28f0b97dbf7c1cf1a16d7525-1024x576.jpg" alt="Anthropic Updates Claude’s ‘Constitution,’ Just in Case Chatbot Has a Consciousness" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/anthropic-updates-claudes-constitution-just-in-case-chatbot-has-a-consciousness-2000712695" target="_blank">Anthropic Updates Claude’s ‘Constitution,’ Just in Case Chatbot Has a Consciousness</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-22 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/SamsungP9-1280x853.jpg" alt="Samsung’s Nintendo Switch 2–Optimized microSD Card Crashes to Its Lowest Price at Under $0.16 per GB" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/samsungs-nintendo-switch-2-optimized-microsd-card-crashes-to-its-lowest-price-at-under-0-16-per-gb-2000661937" target="_blank">Samsung’s Nintendo Switch 2–Optimized microSD Card Crashes to Its Lowest Price at Under $0.16 per GB</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-22 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/pbC4CBxqtTM6ju9GFFmFAS-1200-80.jpg.webp?fit=1200%2C800&amp;quality=55&amp;ssl=1" alt="What would you put on Korg&#x27;s Phase8 &quot;acoustic&quot; synthesizer?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/22/korgs-phase8-acoustic-synthesizer.html" target="_blank">What would you put on Korg&#x27;s Phase8 &quot;acoustic&quot; synthesizer?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-22 12:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/sh-movie-bad-1280x720.jpg" alt="That New Silent Hill 2 Movie Has A Horrific 7% On Rotten Tomatoes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -257,33 +297,6 @@
                 <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-21 23:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/SquidGametoymask-1280x853.jpg" alt="Bring the Existential Horror of Capitalism to Your Shelf With This ‘Squid Game’ Figure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/bring-the-existential-horror-of-capitalism-to-your-shelf-with-this-squid-game-figure-2000712704" target="_blank">Bring the Existential Horror of Capitalism to Your Shelf With This ‘Squid Game’ Figure</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-21 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_739472080.jpg?fit=1200%2C787&amp;quality=60&amp;ssl=1" alt="California is completely drought-free for the first time in 25 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/21/california-is-completely-drought-free-for-the-first-time-in-25-years.html" target="_blank">California is completely drought-free for the first time in 25 years</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-21 22:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KFBNC4DH3NPKSSCJ5S2GG58Q/hero-image.jpg" alt="The Emergency Repair Supplies Every Homeowner Should Have on Hand" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/essential-emergency-home-repair-supplies?utm_medium=RSS" target="_blank">The Emergency Repair Supplies Every Homeowner Should Have on Hand</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-21 22:00</span>
             </div>
         </div>
 </div>
@@ -341,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 146 | 📡 Total Sources: 41 | 📸 With Images: 271 |
+        🔄 Last Updated: 13:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
