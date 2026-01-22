@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-22 20:01:41 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-22 21:02:58 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, January 22, 2026 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, January 22, 2026 - 21:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,10 +46,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/22/mamdani-defends-mahmoud-khalil-on-deportation-order?traffic_source=rss" target="_blank">Mamdani defends Mahmoud Khalil on deportation order</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-22 20:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/01/22/g-s1-106899/minnesota-church-protest-arrests-pam-bondi-don-lemon" target="_blank">3 people involved in Minnesota church protest arrested; judge rejects charges against journalist</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-22 19:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769111103228_now_brk_trump_indict_smith_260122_1920x1080-0p9tw2.jpg" alt="&#x27;I will not be intimidated&#x27;: Jack Smith says he believes DOJ will try to indict him" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/jack-smith-says-he-believes-trump-s-doj-will-try-to-indict-him-256410181624" target="_blank">&#x27;I will not be intimidated&#x27;: Jack Smith says he believes DOJ will try to indict him</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-22 19:45</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +97,29 @@
                 <span class="time">2026-01-22 17:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/22/g-s1-106571/vaccine-trial-hepatitis-b-guinea-bissau" target="_blank">A vaccine trial is called &#x27;unethical&#x27; and a &#x27;unique&#x27; opportunity. Is it on or off?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-22 17:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/22/france-seizes-oil-tanker-in-mediterranean-sailing-from-russia-macron?traffic_source=rss" target="_blank">France seizes oil tanker in Mediterranean sailing from Russia: Macron</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-22 17:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Gemini-SAT-500x500.jpg" alt="Google begins offering free SAT practice tests powered by Gemini" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2026/01/google-begins-offering-free-sat-practice-tests-powered-by-gemini/" target="_blank">Google begins offering free SAT practice tests powered by Gemini</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-22 20:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/866003/ring-ice-camera-access-flock" target="_blank">Ring says it&amp;#8217;s not giving ICE access to its cameras</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-22 20:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +156,6 @@
                 <span class="time">2026-01-22 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/blue-bird-500x500.jpg" alt="Blue Origin makes impressive strides with reuse—next launch will refly booster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/01/blue-origin-makes-impressive-strides-with-reuse-next-launch-will-refly-booster/" target="_blank">Blue Origin makes impressive strides with reuse—next launch will refly booster</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-22 17:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/AI-Mode-500x500.png" alt="Google adds your Gmail and Photos to AI Mode to enable &quot;Personal Intelligence&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2026/01/google-ai-mode-can-now-customize-responses-with-your-email-and-photos/" target="_blank">Google adds your Gmail and Photos to AI Mode to enable &quot;Personal Intelligence&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-22 16:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,10 +173,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-DRM-Blob-OOM" target="_blank">Linux GPU Driver Loophole Being Fixed For Unprivileged Users Being Able To Tap Unbounded Kernel Memory</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-22 20:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/graphite-graphics-editor/" target="_blank">This Could be the Best Graphics Editor for Linux Users (Yes, it is Open Source)</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-01-22 19:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/x402-agentic-http-payments/en/headerimage/x402-agentic-http-payments-1769107870727.jpeg" alt="Open Payment Standard x402 Expands Capabilities in Major Upgrade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/x402-agentic-http-payments/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Open Payment Standard x402 Expands Capabilities in Major Upgrade</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-22 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +213,6 @@
                 <span class="title"><a href="https://dzone.com/articles/agentic-ai-with-bedrock-and-dynamodb-integration" target="_blank">Agentic AI with Bedrock and DynamoDB Integration</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-01-22 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sandeep_sarkar_48188c8362/i-built-a-p2p-blockchain-in-rust-heres-what-actually-went-wrong-4oi" target="_blank">I Built a P2P Blockchain in Rust — Here’s What Actually Went Wrong</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-22 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-xeon6-sierra-forest-2026" target="_blank">Intel Xeon 6780E &quot;Sierra Forest&quot; Linux Performance ~14% Faster Since Launch</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-22 17:00</span>
             </div>
         </div>
 </div>
@@ -237,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/maul-shadow-lord-trailer-breakdown-1280x853.jpg" alt="6 Cool Details We Spotted in the ‘Maul—Shadow Lord’ Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-wars-maul-shadow-lord-trailer-breakdown-2000713065" target="_blank">6 Cool Details We Spotted in the ‘Maul—Shadow Lord’ Trailer</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-22 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GYQZ6YVBW3A0BH2DWA176/hero-image.jpg" alt="Here&#x27;s How Long It Really Takes to Form a New Habit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/how-long-it-really-takes-to-form-habits?utm_medium=RSS" target="_blank">Here&#x27;s How Long It Really Takes to Form a New Habit</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-22 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/tank-chair-kodansha-io9-template-3-1280x853.jpg" alt="‘Tank Chair’ Proves Ultra‑Violent Manga Can Still Hit With Heart" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +288,6 @@
                 <span class="time">2026-01-22 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/fable-1280x720.jpg" alt="Fable Reboot Features ‘Seamless’ Open World And Is Launching This Fall" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fable-reboot-features-seamless-open-world-and-is-launching-this-fall-2000662295" target="_blank">Fable Reboot Features ‘Seamless’ Open World And Is Launching This Fall</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-22 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/compare-y3-1280x720.jpg" alt="Yakuza 3 Remake Ugly Alleyway Has Fans Concerned" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/yakuza-3-remake-ugly-alleyway-has-fans-concerned-graphics-downgrade-fix-mod-2000662269" target="_blank">Yakuza 3 Remake Ugly Alleyway Has Fans Concerned</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-22 18:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 21:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
