@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-22 01:30:01 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-22 02:40:56 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, January 22, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, January 22, 2026 - 02:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/22/catch-of-the-day-trump-launches-new-ice-immigration-crackdown-in-maine?traffic_source=rss" target="_blank">‘Catch of the day’: Trump launches new ICE immigration crackdown in Maine</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-22 01:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/21/nx-s1-5684331/winter-storm-extreme-cold-watch" target="_blank">Confused by all the notices issued for intense winter weather? Here&#x27;s your guide</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-22 01:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/the-india-report/2026/1/21/does-the-awami-league-have-a-future-in-bangladesh?traffic_source=rss" target="_blank">Does the Awami League have a future in Bangladesh?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-21 23:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-4-gty-gmh-260121_1769005144350_hpMain_4x3t_384.jpg" alt="Trump announces &#x27;framework&#x27; for a future deal on Greenland, drops NATO tariff threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-stands-nato-tariff-threat-citing-framework-deal/story?id=129430043" target="_blank">Trump announces &#x27;framework&#x27; for a future deal on Greenland, drops NATO tariff threat</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-21 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/21/nx-s1-5684152/bill-clinton-hillary-clinton-contempt-of-congress-vote" target="_blank">House Oversight panel votes to hold Bill and Hillary Clinton in contempt of Congress</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-21 21:30</span>
             </div>
         </div>
 </div>
@@ -175,6 +172,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/" target="_blank">Internet voting is insecure and should not be used in public elections</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-22 01:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vishalmysore/universal-commerce-protocol-ucp-in-java-a-practical-travel-booking-implementation-with-agent-5d12" target="_blank">Universal Commerce Protocol (UCP) in Java: A Practical Travel Booking Implementation with Agent Integration</a></span>
                 <span class="feed">DEV Community</span>
@@ -208,15 +214,6 @@
                 <span class="time">2026-01-21 21:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/" target="_blank">eBay Explicitly Bans AI &quot;Buy for Me&quot; Agents in User Agreement Update</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-21 21:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,12 +234,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/sh-movie-bad-1280x720.jpg" alt="That New Silent Hill 2 Movie Has A Horrific 7% On Rotten Tomatoes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/return-to-silent-hill-2-movie-review-metacritic-score-rotten-tomatoes-tomatometer-2000661964" target="_blank">That New Silent Hill 2 Movie Has A Horrific 7% On Rotten Tomatoes</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-22 00:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Bipartisan lawmakers ask judge to appoint Special Master over Epstein files, DOJ says no" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2026/01/21/bipartisan-lawmakers-ask-judge-to-appoint-special-master-over-epstein-files-doj-says-no.html" target="_blank">Bipartisan lawmakers ask judge to appoint Special Master over Epstein files, DOJ says no</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-21 23:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-21 23:11</span>
             </div>
         </div>
 <div class="story">
@@ -270,24 +285,6 @@
                 <span class="title"><a href="https://lifehacker.com/home/essential-emergency-home-repair-supplies?utm_medium=RSS" target="_blank">The Emergency Repair Supplies Every Homeowner Should Have on Hand</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-21 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/comicon.jpg?fit=1200%2C1200&amp;quality=60&amp;ssl=1" alt="San Diego Comic-Con bans AI art after artist pushback" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/21/san-diego-comic-con-bans-ai-art-after-artist-pushback.html" target="_blank">San Diego Comic-Con bans AI art after artist pushback</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-21 21:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/e3bcbbe9062247a4b248a3a60f3ece54-1280x720.jpg" alt="How A Headline Gets Written At Kotaku: Battlefield 6 Edition" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/how-a-headline-gets-written-at-kotaku-battlefield-6-edition-2000661912" target="_blank">How A Headline Gets Written At Kotaku: Battlefield 6 Edition</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-21 20:05</span>
             </div>
         </div>
 </div>
@@ -354,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 02:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
