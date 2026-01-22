@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-22 05:07:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-22 06:02:35 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, January 22, 2026 - 05:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, January 22, 2026 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jan/22/actionaid-rethink-child-sponsorship-decolonise-funding" target="_blank">ActionAid to rethink child sponsorship as part of plan to ‘decolonise’ its work</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-22 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada8/live/fddf44c0-f71f-11f0-a422-4ba8a094a8fa.jpg" alt="Trump says &#x27;framework of a future deal&#x27; discussed on Greenland as he backs off tariffs threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cgezx40r7d7o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says &#x27;framework of a future deal&#x27; discussed on Greenland as he backs off tariffs threat</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-22 03:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/minn-7-rt-gmh-260121_1769032627366_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: ICE can use force against protesters: Judge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis ICE shooting live updates: ICE can use force against protesters: Judge</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-22 03:04</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +100,20 @@
                 <span class="time">2026-01-22 01:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/21/nx-s1-5684331/winter-storm-extreme-cold-watch" target="_blank">Confused by all the notices issued for intense winter weather? Here&#x27;s your guide</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-22 01:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/22/russia-ukraine-war-list-of-key-events-day-1428?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,428</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-22 00:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" alt="Govee Discount Codes and Deals: 30% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/govee-discount-code/" target="_blank">Govee Discount Codes and Deals: 30% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-22 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +159,6 @@
                 <span class="time">2026-01-21 22:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/jimmy-kimmel-return-500x500-1758739137.jpg" alt="Trump FCC threatens to enforce equal-time rule on late-night talk shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/trump-fcc-tries-to-get-more-republicans-on-late-night-and-daytime-talk-shows/" target="_blank">Trump FCC threatens to enforce equal-time rule on late-night talk shows</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-21 21:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +171,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dev.to/images/blog/vault11_otp_generation.png" alt="Hashicorp Vault: TOTP Secrets Engine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/admantium/hashicorp-vault-totp-secrets-engine-1lp3" target="_blank">Hashicorp Vault: TOTP Secrets Engine</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-22 05:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-26-04/" target="_blank">FOSS Weekly #26.04: Mint 22.3 Released, Stallman is Back, Ubuntu&amp;#x27;s Snap Store Under Attack and More</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-22 05:07</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +216,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/nexphone-2026-convergence-android-debian" target="_blank">14 Years Later than Planned, NexPhone is Up for Preorder</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-01-22 01:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Retiring-HIPPI" target="_blank">Linux Finally Retiring HIPPI: The First Near-Gigabit Standard For Networking Supercomputers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-22 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/" target="_blank">Internet voting is insecure and should not be used in public elections</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-22 01:11</span>
             </div>
         </div>
 </div>
@@ -294,6 +297,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5749.png" alt="Always Quicksave Before Important Dialog" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5749" target="_blank">Always Quicksave Before Important Dialog</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-01-22 02:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -343,8 +355,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 05:07 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
