@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-22 17:06:49 UTC -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-01-22 18:02:31 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 23 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, January 22, 2026 - 17:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, January 22, 2026 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5423/live/aaba3ee0-f78c-11f0-b5f7-49f0357294ff.jpg" alt="US optimistic on end to war as Zelensky says Ukraine to talk to US and Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g44r22j5jo?at_medium=RSS&at_campaign=rss" target="_blank">US optimistic on end to war as Zelensky says Ukraine to talk to US and Russia</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-22 17:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/22/g-s1-106571/vaccine-trial-hepatitis-b-guinea-bissau" target="_blank">A vaccine trial is called &#x27;unethical&#x27; and a &#x27;unique&#x27; opportunity. Is it on or off?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-22 17:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/22/france-seizes-oil-tanker-in-mediterranean-sailing-from-russia-macron?traffic_source=rss" target="_blank">France seizes oil tanker in Mediterranean sailing from Russia: Macron</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-22 17:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,38 +98,20 @@
                 <span class="time">2026-01-22 14:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5423/live/aaba3ee0-f78c-11f0-b5f7-49f0357294ff.jpg" alt="Trump holds &#x27;very good talks&#x27; with Zelensky as US pushes for Ukraine deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g44r22j5jo?at_medium=RSS&at_campaign=rss" target="_blank">Trump holds &#x27;very good talks&#x27; with Zelensky as US pushes for Ukraine deal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-22 14:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/22/nx-s1-5678922/2026-oscar-nominations-academy-awards" target="_blank">See the full list of 2026 Oscar nominations</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-22 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/22/nx-s1-5678922/2026-oscar-nominations-academy-awards" target="_blank">Watch: The 2026 Oscar nominations were announced this morning</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-22 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/22/former-ceo-of-celeb-fav-gym-dogpound-launches-5m-fund-to-back-wellness-companies/" target="_blank">Former CEO of celeb fav gym Dogpound launches $5M fund to back wellness companies</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-22 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/AI-Mode-500x500.png" alt="Google adds your Gmail and Photos to AI Mode to enable &quot;Personal Intelligence&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,15 +157,6 @@
                 <span class="time">2026-01-22 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/865219/ubisoft-reorganization-ea-playstation-big-games" target="_blank">Big games are getting bigger — and so are the stakes</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-22 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +177,15 @@
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sandeep_sarkar_48188c8362/i-built-a-p2p-blockchain-in-rust-heres-what-actually-went-wrong-4oi" target="_blank">I Built a P2P Blockchain in Rust — Here’s What Actually Went Wrong</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2026-01-22 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-xeon6-sierra-forest-2026" target="_blank">Intel Xeon 6780E &quot;Sierra Forest&quot; Linux Performance ~14% Faster Since Launch</a></span>
+                <span class="feed">Phoronix</span>
                 <span class="time">2026-01-22 17:00</span>
             </div>
         </div>
@@ -204,15 +216,6 @@
                 <span class="time">2026-01-22 16:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gptzero.me/news/neurips/" target="_blank">GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-22 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/compare-y3-1280x720.jpg" alt="Yakuza 3 Remake Ugly Alleyway Has Fans Concerned" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/yakuza-3-remake-ugly-alleyway-has-fans-concerned-graphics-downgrade-fix-mod-2000662269" target="_blank">Yakuza 3 Remake Ugly Alleyway Has Fans Concerned</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-22 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Drafthouse.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="Phones will soon be allowed in Alamo Drafthouse theaters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/22/phones-will-soon-be-allowed-in-alamo-drafthouse-theaters.html" target="_blank">Phones will soon be allowed in Alamo Drafthouse theaters</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-22 16:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KFK33W2084H5016JWCYFSRS7/hero-image.jpg" alt="If You&#x27;ve Installed Any of These 17 Browser Extensions, Delete Them Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,29 +289,20 @@
                 <span class="time">2026-01-22 14:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/05/196b0dbd28f0b97dbf7c1cf1a16d7525-1024x576.jpg" alt="Anthropic Updates Claude’s ‘Constitution,’ Just in Case Chatbot Has a Consciousness" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/anthropic-updates-claudes-constitution-just-in-case-chatbot-has-a-consciousness-2000712695" target="_blank">Anthropic Updates Claude’s ‘Constitution,’ Just in Case Chatbot Has a Consciousness</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-22 13:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/SamsungP9-1280x853.jpg" alt="Samsung’s Nintendo Switch 2–Optimized microSD Card Crashes to Its Lowest Price at Under $0.16 per GB" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/samsungs-nintendo-switch-2-optimized-microsd-card-crashes-to-its-lowest-price-at-under-0-16-per-gb-2000661937" target="_blank">Samsung’s Nintendo Switch 2–Optimized microSD Card Crashes to Its Lowest Price at Under $0.16 per GB</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-22 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1768948432-20260122.png" alt="Saturday Morning Breakfast Cereal - Fertile" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/fertile" target="_blank">Saturday Morning Breakfast Cereal - Fertile</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-01-22 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5749.png" alt="Always Quicksave Before Important Dialog" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -318,22 +330,13 @@
                 <span class="time">2026-01-21 19:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/21/starfleet-academy-thoughts" target="_blank">Starfleet Academy Thoughts</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-21 18:02</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 17:06 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
