@@ -1,44 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-22 13:16:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-22 14:07:14 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 36 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, January 22, 2026 - 13:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, January 22, 2026 - 14:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/22/nx-s1-5678922/2026-oscar-nominations-academy-awards" target="_blank">Watch: The 2026 Oscar nominations were announced this morning</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-22 13:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -99,20 +103,20 @@
                 <span class="time">2026-01-22 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e23/live/22d52bd0-f777-11f0-b7ec-55c1cb544783.jpg" alt="UK holds off joining Trump&#x27;s Board of Peace over Putin concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp9jj1j74ggo?at_medium=RSS&at_campaign=rss" target="_blank">UK holds off joining Trump&#x27;s Board of Peace over Putin concerns</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-22 09:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6850718637f9c81d268491d5/master/pass/The%20Best%20Switch%202%20Accessories.png" alt="Best Nintendo Switch 2 Accessories (2026): Controllers, Cases, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-switch-2-accessories/" target="_blank">Best Nintendo Switch 2 Accessories (2026): Controllers, Cases, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-22 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -158,15 +162,6 @@
                 <span class="time">2026-01-22 00:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/judges-gavel-500x500.jpg" alt="Judge orders stop to FBI search of devices seized from Washington Post reporter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/judge-orders-stop-to-fbi-search-of-devices-seized-from-washington-post-reporter/" target="_blank">Judge orders stop to FBI search of devices seized from Washington Post reporter</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-21 23:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -188,6 +183,15 @@
                 <span class="title"><a href="https://dzone.com/articles/mcp-security-governance-opportunity" target="_blank">MCP Isn&#x27;t Just Convenience; It&#x27;s a Security Problem and a Governance Opportunity</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-01-22 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/data-sovereignty-trust-framework/en/headerimage/header-data-sovereignty-trust-framework-1768213121519.jpg" alt="European Initiative for Data Sovereignty Released a Trust Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/data-sovereignty-trust-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">European Initiative for Data Sovereignty Released a Trust Framework</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-22 11:47</span>
             </div>
         </div>
 <div class="story">
@@ -217,15 +221,6 @@
                 <span class="time">2026-01-22 10:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/aws-european-sovereign-cloud/en/headerimage/generatedHeaderImage-1768988369402.jpg" alt="AWS Launches European Sovereign Cloud Amid Questions About U.S. Legal Jurisdiction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/aws-european-sovereign-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches European Sovereign Cloud Amid Questions About U.S. Legal Jurisdiction</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-22 10:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/ugreen-dock-1280x853.jpg" alt="UGREEN’s 6-in-1 Steam Deck Dock Is Now the Cheapest Way to Upgrade Your Handheld Setup After a Deep Discount (Works With ROG Ally X, Legion Go, MacBook, and More)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ugreens-6-in-1-steam-deck-dock-is-now-the-cheapest-way-to-upgrade-your-handheld-setup-after-a-deep-discount-works-with-rog-ally-x-legion-go-macbook-and-more-2000661995" target="_blank">UGREEN’s 6-in-1 Steam Deck Dock Is Now the Cheapest Way to Upgrade Your Handheld Setup After a Deep Discount (Works With ROG Ally X, Legion Go, MacBook, and More)</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-22 14:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/05/196b0dbd28f0b97dbf7c1cf1a16d7525-1024x576.jpg" alt="Anthropic Updates Claude’s ‘Constitution,’ Just in Case Chatbot Has a Consciousness" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +292,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/21/bipartisan-lawmakers-ask-judge-to-appoint-special-master-over-epstein-files-doj-says-no.html" target="_blank">Bipartisan lawmakers ask judge to appoint Special Master over Epstein files, DOJ says no</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-21 23:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-21 23:11</span>
             </div>
         </div>
 </div>
@@ -354,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 146 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 13:16 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 14:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
