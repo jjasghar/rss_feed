@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-01-22 16:04:20 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-01-22 17:06:49 UTC -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Kotaku -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, January 22, 2026 - 16:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, January 22, 2026 - 17:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,12 +51,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Former special counsel Jack Smith testifies on Trump investigations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Former special counsel Jack Smith testifies on Trump investigations</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-22 15:24</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/22/club-brugge-fans-jailed-for-impersonating-borat-in-kazakhstan?traffic_source=rss" target="_blank">Club Brugge fans jailed for impersonating Borat in Kazakhstan</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-22 14:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5423/live/aaba3ee0-f78c-11f0-b5f7-49f0357294ff.jpg" alt="Trump holds &#x27;very good talks&#x27; with Zelensky as US pushes for Ukraine deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g44r22j5jo?at_medium=RSS&at_campaign=rss" target="_blank">Trump holds &#x27;very good talks&#x27; with Zelensky as US pushes for Ukraine deal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-22 14:23</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +95,20 @@
                 <span class="time">2026-01-22 13:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/22/trump-opens-board-of-peace-by-listing-countries-the-us-has-bombed?traffic_source=rss" target="_blank">Trump opens ‘Board of Peace’ by listing countries the US has bombed</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-22 12:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260122-greenland-mb-1151-535b92.jpg" alt="Trump sought Greenland deal that would hand U.S. more control over security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/greenland/trump-greenland-deal-us-control-security-arctic-nato-denmark-rcna255360" target="_blank">Trump sought Greenland deal that would hand U.S. more control over security</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-22 12:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/AI-Mode-500x500.png" alt="Google adds your Gmail and Photos to AI Mode to enable &quot;Personal Intelligence&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2026/01/google-ai-mode-can-now-customize-responses-with-your-email-and-photos/" target="_blank">Google adds your Gmail and Photos to AI Mode to enable &quot;Personal Intelligence&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-22 16:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +154,6 @@
                 <span class="time">2026-01-22 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/684cf3f15fcfa637bf965ebe/master/pass/The%20Best%20WIRED-Tested%20Organic%20Mattresses_.png" alt="Best Organic Mattresses (2026): Birch, Avocado, Naturepedic, More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-organic-mattress/" target="_blank">Best Organic Mattresses (2026): Birch, Avocado, Naturepedic, More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-22 10:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +172,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sandeep_sarkar_48188c8362/i-built-a-p2p-blockchain-in-rust-heres-what-actually-went-wrong-4oi" target="_blank">I Built a P2P Blockchain in Rust — Here’s What Actually Went Wrong</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-22 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-xeon6-sierra-forest-2026" target="_blank">Intel Xeon 67980E &quot;Sierra Forest&quot; Linux Performance ~14% Faster Since Launch</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-22 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/plasma-login-manager-drops-freebsd/" target="_blank">FreeBSD is a No-Go for KDE&amp;#x27;s Plasma Login Manager</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-22 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-total-recall-1990-in-18-minutes-or-less-2igf" target="_blank">CinemaSins: Everything Wrong With Total Recall (1990) In 18 Minutes Or Less</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-22 16:01</span>
@@ -187,33 +211,6 @@
                 <span class="title"><a href="https://gptzero.me/news/neurips/" target="_blank">GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-22 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/_75729aa6b13e505e279f7/building-a-pta-tax-calculator-with-nextjs-16-react-19-59lj" target="_blank">Building a PTA Tax Calculator with Next.js 16 &amp; React 19</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-22 15:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/" target="_blank">Build an agent into any app with the GitHub Copilot SDK</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-01-22 15:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-PTL-IPU7-Firmware-Go" target="_blank">Updated Intel Panther Lake IPU Firmware Published With New Features &amp; Bug Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-22 14:54</span>
             </div>
         </div>
 </div>
@@ -235,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KFK33W2084H5016JWCYFSRS7/hero-image.jpg" alt="If You&#x27;ve Installed Any of These 17 Browser Extensions, Delete Them Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/delete-malicious-ghostposter-browser-extensions?utm_medium=RSS" target="_blank">If You&#x27;ve Installed Any of These 17 Browser Extensions, Delete Them Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-22 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/Widow-MArvel.jpg" alt="Casual $40,000 Marvel Rivals Creator Tournament Sparks A Ton Of Online Drama" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +286,6 @@
                 <span class="time">2026-01-22 13:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/pbC4CBxqtTM6ju9GFFmFAS-1200-80.jpg.webp?fit=1200%2C800&amp;quality=55&amp;ssl=1" alt="What would you put on Korg&#x27;s Phase8 &quot;acoustic&quot; synthesizer?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/22/korgs-phase8-acoustic-synthesizer.html" target="_blank">What would you put on Korg&#x27;s Phase8 &quot;acoustic&quot; synthesizer?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-22 12:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,22 +327,13 @@
                 <span class="time">2026-01-21 18:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1768948013-20260121.png" alt="Saturday Morning Breakfast Cereal - Unified" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/unified-2" target="_blank">Saturday Morning Breakfast Cereal - Unified</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-21 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 16:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 17:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
