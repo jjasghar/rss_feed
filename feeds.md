@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-22 15:05:14 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-01-22 16:04:20 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 13 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, January 22, 2026 - 15:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, January 22, 2026 - 16:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,9 +48,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/22/who-got-the-most-nods-the-complete-list-of-2026-oscar-nominations?traffic_source=rss" target="_blank">Who got the most nods? The complete list of 2026 Oscar nominations</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-22 15:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/22/club-brugge-fans-jailed-for-impersonating-borat-in-kazakhstan?traffic_source=rss" target="_blank">Club Brugge fans jailed for impersonating Borat in Kazakhstan</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-22 14:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/22/nx-s1-5678922/2026-oscar-nominations-academy-awards" target="_blank">See the full list of 2026 Oscar nominations</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-22 13:30</span>
             </div>
         </div>
 <div class="story">
@@ -75,30 +90,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260122-greenland-mb-1151-535b92.jpg" alt="Trump sought Greenland deal that would hand U.S. more control over security" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/22/g-s1-106787/up-first-newsletter-eu-emergency-meeting-trump-greenland-canada-scotus-fed" target="_blank">World leaders to hold emergency summit on Greenland. And, SCOTUS weighs Fed case</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-22 12:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada8/live/fddf44c0-f71f-11f0-a422-4ba8a094a8fa.jpg" alt="What we know about Trump&#x27;s  &#x27;framework of future deal&#x27; over Greenland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c86vvjxe9z7o?at_medium=RSS&at_campaign=rss" target="_blank">What we know about Trump&#x27;s  &#x27;framework of future deal&#x27; over Greenland</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-22 11:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/trump-main_1769079141632_hpMain_4x3t_384.jpg" alt="Trump hosts signing ceremony for Board of Peace in Davos despite key holdouts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-plans-signing-ceremony-board-peace-davos-despite/story?id=129427679" target="_blank">Trump hosts signing ceremony for Board of Peace in Davos despite key holdouts</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-22 11:19</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/greenland/trump-greenland-deal-us-control-security-arctic-nato-denmark-rcna255360" target="_blank">Trump sought Greenland deal that would hand U.S. more control over security</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-22 12:10</span>
             </div>
         </div>
 </div>
@@ -106,6 +103,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/865548/google-ai-mode-search-personal-intelligence-update" target="_blank">Google Search AI Mode can use Gmail and Photos to get to know you</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-22 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +157,6 @@
                 <span class="time">2026-01-22 10:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" alt="Govee Discount Codes and Deals: 30% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/govee-discount-code/" target="_blank">Govee Discount Codes and Deals: 30% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-22 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +169,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-total-recall-1990-in-18-minutes-or-less-2igf" target="_blank">CinemaSins: Everything Wrong With Total Recall (1990) In 18 Minutes Or Less</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-22 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gptzero.me/news/neurips/" target="_blank">GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-22 15:20</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +216,6 @@
                 <span class="time">2026-01-22 14:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18840969&w=600" alt="Data Engineering: Strategies for Data Retrieval on Multi-Dimensional Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/data-engineering-multidimensional-data-retrieval" target="_blank">Data Engineering: Strategies for Data Retrieval on Multi-Dimensional Data</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-22 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18844393&w=600" alt="MCP Isn&#x27;t Just Convenience; It&#x27;s a Security Problem and a Governance Opportunity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/mcp-security-governance-opportunity" target="_blank">MCP Isn&#x27;t Just Convenience; It&#x27;s a Security Problem and a Governance Opportunity</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-22 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/Widow-MArvel.jpg" alt="Casual $40,000 Marvel Rivals Creator Tournament Sparks A Ton Of Online Drama" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kingsman-zazzastack-marvel-rivals-black-widow-deadpool-cup-2000662244" target="_blank">Casual $40,000 Marvel Rivals Creator Tournament Sparks A Ton Of Online Drama</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-22 16:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/Samsung-Galaxy-Tab-S10-Lite-1280x853.jpg" alt="Samsung Drops the Galaxy Tab S10 Lite With Its Biggest Discount of the Year While iPad Prices Stay Frozen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +287,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/22/korgs-phase8-acoustic-synthesizer.html" target="_blank">What would you put on Korg&#x27;s Phase8 &quot;acoustic&quot; synthesizer?</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-22 12:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/sh-movie-bad-1280x720.jpg" alt="That New Silent Hill 2 Movie Has A Horrific 7% On Rotten Tomatoes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/return-to-silent-hill-2-movie-review-metacritic-score-rotten-tomatoes-tomatometer-2000661964" target="_blank">That New Silent Hill 2 Movie Has A Horrific 7% On Rotten Tomatoes</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-22 00:15</span>
             </div>
         </div>
 </div>
@@ -347,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 146 | 📡 Total Sources: 41 | 📸 With Images: 270 |
-        🔄 Last Updated: 15:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 16:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
