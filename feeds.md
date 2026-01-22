@@ -1,35 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-01-22 03:30:55 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-22 04:19:28 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, January 22, 2026 - 03:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, January 22, 2026 - 04:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +54,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada8/live/fddf44c0-f71f-11f0-a422-4ba8a094a8fa.jpg" alt="Trump says &#x27;framework of a future deal&#x27; discussed on Greenland as he backs off tariffs threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgezx40r7d7o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says &#x27;framework of a future deal&#x27; discussed on Greenland as he backs off tariffs threat</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-22 03:36</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/22/worlds-oldest-cave-art-discovered-in-indonesias-muna-island?traffic_source=rss" target="_blank">World’s oldest cave art discovered in Indonesia’s Muna island</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-22 02:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-greenland-nato-denmark_7142105.png?20260122011635" alt="The truth behind Trump&#x27;s Greenland &#x27;deal&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/the-truth-behind-trumps-greenland-deal-13497401" target="_blank">The truth behind Trump&#x27;s Greenland &#x27;deal&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-22 02:31</span>
             </div>
         </div>
 <div class="story">
@@ -79,24 +105,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/22/russia-ukraine-war-list-of-key-events-day-1428?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,428</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-22 00:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-trump-davos_7142097.jpg?20260122000237" alt="Trump&#x27;s Greenland climbdown: Don&#x27;t let it fool you, this crisis is far from over for NATO" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trumps-greenland-climbdown-dont-let-it-fool-you-this-crisis-is-far-from-over-for-nato-13497397" target="_blank">Trump&#x27;s Greenland climbdown: Don&#x27;t let it fool you, this crisis is far from over for NATO</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-22 00:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769039242437_nn_pal_trump_greenland_260121_1920x1080-lp2rtl.jpg" alt="Trump announces ‘framework’ deal on Greenland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-announces-framework-deal-on-greenland-256354885932" target="_blank">Trump announces ‘framework’ deal on Greenland</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-21 23:47</span>
             </div>
         </div>
 </div>
@@ -173,6 +181,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/apiverve/add-daily-horoscopes-to-your-app-in-5-minutes-1a09" target="_blank">Add Daily Horoscopes to Your App in 5 Minutes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-22 04:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmvb5vlgk7tfran41bm6b.png" alt="Day 13: Nigerian Market Sales Intelligence Engine — Mastering List Comprehension &amp; Lambda in Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +223,6 @@
                 <span class="title"><a href="https://dev.to/vishalmysore/universal-commerce-protocol-ucp-in-java-a-practical-travel-booking-implementation-with-agent-5d12" target="_blank">Universal Commerce Protocol (UCP) in Java: A Practical Travel Booking Implementation with Agent Integration</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-22 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Linux-GLBE-GLSBE-PLZA" target="_blank">AMD Sends Out Linux Patches For Next-Gen EPYC Features: GLBE, GLSBE &amp; PLZA</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-21 22:48</span>
             </div>
         </div>
 </div>
@@ -354,8 +362,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 03:31 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 04:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
