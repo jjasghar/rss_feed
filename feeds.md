@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-22 09:06:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-22 10:03:29 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
+<!-- Processing: Krebs on Security -->
 <!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, January 22, 2026 - 09:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, January 22, 2026 - 10:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e23/live/22d52bd0-f777-11f0-b7ec-55c1cb544783.jpg" alt="UK holds off joining Trump&#x27;s Board of Peace over Putin concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp9jj1j74ggo?at_medium=RSS&at_campaign=rss" target="_blank">UK holds off joining Trump&#x27;s Board of Peace over Putin concerns</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-22 09:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c4/live/8ad7acf0-f775-11f0-a422-4ba8a094a8fa.jpg" alt="Two dead and several missing in New Zealand landslides" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cje11x527n4o?at_medium=RSS&at_campaign=rss" target="_blank">Two dead and several missing in New Zealand landslides</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-22 09:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/22/guinea-bissau-sets-election-date-following-last-years-coup?traffic_source=rss" target="_blank">Guinea-Bissau sets election date following last year’s coup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-22 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,33 +100,6 @@
                 <span class="title"><a href="https://www.theguardian.com/global-development/2026/jan/22/actionaid-rethink-child-sponsorship-decolonise-funding" target="_blank">ActionAid to rethink child sponsorship as part of plan to ‘decolonise’ its work</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-01-22 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada8/live/fddf44c0-f71f-11f0-a422-4ba8a094a8fa.jpg" alt="Trump says &#x27;framework of a future deal&#x27; discussed on Greenland as he backs off tariffs threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgezx40r7d7o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says &#x27;framework of a future deal&#x27; discussed on Greenland as he backs off tariffs threat</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-22 03:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/minn-7-rt-gmh-260121_1769032627366_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: ICE can use force against protesters: Judge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis ICE shooting live updates: ICE can use force against protesters: Judge</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-22 03:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/22/worlds-oldest-cave-art-discovered-in-indonesias-muna-island?traffic_source=rss" target="_blank">World’s oldest cave art discovered in Indonesia’s Muna island</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-22 02:57</span>
             </div>
         </div>
 </div>
@@ -180,6 +179,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/barbora_klusackova/vlog-oss-finder-01-git-push-origin-comeback-2b23" target="_blank">Vlog-OSS-Finder-01: Git Push Origin Comeback</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-22 09:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jestersimpps/claude-cowork-the-ai-coworker-we-didnt-know-we-needed-55n9" target="_blank">Claude Cowork: The AI Coworker We Didn&#x27;t Know We Needed</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-22 09:00</span>
@@ -210,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/admantium/hashicorp-vault-totp-secrets-engine-1lp3" target="_blank">Hashicorp Vault: TOTP Secrets Engine</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-22 05:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-26-04/" target="_blank">FOSS Weekly #26.04: Mint 22.3 Released, Stallman is Back, Ubuntu&amp;#x27;s Snap Store Under Attack and More</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-22 05:07</span>
             </div>
         </div>
 </div>
@@ -349,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 09:06 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 10:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
