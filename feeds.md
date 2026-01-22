@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-22 06:02:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-22 07:05:32 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, January 22, 2026 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, January 22, 2026 - 07:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/ice-1-rt-er-260121_1769040250087_hpMain_4x3t_384.jpg" alt="ICE memo allows agents to enter homes without judicial warrant: Whistleblowers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/ice-memo-allows-agents-enter-homes-judicial-warrant/story?id=129436766" target="_blank">ICE memo allows agents to enter homes without judicial warrant: Whistleblowers</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-22 06:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +95,6 @@
                 <span class="title"><a href="https://news.sky.com/story/the-truth-behind-trumps-greenland-deal-13497401" target="_blank">The truth behind Trump&#x27;s Greenland &#x27;deal&#x27;</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-01-22 02:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/22/catch-of-the-day-trump-launches-new-ice-immigration-crackdown-in-maine?traffic_source=rss" target="_blank">‘Catch of the day’: Trump launches new ICE immigration crackdown in Maine</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-22 01:25</span>
             </div>
         </div>
 </div>
@@ -174,6 +171,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thiraisuvadu_dev/identifier-vaikkum-peyr-5aag" target="_blank">Identifier - வைக்கும் &quot;பெயர்&quot;</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-22 07:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dev.to/images/blog/vault11_otp_generation.png" alt="Hashicorp Vault: TOTP Secrets Engine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/kinspirecyber/day-13-nigerian-market-sales-intelligence-engine-mastering-list-comprehension-lambda-in-python-1hci" target="_blank">Day 13: Nigerian Market Sales Intelligence Engine — Mastering List Comprehension &amp; Lambda in Python</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-22 03:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/nexphone-collage.jpg?resize=406%2C232&amp;ssl=1" alt="14 Years Later than Planned, NexPhone is Up for Preorder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/nexphone-2026-convergence-android-debian" target="_blank">14 Years Later than Planned, NexPhone is Up for Preorder</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-22 01:50</span>
             </div>
         </div>
 </div>
@@ -355,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 07:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
