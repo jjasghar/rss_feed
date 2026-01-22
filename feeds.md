@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-22 21:02:58 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-22 22:01:31 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, January 22, 2026 - 21:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, January 22, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/jack-smith-15-gty-gmh-260122_1769108113426_hpMain_4x3t_384.jpg" alt="&#x27;Donald Trump is the person who caused Jan. 6,&#x27; Jack Smith tells House committee" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/former-special-counsel-jack-smith-testify-front-house/story?id=129420778" target="_blank">&#x27;Donald Trump is the person who caused Jan. 6,&#x27; Jack Smith tells House committee</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-22 21:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,6 +83,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-ukraine-volodymyr-zelenskyy_7143033.jpg?20260122202247" alt="Truth bombs fall on Europe that can&#x27;t act without US and is stuck in a Groundhog Day-style doom loop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/volodymyr-zelenskyy-europe-cant-act-without-us-leadership-and-is-stuck-in-a-groundhog-day-style-doom-loop-ukrainian-president-says-13497797" target="_blank">Truth bombs fall on Europe that can&#x27;t act without US and is stuck in a Groundhog Day-style doom loop</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-22 19:44</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -79,29 +100,29 @@
                 <span class="time">2026-01-22 18:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5423/live/aaba3ee0-f78c-11f0-b5f7-49f0357294ff.jpg" alt="&#x27;It&#x27;s all about the land&#x27;: Zelensky says Ukraine to talk to US and Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g44r22j5jo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;It&#x27;s all about the land&#x27;: Zelensky says Ukraine to talk to US and Russia</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-22 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5423/live/aaba3ee0-f78c-11f0-b5f7-49f0357294ff.jpg" alt="US optimistic on end to war as Zelensky says Ukraine to talk to US and Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g44r22j5jo?at_medium=RSS&at_campaign=rss" target="_blank">US optimistic on end to war as Zelensky says Ukraine to talk to US and Russia</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-22 17:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/" target="_blank">Are AI agents ready for the workplace? A new benchmark raises doubts.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-22 21:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69725edc4987ee01eb7d27c9/master/pass/Elon-Musk-Predictions-Davos-Gear-2256975235.jpg" alt="Elon Musk Sure Made Lots of Predictions at Davos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/elon-musk-sure-made-lots-of-predictions-at-davos/" target="_blank">Elon Musk Sure Made Lots of Predictions at Davos</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-22 20:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Gemini-SAT-500x500.jpg" alt="Google begins offering free SAT practice tests powered by Gemini" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,24 +159,6 @@
                 <span class="time">2026-01-22 19:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697159f166613a243527a63c/master/pass/Model-Behavior-Whats-Really-Driving-Claude-Codes-Success-Business.jpg" alt="How Claude Code Is Reshaping Software—and Anthropic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/claude-code-success-anthropic-business-model/" target="_blank">How Claude Code Is Reshaping Software—and Anthropic</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-22 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/22/former-ceo-of-celeb-fav-gym-dogpound-launches-5m-fund-to-back-wellness-companies/" target="_blank">Former CEO of celeb fav gym Dogpound launches $5M fund to back wellness companies</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-22 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +171,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmql5i26hjuys998p5hcq.png" alt="Distributed Scraping: The Flask + Celery + Redis Stack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/deepak_mishra_35863517037/distributed-scraping-the-flask-celery-redis-stack-17d3" target="_blank">Distributed Scraping: The Flask + Celery + Redis Stack</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-22 22:00</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +218,6 @@
                 <span class="time">2026-01-22 18:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18845638&w=600" alt="Agentic AI with Bedrock and DynamoDB Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/agentic-ai-with-bedrock-and-dynamodb-integration" target="_blank">Agentic AI with Bedrock and DynamoDB Integration</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-22 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +243,15 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/star-wars-maul-shadow-lord-trailer-breakdown-2000713065" target="_blank">6 Cool Details We Spotted in the ‘Maul—Shadow Lord’ Trailer</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-22 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KFKNQSZQJMDTC2Z5YQRWGVC6/hero-image.png" alt="How to Stop This New Pixel Bug From Leaking Your Audio to Incoming Callers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/pixel-bug-take-a-message?utm_medium=RSS" target="_blank">How to Stop This New Pixel Bug From Leaking Your Audio to Incoming Callers</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-22 21:00</span>
             </div>
         </div>
@@ -279,15 +291,6 @@
                 <span class="time">2026-01-22 19:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Cobra-Kai-original-location-1280x853.jpg" alt="‘Cobra Kai’ Is Getting the Dream Physical Release It Deserves" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/cobra-kai-is-getting-the-dream-physical-release-it-deserves-2000713011" target="_blank">‘Cobra Kai’ Is Getting the Dream Physical Release It Deserves</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-22 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 21:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
