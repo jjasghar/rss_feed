@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-22 14:07:14 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-22 15:05:14 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 13 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, January 22, 2026 - 14:07 UTC</div>
+    <div class="newspaper-date">Thursday, January 22, 2026 - 15:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/22/club-brugge-fans-jailed-for-impersonating-borat-in-kazakhstan?traffic_source=rss" target="_blank">Club Brugge fans jailed for impersonating Borat in Kazakhstan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-22 14:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,21 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769078379609_now_brk_trump_consequential_260122_1920x1080-7xh9w1.jpg" alt="Trump: Board of Peace could be ‘most consequential bodies ever created’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://s.abcnews.com/images/International/trump-main_1769079141632_hpMain_4x3t_384.jpg" alt="Trump hosts signing ceremony for Board of Peace in Davos despite key holdouts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-board-of-peace-could-be-most-consequential-bodies-ever-created-256379461880" target="_blank">Trump: Board of Peace could be ‘most consequential bodies ever created’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-22 10:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/22/nx-s1-5683936/trump-ice-greenland-focus-group" target="_blank">Some voters who backed Trump say ICE is going &#x27;too far&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-22 10:00</span>
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-plans-signing-ceremony-board-peace-davos-despite/story?id=129427679" target="_blank">Trump hosts signing ceremony for Board of Peace in Davos despite key holdouts</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-22 11:19</span>
             </div>
         </div>
 </div>
@@ -108,6 +106,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill" target="_blank">This plugin uses Wikipedia&amp;#8217;s AI-spotting guide to make AI writing sound more human</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-22 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/news-012226a-lg-500x500.jpg" alt="All sorts of interesting flags and artifacts will fly to the Moon on Artemis II" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/01/nasa-to-fly-apollo-aviation-artifacts-on-artemis-ii/" target="_blank">All sorts of interesting flags and artifacts will fly to the Moon on Artemis II</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-22 14:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6850718637f9c81d268491d5/master/pass/The%20Best%20Switch%202%20Accessories.png" alt="Best Nintendo Switch 2 Accessories (2026): Controllers, Cases, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,24 +160,6 @@
                 <span class="time">2026-01-22 06:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists" target="_blank">Hundreds of creatives warn against an AI slop future</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-22 05:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/" target="_blank">Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-22 00:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -177,48 +175,48 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18844393&w=600" alt="MCP Isn&#x27;t Just Convenience; It&#x27;s a Security Problem and a Governance Opportunity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/mcp-security-governance-opportunity" target="_blank">MCP Isn&#x27;t Just Convenience; It&#x27;s a Security Problem and a Governance Opportunity</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-22 13:00</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/_75729aa6b13e505e279f7/building-a-pta-tax-calculator-with-nextjs-16-react-19-59lj" target="_blank">Building a PTA Tax Calculator with Next.js 16 &amp; React 19</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-22 15:02</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2026/01/data-sovereignty-trust-framework/en/headerimage/header-data-sovereignty-trust-framework-1768213121519.jpg" alt="European Initiative for Data Sovereignty Released a Trust Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/data-sovereignty-trust-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">European Initiative for Data Sovereignty Released a Trust Framework</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-22 11:47</span>
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/" target="_blank">Build an agent into any app with the GitHub Copilot SDK</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-01-22 15:01</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Compiler-Expert-Now-AMD" target="_blank">Prominent Intel Compiler Engineer Heads Off To AMD</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-PTL-IPU7-Firmware-Go" target="_blank">Updated Intel Panther Lake IPU Firmware Published With New Features &amp; Bug Fixes</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-01-22 11:12</span>
+                <span class="time">2026-01-22 14:54</span>
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18840969&w=600" alt="Data Engineering: Strategies for Data Retrieval on Multi-Dimensional Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/usapopopooon/beyond-surrogate-pairs-hidden-pitfalls-in-js-character-counting-with-phpmysql-1pj7" target="_blank">Beyond Surrogate Pairs: Hidden Pitfalls in JS Character Counting with PHP/MySQL</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-22 10:54</span>
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/data-engineering-multidimensional-data-retrieval" target="_blank">Data Engineering: Strategies for Data Retrieval on Multi-Dimensional Data</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-22 14:00</span>
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18844393&w=600" alt="MCP Isn&#x27;t Just Convenience; It&#x27;s a Security Problem and a Governance Opportunity" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/espressif-launches-esp32-e22/" target="_blank">Espressif Launches &amp;quot;Radio Co-Processor&amp;quot; ESP32-E22</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-22 10:49</span>
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/mcp-security-governance-opportunity" target="_blank">MCP Isn&#x27;t Just Convenience; It&#x27;s a Security Problem and a Governance Opportunity</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-22 13:00</span>
             </div>
         </div>
 </div>
@@ -240,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/Samsung-Galaxy-Tab-S10-Lite-1280x853.jpg" alt="Samsung Drops the Galaxy Tab S10 Lite With Its Biggest Discount of the Year While iPad Prices Stay Frozen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/samsung-drops-the-galaxy-tab-s10-lite-with-its-biggest-discount-of-the-year-while-ipad-prices-stay-frozen-2000661993" target="_blank">Samsung Drops the Galaxy Tab S10 Lite With Its Biggest Discount of the Year While iPad Prices Stay Frozen</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-22 14:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/ugreen-dock-1280x853.jpg" alt="UGREEN’s 6-in-1 Steam Deck Dock Is Now the Cheapest Way to Upgrade Your Handheld Setup After a Deep Discount (Works With ROG Ally X, Legion Go, MacBook, and More)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/return-to-silent-hill-2-movie-review-metacritic-score-rotten-tomatoes-tomatometer-2000661964" target="_blank">That New Silent Hill 2 Movie Has A Horrific 7% On Rotten Tomatoes</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-22 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Bipartisan lawmakers ask judge to appoint Special Master over Epstein files, DOJ says no" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/21/bipartisan-lawmakers-ask-judge-to-appoint-special-master-over-epstein-files-doj-says-no.html" target="_blank">Bipartisan lawmakers ask judge to appoint Special Master over Epstein files, DOJ says no</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-21 23:31</span>
             </div>
         </div>
 </div>
@@ -349,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 14:07 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 146 | 📡 Total Sources: 41 | 📸 With Images: 270 |
+        🔄 Last Updated: 15:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
