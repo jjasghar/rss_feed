@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-22 18:02:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-22 19:05:29 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, January 22, 2026 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, January 22, 2026 - 19:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/22/trumps-board-of-peace-sees-hamas-disarmed-and-glitzy-gaza-towers?traffic_source=rss" target="_blank">Trump’s ‘Board of Peace’ sees Hamas disarmed and glitzy Gaza towers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-22 18:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5423/live/aaba3ee0-f78c-11f0-b5f7-49f0357294ff.jpg" alt="US optimistic on end to war as Zelensky says Ukraine to talk to US and Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +100,6 @@
                 <span class="time">2026-01-22 15:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/22/club-brugge-fans-jailed-for-impersonating-borat-in-kazakhstan?traffic_source=rss" target="_blank">Club Brugge fans jailed for impersonating Borat in Kazakhstan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-22 14:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,6 +112,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/22/former-ceo-of-celeb-fav-gym-dogpound-launches-5m-fund-to-back-wellness-companies/" target="_blank">Former CEO of celeb fav gym Dogpound launches $5M fund to back wellness companies</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-22 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/blue-bird-500x500.jpg" alt="Blue Origin makes impressive strides with reuse—next launch will refly booster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/01/blue-origin-makes-impressive-strides-with-reuse-next-launch-will-refly-booster/" target="_blank">Blue Origin makes impressive strides with reuse—next launch will refly booster</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-22 17:49</span>
             </div>
         </div>
 <div class="story">
@@ -148,15 +159,6 @@
                 <span class="time">2026-01-22 14:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6850718637f9c81d268491d5/master/pass/The%20Best%20Switch%202%20Accessories.png" alt="Best Nintendo Switch 2 Accessories (2026): Controllers, Cases, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-switch-2-accessories/" target="_blank">Best Nintendo Switch 2 Accessories (2026): Controllers, Cases, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-22 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +171,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!A_tY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F74e605f7-29de-46e5-967c-74ea227afca7_1060x376.png" alt="The Pulse #160: Why it’s so dramatic that “writing code by hand is dead”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-160-why-its-so-dramatic" target="_blank">The Pulse #160: Why it’s so dramatic that “writing code by hand is dead”</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-01-22 18:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18845638&w=600" alt="Agentic AI with Bedrock and DynamoDB Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/agentic-ai-with-bedrock-and-dynamodb-integration" target="_blank">Agentic AI with Bedrock and DynamoDB Integration</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-22 18:00</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +218,6 @@
                 <span class="time">2026-01-22 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/plasma-login-manager-drops-freebsd/" target="_blank">FreeBSD is a No-Go for KDE&amp;#x27;s Plasma Login Manager</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-22 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-total-recall-1990-in-18-minutes-or-less-2igf" target="_blank">CinemaSins: Everything Wrong With Total Recall (1990) In 18 Minutes Or Less</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-22 16:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Cobra-Kai-original-location-1280x853.jpg" alt="‘Cobra Kai’ Is Getting the Dream Physical Release It Deserves" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/cobra-kai-is-getting-the-dream-physical-release-it-deserves-2000713011" target="_blank">‘Cobra Kai’ Is Getting the Dream Physical Release It Deserves</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-22 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/fable-1280x720.jpg" alt="Fable Reboot Features ‘Seamless’ Open World And Is Launching This Fall" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fable-reboot-features-seamless-open-world-and-is-launching-this-fall-2000662295" target="_blank">Fable Reboot Features ‘Seamless’ Open World And Is Launching This Fall</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-22 18:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/compare-y3-1280x720.jpg" alt="Yakuza 3 Remake Ugly Alleyway Has Fans Concerned" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/kingsman-zazzastack-marvel-rivals-black-widow-deadpool-cup-2000662244" target="_blank">Casual $40,000 Marvel Rivals Creator Tournament Sparks A Ton Of Online Drama</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-22 16:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/Samsung-Galaxy-Tab-S10-Lite-1280x853.jpg" alt="Samsung Drops the Galaxy Tab S10 Lite With Its Biggest Discount of the Year While iPad Prices Stay Frozen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/samsung-drops-the-galaxy-tab-s10-lite-with-its-biggest-discount-of-the-year-while-ipad-prices-stay-frozen-2000661993" target="_blank">Samsung Drops the Galaxy Tab S10 Lite With Its Biggest Discount of the Year While iPad Prices Stay Frozen</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-22 14:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/ugreen-dock-1280x853.jpg" alt="UGREEN’s 6-in-1 Steam Deck Dock Is Now the Cheapest Way to Upgrade Your Handheld Setup After a Deep Discount (Works With ROG Ally X, Legion Go, MacBook, and More)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ugreens-6-in-1-steam-deck-dock-is-now-the-cheapest-way-to-upgrade-your-handheld-setup-after-a-deep-discount-works-with-rog-ally-x-legion-go-macbook-and-more-2000661995" target="_blank">UGREEN’s 6-in-1 Steam Deck Dock Is Now the Cheapest Way to Upgrade Your Handheld Setup After a Deep Discount (Works With ROG Ally X, Legion Go, MacBook, and More)</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-22 14:05</span>
             </div>
         </div>
 </div>
@@ -335,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 19:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
