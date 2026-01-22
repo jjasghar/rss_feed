@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-22 10:03:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-22 11:03:27 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, January 22, 2026 - 10:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, January 22, 2026 - 11:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/22/nx-s1-5683936/trump-ice-greenland-focus-group" target="_blank">Some voters who backed Trump say ICE is going &#x27;too far&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-22 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e23/live/22d52bd0-f777-11f0-b7ec-55c1cb544783.jpg" alt="UK holds off joining Trump&#x27;s Board of Peace over Putin concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +105,20 @@
                 <span class="time">2026-01-22 06:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/jan/22/actionaid-rethink-child-sponsorship-decolonise-funding" target="_blank">ActionAid to rethink child sponsorship as part of plan to ‘decolonise’ its work</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-01-22 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/684cf3f15fcfa637bf965ebe/master/pass/The%20Best%20WIRED-Tested%20Organic%20Mattresses_.png" alt="Best Organic Mattresses (2026): Birch, Avocado, Naturepedic, More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-organic-mattress/" target="_blank">Best Organic Mattresses (2026): Birch, Avocado, Naturepedic, More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-22 10:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" alt="Govee Discount Codes and Deals: 30% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,15 +164,6 @@
                 <span class="time">2026-01-21 23:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/21/a-timeline-of-the-u-s-semiconductor-market-in-2025/" target="_blank">A timeline of the US semiconductor market in 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-21 22:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +176,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/usapopopooon/beyond-surrogate-pairs-hidden-pitfalls-in-js-character-counting-with-phpmysql-1pj7" target="_blank">Beyond Surrogate Pairs: Hidden Pitfalls in JS Character Counting with PHP/MySQL</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-22 10:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/aws-european-sovereign-cloud/en/headerimage/generatedHeaderImage-1768988369402.jpg" alt="AWS Launches European Sovereign Cloud Amid Questions About U.S. Legal Jurisdiction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/aws-european-sovereign-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches European Sovereign Cloud Amid Questions About U.S. Legal Jurisdiction</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-22 10:19</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +221,6 @@
                 <span class="title"><a href="https://itsfoss.com/news/llvm-ai-policy/" target="_blank">Open Source Project LLVM Says Yes to AI-Generated Code, But Not Without Conditions</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-01-22 07:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thiraisuvadu_dev/identifier-vaikkum-peyr-5aag" target="_blank">Identifier - வைக்கும் &quot;பெயர்&quot;</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-22 07:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dev.to/images/blog/vault11_otp_generation.png" alt="Hashicorp Vault: TOTP Secrets Engine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/admantium/hashicorp-vault-totp-secrets-engine-1lp3" target="_blank">Hashicorp Vault: TOTP Secrets Engine</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-22 05:57</span>
             </div>
         </div>
 </div>
@@ -348,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 10:03 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 11:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
