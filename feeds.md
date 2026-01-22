@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-22 02:40:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-22 03:30:55 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, January 22, 2026 - 02:41 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, January 22, 2026 - 03:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/22/worlds-oldest-cave-art-discovered-in-indonesias-muna-island?traffic_source=rss" target="_blank">World’s oldest cave art discovered in Indonesia’s Muna island</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-22 02:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +99,6 @@
                 <span class="time">2026-01-21 23:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-india-report/2026/1/21/does-the-awami-league-have-a-future-in-bangladesh?traffic_source=rss" target="_blank">Does the Awami League have a future in Bangladesh?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-21 23:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -117,6 +120,15 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/judge-orders-stop-to-fbi-search-of-devices-seized-from-washington-post-reporter/" target="_blank">Judge orders stop to FBI search of devices seized from Washington Post reporter</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-01-21 23:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/865282/blue-origin-terawave-satellite-6tb" target="_blank">Blue Origin’s Starlink rival TeraWave promises 6-terabit satellite internet</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-21 23:22</span>
             </div>
         </div>
 <div class="story">
@@ -146,15 +158,6 @@
                 <span class="time">2026-01-21 21:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/21/apps-for-boycotting-american-products-surge-to-the-top-of-the-danish-app-store/" target="_blank">Apps for boycotting American products surge to the top of the Danish App Store</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-21 20:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +170,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmvb5vlgk7tfran41bm6b.png" alt="Day 13: Nigerian Market Sales Intelligence Engine — Mastering List Comprehension &amp; Lambda in Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kinspirecyber/day-13-nigerian-market-sales-intelligence-engine-mastering-list-comprehension-lambda-in-python-1hci" target="_blank">Day 13: Nigerian Market Sales Intelligence Engine — Mastering List Comprehension &amp; Lambda in Python</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-22 03:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Retiring-HIPPI" target="_blank">Linux Finally Retiring HIPPI: The First Near-Gigabit Standard For Networking Supercomputers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-22 01:20</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-Linux-GLBE-GLSBE-PLZA" target="_blank">AMD Sends Out Linux Patches For Next-Gen EPYC Features: GLBE, GLSBE &amp; PLZA</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-21 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/keyshade/common-ci-misconfigurations-that-leak-credentials-1ag1" target="_blank">Common CI Misconfigurations That Leak Credentials</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-21 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://deadneurons.substack.com/p/what-if-ai-is-both-really-good-and" target="_blank">What if AI is both good and not that disruptive?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-21 21:11</span>
             </div>
         </div>
 </div>
@@ -351,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 02:41 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 03:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
