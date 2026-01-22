@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-22 00:05:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-22 01:30:01 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, January 22, 2026 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, January 22, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/22/russia-ukraine-war-list-of-key-events-day-1428?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,428</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-22 00:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-trump-davos_7142097.jpg?20260122000237" alt="Trump&#x27;s Greenland climbdown: Don&#x27;t let it fool you, this crisis is far from over for NATO" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trumps-greenland-climbdown-dont-let-it-fool-you-this-crisis-is-far-from-over-for-nato-13497397" target="_blank">Trump&#x27;s Greenland climbdown: Don&#x27;t let it fool you, this crisis is far from over for NATO</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-22 00:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769039242437_nn_pal_trump_greenland_260121_1920x1080-lp2rtl.jpg" alt="Trump announces ‘framework’ deal on Greenland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-announces-framework-deal-on-greenland-256354885932" target="_blank">Trump announces ‘framework’ deal on Greenland</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-21 23:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +99,29 @@
                 <span class="time">2026-01-21 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-syria-army-al-hol-camp_7141397.jpg?20260121101251" alt="US moves 150 Islamic State prisoners out of Syria with thousands more to follow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/us-moves-150-islamic-state-prisoners-out-of-syria-with-thousands-more-to-follow-13497338" target="_blank">US moves 150 Islamic State prisoners out of Syria with thousands more to follow</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-21 21:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-trump100-podcast_7142023.png?20260121220316" alt="Quick take: Major tariff U-turn for Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/quick-take-major-tariff-u-turn-for-trump-13497318" target="_blank">Quick take: Major tariff U-turn for Trump</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-21 20:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/21/nx-s1-5684189/lindsey-halligan-trump-justice-us-attorney" target="_blank">Lindsey Halligan, Trump&#x27;s former personal attorney, exits Virginia prosecutor&#x27;s office</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-21 20:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/" target="_blank">Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-22 00:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/judges-gavel-500x500.jpg" alt="Judge orders stop to FBI search of devices seized from Washington Post reporter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/judge-orders-stop-to-fbi-search-of-devices-seized-from-washington-post-reporter/" target="_blank">Judge orders stop to FBI search of devices seized from Washington Post reporter</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-21 23:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +156,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/21/apps-for-boycotting-american-products-surge-to-the-top-of-the-danish-app-store/" target="_blank">Apps for boycotting American products surge to the top of the Danish App Store</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-21 20:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc" target="_blank">Anthropic’s new Claude ‘constitution’: be helpful and honest, and don’t destroy humanity</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-21 20:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6850566ce46fc92c73b3584b/master/pass/What's%20your%20Type_Mattress.png" alt="What Type of Mattress Is Right for You? (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mattress-types-explained/" target="_blank">What Type of Mattress Is Right for You? (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-21 20:34</span>
             </div>
         </div>
 </div>
@@ -240,6 +237,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Bipartisan lawmakers ask judge to appoint Special Master over Epstein files, DOJ says no" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/21/bipartisan-lawmakers-ask-judge-to-appoint-special-master-over-epstein-files-doj-says-no.html" target="_blank">Bipartisan lawmakers ask judge to appoint Special Master over Epstein files, DOJ says no</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-21 23:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/SquidGametoymask-1280x853.jpg" alt="Bring the Existential Horror of Capitalism to Your Shelf With This ‘Squid Game’ Figure" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -282,15 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/how-a-headline-gets-written-at-kotaku-battlefield-6-edition-2000661912" target="_blank">How A Headline Gets Written At Kotaku: Battlefield 6 Edition</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-21 20:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Freren-Crunchyroll-season-2-io9-template-circle-light-1280x853.jpg" alt="If You’re Not Watching ‘Frieren,’ You’re Missing Out on the Best Fantasy Anime in Ages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/if-youre-not-watching-frieren-youre-missing-out-on-the-best-fantasy-anime-in-ages-2000712509" target="_blank">If You’re Not Watching ‘Frieren,’ You’re Missing Out on the Best Fantasy Anime in Ages</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-21 20:00</span>
             </div>
         </div>
 </div>
@@ -357,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
