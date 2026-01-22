@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-22 22:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-22 23:02:16 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, January 22, 2026 - 22:01 UTC</div>
+    <div class="newspaper-date">Thursday, January 22, 2026 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a07/live/ef1e0670-f7e1-11f0-92a9-4b8c6d96765f.jpg" alt="Trump sparks anger over claim Nato troops avoided Afghanistan front line" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss" target="_blank">Trump sparks anger over claim Nato troops avoided Afghanistan front line</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-22 22:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/22/g-s1-106927/house-spending-homeland-immigration" target="_blank">House approves spending bills despite many Democrats&#x27; objections to ICE funds</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-22 22:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/jack-smith-15-gty-gmh-260122_1769108113426_hpMain_4x3t_384.jpg" alt="&#x27;Donald Trump is the person who caused Jan. 6,&#x27; Jack Smith tells House committee" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +99,20 @@
                 <span class="time">2026-01-22 19:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-ukraine-volodymyr-zelenskyy_7143033.jpg?20260122202247" alt="Truth bombs fall on Europe that can&#x27;t act without US and is stuck in a Groundhog Day-style doom loop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/volodymyr-zelenskyy-europe-cant-act-without-us-leadership-and-is-stuck-in-a-groundhog-day-style-doom-loop-ukrainian-president-says-13497797" target="_blank">Truth bombs fall on Europe that can&#x27;t act without US and is stuck in a Groundhog Day-style doom loop</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-22 19:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/22/trumps-board-of-peace-sees-hamas-disarmed-and-glitzy-gaza-towers?traffic_source=rss" target="_blank">Trump’s ‘Board of Peace’ sees Hamas disarmed and glitzy Gaza towers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-22 18:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/865618/nintendo-talking-flower-preorder-super-mario-wonder" target="_blank">Nintendo is following up Alarmo with a weird Talking Flower in March</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-22 22:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +158,6 @@
                 <span class="time">2026-01-22 19:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/heman4-500x500.jpg" alt="Check out the first trailer for Masters of the Universe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/01/check-out-the-first-trailer-for-masters-of-the-universe/" target="_blank">Check out the first trailer for Masters of the Universe</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-22 19:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -192,6 +191,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18844677&w=600" alt="Scaling PostgreSQL Reads: Implementing Read-Your-Write Consistency Using WAL-Based Replica Routing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/postgresql-read-your-write-wal-replica-routing" target="_blank">Scaling PostgreSQL Reads: Implementing Read-Your-Write Consistency Using WAL-Based Replica Routing</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-22 20:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -207,15 +215,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/01/x402-agentic-http-payments/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Open Payment Standard x402 Expands Capabilities in Major Upgrade</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-01-22 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!A_tY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F74e605f7-29de-46e5-967c-74ea227afca7_1060x376.png" alt="The Pulse #160: Why it’s so dramatic that “writing code by hand is dead”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-160-why-its-so-dramatic" target="_blank">The Pulse #160: Why it’s so dramatic that “writing code by hand is dead”</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-01-22 18:02</span>
             </div>
         </div>
 </div>
@@ -237,6 +236,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/ss_17b0e8d6a90e174e45f4c7438167d-1280x720.jpg" alt="Forza Horizon 6: Everything We Know About The Open-World Racing Game Set In Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/forza-horizon-6-everything-we-know-xbox-biggest-map-online-play-ps5-release-date-2000662346" target="_blank">Forza Horizon 6: Everything We Know About The Open-World Racing Game Set In Japan</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-22 22:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/PDF-Converter-Editor.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This PDF Editor lifetime license is now at 70% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/22/this-pdf-editor-lifetime-license-is-now-at-70-off.html" target="_blank">This PDF Editor lifetime license is now at 70% off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-22 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KFKW7060E8XGH0JGW97MQCAZ/hero-image.png" alt="A Study Found Diet Coke Is Better for You Than Water (Sort Of)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/diet-coke-water-glucose-study?utm_medium=RSS" target="_blank">A Study Found Diet Coke Is Better for You Than Water (Sort Of)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-22 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/maul-shadow-lord-trailer-breakdown-1280x853.jpg" alt="6 Cool Details We Spotted in the ‘Maul—Shadow Lord’ Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,33 +288,6 @@
                 <span class="title"><a href="https://lifehacker.com/how-long-it-really-takes-to-form-habits?utm_medium=RSS" target="_blank">Here&#x27;s How Long It Really Takes to Form a New Habit</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-22 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/tank-chair-kodansha-io9-template-3-1280x853.jpg" alt="‘Tank Chair’ Proves Ultra‑Violent Manga Can Still Hit With Heart" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tank-chair-proves-ultra%e2%80%91violent-manga-can-still-hit-with-heart-2000713010" target="_blank">‘Tank Chair’ Proves Ultra‑Violent Manga Can Still Hit With Heart</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-22 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KFKGXVMPEQY0K2EQ8ZCJG6WD/hero-image.png" alt="This Script Removes the AI Features From Chrome, Edge, and Firefox" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/script-removes-ai-features-from-chrome-edge-firefox?utm_medium=RSS" target="_blank">This Script Removes the AI Features From Chrome, Edge, and Firefox</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-22 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/G_SfRCFWgAE5pQa-1280x720.jpeg" alt="Fable, Forza Horizon 6, And More: Everything We Saw In The First Xbox Showcase Of 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-developer-direct-fable-forza-horizon-6-game-freak-2000662291" target="_blank">Fable, Forza Horizon 6, And More: Everything We Saw In The First Xbox Showcase Of 2026</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-22 19:16</span>
             </div>
         </div>
 </div>
@@ -319,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
