@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-22 19:05:29 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-22 20:01:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, January 22, 2026 - 19:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, January 22, 2026 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,10 +49,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/22/g-s1-106899/minnesota-church-protest-arrests-pam-bondi-don-lemon" target="_blank">3 people involved in Minnesota church protest arrested; judge rejects charges against journalist</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-22 19:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/22/trumps-board-of-peace-sees-hamas-disarmed-and-glitzy-gaza-towers?traffic_source=rss" target="_blank">Trump’s ‘Board of Peace’ sees Hamas disarmed and glitzy Gaza towers</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-22 18:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5423/live/aaba3ee0-f78c-11f0-b5f7-49f0357294ff.jpg" alt="&#x27;It&#x27;s all about the land&#x27;: Zelensky says Ukraine to talk to US and Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g44r22j5jo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;It&#x27;s all about the land&#x27;: Zelensky says Ukraine to talk to US and Russia</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-22 17:37</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +100,38 @@
                 <span class="time">2026-01-22 17:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/22/who-got-the-most-nods-the-complete-list-of-2026-oscar-nominations?traffic_source=rss" target="_blank">Who got the most nods? The complete list of 2026 Oscar nominations</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-22 15:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Former special counsel Jack Smith testifies on Trump investigations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Former special counsel Jack Smith testifies on Trump investigations</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-22 15:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/865882/democratic-state-attorney-general-rayfield-ellison" target="_blank">The state attorneys general are as mad as you are</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-22 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/heman4-500x500.jpg" alt="Check out the first trailer for Masters of the Universe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/01/check-out-the-first-trailer-for-masters-of-the-universe/" target="_blank">Check out the first trailer for Masters of the Universe</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-22 19:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/697159f166613a243527a63c/master/pass/Model-Behavior-Whats-Really-Driving-Claude-Codes-Success-Business.jpg" alt="How Claude Code Is Reshaping Software—and Anthropic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/claude-code-success-anthropic-business-model/" target="_blank">How Claude Code Is Reshaping Software—and Anthropic</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-22 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,33 +159,6 @@
                 <span class="time">2026-01-22 16:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/865548/google-ai-mode-search-personal-intelligence-update" target="_blank">Google Search AI Mode can use Gmail and Photos to get to know you</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-22 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill" target="_blank">This plugin uses Wikipedia&amp;#8217;s AI-spotting guide to make AI writing sound more human</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-22 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/news-012226a-lg-500x500.jpg" alt="All sorts of interesting flags and artifacts will fly to the Moon on Artemis II" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/01/nasa-to-fly-apollo-aviation-artifacts-on-artemis-ii/" target="_blank">All sorts of interesting flags and artifacts will fly to the Moon on Artemis II</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-22 14:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +171,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/graphite-graphics-editor/" target="_blank">This Could be the Best Graphics Editor for Linux Users (Yes, it is Open Source)</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-22 19:38</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +218,6 @@
                 <span class="time">2026-01-22 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-xeon6-sierra-forest-2026" target="_blank">Intel Xeon 67980E &quot;Sierra Forest&quot; Linux Performance ~14% Faster Since Launch</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-22 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/tank-chair-kodansha-io9-template-3-1280x853.jpg" alt="‘Tank Chair’ Proves Ultra‑Violent Manga Can Still Hit With Heart" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tank-chair-proves-ultra%e2%80%91violent-manga-can-still-hit-with-heart-2000713010" target="_blank">‘Tank Chair’ Proves Ultra‑Violent Manga Can Still Hit With Heart</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-22 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KFKGXVMPEQY0K2EQ8ZCJG6WD/hero-image.png" alt="This Script Removes the AI Features From Chrome, Edge, and Firefox" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/script-removes-ai-features-from-chrome-edge-firefox?utm_medium=RSS" target="_blank">This Script Removes the AI Features From Chrome, Edge, and Firefox</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-22 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/G_SfRCFWgAE5pQa-1280x720.jpeg" alt="Fable, Forza Horizon 6, And More: Everything We Saw In The First Xbox Showcase Of 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-developer-direct-fable-forza-horizon-6-game-freak-2000662291" target="_blank">Fable, Forza Horizon 6, And More: Everything We Saw In The First Xbox Showcase Of 2026</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-22 19:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Cobra-Kai-original-location-1280x853.jpg" alt="‘Cobra Kai’ Is Getting the Dream Physical Release It Deserves" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,33 +291,6 @@
                 <span class="time">2026-01-22 18:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Drafthouse.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="Phones will soon be allowed in Alamo Drafthouse theaters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/22/phones-will-soon-be-allowed-in-alamo-drafthouse-theaters.html" target="_blank">Phones will soon be allowed in Alamo Drafthouse theaters</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-22 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KFK33W2084H5016JWCYFSRS7/hero-image.jpg" alt="If You&#x27;ve Installed Any of These 17 Browser Extensions, Delete Them Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/delete-malicious-ghostposter-browser-extensions?utm_medium=RSS" target="_blank">If You&#x27;ve Installed Any of These 17 Browser Extensions, Delete Them Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-22 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/Widow-MArvel.jpg" alt="Casual $40,000 Marvel Rivals Creator Tournament Sparks A Ton Of Online Drama" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kingsman-zazzastack-marvel-rivals-black-widow-deadpool-cup-2000662244" target="_blank">Casual $40,000 Marvel Rivals Creator Tournament Sparks A Ton Of Online Drama</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-22 16:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,31 +314,13 @@
                 <span class="time">2026-01-22 02:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/21/staryeet-academy" target="_blank">Staryeet Academy</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-21 19:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/inspire-people/" target="_blank">Inspire People</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-01-21 19:51</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 19:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
