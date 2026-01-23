@@ -1,44 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-01-23 19:04:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-23 20:01:50 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 36 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, January 23, 2026 - 19:05 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, January 23, 2026 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/23/rights-advocates-welcome-canadas-exclusion-from-trump-board-of-peace?traffic_source=rss" target="_blank">Rights advocates welcome Canada’s exclusion from Trump’s ‘Board of Peace’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-23 19:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/storm-prep-4-epa-jef-260123_1769188041153_hpMain_4x3t_384.jpg" alt="Winter storm live updates: At least 15 states declare state of emergency" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/winter-storm-live-updates-tracking-dangerous-ice-snow/?id=129469173" target="_blank">Winter storm live updates: At least 15 states declare state of emergency</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-23 19:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4d/live/e4a85680-f88d-11f0-b385-5f48925de19a.jpg" alt="Harry says sacrifices by Nato troops in Afghanistan deserve &#x27;respect&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,29 +95,20 @@
                 <span class="time">2026-01-23 17:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/street-brining-storm-ap-jt-260122_1769110722229_hpMain_2_4x3t_384.jpg" alt="Winter storm live updates: At least 14 states declare state of emergency" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/winter-storm-live-updates-tracking-dangerous-ice-snow/?id=129469173" target="_blank">Winter storm live updates: At least 14 states declare state of emergency</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-23 15:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/1/23/why-qatar-is-betting-on-diplomacy-with-iran?traffic_source=rss" target="_blank">Why Qatar is betting on diplomacy with Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-23 15:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/" target="_blank">How did Davos turn into a tech conference?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-23 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/nekima-levy-white-house-manipulated-image-500x500-1769192278.jpg" alt="White House alters arrest photo of ICE protester, says &quot;the memes will continue&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -158,15 +154,6 @@
                 <span class="time">2026-01-23 17:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/866624/winter-storm-forecast-drivers-climate" target="_blank">Why this winter storm will likely be a wild one</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-23 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -179,6 +166,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/curl-closes-bug-bounty-program/" target="_blank">cURL Gets Rid of Its Bug Bounty Program Over AI Slop Overrun</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-23 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Cirrus-CS42L45-Linux-Firmware" target="_blank">Firmware Upstreamed For Audio Support With Upcoming Dell &amp; Lenovo Panther Lake Laptops</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-23 18:53</span>
             </div>
         </div>
 <div class="story">
@@ -206,24 +211,6 @@
                 <span class="title"><a href="https://dev.to/datadr1ven/web3-verifier-agent-fight-rug-pulls-with-ai-powered-due-diligence-2c0n" target="_blank">🚀 Web3 Verifier Agent - Fight Rug Pulls with AI-Powered Due Diligence</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-23 17:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/tonearm-tidal-app.jpg?resize=406%2C232&amp;ssl=1" alt="Tonearm, New Unofficial TIDAL Client for Linux, Hits Beta" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/tonearm-tidal-client-for-linux-beta" target="_blank">Tonearm, New Unofficial TIDAL Client for Linux, Hits Beta</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-23 17:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flcyjh91u0jy6irit2nfm.webp" alt="Mahdi Shamlou | Solving LeetCode #3: Longest Substring Without Repeating Characters — My First Attempt &amp; My Optimal Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mahdi0shamlou/mahdi-shamlou-solving-leetcode-3-longest-substring-without-repeating-characters-my-first-5766" target="_blank">Mahdi Shamlou | Solving LeetCode #3: Longest Substring Without Repeating Characters — My First Attempt &amp; My Optimal Way</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-23 17:01</span>
             </div>
         </div>
 </div>
@@ -336,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 19:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
