@@ -1,36 +1,46 @@
-<!-- Processing 54 RSS feeds at 2026-01-23 15:03:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-23 16:03:08 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 37 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, January 23, 2026 - 15:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, January 23, 2026 - 16:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +56,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/street-brining-storm-ap-jt-260122_1769110722229_hpMain_2_4x3t_384.jpg" alt="Winter storm live updates: At least 14 states declare state of emergency" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/winter-storm-live-updates-tracking-dangerous-ice-snow/?id=129469173" target="_blank">Winter storm live updates: At least 14 states declare state of emergency</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-23 15:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/23/g-s1-106993/vietnam-leader-to-lam-consolidates-power-as-country-targets-10-growth" target="_blank">Vietnam leader To Lam consolidates power as country targets 10% growth</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-23 14:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-valentino-funeral-rome_7143518.jpg?20260123123927" alt="Stars of fashion and film say farewell to Italy&#x27;s haute couture &#x27;emperor&#x27; Valentino" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/stars-of-fashion-and-film-say-farewell-to-italys-haute-couture-emperor-valentino-13498048" target="_blank">Stars of fashion and film say farewell to Italy&#x27;s haute couture &#x27;emperor&#x27; Valentino</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-23 13:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +110,29 @@
                 <span class="time">2026-01-23 12:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/23/guinea-bissau-hepatitis-b-vaccine-study" target="_blank">‘It’s the sovereignty of the country’: Guinea-Bissau says US vaccine study suspended</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-01-23 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/23/alcaraz-shines-in-100th-grand-slam-match-as-sabalenka-grinds-through?traffic_source=rss" target="_blank">Alcaraz shines in 100th Grand Slam match as Sabalenka and Gauff stutter</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-23 10:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/greenland-4-gty-gmh-260120_1768924091297_hpMain_4x3t_384.jpg" alt="Europe must &#x27;play the power game&#x27; with Trump over Greenland, former Danish FM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/europe-play-power-game-trump-greenland-former-danish/story?id=129418834" target="_blank">Europe must &#x27;play the power game&#x27; with Trump over Greenland, former Danish FM says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-23 10:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/866624/winter-storm-forecast-drivers-climate" target="_blank">Why this winter storm will likely be a wild one</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-23 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/23/this-startup-will-send-1000-peoples-ashes-to-space-affordably-in-2027/" target="_blank">This startup will send 1,000 people’s ashes to space — affordably — in 2027</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-23 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68b7a5b5577aac6996e92b58/master/pass/The%20Best%20Action%20Cameras.png" alt="Best Action Cameras (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,24 +169,6 @@
                 <span class="time">2026-01-23 12:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/2026-Lucid-Air-Touring-1-e1768932171844-500x500-1768932196.jpg" alt="2026 Lucid Air Touring review: This feels like a complete car now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/features/2026/01/2026-lucid-air-touring-review-this-feels-like-a-complete-car-now/" target="_blank">2026 Lucid Air Touring review: This feels like a complete car now</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-23 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/865168/google-says-ai-news-headlines-are-feature-not-experiment" target="_blank">Google won’t stop replacing our news headlines with terrible AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-23 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +181,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gde/tips-and-tricks-for-article-publishing-23b8" target="_blank">Tips and Tricks for Article Publishing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-23 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Vulkan-Roadmap-2026" target="_blank">Vulkan Roadmap 2026 Milestone: Variable Rate Shading, Host Image Copies &amp; More</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-23 15:12</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +228,6 @@
                 <span class="time">2026-01-23 13:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Zlib-rs-0.6-Released" target="_blank">Zlib-rs 0.6 Released With Improved AVX-512 Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-23 11:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/minibooks/architecture-age-ai-opportunity/en/smallimage/emag-122-Architecture-in-the-Age-of-AI-thumb-image-1768912172153.jpg" alt="Mini book: Architecture in the Age of AI: Change and Opportunity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/minibooks/architecture-age-ai-opportunity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Mini book: Architecture in the Age of AI: Change and Opportunity</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-23 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/Bose-QuietComfort-Ultra-Earbuds-1280x853.jpg" alt="Bose Goes on ANC Headphone Clearance, New QuietComfort Ultra Earbuds (2nd Gen) Crash to an All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/bose-goes-on-anc-headphone-clearance-new-quietcomfort-ultra-earbuds-2nd-gen-crash-to-an-all-time-low-2000662534" target="_blank">Bose Goes on ANC Headphone Clearance, New QuietComfort Ultra Earbuds (2nd Gen) Crash to an All-Time Low</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-23 15:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2024/05/01eb1f1332dfff9089c2405eb36c0c6b-1280x720.jpg" alt="The Third Final Fantasy VII Remake Game Is Playable And Has An Even Better Version Of Queen’s Blood" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +301,6 @@
                 <span class="time">2026-01-23 13:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/dexter-sol-ansell-peter-claffey_0-2-2-1280x853.jpg" alt="‘A Knight of the Seven Kingdoms’ Notched a Solid Ratings Debut" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-knight-of-the-seven-kingdoms-notched-a-solid-ratings-debut-2000713173" target="_blank">‘A Knight of the Seven Kingdoms’ Notched a Solid Ratings Debut</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-23 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 276 |
-        🔄 Last Updated: 15:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 16:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
