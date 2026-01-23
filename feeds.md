@@ -1,29 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-23 13:15:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-23 14:04:02 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, January 23, 2026 - 13:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, January 23, 2026 - 14:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,12 +52,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/23/trump-claim-on-nato-role-in-afghanistan-draws-condemnation?traffic_source=rss" target="_blank">Trump claim on NATO role in Afghanistan draws UK condemnation</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-23 13:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35da/live/042f00b0-f840-11f0-b385-5f48925de19a.jpg" alt="Trump &#x27;wrong&#x27; to claim Nato troops avoided Afghanistan front line, Downing Street says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss" target="_blank">Trump &#x27;wrong&#x27; to claim Nato troops avoided Afghanistan front line, Downing Street says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-23 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769170456912_tdy_news_7a_chandler_winter_storm_watch_260123_1920x1080-isl11i.jpg" alt="Winter Storm Watch: Where It&#x27;s Expected to Bring Heavy Snow, Ice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/winter-storm-watch-where-it-s-expected-to-bring-heavy-snow-ice-256447557529" target="_blank">Winter Storm Watch: Where It&#x27;s Expected to Bring Heavy Snow, Ice</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-23 12:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/23/guinea-bissau-hepatitis-b-vaccine-study" target="_blank">‘It’s the sovereignty of the country’: Guinea-Bissau says US vaccine study suspended</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-23 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -66,38 +105,20 @@
                 <span class="time">2026-01-23 10:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/23/nx-s1-5684971/winter-storm-ice-texas-new-england-climate-science" target="_blank">How cuts to federal climate funds could threaten polar vortex research</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-23 10:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35da/live/042f00b0-f840-11f0-b385-5f48925de19a.jpg" alt="Trump&#x27;s claim Nato troops avoided Afghanistan front line sparks outrage in UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s claim Nato troops avoided Afghanistan front line sparks outrage in UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-23 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88e1/live/5d0fb890-f832-11f0-b385-5f48925de19a.jpg" alt="Trump&#x27;s claim about Nato troops in Afghanistan is disappointing, minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s claim about Nato troops in Afghanistan is disappointing, minister says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-23 08:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6972b691248c85b42bd99f91/master/pass/The%20Best%20Paper%20Notebooks%20and%20Journals.png" alt="The Best Paper Notebooks and Journals, Tested and Reviewed (2026): Leuchttherm, Midori, Field Notes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/the-best-paper-notebook-and-journals/" target="_blank">The Best Paper Notebooks and Journals, Tested and Reviewed (2026): Leuchttherm, Midori, Field Notes</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-23 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,15 +164,6 @@
                 <span class="time">2026-01-23 06:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/" target="_blank">Former Sequoia partner’s new startup uses AI to negotiate your calendar for you</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-23 02:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,6 +176,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNU-Guix-1.5-Released" target="_blank">GNU Guix 1.5 Relesed With RISC-V Support, Experimental x86_64 GNU Hurd Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-23 13:54</span>
             </div>
         </div>
 <div class="story">
@@ -202,15 +223,6 @@
                 <span class="time">2026-01-23 10:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pckalyan/evolution-of-making-api-calls-in-javascript-3i1m" target="_blank">Evolution of making API Calls in JavaScript</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-23 09:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/KAMRUI-Hyper-H2-Mini-Gaming-PC-1280x853.jpg" alt="This Mini Gaming PC (32GB RAM, 1TB SSD) Drops to an All-Time Low as Amazon Starts Offloading a Top-Rated Tiny PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-mini-gaming-pc-32gb-ram-1tb-ssd-drops-to-an-all-time-low-as-amazon-starts-offloading-a-top-rated-tiny-pc-2000662379" target="_blank">This Mini Gaming PC (32GB RAM, 1TB SSD) Drops to an All-Time Low as Amazon Starts Offloading a Top-Rated Tiny PC</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-23 13:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/Google-Pixel-9a-1280x853.jpg" alt="Google Clears Out Last Year’s Gemini Smartphone as Pixel 9a Crashes to Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +296,6 @@
                 <span class="time">2026-01-22 22:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/12/titanic.jpg?fit=1924%2C1132&amp;quality=60&amp;ssl=1" alt="Vance compares Trump&#x27;s economy to the Titanic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/22/vance-compares-trumps-economy-to-the-titanic.html" target="_blank">Vance compares Trump&#x27;s economy to the Titanic</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-22 22:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 13:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 14:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
