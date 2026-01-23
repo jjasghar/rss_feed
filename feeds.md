@@ -1,43 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-23 22:01:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-23 23:01:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 34 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, January 23, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, January 23, 2026 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -60,6 +51,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/23/nx-s1-5683204/abortion-trump-mexico-city-policy" target="_blank">Trump expands policy banning aid to groups abroad that discuss or provide abortions</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-23 21:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260123-minnesota-ice-out-protest-2026-bf-1633-54a146.jpg" alt="Thousands rally against ICE in Minneapolis amid below-zero temperatures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/ice-out-rally-minneapolis-immigration-protest-rcna255631" target="_blank">Thousands rally against ICE in Minneapolis amid below-zero temperatures</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-23 21:15</span>
             </div>
         </div>
 <div class="story">
@@ -96,15 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/clym2l7d75eo?at_medium=RSS&at_campaign=rss" target="_blank">Harry says sacrifices by Nato troops in Afghanistan deserve &#x27;respect&#x27;</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-23 18:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/23/venezuelas-interim-presidents-oil-law-reform-to-break-with-chavez-model?traffic_source=rss" target="_blank">Venezuela’s interim president’s oil law reform to break with Chavez model</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-23 18:31</span>
             </div>
         </div>
 </div>
@@ -181,6 +172,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhxaa73oe2gghh0f9b8sf.png" alt="The AI Development Workflow I Actually Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/olaproeis/the-ai-development-workflow-i-actually-use-549i" target="_blank">The AI Development Workflow I Actually Use</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-23 22:35</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -216,15 +216,6 @@
                 <span class="time">2026-01-23 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/curl-closes-bug-bounty-program/" target="_blank">cURL Gets Rid of Its Bug Bounty Program Over AI Slop Overrun</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-23 19:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +235,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/ss_8d483674199a602caa1a71e15ebcb-1280x720.jpg" alt="Fable: Everything We Know About The Open-World Fantasy RPG Reboot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fable-everything-we-know-about-the-open-world-fantasy-rpg-reboot-2000662595" target="_blank">Fable: Everything We Know About The Open-World Fantasy RPG Reboot</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-23 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Sam-Raimi-Send-Help-1280x853.jpg" alt="‘Spider-Man’ Director Sam Raimi Would Love to Take on Batman" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/spider-man-director-sam-raimi-would-love-to-take-on-batman-2000713581" target="_blank">‘Spider-Man’ Director Sam Raimi Would Love to Take on Batman</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-23 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/hint-line-acmi-desk-close_hu2401109799866525894.webp?fit=800%2C600&amp;quality=55&amp;ssl=1" alt="Museum exhibits a simulated 1993 Game Hint phone line" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/23/museum-exhibits-a-simulated-1993-game-hint-phone-line.html" target="_blank">Museum exhibits a simulated 1993 Game Hint phone line</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-23 21:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/ice-cube.jpg?fit=1200%2C757&amp;quality=60&amp;ssl=1" alt="Hot water can freeze faster than cold water, and no one fully understands why" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,33 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/muppet-show-2026-trailer-sabrina-carpenter-miss-piggy-2000713479" target="_blank">‘The Muppet Show’ Special Drops a Gently Kinky Full Trailer</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-23 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KFNT5VGGSDV7RPZ6PP827F3M/hero-image.png" alt="Tesla Has Dropped This Basic Autopilot Feature, Forcing US Drivers Into Subscriptions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/tesla-dropped-basic-autopilot-forcing-us-drivers-into-subscriptions?utm_medium=RSS" target="_blank">Tesla Has Dropped This Basic Autopilot Feature, Forcing US Drivers Into Subscriptions</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-23 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/ANBERNIC-RG-G01-Smart-Controller-Coming-Soon-0m29s-1-1280x720.jpg" alt="Made That Controller For You Boss, Added A Heartbeat Sensor And Built-In Screen Just Like You Asked" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/made-that-controller-for-you-boss-added-a-heartbeat-sensor-and-built-in-screen-just-like-you-asked-2000662633" target="_blank">Made That Controller For You Boss, Added A Heartbeat Sensor And Built-In Screen Just Like You Asked</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-23 17:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Trump decides to fix Iran, what could go wrong?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/23/trump-decies-to-fix-iran-what-could-go-wrong.html" target="_blank">Trump decides to fix Iran, what could go wrong?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-23 17:36</span>
             </div>
         </div>
 </div>
@@ -335,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
