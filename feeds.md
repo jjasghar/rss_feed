@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-23 00:05:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-23 01:29:40 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Error processing https://krebsonsecurity.com/feed/: The read operation timed out -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, January 23, 2026 - 00:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, January 23, 2026 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769127019656_nn_mve_vance_defends_ice_mission_in_minneapolis_260122_1920x1080-t1orzu.jpg" alt="Vance defends ICE mission in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/vance-defends-ice-mission-in-minneapolis-256424517931" target="_blank">Vance defends ICE mission in Minneapolis</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-23 00:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a07/live/ef1e0670-f7e1-11f0-92a9-4b8c6d96765f.jpg" alt="Trump sparks anger over claim Nato troops avoided Afghanistan front line" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss" target="_blank">Trump sparks anger over claim Nato troops avoided Afghanistan front line</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-22 22:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-afghanistan-british_7143138.jpg?20260122232937" alt="Trump under fire for claiming US allies stayed off Afghan frontline" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-under-fire-for-claiming-nato-allies-avoided-afghanistan-frontline-13497843" target="_blank">Trump under fire for claiming US allies stayed off Afghan frontline</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-22 22:31</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +99,20 @@
                 <span class="time">2026-01-22 20:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/22/g-s1-106899/minnesota-church-protest-arrests-pam-bondi-don-lemon" target="_blank">3 people involved in Minnesota church protest arrested; judge rejects charges against journalist</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-22 19:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769111103228_now_brk_trump_indict_smith_260122_1920x1080-0p9tw2.jpg" alt="&#x27;I will not be intimidated&#x27;: Jack Smith says he believes DOJ will try to indict him" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/jack-smith-says-he-believes-trump-s-doj-will-try-to-indict-him-256410181624" target="_blank">&#x27;I will not be intimidated&#x27;: Jack Smith says he believes DOJ will try to indict him</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-22 19:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/866437/tiktok-usds-bytedance-sale-oracle-mgx" target="_blank">The TikTok deal is done, finally</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-23 01:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +158,6 @@
                 <span class="time">2026-01-22 20:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Gemini-SAT-500x500.jpg" alt="Google begins offering free SAT practice tests powered by Gemini" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2026/01/google-begins-offering-free-sat-practice-tests-powered-by-gemini/" target="_blank">Google begins offering free SAT practice tests powered by Gemini</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-22 20:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +170,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbzp1fywqu5ahtj71u7xd.png" alt="Using closures to measure call stack depth in Go" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lucassha/using-closures-to-measure-call-stack-depth-in-go-22c3" target="_blank">Using closures to measure call stack depth in Go</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-23 01:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/yo-yo-yo-jbo/python_uaf" target="_blank">python_uaf: Use-after-free in Python</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-01-23 00:07</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +217,6 @@
                 <span class="time">2026-01-22 20:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18844677&w=600" alt="Scaling PostgreSQL Reads: Implementing Read-Your-Write Consistency Using WAL-Based Replica Routing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/postgresql-read-your-write-wal-replica-routing" target="_blank">Scaling PostgreSQL Reads: Implementing Read-Your-Write Consistency Using WAL-Based Replica Routing</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-22 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/graphite-graphics-editor/" target="_blank">This Could be the Best Graphics Editor for Linux Users (Yes, it is Open Source)</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-22 19:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/tiktok-culver-city-1280x853.jpg" alt="TikTok Creates Legal Entity to Eventually Maybe Possibly Sell to U.S. Investors (Don’t Call It a Done Deal)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tiktok-creates-legal-entity-to-eventually-maybe-possibly-sell-to-u-s-investors-dont-call-it-a-done-deal-2000713218" target="_blank">TikTok Creates Legal Entity to Eventually Maybe Possibly Sell to U.S. Investors (Don’t Call It a Done Deal)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-23 01:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/ss_17b0e8d6a90e174e45f4c7438167d-1280x720.jpg" alt="Forza Horizon 6: Everything We Know About The Open-World Racing Game Set In Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +290,6 @@
                 <span class="time">2026-01-22 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GYQZ6YVBW3A0BH2DWA176/hero-image.jpg" alt="Here&#x27;s How Long It Really Takes to Form a New Habit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/how-long-it-really-takes-to-form-habits?utm_medium=RSS" target="_blank">Here&#x27;s How Long It Really Takes to Form a New Habit</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-22 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 40 | 📸 With Images: 277 |
-        🔄 Last Updated: 00:06 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 279 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
