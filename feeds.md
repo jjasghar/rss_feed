@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-23 10:01:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-23 11:02:29 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, January 23, 2026 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, January 23, 2026 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/23/alcaraz-shines-in-100th-grand-slam-match-as-sabalenka-grinds-through?traffic_source=rss" target="_blank">Alcaraz shines in 100th Grand Slam match as Sabalenka and Gauff stutter</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-23 10:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/greenland-4-gty-gmh-260120_1768924091297_hpMain_4x3t_384.jpg" alt="Europe must &#x27;play the power game&#x27; with Trump over Greenland, former Danish FM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/europe-play-power-game-trump-greenland-former-danish/story?id=129418834" target="_blank">Europe must &#x27;play the power game&#x27; with Trump over Greenland, former Danish FM says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-23 10:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/23/nx-s1-5684971/winter-storm-ice-texas-new-england-climate-science" target="_blank">How cuts to federal climate funds could threaten polar vortex research</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-23 10:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35da/live/042f00b0-f840-11f0-b385-5f48925de19a.jpg" alt="Trump&#x27;s claim Nato troops avoided Afghanistan front line sparks outrage in UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,33 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/23/nx-s1-5686169/venezuela-debate-oil-sector-trump-seeks-role-us-firms" target="_blank">Venezuela opens debate on an oil sector overhaul as Trump seeks role for US firms</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-23 06:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/23/feet-dragging-division-and-obstruction-what-israel-really-wants-for-gaza?traffic_source=rss" target="_blank">Feet dragging, division and obstruction: What Israel really wants for Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-23 05:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/23/australian-palestinian-lawyers-seek-police-probe-of-israeli-president?traffic_source=rss" target="_blank">Australian, Palestinian lawyers seek police probe of Israeli president</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-23 04:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/23/trump-says-us-still-watching-iran-as-massive-fleet-heads-to-gulf-region?traffic_source=rss" target="_blank">Trump says US still ‘watching Iran‘ as ‘massive’ fleet heads to Gulf region</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-23 03:23</span>
             </div>
         </div>
 </div>
@@ -176,6 +177,33 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/minibooks/architecture-age-ai-opportunity/en/smallimage/emag-122-Architecture-in-the-Age-of-AI-thumb-image-1768912172153.jpg" alt="Mini book: Architecture in the Age of AI: Change and Opportunity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/minibooks/architecture-age-ai-opportunity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Mini book: Architecture in the Age of AI: Change and Opportunity</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-23 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/louis7/my-new-year-portfolio-challenge-g18" target="_blank">My New Year Portfolio Challenge!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-23 10:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Servo-0.0.4" target="_blank">Servo 0.0.4 Browser Engine Released &amp; Finally Supporting Multiple Windows</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-23 10:40</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -187,37 +215,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nunc/i-used-claude-code-to-write-a-legal-appeal-for-my-mothers-disability-benefits-40f4" target="_blank">I Used Claude Code to Write a Legal Appeal for My Mother&#x27;s Disability Benefits</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-23 09:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/podcasts/leading-interdisciplinary-teams/en/smallimage/engineering-culture-podcast-thumbnail-1768827938206.jpg" alt="Podcast: Culture Through Tension: Leading Interdisciplinary Teams with Nick Gillian" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/podcasts/leading-interdisciplinary-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Culture Through Tension: Leading Interdisciplinary Teams with Nick Gillian</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-23 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/" target="_blank">AI can 10x developers...in creating tech debt</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-01-23 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dbushell.com/2026/01/22/proton-spam/" target="_blank">Proton Spam and the AI Consent Problem</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-23 07:01</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/how-to-avoid-package-end-of-life-through-backporting" target="_blank">How to avoid package End of Life through backporting</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-01-23 09:15</span>
             </div>
         </div>
 </div>
@@ -330,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
