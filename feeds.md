@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-23 06:02:18 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-23 07:04:55 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, January 23, 2026 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, January 23, 2026 - 07:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/23/nx-s1-5686169/venezuela-debate-oil-sector-trump-seeks-role-us-firms" target="_blank">Venezuela opens debate on an oil sector overhaul as Trump seeks role for US firms</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-23 06:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/23/did-the-us-give-greenland-back-to-denmark-trump-omits-history-at-davos?traffic_source=rss" target="_blank">Did the US give Greenland back to Denmark? Trump omits history at Davos</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-23 02:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/white-house-1-ap-er-260122_1769119446519_hpMain_4x3t_384.jpg" alt="White House ballroom: Judge signals skepticism of Trump administration arguments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/white-house-ballroom-judge-signals-skepticism-trump-administration/story?id=129471562" target="_blank">White House ballroom: Judge signals skepticism of Trump administration arguments</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-23 01:30</span>
             </div>
         </div>
 </div>
@@ -174,6 +171,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F985143%2Fc4c372a7-0b38-4f9e-b206-7ed65597ea31.png" alt="Google Antigravity vs GitHub Copilot: Why I&#x27;m Team Antigravity Now 💡" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/this-is-learning/google-antigravity-vs-github-copilot-why-im-team-antigravity-now-fco" target="_blank">Google Antigravity vs GitHub Copilot: Why I&#x27;m Team Antigravity Now 💡</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-23 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.youtube.com/watch?v=moBCOEiqiPs" target="_blank">I built a light that reacts to radio waves [video]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-23 05:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyorf8bvd6rkhoxqbm78m.gif" alt="What was your win this week?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/gary_yan_86eb77d35e0070f5/qwen3-tts-the-open-source-text-to-speech-revolution-in-2026-3466" target="_blank">Qwen3-TTS: The Open-Source Text-to-Speech Revolution in 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-23 03:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bugsappleloves.com" target="_blank">Bugs Apple Loves</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-23 02:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GFX12-RadeonSI-Mesa-26.1-More" target="_blank">AMD Lands Fresh Performance Improvements For RDNA4 In RadeonSI Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-23 01:21</span>
             </div>
         </div>
 </div>
@@ -319,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 07:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
