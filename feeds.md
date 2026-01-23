@@ -1,34 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-01-23 18:02:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-23 19:04:58 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, January 23, 2026 - 18:02 UTC</div>
+    <div class="newspaper-date">Friday, January 23, 2026 - 19:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4d/live/e4a85680-f88d-11f0-b385-5f48925de19a.jpg" alt="Harry says sacrifices by Nato troops in Afghanistan deserve &#x27;respect&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clym2l7d75eo?at_medium=RSS&at_campaign=rss" target="_blank">Harry says sacrifices by Nato troops in Afghanistan deserve &#x27;respect&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-23 18:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/23/venezuelas-interim-presidents-oil-law-reform-to-break-with-chavez-model?traffic_source=rss" target="_blank">Venezuela’s interim president’s oil law reform to break with Chavez model</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-23 18:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +108,29 @@
                 <span class="time">2026-01-23 15:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/23/g-s1-106993/vietnam-leader-to-lam-consolidates-power-as-country-targets-10-growth" target="_blank">Vietnam leader To Lam consolidates power as country targets 10% growth</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-23 14:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-royal-anglian-regiment_7143770.jpg?20260123165238" alt="&#x27;Insulting and frankly appalling&#x27;: PM condemns Trump&#x27;s remarks on UK troops in Afghanistan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-sparks-fury-by-claiming-us-allies-stayed-off-afghanistan-frontline-13498044" target="_blank">&#x27;Insulting and frankly appalling&#x27;: PM condemns Trump&#x27;s remarks on UK troops in Afghanistan</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-23 14:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/nekima-levy-white-house-manipulated-image-500x500-1769192278.jpg" alt="White House alters arrest photo of ICE protester, says &quot;the memes will continue&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/white-house-posts-altered-arrest-photo-to-make-it-appear-ice-critic-was-sobbing/" target="_blank">White House alters arrest photo of ICE protester, says &quot;the memes will continue&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-23 18:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/866709/casio-sx-c1-retro-gaming-inspired-sampler-at-namm" target="_blank">Casio teased a retro gaming-inspired sampler</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-23 18:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -110,6 +138,15 @@
                 <span class="title"><a href="https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak" target="_blank">The best instant cameras you can buy right now</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-23 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/696fc49d3550adf6e75407da/master/pass/pol-dhs-fentanyl-452622106.jpg" alt="CBP Wants AI-Powered ‘Quantum Sensors’ for Finding Fentanyl in Cars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cbp-wants-ai-powered-quantum-sensors-for-finding-fentanyl-in-cars/" target="_blank">CBP Wants AI-Powered ‘Quantum Sensors’ for Finding Fentanyl in Cars</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-23 17:08</span>
             </div>
         </div>
 <div class="story">
@@ -130,33 +167,6 @@
                 <span class="time">2026-01-23 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/23/this-startup-will-send-1000-peoples-ashes-to-space-affordably-in-2027/" target="_blank">This startup will send 1,000 people’s ashes to space — affordably — in 2027</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-23 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b7a5b5577aac6996e92b58/master/pass/The%20Best%20Action%20Cameras.png" alt="Best Action Cameras (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-action-cameras/" target="_blank">Best Action Cameras (2026), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-23 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/54643108625_7db2967a37_k-500x500.jpg" alt="Rocket Report: Chinese rockets fail twice in 12 hours; Rocket Lab reports setback" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/01/rocket-report-rocket-lab-reports-neutron-setback-australia-backs-launch-startup/" target="_blank">Rocket Report: Chinese rockets fail twice in 12 hours; Rocket Lab reports setback</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-23 14:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +179,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F44zd1ng45mkrhnxo5df3.jpeg" alt="MCP Development with Fortran, Cloud Run, and Gemini CLI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gde/mcp-development-with-fortran-cloud-run-and-gemini-cli-2m4n" target="_blank">MCP Development with Fortran, Cloud Run, and Gemini CLI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-23 18:50</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +226,6 @@
                 <span class="time">2026-01-23 17:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Disabling-Next-Buddy" target="_blank">Linux 6.19 Scheduler Feature Being Disabled Due To Performance Regressions</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-23 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/TheMuppetShowSabrinaCarpenter-1280x853.jpg" alt="‘The Muppet Show’ Special Drops a Gently Kinky Full Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/muppet-show-2026-trailer-sabrina-carpenter-miss-piggy-2000713479" target="_blank">‘The Muppet Show’ Special Drops a Gently Kinky Full Trailer</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-23 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KFNT5VGGSDV7RPZ6PP827F3M/hero-image.png" alt="Tesla Has Dropped This Basic Autopilot Feature, Forcing US Drivers Into Subscriptions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/tesla-dropped-basic-autopilot-forcing-us-drivers-into-subscriptions?utm_medium=RSS" target="_blank">Tesla Has Dropped This Basic Autopilot Feature, Forcing US Drivers Into Subscriptions</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-23 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/ANBERNIC-RG-G01-Smart-Controller-Coming-Soon-0m29s-1-1280x720.jpg" alt="Made That Controller For You Boss, Added A Heartbeat Sensor And Built-In Screen Just Like You Asked" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,29 +299,20 @@
                 <span class="time">2026-01-23 16:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/power-lines-covered-in-ice-1280x853.jpg" alt="Massive Winter Storm Could Knock Out Power Across the Nation. Here’s How to Prepare" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/massive-winter-storm-could-knock-out-power-across-the-nation-heres-how-to-prepare-2000713419" target="_blank">Massive Winter Storm Could Knock Out Power Across the Nation. Here’s How to Prepare</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-23 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/Bose-QuietComfort-Ultra-Earbuds-1280x853.jpg" alt="Bose Goes on ANC Headphone Clearance, New QuietComfort Ultra Earbuds (2nd Gen) Crash to an All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/bose-goes-on-anc-headphone-clearance-new-quietcomfort-ultra-earbuds-2nd-gen-crash-to-an-all-time-low-2000662534" target="_blank">Bose Goes on ANC Headphone Clearance, New QuietComfort Ultra Earbuds (2nd Gen) Crash to an All-Time Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-23 15:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1768948495-20260123.png" alt="Saturday Morning Breakfast Cereal - Trad" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/trad" target="_blank">Saturday Morning Breakfast Cereal - Trad</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-01-23 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -317,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 19:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
