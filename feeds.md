@@ -1,46 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-23 16:03:08 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-23 17:05:23 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 37 feeds processed -->
+<!-- Generated 12 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, January 23, 2026 - 16:03 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, January 23, 2026 - 17:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -68,10 +59,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/1/23/why-qatar-is-betting-on-diplomacy-with-iran?traffic_source=rss" target="_blank">Why Qatar is betting on diplomacy with Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-23 15:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/01/23/g-s1-106993/vietnam-leader-to-lam-consolidates-power-as-country-targets-10-growth" target="_blank">Vietnam leader To Lam consolidates power as country targets 10% growth</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-23 14:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-royal-anglian-regiment_7143770.jpg?20260123165238" alt="&#x27;Insulting and frankly appalling&#x27;: PM condemns Trump&#x27;s remarks on UK troops in Afghanistan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-sparks-fury-by-claiming-us-allies-stayed-off-afghanistan-frontline-13498044" target="_blank">&#x27;Insulting and frankly appalling&#x27;: PM condemns Trump&#x27;s remarks on UK troops in Afghanistan</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-23 14:29</span>
             </div>
         </div>
 <div class="story">
@@ -92,29 +101,20 @@
                 <span class="time">2026-01-23 13:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35da/live/042f00b0-f840-11f0-b385-5f48925de19a.jpg" alt="Trump &#x27;wrong&#x27; to claim Nato troops avoided Afghanistan front line, Downing Street says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss" target="_blank">Trump &#x27;wrong&#x27; to claim Nato troops avoided Afghanistan front line, Downing Street says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-23 13:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769170456912_tdy_news_7a_chandler_winter_storm_watch_260123_1920x1080-isl11i.jpg" alt="Winter Storm Watch: Where It&#x27;s Expected to Bring Heavy Snow, Ice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/winter-storm-watch-where-it-s-expected-to-bring-heavy-snow-ice-256447557529" target="_blank">Winter Storm Watch: Where It&#x27;s Expected to Bring Heavy Snow, Ice</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-23 12:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/" target="_blank">Google Photos’ latest feature lets you meme yourself</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-23 17:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -160,15 +160,6 @@
                 <span class="time">2026-01-23 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/23/tesla-discontinues-autopilot-in-bid-to-boost-adoption-of-its-full-self-driving-software/" target="_blank">Tesla discontinues Autopilot in bid to boost adoption of its Full Self-Driving software</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-23 12:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -184,48 +175,48 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flcyjh91u0jy6irit2nfm.webp" alt="Mahdi Shamlou | Solving LeetCode #3: Longest Substring Without Repeating Characters — My First Attempt &amp; My Optimal Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mahdi0shamlou/mahdi-shamlou-solving-leetcode-3-longest-substring-without-repeating-characters-my-first-5766" target="_blank">Mahdi Shamlou | Solving LeetCode #3: Longest Substring Without Repeating Characters — My First Attempt &amp; My Optimal Way</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-23 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Disabling-Next-Buddy" target="_blank">Linux 6.19 Scheduler Feature Being Disabled Due To Performance Regressions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-23 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/nexphone-returns/" target="_blank">Not An April Fool&amp;#x27;s Joke, You Can Run Linux and Windows on This Android Smartphone</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-23 16:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://maggieappleton.com/gastown" target="_blank">Gas Town&#x27;s Agent Patterns, Design Bottlenecks, and Vibecoding at Scale</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-23 16:19</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gde/tips-and-tricks-for-article-publishing-23b8" target="_blank">Tips and Tricks for Article Publishing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-23 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Vulkan-Roadmap-2026" target="_blank">Vulkan Roadmap 2026 Milestone: Variable Rate Shading, Host Image Copies &amp; More</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-23 15:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Ryzen-AI-Software-1.7" target="_blank">AMD Ryzen AI Software 1.7 Released For Improved Performance On NPUs, New Model Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-23 14:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18845713&w=600" alt="Docker Runtime Escape: Why Mounting docker.sock Is Worse Than Running Privileged Containers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/docker-runtime-escape-docker-sock" target="_blank">Docker Runtime Escape: Why Mounting docker.sock Is Worse Than Running Privileged Containers</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-23 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNU-Guix-1.5-Released" target="_blank">GNU Guix 1.5 Relesed With RISC-V Support, Experimental x86_64 GNU Hurd Kernel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-23 13:54</span>
             </div>
         </div>
 </div>
@@ -247,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/image-3-1-1280x766.jpg" alt="Palworld Studio Has Devs Share Screenshots Of Steam Playtime To Prove They’re ‘True’ Gamers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/palworld-pocketpair-steam-mhw-patch-pc-performance-2000662592" target="_blank">Palworld Studio Has Devs Share Screenshots Of Steam Playtime To Prove They’re ‘True’ Gamers</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-23 16:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/power-lines-covered-in-ice-1280x853.jpg" alt="Massive Winter Storm Could Knock Out Power Across the Nation. Here’s How to Prepare" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/massive-winter-storm-could-knock-out-power-across-the-nation-heres-how-to-prepare-2000713419" target="_blank">Massive Winter Storm Could Knock Out Power Across the Nation. Here’s How to Prepare</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-23 16:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/Bose-QuietComfort-Ultra-Earbuds-1280x853.jpg" alt="Bose Goes on ANC Headphone Clearance, New QuietComfort Ultra Earbuds (2nd Gen) Crash to an All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,24 +292,6 @@
                 <span class="time">2026-01-23 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/KAMRUI-Hyper-H2-Mini-Gaming-PC-1280x853.jpg" alt="This Mini Gaming PC (32GB RAM, 1TB SSD) Drops to an All-Time Low as Amazon Starts Offloading a Top-Rated Tiny PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-mini-gaming-pc-32gb-ram-1tb-ssd-drops-to-an-all-time-low-as-amazon-starts-offloading-a-top-rated-tiny-pc-2000662379" target="_blank">This Mini Gaming PC (32GB RAM, 1TB SSD) Drops to an All-Time Low as Amazon Starts Offloading a Top-Rated Tiny PC</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-23 13:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/Google-Pixel-9a-1280x853.jpg" alt="Google Clears Out Last Year’s Gemini Smartphone as Pixel 9a Crashes to Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/google-clears-out-last-years-gemini-smartphone-as-pixel-9a-crashes-to-its-lowest-price-ever-2000662401" target="_blank">Google Clears Out Last Year’s Gemini Smartphone as Pixel 9a Crashes to Its Lowest Price Ever</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-23 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,22 +315,13 @@
                 <span class="time">2026-01-23 01:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1768948432-20260122.png" alt="Saturday Morning Breakfast Cereal - Fertile" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/fertile" target="_blank">Saturday Morning Breakfast Cereal - Fertile</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-22 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 278 |
-        🔄 Last Updated: 16:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 17:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
