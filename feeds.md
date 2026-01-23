@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-23 14:04:02 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-23 15:03:28 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, January 23, 2026 - 14:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, January 23, 2026 - 15:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +106,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/68b7a5b5577aac6996e92b58/master/pass/The%20Best%20Action%20Cameras.png" alt="Best Action Cameras (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-action-cameras/" target="_blank">Best Action Cameras (2026), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-23 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/54643108625_7db2967a37_k-500x500.jpg" alt="Rocket Report: Chinese rockets fail twice in 12 hours; Rocket Lab reports setback" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/01/rocket-report-rocket-lab-reports-neutron-setback-australia-backs-launch-startup/" target="_blank">Rocket Report: Chinese rockets fail twice in 12 hours; Rocket Lab reports setback</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-23 14:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6972b691248c85b42bd99f91/master/pass/The%20Best%20Paper%20Notebooks%20and%20Journals.png" alt="The Best Paper Notebooks and Journals, Tested and Reviewed (2026): Leuchttherm, Midori, Field Notes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -146,24 +159,6 @@
                 <span class="time">2026-01-23 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6972b476e1cb18da7bcf62f9/master/pass/Review-%20We%20Are%20Rewind%20GB-001%20Cassette%20Boombox.png" alt="We Are Rewind GB-001 Cassette Boombox: Old-School Stylish" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/we-are-rewind-gb-000/" target="_blank">We Are Rewind GB-001 Cassette Boombox: Old-School Stylish</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-23 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="$30 Off Chewy Promo Codes | January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/chewy-promo-code/" target="_blank">$30 Off Chewy Promo Codes | January 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-23 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +171,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Ryzen-AI-Software-1.7" target="_blank">AMD Ryzen AI Software 1.7 Released For Improved Performance On NPUs, New Model Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-23 14:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18845713&w=600" alt="Docker Runtime Escape: Why Mounting docker.sock Is Worse Than Running Privileged Containers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/docker-runtime-escape-docker-sock" target="_blank">Docker Runtime Escape: Why Mounting docker.sock Is Worse Than Running Privileged Containers</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-23 14:00</span>
             </div>
         </div>
 <div class="story">
@@ -205,24 +218,6 @@
                 <span class="time">2026-01-23 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/louis7/my-new-year-portfolio-challenge-g18" target="_blank">My New Year Portfolio Challenge!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-23 10:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Servo-0.0.4" target="_blank">Servo 0.0.4 Browser Engine Released &amp; Finally Supporting Multiple Windows</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-23 10:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/05/01eb1f1332dfff9089c2405eb36c0c6b-1280x720.jpg" alt="The Third Final Fantasy VII Remake Game Is Playable And Has An Even Better Version Of Queen’s Blood" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/final-fantasy-7-remake-3-queens-blood-snowboarding-2000662578" target="_blank">The Third Final Fantasy VII Remake Game Is Playable And Has An Even Better Version Of Queen’s Blood</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-23 14:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/PS_LX5BT_Angle_open.jpg?fit=400%2C267&amp;quality=60&amp;ssl=1" alt="Sony&#x27;s first new turntables in years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/23/sonys-first-new-turntables-in-years.html" target="_blank">Sony&#x27;s first new turntables in years</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-23 14:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/MS-0123-The-Mummy-Brendan-Fraser-Oded-Fehr-1280x853.jpg" alt="One Familiar Face Isn’t Back for ‘The Mummy 4’ Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-mummy-4-oded-fehr-ardeth-bay-2000713209" target="_blank">One Familiar Face Isn’t Back for ‘The Mummy 4’ Yet</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-23 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/KAMRUI-Hyper-H2-Mini-Gaming-PC-1280x853.jpg" alt="This Mini Gaming PC (32GB RAM, 1TB SSD) Drops to an All-Time Low as Amazon Starts Offloading a Top-Rated Tiny PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,33 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/a-knight-of-the-seven-kingdoms-notched-a-solid-ratings-debut-2000713173" target="_blank">‘A Knight of the Seven Kingdoms’ Notched a Solid Ratings Debut</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-23 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Wonder-Man-Review-1280x853.jpg" alt="‘Wonder Man’ May Be Marvel’s Best Show Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/wonder-man-may-be-marvels-best-show-yet-2000712627" target="_blank">‘Wonder Man’ May Be Marvel’s Best Show Yet</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-23 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/tiktok-culver-city-1280x853.jpg" alt="TikTok Creates Legal Entity to Eventually Maybe Possibly Sell to U.S. Investors (Don’t Call It a Done Deal)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tiktok-creates-legal-entity-to-eventually-maybe-possibly-sell-to-u-s-investors-dont-call-it-a-done-deal-2000713218" target="_blank">TikTok Creates Legal Entity to Eventually Maybe Possibly Sell to U.S. Investors (Don’t Call It a Done Deal)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-23 01:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/ss_17b0e8d6a90e174e45f4c7438167d-1280x720.jpg" alt="Forza Horizon 6: Everything We Know About The Open-World Racing Game Set In Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/forza-horizon-6-everything-we-know-xbox-biggest-map-online-play-ps5-release-date-2000662346" target="_blank">Forza Horizon 6: Everything We Know About The Open-World Racing Game Set In Japan</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-22 22:40</span>
             </div>
         </div>
 </div>
@@ -333,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 14:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 276 |
+        🔄 Last Updated: 15:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
