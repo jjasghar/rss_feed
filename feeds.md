@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-23 02:37:44 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-23 03:30:17 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Error processing https://krebsonsecurity.com/feed/: The read operation timed out -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, January 23, 2026 - 02:38 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, January 23, 2026 - 03:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/gonzales-wnt-1_1769133090824_hpMain_4x3t_384.jpg" alt="ABC News Exclusive: Former Uvalde officer speaks out after acquittal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/abc-news-exclusive-former-uvalde-officer-adrian-gonzales/story?id=129474100" target="_blank">ABC News Exclusive: Former Uvalde officer speaks out after acquittal</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-23 03:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/23/did-the-us-give-greenland-back-to-denmark-trump-omits-history-at-davos?traffic_source=rss" target="_blank">Did the US give Greenland back to Denmark? Trump omits history at Davos</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-23 02:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/22/g-s1-106949/republican-house-war-powers-venezuela" target="_blank">Republican-led House blocks effort to limit President Trump&#x27;s war powers in Venezuela</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-23 00:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769127019656_nn_mve_vance_defends_ice_mission_in_minneapolis_260122_1920x1080-t1orzu.jpg" alt="Vance defends ICE mission in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,33 +104,6 @@
                 <span class="time">2026-01-22 22:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/22/g-s1-106927/house-spending-homeland-immigration" target="_blank">House approves spending bills despite many Democrats&#x27; objections to ICE funds</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-22 22:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/jack-smith-15-gty-gmh-260122_1769108113426_hpMain_4x3t_384.jpg" alt="&#x27;Donald Trump is the person who caused Jan. 6,&#x27; Jack Smith tells House committee" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/former-special-counsel-jack-smith-testify-front-house/story?id=129420778" target="_blank">&#x27;Donald Trump is the person who caused Jan. 6,&#x27; Jack Smith tells House committee</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-22 21:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/22/mamdani-defends-mahmoud-khalil-on-deportation-order?traffic_source=rss" target="_blank">Mamdani defends Mahmoud Khalil on deportation order</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-22 20:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,6 +116,15 @@
                 <span class="title"><a href="https://www.theverge.com/tech/866437/tiktok-usds-bytedance-sale-oracle-mgx" target="_blank">The TikTok deal is done, finally</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-23 01:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69725087e6598106e5d4e52e/master/pass/rev-1-GRC-TRL2-001r_High_Res_JPEG%20(2).jpg" alt="Sorry MAGA, Turns Out People Still Like ‘Woke’ Art" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sorry-maga-turns-out-people-still-like-woke-art/" target="_blank">Sorry MAGA, Turns Out People Still Like ‘Woke’ Art</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-23 00:09</span>
             </div>
         </div>
 <div class="story">
@@ -129,30 +146,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1250822831-500x500.jpeg" alt="US officially out of WHO, leaving hundreds of millions of dollars unpaid" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/01/us-stiffs-who-hundreds-of-millions-as-it-officially-withdrawals/" target="_blank">US officially out of WHO, leaving hundreds of millions of dollars unpaid</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-22 23:07</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/865618/nintendo-talking-flower-preorder-super-mario-wonder" target="_blank">Nintendo is following up Alarmo with a weird Talking Flower in March</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-22 22:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/" target="_blank">Are AI agents ready for the workplace? A new benchmark raises doubts.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-22 21:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69725edc4987ee01eb7d27c9/master/pass/Elon-Musk-Predictions-Davos-Gear-2256975235.jpg" alt="Elon Musk Sure Made Lots of Predictions at Davos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/elon-musk-sure-made-lots-of-predictions-at-davos/" target="_blank">Elon Musk Sure Made Lots of Predictions at Davos</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-22 20:57</span>
             </div>
         </div>
 </div>
@@ -167,6 +175,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F534tiek2xgkoy180im2z.webp" alt="Qwen3-TTS: The Open-Source Text-to-Speech Revolution in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gary_yan_86eb77d35e0070f5/qwen3-tts-the-open-source-text-to-speech-revolution-in-2026-3466" target="_blank">Qwen3-TTS: The Open-Source Text-to-Speech Revolution in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-23 03:14</span>
             </div>
         </div>
 <div class="story">
@@ -203,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/paulohsoliveira/como-usei-um-changelog-publico-para-dobrar-o-engajamento-do-saas-259c" target="_blank">Como usei um Changelog Público para Dobrar o Engajamento do SaaS</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-23 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmql5i26hjuys998p5hcq.png" alt="Distributed Scraping: The Flask + Celery + Redis Stack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/deepak_mishra_35863517037/distributed-scraping-the-flask-celery-redis-stack-17d3" target="_blank">Distributed Scraping: The Flask + Celery + Redis Stack</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-22 22:00</span>
             </div>
         </div>
 </div>
@@ -252,6 +260,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/12/titanic.jpg?fit=1924%2C1132&amp;quality=60&amp;ssl=1" alt="Vance compares Trump&#x27;s economy to the Titanic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/22/vance-compares-trumps-economy-to-the-titanic.html" target="_blank">Vance compares Trump&#x27;s economy to the Titanic</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-22 22:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/PDF-Converter-Editor.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This PDF Editor lifetime license is now at 70% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -278,20 +295,20 @@
                 <span class="time">2026-01-22 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KFKNQSZQJMDTC2Z5YQRWGVC6/hero-image.png" alt="How to Stop This New Pixel Bug From Leaking Your Audio to Incoming Callers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/pixel-bug-take-a-message?utm_medium=RSS" target="_blank">How to Stop This New Pixel Bug From Leaking Your Audio to Incoming Callers</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-22 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5750.png" alt="*Claire Intensifies*" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5750" target="_blank">*Claire Intensifies*</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-01-23 01:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1768948432-20260122.png" alt="Saturday Morning Breakfast Cereal - Fertile" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -306,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 02:38 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 03:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
