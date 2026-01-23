@@ -1,35 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-01-23 12:02:36 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-23 13:15:17 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, January 23, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, January 23, 2026 - 13:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35da/live/042f00b0-f840-11f0-b385-5f48925de19a.jpg" alt="Trump &#x27;wrong&#x27; to claim Nato troops avoided Afghanistan front line, Downing Street says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss" target="_blank">Trump &#x27;wrong&#x27; to claim Nato troops avoided Afghanistan front line, Downing Street says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-23 13:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +93,29 @@
                 <span class="time">2026-01-23 08:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-ukraine-grad-missile_7143417.jpg?20260123111922" alt="How close is a peace deal in Ukraine - and have we been here before?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/how-close-is-a-peace-deal-in-ukraine-and-have-we-been-here-before-13497897" target="_blank">How close is a peace deal in Ukraine - and have we been here before?</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-23 08:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/23/tesla-discontinues-autopilot-in-bid-to-boost-adoption-of-its-full-self-driving-software/" target="_blank">Tesla discontinues Autopilot in bid to boost adoption of its Full Self-Driving software</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-23 12:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/2026-Lucid-Air-Touring-1-e1768932171844-500x500-1768932196.jpg" alt="2026 Lucid Air Touring review: This feels like a complete car now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/features/2026/01/2026-lucid-air-touring-review-this-feels-like-a-complete-car-now/" target="_blank">2026 Lucid Air Touring review: This feels like a complete car now</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-23 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,24 +152,6 @@
                 <span class="time">2026-01-23 02:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/866437/tiktok-usds-bytedance-sale-oracle-mgx" target="_blank">The TikTok deal is done, finally</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-23 01:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69725087e6598106e5d4e52e/master/pass/rev-1-GRC-TRL2-001r_High_Res_JPEG%20(2).jpg" alt="Sorry MAGA, Turns Out People Still Like ‘Woke’ Art" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sorry-maga-turns-out-people-still-like-woke-art/" target="_blank">Sorry MAGA, Turns Out People Still Like ‘Woke’ Art</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-23 00:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +164,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Zlib-rs-0.6-Released" target="_blank">Zlib-rs 0.6 Released With Improved AVX-512 Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-23 11:21</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +211,6 @@
                 <span class="time">2026-01-23 09:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md" target="_blank">Ghostty&#x27;s AI Policy</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-23 09:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,20 +225,29 @@
                 <span class="time">2026-01-23 12:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/why-ai-keeps-falling-for-prompt-injection-attacks.html" target="_blank">Why AI Keeps Falling for Prompt Injection Attacks</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-01-22 12:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/Google-Pixel-9a-1280x853.jpg" alt="Google Clears Out Last Year’s Gemini Smartphone as Pixel 9a Crashes to Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/google-clears-out-last-years-gemini-smartphone-as-pixel-9a-crashes-to-its-lowest-price-ever-2000662401" target="_blank">Google Clears Out Last Year’s Gemini Smartphone as Pixel 9a Crashes to Its Lowest Price Ever</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-23 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/dexter-sol-ansell-peter-claffey_0-2-2-1280x853.jpg" alt="‘A Knight of the Seven Kingdoms’ Notched a Solid Ratings Debut" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-knight-of-the-seven-kingdoms-notched-a-solid-ratings-debut-2000713173" target="_blank">‘A Knight of the Seven Kingdoms’ Notched a Solid Ratings Debut</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-23 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Wonder-Man-Review-1280x853.jpg" alt="‘Wonder Man’ May Be Marvel’s Best Show Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +282,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/22/vance-compares-trumps-economy-to-the-titanic.html" target="_blank">Vance compares Trump&#x27;s economy to the Titanic</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-22 22:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/PDF-Converter-Editor.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This PDF Editor lifetime license is now at 70% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/22/this-pdf-editor-lifetime-license-is-now-at-70-off.html" target="_blank">This PDF Editor lifetime license is now at 70% off</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-22 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KFKW7060E8XGH0JGW97MQCAZ/hero-image.png" alt="A Study Found Diet Coke Is Better for You Than Water (Sort Of)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/diet-coke-water-glucose-study?utm_medium=RSS" target="_blank">A Study Found Diet Coke Is Better for You Than Water (Sort Of)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-22 22:00</span>
             </div>
         </div>
 </div>
@@ -336,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 13:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
