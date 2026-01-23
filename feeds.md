@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-23 08:02:17 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-23 09:04:45 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, January 23, 2026 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, January 23, 2026 - 09:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88e1/live/5d0fb890-f832-11f0-b385-5f48925de19a.jpg" alt="Trump&#x27;s claim about Nato troops in Afghanistan is disappointing, minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s claim about Nato troops in Afghanistan is disappointing, minister says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-23 08:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +95,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/abc-news-exclusive-former-uvalde-officer-adrian-gonzales/story?id=129474100" target="_blank">ABC News Exclusive: Former Uvalde officer speaks out after acquittal</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-23 03:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/23/did-the-us-give-greenland-back-to-denmark-trump-omits-history-at-davos?traffic_source=rss" target="_blank">Did the US give Greenland back to Denmark? Trump omits history at Davos</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-23 02:40</span>
             </div>
         </div>
 </div>
@@ -174,6 +173,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nunc/i-used-claude-code-to-write-a-legal-appeal-for-my-mothers-disability-benefits-40f4" target="_blank">I Used Claude Code to Write a Legal Appeal for My Mother&#x27;s Disability Benefits</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-23 09:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/" target="_blank">AI can 10x developers...in creating tech debt</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-01-23 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://dbushell.com/2026/01/22/proton-spam/" target="_blank">Proton Spam and the AI Consent Problem</a></span>
                 <span class="feed">Hacker News</span>
@@ -196,24 +213,6 @@
                 <span class="title"><a href="https://www.youtube.com/watch?v=moBCOEiqiPs" target="_blank">I built a light that reacts to radio waves [video]</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-23 05:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyorf8bvd6rkhoxqbm78m.gif" alt="What was your win this week?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devteam/what-was-your-win-this-week-4ig9" target="_blank">What was your win this week?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-23 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thesystemistsimon/complexity-cant-be-eliminated-it-can-only-be-moved-2am7" target="_blank">Complexity Can&#x27;t Be Eliminated. It Can Only Be Moved</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-23 04:09</span>
             </div>
         </div>
 </div>
@@ -295,6 +294,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/01/23/more-of-a-monchichi-man-myself" target="_blank">More Of A Monchichi Man Myself</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-01-23 08:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5750.png" alt="*Claire Intensifies*" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -317,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 09:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
