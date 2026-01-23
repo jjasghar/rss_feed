@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-23 20:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-23 21:01:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, January 23, 2026 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, January 23, 2026 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -60,6 +68,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/23/nx-s1-5686526/trump-davos-world-order" target="_blank">At Davos, U.S. allies question a fraying world order</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-23 19:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4d/live/e4a85680-f88d-11f0-b385-5f48925de19a.jpg" alt="Harry says sacrifices by Nato troops in Afghanistan deserve &#x27;respect&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -86,20 +103,38 @@
                 <span class="time">2026-01-23 17:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/23/pakistani-military-orders-evacuations-ahead-of-security-sweep-in-tirah?traffic_source=rss" target="_blank">Pakistani military orders evacuations ahead of security sweep in Tirah</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-23 17:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/intel-core-ultra-series-3-500x500-1769199922.jpg" alt="Core Ultra Series 3 launch may be hampered by chip shortages, says Intel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/core-ultra-series-3-launch-may-be-hampered-by-chip-shortages-says-intel/" target="_blank">Core Ultra Series 3 launch may be hampered by chip shortages, says Intel</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-23 20:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6973c380436287e7ad118029/master/pass/How%20to%20Prep%20for%20This%20Weekend's%20Winter%20Storm.png" alt="How to Prep for This Weekend’s Big Winter Storm: Power, Heat, and Underwear" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-prep-for-a-winter-storm/" target="_blank">How to Prep for This Weekend’s Big Winter Storm: Power, Heat, and Underwear</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-23 20:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/23/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/" target="_blank">What to know about Netflix’s landmark acquisition of Warner Bros</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-23 20:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -110,48 +145,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version" target="_blank">Meta is stopping teens from chatting with its AI characters</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-23 19:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/nekima-levy-white-house-manipulated-image-500x500-1769192278.jpg" alt="White House alters arrest photo of ICE protester, says &quot;the memes will continue&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/white-house-posts-altered-arrest-photo-to-make-it-appear-ice-critic-was-sobbing/" target="_blank">White House alters arrest photo of ICE protester, says &quot;the memes will continue&quot;</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-01-23 18:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/866709/casio-sx-c1-retro-gaming-inspired-sampler-at-namm" target="_blank">Casio teased a retro gaming-inspired sampler</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-23 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak" target="_blank">The best instant cameras you can buy right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-23 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/696fc49d3550adf6e75407da/master/pass/pol-dhs-fentanyl-452622106.jpg" alt="CBP Wants AI-Powered ‘Quantum Sensors’ for Finding Fentanyl in Cars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cbp-wants-ai-powered-quantum-sensors-for-finding-fentanyl-in-cars/" target="_blank">CBP Wants AI-Powered ‘Quantum Sensors’ for Finding Fentanyl in Cars</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-23 17:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/" target="_blank">Google Photos’ latest feature lets you meme yourself</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-23 17:02</span>
             </div>
         </div>
 </div>
@@ -171,10 +179,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/amal_org_e8fe019c45517244/data-analyst-guide-mastering-neural-networks-when-analysts-should-use-deep-learning-32ib" target="_blank">Data Analyst Guide: Mastering Neural Networks: When Analysts Should Use Deep Learning</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-23 20:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/news/curl-closes-bug-bounty-program/" target="_blank">cURL Gets Rid of Its Bug Bounty Program Over AI Slop Overrun</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-01-23 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18845507&w=600" alt="PostgreSQL Trigram Similarity vs. Pattern Matching: A Performance Comparison" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/postgresql-trigram-similarity-vs-pattern-matching" target="_blank">PostgreSQL Trigram Similarity vs. Pattern Matching: A Performance Comparison</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-23 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -193,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/gde/mcp-development-with-fortran-cloud-run-and-gemini-cli-2m4n" target="_blank">MCP Development with Fortran, Cloud Run, and Gemini CLI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-23 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/ramp-coding-agent-platform/en/headerimage/generatedHeaderImage-1769181906277.jpg" alt="Ramp Builds Internal Coding Agent That Powers 30% of Engineering Pull Requests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/ramp-coding-agent-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Ramp Builds Internal Coding Agent That Powers 30% of Engineering Pull Requests</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-23 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F601hnelif92xa4ahubiu.png" alt="🚀 Web3 Verifier Agent - Fight Rug Pulls with AI-Powered Due Diligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/datadr1ven/web3-verifier-agent-fight-rug-pulls-with-ai-powered-due-diligence-2c0n" target="_blank">🚀 Web3 Verifier Agent - Fight Rug Pulls with AI-Powered Due Diligence</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-23 17:51</span>
             </div>
         </div>
 </div>
@@ -323,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
