@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-23 11:02:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-23 12:02:36 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, January 23, 2026 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, January 23, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -95,12 +91,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-ukraine-grad-missile_7143417.jpg?20260123111922" alt="How close is a peace deal in Ukraine - and have we been here before?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/23/nx-s1-5686169/venezuela-debate-oil-sector-trump-seeks-role-us-firms" target="_blank">Venezuela opens debate on an oil sector overhaul as Trump seeks role for US firms</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-23 06:58</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/how-close-is-a-peace-deal-in-ukraine-and-have-we-been-here-before-13497897" target="_blank">How close is a peace deal in Ukraine - and have we been here before?</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-23 08:13</span>
             </div>
         </div>
 </div>
@@ -108,6 +104,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/865168/google-says-ai-news-headlines-are-feature-not-experiment" target="_blank">Google won’t stop replacing our news headlines with terrible AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-23 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6972b476e1cb18da7bcf62f9/master/pass/Review-%20We%20Are%20Rewind%20GB-001%20Cassette%20Boombox.png" alt="We Are Rewind GB-001 Cassette Boombox: Old-School Stylish" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/we-are-rewind-gb-000/" target="_blank">We Are Rewind GB-001 Cassette Boombox: Old-School Stylish</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-23 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="$30 Off Chewy Promo Codes | January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,24 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/sorry-maga-turns-out-people-still-like-woke-art/" target="_blank">Sorry MAGA, Turns Out People Still Like ‘Woke’ Art</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-01-23 00:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/22/gm-to-end-chevy-bolt-ev-production-next-year-move-china-made-buick-to-u-s-factory/" target="_blank">GM to end Chevy Bolt EV production next year, move China-made Buick to U.S. factory</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-22 23:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/866298/samsung-frame-tv-2025-43-50-inch-qled-woot-deal-sale" target="_blank">Samsung’s smallest Frame TVs have fallen to their lowest prices to date</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-22 23:51</span>
             </div>
         </div>
 </div>
@@ -215,10 +211,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/how-to-avoid-package-end-of-life-through-backporting" target="_blank">How to avoid package End of Life through backporting</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-01-23 09:15</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md" target="_blank">Ghostty&#x27;s AI Policy</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-23 09:50</span>
             </div>
         </div>
 </div>
@@ -226,6 +222,15 @@
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-internet-vulnerabilities.html" target="_blank">AIs are Getting Better at Finding and Exploiting Internet Vulnerabilities</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-01-23 12:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -240,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Wonder-Man-Review-1280x853.jpg" alt="‘Wonder Man’ May Be Marvel’s Best Show Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/wonder-man-may-be-marvels-best-show-yet-2000712627" target="_blank">‘Wonder Man’ May Be Marvel’s Best Show Yet</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-23 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/tiktok-culver-city-1280x853.jpg" alt="TikTok Creates Legal Entity to Eventually Maybe Possibly Sell to U.S. Investors (Don’t Call It a Done Deal)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +299,6 @@
                 <span class="time">2026-01-22 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/maul-shadow-lord-trailer-breakdown-1280x853.jpg" alt="6 Cool Details We Spotted in the ‘Maul—Shadow Lord’ Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-wars-maul-shadow-lord-trailer-breakdown-2000713065" target="_blank">6 Cool Details We Spotted in the ‘Maul—Shadow Lord’ Trailer</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-22 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
