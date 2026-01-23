@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-23 09:04:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-23 10:01:56 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, January 23, 2026 - 09:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, January 23, 2026 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35da/live/042f00b0-f840-11f0-b385-5f48925de19a.jpg" alt="Trump&#x27;s claim Nato troops avoided Afghanistan front line sparks outrage in UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s claim Nato troops avoided Afghanistan front line sparks outrage in UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-23 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88e1/live/5d0fb890-f832-11f0-b385-5f48925de19a.jpg" alt="Trump&#x27;s claim about Nato troops in Afghanistan is disappointing, minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/23/trump-says-us-still-watching-iran-as-massive-fleet-heads-to-gulf-region?traffic_source=rss" target="_blank">Trump says US still ‘watching Iran‘ as ‘massive’ fleet heads to Gulf region</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-23 03:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/gonzales-wnt-1_1769133090824_hpMain_4x3t_384.jpg" alt="ABC News Exclusive: Former Uvalde officer speaks out after acquittal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/abc-news-exclusive-former-uvalde-officer-adrian-gonzales/story?id=129474100" target="_blank">ABC News Exclusive: Former Uvalde officer speaks out after acquittal</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-23 03:13</span>
             </div>
         </div>
 </div>
@@ -174,9 +179,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pckalyan/evolution-of-making-api-calls-in-javascript-3i1m" target="_blank">Evolution of making API Calls in JavaScript</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-23 09:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nunc/i-used-claude-code-to-write-a-legal-appeal-for-my-mothers-disability-benefits-40f4" target="_blank">I Used Claude Code to Write a Legal Appeal for My Mother&#x27;s Disability Benefits</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-23 09:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/podcasts/leading-interdisciplinary-teams/en/smallimage/engineering-culture-podcast-thumbnail-1768827938206.jpg" alt="Podcast: Culture Through Tension: Leading Interdisciplinary Teams with Nick Gillian" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/podcasts/leading-interdisciplinary-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Culture Through Tension: Leading Interdisciplinary Teams with Nick Gillian</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-23 09:00</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +218,6 @@
                 <span class="title"><a href="https://dbushell.com/2026/01/22/proton-spam/" target="_blank">Proton Spam and the AI Consent Problem</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-23 07:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F985143%2Fc4c372a7-0b38-4f9e-b206-7ed65597ea31.png" alt="Google Antigravity vs GitHub Copilot: Why I&#x27;m Team Antigravity Now 💡" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/this-is-learning/google-antigravity-vs-github-copilot-why-im-team-antigravity-now-fco" target="_blank">Google Antigravity vs GitHub Copilot: Why I&#x27;m Team Antigravity Now 💡</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-23 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.youtube.com/watch?v=moBCOEiqiPs" target="_blank">I built a light that reacts to radio waves [video]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-23 05:34</span>
             </div>
         </div>
 </div>
@@ -325,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
