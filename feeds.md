@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-23 17:05:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-23 18:02:15 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 28 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, January 23, 2026 - 17:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, January 23, 2026 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/23/nx-s1-5685033/weather-influencers-winter-storm" target="_blank">Weather influencers are going viral. How much should we trust them?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-23 17:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/23/pakistani-military-orders-evacuations-ahead-of-security-sweep-in-tirah?traffic_source=rss" target="_blank">Pakistani military orders evacuations ahead of security sweep in Tirah</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-23 17:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/street-brining-storm-ap-jt-260122_1769110722229_hpMain_2_4x3t_384.jpg" alt="Winter storm live updates: At least 14 states declare state of emergency" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +98,20 @@
                 <span class="time">2026-01-23 14:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-valentino-funeral-rome_7143518.jpg?20260123123927" alt="Stars of fashion and film say farewell to Italy&#x27;s haute couture &#x27;emperor&#x27; Valentino" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/stars-of-fashion-and-film-say-farewell-to-italys-haute-couture-emperor-valentino-13498048" target="_blank">Stars of fashion and film say farewell to Italy&#x27;s haute couture &#x27;emperor&#x27; Valentino</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-23 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/23/trump-claim-on-nato-role-in-afghanistan-draws-condemnation?traffic_source=rss" target="_blank">Trump claim on NATO role in Afghanistan draws UK condemnation</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-23 13:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak" target="_blank">The best instant cameras you can buy right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-23 18:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +157,6 @@
                 <span class="time">2026-01-23 14:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6972b691248c85b42bd99f91/master/pass/The%20Best%20Paper%20Notebooks%20and%20Journals.png" alt="The Best Paper Notebooks and Journals, Tested and Reviewed (2026): Leuchttherm, Midori, Field Notes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/the-best-paper-notebook-and-journals/" target="_blank">The Best Paper Notebooks and Journals, Tested and Reviewed (2026): Leuchttherm, Midori, Field Notes</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-23 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +169,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/ramp-coding-agent-platform/en/headerimage/generatedHeaderImage-1769181906277.jpg" alt="Ramp Builds Internal Coding Agent That Powers 30% of Engineering Pull Requests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/ramp-coding-agent-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Ramp Builds Internal Coding Agent That Powers 30% of Engineering Pull Requests</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-23 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F601hnelif92xa4ahubiu.png" alt="🚀 Web3 Verifier Agent - Fight Rug Pulls with AI-Powered Due Diligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/datadr1ven/web3-verifier-agent-fight-rug-pulls-with-ai-powered-due-diligence-2c0n" target="_blank">🚀 Web3 Verifier Agent - Fight Rug Pulls with AI-Powered Due Diligence</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-23 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/tonearm-tidal-app.jpg?resize=406%2C232&amp;ssl=1" alt="Tonearm, New Unofficial TIDAL Client for Linux, Hits Beta" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/tonearm-tidal-client-for-linux-beta" target="_blank">Tonearm, New Unofficial TIDAL Client for Linux, Hits Beta</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-23 17:48</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Disabling-Next-Buddy" target="_blank">Linux 6.19 Scheduler Feature Being Disabled Due To Performance Regressions</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-23 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/nexphone-returns/" target="_blank">Not An April Fool&amp;#x27;s Joke, You Can Run Linux and Windows on This Android Smartphone</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-23 16:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://maggieappleton.com/gastown" target="_blank">Gas Town&#x27;s Agent Patterns, Design Bottlenecks, and Vibecoding at Scale</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-23 16:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gde/tips-and-tricks-for-article-publishing-23b8" target="_blank">Tips and Tricks for Article Publishing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-23 16:00</span>
             </div>
         </div>
 </div>
@@ -238,6 +235,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/ANBERNIC-RG-G01-Smart-Controller-Coming-Soon-0m29s-1-1280x720.jpg" alt="Made That Controller For You Boss, Added A Heartbeat Sensor And Built-In Screen Just Like You Asked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/made-that-controller-for-you-boss-added-a-heartbeat-sensor-and-built-in-screen-just-like-you-asked-2000662633" target="_blank">Made That Controller For You Boss, Added A Heartbeat Sensor And Built-In Screen Just Like You Asked</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-23 17:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Trump decides to fix Iran, what could go wrong?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/23/trump-decies-to-fix-iran-what-could-go-wrong.html" target="_blank">Trump decides to fix Iran, what could go wrong?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-23 17:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GG4A4DBB0KW3QA3HF3PPR/hero-image.jpg" alt="How Cold Is Too Cold to Run Outside?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/how-cold-is-too-cold-to-run-outside?utm_medium=RSS" target="_blank">How Cold Is Too Cold to Run Outside?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-23 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/image-3-1-1280x766.jpg" alt="Palworld Studio Has Devs Share Screenshots Of Steam Playtime To Prove They’re ‘True’ Gamers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,33 +287,6 @@
                 <span class="title"><a href="https://kotaku.com/bose-goes-on-anc-headphone-clearance-new-quietcomfort-ultra-earbuds-2nd-gen-crash-to-an-all-time-low-2000662534" target="_blank">Bose Goes on ANC Headphone Clearance, New QuietComfort Ultra Earbuds (2nd Gen) Crash to an All-Time Low</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-23 15:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/05/01eb1f1332dfff9089c2405eb36c0c6b-1280x720.jpg" alt="The Third Final Fantasy VII Remake Game Is Playable And Has An Even Better Version Of Queen’s Blood" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/final-fantasy-7-remake-3-queens-blood-snowboarding-2000662578" target="_blank">The Third Final Fantasy VII Remake Game Is Playable And Has An Even Better Version Of Queen’s Blood</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-23 14:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/PS_LX5BT_Angle_open.jpg?fit=400%2C267&amp;quality=60&amp;ssl=1" alt="Sony&#x27;s first new turntables in years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/23/sonys-first-new-turntables-in-years.html" target="_blank">Sony&#x27;s first new turntables in years</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-23 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/MS-0123-The-Mummy-Brendan-Fraser-Oded-Fehr-1280x853.jpg" alt="One Familiar Face Isn’t Back for ‘The Mummy 4’ Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-mummy-4-oded-fehr-ardeth-bay-2000713209" target="_blank">One Familiar Face Isn’t Back for ‘The Mummy 4’ Yet</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-23 14:00</span>
             </div>
         </div>
 </div>
@@ -320,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 17:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
