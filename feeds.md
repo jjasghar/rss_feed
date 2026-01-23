@@ -1,39 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-01-23 21:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-23 22:01:42 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, January 23, 2026 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, January 23, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/23/nx-s1-5683204/abortion-trump-mexico-city-policy" target="_blank">Trump expands policy banning aid to groups abroad that discuss or provide abortions</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-23 21:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +107,38 @@
                 <span class="time">2026-01-23 18:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/23/nx-s1-5685033/weather-influencers-winter-storm" target="_blank">Weather influencers are going viral. How much should we trust them?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-23 17:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/4-500x500.jpg" alt="TR-49 is interactive fiction for fans of deep research rabbit holes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/01/tr-49-is-interactive-fiction-for-fans-of-deep-research-rabbit-holes/" target="_blank">TR-49 is interactive fiction for fans of deep research rabbit holes</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-23 21:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/23/waymo-probed-by-national-transportation-safety-board-over-illegal-school-bus-behavior/" target="_blank">Waymo probed by National Transportation Safety Board over illegal school bus behavior</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-23 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6973ce90b45c9c900b2aa2a1/master/pass/TikTok-New-Policy-Gear-2257704792.jpg" alt="TikTok Is Now Collecting Even More Data About Its Users. Here Are the 3 Biggest Changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/tiktok-new-privacy-policy/" target="_blank">TikTok Is Now Collecting Even More Data About Its Users. Here Are the 3 Biggest Changes</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-23 21:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/intel-core-ultra-series-3-500x500-1769199922.jpg" alt="Core Ultra Series 3 launch may be hampered by chip shortages, says Intel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,33 +166,6 @@
                 <span class="time">2026-01-23 20:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/" target="_blank">How did Davos turn into a tech conference?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-23 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version" target="_blank">Meta is stopping teens from chatting with its AI characters</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-23 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/nekima-levy-white-house-manipulated-image-500x500-1769192278.jpg" alt="White House alters arrest photo of ICE protester, says &quot;the memes will continue&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/white-house-posts-altered-arrest-photo-to-make-it-appear-ice-critic-was-sobbing/" target="_blank">White House alters arrest photo of ICE protester, says &quot;the memes will continue&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-23 18:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -179,10 +183,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.1-Released" target="_blank">Wine 11.1 Released In Kicking Off The New Development Cycle</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-23 21:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/unrolling-the-codex-agent-loop/" target="_blank">Unrolling the Codex agent loop</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-23 20:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/amal_org_e8fe019c45517244/data-analyst-guide-mastering-neural-networks-when-analysts-should-use-deep-learning-32ib" target="_blank">Data Analyst Guide: Mastering Neural Networks: When Analysts Should Use Deep Learning</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-23 20:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18845511&w=600" alt="Secure AI Architecture for Payments: From Risk Signals to Real-Time Decisions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/secure-ai-architecture-for-payments" target="_blank">Secure AI Architecture for Payments: From Risk Signals to Real-Time Decisions</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-23 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -192,33 +223,6 @@
                 <span class="title"><a href="https://itsfoss.com/news/curl-closes-bug-bounty-program/" target="_blank">cURL Gets Rid of Its Bug Bounty Program Over AI Slop Overrun</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-01-23 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18845507&w=600" alt="PostgreSQL Trigram Similarity vs. Pattern Matching: A Performance Comparison" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/postgresql-trigram-similarity-vs-pattern-matching" target="_blank">PostgreSQL Trigram Similarity vs. Pattern Matching: A Performance Comparison</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-23 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Cirrus-CS42L45-Linux-Firmware" target="_blank">Firmware Upstreamed For Audio Support With Upcoming Dell &amp; Lenovo Panther Lake Laptops</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-23 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F44zd1ng45mkrhnxo5df3.jpeg" alt="MCP Development with Fortran, Cloud Run, and Gemini CLI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gde/mcp-development-with-fortran-cloud-run-and-gemini-cli-2m4n" target="_blank">MCP Development with Fortran, Cloud Run, and Gemini CLI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-23 18:50</span>
             </div>
         </div>
 </div>
@@ -240,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/ice-cube.jpg?fit=1200%2C757&amp;quality=60&amp;ssl=1" alt="Hot water can freeze faster than cold water, and no one fully understands why" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/23/hot-water-can-freeze-faster-than-cold-water-and-no-one-fully-understands-why.html" target="_blank">Hot water can freeze faster than cold water, and no one fully understands why</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-23 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are the Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are the Top 10 Tech Deals This Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-23 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/TheMuppetShowSabrinaCarpenter-1280x853.jpg" alt="‘The Muppet Show’ Special Drops a Gently Kinky Full Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +296,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/23/trump-decies-to-fix-iran-what-could-go-wrong.html" target="_blank">Trump decides to fix Iran, what could go wrong?</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-23 17:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GG4A4DBB0KW3QA3HF3PPR/hero-image.jpg" alt="How Cold Is Too Cold to Run Outside?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/how-cold-is-too-cold-to-run-outside?utm_medium=RSS" target="_blank">How Cold Is Too Cold to Run Outside?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-23 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/image-3-1-1280x766.jpg" alt="Palworld Studio Has Devs Share Screenshots Of Steam Playtime To Prove They’re ‘True’ Gamers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/palworld-pocketpair-steam-mhw-patch-pc-performance-2000662592" target="_blank">Palworld Studio Has Devs Share Screenshots Of Steam Playtime To Prove They’re ‘True’ Gamers</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-23 16:54</span>
             </div>
         </div>
 </div>
@@ -331,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
