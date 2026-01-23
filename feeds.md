@@ -1,40 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-01-23 03:30:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-23 04:16:04 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, January 23, 2026 - 03:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, January 23, 2026 - 04:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +53,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/23/trump-says-us-still-watching-iran-as-massive-fleet-heads-to-gulf-region?traffic_source=rss" target="_blank">Trump says US still ‘watching Iran‘ as ‘massive’ fleet heads to Gulf region</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-23 03:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/gonzales-wnt-1_1769133090824_hpMain_4x3t_384.jpg" alt="ABC News Exclusive: Former Uvalde officer speaks out after acquittal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -66,6 +77,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/23/did-the-us-give-greenland-back-to-denmark-trump-omits-history-at-davos?traffic_source=rss" target="_blank">Did the US give Greenland back to Denmark? Trump omits history at Davos</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-23 02:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/white-house-1-ap-er-260122_1769119446519_hpMain_4x3t_384.jpg" alt="White House ballroom: Judge signals skepticism of Trump administration arguments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/white-house-ballroom-judge-signals-skepticism-trump-administration/story?id=129471562" target="_blank">White House ballroom: Judge signals skepticism of Trump administration arguments</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-23 01:30</span>
             </div>
         </div>
 <div class="story">
@@ -86,29 +106,20 @@
                 <span class="time">2026-01-23 00:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a07/live/ef1e0670-f7e1-11f0-92a9-4b8c6d96765f.jpg" alt="Trump sparks anger over claim Nato troops avoided Afghanistan front line" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss" target="_blank">Trump sparks anger over claim Nato troops avoided Afghanistan front line</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-22 22:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-afghanistan-british_7143138.jpg?20260122232937" alt="Trump under fire for claiming US allies stayed off Afghan frontline" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-under-fire-for-claiming-nato-allies-avoided-afghanistan-frontline-13497843" target="_blank">Trump under fire for claiming US allies stayed off Afghan frontline</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-22 22:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/" target="_blank">Former Sequoia partner’s new startup uses AI to negotiate your calendar for you</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-23 02:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,15 +165,6 @@
                 <span class="time">2026-01-22 23:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/865618/nintendo-talking-flower-preorder-super-mario-wonder" target="_blank">Nintendo is following up Alarmo with a weird Talking Flower in March</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-22 22:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +177,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thesystemistsimon/complexity-cant-be-eliminated-it-can-only-be-moved-2am7" target="_blank">Complexity Can&#x27;t Be Eliminated. It Can Only Be Moved</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-23 04:09</span>
             </div>
         </div>
 <div class="story">
@@ -211,15 +222,6 @@
                 <span class="title"><a href="https://github.com/yo-yo-yo-jbo/python_uaf" target="_blank">python_uaf: Use-after-free in Python</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-01-23 00:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/paulohsoliveira/como-usei-um-changelog-publico-para-dobrar-o-engajamento-do-saas-259c" target="_blank">Como usei um Changelog Público para Dobrar o Engajamento do SaaS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-23 00:01</span>
             </div>
         </div>
 </div>
@@ -323,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 03:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 04:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
