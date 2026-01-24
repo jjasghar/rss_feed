@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-24 11:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-24 12:02:24 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, January 24, 2026 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, January 24, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +53,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/ckgy13vlxk5o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham faces deadline on by-election decision</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-24 10:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/24/nx-s1-5687179/as-the-winter-storm-rages-heres-what-to-know-in-your-state" target="_blank">As the winter storm rages, here&#x27;s what to know in your state</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-24 10:51</span>
             </div>
         </div>
 <div class="story">
@@ -86,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/24/brazils-lula-says-trump-is-attempting-to-create-a-new-un?traffic_source=rss" target="_blank">Brazil’s Lula says Trump is attempting to ‘create a new UN’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-24 04:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/storm-prep-4-epa-jef-260123_1769188041153_hpMain_4x3t_384.jpg" alt="Winter storm live updates: State of emergency in 17 states, canceled flights pile up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/winter-storm-live-updates-tracking-dangerous-ice-snow/?id=129469173" target="_blank">Winter storm live updates: State of emergency in 17 states, canceled flights pile up</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-24 03:39</span>
             </div>
         </div>
 </div>
@@ -171,6 +174,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovijxwqr9fd77tbnv0dc.png" alt="Understanding Network Devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/6116hayat/understanding-network-devices-3gg1" target="_blank">Understanding Network Devices</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-24 11:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -206,15 +218,6 @@
                 <span class="time">2026-01-24 10:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/oracle-patent-sorting-databases/en/headerimage/generatedHeaderImage-1768424585687.jpg" alt="Expired Oracle Patent Opens Fast Sorting Algorithm to Open Source Databases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/oracle-patent-sorting-databases/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Expired Oracle Patent Opens Fast Sorting Algorithm to Open Source Databases</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-24 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,15 +230,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-giant-squid-in-the-star-trek-universe.html" target="_blank">Friday Squid Blogging: Giant Squid in the Star Trek Universe</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-01-23 22:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-internet-vulnerabilities.html" target="_blank">AIs are Getting Better at Finding and Exploiting Internet Vulnerabilities</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-01-23 12:01</span>
             </div>
         </div>
 </div>
@@ -325,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
