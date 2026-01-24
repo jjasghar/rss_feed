@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-24 00:05:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-24 01:29:59 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, January 24, 2026 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, January 24, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/23/russia-ukraine-war-list-of-key-events-day-1430?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,430</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-23 23:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/23/nx-s1-5686733/minnesotans-day-of-ice-protests" target="_blank">Minnesotans turn out in the frigid cold to protest Trump&#x27;s immigration crackdown</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-23 22:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +98,29 @@
                 <span class="time">2026-01-23 19:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/23/nx-s1-5686526/trump-davos-world-order" target="_blank">At Davos, U.S. allies question a fraying world order</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-23 19:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4d/live/e4a85680-f88d-11f0-b385-5f48925de19a.jpg" alt="Harry says sacrifices by Nato troops in Afghanistan deserve &#x27;respect&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clym2l7d75eo?at_medium=RSS&at_campaign=rss" target="_blank">Harry says sacrifices by Nato troops in Afghanistan deserve &#x27;respect&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-23 18:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/867138/google-chromebook-education-expansion-court-filings" target="_blank">Chromebooks train schoolkids to be loyal customers, internal Google document suggests</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-24 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6973f0bffa2d81d2f85cf96a/master/pass/gear-storm-shipping-2185438607.jpg" alt="This Mega Snowstorm Will Be a Test for the US Supply Chain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/here-comes-a-mega-snowstorm-shipping-logistics/" target="_blank">This Mega Snowstorm Will Be a Test for the US Supply Chain</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-24 01:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,24 +157,6 @@
                 <span class="time">2026-01-23 21:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/23/waymo-probed-by-national-transportation-safety-board-over-illegal-school-bus-behavior/" target="_blank">Waymo probed by National Transportation Safety Board over illegal school bus behavior</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-23 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6973ce90b45c9c900b2aa2a1/master/pass/TikTok-New-Policy-Gear-2257704792.jpg" alt="TikTok Is Now Collecting Even More Data About Its Users. Here Are the 3 Biggest Changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/tiktok-new-privacy-policy/" target="_blank">TikTok Is Now Collecting Even More Data About Its Users. Here Are the 3 Biggest Changes</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-23 21:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +169,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnqxh5x11fkmhrsr3vcdq.png" alt="My Portfolio Doesn’t Live on the Page 🚫📃" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anchildress1/my-portfolio-doesnt-live-on-the-page-218e" target="_blank">My Portfolio Doesn’t Live on the Page 🚫📃</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-24 01:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNU-C-Library-Glibc-2.43" target="_blank">GNU C Library 2.43 Released With More C23 Features, mseal &amp; openat2 Functions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-24 01:06</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Wine-11.1-Released" target="_blank">Wine 11.1 Released In Kicking Off The New Development Cycle</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-23 21:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openai.com/index/unrolling-the-codex-agent-loop/" target="_blank">Unrolling the Codex agent loop</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-23 20:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/amal_org_e8fe019c45517244/data-analyst-guide-mastering-neural-networks-when-analysts-should-use-deep-learning-32ib" target="_blank">Data Analyst Guide: Mastering Neural Networks: When Analysts Should Use Deep Learning</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-23 20:37</span>
             </div>
         </div>
 </div>
@@ -340,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
