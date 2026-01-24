@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-24 20:02:05 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-24 21:01:20 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, January 24, 2026 - 20:02 UTC</div>
+    <div class="newspaper-date">Saturday, January 24, 2026 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/24/ceasefire-between-syrian-army-and-kurdish-led-forces-extended-for-15-days?traffic_source=rss" target="_blank">Ceasefire between Syrian army and Kurdish-led forces extended for 15 days</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-24 20:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Gov. Walz speaks on deadly Minneapolis shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +94,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/video-appears-to-show-shooting-involving-federal-agents-in-minneapolis-256521285546" target="_blank">Video appears to show shooting involving federal agents in Minneapolis</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-01-24 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/24/nx-s1-5687236/canada-china-tariffs-trump" target="_blank">Trump threatens Canada with 100% tariffs over its new trade deal with China</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-24 16:53</span>
             </div>
         </div>
 </div>
@@ -188,6 +181,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp" target="_blank">BirdyChat becomes first European chat app that is interoperable with WhatsApp</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-24 19:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://github.com/trycua/cua-bench" target="_blank">Cua-Bench – a benchmark for AI agents in GUI environments</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -212,15 +214,6 @@
                 <span class="time">2026-01-24 17:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft3skhl9mfwnps20oezio.jpg" alt="Book Recommendation: The Subscription Economy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/evanlin/book-recommendation-the-subscription-economy-2k3e" target="_blank">Book Recommendation: The Subscription Economy</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-24 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/sonic.jpg?fit=1200%2C846&amp;quality=60&amp;ssl=1" alt="Trump reveals sonic &quot;discombobulator&quot; used in Venezuela raid: &quot;I&#x27;m not allowed to talk&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/24/trump-reveals-sonic-discombobulator-used-in-venezuela-raid-im-not-allowed-to-talk.html" target="_blank">Trump reveals sonic &quot;discombobulator&quot; used in Venezuela raid: &quot;I&#x27;m not allowed to talk&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-24 20:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/magic-the-gathering-lorwyn-eclipsed-jim-henson-company-1280x853.jpg" alt="Hasbro Suit Alleges Overprinted ‘Magic: The Gathering’ Cards" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/hasbro-suit-alleges-overprinted-magic-the-gathering-cards-2000713744" target="_blank">Hasbro Suit Alleges Overprinted ‘Magic: The Gathering’ Cards</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-24 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/shutterstock_95996260-scaled.jpg?fit=2560%2C2155&amp;quality=60&amp;ssl=1" alt="Mysterious paper animations feel like hidden worlds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +287,6 @@
                 <span class="time">2026-01-24 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/spider-man-4-hed-1280x853.jpg" alt="Sam Raimi’s Ready to Let ‘Spider-Man 4’ Die and Move On" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sam-raimis-ready-to-let-spider-man-4-die-and-move-on-2000713711" target="_blank">Sam Raimi’s Ready to Let ‘Spider-Man 4’ Die and Move On</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-24 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/04/RingDoorbellBattery-1280x853.jpg" alt="Ring Launches Video Verification Tool to Combat Fakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ring-launches-video-verification-tool-to-combat-fakes-2000713587" target="_blank">Ring Launches Video Verification Tool to Combat Fakes</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-24 14:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
