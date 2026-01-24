@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-24 22:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-24 23:01:25 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, January 24, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, January 24, 2026 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/minneapolis-scene-ap-jt-260124_1769280760571_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Man fatally shot by agent was US citizen, Alex Pretti, 37" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: Man fatally shot by agent was US citizen, Alex Pretti, 37</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-24 22:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/24/nx-s1-5685163/photos-massive-winter-storm-sweeps-u-s" target="_blank">Photos: Massive winter storm sweeps across the U.S.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-24 22:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260124-minneapolis-shooting-mn-1500-0a93ca.jpg" alt="Man fatally shot by federal officers in Minneapolis identified as ICU nurse Alex Pretti" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,29 +101,29 @@
                 <span class="time">2026-01-24 19:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/24/us-brokered-talks-on-ukraine-close-with-no-breakthrough?traffic_source=rss" target="_blank">US-brokered Russia-Ukraine talks close with no breakthrough</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-24 18:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1979/live/8dc4eca0-f948-11f0-83df-25b52b98173b.png" alt="Andy Burnham seeks permission to stand in by-election" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn408vmxrg8o?at_medium=RSS&at_campaign=rss" target="_blank">Andy Burnham seeks permission to stand in by-election</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-24 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/867244/microsoft-bitlocker-privacy-fbi" target="_blank">Microsoft handed the government encryption keys for customer data</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-24 22:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/697521c65dcae75b99a988f1/master/pass/Ice-Wants-to-Expand-Big-Data-and-Ad-Tech-Companies-to-Sell-Products-Security-2257421618.jpg" alt="ICE Asks Companies About ‘Ad Tech and Big Data’ Tools It Could Use in Investigations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/" target="_blank">ICE Asks Companies About ‘Ad Tech and Big Data’ Tools It Could Use in Investigations</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-24 22:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +160,6 @@
                 <span class="time">2026-01-24 17:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/" target="_blank">A new test for AI labs: Are you even trying to make money?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-24 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/24/how-popwheels-helped-a-food-cart-ditch-generators-for-e-bike-batteries/" target="_blank">How PopWheels helped a food cart ditch generators for e-bike batteries</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-24 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +172,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcov115fa4zqx5i7vmdxj.png" alt="vCPUs are a marketing scam" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/code42cate/vcpus-are-a-marketing-scam-21kj" target="_blank">vCPUs are a marketing scam</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-24 22:56</span>
             </div>
         </div>
 <div class="story">
@@ -205,34 +219,29 @@
                 <span class="time">2026-01-24 17:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/loss32-distro/" target="_blank">loss32 is a Linux Distro Nobody Asked For (But Still Has Its Usage)</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-24 17:06</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-giant-squid-in-the-star-trek-universe.html" target="_blank">Friday Squid Blogging: Giant Squid in the Star Trek Universe</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-01-23 22:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/sam-altman-mic-1280x853.jpg" alt="OpenAI Partners with Major Government Contractor to ‘Transform Federal Operations’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/openai-partners-with-major-government-contractor-to-transform-federal-operations-2000713751" target="_blank">OpenAI Partners with Major Government Contractor to ‘Transform Federal Operations’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-24 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/soofer.jpg?fit=1200%2C853&amp;quality=60&amp;ssl=1" alt="Feds: Charity exec bought $7M house, Greece vacation home with homeless money" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/24/feds-charity-exec-bought-7m-house-greece-vacation-home-with-homeless-money.html" target="_blank">Feds: Charity exec bought $7M house, Greece vacation home with homeless money</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-24 21:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/sonic.jpg?fit=1200%2C846&amp;quality=60&amp;ssl=1" alt="Trump reveals sonic &quot;discombobulator&quot; used in Venezuela raid: &quot;I&#x27;m not allowed to talk&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +278,6 @@
                 <span class="time">2026-01-24 17:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Haiti.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="US threatens Haiti over plans for free elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/24/us-threatens-haiti-over-plans-for-free-elections.html" target="_blank">US threatens Haiti over plans for free elections</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-24 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Microsoft-Office-Professional-Plus-2019-for-Windows-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Bring your old PC back to life for less than $20" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/24/bring-your-old-pc-back-to-life-for-less-than-20.html" target="_blank">Bring your old PC back to life for less than $20</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-24 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
