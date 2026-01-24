@@ -1,27 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-24 10:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-24 11:01:44 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 18 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, January 24, 2026 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, January 24, 2026 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01a9/live/77182440-f90c-11f0-a2cb-474da15d329d.jpg" alt="Burnham faces deadline on by-election decision" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckgy13vlxk5o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham faces deadline on by-election decision</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-24 10:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,20 +97,20 @@
                 <span class="time">2026-01-24 03:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/24/turkiyes-fm-fidan-says-israel-looking-for-opportunity-to-attack-iran?traffic_source=rss" target="_blank">Turkiye’s FM Fidan says Israel ‘looking for opportunity’ to attack Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-24 03:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/696fff75979f4d0381e94891/master/pass/Source_Tag%20Heuer%20CBS2016.EB0430_FOCUS.jpg" alt="Watch Party: The Best TAG in Years, a ’60s Sensation, and Omega Goes All White" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/lvmh-watch-week-the-best-tag-in-years-a-60s-sensation-and-omega-goes-all-white/" target="_blank">Watch Party: The Best TAG in Years, a ’60s Sensation, and Omega Goes All White</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-24 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,15 +156,6 @@
                 <span class="time">2026-01-24 01:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6973f0bffa2d81d2f85cf96a/master/pass/gear-storm-shipping-2185438607.jpg" alt="This Mega Snowstorm Will Be a Test for the US Supply Chain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/here-comes-a-mega-snowstorm-shipping-logistics/" target="_blank">This Mega Snowstorm Will Be a Test for the US Supply Chain</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-24 01:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,48 +171,48 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2026/01/oracle-patent-sorting-databases/en/headerimage/generatedHeaderImage-1768424585687.jpg" alt="Expired Oracle Patent Opens Fast Sorting Algorithm to Open Source Databases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/oracle-patent-sorting-databases/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Expired Oracle Patent Opens Fast Sorting Algorithm to Open Source Databases</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-24 07:00</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ASUS-Armoury-More-Hardware" target="_blank">ASUS Armoury Driver For Linux 6.19 Picks Up Support For More ASUS Laptops</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-24 10:52</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rosgluk/gpu-and-ram-prices-surge-in-australia-rtx-5090-up-15-ram-up-38-january-2026-kkb" target="_blank">GPU and RAM Prices Surge in Australia: RTX 5090 Up 15%, RAM Up 38% - January 2026</a></span>
+                <span class="title"><a href="https://dev.to/dd8888/navigating-proton-spam-and-the-ai-consent-dilemma-3i68" target="_blank">Navigating Proton Spam and the AI Consent Dilemma</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-01-24 06:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zhiwei_ma_0fc08a668c1eb51/building-a-gpu-accelerated-terminal-emulator-with-rust-and-gpui-4103" target="_blank">Building a GPU-Accelerated Terminal Emulator with Rust and GPUI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-24 05:40</span>
+                <span class="time">2026-01-24 10:45</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/proton-lumo-projects/" target="_blank">I (Briefly) Tried Proton Lumo&amp;#x27;s New AI Workspaces</a></span>
+                <span class="title"><a href="https://itsfoss.com/news/skip-goes-open-source/" target="_blank">Good News for Mobile App Developers: Skip Is Now Open Source</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-24 05:32</span>
+                <span class="time">2026-01-24 10:26</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-9-Crash-Fixes" target="_blank">KDE Plasma Saw At Least 9 Crash Fixes This Week</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-24 05:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/" target="_blank">Doing gigabit Ethernet over my British phone wires</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-24 10:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/oracle-patent-sorting-databases/en/headerimage/generatedHeaderImage-1768424585687.jpg" alt="Expired Oracle Patent Opens Fast Sorting Algorithm to Open Source Databases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/oracle-patent-sorting-databases/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Expired Oracle Patent Opens Fast Sorting Algorithm to Open Source Databases</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-24 07:00</span>
             </div>
         </div>
 </div>
@@ -319,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
