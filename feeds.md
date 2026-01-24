@@ -1,40 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-01-24 09:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-24 10:01:31 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 32 feeds processed -->
+<!-- Generated 2 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, January 24, 2026 - 09:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, January 24, 2026 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +37,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/24/nx-s1-5687168/trump-administration-defense-strategy" target="_blank">Trump administration&#x27;s defense strategy tells allies to handle their own security</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-24 09:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb0c/live/24597b60-f8f7-11f0-a66e-ad6304ba581b.jpg" alt="Ukraine condemns &#x27;brutal&#x27; Russian strikes ahead of second day of peace talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine condemns &#x27;brutal&#x27; Russian strikes ahead of second day of peace talks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-24 08:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/storm-prep-4-epa-jef-260123_1769188041153_hpMain_4x3t_384.jpg" alt="Winter storm live updates: State of emergency in 18 states, canceled flights pile up" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,24 +89,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/24/turkiyes-fm-fidan-says-israel-looking-for-opportunity-to-attack-iran?traffic_source=rss" target="_blank">Turkiye’s FM Fidan says Israel ‘looking for opportunity’ to attack Iran</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-24 03:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/24/russian-shadow-fleet-tanker-diverted-to-french-port-by-naval-forces?traffic_source=rss" target="_blank">Russian ‘shadow fleet’ tanker diverted to French port by naval forces</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-24 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-china-taiwan-military-drills_7121307.jpg?20251229112937" alt="China no longer America&#x27;s top defence priority, Pentagon says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/china-no-longer-americas-top-defence-priority-pentagon-says-13498252" target="_blank">China no longer America&#x27;s top defence priority, Pentagon says</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-24 02:23</span>
             </div>
         </div>
 </div>
@@ -332,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
