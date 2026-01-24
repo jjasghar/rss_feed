@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-24 15:01:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-24 16:01:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, January 24, 2026 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, January 24, 2026 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef43/live/2a5f94f0-f937-11f0-814e-71ff186d4f46.jpg" alt="Trump threatens Canada with 100% tariffs over China trade deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss" target="_blank">Trump threatens Canada with 100% tariffs over China trade deal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-24 15:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +101,20 @@
                 <span class="time">2026-01-24 10:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/1/24/electoral-violence-is-on-the-horizon-in-kenya?traffic_source=rss" target="_blank">Electoral violence is on the horizon in Kenya</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-24 10:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/24/how-popwheels-helped-a-food-cart-ditch-generators-for-e-bike-batteries/" target="_blank">How PopWheels helped a food cart ditch generators for e-bike batteries</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-24 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +160,6 @@
                 <span class="time">2026-01-24 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/696fff75979f4d0381e94891/master/pass/Source_Tag%20Heuer%20CBS2016.EB0430_FOCUS.jpg" alt="Watch Party: The Best TAG in Years, a ’60s Sensation, and Omega Goes All White" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lvmh-watch-week-the-best-tag-in-years-a-60s-sensation-and-omega-goes-all-white/" target="_blank">Watch Party: The Best TAG in Years, a ’60s Sensation, and Omega Goes All White</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-24 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +172,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbna47h0q0mwq4mqpqhmu.png" alt="I created OAT to help maintaining consistency of coding-agent rule across projects , orgs, and personal preferences" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alain_pra/i-created-oat-to-help-maintaining-consistency-of-coding-agent-rule-across-projects-orgs-and-2kj0" target="_blank">I created OAT to help maintaining consistency of coding-agent rule across projects , orgs, and personal preferences</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-24 15:35</span>
             </div>
         </div>
 <div class="story">
@@ -210,15 +219,6 @@
                 <span class="time">2026-01-24 12:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovijxwqr9fd77tbnv0dc.png" alt="Understanding Network Devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/6116hayat/understanding-network-devices-3gg1" target="_blank">Understanding Network Devices</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-24 11:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/spider-man-4-hed-1280x853.jpg" alt="Sam Raimi’s Ready to Let ‘Spider-Man 4’ Die and Move On" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sam-raimis-ready-to-let-spider-man-4-die-and-move-on-2000713711" target="_blank">Sam Raimi’s Ready to Let ‘Spider-Man 4’ Die and Move On</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-24 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/04/RingDoorbellBattery-1280x853.jpg" alt="Ring Launches Video Verification Tool to Combat Fakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +292,6 @@
                 <span class="time">2026-01-23 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KC7JV9CXW41K0CXPP1A8VSDF/hero-image.png" alt="The AirPods Pro 3 Are $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/airpods-pro-3-sale-january-2026?utm_medium=RSS" target="_blank">The AirPods Pro 3 Are $50 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-23 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
