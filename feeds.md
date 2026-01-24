@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-24 08:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-24 09:01:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, January 24, 2026 - 08:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, January 24, 2026 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -92,12 +96,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-uss-abraham-lincoln_7144024.jpg?20260124013655" alt="Iran warns any attack will mean &#x27;all-out war&#x27; after Trump says US &#x27;armada&#x27; on its way" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-china-taiwan-military-drills_7121307.jpg?20251229112937" alt="China no longer America&#x27;s top defence priority, Pentagon says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/iran-warns-any-attack-will-mean-all-out-war-after-trump-says-us-armada-on-its-way-13498251" target="_blank">Iran warns any attack will mean &#x27;all-out war&#x27; after Trump says US &#x27;armada&#x27; on its way</a></span>
+                <span class="title"><a href="https://news.sky.com/story/china-no-longer-americas-top-defence-priority-pentagon-says-13498252" target="_blank">China no longer America&#x27;s top defence priority, Pentagon says</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-24 01:13</span>
+                <span class="time">2026-01-24 02:23</span>
             </div>
         </div>
 </div>
@@ -105,6 +109,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/reviews/866476/loch-capsule-review-counter-dishwasher-vanlife-tiny-house" target="_blank">The Loch Capsule dishwasher is small, fast, and efficient — it even sanitizes gadgets</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-24 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" alt="TopResume Free Review, Discounts &amp; Packages for 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/topresume-discount-code/" target="_blank">TopResume Free Review, Discounts &amp; Packages for 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-24 06:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +161,6 @@
                 <span class="title"><a href="https://www.wired.com/story/here-comes-a-mega-snowstorm-shipping-logistics/" target="_blank">This Mega Snowstorm Will Be a Test for the US Supply Chain</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-01-24 01:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/" target="_blank">Who’s behind AMI Labs, Yann LeCun’s ‘world model’ startup</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-24 00:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69715b54a98df760f68acca8/master/pass/Uncanny-Valley-Trump-WEF-Business-2256843282.jpg" alt="‘Uncanny Valley’: Donald Trump’s Davos Drama, AI Midterms, and ChatGPT’s Last Resort" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-trump-davos-ice-ai-midterms-chatgpt-ads/" target="_blank">‘Uncanny Valley’: Donald Trump’s Davos Drama, AI Midterms, and ChatGPT’s Last Resort</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-23 22:26</span>
             </div>
         </div>
 </div>
@@ -328,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 08:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
