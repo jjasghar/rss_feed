@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-24 18:02:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-24 19:01:48 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, January 24, 2026 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, January 24, 2026 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/24/us-brokered-talks-on-ukraine-close-with-no-breakthrough?traffic_source=rss" target="_blank">US-brokered Russia-Ukraine talks close with no breakthrough</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-24 18:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1979/live/8dc4eca0-f948-11f0-83df-25b52b98173b.png" alt="Andy Burnham seeks permission to stand in by-election" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +103,20 @@
                 <span class="time">2026-01-24 15:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-russia-ukraine_7144299.jpg?20260124135448" alt="&#x27;Barbaric&#x27; attack on Ukraine&#x27;s largest cities during peace talks - further negotiations expected &#x27;as early as next week&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/barbaric-attack-on-ukraines-largest-cities-during-peace-talks-further-negotiations-expected-as-early-as-next-week-13498413" target="_blank">&#x27;Barbaric&#x27; attack on Ukraine&#x27;s largest cities during peace talks - further negotiations expected &#x27;as early as next week&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-24 14:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/866788/anker-nano-travel-adapter-samsung-p9-microsd-express-card-deal-sale" target="_blank">MicroSD Express cards and Anker’s travel adapter rule the deal roost this week</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-24 18:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +162,6 @@
                 <span class="time">2026-01-24 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f838f9ca694516647e4962/master/pass/The%20Best%20Kitchen%20Composters%20and%20Food%20Recyclers.png" alt="Best Kitchen Composters and Food Recyclers (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/home-composters-buying-guide/" target="_blank">Best Kitchen Composters and Food Recyclers (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-24 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +174,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/trycua/cua-bench" target="_blank">Cua-Bench – a benchmark for AI agents in GUI environments</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-01-24 18:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/CachyOS-January-2026" target="_blank">CachyOS Starts 2026 By Switching To Plasma Login Manager &amp; Live ISO Using Wayland</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-24 17:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/loss32-distro/" target="_blank">loss32 is a Linux Distro Nobody Asked For (But Still Has Its Usage)</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-24 17:06</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +219,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/01/google-ucp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google’s Universal Commerce Protocol (UCP) Powers Agentic Shopping</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-01-24 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.economist.com/culture/2026/01/22/are-we-all-plagiarists-now" target="_blank">Are we all plagiarists now?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-24 16:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbna47h0q0mwq4mqpqhmu.png" alt="I created OAT to help maintaining consistency of coding-agent rule across projects , orgs, and personal preferences" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alain_pra/i-created-oat-to-help-maintaining-consistency-of-coding-agent-rule-across-projects-orgs-and-2kj0" target="_blank">I created OAT to help maintaining consistency of coding-agent rule across projects , orgs, and personal preferences</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-24 15:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-TIP-Time-Slice-Extension" target="_blank">A Decade In The Making, Time Slice Extension Could Be Merged For Linux 7.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-24 14:51</span>
             </div>
         </div>
 </div>
@@ -239,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/shutterstock_95996260-scaled.jpg?fit=2560%2C2155&amp;quality=60&amp;ssl=1" alt="Mysterious paper animations feel like hidden worlds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/24/mysterious-paper-animations-feel-like-hidden-worlds.html" target="_blank">Mysterious paper animations feel like hidden worlds</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-24 18:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/darth-maul-hed-1280x853.jpg" alt="Darth Maul Is My Glup Shitto, and I’m Happy He’s Back (Again)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/darth-maul-is-my-glup-shitto-and-im-happy-hes-back-again-2000713579" target="_blank">Darth Maul Is My Glup Shitto, and I’m Happy He’s Back (Again)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-24 17:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Haiti.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="US threatens Haiti over plans for free elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +294,6 @@
                 <span class="time">2026-01-24 14:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/Samsung-Galaxy-Watch-7-1280x853.jpg" alt="Samsung Crashes the Galaxy Watch 7 to a Record Low to Clear Out Old Smartwatch Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/samsung-crashes-the-galaxy-watch-7-to-a-record-low-to-clear-out-old-smartwatch-stock-2000656210" target="_blank">Samsung Crashes the Galaxy Watch 7 to a Record Low to Clear Out Old Smartwatch Stock</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-24 12:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/Far-cry-3-1280x722.jpg" alt="Frustration Inside Ubisoft: ‘This Is Probably The Most Embarrassed I Have Felt Working Somewhere’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ubisoft-stock-restructure-layoffs-cancel-delay-2000662684" target="_blank">Frustration Inside Ubisoft: ‘This Is Probably The Most Embarrassed I Have Felt Working Somewhere’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-23 23:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
