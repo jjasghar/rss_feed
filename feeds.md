@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-24 21:01:20 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-01-24 22:01:28 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, January 24, 2026 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, January 24, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260124-minneapolis-shooting-mn-1500-0a93ca.jpg" alt="Man fatally shot by federal officers in Minneapolis identified as ICU nurse Alex Pretti" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/alex-pretti-fatally-shot-federal-officers-minneapolis-identified-paren-rcna255758" target="_blank">Man fatally shot by federal officers in Minneapolis identified as ICU nurse Alex Pretti</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-24 21:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -63,6 +72,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/24/nx-s1-5687276/man-shot-dead-minneapolis" target="_blank">Man shot dead by federal immigration officers in Minneapolis</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-24 19:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/24/us-brokered-talks-on-ukraine-close-with-no-breakthrough?traffic_source=rss" target="_blank">US-brokered Russia-Ukraine talks close with no breakthrough</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -78,24 +96,6 @@
                 <span class="time">2026-01-24 17:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/minneapolis-shooting-02-gty-jt-260124_1769271832011_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Man killed in shooting involving fed agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis ICE shooting live updates: Man killed in shooting involving fed agents</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-24 17:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/f_mo_shooting_minni_260124.00_01_13_24.Still001-3qs6po.jpg" alt="Video appears to show shooting involving federal agents in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/video-appears-to-show-shooting-involving-federal-agents-in-minneapolis-256521285546" target="_blank">Video appears to show shooting involving federal agents in Minneapolis</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-24 16:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,6 +108,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/" target="_blank">Tech CEOs boast and bicker about AI at Davos</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-24 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/data-wiper-malware-500x500.jpg" alt="Poland&#x27;s energy grid was targeted by never-before-seen wiper malware" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/" target="_blank">Poland&#x27;s energy grid was targeted by never-before-seen wiper malware</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-24 19:08</span>
             </div>
         </div>
 <div class="story">
@@ -144,15 +153,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/24/how-popwheels-helped-a-food-cart-ditch-generators-for-e-bike-batteries/" target="_blank">How PopWheels helped a food cart ditch generators for e-bike batteries</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-24 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/866775/ai-generated-ads-slop-human-creativity" target="_blank">Get ready for the AI ad-pocalypse</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-24 15:00</span>
             </div>
         </div>
 </div>
@@ -315,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
