@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-24 03:29:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-24 04:12:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, January 24, 2026 - 03:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, January 24, 2026 - 04:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/storm-prep-4-epa-jef-260123_1769188041153_hpMain_4x3t_384.jpg" alt="Winter storm live updates: State of emergency in 17 states, canceled flights pile up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/winter-storm-live-updates-tracking-dangerous-ice-snow/?id=129469173" target="_blank">Winter storm live updates: State of emergency in 17 states, canceled flights pile up</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-24 03:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/24/turkiyes-fm-fidan-says-israel-looking-for-opportunity-to-attack-iran?traffic_source=rss" target="_blank">Turkiye’s FM Fidan says Israel ‘looking for opportunity’ to attack Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-24 03:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +103,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/23/nx-s1-5686733/minnesotans-day-of-ice-protests" target="_blank">Minnesotans turn out in the frigid cold to protest Trump&#x27;s immigration crackdown</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-23 22:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/23/nx-s1-5683204/abortion-trump-mexico-city-policy" target="_blank">Trump expands policy banning aid to groups abroad that discuss or provide abortions</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-23 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260123-minnesota-ice-out-protest-2026-bf-1633-54a146.jpg" alt="Thousands rally against ICE in Minneapolis amid below-zero temperatures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/ice-out-rally-minneapolis-immigration-protest-rcna255631" target="_blank">Thousands rally against ICE in Minneapolis amid below-zero temperatures</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-23 21:15</span>
             </div>
         </div>
 </div>
@@ -196,6 +199,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://comma.ai" target="_blank">Open-source self-driving for 325 car models from 27 brands</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-24 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ahmedhanygamal/implementing-a-json-schema-validator-from-scratch-week-1-4ah9" target="_blank">Implementing a JSON Schema Validator from Scratch - Week 1</a></span>
                 <span class="feed">DEV Community</span>
@@ -209,15 +221,6 @@
                 <span class="title"><a href="https://dev.to/olaproeis/the-ai-development-workflow-i-actually-use-549i" target="_blank">The AI Development Workflow I Actually Use</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-23 22:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.1-Released" target="_blank">Wine 11.1 Released In Kicking Off The New Development Cycle</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-23 21:12</span>
             </div>
         </div>
 </div>
@@ -348,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 03:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 284 |
+        🔄 Last Updated: 04:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
