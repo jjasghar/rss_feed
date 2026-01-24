@@ -1,36 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-01-24 06:02:17 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-01-24 07:02:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, January 24, 2026 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, January 24, 2026 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/storm-prep-4-epa-jef-260123_1769188041153_hpMain_4x3t_384.jpg" alt="Winter storm live updates: State of emergency in 18 states, canceled flights pile up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/winter-storm-live-updates-tracking-dangerous-ice-snow/?id=129469173" target="_blank">Winter storm live updates: State of emergency in 18 states, canceled flights pile up</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-24 05:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,21 +98,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-uss-abraham-lincoln_7144024.jpg?20260124013655" alt="Iran warns any attack will mean &#x27;all-out war&#x27; after Trump says US &#x27;armada&#x27; on its way" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/23/russia-ukraine-war-list-of-key-events-day-1430?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,430</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-23 23:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769212417540_nn_mve_thousands_at_anti_ice_protest_minneapolis_260123_1920x1080-3d6i9i.jpg" alt="Thousands at anti-ICE protest in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/thousands-at-anti-ice-protest-in-minneapolis-256492613569" target="_blank">Thousands at anti-ICE protest in Minneapolis</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-23 23:53</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/iran-warns-any-attack-will-mean-all-out-war-after-trump-says-us-armada-on-its-way-13498251" target="_blank">Iran warns any attack will mean &#x27;all-out war&#x27; after Trump says US &#x27;armada&#x27; on its way</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-24 01:13</span>
             </div>
         </div>
 </div>
@@ -177,6 +183,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rosgluk/gpu-and-ram-prices-surge-in-australia-rtx-5090-up-15-ram-up-38-january-2026-kkb" target="_blank">GPU and RAM Prices Surge in Australia: RTX 5090 Up 15%, RAM Up 38% - January 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-24 06:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/zhiwei_ma_0fc08a668c1eb51/building-a-gpu-accelerated-terminal-emulator-with-rust-and-gpui-4103" target="_blank">Building a GPU-Accelerated Terminal Emulator with Rust and GPUI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-24 05:40</span>
@@ -192,30 +207,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-9-Crash-Fixes" target="_blank">KDE Plasma Saw At Least 9 Crash Fixes This Week</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-24 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnqxh5x11fkmhrsr3vcdq.png" alt="My Portfolio Doesn’t Live on the Page 🚫📃" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/anchildress1/my-portfolio-doesnt-live-on-the-page-218e" target="_blank">My Portfolio Doesn’t Live on the Page 🚫📃</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-24 01:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNU-C-Library-Glibc-2.43" target="_blank">GNU C Library 2.43 Released With More C23 Features, mseal &amp; openat2 Functions</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-24 01:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://comma.ai" target="_blank">Open-source self-driving for 325 car models from 27 brands</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-24 01:00</span>
             </div>
         </div>
 </div>
@@ -337,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
