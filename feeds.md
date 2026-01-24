@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-23 23:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-24 00:05:04 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, January 23, 2026 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, January 24, 2026 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +109,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/" target="_blank">Who’s behind AMI Labs, Yann LeCun’s ‘world model’ startup</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-24 00:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69715b54a98df760f68acca8/master/pass/Uncanny-Valley-Trump-WEF-Business-2256843282.jpg" alt="‘Uncanny Valley’: Donald Trump’s Davos Drama, AI Midterms, and ChatGPT’s Last Resort" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-trump-davos-ice-ai-midterms-chatgpt-ads/" target="_blank">‘Uncanny Valley’: Donald Trump’s Davos Drama, AI Midterms, and ChatGPT’s Last Resort</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-23 22:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/866977/tiktok-deal-congress-china" target="_blank">Congress doesn’t seem to know if the TikTok deal complies with its law</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-23 22:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/4-500x500.jpg" alt="TR-49 is interactive fiction for fans of deep research rabbit holes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -130,33 +162,6 @@
                 <span class="time">2026-01-23 21:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/intel-core-ultra-series-3-500x500-1769199922.jpg" alt="Core Ultra Series 3 launch may be hampered by chip shortages, says Intel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/core-ultra-series-3-launch-may-be-hampered-by-chip-shortages-says-intel/" target="_blank">Core Ultra Series 3 launch may be hampered by chip shortages, says Intel</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-23 20:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6973c380436287e7ad118029/master/pass/How%20to%20Prep%20for%20This%20Weekend's%20Winter%20Storm.png" alt="How to Prep for This Weekend’s Big Winter Storm: Power, Heat, and Underwear" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-prep-for-a-winter-storm/" target="_blank">How to Prep for This Weekend’s Big Winter Storm: Power, Heat, and Underwear</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-23 20:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/23/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/" target="_blank">What to know about Netflix’s landmark acquisition of Warner Bros</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-23 20:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +174,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ahmedhanygamal/implementing-a-json-schema-validator-from-scratch-week-1-4ah9" target="_blank">Implementing a JSON Schema Validator from Scratch - Week 1</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-23 23:41</span>
             </div>
         </div>
 <div class="story">
@@ -207,20 +221,20 @@
                 <span class="time">2026-01-23 20:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18845511&w=600" alt="Secure AI Architecture for Payments: From Risk Signals to Real-Time Decisions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/secure-ai-architecture-for-payments" target="_blank">Secure AI Architecture for Payments: From Risk Signals to Real-Time Decisions</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-23 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-giant-squid-in-the-star-trek-universe.html" target="_blank">Friday Squid Blogging: Giant Squid in the Star Trek Universe</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-01-23 22:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -235,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/Far-cry-3-1280x722.jpg" alt="Frustration Inside Ubisoft: ‘This Is Probably The Most Embarrassed I Have Felt Working Somewhere’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ubisoft-stock-restructure-layoffs-cancel-delay-2000662684" target="_blank">Frustration Inside Ubisoft: ‘This Is Probably The Most Embarrassed I Have Felt Working Somewhere’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-23 23:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/ss_8d483674199a602caa1a71e15ebcb-1280x720.jpg" alt="Fable: Everything We Know About The Open-World Fantasy RPG Reboot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +303,6 @@
                 <span class="time">2026-01-23 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/TheMuppetShowSabrinaCarpenter-1280x853.jpg" alt="‘The Muppet Show’ Special Drops a Gently Kinky Full Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/muppet-show-2026-trailer-sabrina-carpenter-miss-piggy-2000713479" target="_blank">‘The Muppet Show’ Special Drops a Gently Kinky Full Trailer</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-23 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
