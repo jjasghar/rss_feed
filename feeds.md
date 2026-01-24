@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-24 16:01:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-24 17:01:21 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, January 24, 2026 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, January 24, 2026 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +49,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/24/nx-s1-5687236/canada-china-tariffs-trump" target="_blank">Trump threatens Canada with 100% tariffs over its new trade deal with China</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-24 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260124-minneapolis-shooting-mn-1135-282c86.jpg" alt="Federal agents shoot person in Minnesota, governor says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/minneapolis-investigating-ice-shooting-rcna255733" target="_blank">Federal agents shoot person in Minnesota, governor says</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-24 16:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef43/live/2a5f94f0-f937-11f0-814e-71ff186d4f46.jpg" alt="Trump threatens Canada with 100% tariffs over China trade deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss" target="_blank">Trump threatens Canada with 100% tariffs over China trade deal</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-24 15:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-russia-ukraine_7144299.jpg?20260124135448" alt="&#x27;Barbaric&#x27; attack on Ukraine&#x27;s largest cities during peace talks - further negotiations expected &#x27;as early as next week&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/barbaric-attack-on-ukraines-largest-cities-during-peace-talks-further-negotiations-expected-as-early-as-next-week-13498413" target="_blank">&#x27;Barbaric&#x27; attack on Ukraine&#x27;s largest cities during peace talks - further negotiations expected &#x27;as early as next week&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-24 14:43</span>
             </div>
         </div>
 <div class="story">
@@ -74,38 +102,20 @@
                 <span class="time">2026-01-24 13:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-listening-post/2026/1/24/trumps-imperial-tantrum?traffic_source=rss" target="_blank">Trump’s imperial tantrum</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-24 12:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01a9/live/77182440-f90c-11f0-a2cb-474da15d329d.jpg" alt="Burnham faces deadline on by-election decision" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckgy13vlxk5o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham faces deadline on by-election decision</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-24 10:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/24/nx-s1-5687179/as-the-winter-storm-rages-heres-what-to-know-in-your-state" target="_blank">As the winter storm rages, here&#x27;s what to know in your state</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-24 10:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/" target="_blank">A new test for AI labs: Are you even trying to make money?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-24 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +161,6 @@
                 <span class="time">2026-01-24 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/nejmicm2514242_f1-500x500-1769209816.jpg" alt="A weird, itchy rash is linked to the keto diet—but no one knows why" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/01/a-weird-itchy-rash-is-linked-to-the-keto-diet-but-no-one-knows-why/" target="_blank">A weird, itchy rash is linked to the keto diet—but no one knows why</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-24 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +173,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft3skhl9mfwnps20oezio.jpg" alt="Book Recommendation: The Subscription Economy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/evanlin/book-recommendation-the-subscription-economy-2k3e" target="_blank">Book Recommendation: The Subscription Economy</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-24 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/google-ucp/en/headerimage/generatedHeaderImage-1769272281093.jpg" alt="Google’s Universal Commerce Protocol (UCP) Powers Agentic Shopping" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/google-ucp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google’s Universal Commerce Protocol (UCP) Powers Agentic Shopping</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-24 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.economist.com/culture/2026/01/22/are-we-all-plagiarists-now" target="_blank">Are we all plagiarists now?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-24 16:34</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-TIP-Time-Slice-Extension" target="_blank">A Decade In The Making, Time Slice Extension Could Be Merged For Linux 7.0</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-24 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kshitij_jain_bbc56d59a866/java-multithreading-explained-thread-states-synchronization-deadlocks-through-one-example-83e" target="_blank">Java Multithreading Explained (Thread States, Synchronization &amp; Deadlocks) - Through One Example</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-24 14:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hiral/dns-record-types-explained-5dl1" target="_blank">DNS Record Types Explained</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-24 13:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-MLIR-AIE-1.2" target="_blank">AMD Releases MLIR-AIE 1.2 Compiler Toolchain For Targeting Ryzen AI NPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-24 12:22</span>
             </div>
         </div>
 </div>
@@ -238,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Microsoft-Office-Professional-Plus-2019-for-Windows-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Bring your old PC back to life for less than $20" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/24/bring-your-old-pc-back-to-life-for-less-than-20.html" target="_blank">Bring your old PC back to life for less than $20</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-24 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/spider-man-4-hed-1280x853.jpg" alt="Sam Raimi’s Ready to Let ‘Spider-Man 4’ Die and Move On" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +293,6 @@
                 <span class="time">2026-01-23 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Sam-Raimi-Send-Help-1280x853.jpg" alt="‘Spider-Man’ Director Sam Raimi Would Love to Take on Batman" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spider-man-director-sam-raimi-would-love-to-take-on-batman-2000713581" target="_blank">‘Spider-Man’ Director Sam Raimi Would Love to Take on Batman</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-23 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,22 +307,13 @@
                 <span class="time">2026-01-24 02:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1768948495-20260123.png" alt="Saturday Morning Breakfast Cereal - Trad" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/trad" target="_blank">Saturday Morning Breakfast Cereal - Trad</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-23 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
