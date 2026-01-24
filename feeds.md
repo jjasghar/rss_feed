@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-24 17:01:21 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-01-24 18:02:11 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, January 24, 2026 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, January 24, 2026 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1979/live/8dc4eca0-f948-11f0-83df-25b52b98173b.png" alt="Andy Burnham seeks permission to stand in by-election" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn408vmxrg8o?at_medium=RSS&at_campaign=rss" target="_blank">Andy Burnham seeks permission to stand in by-election</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-24 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/minneapolis-shooting-02-gty-jt-260124_1769271832011_hpMain_4x3t_384.jpg" alt="Minneapolis ICE shooting live updates: Man killed in shooting involving fed agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis ICE shooting live updates: Man killed in shooting involving fed agents</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-24 17:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +102,20 @@
                 <span class="time">2026-01-24 14:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/24/remote-coercion-what-has-us-approach-been-since-abduction-of-maduro?traffic_source=rss" target="_blank">‘Remote coercion’: What has US approach been since abduction of Maduro?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-24 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/24/g-s1-107210/chinas-top-general-under-investigation-in-latest-military-purge" target="_blank">China&#x27;s top general under investigation in latest military purge</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-24 13:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/867247/gmails-spam-filter-broken" target="_blank">Gmail’s spam filter and automatic sorting are broken</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-24 17:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +158,6 @@
                 <span class="fa fa-fw fa-bolt"></span>
                 <span class="title"><a href="https://www.wired.com/story/home-composters-buying-guide/" target="_blank">Best Kitchen Composters and Food Recyclers (2026)</a></span>
                 <span class="feed">WIRED</span>
-                <span class="time">2026-01-24 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/866931/gemini-personal-intelligence-ai" target="_blank">Gemini with Personal Intelligence is awfully familiar</a></span>
-                <span class="feed">The Verge</span>
                 <span class="time">2026-01-24 13:00</span>
             </div>
         </div>
@@ -240,6 +240,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Haiti.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="US threatens Haiti over plans for free elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/24/us-threatens-haiti-over-plans-for-free-elections.html" target="_blank">US threatens Haiti over plans for free elections</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-24 17:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Microsoft-Office-Professional-Plus-2019-for-Windows-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Bring your old PC back to life for less than $20" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -284,20 +293,20 @@
                 <span class="time">2026-01-23 23:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/ss_8d483674199a602caa1a71e15ebcb-1280x720.jpg" alt="Fable: Everything We Know About The Open-World Fantasy RPG Reboot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fable-everything-we-know-about-the-open-world-fantasy-rpg-reboot-2000662595" target="_blank">Fable: Everything We Know About The Open-World Fantasy RPG Reboot</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-23 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1769149561-20260124.png" alt="Saturday Morning Breakfast Cereal - Mime" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/mime-2" target="_blank">Saturday Morning Breakfast Cereal - Mime</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-01-24 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -312,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
