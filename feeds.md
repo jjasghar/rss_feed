@@ -1,34 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-01-25 18:02:11 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-25 19:01:52 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, January 25, 2026 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, January 25, 2026 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +97,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69763dfa2963322ff178d7bc/master/pass/WIRED_ICE_GettyImages-2257462492.jpg" alt="Why Minnesota Can&#x27;t Do More to Stop ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/why-minnesota-cant-do-more-to-stop-ice/" target="_blank">Why Minnesota Can&#x27;t Do More to Stop ICE</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-25 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/867451/creators-and-communities-take-a-stand-against-ice" target="_blank">Creators and communities everywhere take a stand against ICE</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-25 17:21</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -139,24 +150,6 @@
                 <span class="time">2026-01-25 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/ADAM_BEN_L1560319-500x500.jpg" alt="A decade of Star Trek-themed fart jokes: The Greatest Generation podcast turns 10" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/01/a-decade-of-star-trek-themed-fart-jokes-the-greatest-generation-podcast-turns-10/" target="_blank">A decade of Star Trek-themed fart jokes: The Greatest Generation podcast turns 10</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-25 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69742166ff750c1bb371f84a/master/pass/Review-%20Phonak%20Audeo%20Infinio%20Ultra%20Sphere.png" alt="Phonak Audeo Infinio Ultra Sphere Review: Premium Hearing Aids" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/phonak-audeo-infinio-ultra-sphere/" target="_blank">Phonak Audeo Infinio Ultra Sphere Review: Premium Hearing Aids</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-25 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +162,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LACT-0.8.4-Released" target="_blank">LACT 0.8.4 Brings Improved Overclocking UI For GPUs On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-25 18:58</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +207,6 @@
                 <span class="title"><a href="https://dev.to/tosin2013/how-to-automate-adr-reviews-and-keep-your-architectural-decisions-in-sync-with-your-codebase-kdn" target="_blank">How to Automate ADR Reviews and Keep Your Architectural Decisions in Sync with Your Codebase</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-25 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/tldev/posturr" target="_blank">A macOS app that blurs your screen when you slouch</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-25 15:34</span>
             </div>
         </div>
 </div>
@@ -294,8 +287,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
