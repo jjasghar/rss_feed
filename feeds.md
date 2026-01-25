@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-25 20:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-25 21:01:35 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, January 25, 2026 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, January 25, 2026 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,10 +50,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/1/25/whats-behind-the-recent-shift-in-us-defence?traffic_source=rss" target="_blank">What’s behind the recent shift in US defence strategy?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-25 20:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/01/25/g-s1-107288/senate-investigation-alex-pretti-killing" target="_blank">Senate Democrats and Republicans call for investigation into killing of Alex Pretti</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-25 19:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11ee/live/7ce077d0-fa18-11f0-b5f7-49f0357294ff.jpg" alt="Andy Burnham &#x27;disappointed&#x27; after bid to become MP blocked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czr4e7ep468o?at_medium=RSS&at_campaign=rss" target="_blank">Andy Burnham &#x27;disappointed&#x27; after bid to become MP blocked</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-25 18:51</span>
             </div>
         </div>
 <div class="story">
@@ -77,24 +99,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/latest-minneapolis-shooting-federal-agents/story?id=129540435" target="_blank">What we know about the latest Minneapolis shooting by federal agents</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-25 15:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/25/nx-s1-5687809/american-rock-climber-alex-honnold-reaches-top-of-taipei-skyscraper" target="_blank">U.S. rock climber Alex Honnold reaches top of Taipei 101 skyscraper without ropes</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-25 12:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1751/live/9fd14180-f9ea-11f0-811c-ad0579c12ce2.jpg" alt="Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss" target="_blank">Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-25 12:24</span>
             </div>
         </div>
 </div>
@@ -171,6 +175,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyt59ubnyisinhr1jcnc9.JPG" alt="How I Built a Domain-Specific GPT That Reached 200K+ Users Globally" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/asad1/how-i-built-a-domain-specific-gpt-that-reached-200k-users-globally-17a1" target="_blank">How I Built a Domain-Specific GPT That Reached 200K+ Users Globally</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-25 20:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,20 +219,20 @@
                 <span class="time">2026-01-25 17:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/no-longer-need-terminal/" target="_blank">Not the Linux You Remember: 16 Every Day Tasks That No Longer Need the Terminal</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-25 16:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/halo-campaign-evolved-1280x853.jpg" alt="‘Halo’ Actor Steve Downes Asks You Not to Remake His Voice with AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/halo-actor-steve-downes-asks-you-not-to-remake-his-voice-with-ai-2000713343" target="_blank">‘Halo’ Actor Steve Downes Asks You Not to Remake His Voice with AI</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-25 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/PDF.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="PDF Expert makes edits easy, and right now it&#x27;s 42% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +278,6 @@
                 <span class="time">2026-01-25 10:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/sam-altman-mic-1280x853.jpg" alt="OpenAI Partners with Major Government Contractor to ‘Transform Federal Operations’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/openai-partners-with-major-government-contractor-to-transform-federal-operations-2000713751" target="_blank">OpenAI Partners with Major Government Contractor to ‘Transform Federal Operations’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-24 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
