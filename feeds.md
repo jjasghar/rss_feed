@@ -1,30 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-25 09:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-25 10:01:29 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 0 new posts out of 22 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, January 25, 2026 - 09:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, January 25, 2026 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdf1/live/82c53a10-f9d1-11f0-b5f7-49f0357294ff.jpg" alt="What we know about fatal shooting of Alex Pretti by federal agents in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c20zjyxep99o?at_medium=RSS&at_campaign=rss" target="_blank">What we know about fatal shooting of Alex Pretti by federal agents in Minneapolis</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-25 04:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,15 +94,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/federal-agents-shoot-and-kill-man-in-minneapolis-256531013618" target="_blank">Federal agents shoot and kill man in Minneapolis</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-01-25 00:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/minneapolis-scene-ap-jt-260124_1769280760571_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Man fatally shot by agent was US citizen, Alex Pretti, 37" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: Man fatally shot by agent was US citizen, Alex Pretti, 37</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-24 22:54</span>
             </div>
         </div>
 </div>
@@ -171,6 +173,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hiral/getting-started-with-curl-4176" target="_blank">Getting Started with cURL</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-25 09:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/preetha_vaishnavi_2b82358/task-management-ui-o64" target="_blank">Task Management UI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-25 07:50</span>
@@ -201,15 +212,6 @@
                 <span class="title"><a href="https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971" target="_blank">nvidia-smi hangs indefinitely after ~66 days</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-25 03:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GIMP-3.0.8-Released" target="_blank">GIMP 3.0.8 Released In Advance Of GIMP 3.2</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-25 01:52</span>
             </div>
         </div>
 </div>
@@ -290,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
