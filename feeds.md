@@ -1,27 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-25 19:01:52 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-01-25 20:01:44 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 18 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, January 25, 2026 - 19:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, January 25, 2026 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/25/g-s1-107288/senate-investigation-alex-pretti-killing" target="_blank">Senate Democrats and Republicans call for investigation into killing of Alex Pretti</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-25 19:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b33/live/6a62aac0-f9ea-11f0-811c-ad0579c12ce2.png" alt="Andy Burnham&#x27;s bid to return as MP blocked by Labour&#x27;s ruling body" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,15 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss" target="_blank">Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-25 12:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/25/myanmar-holds-final-stage-of-disputed-election-as-rebels-continue-fighting?traffic_source=rss" target="_blank">Myanmar holds final stage of disputed election as rebels continue fighting</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-25 11:50</span>
             </div>
         </div>
 </div>
@@ -167,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/developer_sahil/building-a-system-thinkers-portfolio-38kg" target="_blank">Building a System Thinker&#x27;s Portfolio</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-25 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/LACT-0.8.4-Released" target="_blank">LACT 0.8.4 Brings Improved Overclocking UI For GPUs On Linux</a></span>
                 <span class="feed">Phoronix</span>
@@ -198,15 +213,6 @@
                 <span class="title"><a href="https://itsfoss.com/no-longer-need-terminal/" target="_blank">Not the Linux You Remember: 16 Every Day Tasks That No Longer Need the Terminal</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-01-25 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tosin2013/how-to-automate-adr-reviews-and-keep-your-architectural-decisions-in-sync-with-your-codebase-kdn" target="_blank">How to Automate ADR Reviews and Keep Your Architectural Decisions in Sync with Your Codebase</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-25 15:56</span>
             </div>
         </div>
 </div>
@@ -287,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
