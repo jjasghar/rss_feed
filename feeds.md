@@ -1,35 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-01-25 01:30:23 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-25 02:45:43 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, January 25, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, January 25, 2026 - 02:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/minneapolis-scene-ap-jt-260124_1769280760571_hpMain_4x3t_384.jpg" alt="Minneapolis shooting live updates: Witness describes shooting in court filing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis shooting live updates: Witness describes shooting in court filing</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-25 02:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769300548355_wnn_cbr_minneapolis_shooting_260124_1920x1080-ftjfg3.jpg" alt="Federal agents shoot and kill man in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/federal-agents-shoot-and-kill-man-in-minneapolis-256531013618" target="_blank">Federal agents shoot and kill man in Minneapolis</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-25 00:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/minneapolis-scene-ap-jt-260124_1769280760571_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Man fatally shot by agent was US citizen, Alex Pretti, 37" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +108,29 @@
                 <span class="time">2026-01-24 21:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/24/ceasefire-between-syrian-army-and-kurdish-led-forces-extended-for-15-days?traffic_source=rss" target="_blank">Ceasefire between Syrian army and Kurdish-led forces extended for 15 days</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-24 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Gov. Walz speaks on deadly Minneapolis shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Gov. Walz speaks on deadly Minneapolis shooting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-24 19:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/867410/minneapolis-ice-protest-alex-pretti-killing" target="_blank">The day of the second killing</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-25 02:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6975230b25b7e04e4a4a1d04/master/pass/Instant-Smear-Campaign-Against-ICE-Shooting-Politics-2257417610.jpg" alt="The Instant Smear Campaign Against Border Patrol Shooting Victim Alex Pretti" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-instant-smear-campaign-against-border-patrol-shooting-victim-alex-pretti/" target="_blank">The Instant Smear Campaign Against Border Patrol Shooting Victim Alex Pretti</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-25 00:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,24 +167,6 @@
                 <span class="time">2026-01-24 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/data-wiper-malware-500x500.jpg" alt="Poland&#x27;s energy grid was targeted by never-before-seen wiper malware" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/" target="_blank">Poland&#x27;s energy grid was targeted by never-before-seen wiper malware</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-24 19:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/866788/anker-nano-travel-adapter-samsung-p9-microsd-express-card-deal-sale" target="_blank">MicroSD Express cards and Anker’s travel adapter rule the deal roost this week</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-24 18:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +179,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/" target="_blank">Adoption of EVs tied to real-world reductions in air pollution: study</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-25 00:14</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +224,6 @@
                 <span class="title"><a href="https://github.com/trycua/cua-bench" target="_blank">Cua-Bench – a benchmark for AI agents in GUI environments</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-01-24 18:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/CachyOS-January-2026" target="_blank">CachyOS Starts 2026 By Switching To Plasma Login Manager &amp; Live ISO Using Wayland</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-24 17:50</span>
             </div>
         </div>
 </div>
@@ -290,22 +299,13 @@
                 <span class="time">2026-01-24 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/24/more-of-a-monchichi-man-myself" target="_blank">More Of A Monchichi Man Myself</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-24 02:08</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 02:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
