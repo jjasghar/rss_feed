@@ -1,30 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-01-25 12:02:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-25 13:11:47 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, January 25, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, January 25, 2026 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/25/nx-s1-5687809/american-rock-climber-alex-honnold-reaches-top-of-taipei-skyscraper" target="_blank">U.S. rock climber Alex Honnold reaches top of Taipei 101 skyscraper without ropes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-25 12:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/25/myanmar-holds-final-stage-of-disputed-election-as-rebels-continue-fighting?traffic_source=rss" target="_blank">Myanmar holds final stage of disputed election as rebels continue fighting</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-25 11:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a019/live/9e608dc0-f9da-11f0-b5f7-49f0357294ff.jpg" alt="Decision day for Labour on whether Burnham can stand as MP candidate" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,29 +93,20 @@
                 <span class="time">2026-01-25 02:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/25/russia-ukraine-war-list-of-key-events-day-1431?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,431</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-25 01:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/24/g-s1-107248/russia-strikes-kyiv-cold" target="_blank">Russian strikes knock out heat in freezing Kyiv as peace talks continue</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-25 00:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/ADAM_BEN_L1560319-500x500.jpg" alt="A decade of Star Trek-themed fart jokes: The Greatest Generation podcast turns 10" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/01/a-decade-of-star-trek-themed-fart-jokes-the-greatest-generation-podcast-turns-10/" target="_blank">A decade of Star Trek-themed fart jokes: The Greatest Generation podcast turns 10</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-25 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6975150e1f35f41b48697c08/master/pass/How%20Long%20Should%20You%20Cold%20Plunge_.png" alt="How Long Should You Cold Plunge? We Asked Experts (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,15 +152,6 @@
                 <span class="time">2026-01-24 22:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697521c65dcae75b99a988f1/master/pass/Ice-Wants-to-Expand-Big-Data-and-Ad-Tech-Companies-to-Sell-Products-Security-2257421618.jpg" alt="ICE Asks Companies About ‘Ad Tech and Big Data’ Tools It Could Use in Investigations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/" target="_blank">ICE Asks Companies About ‘Ad Tech and Big Data’ Tools It Could Use in Investigations</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-24 22:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,6 +164,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/multi-armed-bandits-doordash/en/headerimage/multi-armed-bandits-doordash-1769342786628.jpeg" alt="Enhancing A/B Testing at DoorDash with Multi-Armed Bandits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/multi-armed-bandits-doordash/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Enhancing A/B Testing at DoorDash with Multi-Armed Bandits</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-25 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -201,15 +209,6 @@
                 <span class="title"><a href="https://dev.to/hiral/getting-started-with-curl-4176" target="_blank">Getting Started with cURL</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-25 09:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/preetha_vaishnavi_2b82358/task-management-ui-o64" target="_blank">Task Management UI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-25 07:50</span>
             </div>
         </div>
 </div>
@@ -290,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
