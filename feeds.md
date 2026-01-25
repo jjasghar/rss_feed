@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-25 04:22:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-25 05:08:11 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 27 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, January 25, 2026 - 04:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, January 25, 2026 - 05:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -176,6 +175,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971" target="_blank">nvidia-smi hangs indefinitely after ~66 days</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-25 03:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GIMP-3.0.8-Released" target="_blank">GIMP 3.0.8 Released In Advance Of GIMP 3.2</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-25 01:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/" target="_blank">Adoption of EVs tied to real-world reductions in air pollution: study</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-25 00:14</span>
@@ -197,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/theelitegentleman/bring-ai-into-your-jakarta-ee-apps-with-langchain4j-cdi-ib6" target="_blank">Bring AI into your Jakarta EE apps with LangChain4J-CDI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-24 19:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp" target="_blank">BirdyChat becomes first European chat app that is interoperable with WhatsApp</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-24 19:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/trycua/cua-bench" target="_blank">Cua-Bench – a benchmark for AI agents in GUI environments</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-01-24 18:54</span>
             </div>
         </div>
 </div>
@@ -295,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 04:22 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 05:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
