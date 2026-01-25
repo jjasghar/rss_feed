@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-25 17:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-25 18:02:11 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, January 25, 2026 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, January 25, 2026 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +107,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/25/techcrunch-mobility-rip-tesla-autopilot-and-the-ntsb-investigates-waymo/" target="_blank">TechCrunch Mobility: RIP, Tesla Autopilot, and the NTSB investigates Waymo</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-25 17:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/" target="_blank">Apple will reportedly unveil its Gemini-powered Siri assistant in February</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-25 16:56</span>
@@ -153,15 +157,6 @@
                 <span class="time">2026-01-25 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6975150e1f35f41b48697c08/master/pass/How%20Long%20Should%20You%20Cold%20Plunge_.png" alt="How Long Should You Cold Plunge? We Asked Experts (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-long-do-you-cold-plunge/" target="_blank">How Long Should You Cold Plunge? We Asked Experts (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-25 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +169,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/fosdem-conference.jpg?resize=406%2C232&amp;ssl=1" alt="Funding, AI and Politics Take Center Stage at FOSDEM 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/fosdem-2026-open-source-funding-ai-talks" target="_blank">Funding, AI and Politics Take Center Stage at FOSDEM 2026</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-25 17:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-Linux-7.0-More-Fixes" target="_blank">AMD Sends In A Variety Of Graphics Driver Fixes Ahead Of Linux 7.0 Cycle</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-25 17:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/no-longer-need-terminal/" target="_blank">Not the Linux You Remember: 16 Every Day Tasks That No Longer Need the Terminal</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-25 16:45</span>
             </div>
         </div>
 <div class="story">
@@ -194,38 +216,20 @@
                 <span class="time">2026-01-25 15:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/allcoderthings/using-constants-and-enums-in-c-2h0c" target="_blank">Using Constants and Enums in C#</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-25 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/multi-armed-bandits-doordash/en/headerimage/multi-armed-bandits-doordash-1769342786628.jpeg" alt="Enhancing A/B Testing at DoorDash with Multi-Armed Bandits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/multi-armed-bandits-doordash/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Enhancing A/B Testing at DoorDash with Multi-Armed Bandits</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-25 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-Continuity-Doc" target="_blank">Linux Kernel Continuity Document Added: What Happens If Torvalds&#x27; Git Repo Goes Away?</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-25 11:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/PDF.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="PDF Expert makes edits easy, and right now it&#x27;s 42% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/25/pdf-expert-makes-edits-easy-and-right-now-its-42-off.html" target="_blank">PDF Expert makes edits easy, and right now it&#x27;s 42% off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-25 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/bafkreigwlxyyqkhby2y22riphaoyyv6yr66gsyeqqczqkg2wqshgzsumh4.jpg" alt="New Super Mario Galaxy Movie Trailer Finally Reveals Yoshi, Birdo, And More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +275,6 @@
                 <span class="time">2026-01-24 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/soofer.jpg?fit=1200%2C853&amp;quality=60&amp;ssl=1" alt="Feds: Charity exec bought $7M house, Greece vacation home with homeless money" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/24/feds-charity-exec-bought-7m-house-greece-vacation-home-with-homeless-money.html" target="_blank">Feds: Charity exec bought $7M house, Greece vacation home with homeless money</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-24 21:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
