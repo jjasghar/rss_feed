@@ -1,27 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-25 15:01:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-25 16:01:48 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 19 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, January 25, 2026 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, January 25, 2026 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b33/live/6a62aac0-f9ea-11f0-811c-ad0579c12ce2.png" alt="Andy Burnham&#x27;s bid to return as MP blocked by Labour&#x27;s ruling body" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czr4e7ep468o?at_medium=RSS&at_campaign=rss" target="_blank">Andy Burnham&#x27;s bid to return as MP blocked by Labour&#x27;s ruling body</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-25 15:52</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/01/25/nx-s1-5687809/american-rock-climber-alex-honnold-reaches-top-of-taipei-skyscraper" target="_blank">U.S. rock climber Alex Honnold reaches top of Taipei 101 skyscraper without ropes</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-25 12:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1751/live/9fd14180-f9ea-11f0-811c-ad0579c12ce2.jpg" alt="Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss" target="_blank">Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-25 12:24</span>
             </div>
         </div>
 <div class="story">
@@ -73,29 +100,20 @@
                 <span class="time">2026-01-25 04:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/25/myanmar-holds-final-election-round-military-backed-party-set-to-win?traffic_source=rss" target="_blank">Myanmar holds final election round, military-backed party set to win</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-25 04:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/minneapolis-scene-ap-jt-260124_1769280760571_hpMain_4x3t_384.jpg" alt="Minneapolis shooting live updates: Witness describes shooting in court filing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis shooting live updates: Witness describes shooting in court filing</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-25 02:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/864821/abxylute-m4-snap-on-mobile-controller-magsafe-magnetic-bluetooth" target="_blank">Trusting your phone to Abxylute’s mobile controller requires a big leap of faith</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-25 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,15 +159,6 @@
                 <span class="time">2026-01-25 02:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6975230b25b7e04e4a4a1d04/master/pass/Instant-Smear-Campaign-Against-ICE-Shooting-Politics-2257417610.jpg" alt="The Instant Smear Campaign Against Border Patrol Shooting Victim Alex Pretti" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-instant-smear-campaign-against-border-patrol-shooting-victim-alex-pretti/" target="_blank">The Instant Smear Campaign Against Border Patrol Shooting Victim Alex Pretti</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-25 00:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -162,6 +171,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tosin2013/how-to-automate-adr-reviews-and-keep-your-architectural-decisions-in-sync-with-your-codebase-kdn" target="_blank">How to Automate ADR Reviews and Keep Your Architectural Decisions in Sync with Your Codebase</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-25 15:56</span>
             </div>
         </div>
 <div class="story">
@@ -200,20 +218,20 @@
                 <span class="time">2026-01-25 10:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/amoorzheyu/xiu-gai-ssh-mo-ren-duan-kou-dao-zhi-mi-yao-deng-lu-shi-bai-de-pai-cha-yu-jie-jue-1aac" target="_blank">修改 SSH 默认端口导致密钥登录失败的排查与解决</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-25 10:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/bafkreigwlxyyqkhby2y22riphaoyyv6yr66gsyeqqczqkg2wqshgzsumh4.jpg" alt="New Super Mario Galaxy Movie Trailer Finally Reveals Yoshi, Birdo, And More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/super-mario-galaxy-movie-direct-yoshi-birdo-baby-2000662854" target="_blank">New Super Mario Galaxy Movie Trailer Finally Reveals Yoshi, Birdo, And More</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-25 14:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/super-mario-galaxy-yoshi-1280x853.jpg" alt="A New ‘Super Mario Galaxy’ Trailer Unleashes Yoshi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,15 +277,6 @@
                 <span class="time">2026-01-24 21:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/sonic.jpg?fit=1200%2C846&amp;quality=60&amp;ssl=1" alt="Trump reveals sonic &quot;discombobulator&quot; used in Venezuela raid: &quot;I&#x27;m not allowed to talk&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/24/trump-reveals-sonic-discombobulator-used-in-venezuela-raid-im-not-allowed-to-talk.html" target="_blank">Trump reveals sonic &quot;discombobulator&quot; used in Venezuela raid: &quot;I&#x27;m not allowed to talk&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-24 20:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -288,7 +297,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 15:01 UTC
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
