@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-25 22:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-25 23:02:09 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, January 25, 2026 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, January 25, 2026 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -91,12 +88,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/minn-7-gty-gmh-260125_1769349373216_hpMain_4x3t_384.jpg" alt="What we know about the latest Minneapolis shooting by federal agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecf2/live/6592a130-f99f-11f0-b5f7-49f0357294ff.jpg" alt="Video shows moments around fatal shooting of Alex Pretti in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/latest-minneapolis-shooting-federal-agents/story?id=129540435" target="_blank">What we know about the latest Minneapolis shooting by federal agents</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-25 15:22</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS&at_campaign=rss" target="_blank">Video shows moments around fatal shooting of Alex Pretti in Minneapolis</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-25 15:31</span>
             </div>
         </div>
 </div>
@@ -173,6 +170,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/03/gnome-extensions-blue.jpg?resize=406%2C232&amp;ssl=1" alt="Add Custom Command Toggles to GNOME Shell’s Quick Settings Menu" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/custom-command-toggle-gnome-extension" target="_blank">Add Custom Command Toggles to GNOME Shell’s Quick Settings Menu</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-25 22:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyt59ubnyisinhr1jcnc9.JPG" alt="How I Built a Domain-Specific GPT That Reached 200K+ Users Globally" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -193,28 +199,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LACT-0.8.4-Released" target="_blank">LACT 0.8.4 Brings Improved Overclocking UI For GPUs On Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-25 18:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/fosdem-conference.jpg?resize=406%2C232&amp;ssl=1" alt="Funding, AI and Politics Take Center Stage at FOSDEM 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/fosdem-2026-open-source-funding-ai-talks" target="_blank">Funding, AI and Politics Take Center Stage at FOSDEM 2026</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-25 17:42</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gwern.net/blog/2026/make-me-care" target="_blank">First, make me care</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-25 19:03</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-Linux-7.0-More-Fixes" target="_blank">AMD Sends In A Variety Of Graphics Driver Fixes Ahead Of Linux 7.0 Cycle</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LACT-0.8.4-Released" target="_blank">LACT 0.8.4 Brings Improved Overclocking UI For GPUs On Linux</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-01-25 17:27</span>
+                <span class="time">2026-01-25 18:58</span>
             </div>
         </div>
 </div>
@@ -295,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 61 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
