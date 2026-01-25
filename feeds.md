@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-01-25 11:01:26 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-25 12:02:28 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, January 25, 2026 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, January 25, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a019/live/9e608dc0-f9da-11f0-b5f7-49f0357294ff.jpg" alt="Decision day for Labour on whether Burnham can stand as MP candidate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ceqzvqe9z02o?at_medium=RSS&at_campaign=rss" target="_blank">Decision day for Labour on whether Burnham can stand as MP candidate</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-25 10:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdf1/live/82c53a10-f9d1-11f0-b5f7-49f0357294ff.jpg" alt="What we know about fatal shooting of Alex Pretti by federal agents in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +94,20 @@
                 <span class="time">2026-01-25 00:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769300548355_wnn_cbr_minneapolis_shooting_260124_1920x1080-ftjfg3.jpg" alt="Federal agents shoot and kill man in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/federal-agents-shoot-and-kill-man-in-minneapolis-256531013618" target="_blank">Federal agents shoot and kill man in Minneapolis</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-25 00:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6975150e1f35f41b48697c08/master/pass/How%20Long%20Should%20You%20Cold%20Plunge_.png" alt="How Long Should You Cold Plunge? We Asked Experts (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-long-do-you-cold-plunge/" target="_blank">How Long Should You Cold Plunge? We Asked Experts (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-25 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +153,6 @@
                 <span class="time">2026-01-24 22:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/" target="_blank">Tech CEOs boast and bicker about AI at Davos</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-24 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +165,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-Continuity-Doc" target="_blank">Linux Kernel Continuity Document Added: What Happens If Torvalds&#x27; Git Repo Goes Away?</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-25 11:18</span>
             </div>
         </div>
 <div class="story">
@@ -207,20 +212,20 @@
                 <span class="time">2026-01-25 07:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/aws-github-vulnerability/en/headerimage/generatedHeaderImage-1768930305529.jpg" alt="Two Missing Characters: How a Regex Flaw Exposed AWS GitHub Repos to Supply-Chain Risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/aws-github-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Two Missing Characters: How a Regex Flaw Exposed AWS GitHub Repos to Supply-Chain Risk</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-25 07:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Robosen-SoundWave-Cassette-Speaker-Review-2-1280x853.jpg" alt="Robosen’s $1,400 Soundwave Transformer Is a Sick Robot and Sad Bluetooth Speaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/robosens-1400-soundwave-transformer-is-a-sick-robot-and-sad-bluetooth-speaker-2000713454" target="_blank">Robosen’s $1,400 Soundwave Transformer Is a Sick Robot and Sad Bluetooth Speaker</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-25 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/10/bunny-cat.jpeg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Take a mental health break: watch a cute rabbit get surprised with a heap of tomatoes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +271,6 @@
                 <span class="time">2026-01-24 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/shutterstock_95996260-scaled.jpg?fit=2560%2C2155&amp;quality=60&amp;ssl=1" alt="Mysterious paper animations feel like hidden worlds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/24/mysterious-paper-animations-feel-like-hidden-worlds.html" target="_blank">Mysterious paper animations feel like hidden worlds</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-24 18:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
