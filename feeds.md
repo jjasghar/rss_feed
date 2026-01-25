@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-25 10:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-25 11:01:26 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, January 25, 2026 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, January 25, 2026 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -172,6 +174,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-MSM-Driver" target="_blank">Snapdragon 8 Elite Gen 5 Display Support &amp; Old Adreno 225 Enablement For Linux 7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-25 10:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/amoorzheyu/xiu-gai-ssh-mo-ren-duan-kou-dao-zhi-mi-yao-deng-lu-shi-bai-de-pai-cha-yu-jie-jue-1aac" target="_blank">修改 SSH 默认端口导致密钥登录失败的排查与解决</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-25 10:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hiral/getting-started-with-curl-4176" target="_blank">Getting Started with cURL</a></span>
                 <span class="feed">DEV Community</span>
@@ -196,29 +216,20 @@
                 <span class="time">2026-01-25 07:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/peakker_panther_7fb64408b/journal-app-with-no-edit-button-13lc" target="_blank">Journal app with no edit button.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-25 05:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971" target="_blank">nvidia-smi hangs indefinitely after ~66 days</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-25 03:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/10/bunny-cat.jpeg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Take a mental health break: watch a cute rabbit get surprised with a heap of tomatoes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/25/take-a-mental-health-break-watch-a-cute-rabbit-get-surprised-with-a-heap-of-tomatoes.html" target="_blank">Take a mental health break: watch a cute rabbit get surprised with a heap of tomatoes</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-25 10:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/sam-altman-mic-1280x853.jpg" alt="OpenAI Partners with Major Government Contractor to ‘Transform Federal Operations’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +275,6 @@
                 <span class="time">2026-01-24 18:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/darth-maul-hed-1280x853.jpg" alt="Darth Maul Is My Glup Shitto, and I’m Happy He’s Back (Again)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/darth-maul-is-my-glup-shitto-and-im-happy-hes-back-again-2000713579" target="_blank">Darth Maul Is My Glup Shitto, and I’m Happy He’s Back (Again)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-24 17:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
