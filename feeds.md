@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-25 16:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-25 17:01:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, January 25, 2026 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, January 25, 2026 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +56,24 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/czr4e7ep468o?at_medium=RSS&at_campaign=rss" target="_blank">Andy Burnham&#x27;s bid to return as MP blocked by Labour&#x27;s ruling body</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-25 15:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-iran-tehran_7145423.jpg?20260125155914" alt="Iran unveils mural warning US not to launch military strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/iran-unveils-mural-warning-us-not-to-launch-military-strike-13498878" target="_blank">Iran unveils mural warning US not to launch military strike</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-25 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/minn-7-gty-gmh-260125_1769349373216_hpMain_4x3t_384.jpg" alt="What we know about the latest Minneapolis shooting by federal agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/latest-minneapolis-shooting-federal-agents/story?id=129540435" target="_blank">What we know about the latest Minneapolis shooting by federal agents</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-25 15:22</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +103,20 @@
                 <span class="time">2026-01-25 11:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a019/live/9e608dc0-f9da-11f0-b5f7-49f0357294ff.jpg" alt="Decision day for Labour on whether Burnham can stand as MP candidate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ceqzvqe9z02o?at_medium=RSS&at_campaign=rss" target="_blank">Decision day for Labour on whether Burnham can stand as MP candidate</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-25 10:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdf1/live/82c53a10-f9d1-11f0-b5f7-49f0357294ff.jpg" alt="What we know about fatal shooting of Alex Pretti by federal agents in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c20zjyxep99o?at_medium=RSS&at_campaign=rss" target="_blank">What we know about fatal shooting of Alex Pretti by federal agents in Minneapolis</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-25 04:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/" target="_blank">Apple will reportedly unveil its Gemini-powered Siri assistant in February</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-25 16:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +162,6 @@
                 <span class="time">2026-01-25 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/867410/minneapolis-ice-protest-alex-pretti-killing" target="_blank">The day of the second killing</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-25 02:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -180,6 +183,15 @@
                 <span class="title"><a href="https://dev.to/tosin2013/how-to-automate-adr-reviews-and-keep-your-architectural-decisions-in-sync-with-your-codebase-kdn" target="_blank">How to Automate ADR Reviews and Keep Your Architectural Decisions in Sync with Your Codebase</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-25 15:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/tldev/posturr" target="_blank">A macOS app that blurs your screen when you slouch</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-25 15:34</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-Continuity-Doc" target="_blank">Linux Kernel Continuity Document Added: What Happens If Torvalds&#x27; Git Repo Goes Away?</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-25 11:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-MSM-Driver" target="_blank">Snapdragon 8 Elite Gen 5 Display Support &amp; Old Adreno 225 Enablement For Linux 7.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-25 10:54</span>
             </div>
         </div>
 </div>
@@ -283,12 +286,12 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1769149561-20260124.png" alt="Saturday Morning Breakfast Cereal - Mime" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1769149599-20260125.png" alt="Saturday Morning Breakfast Cereal - Just" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/mime-2" target="_blank">Saturday Morning Breakfast Cereal - Mime</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/just" target="_blank">Saturday Morning Breakfast Cereal - Just</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-24 16:20</span>
+                <span class="time">2026-01-25 16:20</span>
             </div>
         </div>
 </div>
@@ -296,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
