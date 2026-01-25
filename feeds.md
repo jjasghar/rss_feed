@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-25 05:08:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-25 06:02:15 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, January 25, 2026 - 05:08 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, January 25, 2026 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/25/myanmar-holds-final-election-round-military-backed-party-set-to-win?traffic_source=rss" target="_blank">Myanmar holds final election round, military-backed party set to win</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-25 04:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/minneapolis-scene-ap-jt-260124_1769280760571_hpMain_4x3t_384.jpg" alt="Minneapolis shooting live updates: Witness describes shooting in court filing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +96,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: Man fatally shot by agent was US citizen, Alex Pretti, 37</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-24 22:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/24/trump-lavishes-praise-on-uk-troops-amid-anger-over-his-afghanistan-claims?traffic_source=rss" target="_blank">Trump lavishes praise on UK troops amid anger over his Afghanistan claims</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-24 22:51</span>
             </div>
         </div>
 </div>
@@ -174,6 +174,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/peakker_panther_7fb64408b/journal-app-with-no-edit-button-13lc" target="_blank">Journal app with no edit button.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-25 05:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971" target="_blank">nvidia-smi hangs indefinitely after ~66 days</a></span>
                 <span class="feed">Hacker News</span>
@@ -205,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/code42cate/vcpus-are-a-marketing-scam-21kj" target="_blank">vCPUs are a marketing scam</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-24 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/theelitegentleman/bring-ai-into-your-jakarta-ee-apps-with-langchain4j-cdi-ib6" target="_blank">Bring AI into your Jakarta EE apps with LangChain4J-CDI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-24 19:48</span>
             </div>
         </div>
 </div>
@@ -294,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 05:08 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
