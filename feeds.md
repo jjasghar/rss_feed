@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-01-26 08:02:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-26 09:06:06 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, January 26, 2026 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, January 26, 2026 - 09:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -172,6 +169,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fltjqxjsuc1xzkwlnuz17.png" alt="Mise : The Ultimate Dev Tool Manager for Seamless Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jdxlabs/mise-the-ultimate-dev-tool-manager-for-seamless-workflows-2lm0" target="_blank">Mise : The Ultimate Dev Tool Manager for Seamless Workflows</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-26 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/dotnet-aspire-13-1-release/en/headerimage/twittercard3-1769277122617.jpg" alt="Aspire 13.1 Brings MCP Integration, CLI Enhancements, and Azure Deployment Updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/dotnet-aspire-13-1-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Aspire 13.1 Brings MCP Integration, CLI Enhancements, and Azure Deployment Updates</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-26 08:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -183,37 +198,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/_a4db025533c31e24cb517/how-to-give-your-ai-agent-real-time-internet-access-for-free-python-tutorial-1nfj" target="_blank">How to Give Your AI Agent Real-Time Internet Access for Free (Python Tutorial)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-26 05:48</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://datapythonista.me/blog/whats-new-in-pandas-3" target="_blank">What&#x27;s new in pandas 3</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-01-26 07:43</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/" target="_blank">The browser is the sandbox</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-26 05:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="A poorly defined instruction doesn’t fail once; it fails everywhere in AI. No amount of AI integration will solve this problem; actually, it will amplify it. That forces developers to confront design decisions earlier than they’re used to." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jaideepparashar/a-poorly-defined-instruction-doesnt-fail-once-it-fails-everywhere-in-ai-no-amount-of-ai-27j" target="_blank">A poorly defined instruction doesn’t fail once; it fails everywhere in AI. No amount of AI integration will solve this problem; actually, it will amplify it. That forces developers to confront design decisions earlier than they’re used to.</a></span>
+                <span class="title"><a href="https://dev.to/_a4db025533c31e24cb517/how-to-give-your-ai-agent-real-time-internet-access-for-free-python-tutorial-1nfj" target="_blank">How to Give Your AI Agent Real-Time Internet Access for Free (Python Tutorial)</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-01-26 05:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/spring-news-roundup-jan19-2026/en/headerimage/java-istock-image-01-1769365428178.jpg" alt="Spring News Roundup: First Milestone Releases of Boot, Security, Integration, Modulith, AMQP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/spring-news-roundup-jan19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Spring News Roundup: First Milestone Releases of Boot, Security, Integration, Modulith, AMQP</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-26 02:30</span>
+                <span class="time">2026-01-26 05:48</span>
             </div>
         </div>
 </div>
@@ -303,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 09:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
