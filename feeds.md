@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-26 06:03:21 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-26 07:06:34 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, January 26, 2026 - 06:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, January 26, 2026 - 07:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +48,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/26/g-s1-107327/eleanor-holmes-norton-ending-reelection-campaign" target="_blank">DC Delegate Eleanor Holmes Norton is ending her reelection campaign for Congress</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-26 07:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba23/live/2b0c80d0-fa76-11f0-b5f7-49f0357294ff.jpg" alt="Minneapolis protesters march against ICE as governor urges Trump to remove agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss" target="_blank">Minneapolis protesters march against ICE as governor urges Trump to remove agents</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-26 05:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/timeline-1-ht-gmh-260125_1769386204906_hpMain_4x3t_384.jpg" alt="A minute-by-minute timeline of the fatal shooting of Alex Pretti by federal agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/minute-minute-timeline-fatal-shooting-alex-pretti-federal/story?id=129547199" target="_blank">A minute-by-minute timeline of the fatal shooting of Alex Pretti by federal agents</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-26 04:37</span>
             </div>
         </div>
 <div class="story">
@@ -78,24 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/minneapolis-on-edge-after-second-fatal-shooting-involving-federal-officers-256552005672" target="_blank">Minneapolis on edge after second fatal shooting involving federal officers</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-01-26 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/d_ov_feature_pretti_shooting_260125-zte8az.jpg" alt="Video analysis contradicts government&#x27;s account" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/video-analysis-contradicts-government-s-account-of-the-shooting-of-alex-pretti-in-minneapolis-minnesota-256550981695" target="_blank">Video analysis contradicts government&#x27;s account</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-25 23:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/25/nx-s1-5687957/weather-snow-ice-winter-storm-power-outages-travel" target="_blank">Power outages and canceled flights as winter storm brings snow, sleet and ice</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-25 23:36</span>
             </div>
         </div>
 </div>
@@ -303,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 06:03 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 07:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
