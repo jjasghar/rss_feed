@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-26 01:30:22 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-26 02:45:20 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, January 26, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, January 26, 2026 - 02:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/26/ferry-carrying-over-350-people-sinks-in-philippines-killing-at-least-seven?traffic_source=rss" target="_blank">Ferry carrying over 350 people sinks in Philippines, killing at least seven</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-26 01:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/d_ov_feature_pretti_shooting_260125-zte8az.jpg" alt="Video analysis contradicts government&#x27;s account" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/1/25/whats-behind-the-recent-shift-in-us-defence?traffic_source=rss" target="_blank">What’s behind the recent shift in US defence strategy?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-25 20:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/25/g-s1-107288/senate-investigation-alex-pretti-killing" target="_blank">Senate Democrats and Republicans call for investigation into killing of Alex Pretti</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-25 19:02</span>
             </div>
         </div>
 </div>
@@ -173,48 +175,48 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://res.infoq.com/news/2026/01/spring-news-roundup-jan19-2026/en/headerimage/java-istock-image-01-1769365428178.jpg" alt="Spring News Roundup: First Milestone Releases of Boot, Security, Integration, Modulith, AMQP" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/clawdbot/clawdbot" target="_blank">Clawdbot - open source personal AI assistant</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-26 00:27</span>
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/spring-news-roundup-jan19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Spring News Roundup: First Milestone Releases of Boot, Security, Integration, Modulith, AMQP</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-26 02:30</span>
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpmew0bmb4p9qf8mqjerv.png" alt="Getting Started with Clawdbot: The Complete Step-by-Step Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/coltonidle/how-to-create-a-convention-plugin-for-your-multi-module-android-app-479k" target="_blank">How to create a &quot;convention&quot; plugin for your multi-module Android app</a></span>
+                <span class="title"><a href="https://dev.to/ajeetraina/getting-started-with-clawdbot-the-complete-step-by-step-guide-2ffj" target="_blank">Getting Started with Clawdbot: The Complete Step-by-Step Guide</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-01-25 23:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/03/gnome-extensions-blue.jpg?resize=406%2C232&amp;ssl=1" alt="Add Custom Toggles to GNOME’s Quick Settings with this Extension" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/custom-command-toggle-gnome-extension" target="_blank">Add Custom Toggles to GNOME’s Quick Settings with this Extension</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-25 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/03/gnome-extensions-blue.jpg?resize=406%2C232&amp;ssl=1" alt="Add Custom Command Toggles to GNOME Shell’s Quick Settings Menu" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/custom-command-toggle-gnome-extension" target="_blank">Add Custom Command Toggles to GNOME Shell’s Quick Settings Menu</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-25 22:56</span>
+                <span class="time">2026-01-26 02:23</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-rc7-Released" target="_blank">Linux 6.19-rc7 Released With Kernel Continuity Plan, A Few Important Fixes</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/X.Org-Library-Updates-Jan-2026" target="_blank">Several New X.Org Libraries See 2026 Releases</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-01-25 22:29</span>
+                <span class="time">2026-01-26 01:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://nedbatchelder.com/blog/202601/testing_exceptions_and_caches" target="_blank">Testing: exceptions and caches</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-01-26 00:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/clawdbot/clawdbot" target="_blank">Clawdbot - open source personal AI assistant</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-26 00:27</span>
             </div>
         </div>
 </div>
@@ -304,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 02:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
