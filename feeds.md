@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-26 15:04:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-26 16:03:58 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, January 26, 2026 - 15:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, January 26, 2026 - 16:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +114,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/867754/asus-desktop-pc-stream-deck-lg-oled-animal-crossing-deal-sale" target="_blank">A powerful AMD gaming desktop is hundreds off at Costco</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-26 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/" target="_blank">Microsoft announces powerful new chip for AI inference</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-26 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/podcast/866751/experian-ceo-alex-lintner-credit-scores-ai-privacy-interview" target="_blank">Experian’s tech chief defends credit scores: ‘We’re not Palantir’</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-26 15:00</span>
@@ -124,39 +147,21 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/26/nvidias-new-ai-weather-models-probably-saw-this-storm-coming-weeks-ago/" target="_blank">Nvidia’s new AI weather models probably saw this storm coming weeks ago</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-26 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69740012af9714ce0216661e/master/pass/People-Are-Protesting-Data-Centers%E2%80%94but-Embracing-Factories-That-Supply-Them-Business.jpg" alt="People Are Protesting Data Centers—but Embracing the Factories That Supply Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media.wired.com/photos/697777f22abb46df7b02b06b/master/pass/Apple-AirTag-FineWoven-Key-Ring.jpg" alt="After 5 Years, Apple Finally Upgrades the AirTag" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/data-center-criticism-factories-supply-us/" target="_blank">People Are Protesting Data Centers—but Embracing the Factories That Supply Them</a></span>
+                <span class="title"><a href="https://www.wired.com/story/apple-second-generation-airtag-2026/" target="_blank">After 5 Years, Apple Finally Upgrades the AirTag</a></span>
                 <span class="feed">WIRED</span>
-                <span class="time">2026-01-26 11:00</span>
+                <span class="time">2026-01-26 14:50</span>
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/xai-grok-500x500-1752596846.jpg" alt="EU launches formal investigation of xAI over Grok&#x27;s sexualized deepfakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/867625/tiktok-down-weekend-broke-fyp-video-uploads-review" target="_blank">TikTok broke in its first weekend with US ownership</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-26 10:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in/" target="_blank">Synthesia hits $4B valuation, lets employees cash out</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-26 09:00</span>
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/eu-launches-formal-investigation-of-xai-over-groks-sexualized-deepfakes/" target="_blank">EU launches formal investigation of xAI over Grok&#x27;s sexualized deepfakes</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-26 14:17</span>
             </div>
         </div>
 </div>
@@ -171,6 +176,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/linux-619-next-buddy" target="_blank">Revisiting The Linux 6.19 Performance With &quot;NEXT_BUDDY&quot; Now Disabled</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-26 15:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://qwen.ai/blog?id=qwen3-max-thinking" target="_blank">Qwen3-Max-Thinking</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-26 15:23</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +221,6 @@
                 <span class="title"><a href="https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/" target="_blank">Apple introduces new AirTag with longer range and improved findability</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-26 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/robjohnston/lean-interfaces-why-would-a-ph-meter-need-setwavelength-49d9" target="_blank">Lean Interfaces: Why Would a pH Meter Need `set_wavelength()`?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-26 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1tefhw519eiqy281pmmi.png" alt="Just completed the 2nd module" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kuldeepreddy007/just-completed-the-2nd-module-3ab9" target="_blank">Just completed the 2nd module</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-26 13:11</span>
             </div>
         </div>
 </div>
@@ -328,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 15:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 16:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
