@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-26 05:10:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-26 06:03:21 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, January 26, 2026 - 05:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, January 26, 2026 - 06:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba23/live/2b0c80d0-fa76-11f0-b5f7-49f0357294ff.jpg" alt="Minneapolis protesters march against ICE as governor urges Trump to remove agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss" target="_blank">Minneapolis protesters march against ICE as governor urges Trump to remove agents</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-26 05:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/timeline-1-ht-gmh-260125_1769386204906_hpMain_4x3t_384.jpg" alt="A minute-by-minute timeline of the fatal shooting of Alex Pretti by a federal agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/25/nx-s1-5687957/weather-snow-ice-winter-storm-power-outages-travel" target="_blank">Power outages and canceled flights as winter storm brings snow, sleet and ice</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-25 23:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/minn-1-gty-gmh-260125_1769347405955_hpMain_4x3t_384.jpg" alt="Witness disputes DHS account of fatal Minneapolis shooting: Court documents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/wrong-witness-court-docs-disputes-dhs-account-minneapolis/story?id=129546666" target="_blank">Witness disputes DHS account of fatal Minneapolis shooting: Court documents</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-25 23:31</span>
             </div>
         </div>
 </div>
@@ -175,6 +172,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/_a4db025533c31e24cb517/how-to-give-your-ai-agent-real-time-internet-access-for-free-python-tutorial-1nfj" target="_blank">How to Give Your AI Agent Real-Time Internet Access for Free (Python Tutorial)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-26 05:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="A poorly defined instruction doesn’t fail once; it fails everywhere in AI. No amount of AI integration will solve this problem; actually, it will amplify it. That forces developers to confront design decisions earlier than they’re used to." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/X.Org-Library-Updates-Jan-2026" target="_blank">Several New X.Org Libraries See 2026 Releases</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-26 01:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://nedbatchelder.com/blog/202601/testing_exceptions_and_caches" target="_blank">Testing: exceptions and caches</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-01-26 00:44</span>
             </div>
         </div>
 </div>
@@ -306,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 05:10 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 06:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
