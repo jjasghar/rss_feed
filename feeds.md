@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-26 00:05:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-26 01:30:22 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, January 26, 2026 - 00:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, January 26, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/d_ov_feature_pretti_shooting_260125-zte8az.jpg" alt="Video analysis contradicts government&#x27;s account" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/video-analysis-contradicts-government-s-account-of-the-shooting-of-alex-pretti-in-minneapolis-minnesota-256550981695" target="_blank">Video analysis contradicts government&#x27;s account</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-25 23:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/minn-1-gty-gmh-260125_1769347405955_hpMain_4x3t_384.jpg" alt="Witness disputes DHS account of fatal Minneapolis shooting: Court documents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/US/wrong-witness-court-docs-disputes-dhs-account-minneapolis/story?id=129546666" target="_blank">Witness disputes DHS account of fatal Minneapolis shooting: Court documents</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-25 23:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/25/minnesota-governor-wants-federal-immigration-agents-out-after-pretti-killed?traffic_source=rss" target="_blank">Minnesota Gov. Walz demands Trump remove border agents after nurse killed</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-25 23:08</span>
             </div>
         </div>
 <div class="story">
@@ -79,24 +99,6 @@
                 <span class="time">2026-01-25 19:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11ee/live/7ce077d0-fa18-11f0-b5f7-49f0357294ff.jpg" alt="Andy Burnham &#x27;disappointed&#x27; after bid to become MP blocked" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czr4e7ep468o?at_medium=RSS&at_campaign=rss" target="_blank">Andy Burnham &#x27;disappointed&#x27; after bid to become MP blocked</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-25 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b33/live/6a62aac0-f9ea-11f0-811c-ad0579c12ce2.png" alt="Andy Burnham&#x27;s bid to return as MP blocked by Labour&#x27;s ruling body" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czr4e7ep468o?at_medium=RSS&at_campaign=rss" target="_blank">Andy Burnham&#x27;s bid to return as MP blocked by Labour&#x27;s ruling body</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-25 15:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -106,9 +108,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/" target="_blank">This founder cracked firefighting — now he’s creating an AI gold mine</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-25 23:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/01/25/science-fiction-writers-comic-con-say-goodbye-to-ai/" target="_blank">Science fiction writers, Comic-Con say goodbye to AI</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-25 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69763dfa2963322ff178d7bc/master/pass/WIRED_ICE_GettyImages-2257462492.jpg" alt="Why Minnesota Can’t Do More to Stop ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/why-minnesota-cant-do-more-to-stop-ice/" target="_blank">Why Minnesota Can’t Do More to Stop ICE</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-25 18:15</span>
             </div>
         </div>
 <div class="story">
@@ -138,29 +158,29 @@
                 <span class="time">2026-01-25 17:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/" target="_blank">Apple will reportedly unveil its Gemini-powered Siri assistant in February</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-25 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/864821/abxylute-m4-snap-on-mobile-controller-magsafe-magnetic-bluetooth" target="_blank">Trusting your phone to Abxylute’s mobile controller requires a big leap of faith</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-25 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/clawdbot/clawdbot" target="_blank">Clawdbot - open source personal AI assistant</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-26 00:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-rc7-Released" target="_blank">Linux 6.19-rc7 Released With Kernel Continuity Plan, A Few Important Fixes</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-25 22:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyt59ubnyisinhr1jcnc9.JPG" alt="How I Built a Domain-Specific GPT That Reached 200K+ Users Globally" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/asad1/how-i-built-a-domain-specific-gpt-that-reached-200k-users-globally-17a1" target="_blank">How I Built a Domain-Specific GPT That Reached 200K+ Users Globally</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-25 20:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/developer_sahil/building-a-system-thinkers-portfolio-38kg" target="_blank">Building a System Thinker&#x27;s Portfolio</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-25 19:55</span>
             </div>
         </div>
 </div>
@@ -280,6 +282,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5751.png" alt="The Damage Is Irreversible" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5751" target="_blank">The Damage Is Irreversible</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-01-26 01:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1769149599-20260125.png" alt="Saturday Morning Breakfast Cereal - Just" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -293,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 00:06 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
