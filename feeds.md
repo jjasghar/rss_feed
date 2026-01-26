@@ -1,28 +1,25 @@
-<!-- Processing 54 RSS feeds at 2026-01-26 12:02:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-26 13:16:01 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
@@ -30,14 +27,14 @@
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 34 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, January 26, 2026 - 12:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, January 26, 2026 - 13:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/26/g-s1-107331/up-first-newsletter-alex-pretti-minneapolis-senate-dhs-funding-icy-weather" target="_blank">Senators call for Alex Pretti death investigation. And, winter storm recovery efforts</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-26 12:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,15 +102,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/26/g-s1-107327/eleanor-holmes-norton-ending-reelection-campaign" target="_blank">DC Delegate Eleanor Holmes Norton is ending her reelection campaign for Congress</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-26 07:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba23/live/2b0c80d0-fa76-11f0-b5f7-49f0357294ff.jpg" alt="Minneapolis protesters march against ICE as governor urges Trump to remove agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss" target="_blank">Minneapolis protesters march against ICE as governor urges Trump to remove agents</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-26 05:57</span>
             </div>
         </div>
 </div>
@@ -181,6 +178,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1tefhw519eiqy281pmmi.png" alt="Just completed the 2nd module" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kuldeepreddy007/just-completed-the-2nd-module-3ab9" target="_blank">Just completed the 2nd module</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-26 13:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18846445&w=600" alt="Building Fault-Tolerant Data Pipelines in GCP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-fault-tolerant-data-pipelines-in-gcp" target="_blank">Building Fault-Tolerant Data Pipelines in GCP</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-26 12:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -207,22 +222,18 @@
                 <span class="time">2026-01-26 10:52</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://maplibre.org/news/2026-01-23-mlt-release/" target="_blank">MapLibre Tile: a modern and efficient vector tile format</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-26 10:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/steve-klabnik-rue-language-ai/en/headerimage/generatedHeaderImage-1768988303276.jpg" alt="Rust Contributor Explores AI-Assisted Compiler Development with New Rue Language" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/steve-klabnik-rue-language-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Rust Contributor Explores AI-Assisted Compiler Development with New Rue Language</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-26 10:11</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/ireland-proposes-giving-police-new-digital-surveillance-powers.html" target="_blank">Ireland Proposes Giving Police New Digital Surveillance Powers</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-01-26 12:04</span>
             </div>
         </div>
 </div>
@@ -230,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/baseball.jpg?fit=1200%2C677&amp;quality=60&amp;ssl=1" alt="Baseball&#x27;s most improbable spectator injury happened in 1957" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/26/baseballs-most-improbable-spectator-injury-happened-in-1957.html" target="_blank">Baseball&#x27;s most improbable spectator injury happened in 1957</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-26 12:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/09/GeneticTesting-1024x683.jpg" alt="Despair-Inducing Analysis Shows AI Eroding the Reliability of Science Publishing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +295,6 @@
                 <span class="time">2026-01-25 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/PDF.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="PDF Expert makes edits easy, and right now it&#x27;s 42% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/25/pdf-expert-makes-edits-easy-and-right-now-its-42-off.html" target="_blank">PDF Expert makes edits easy, and right now it&#x27;s 42% off</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-25 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 12:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 13:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
