@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-26 09:06:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-26 10:03:11 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, January 26, 2026 - 09:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, January 26, 2026 - 10:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +106,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in/" target="_blank">Synthesia hits $4B valuation, lets employees cash out</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-26 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/697528429b8f104baf32f567/master/pass/panther-lake-top.JPG" alt="Intel’s Panther Lake Chips Aren’t Just Good—They Beat Apple&#x27;s M5" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -143,15 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/story/why-minnesota-cant-do-more-to-stop-ice/" target="_blank">Why Minnesota Can&#x27;t Do More to Stop ICE</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-01-25 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/867451/creators-and-communities-take-a-stand-against-ice" target="_blank">Creators and communities everywhere take a stand against ICE</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-25 17:21</span>
             </div>
         </div>
 </div>
@@ -219,6 +224,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/09/GeneticTesting-1024x683.jpg" alt="Despair-Inducing Analysis Shows AI Eroding the Reliability of Science Publishing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/despair-inducing-analysis-shows-ai-eroding-the-reliability-of-science-publishing-2000713786" target="_blank">Despair-Inducing Analysis Shows AI Eroding the Reliability of Science Publishing</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-26 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/seu_jorge.jpg?fit=1200%2C694&amp;quality=60&amp;ssl=1" alt="&quot;Space Oddity&quot; and &quot;Ziggy Stardust&quot; sound beautiful in Portuguese" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/26/space-oddity-and-ziggy-stardust-sound-beautiful-in-portuguese.html" target="_blank">&quot;Space Oddity&quot; and &quot;Ziggy Stardust&quot; sound beautiful in Portuguese</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-26 09:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/tether-1280x853.jpg" alt="It Turns Out Crypto’s Stablecoin Adoption is Around 1% of Previous Estimates" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -254,29 +277,20 @@
                 <span class="time">2026-01-25 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/bafkreigwlxyyqkhby2y22riphaoyyv6yr66gsyeqqczqkg2wqshgzsumh4.jpg" alt="New Super Mario Galaxy Movie Trailer Finally Reveals Yoshi, Birdo, And More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/super-mario-galaxy-movie-direct-yoshi-birdo-baby-2000662854" target="_blank">New Super Mario Galaxy Movie Trailer Finally Reveals Yoshi, Birdo, And More</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-25 14:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/super-mario-galaxy-yoshi-1280x853.jpg" alt="A New ‘Super Mario Galaxy’ Trailer Unleashes Yoshi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-new-super-mario-galaxy-trailer-unleashes-yoshi-2000713334" target="_blank">A New ‘Super Mario Galaxy’ Trailer Unleashes Yoshi</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-25 14:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/01/26/glory-to-giod-in-the-hyest" target="_blank">Glory To Giod in The Hyest</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-01-26 08:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5751.png" alt="The Damage Is Irreversible" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -300,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 09:06 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 10:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
