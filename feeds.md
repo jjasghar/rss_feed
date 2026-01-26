@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-26 21:03:03 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-26 22:01:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, January 26, 2026 - 21:03 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, January 26, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/minn-15-rt-gmh-260123_1769450125256_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Bovino expected to leave city on Tuesday, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: Bovino expected to leave city on Tuesday, sources say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-26 21:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/26/nx-s1-5688899/chris-madel-minnesota-governor-ice-alex-pretti" target="_blank">GOP lawyer Chris Madel ends bid for Minnesota governor, calls ICE effort a &#x27;disaster&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-26 21:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/26/canadian-pm-carney-unveils-multibillion-dollar-push-to-lower-food-costs?traffic_source=rss" target="_blank">Canadian PM Carney unveils multibillion-dollar push to lower food costs</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-26 21:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/minn-15-rt-gmh-260123_1769450125256_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Walz&#x27;s team says Trump looking into reducing fed presence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,33 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/26/israeli-and-palestinian-captives-and-prisoners-a-timeline-of-key-events?traffic_source=rss" target="_blank">Israeli and Palestinian captives and prisoners: A timeline of key events</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-26 19:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/26/nx-s1-5688918/winter-storm-power-outages-airports" target="_blank">Hundreds of thousands without power in the U.S. after a powerful winter storm</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-26 19:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/1/26/is-the-trump-administrations-immigration-crackdown-working?traffic_source=rss" target="_blank">Is the Trump administration’s immigration crackdown working?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-26 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bb7/live/5336e750-fabf-11f0-b385-5f48925de19a.gif" alt="Braverman accuses Tories of betrayal as she defects to Reform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1evq263e49o?at_medium=RSS&at_campaign=rss" target="_blank">Braverman accuses Tories of betrayal as she defects to Reform</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-26 18:41</span>
             </div>
         </div>
 </div>
@@ -206,21 +203,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/power-agentic-workflows-in-your-terminal-with-github-copilot-cli/" target="_blank">Power agentic workflows in your terminal with GitHub Copilot CLI</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-01-26 18:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18847618&w=600" alt="When Agile Teams Drown in Reports: How to Eliminate Noise and Build a Lean Reporting System" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/agile-teams-lean-reporting" target="_blank">When Agile Teams Drown in Reports: How to Eliminate Noise and Build a Lean Reporting System</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-01-26 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/therealgabry/flashfx-export-system-documentation-32ac" target="_blank">FlashFX Export System Documentation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-26 17:49</span>
             </div>
         </div>
 </div>
@@ -251,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-26 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/image-4-1.jpg" alt="A Mario Kart Veteran Retires: ‘The People Who Shaped An Era Are Leaving Nintendo’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-developer-retire-hideki-konno-mario-kart-8-2000663175" target="_blank">A Mario Kart Veteran Retires: ‘The People Who Shaped An Era Are Leaving Nintendo’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-26 21:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/mahmood.jpg?fit=1946%2C1216&amp;quality=60&amp;ssl=1" alt="Britain&#x27;s Home Secretary wants AI so &quot;the eyes of the state can be on you at all times&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,24 +300,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/26/scientists-research-how-greenland-sharks-live-for-hundreds-of-years.html" target="_blank">Scientists research how Greenland sharks live for hundreds of years</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-26 19:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/04/246caccb9d1ddde48d4b9f9a197bba1a-e1769451655704-1280x813.jpg" alt="Saudi Arabia’s Futuristic Megacity Runs Into Dilemma: Why Build Housing When You Can Build a Data Center?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/saudi-arabias-futuristic-megacity-runs-into-dilemma-why-build-housing-when-you-can-build-a-data-center-2000714028" target="_blank">Saudi Arabia’s Futuristic Megacity Runs Into Dilemma: Why Build Housing When You Can Build a Data Center?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-26 18:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JJMDMTGR2V2YW4G68G62DNK9/hero-image.png" alt="All the Ways to File Your Taxes for Free in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/how-to-file-your-taxes-for-free?utm_medium=RSS" target="_blank">All the Ways to File Your Taxes for Free in 2026</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-26 17:30</span>
             </div>
         </div>
 </div>
@@ -342,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 21:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
