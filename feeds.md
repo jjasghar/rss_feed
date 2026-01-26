@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-26 07:06:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-26 08:02:21 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, January 26, 2026 - 07:07 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, January 26, 2026 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -75,6 +72,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-philippines-baluk-baluk-island_7145848.jpg?20260126042601" alt="At least 15 dead and hundreds rescued after ferry sinks in southern Philippines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/at-least-15-dead-and-hundreds-rescued-after-ferry-sinks-in-southern-philippines-13499059" target="_blank">At least 15 dead and hundreds rescued after ferry sinks in southern Philippines</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-26 04:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/timeline-1-ht-gmh-260125_1769386204906_hpMain_4x3t_384.jpg" alt="A minute-by-minute timeline of the fatal shooting of Alex Pretti by a federal agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -92,20 +98,20 @@
                 <span class="time">2026-01-26 01:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769386352142_wnn_cbe_minneapolis_on_edge_260125_1920x1080-gyrxfh.jpg" alt="Minneapolis on edge after second fatal shooting involving federal officers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/minneapolis-on-edge-after-second-fatal-shooting-involving-federal-officers-256552005672" target="_blank">Minneapolis on edge after second fatal shooting involving federal officers</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-26 00:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/697528429b8f104baf32f567/master/pass/panther-lake-top.JPG" alt="Intel’s Panther Lake Chips Aren’t Just Good—They Beat Apple&#x27;s M5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/intel-panther-lake-core-ultra-series-3-review/" target="_blank">Intel’s Panther Lake Chips Aren’t Just Good—They Beat Apple&#x27;s M5</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-26 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +157,6 @@
                 <span class="time">2026-01-25 17:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/25/techcrunch-mobility-rip-tesla-autopilot-and-the-ntsb-investigates-waymo/" target="_blank">TechCrunch Mobility: RIP, Tesla Autopilot, and the NTSB investigates Waymo</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-25 17:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,9 +175,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/harmonyos/napi-multithreaded-crash-issue-8fj" target="_blank">NAPI Multithreaded Crash Issue</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-26 07:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/_a4db025533c31e24cb517/how-to-give-your-ai-agent-real-time-internet-access-for-free-python-tutorial-1nfj" target="_blank">How to Give Your AI Agent Real-Time Internet Access for Free (Python Tutorial)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-26 05:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/" target="_blank">The browser is the sandbox</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-26 05:23</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +214,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/01/spring-news-roundup-jan19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Spring News Roundup: First Milestone Releases of Boot, Security, Integration, Modulith, AMQP</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-01-26 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpmew0bmb4p9qf8mqjerv.png" alt="Getting Started with Clawdbot: The Complete Step-by-Step Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ajeetraina/getting-started-with-clawdbot-the-complete-step-by-step-guide-2ffj" target="_blank">Getting Started with Clawdbot: The Complete Step-by-Step Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-26 02:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/X.Org-Library-Updates-Jan-2026" target="_blank">Several New X.Org Libraries See 2026 Releases</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-26 01:14</span>
             </div>
         </div>
 </div>
@@ -306,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 07:07 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
