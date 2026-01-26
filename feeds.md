@@ -1,41 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-26 16:03:58 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-26 17:06:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, January 26, 2026 - 16:04 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, January 26, 2026 - 17:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -73,6 +65,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/26/g-s1-107340/israel-gaza-hostage-remains-hamas" target="_blank">Israel has recovered the last hostage remains from Gaza</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-26 14:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/01/26/g-s1-107340/israel-gaza-hostage-remains-hamas" target="_blank">Israel&#x27;s military says it found the final hostage body in Gaza</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-26 14:17</span>
@@ -96,20 +97,29 @@
                 <span class="time">2026-01-26 13:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-ran-gvili-kibbutz-alumim_7113279.jpg?20260126135525" alt="Remains of last Israeli hostage found in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/remains-of-last-israeli-hostage-found-in-gaza-13499223" target="_blank">Remains of last Israeli hostage found in Gaza</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-26 13:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/867845/meta-youtube-snap-tiktok-social-media-trials-documents" target="_blank">Internal chats show how social media companies discussed teen engagement</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-26 16:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/26/tech-workers-call-for-ceos-to-speak-up-against-ice-after-the-killing-of-alex-pretti/" target="_blank">Tech workers call for CEOs to speak up against ICE after the killing of Alex Pretti</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-26 16:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,24 +156,6 @@
                 <span class="time">2026-01-26 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697777f22abb46df7b02b06b/master/pass/Apple-AirTag-FineWoven-Key-Ring.jpg" alt="After 5 Years, Apple Finally Upgrades the AirTag" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/apple-second-generation-airtag-2026/" target="_blank">After 5 Years, Apple Finally Upgrades the AirTag</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-26 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/xai-grok-500x500-1752596846.jpg" alt="EU launches formal investigation of xAI over Grok&#x27;s sexualized deepfakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/eu-launches-formal-investigation-of-xai-over-groks-sexualized-deepfakes/" target="_blank">EU launches formal investigation of xAI over Grok&#x27;s sexualized deepfakes</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-26 14:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -197,6 +189,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/01/26/stack-gives-back-2025/" target="_blank">Stack Gives Back 2025!</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-01-26 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18847581&w=600" alt="The Anatomy of an AI Agent and How to Build One With Docker Cagent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -212,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/gaurav9695328446/building-in-context-i18n-editing-a-developers-guide-to-seamless-translation-management-5di5" target="_blank">Building In-Context i18n Editing: A Developer&#x27;s Guide to Seamless Translation Management</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-26 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/" target="_blank">Apple introduces new AirTag with longer range and improved findability</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-26 14:10</span>
             </div>
         </div>
 </div>
@@ -319,22 +311,13 @@
                 <span class="time">2026-01-26 01:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1769149599-20260125.png" alt="Saturday Morning Breakfast Cereal - Just" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/just" target="_blank">Saturday Morning Breakfast Cereal - Just</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-25 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 16:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 17:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
