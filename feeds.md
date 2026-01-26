@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-25 23:02:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-26 00:05:55 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, January 25, 2026 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, January 26, 2026 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/minn-1-gty-gmh-260125_1769347405955_hpMain_4x3t_384.jpg" alt="Witness disputes DHS account of fatal Minneapolis shooting: Court documents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/wrong-witness-court-docs-disputes-dhs-account-minneapolis/story?id=129546666" target="_blank">Witness disputes DHS account of fatal Minneapolis shooting: Court documents</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-25 23:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/25/minnesota-governor-wants-federal-immigration-agents-out-after-pretti-killed?traffic_source=rss" target="_blank">Minnesota governor wants federal immigration agents out after Pretti killed</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-25 23:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/czr4e7ep468o?at_medium=RSS&at_campaign=rss" target="_blank">Andy Burnham&#x27;s bid to return as MP blocked by Labour&#x27;s ruling body</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-25 15:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-iran-tehran_7145423.jpg?20260125155914" alt="Iran unveils mural warning US not to launch military strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/iran-unveils-mural-warning-us-not-to-launch-military-strike-13498878" target="_blank">Iran unveils mural warning US not to launch military strike</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-25 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecf2/live/6592a130-f99f-11f0-b5f7-49f0357294ff.jpg" alt="Video shows moments around fatal shooting of Alex Pretti in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS&at_campaign=rss" target="_blank">Video shows moments around fatal shooting of Alex Pretti in Minneapolis</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-25 15:31</span>
             </div>
         </div>
 </div>
@@ -163,10 +164,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-01-29 00:00</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/coltonidle/how-to-create-a-convention-plugin-for-your-multi-module-android-app-479k" target="_blank">How to create a &quot;convention&quot; plugin for your multi-module Android app</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-25 23:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/03/gnome-extensions-blue.jpg?resize=406%2C232&amp;ssl=1" alt="Add Custom Toggles to GNOME’s Quick Settings with this Extension" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/custom-command-toggle-gnome-extension" target="_blank">Add Custom Toggles to GNOME’s Quick Settings with this Extension</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-25 22:56</span>
             </div>
         </div>
 <div class="story">
@@ -176,6 +186,15 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/custom-command-toggle-gnome-extension" target="_blank">Add Custom Command Toggles to GNOME Shell’s Quick Settings Menu</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-01-25 22:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-rc7-Released" target="_blank">Linux 6.19-rc7 Released With Kernel Continuity Plan, A Few Important Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-25 22:29</span>
             </div>
         </div>
 <div class="story">
@@ -196,29 +215,20 @@
                 <span class="time">2026-01-25 19:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gwern.net/blog/2026/make-me-care" target="_blank">First, make me care</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-25 19:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LACT-0.8.4-Released" target="_blank">LACT 0.8.4 Brings Improved Overclocking UI For GPUs On Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-25 18:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/tether-1280x853.jpg" alt="It Turns Out Crypto’s Stablecoin Adoption is Around 1% of Previous Estimates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/it-turns-out-cryptos-stablecoin-adoption-is-around-1-of-previous-estimates-2000713814" target="_blank">It Turns Out Crypto’s Stablecoin Adoption is Around 1% of Previous Estimates</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-25 22:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/present-and-correct.jpg?fit=1200%2C588&amp;quality=60&amp;ssl=1" alt="Present &amp; Correct&#x27;s gallery of pencil typography" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +274,6 @@
                 <span class="time">2026-01-25 14:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Robosen-SoundWave-Cassette-Speaker-Review-2-1280x853.jpg" alt="Robosen’s $1,400 Soundwave Transformer Is a Sick Robot and Sad Bluetooth Speaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/robosens-1400-soundwave-transformer-is-a-sick-robot-and-sad-bluetooth-speaker-2000713454" target="_blank">Robosen’s $1,400 Soundwave Transformer Is a Sick Robot and Sad Bluetooth Speaker</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-25 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 61 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
