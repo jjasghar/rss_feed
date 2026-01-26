@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-26 22:01:26 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-26 23:01:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, January 26, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, January 26, 2026 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/26/nx-s1-5687901/us-sled-racer-uhlaender-denied-sixth-olympic-bid" target="_blank">U.S. sled racer Uhlaender says she was unfairly denied sixth Olympic bid</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-26 22:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/minn-15-rt-gmh-260123_1769450125256_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Bovino expected to leave city on Tuesday, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +103,20 @@
                 <span class="time">2026-01-26 20:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/26/israeli-and-palestinian-captives-and-prisoners-a-timeline-of-key-events?traffic_source=rss" target="_blank">Israeli and Palestinian captives and prisoners: A timeline of key events</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-26 19:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation" target="_blank">X faces EU investigation over Grok’s sexualized deepfakes</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-26 22:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/08/error-message-500x500.jpg" alt="Odd anomaly caused Microsoft&#x27;s network to mishandle example.com traffic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,15 +162,6 @@
                 <span class="time">2026-01-26 18:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/26/tiktok-alternative-skylight-soars-to-380k-users-after-tiktok-u-s-deal-finalized/" target="_blank">TikTok alternative Skylight soars to 380K+ users after TikTok U.S. deal finalized</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-26 18:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +174,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vinicius3w/da-deteccao-a-correcao-patches-automaticos-e-o-papel-do-engenheiro-na-era-da-ia-12b0" target="_blank">Da Detecção à Correção: Patches Automáticos e o Papel do Engenheiro na Era da IA</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-26 23:00</span>
             </div>
         </div>
 <div class="story">
@@ -211,15 +221,6 @@
                 <span class="time">2026-01-26 18:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18847618&w=600" alt="When Agile Teams Drown in Reports: How to Eliminate Noise and Build a Lean Reporting System" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/agile-teams-lean-reporting" target="_blank">When Agile Teams Drown in Reports: How to Eliminate Noise and Build a Lean Reporting System</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-26 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +249,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/03/car-infotainment-screen-1280x853.jpg" alt="Automakers Could Take A Big Hit Because Of An AI-Induced Chip Shortage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/automakers-could-take-a-big-hit-because-of-an-ai-induced-chip-shortage-2000713795" target="_blank">Automakers Could Take A Big Hit Because Of An AI-Induced Chip Shortage</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-26 22:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/ss_1dca9b5175b902ffef349a6743a2d-1280x720.jpg" alt="Highguard Already Has Over 7,000 Negative Reviews On Steam" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/highguard-already-has-over-7000-negative-reviews-on-steam-2000663220" target="_blank">Highguard Already Has Over 7,000 Negative Reviews On Steam</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-26 22:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,24 +301,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/guide-to-gen-z-and-gen-alpha-slang?utm_medium=RSS" target="_blank">&#x27;Choppelganger,&#x27; &#x27;Normie,&#x27; and Other Gen Z and Gen Alpha Slang You Might Need Help Decoding</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-26 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/shutterstock_2639802527-1280x854.jpg" alt="Tech Workers Demand CEOs Use Their ‘Leverage’ to End ICE Violence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tech-workers-demand-ceos-use-their-leverage-to-end-ice-violence-2000714081" target="_blank">Tech Workers Demand CEOs Use Their ‘Leverage’ to End ICE Violence</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-26 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/shutterstock_1203640330.jpg?fit=1000%2C563&amp;quality=60&amp;ssl=1" alt="Scientists research how Greenland sharks live for hundreds of years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/26/scientists-research-how-greenland-sharks-live-for-hundreds-of-years.html" target="_blank">Scientists research how Greenland sharks live for hundreds of years</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-26 19:42</span>
             </div>
         </div>
 </div>
@@ -339,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
