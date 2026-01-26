@@ -1,44 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-01-26 11:02:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-26 12:02:40 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 35 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, January 26, 2026 - 11:03 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, January 26, 2026 - 12:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +53,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/26/lebanon-files-un-complaint-against-israels-daily-ceasefire-violations?traffic_source=rss" target="_blank">Lebanon files UN complaint against Israel’s daily ceasefire violations</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-26 11:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/26/nx-s1-5686763/strength-training-work-out-schedule-time" target="_blank">How long do you need to spend in the gym to get strong? Less than you think</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-26 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,29 +107,20 @@
                 <span class="time">2026-01-26 05:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/timeline-1-ht-gmh-260125_1769386204906_hpMain_4x3t_384.jpg" alt="A minute-by-minute timeline of the fatal shooting of Alex Pretti by federal agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/minute-minute-timeline-fatal-shooting-alex-pretti-federal/story?id=129547199" target="_blank">A minute-by-minute timeline of the fatal shooting of Alex Pretti by federal agents</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-26 04:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-philippines-baluk-baluk-island_7145848.jpg?20260126042601" alt="At least 15 dead and hundreds rescued after ferry sinks in southern Philippines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/at-least-15-dead-and-hundreds-rescued-after-ferry-sinks-in-southern-philippines-13499059" target="_blank">At least 15 dead and hundreds rescued after ferry sinks in southern Philippines</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-26 04:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69740012af9714ce0216661e/master/pass/People-Are-Protesting-Data-Centers%E2%80%94but-Embracing-Factories-That-Supply-Them-Business.jpg" alt="People Are Protesting Data Centers—but Embracing the Factories That Supply Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/data-center-criticism-factories-supply-us/" target="_blank">People Are Protesting Data Centers—but Embracing the Factories That Supply Them</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-26 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -158,15 +166,6 @@
                 <span class="time">2026-01-25 21:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69763dfa2963322ff178d7bc/master/pass/WIRED_ICE_GettyImages-2257462492.jpg" alt="Why Minnesota Can’t Do More to Stop ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/why-minnesota-cant-do-more-to-stop-ice/" target="_blank">Why Minnesota Can’t Do More to Stop ICE</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-25 18:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -179,6 +178,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-HDMI-Gaming-v2" target="_blank">AMDGPU Patches Updated For HDMI Gaming Features On Linux With Radeon Graphics</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-26 11:20</span>
             </div>
         </div>
 <div class="story">
@@ -200,30 +208,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://maplibre.org/news/2026-01-23-mlt-release/" target="_blank">MapLibre Tile: a modern and efficient vector tile format</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-26 10:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/01/steve-klabnik-rue-language-ai/en/headerimage/generatedHeaderImage-1768988303276.jpg" alt="Rust Contributor Explores AI-Assisted Compiler Development with New Rue Language" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/news/2026/01/steve-klabnik-rue-language-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Rust Contributor Explores AI-Assisted Compiler Development with New Rue Language</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-01-26 10:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fltjqxjsuc1xzkwlnuz17.png" alt="Mise : The Ultimate Dev Tool Manager for Seamless Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jdxlabs/mise-the-ultimate-dev-tool-manager-for-seamless-workflows-2lm0" target="_blank">Mise : The Ultimate Dev Tool Manager for Seamless Workflows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-26 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/dotnet-aspire-13-1-release/en/headerimage/twittercard3-1769277122617.jpg" alt="Aspire 13.1 Brings MCP Integration, CLI Enhancements, and Azure Deployment Updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/dotnet-aspire-13-1-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Aspire 13.1 Brings MCP Integration, CLI Enhancements, and Azure Deployment Updates</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-26 08:49</span>
             </div>
         </div>
 </div>
@@ -322,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 11:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 12:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
