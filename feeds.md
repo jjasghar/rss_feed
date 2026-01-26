@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-26 17:06:39 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-26 18:02:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 11 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, January 26, 2026 - 17:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, January 26, 2026 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/minneapolis-scene-ap-jt-260124_1769280760571_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Trump says he and Walz are on &#x27;similar wavelength&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: Trump says he and Walz are on &#x27;similar wavelength&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-26 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/26/massive-search-underway-for-dozens-missing-in-deadly-indonesia-landslide?traffic_source=rss" target="_blank">Massive search underway for dozens missing in deadly Indonesia landslide</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-26 17:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bb7/live/5336e750-fabf-11f0-b385-5f48925de19a.gif" alt="Ex-Tory Home Secretary Suella Braverman defects to Reform UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -65,7 +91,7 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/26/g-s1-107340/israel-gaza-hostage-remains-hamas" target="_blank">Israel has recovered the last hostage remains from Gaza</a></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/26/g-s1-107340/israel-gaza-hostage-remains-hamas" target="_blank">Israel has recovered the final hostage remains from Gaza</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-26 14:17</span>
             </div>
@@ -74,27 +100,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/26/g-s1-107340/israel-gaza-hostage-remains-hamas" target="_blank">Israel&#x27;s military says it found the final hostage body in Gaza</a></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/26/g-s1-107340/israel-gaza-hostage-remains-hamas" target="_blank">Israel has recovered the last hostage remains from Gaza</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-26 14:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/26/remains-of-last-israeli-captive-in-gaza-retrieved-says-israel?traffic_source=rss" target="_blank">Israeli military says remains of last Israeli captive found in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-26 13:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/26/crocodile-warnings-floods-devastate-southern-africa" target="_blank">Crocodile warnings as floods devastate southern Africa</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-01-26 13:44</span>
             </div>
         </div>
 </div>
@@ -102,6 +110,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/867844/tattle-tv-the-lodger-hitchcock" target="_blank">Tattle TV has turned a Hitchcock classic into a vertical video ‘microdrama’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-26 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +164,6 @@
                 <span class="time">2026-01-26 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/26/only-5-days-left-over-half-of-the-first-500-techcrunch-disrupt-2026-1-passes-at-50-off-are-already-gone/" target="_blank">Only 5 days left: Over half of the first 500 TechCrunch Disrupt 2026 +1 passes at 50% off are already gone</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-26 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +176,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18847618&w=600" alt="When Agile Teams Drown in Reports: How to Eliminate Noise and Build a Lean Reporting System" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/agile-teams-lean-reporting" target="_blank">When Agile Teams Drown in Reports: How to Eliminate Noise and Build a Lean Reporting System</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-26 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/therealgabry/flashfx-export-system-documentation-32ac" target="_blank">FlashFX Export System Documentation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-26 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Godot-4.6-Released" target="_blank">Godot 4.6 Ships Many Improvements For This Leading Open-Source Game Engine</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-26 17:32</span>
             </div>
         </div>
 <div class="story">
@@ -186,33 +221,6 @@
                 <span class="title"><a href="https://qwen.ai/blog?id=qwen3-max-thinking" target="_blank">Qwen3-Max-Thinking</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-26 15:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/01/26/stack-gives-back-2025/" target="_blank">Stack Gives Back 2025!</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-01-26 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18847581&w=600" alt="The Anatomy of an AI Agent and How to Build One With Docker Cagent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/developing-agents-using-docker-cagent" target="_blank">The Anatomy of an AI Agent and How to Build One With Docker Cagent</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-26 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gaurav9695328446/building-in-context-i18n-editing-a-developers-guide-to-seamless-translation-management-5di5" target="_blank">Building In-Context i18n Editing: A Developer&#x27;s Guide to Seamless Translation Management</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-26 14:57</span>
             </div>
         </div>
 </div>
@@ -234,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JJMDMTGR2V2YW4G68G62DNK9/hero-image.png" alt="All the Ways to File Your Taxes for Free in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/how-to-file-your-taxes-for-free?utm_medium=RSS" target="_blank">All the Ways to File Your Taxes for Free in 2026</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-26 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Shark-FlexBreeze.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This Shark FlexBreeze Indoor &amp; Outdoor fan is 56% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/26/this-shark-flexbreeze-indoor-outdoor-fan-is-56-off.html" target="_blank">This Shark FlexBreeze Indoor &amp; Outdoor fan is 56% off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-26 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KFM4A41GNP62VZSFT3DZ3AM2/hero-image.jpg" alt="Five Daily Learning Apps to Try After Duolingo" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,29 +296,20 @@
                 <span class="time">2026-01-26 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/seu_jorge.jpg?fit=1200%2C694&amp;quality=60&amp;ssl=1" alt="&quot;Space Oddity&quot; and &quot;Ziggy Stardust&quot; sound beautiful in Portuguese" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/26/space-oddity-and-ziggy-stardust-sound-beautiful-in-portuguese.html" target="_blank">&quot;Space Oddity&quot; and &quot;Ziggy Stardust&quot; sound beautiful in Portuguese</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-26 09:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/tether-1280x853.jpg" alt="It Turns Out Crypto’s Stablecoin Adoption is Around 1% of Previous Estimates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/it-turns-out-cryptos-stablecoin-adoption-is-around-1-of-previous-estimates-2000713814" target="_blank">It Turns Out Crypto’s Stablecoin Adoption is Around 1% of Previous Estimates</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-25 22:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1769386879-20260126.png" alt="Saturday Morning Breakfast Cereal - Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/why-9" target="_blank">Saturday Morning Breakfast Cereal - Why</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-01-26 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -316,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 17:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
