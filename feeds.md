@@ -1,41 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-01-26 18:02:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-26 19:06:03 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 33 feeds processed -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, January 26, 2026 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, January 26, 2026 - 19:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/1/26/is-the-trump-administrations-immigration-crackdown-working?traffic_source=rss" target="_blank">Is the Trump administration’s immigration crackdown working?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-26 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccaa/live/8e6eb450-fac0-11f0-b5f7-49f0357294ff.jpg" alt="Israel says it has retrieved remains of final Gaza hostage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5ydvz7nz4mo?at_medium=RSS&at_campaign=rss" target="_blank">Israel says it has retrieved remains of final Gaza hostage</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-26 18:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/minneapolis-scene-ap-jt-260124_1769280760571_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Trump says he and Walz are on &#x27;similar wavelength&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,6 +76,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry" target="_blank">Hundreds feared dead in attempt to cross Mediterranean during cyclone</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-26 14:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bb7/live/5336e750-fabf-11f0-b385-5f48925de19a.gif" alt="Ex-Tory Home Secretary Suella Braverman defects to Reform UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -78,38 +93,29 @@
                 <span class="time">2026-01-26 14:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/26/trump-says-justice-department-looking-at-ilhan-omars-wealth?traffic_source=rss" target="_blank">Trump says Justice Department ‘looking at’ Ilhan Omar’s wealth</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-26 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/26/g-s1-107340/israel-gaza-hostage-remains-hamas" target="_blank">Israel has recovered the final hostage remains from Gaza</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-26 14:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/26/g-s1-107340/israel-gaza-hostage-remains-hamas" target="_blank">Israel has recovered the last hostage remains from Gaza</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-26 14:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6977af11c4c3ac1f78d30895/master/pass/This%20Wireless%20Mic%20Kit%20Is%20$70%20Off.png" alt="This Wireless Mic Kit Is $70 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dji-mic-3-deal-126/" target="_blank">This Wireless Mic Kit Is $70 Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-26 18:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/26/tiktok-alternative-skylight-soars-to-380k-users-after-tiktok-u-s-deal-finalized/" target="_blank">TikTok alternative Skylight soars to 380K+ users after TikTok U.S. deal finalized</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-26 18:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,24 +150,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/867754/asus-desktop-pc-stream-deck-lg-oled-animal-crossing-deal-sale" target="_blank">A powerful AMD gaming desktop is hundreds off at Costco</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-26 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/" target="_blank">Microsoft announces powerful new chip for AI inference</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-26 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/866751/experian-ceo-alex-lintner-credit-scores-ai-privacy-interview" target="_blank">Experian’s tech chief defends credit scores: ‘We’re not Palantir’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-26 15:00</span>
             </div>
         </div>
 </div>
@@ -243,6 +231,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/04/246caccb9d1ddde48d4b9f9a197bba1a-e1769451655704-1280x813.jpg" alt="Saudi Arabia’s Futuristic Megacity Runs Into Dilemma: Why Build Housing When You Can Build a Data Center?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/saudi-arabias-futuristic-megacity-runs-into-dilemma-why-build-housing-when-you-can-build-a-data-center-2000714028" target="_blank">Saudi Arabia’s Futuristic Megacity Runs Into Dilemma: Why Build Housing When You Can Build a Data Center?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-26 18:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JJMDMTGR2V2YW4G68G62DNK9/hero-image.png" alt="All the Ways to File Your Taxes for Free in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -287,15 +284,6 @@
                 <span class="time">2026-01-26 12:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/09/GeneticTesting-1024x683.jpg" alt="Despair-Inducing Analysis Shows AI Eroding the Reliability of Science Publishing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/despair-inducing-analysis-shows-ai-eroding-the-reliability-of-science-publishing-2000713786" target="_blank">Despair-Inducing Analysis Shows AI Eroding the Reliability of Science Publishing</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-26 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 19:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
