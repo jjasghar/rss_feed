@@ -1,29 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-26 19:06:03 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-26 20:02:03 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Error processing https://blog.codinghorror.com/rss/: The read operation timed out -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Generated 12 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, January 26, 2026 - 19:06 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, January 26, 2026 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/26/israeli-and-palestinian-captives-and-prisoners-a-timeline-of-key-events?traffic_source=rss" target="_blank">Israeli and Palestinian captives and prisoners: A timeline of key events</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-26 19:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/26/nx-s1-5688918/winter-storm-power-outages-airports" target="_blank">Hundreds of thousands without power in the U.S. after a powerful winter storm</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-26 19:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,29 +105,38 @@
                 <span class="time">2026-01-26 17:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry" target="_blank">Hundreds feared dead in attempt to cross Mediterranean during cyclone</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-01-26 14:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bb7/live/5336e750-fabf-11f0-b385-5f48925de19a.gif" alt="Ex-Tory Home Secretary Suella Braverman defects to Reform UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1evq263e49o?at_medium=RSS&at_campaign=rss" target="_blank">Ex-Tory Home Secretary Suella Braverman defects to Reform UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-26 14:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23769840/best-bluetooth-trackers" target="_blank">The best Bluetooth trackers for Apple and Android phones</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-26 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/26/rad-power-bikes-reaches-deal-to-sell-itself-for-13-2-million/" target="_blank">Rad Power Bikes reaches deal to sell itself for $13.2 million</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-26 19:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6977407f4869b26615030c5f/master/pass/012626_Reddit_ICE.jpg" alt="Redditors Are Mounting a Resistance Against ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/redditors-are-mounting-a-resistance-against-ice/" target="_blank">Redditors Are Mounting a Resistance Against ICE</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-26 19:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6977af11c4c3ac1f78d30895/master/pass/This%20Wireless%20Mic%20Kit%20Is%20$70%20Off.png" alt="This Wireless Mic Kit Is $70 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -125,33 +164,6 @@
                 <span class="time">2026-01-26 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/867845/meta-youtube-snap-tiktok-social-media-trials-documents" target="_blank">Internal chats show how social media companies discussed teen engagement</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-26 16:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/26/tech-workers-call-for-ceos-to-speak-up-against-ice-after-the-killing-of-alex-pretti/" target="_blank">Tech workers call for CEOs to speak up against ICE after the killing of Alex Pretti</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-26 16:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/867754/asus-desktop-pc-stream-deck-lg-oled-animal-crossing-deal-sale" target="_blank">A powerful AMD gaming desktop is hundreds off at Costco</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-26 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,6 +176,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18768017&w=600" alt="Building an AI Agent Traffic Management Platform: APISIX AI Gateway in Practice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-ai-agent-traffic-management-apisix-ai-gateway" target="_blank">Building an AI Agent Traffic Management Platform: APISIX AI Gateway in Practice</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-26 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -194,21 +215,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/mecha-comet-linux-handheld-tux.jpg?resize=406%2C232&amp;ssl=1" alt="Mecha Comet – Modular Linux Handheld with Snap-On Modules" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-619-next-buddy" target="_blank">Revisiting The Linux 6.19 Performance With &quot;NEXT_BUDDY&quot; Now Disabled</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-26 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://qwen.ai/blog?id=qwen3-max-thinking" target="_blank">Qwen3-Max-Thinking</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-26 15:23</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/mecha-comet-modular-linux-handheld" target="_blank">Mecha Comet – Modular Linux Handheld with Snap-On Modules</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-26 16:06</span>
             </div>
         </div>
 </div>
@@ -216,6 +228,15 @@
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/" target="_blank">Who Operates the Badbox 2.0 Botnet?</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-01-26 16:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -230,6 +251,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/shutterstock_2639802527-1280x854.jpg" alt="Tech Workers Demand CEOs Use Their ‘Leverage’ to End ICE Violence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tech-workers-demand-ceos-use-their-leverage-to-end-ice-violence-2000714081" target="_blank">Tech Workers Demand CEOs Use Their ‘Leverage’ to End ICE Violence</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-26 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/shutterstock_1203640330.jpg?fit=1000%2C563&amp;quality=60&amp;ssl=1" alt="Scientists research how Greenland sharks live for hundreds of years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/26/scientists-research-how-greenland-sharks-live-for-hundreds-of-years.html" target="_blank">Scientists research how Greenland sharks live for hundreds of years</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-26 19:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/04/246caccb9d1ddde48d4b9f9a197bba1a-e1769451655704-1280x813.jpg" alt="Saudi Arabia’s Futuristic Megacity Runs Into Dilemma: Why Build Housing When You Can Build a Data Center?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,24 +303,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/five-daily-learning-apps-to-try-after-duolingo?utm_medium=RSS" target="_blank">Five Daily Learning Apps to Try After Duolingo</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-26 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KFVRRJXEXNRWRN8PW5RQRQ31/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: 2016 Nostalgia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-2016-nostalgia?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: 2016 Nostalgia</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-26 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/baseball.jpg?fit=1200%2C677&amp;quality=60&amp;ssl=1" alt="Baseball&#x27;s most improbable spectator injury happened in 1957" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/26/baseballs-most-improbable-spectator-injury-happened-in-1957.html" target="_blank">Baseball&#x27;s most improbable spectator injury happened in 1957</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-26 12:49</span>
             </div>
         </div>
 </div>
@@ -321,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 19:06 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
