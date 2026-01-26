@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-26 13:16:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-26 14:05:21 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, January 26, 2026 - 13:16 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, January 26, 2026 - 14:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/26/remains-of-last-israeli-captive-in-gaza-retrieved-says-israel?traffic_source=rss" target="_blank">Israeli military says remains of last Israeli captive found in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-26 13:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/26/crocodile-warnings-floods-devastate-southern-africa" target="_blank">Crocodile warnings as floods devastate southern Africa</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-26 13:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-ran-gvili-kibbutz-alumim_7113279.jpg?20260126135525" alt="Remains of last Israeli hostage found in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/remains-of-last-israeli-hostage-found-in-gaza-13499223" target="_blank">Remains of last Israeli hostage found in Gaza</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-26 13:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,38 +101,20 @@
                 <span class="time">2026-01-26 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/26/sinner-in-australian-open-quarters-womens-holder-keys-booted-out?traffic_source=rss" target="_blank">Sinner in Australian Open quarters; women’s holder Keys booted out</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-26 10:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/26/nx-s1-5668228/greenland-iran-venezuela-marco-rubio-ukraine-foreign-policy" target="_blank">All eyes on Rubio as he navigates the world in 2 critical roles</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-26 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/26/g-s1-107327/eleanor-holmes-norton-ending-reelection-campaign" target="_blank">DC Delegate Eleanor Holmes Norton is ending her reelection campaign for Congress</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-26 07:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/26/nvidias-new-ai-weather-models-probably-saw-this-storm-coming-weeks-ago/" target="_blank">Nvidia’s new AI weather models probably saw this storm coming weeks ago</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-26 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69740012af9714ce0216661e/master/pass/People-Are-Protesting-Data-Centers%E2%80%94but-Embracing-Factories-That-Supply-Them-Business.jpg" alt="People Are Protesting Data Centers—but Embracing the Factories That Supply Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,15 +160,6 @@
                 <span class="time">2026-01-25 23:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/25/science-fiction-writers-comic-con-say-goodbye-to-ai/" target="_blank">Science fiction writers, Comic-Con say goodbye to AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-25 21:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,12 +175,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/robjohnston/lean-interfaces-why-would-a-ph-meter-need-setwavelength-49d9" target="_blank">Lean Interfaces: Why Would a pH Meter Need `set_wavelength()`?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-26 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1tefhw519eiqy281pmmi.png" alt="Just completed the 2nd module" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kuldeepreddy007/just-completed-the-2nd-module-3ab9" target="_blank">Just completed the 2nd module</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-26 13:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18846459&w=600" alt="The A3 Framework: Assist, Automate, Avoid — A Decision System for AI Delegation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/a3-framework-ai-assist-automate-avoid" target="_blank">The A3 Framework: Assist, Automate, Avoid — A Decision System for AI Delegation</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-26 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -202,24 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-HDMI-Gaming-v2" target="_blank">AMDGPU Patches Updated For HDMI Gaming Features On Linux With Radeon Graphics</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-26 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/superorange0707/prompt-rate-limits-batching-how-to-stop-your-llm-api-from-melting-down-56e1" target="_blank">Prompt Rate Limits &amp; Batching: How to Stop Your LLM API From Melting Down</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-26 10:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LG-Gram-Style-14-Linux-Speakers" target="_blank">LG Gram Style 14 Laptop To See Working Speaker Support With Linux 7.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-26 10:52</span>
             </div>
         </div>
 </div>
@@ -241,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KFVRRJXEXNRWRN8PW5RQRQ31/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: 2016 Nostalgia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-2016-nostalgia?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: 2016 Nostalgia</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-26 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/baseball.jpg?fit=1200%2C677&amp;quality=60&amp;ssl=1" alt="Baseball&#x27;s most improbable spectator injury happened in 1957" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +292,6 @@
                 <span class="time">2026-01-25 21:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/halo-campaign-evolved-1280x853.jpg" alt="‘Halo’ Actor Steve Downes Asks You Not to Remake His Voice with AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/halo-actor-steve-downes-asks-you-not-to-remake-his-voice-with-ai-2000713343" target="_blank">‘Halo’ Actor Steve Downes Asks You Not to Remake His Voice with AI</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-25 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 13:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 14:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
