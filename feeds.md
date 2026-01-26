@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-26 14:05:21 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-26 15:04:12 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, January 26, 2026 - 14:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, January 26, 2026 - 15:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bb7/live/5336e750-fabf-11f0-b385-5f48925de19a.gif" alt="Ex-Tory Home Secretary Suella Braverman defects to Reform UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1evq263e49o?at_medium=RSS&at_campaign=rss" target="_blank">Ex-Tory Home Secretary Suella Braverman defects to Reform UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-26 14:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/26/trump-says-justice-department-looking-at-ilhan-omars-wealth?traffic_source=rss" target="_blank">Trump says Justice Department ‘looking at’ Ilhan Omar’s wealth</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-26 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/26/g-s1-107340/israel-gaza-hostage-remains-hamas" target="_blank">Israel&#x27;s military says it found the final hostage body in Gaza</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-26 14:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +100,29 @@
                 <span class="time">2026-01-26 13:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/26/g-s1-107331/up-first-newsletter-alex-pretti-minneapolis-senate-dhs-funding-icy-weather" target="_blank">Senators call for Alex Pretti death investigation. And, winter storm recovery efforts</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-26 12:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/26/lebanon-files-un-complaint-against-israels-daily-ceasefire-violations?traffic_source=rss" target="_blank">Lebanon files UN complaint against Israel’s daily ceasefire violations</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-26 11:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/26/nx-s1-5686763/strength-training-work-out-schedule-time" target="_blank">How long do you need to spend in the gym to get strong? Less than you think</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-26 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/866751/experian-ceo-alex-lintner-credit-scores-ai-privacy-interview" target="_blank">Experian’s tech chief defends credit scores: ‘We’re not Palantir’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-26 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/26/only-5-days-left-over-half-of-the-first-500-techcrunch-disrupt-2026-1-passes-at-50-off-are-already-gone/" target="_blank">Only 5 days left: Over half of the first 500 TechCrunch Disrupt 2026 +1 passes at 50% off are already gone</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-26 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,24 +159,6 @@
                 <span class="time">2026-01-26 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697528429b8f104baf32f567/master/pass/panther-lake-top.JPG" alt="Intel’s Panther Lake Chips Aren’t Just Good—They Beat Apple&#x27;s M5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/intel-panther-lake-core-ultra-series-3-review/" target="_blank">Intel’s Panther Lake Chips Aren’t Just Good—They Beat Apple&#x27;s M5</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-26 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/" target="_blank">This founder cracked firefighting — now he’s creating an AI gold mine</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-25 23:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +171,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18847581&w=600" alt="The Anatomy of an AI Agent and How to Build One With Docker Cagent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/developing-agents-using-docker-cagent" target="_blank">The Anatomy of an AI Agent and How to Build One With Docker Cagent</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-26 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gaurav9695328446/building-in-context-i18n-editing-a-developers-guide-to-seamless-translation-management-5di5" target="_blank">Building In-Context i18n Editing: A Developer&#x27;s Guide to Seamless Translation Management</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-26 14:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/" target="_blank">Apple introduces new AirTag with longer range and improved findability</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-26 14:10</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +216,6 @@
                 <span class="title"><a href="https://dev.to/kuldeepreddy007/just-completed-the-2nd-module-3ab9" target="_blank">Just completed the 2nd module</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-26 13:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18846459&w=600" alt="The A3 Framework: Assist, Automate, Avoid — A Decision System for AI Delegation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/a3-framework-ai-assist-automate-avoid" target="_blank">The A3 Framework: Assist, Automate, Avoid — A Decision System for AI Delegation</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-26 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18846445&w=600" alt="Building Fault-Tolerant Data Pipelines in GCP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-fault-tolerant-data-pipelines-in-gcp" target="_blank">Building Fault-Tolerant Data Pipelines in GCP</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-26 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-HDMI-Gaming-v2" target="_blank">AMDGPU Patches Updated For HDMI Gaming Features On Linux With Radeon Graphics</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-26 11:20</span>
             </div>
         </div>
 </div>
@@ -238,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KFM4A41GNP62VZSFT3DZ3AM2/hero-image.jpg" alt="Five Daily Learning Apps to Try After Duolingo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/five-daily-learning-apps-to-try-after-duolingo?utm_medium=RSS" target="_blank">Five Daily Learning Apps to Try After Duolingo</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-26 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KFVRRJXEXNRWRN8PW5RQRQ31/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: 2016 Nostalgia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +291,6 @@
                 <span class="time">2026-01-25 22:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/present-and-correct.jpg?fit=1200%2C588&amp;quality=60&amp;ssl=1" alt="Present &amp; Correct&#x27;s gallery of pencil typography" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/25/present-corrects-gallery-of-pencil-typography.html" target="_blank">Present &amp; Correct&#x27;s gallery of pencil typography</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-25 21:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 14:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 15:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
