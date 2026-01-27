@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-27 11:03:35 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-01-27 12:02:35 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, January 27, 2026 - 11:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, January 27, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/27/sudan-army-says-nearly-two-year-rsf-siege-of-key-town-broken?traffic_source=rss" target="_blank">Sudan army says two-year RSF siege of key town broken</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-27 11:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/27/nx-s1-5688943/ice-alex-pretti-minneapolis-immigration-raids-renee-macklin-good" target="_blank">Reporter&#x27;s Notebook: Living and reporting from Minneapolis in crisis</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-27 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +101,20 @@
                 <span class="time">2026-01-27 05:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/bovino-1-rt-gmh-260126_1769440660090_hpMain_2_4x3t_384.jpg" alt="Border Patrol Commander Greg Bovino returning to position in El Centro: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/border-patrol-commander-greg-bovino-returning-position-el/story?id=129582658" target="_blank">Border Patrol Commander Greg Bovino returning to position in El Centro: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-27 04:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5066/live/d0e6e140-fb51-11f0-b385-5f48925de19a.jpg" alt="Immigration chief at centre of Trump&#x27;s crackdown set to leave Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss" target="_blank">Immigration chief at centre of Trump&#x27;s crackdown set to leave Minneapolis</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-27 04:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/867819/roland-tr-1000-drum-machine-review" target="_blank">Roland’s TR-1000 is the ultimate drum machine</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-27 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +160,6 @@
                 <span class="time">2026-01-27 02:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/26/south-koreas-edenlux-set-for-u-s-debut-of-eye-strain-wellness-device/" target="_blank">South Korea’s Edenlux set for U.S. debut of eye-strain wellness device</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-27 01:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +181,15 @@
                 <span class="title"><a href="https://dev.to/mcsee/ai-coding-tip-004-use-modular-skills-g97" target="_blank">AI Coding Tip 004 - Use Modular Skills</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-27 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/openai-anthropic-healthcare/en/headerimage/generatedHeaderImage-1769507807876.jpg" alt="OpenAI and Anthropic Introduce Healthcare-Focused AI Platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/openai-anthropic-healthcare/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI and Anthropic Introduce Healthcare-Focused AI Platforms</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-27 10:10</span>
             </div>
         </div>
 <div class="story">
@@ -205,20 +219,20 @@
                 <span class="time">2026-01-27 08:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/cedar-joins-cncf-sandbox/en/headerimage/header-1769289039828.jpeg" alt="Cedar Joins CNCF as a Sandbox Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/cedar-joins-cncf-sandbox/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cedar Joins CNCF as a Sandbox Project</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-27 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/the-constitutionality-of-geofence-warrants.html" target="_blank">The Constitutionality of Geofence Warrants</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-01-27 12:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -242,6 +256,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Kaitlyn-Dever-Abby-Last-of-Us-S2-1280x853.jpg" alt="Kaitlyn Dever Is Ready for the Abby-Centric ‘Last of Us’ Season 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/kaitlyn-dever-is-ready-for-the-abby-centric-last-of-us-season-3-2000714205" target="_blank">Kaitlyn Dever Is Ready for the Abby-Centric ‘Last of Us’ Season 3</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-27 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/22FUCK-ICE22-sticker-spotted-in-New-Orleans.-photo-e1768412930269.jpg?fit=768%2C859&amp;quality=60&amp;ssl=1" alt="&quot;OUR _____&quot; is a new projection art piece focusing on everything ICE is killing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +310,6 @@
                 <span class="time">2026-01-26 23:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KFY3GDB84S524T0BHE3FZMSS/hero-image.jpg" alt="We Now Know What Caused the TikTok Outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/tiktok-outage-cause?utm_medium=RSS" target="_blank">We Now Know What Caused the TikTok Outage</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-26 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 11:03 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
