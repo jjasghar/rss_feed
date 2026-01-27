@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-27 05:06:45 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-27 06:02:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, January 27, 2026 - 05:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, January 27, 2026 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/27/australia-cancels-visa-of-israeli-influencer-accused-of-spreading-hatred?traffic_source=rss" target="_blank">Australia cancels visa of Israeli influencer accused of ‘spreading hatred’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-27 05:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7253/live/7b78e7f0-fb1d-11f0-a47f-d352a7d9988a.jpg" alt="Immigration chief departing Minneapolis as Trump sends border tsar Tom Homan to scene" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss" target="_blank">Immigration chief departing Minneapolis as Trump sends border tsar Tom Homan to scene</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-27 04:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +102,20 @@
                 <span class="time">2026-01-27 00:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-gregory-bovino-border-patrol_7146710.jpg?20260127030926" alt="&#x27;Public face&#x27; of Trump&#x27;s ICE operation to leave Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/public-face-of-trumps-minneapolis-crackdown-set-to-leave-city-as-presidents-tone-shifts-13499461" target="_blank">&#x27;Public face&#x27; of Trump&#x27;s ICE operation to leave Minneapolis</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-26 23:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-gregory-bovino-border-patrol_7146710.jpg?20260126205126" alt="&#x27;Public face&#x27; of Trump&#x27;s Minneapolis crackdown set to leave city - as president&#x27;s tone shifts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/public-face-of-trumps-minneapolis-crackdown-set-to-leave-city-as-presidents-tone-shifts-13499461" target="_blank">&#x27;Public face&#x27; of Trump&#x27;s Minneapolis crackdown set to leave city - as president&#x27;s tone shifts</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-26 23:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" alt="Newegg Promo Code: 10% Off in January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/newegg-promo-code/" target="_blank">Newegg Promo Code: 10% Off in January 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-27 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +159,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation" target="_blank">X faces EU investigation over Grok’s sexualized deepfakes</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-26 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6977bd85b4ff4e16acfaea4d/master/pass/sec-ice-court-ruling-2254812596.jpg" alt="Judge Delays Minnesota ICE Decision While Weighing Whether State Is Being Illegally Punished" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/judge-delays-minnesota-ice-decision-while-weighing-whether-state-was-being-illegally-punished/" target="_blank">Judge Delays Minnesota ICE Decision While Weighing Whether State Is Being Illegally Punished</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-26 22:39</span>
             </div>
         </div>
 </div>
@@ -345,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 05:06 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
