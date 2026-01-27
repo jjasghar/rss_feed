@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-27 01:30:05 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-01-27 02:42:01 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, January 27, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, January 27, 2026 - 02:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +44,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/27/russia-ukraine-war-list-of-key-events-day-1433?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,433</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-27 02:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9374/live/c719f120-fb10-11f0-9f3f-9f7c93e4c5a3.jpg" alt="Fifty Labour MPs sign letter objecting to Burnham decision" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce3e53e34klo?at_medium=RSS&at_campaign=rss" target="_blank">Fifty Labour MPs sign letter objecting to Burnham decision</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-27 01:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/karoline-leavitt-4-gty-gmh-260126_1769452914990_hpMain_4x3t_384.jpg" alt="Trump White House distances itself from claims by Noem, others on Pretti shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-send-border-czar-tom-homan-minneapolis-admin/story?id=129562127" target="_blank">Trump White House distances itself from claims by Noem, others on Pretti shooting</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-27 00:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-gregory-bovino-border-patrol_7146710.jpg?20260126205126" alt="&#x27;Public face&#x27; of Trump&#x27;s Minneapolis crackdown set to leave city - as president&#x27;s tone shifts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/public-face-of-trumps-minneapolis-crackdown-set-to-leave-city-as-presidents-tone-shifts-13499461" target="_blank">&#x27;Public face&#x27; of Trump&#x27;s Minneapolis crackdown set to leave city - as president&#x27;s tone shifts</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-26 23:37</span>
             </div>
         </div>
 <div class="story">
@@ -70,38 +97,20 @@
                 <span class="time">2026-01-26 22:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/minn-15-rt-gmh-260123_1769450125256_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Bovino expected to leave city on Tuesday, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: Bovino expected to leave city on Tuesday, sources say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-26 21:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/26/nx-s1-5688899/chris-madel-minnesota-governor-ice-alex-pretti" target="_blank">GOP lawyer Chris Madel ends bid for Minnesota governor, calls ICE effort a &#x27;disaster&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-26 21:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/26/canadian-pm-carney-unveils-multibillion-dollar-push-to-lower-food-costs?traffic_source=rss" target="_blank">Canadian PM Carney unveils multibillion-dollar push to lower food costs</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-26 21:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/26/south-koreas-edenlux-set-for-u-s-debut-of-eye-strain-wellness-device/" target="_blank">South Korea’s Edenlux set for U.S. debut of eye-strain wellness device</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-27 01:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-500x500.jpg" alt="OpenAI spills technical details about how its AI coding agent works" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,15 +156,6 @@
                 <span class="time">2026-01-26 20:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/26/rad-power-bikes-reaches-deal-to-sell-itself-for-13-2-million/" target="_blank">Rad Power Bikes reaches deal to sell itself for $13.2 million</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-26 19:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +168,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aman04/event-driven-architecture-eda-1d98" target="_blank">EVENT-DRIVEN ARCHITECTURE (EDA)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-27 02:24</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +215,6 @@
                 <span class="time">2026-01-26 23:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/palakhirave/day-12-of-100-2cj4" target="_blank">Day 12 of 100</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-26 20:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/claude-code-1280x853.jpg" alt="Thanks But No Thanks on the Claudeswarms, Kevin Roose" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/thanks-but-no-thanks-on-the-claudeswarms-kevin-roose-2000714238" target="_blank">Thanks But No Thanks on the Claudeswarms, Kevin Roose</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-27 02:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/fallout-2.jpg" alt="Fallout Season 2 Is Finally Fixing Its Dumb Midnight Release Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,20 +297,20 @@
                 <span class="time">2026-01-26 22:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-26 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5752.png" alt="Darkness Incarnate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5752" target="_blank">Darkness Incarnate</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-01-27 01:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1769386879-20260126.png" alt="Saturday Morning Breakfast Cereal - Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -325,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 02:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
