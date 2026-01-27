@@ -1,32 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-01-27 03:31:02 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-01-27 04:18:20 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, January 27, 2026 - 03:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, January 27, 2026 - 04:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +100,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/868379/tiktok-us-trump-oracle-broken-rumors-power-outage" target="_blank">All the ways TikTok is broken: here’s what’s real and what’s not</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-27 02:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/01/26/south-koreas-edenlux-set-for-u-s-debut-of-eye-strain-wellness-device/" target="_blank">South Korea’s Edenlux set for U.S. debut of eye-strain wellness device</a></span>
                 <span class="feed">TechCrunch</span>
@@ -129,30 +134,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6977bd85b4ff4e16acfaea4d/master/pass/sec-ice-court-ruling-2254812596.jpg" alt="Judge Delays Minnesota ICE Decision While Weighing Whether State Is Being Illegally Punished" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/judge-delays-minnesota-ice-decision-while-weighing-whether-state-was-being-illegally-punished/" target="_blank">Judge Delays Minnesota ICE Decision While Weighing Whether State Is Being Illegally Punished</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-26 22:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6977bd85b4ff4e16acfaea4d/master/pass/sec-ice-court-ruling-2254812596.jpg" alt="Judge Delays Minnesota ICE Decision While Weighing Whether State Was Being Illegally Punished" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
                 <span class="title"><a href="https://www.wired.com/story/judge-delays-minnesota-ice-decision-while-weighing-whether-state-was-being-illegally-punished/" target="_blank">Judge Delays Minnesota ICE Decision While Weighing Whether State Was Being Illegally Punished</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-01-26 22:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/08/error-message-500x500.jpg" alt="Odd anomaly caused Microsoft&#x27;s network to mishandle example.com traffic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/" target="_blank">Odd anomaly caused Microsoft&#x27;s network to mishandle example.com traffic</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-26 21:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23769840/best-bluetooth-trackers" target="_blank">The best Bluetooth trackers for Apple and Android phones</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-26 20:01</span>
             </div>
         </div>
 </div>
@@ -181,6 +177,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://flymag.com/heathrow-drops-the-liquids-rule-what-changes-at-lhr-and-how-close-the-u-s-really-is/" target="_blank">Heathrow Drops the Liquids Rule</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-27 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aman04/event-driven-architecture-eda-1d98" target="_blank">EVENT-DRIVEN ARCHITECTURE (EDA)</a></span>
                 <span class="feed">DEV Community</span>
@@ -203,15 +208,6 @@
                 <span class="title"><a href="https://dev.to/abdelrahman_adnan/data-engineering-zoomcamp-module-1-notes-part-2-5871" target="_blank">Data Engineering ZoomCamp Module 1 Notes Part 2</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-27 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/Affinity-by-Canva-Linux-Wine.jpg?resize=406%2C232&amp;ssl=1" alt="Unofficial AppImage Lets You Run Canva’s Affinity on Ubuntu" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/run-affinity-linux-ubuntu-appimage" target="_blank">Unofficial AppImage Lets You Run Canva’s Affinity on Ubuntu</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-26 23:23</span>
             </div>
         </div>
 </div>
@@ -337,13 +333,22 @@
                 <span class="time">2026-01-26 08:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/early_arthropods.png" alt="Early Arthropods" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3199/" target="_blank">Early Arthropods</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-01-26 05:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 03:31 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 04:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
