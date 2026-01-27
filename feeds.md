@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-27 16:03:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-27 17:05:43 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, January 27, 2026 - 16:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, January 27, 2026 - 17:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +45,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-3-rt-gmh-260127_1769521840184_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: It &#x27;all goes away&#x27; if state gives up criminals, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: It &#x27;all goes away&#x27; if state gives up criminals, Trump says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-27 16:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/27/benfica-vs-real-madrid-uefa-champions-league-teams-start-lineups?traffic_source=rss" target="_blank">Real Madrid visit Benfica: UEFA Champions League – all to know</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-27 16:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/27/gauff-blasts-broadcasters-over-privacy-after-australian-open-racket-smash?traffic_source=rss" target="_blank">Gauff blasts broadcasters over privacy after Australian Open racket smash</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-27 15:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260121-16x9-donald-trump-ew-237p-a68c17.jpg" alt="First wrongful death lawsuit filed against Trump administration over boat strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/first-wrongful-death-lawsuit-filed-trump-administration-drug-boat-stri-rcna256022" target="_blank">First wrongful death lawsuit filed against Trump administration over boat strikes</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-27 15:13</span>
             </div>
         </div>
 <div class="story">
@@ -74,38 +98,29 @@
                 <span class="time">2026-01-27 13:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/27/nx-s1-5689875/india-eu-trade-agreement" target="_blank">India and the EU clinch the &#x27;mother of all deals&#x27; in a historic trade agreement</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-27 13:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/322a/live/92240d60-fb7f-11f0-bbb4-c5bf37339933.jpg" alt="US to send ICE agents to Winter Olympics, prompting Italian anger" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y29xzjdzvo?at_medium=RSS&at_campaign=rss" target="_blank">US to send ICE agents to Winter Olympics, prompting Italian anger</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-27 12:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/27/sudan-army-says-nearly-two-year-rsf-siege-of-key-town-broken?traffic_source=rss" target="_blank">Sudan army says two-year RSF siege of key town broken</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-27 11:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/" target="_blank">Google now lets users jump from AI Overviews into AI Mode conversations</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-27 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6977abed490c3476acdf8ebc/master/pass/Pornhub-Online-Safety-Act-Culture-2256757283.jpg" alt="Pornhub Will Block New UK Users Starting Next Week to Protest ‘Flawed’ ID Law" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/pornhub-will-block-new-uk-users-starting-next-week-to-protest-flawed-id-law/" target="_blank">Pornhub Will Block New UK Users Starting Next Week to Protest ‘Flawed’ ID Law</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-27 16:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_0205-500x500-1769491041.jpg" alt="Apple patches ancient iOS versions to keep iMessage, FaceTime, other services working" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,24 +157,6 @@
                 <span class="time">2026-01-27 14:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/868531/pinterest-layoffs-cuts-15-percent-ai-transformation" target="_blank">Pinterest cuts workforce by around 15 percent to focus on AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-27 14:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6977f4359403adeaff02e545/master/pass/The%20Best%20Ski%20Goggles.png" alt="The Best Ski Goggles, Editor Tested and Reviewed (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-ski-goggles/" target="_blank">The Best Ski Goggles, Editor Tested and Reviewed (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-27 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -177,9 +174,27 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Amutable" target="_blank">Systemd Founder Lennart Poettering Announces Amutable Company</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-27 16:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sisu-in-13-minutes-or-less-5b8f" target="_blank">CinemaSins: Everything Wrong With Sisu In 13 Minutes Or Less</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2026-01-27 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18761589&w=600" alt="Implementing HTTPS Two-Way Authentication in Android Using Delphi XE10.x" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/implementing-https-two-way-authentication-in-andro" target="_blank">Implementing HTTPS Two-Way Authentication in Android Using Delphi XE10.x</a></span>
+                <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-01-27 16:00</span>
             </div>
         </div>
@@ -201,24 +216,6 @@
                 <span class="time">2026-01-27 15:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18848072&w=600" alt="Versioning Lies: A Date Contract Is a Promise That Never Breaks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/date-based-api-versioning-contract" target="_blank">Versioning Lies: A Date Contract Is a Promise That Never Breaks</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-27 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/policy-news-and-insights/help-shape-the-future-of-open-source-in-europe/" target="_blank">Help shape the future of open source in Europe</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-01-27 14:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,20 +230,38 @@
                 <span class="time">2026-01-27 12:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/" target="_blank">Who Operates the Badbox 2.0 Botnet?</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-01-26 16:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/shutterstock_1023509932-e1769532029569.jpg?fit=768%2C511&amp;quality=60&amp;ssl=1" alt="Mount Washington is the most dangerous small mountain on Earth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/27/mount-washington-is-the-most-dangerous-small-mountain-on-earth.html" target="_blank">Mount Washington is the most dangerous small mountain on Earth</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-27 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/Friede_Mega_Starmie-1280x720.jpg" alt="Mega Starmie Has Begun Terrorizing Yet Another Side Of The Pokémon Community" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-mega-starmie-ex-nihil-zero-card-tournaments-2000663530" target="_blank">Mega Starmie Has Begun Terrorizing Yet Another Side Of The Pokémon Community</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-27 16:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KFZYD9D3RVSA016WYR31EFS4/hero-image.png" alt="This Four-Pack of Eufy Security Cameras Is on Sale for $180" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/eufy-security-cameras-four-pack-sale-january-2026?utm_medium=RSS" target="_blank">This Four-Pack of Eufy Security Cameras Is on Sale for $180</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-27 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Lego-Star-Wars-Smart-Play-Dagobah-Luke-Yoda-1280x853.jpg" alt="Lego’s Newest ‘Star Wars’ Smart Play Sets Are Cheaper, With a Huge Catch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,33 +289,6 @@
                 <span class="time">2026-01-27 14:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Samsung-Galaxy-Z-TriFold-14-1280x896.jpg" alt="Samsung Galaxy Z Trifold U.S. Price Is Not at All Surprising" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/samsung-galaxy-z-trifold-u-s-price-is-not-at-all-surprising-2000714196" target="_blank">Samsung Galaxy Z Trifold U.S. Price Is Not at All Surprising</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-27 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2H93WCWZPQS0CG2WWWQ84J/hero-image.png" alt="How to Track Your 2025 Federal Tax Refund" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/how-to-track-federal-tax-return?utm_medium=RSS" target="_blank">How to Track Your 2025 Federal Tax Refund</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-27 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/elite-10-mini-1280x853.jpg" alt="BLUETTI Mini Portable Power Station Drops Below Black Friday Prices, Now an Affordable Emergency Backup for Outages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/bluetti-mini-portable-power-station-drops-below-black-friday-prices-now-an-affordable-emergency-backup-for-outages-2000663272" target="_blank">BLUETTI Mini Portable Power Station Drops Below Black Friday Prices, Now an Affordable Emergency Backup for Outages</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-27 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,22 +312,13 @@
                 <span class="time">2026-01-26 23:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1769386879-20260126.png" alt="Saturday Morning Breakfast Cereal - Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/why-9" target="_blank">Saturday Morning Breakfast Cereal - Why</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-26 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 16:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 17:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
