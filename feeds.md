@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-27 07:06:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-27 08:02:21 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, January 27, 2026 - 07:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, January 27, 2026 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +52,24 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/27/australia-cancels-visa-of-israeli-influencer-accused-of-spreading-hatred?traffic_source=rss" target="_blank">Australia cancels visa of Israeli influencer accused of ‘spreading hatred’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-27 05:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/bovino-1-rt-gmh-260126_1769440660090_hpMain_2_4x3t_384.jpg" alt="Border Patrol Commander Greg Bovino returning to position in El Centro: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/border-patrol-commander-greg-bovino-returning-position-el/story?id=129582658" target="_blank">Border Patrol Commander Greg Bovino returning to position in El Centro: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-27 04:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5066/live/d0e6e140-fb51-11f0-b385-5f48925de19a.jpg" alt="Immigration chief at centre of Trump&#x27;s crackdown set to leave Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss" target="_blank">Immigration chief at centre of Trump&#x27;s crackdown set to leave Minneapolis</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-27 04:31</span>
             </div>
         </div>
 <div class="story">
@@ -82,24 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/27/tv-presenter-killed-in-israeli-strike-in-southern-lebanon-hezbollah?traffic_source=rss" target="_blank">TV presenter killed in Israeli strike in southern Lebanon: Hezbollah</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-27 03:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/27/russia-ukraine-war-list-of-key-events-day-1433?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,433</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-27 02:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9374/live/c719f120-fb10-11f0-9f3f-9f7c93e4c5a3.jpg" alt="Fifty Labour MPs sign letter objecting to Burnham decision" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce3e53e34klo?at_medium=RSS&at_campaign=rss" target="_blank">Fifty Labour MPs sign letter objecting to Burnham decision</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-27 01:16</span>
             </div>
         </div>
 </div>
@@ -176,6 +173,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/01/cedar-joins-cncf-sandbox/en/headerimage/header-1769289039828.jpeg" alt="Cedar Joins CNCF as a Sandbox Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/cedar-joins-cncf-sandbox/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cedar Joins CNCF as a Sandbox Project</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-27 08:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/aman04/event-driven-architecture-eda-1d98" target="_blank">EVENT-DRIVEN ARCHITECTURE (EDA)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-27 02:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/RadeonSI-Low-Latency-Decode" target="_blank">AMD Radeon Linux Driver Introduces Low-Latency Video Decode Option</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-27 01:23</span>
             </div>
         </div>
 </div>
@@ -334,22 +331,13 @@
                 <span class="time">2026-01-26 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/01/26/glory-to-giod-in-the-hyest" target="_blank">Glory To Giod in The Hyest</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-26 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 07:06 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
