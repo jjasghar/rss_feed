@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-27 15:05:59 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-01-27 16:03:14 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, January 27, 2026 - 15:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, January 27, 2026 - 16:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/27/gauff-blasts-broadcasters-over-privacy-after-australian-open-racket-smash?traffic_source=rss" target="_blank">Gauff blasts broadcasters over privacy after Australian Open racket smash</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-27 15:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/27/g-s1-107510/drug-boat-strikes-lawsuit-families" target="_blank">Families of killed men file first U.S. federal lawsuit over drug boat strikes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-27 15:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769519615838_tdy_news_7a_haake_trump_minneapolis_260127_1920x1080-jvo63z.jpg" alt="Trump Shakes up Immigration Operations in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +101,29 @@
                 <span class="time">2026-01-27 11:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/27/nx-s1-5688943/ice-alex-pretti-minneapolis-immigration-raids-renee-macklin-good" target="_blank">Reporter&#x27;s Notebook: Living and reporting from Minneapolis in crisis</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-27 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/27/nx-s1-5683149/airlines-have-been-making-their-safety-videos-more-entertaining-but-do-they-work" target="_blank">Airlines have been making their safety videos more entertaining, but do they work?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-27 09:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_0205-500x500-1769491041.jpg" alt="Apple patches ancient iOS versions to keep iMessage, FaceTime, other services working" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/apple-patches-ancient-ios-versions-to-keep-imessage-facetime-other-services-working/" target="_blank">Apple patches ancient iOS versions to keep iMessage, FaceTime, other services working</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-27 15:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/868569/nintendo-switch-online-virtual-boy-3d-lineup-launch" target="_blank">You’ll be able to change the color of Virtual Boy games on Nintendo Switch Online</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-27 15:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,24 +160,6 @@
                 <span class="time">2026-01-27 13:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/867819/roland-tr-1000-drum-machine-review" target="_blank">Roland’s TR-1000 is the ultimate drum machine</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-27 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/868439/meta-premium-subscription-ai-facebook-instagram-whatsapp" target="_blank">Instagram, Facebook, and WhatsApp will test premium subscriptions</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-27 10:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,9 +178,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sisu-in-13-minutes-or-less-5b8f" target="_blank">CinemaSins: Everything Wrong With Sisu In 13 Minutes Or Less</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-27 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/TigerVNC-1.16" target="_blank">TigerVNC 1.16 Released With &quot;w0vncserver&quot; For Sharing Wayland Desktop Sessions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-27 15:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/irshad_ahmed/crumbling-promises-of-a-safer-humanity-3kgo" target="_blank">Crumbling Promises of a Safer Humanity</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-27 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18848072&w=600" alt="Versioning Lies: A Date Contract Is a Promise That Never Breaks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/date-based-api-versioning-contract" target="_blank">Versioning Lies: A Date Contract Is a Promise That Never Breaks</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-27 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +217,6 @@
                 <span class="title"><a href="https://github.blog/news-insights/policy-news-and-insights/help-shape-the-future-of-open-source-in-europe/" target="_blank">Help shape the future of open source in Europe</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-01-27 14:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ebereplenty/build-a-full-cart-ordering-stripe-payment-system-in-bubble-canvas-framework-558" target="_blank">Build a Full Cart, Ordering &amp; Stripe Payment System in Bubble (Canvas Framework)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-27 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18849023&w=600" alt="Edge-First AI Architecture: Designing Low-Latency, Offline-Capable Intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/edge-first-ai-low-latency-offline-capable-intelligence" target="_blank">Edge-First AI Architecture: Designing Low-Latency, Offline-Capable Intelligence</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-27 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://alexxcons.github.io/blogpost_15.html" target="_blank">Xfwl4 – The Roadmap for a Xfce Wayland Compositor</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-27 13:25</span>
             </div>
         </div>
 </div>
@@ -247,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Lego-Star-Wars-Smart-Play-Dagobah-Luke-Yoda-1280x853.jpg" alt="Lego’s Newest ‘Star Wars’ Smart Play Sets Are Cheaper, With a Huge Catch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lego-star-wars-smart-play-sets-price-release-date-2000714464" target="_blank">Lego’s Newest ‘Star Wars’ Smart Play Sets Are Cheaper, With a Huge Catch</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-27 16:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/image-2-1-1.jpg" alt="Ubisoft Really Doesn’t Want You To See Its Canceled Prince Of Persia Remake" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +301,6 @@
                 <span class="time">2026-01-27 13:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/peter-claffey-dexter-sol-ansell_0-2-1280x853.jpg" alt="Ira Parker Teases a Big Event from ‘A Knight of the Seven Kingdoms’ Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ira-parker-teases-a-big-event-from-a-knight-of-the-seven-kingdoms-season-2-2000714267" target="_blank">Ira Parker Teases a Big Event from ‘A Knight of the Seven Kingdoms’ Season 2</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-27 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -338,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 15:06 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 16:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
