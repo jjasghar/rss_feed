@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-27 14:07:15 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-01-27 15:05:59 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, January 27, 2026 - 14:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, January 27, 2026 - 15:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -64,6 +66,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/322a/live/92240d60-fb7f-11f0-bbb4-c5bf37339933.jpg" alt="US to send ICE agents to Winter Olympics, prompting Italian anger" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y29xzjdzvo?at_medium=RSS&at_campaign=rss" target="_blank">US to send ICE agents to Winter Olympics, prompting Italian anger</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-27 12:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -90,15 +101,6 @@
                 <span class="time">2026-01-27 09:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/27/india-eu-agree-on-mother-of-all-trade-deals?traffic_source=rss" target="_blank">India, EU agree on ‘mother of all’ trade deals</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-27 08:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,9 +110,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/867934/tesla-waymo-robotaxi-price-comparison-uber-lyft-obi" target="_blank">Tesla’s robotaxis are cheaper than Waymo, but the wait times are longer</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-27 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/earthcore-500x500.jpg" alt="Meet the mysterious electrides" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/01/meet-the-mysterious-electrides/" target="_blank">Meet the mysterious electrides</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-27 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/868531/pinterest-layoffs-cuts-15-percent-ai-transformation" target="_blank">Pinterest cuts workforce by around 15 percent to focus on AI</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-27 14:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6977f4359403adeaff02e545/master/pass/The%20Best%20Ski%20Goggles.png" alt="The Best Ski Goggles, Editor Tested and Reviewed (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-ski-goggles/" target="_blank">The Best Ski Goggles, Editor Tested and Reviewed (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-27 13:30</span>
             </div>
         </div>
 <div class="story">
@@ -131,33 +160,6 @@
                 <span class="time">2026-01-27 10:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/27/northwood-space-secures-a-100m-series-b-and-a-50m-space-force-contract/" target="_blank">Northwood Space secures a $100M Series B and a $50M Space Force contract</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-27 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" alt="Newegg Promo Code: 10% Off in January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/newegg-promo-code/" target="_blank">Newegg Promo Code: 10% Off in January 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-27 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/868379/tiktok-us-trump-oracle-broken-rumors-power-outage" target="_blank">TikTok is still down, here are all the latest updates</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-27 02:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,45 +178,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ebereplenty/build-a-full-cart-ordering-stripe-payment-system-in-bubble-canvas-framework-558" target="_blank">Build a Full Cart, Ordering &amp; Stripe Payment System in Bubble (Canvas Framework)</a></span>
+                <span class="title"><a href="https://dev.to/irshad_ahmed/crumbling-promises-of-a-safer-humanity-3kgo" target="_blank">Crumbling Promises of a Safer Humanity</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-01-27 14:01</span>
+                <span class="time">2026-01-27 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/policy-news-and-insights/help-shape-the-future-of-open-source-in-europe/" target="_blank">Help shape the future of open source in Europe</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-01-27 14:16</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/globalperspectives/how-i-kept-my-ai-news-platform-under-3day-with-two-simple-patterns-4og9" target="_blank">How I Kept My AI News Platform Under $3/Day With Two Simple Patterns</a></span>
+                <span class="title"><a href="https://dev.to/ebereplenty/build-a-full-cart-ordering-stripe-payment-system-in-bubble-canvas-framework-558" target="_blank">Build a Full Cart, Ordering &amp; Stripe Payment System in Bubble (Canvas Framework)</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-01-27 13:15</span>
+                <span class="time">2026-01-27 14:01</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18848999&w=600" alt="The Rise of Platform Engineering: How Internal Developer Platforms Are Replacing Traditional DevOps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18849023&w=600" alt="Edge-First AI Architecture: Designing Low-Latency, Offline-Capable Intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/rise-of-platform-engineering-how-internal-dev-platforms" target="_blank">The Rise of Platform Engineering: How Internal Developer Platforms Are Replacing Traditional DevOps</a></span>
+                <span class="title"><a href="https://dzone.com/articles/edge-first-ai-low-latency-offline-capable-intelligence" target="_blank">Edge-First AI Architecture: Designing Low-Latency, Offline-Capable Intelligence</a></span>
                 <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-27 13:00</span>
+                <span class="time">2026-01-27 14:00</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2026/01/java-news-roundup-jan19-2026/en/headerimage/java-istock-image-01-1769517916836.jpg" alt="Java News Roundup: Oracle Critical Patch Update, Grizzly 5, Payara Platform, GraalVM, Liberica JDK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/java-news-roundup-jan19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Oracle Critical Patch Update, Grizzly 5, Payara Platform, GraalVM, Liberica JDK</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-27 12:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rbuzsxj7ko9ox9oe180.gif" alt="AI Coding Tip 004 - Use Modular Skills" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mcsee/ai-coding-tip-004-use-modular-skills-g97" target="_blank">AI Coding Tip 004 - Use Modular Skills</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-27 11:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://alexxcons.github.io/blogpost_15.html" target="_blank">Xfwl4 – The Roadmap for a Xfce Wayland Compositor</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-27 13:25</span>
             </div>
         </div>
 </div>
@@ -245,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/image-2-1-1.jpg" alt="Ubisoft Really Doesn’t Want You To See Its Canceled Prince Of Persia Remake" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/prince-of-persia-sands-of-time-art-leak-canceled-remake-2000663501" target="_blank">Ubisoft Really Doesn’t Want You To See Its Canceled Prince Of Persia Remake</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-27 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/evil-looking-bacteria-1280x853.jpg" alt="How a Microbe Tunnels Its Way Through an Insect Gut—It’s Weirder Than You Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-a-microbe-tunnels-its-way-through-an-insect-gut-its-weirder-than-you-think-2000714242" target="_blank">How a Microbe Tunnels Its Way Through an Insect Gut—It’s Weirder Than You Think</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-27 14:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Samsung-Galaxy-Z-TriFold-14-1280x896.jpg" alt="Samsung Galaxy Z Trifold U.S. Price Is Not at All Surprising" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +299,6 @@
                 <span class="title"><a href="https://gizmodo.com/ira-parker-teases-a-big-event-from-a-knight-of-the-seven-kingdoms-season-2-2000714267" target="_blank">Ira Parker Teases a Big Event from ‘A Knight of the Seven Kingdoms’ Season 2</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-27 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Kaitlyn-Dever-Abby-Last-of-Us-S2-1280x853.jpg" alt="Kaitlyn Dever Is Ready for the Abby-Centric ‘Last of Us’ Season 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/kaitlyn-dever-is-ready-for-the-abby-centric-last-of-us-season-3-2000714205" target="_blank">Kaitlyn Dever Is Ready for the Abby-Centric ‘Last of Us’ Season 3</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-27 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/22FUCK-ICE22-sticker-spotted-in-New-Orleans.-photo-e1768412930269.jpg?fit=768%2C859&amp;quality=60&amp;ssl=1" alt="&quot;OUR _____&quot; is a new projection art piece focusing on everything ICE is killing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/27/our-_____-is-a-new-projection-art-piece-focusing-on-everything-ice-is-killing.html" target="_blank">&quot;OUR _____&quot; is a new projection art piece focusing on everything ICE is killing</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-27 10:49</span>
             </div>
         </div>
 </div>
@@ -336,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 14:07 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 15:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
