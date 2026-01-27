@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-27 10:03:02 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-01-27 11:03:35 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, January 27, 2026 - 10:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, January 27, 2026 - 11:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +102,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/868439/meta-premium-subscription-ai-facebook-instagram-whatsapp" target="_blank">Instagram, Facebook, and WhatsApp will test premium subscriptions</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-27 10:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/27/northwood-space-secures-a-100m-series-b-and-a-50m-space-force-contract/" target="_blank">Northwood Space secures a $100M Series B and a $50M Space Force contract</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-27 10:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" alt="Newegg Promo Code: 10% Off in January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -140,24 +155,6 @@
                 <span class="time">2026-01-27 01:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-500x500.jpg" alt="OpenAI spills technical details about how its AI coding agent works" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/" target="_blank">OpenAI spills technical details about how its AI coding agent works</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-26 23:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation" target="_blank">X faces EU investigation over Grok’s sexualized deepfakes</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-26 22:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +167,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rbuzsxj7ko9ox9oe180.gif" alt="AI Coding Tip 004 - Use Modular Skills" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mcsee/ai-coding-tip-004-use-modular-skills-g97" target="_blank">AI Coding Tip 004 - Use Modular Skills</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-27 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -191,30 +197,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/01/27/spy-vs-spy-at-scale/" target="_blank">Spy vs spy at scale</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-01-27 08:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/01/cedar-joins-cncf-sandbox/en/headerimage/header-1769289039828.jpeg" alt="Cedar Joins CNCF as a Sandbox Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/news/2026/01/cedar-joins-cncf-sandbox/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cedar Joins CNCF as a Sandbox Project</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-01-27 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/abhishek-nexgen-dev/constraints-in-dsa-from-zero-to-monster-level-2cjp" target="_blank">Constraints in DSA – From Zero to Monster Level</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-27 06:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/danielpenaloza/rag-desde-cero-con-ruby-42jb" target="_blank">RAG desde cero con Ruby</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-27 03:19</span>
             </div>
         </div>
 </div>
@@ -245,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/22FUCK-ICE22-sticker-spotted-in-New-Orleans.-photo-e1768412930269.jpg?fit=768%2C859&amp;quality=60&amp;ssl=1" alt="&quot;OUR _____&quot; is a new projection art piece focusing on everything ICE is killing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/27/our-_____-is-a-new-projection-art-piece-focusing-on-everything-ice-is-killing.html" target="_blank">&quot;OUR _____&quot; is a new projection art piece focusing on everything ICE is killing</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-27 10:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2022/09/a49a8ee071b00b1b138b8300fcc14488-1024x576.jpg" alt="Study Documents Real World Downside of EV Fast Charging. But There’s Good News Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +296,6 @@
                 <span class="time">2026-01-26 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/03/car-infotainment-screen-1280x853.jpg" alt="Automakers Could Take A Big Hit Because Of An AI-Induced Chip Shortage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/automakers-could-take-a-big-hit-because-of-an-ai-induced-chip-shortage-2000713795" target="_blank">Automakers Could Take A Big Hit Because Of An AI-Induced Chip Shortage</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-26 22:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 10:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 11:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
