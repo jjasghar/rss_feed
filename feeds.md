@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-27 00:06:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-27 01:30:05 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: WIRED -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, January 27, 2026 - 00:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, January 27, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/karoline-leavitt-4-gty-gmh-260126_1769452914990_hpMain_4x3t_384.jpg" alt="Trump White House distances itself from claims by Noem, others on Pretti shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-send-border-czar-tom-homan-minneapolis-admin/story?id=129562127" target="_blank">Trump White House distances itself from claims by Noem, others on Pretti shooting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-27 00:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/26/nx-s1-5687887/border-patrol-has-a-history-of-excessive-force-critics-say-theyre-out-of-their-depth" target="_blank">Border Patrol has a history of excessive force. Critics say they&#x27;re out of their depth</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-26 22:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +97,20 @@
                 <span class="time">2026-01-26 21:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/minn-15-rt-gmh-260123_1769450125256_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Walz&#x27;s team says Trump looking into reducing fed presence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: Walz&#x27;s team says Trump looking into reducing fed presence</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-26 20:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/26/white-house-attacks-sensationalist-media-over-alex-pretti-coverage?traffic_source=rss" target="_blank">White House attacks ‘sensationalist’ media over Alex Pretti coverage</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-26 20:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-500x500.jpg" alt="OpenAI spills technical details about how its AI coding agent works" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/" target="_blank">OpenAI spills technical details about how its AI coding agent works</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-26 23:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +156,6 @@
                 <span class="time">2026-01-26 19:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6977407f4869b26615030c5f/master/pass/012626_Reddit_ICE.jpg" alt="Redditors Are Mounting a Resistance Against ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/redditors-are-mounting-a-resistance-against-ice/" target="_blank">Redditors Are Mounting a Resistance Against ICE</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-26 19:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +168,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RadeonSI-Low-Latency-Decode" target="_blank">AMD Radeon Linux Driver Introduces Low-Latency Video Decode Option</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-27 01:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/abdelrahman_adnan/data-engineering-zoomcamp-module-1-notes-part-2-5871" target="_blank">Data Engineering ZoomCamp Module 1 Notes Part 2</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-27 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/Affinity-by-Canva-Linux-Wine.jpg?resize=406%2C232&amp;ssl=1" alt="Unofficial AppImage Lets You Run Canva’s Affinity on Ubuntu" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/run-affinity-linux-ubuntu-appimage" target="_blank">Unofficial AppImage Lets You Run Canva’s Affinity on Ubuntu</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-26 23:23</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +213,6 @@
                 <span class="title"><a href="https://dev.to/palakhirave/day-12-of-100-2cj4" target="_blank">Day 12 of 100</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-26 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-LLVM-Device-Side-PGO-ROCm" target="_blank">AMD Squeezing Out More More ROCm/HIP Performance With New Device-Side PGO</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-26 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18768017&w=600" alt="Building an AI Agent Traffic Management Platform: APISIX AI Gateway in Practice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-ai-agent-traffic-management-apisix-ai-gateway" target="_blank">Building an AI Agent Traffic Management Platform: APISIX AI Gateway in Practice</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-26 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/power-agentic-workflows-in-your-terminal-with-github-copilot-cli/" target="_blank">Power agentic workflows in your terminal with GitHub Copilot CLI</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-01-26 18:54</span>
             </div>
         </div>
 </div>
@@ -324,22 +320,13 @@
                 <span class="time">2026-01-26 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5751.png" alt="The Damage Is Irreversible" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5751" target="_blank">The Damage Is Irreversible</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-01-26 01:08</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 00:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
