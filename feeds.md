@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-27 20:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-27 21:01:38 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, January 27, 2026 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, January 27, 2026 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/1/27/will-palestinians-ever-find-their-loved-ones-in-gazas?traffic_source=rss" target="_blank">Will Palestinians ever find their loved ones in Gaza’s rubble?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-27 20:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +104,29 @@
                 <span class="time">2026-01-27 15:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260121-16x9-donald-trump-ew-237p-a68c17.jpg" alt="First wrongful death lawsuit filed against Trump administration over boat strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/first-wrongful-death-lawsuit-filed-trump-administration-drug-boat-stri-rcna256022" target="_blank">First wrongful death lawsuit filed against Trump administration over boat strikes</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-27 15:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/27/amazon-agrees-to-pay-consumers-309m-in-returns-policy-settlement/" target="_blank">Amazon agrees to pay consumers $309M in returns policy settlement</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-27 20:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/696fc239ca96f83356758b0e/master/pass/HBO-Show-Guide-Culture-peter-claffey.jpg" alt="The 50 Best Shows on HBO Max, WIRED’s Picks (February 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/" target="_blank">The 50 Best Shows on HBO Max, WIRED’s Picks (February 2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-27 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,24 +163,6 @@
                 <span class="time">2026-01-27 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/draincleaning1-500x500.jpg" alt="Australian plumber is a YouTube sensation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/01/australian-plumber-is-a-youtube-sensation/" target="_blank">Australian plumber is a YouTube sensation</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-27 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/" target="_blank">Google now lets users jump from AI Overviews into AI Mode conversations</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-27 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +175,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shamsher_khan/what-a-60-second-war-room-scan-reveals-352i" target="_blank">What a 60-second war-room scan reveals</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-27 20:45</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +222,6 @@
                 <span class="time">2026-01-27 18:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://gist.github.com/MostAwesomeDude/bb8cbfd005a33f5dd262d1f20a63a693" target="_blank">Lobsters Vibecoding Challenge (Winter 2025-2026)</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-01-27 18:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/star-wars-rebels-maul-death-shadow-lord-1280x853.jpg" alt="Darth Maul’s Second Death Was Worth the Absurdity of His Survival" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-wars-maul-shadow-lord-death-rebels-clone-wars-2000714635" target="_blank">Darth Maul’s Second Death Was Worth the Absurdity of His Survival</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-27 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/image-6-1-1280x720.jpg" alt="PlayStation’s Spider-Man Calls For Blocking ICE Funding After Brutal Minnesota Killing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +293,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/meta-is-testing-paid-subscriptions-for-instagram-whatsapp-and-facebook?utm_medium=RSS" target="_blank">Meta Is Testing Paid Subscriptions for Instagram, WhatsApp, and Facebook</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-27 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/shutterstock_1023509932-e1769532029569.jpg?fit=768%2C511&amp;quality=60&amp;ssl=1" alt="Mount Washington is the most dangerous small mountain on Earth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/27/mount-washington-is-the-most-dangerous-small-mountain-on-earth.html" target="_blank">Mount Washington is the most dangerous small mountain on Earth</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-27 16:41</span>
             </div>
         </div>
 </div>
@@ -336,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
