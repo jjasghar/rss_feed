@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-27 19:07:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-27 20:01:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, January 27, 2026 - 19:07 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, January 27, 2026 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/featured-documentaries/2026/1/27/indonesias-flood-catastrophe-the-full-report?traffic_source=rss" target="_blank">Indonesia’s Flood Catastrophe | The Full Report</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-27 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/27/nx-s1-5689943/population-growth-census-immigration-crackdown" target="_blank">A crackdown on immigration is leading to a sharp drop in U.S. population growth</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-27 19:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-3-rt-gmh-260127_1769521840184_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: It &#x27;all goes away&#x27; if state gives up criminals, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +99,29 @@
                 <span class="time">2026-01-27 15:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/27/g-s1-107510/drug-boat-strikes-lawsuit-families" target="_blank">Families of killed men file first U.S. federal lawsuit over drug boat strikes</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-27 15:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769519615838_tdy_news_7a_haake_trump_minneapolis_260127_1920x1080-jvo63z.jpg" alt="Trump Shakes up Immigration Operations in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-shuffles-ice-operations-in-minneapolis-amid-backlash-256648773703" target="_blank">Trump Shakes up Immigration Operations in Minneapolis</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-27 13:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/27/tiktok-joins-snap-to-settle-social-media-addiction-lawsuit/" target="_blank">TikTok joins Snap to settle social media addiction lawsuit</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-27 19:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/868843/razer-synapse-web-beta-browser-chromium-configure-settings" target="_blank">Razer’s testing a new tool for customizing its keyboards in your browser</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-27 19:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,24 +158,6 @@
                 <span class="time">2026-01-27 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6977abed490c3476acdf8ebc/master/pass/Pornhub-Online-Safety-Act-Culture-2256757283.jpg" alt="Pornhub Will Block New UK Users Starting Next Week to Protest ‘Flawed’ ID Law" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/pornhub-will-block-new-uk-users-starting-next-week-to-protest-flawed-id-law/" target="_blank">Pornhub Will Block New UK Users Starting Next Week to Protest ‘Flawed’ ID Law</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-27 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_0205-500x500-1769491041.jpg" alt="Apple patches ancient iOS versions to keep iMessage, FaceTime, other services working" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/apple-patches-ancient-ios-versions-to-keep-imessage-facetime-other-services-working/" target="_blank">Apple patches ancient iOS versions to keep iMessage, FaceTime, other services working</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-27 15:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +176,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/manojsingh00963/manics-portfolio-18ol" target="_blank">MANic&#x27;s portfolio</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-27 19:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GStreamer-1.28" target="_blank">GStreamer 1.28 Released With More Rust Code</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-27 19:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18850769&w=600" alt="Building an Internal Document Search Tool with Retrieval-Augmented Generation (RAG)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-an-internal-document-search-tool-with-ret" target="_blank">Building an Internal Document Search Tool with Retrieval-Augmented Generation (RAG)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-27 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mzivkovicdev/spring-crud-generator-a-yamljson-driven-spring-boot-backend-generator-version-update-stability-4mff" target="_blank">Spring CRUD Generator: a YAML/JSON-driven Spring Boot backend generator (version update + stability improvements)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-27 18:55</span>
@@ -188,33 +215,6 @@
                 <span class="title"><a href="https://gist.github.com/MostAwesomeDude/bb8cbfd005a33f5dd262d1f20a63a693" target="_blank">Lobsters Vibecoding Challenge (Winter 2025-2026)</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-01-27 18:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fss8x67a6etz1fg4ye6v7.png" alt="Building &amp; Deploying Real-World AI Applications with Google AI Studio 🚀" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kulbhushan_borse_ae325ef5/building-deploying-real-world-ai-applications-with-google-ai-studio-254p" target="_blank">Building &amp; Deploying Real-World AI Applications with Google AI Studio 🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-27 18:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18850084&w=600" alt="Cost-Aware GenAI Architecture: Caching, Model Routing, and Token Budgets That Don’t Explode" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/cost-aware-genai-architecture" target="_blank">Cost-Aware GenAI Architecture: Caching, Model Routing, and Token Budgets That Don’t Explode</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-27 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.6-Beta-2" target="_blank">KDE Plasma 6.6 Beta 2 Released For Testing</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-27 17:38</span>
             </div>
         </div>
 </div>
@@ -236,6 +236,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/image-6-1-1280x720.jpg" alt="PlayStation’s Spider-Man Calls For Blocking ICE Funding After Brutal Minnesota Killing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ps5-spider-man-yuri-lowenthal-ice-alex-pretti-2000663563" target="_blank">PlayStation’s Spider-Man Calls For Blocking ICE Funding After Brutal Minnesota Killing</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-27 19:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KFZZ7ZWEE7KNG8TY8D9108HE/hero-image.png" alt="These Anker Wireless Earbuds Deliver Excellent Noise Cancellation for Under $60" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/anker-wireless-earbuds-sale-january-2026?utm_medium=RSS" target="_blank">These Anker Wireless Earbuds Deliver Excellent Noise Cancellation for Under $60</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-27 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Starstrike-2-001.gif?fit=560%2C394&amp;ssl=1" alt="Early 3D game pioneer Graeme Baird dead at 63" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/27/baird.html" target="_blank">Early 3D game pioneer Graeme Baird dead at 63</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-27 18:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/highguard-steam-change-1280x720.jpg" alt="Highguard Removes Text From Steam Linking It To The Creators Of Titanfall" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,33 +288,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/27/mount-washington-is-the-most-dangerous-small-mountain-on-earth.html" target="_blank">Mount Washington is the most dangerous small mountain on Earth</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-27 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/Friede_Mega_Starmie-1280x720.jpg" alt="Mega Starmie Has Begun Terrorizing Yet Another Side Of The Pokémon Community" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-mega-starmie-ex-nihil-zero-card-tournaments-2000663530" target="_blank">Mega Starmie Has Begun Terrorizing Yet Another Side Of The Pokémon Community</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-27 16:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KFZYD9D3RVSA016WYR31EFS4/hero-image.png" alt="This Four-Pack of Eufy Security Cameras Is on Sale for $180" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/eufy-security-cameras-four-pack-sale-january-2026?utm_medium=RSS" target="_blank">This Four-Pack of Eufy Security Cameras Is on Sale for $180</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-27 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Lego-Star-Wars-Smart-Play-Dagobah-Luke-Yoda-1280x853.jpg" alt="Lego’s Newest ‘Star Wars’ Smart Play Sets Are Cheaper, With a Huge Catch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/lego-star-wars-smart-play-sets-price-release-date-2000714464" target="_blank">Lego’s Newest ‘Star Wars’ Smart Play Sets Are Cheaper, With a Huge Catch</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-27 16:01</span>
             </div>
         </div>
 </div>
@@ -336,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 19:07 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
