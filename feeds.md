@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-27 22:01:34 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-01-27 23:02:11 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, January 27, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, January 27, 2026 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,10 +46,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/27/mexico-vows-solidarity-with-cuba-after-oil-shipment-cancellation-report?traffic_source=rss" target="_blank">Mexico vows ‘solidarity’ with Cuba after oil shipment cancellation reports</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-27 22:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e26/live/32879a60-fbb7-11f0-a47f-d352a7d9988a.jpg" alt="Storm Chandra brings heavy rain, flooding and travel disruption to UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy8p2yey0gdo?at_medium=RSS&at_campaign=rss" target="_blank">Storm Chandra brings heavy rain, flooding and travel disruption to UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-27 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/01/27/g-s1-107571/fifa-sepp-blatter-boycott-world-cup" target="_blank">Ex-FIFA president Sepp Blatter joins those calling for boycott of World Cup in U.S.</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-27 21:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/noem-1-gty-gmh-260127_1769519459811_hpMain_4x3t_384.jpg" alt="Kristi Noem met with Trump amid scrutiny over deadly Minneapolis shooting: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/kristi-noem-met-trump-amid-scrutiny-deadly-minneapolis/story?id=129603158" target="_blank">Kristi Noem met with Trump amid scrutiny over deadly Minneapolis shooting: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-27 20:46</span>
             </div>
         </div>
 <div class="story">
@@ -66,33 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/featured-documentaries/2026/1/27/indonesias-flood-catastrophe-the-full-report?traffic_source=rss" target="_blank">Indonesia’s Flood Catastrophe | The Full Report</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-27 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/27/nx-s1-5689943/population-growth-census-immigration-crackdown" target="_blank">A crackdown on immigration is leading to a sharp drop in U.S. population growth</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-27 19:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-3-rt-gmh-260127_1769521840184_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: It &#x27;all goes away&#x27; if state gives up criminals, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: It &#x27;all goes away&#x27; if state gives up criminals, Trump says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-27 16:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/27/benfica-vs-real-madrid-uefa-champions-league-teams-start-lineups?traffic_source=rss" target="_blank">Real Madrid visit Benfica: UEFA Champions League – all to know</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-27 16:15</span>
             </div>
         </div>
 </div>
@@ -171,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vishalmysore/agentic-ai-and-human-in-the-loop-a-practical-implementation-with-java-25de" target="_blank">Agentic AI and Human-in-the-Loop: A Practical Implementation with Java</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-27 22:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Vulkan-DriConf-LTO" target="_blank">New Intel Linux Driver Workaround Halves Initial Game Load Time For MHW</a></span>
                 <span class="feed">Phoronix</span>
@@ -204,15 +215,6 @@
                 <span class="time">2026-01-27 19:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GStreamer-1.28" target="_blank">GStreamer 1.28 Released With More Rust Code</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-27 19:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Uber-AV-Labs-1280x853.jpg" alt="Uber Creates ‘AV Labs’ To Leverage Data For Future Robotaxi Routes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/uber-creates-av-labs-to-leverage-data-for-future-robotaxi-routes-2000714658" target="_blank">Uber Creates ‘AV Labs’ To Leverage Data For Future Robotaxi Routes</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-27 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KG0MP0W5QZAZ11NRHBFJX3NR/hero-image.png" alt="How to Get Your Share of These Billion Dollar Amazon Settlements" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-get-your-share-of-the-amazon-settlements?utm_medium=RSS" target="_blank">How to Get Your Share of These Billion Dollar Amazon Settlements</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-27 22:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/batman-1-1280x720.jpg" alt="Batman: Arkham Parody Perfectly Captures The Horror And Absurdity Of Living In Gotham" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +286,6 @@
                 <span class="title"><a href="https://kotaku.com/ps5-spider-man-yuri-lowenthal-ice-alex-pretti-2000663563" target="_blank">PlayStation’s Spider-Man Calls For Blocking ICE Funding After Brutal Minnesota Killing</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-27 19:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KFZZ7ZWEE7KNG8TY8D9108HE/hero-image.png" alt="These Anker Wireless Earbuds Deliver Excellent Noise Cancellation for Under $60" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/anker-wireless-earbuds-sale-january-2026?utm_medium=RSS" target="_blank">These Anker Wireless Earbuds Deliver Excellent Noise Cancellation for Under $60</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-27 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Starstrike-2-001.gif?fit=560%2C394&amp;ssl=1" alt="Early 3D game pioneer Graeme Baird dead at 63" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/27/baird.html" target="_blank">Early 3D game pioneer Graeme Baird dead at 63</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-27 18:47</span>
             </div>
         </div>
 </div>
@@ -332,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
