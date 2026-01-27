@@ -1,37 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-01-27 12:02:35 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-27 13:16:57 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, January 27, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, January 27, 2026 - 13:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/27/nx-s1-5689875/india-eu-trade-agreement" target="_blank">India and the EU clinch the &#x27;mother of all deals&#x27; in a historic trade agreement</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-27 13:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +92,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cy8p2yey0gdo?at_medium=RSS&at_campaign=rss" target="_blank">Storm Chandra brings flooding and road closures with warnings across UK</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-27 08:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/27/australia-cancels-visa-of-israeli-influencer-accused-of-spreading-hatred?traffic_source=rss" target="_blank">Australia cancels visa of Israeli influencer accused of ‘spreading hatred’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-27 05:09</span>
             </div>
         </div>
 </div>
@@ -175,6 +168,33 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/globalperspectives/how-i-kept-my-ai-news-platform-under-3day-with-two-simple-patterns-4og9" target="_blank">How I Kept My AI News Platform Under $3/Day With Two Simple Patterns</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-27 13:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18848999&w=600" alt="The Rise of Platform Engineering: How Internal Developer Platforms Are Replacing Traditional DevOps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/rise-of-platform-engineering-how-internal-dev-platforms" target="_blank">The Rise of Platform Engineering: How Internal Developer Platforms Are Replacing Traditional DevOps</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-27 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/java-news-roundup-jan19-2026/en/headerimage/java-istock-image-01-1769517916836.jpg" alt="Java News Roundup: Oracle Critical Patch Update, Grizzly 5, Payara Platform, GraalVM, Liberica JDK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/java-news-roundup-jan19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Oracle Critical Patch Update, Grizzly 5, Payara Platform, GraalVM, Liberica JDK</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-27 12:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rbuzsxj7ko9ox9oe180.gif" alt="AI Coding Tip 004 - Use Modular Skills" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -190,33 +210,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/01/openai-anthropic-healthcare/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI and Anthropic Introduce Healthcare-Focused AI Platforms</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-01-27 10:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd65m6h5ofku7r3rrr7p1.png" alt="Handling Multiple Data Sources in DeFi Frontend Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/92srdjan/handling-multiple-data-sources-in-defi-frontend-architecture-27kk" target="_blank">Handling Multiple Data Sources in DeFi Frontend Architecture</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-27 09:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/friction-fix/en/headerimage/friction-fix-header-1769156177973.jpg" alt="Article: The Friction Fix: Change What Matters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/friction-fix/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: The Friction Fix: Change What Matters</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-27 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/01/27/spy-vs-spy-at-scale/" target="_blank">Spy vs spy at scale</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-01-27 08:40</span>
             </div>
         </div>
 </div>
@@ -242,20 +235,29 @@
                 <span class="time">2026-01-26 16:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/ireland-proposes-giving-police-new-digital-surveillance-powers.html" target="_blank">Ireland Proposes Giving Police New Digital Surveillance Powers</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-01-26 12:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/elite-10-mini-1280x853.jpg" alt="BLUETTI Mini Portable Power Station Drops Below Black Friday Prices, Now an Affordable Emergency Backup for Outages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/bluetti-mini-portable-power-station-drops-below-black-friday-prices-now-an-affordable-emergency-backup-for-outages-2000663272" target="_blank">BLUETTI Mini Portable Power Station Drops Below Black Friday Prices, Now an Affordable Emergency Backup for Outages</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-27 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/peter-claffey-dexter-sol-ansell_0-2-1280x853.jpg" alt="Ira Parker Teases a Big Event from ‘A Knight of the Seven Kingdoms’ Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ira-parker-teases-a-big-event-from-a-knight-of-the-seven-kingdoms-season-2-2000714267" target="_blank">Ira Parker Teases a Big Event from ‘A Knight of the Seven Kingdoms’ Season 2</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-27 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Kaitlyn-Dever-Abby-Last-of-Us-S2-1280x853.jpg" alt="Kaitlyn Dever Is Ready for the Abby-Centric ‘Last of Us’ Season 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,24 +292,6 @@
                 <span class="title"><a href="https://gizmodo.com/thanks-but-no-thanks-on-the-claudeswarms-kevin-roose-2000714238" target="_blank">Thanks But No Thanks on the Claudeswarms, Kevin Roose</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-27 02:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/fallout-2.jpg" alt="Fallout Season 2 Is Finally Fixing Its Dumb Midnight Release Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fallout-season-2-finally-fixing-dumb-midnight-release-time-2000663241" target="_blank">Fallout Season 2 Is Finally Fixing Its Dumb Midnight Release Times</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-26 23:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/star-trek-starfleet-academy-102-betazed-talks.jpg" alt="Wait, So When *Is* ‘Starfleet Academy’ Set, Anyway?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/starfleet-academy-star-trek-timeline-discovery-theory-2000714204" target="_blank">Wait, So When *Is* ‘Starfleet Academy’ Set, Anyway?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-26 23:11</span>
             </div>
         </div>
 </div>
@@ -347,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 13:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
