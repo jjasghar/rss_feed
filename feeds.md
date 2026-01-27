@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-27 02:42:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-27 03:31:02 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, January 27, 2026 - 02:42 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, January 27, 2026 - 03:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -71,6 +70,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-gregory-bovino-border-patrol_7146710.jpg?20260127030926" alt="&#x27;Public face&#x27; of Trump&#x27;s ICE operation to leave Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/public-face-of-trumps-minneapolis-crackdown-set-to-leave-city-as-presidents-tone-shifts-13499461" target="_blank">&#x27;Public face&#x27; of Trump&#x27;s ICE operation to leave Minneapolis</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-26 23:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/01/1920x1080/skynews-gregory-bovino-border-patrol_7146710.jpg?20260126205126" alt="&#x27;Public face&#x27; of Trump&#x27;s Minneapolis crackdown set to leave city - as president&#x27;s tone shifts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -86,15 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/26/nx-s1-5687887/border-patrol-has-a-history-of-excessive-force-critics-say-theyre-out-of-their-depth" target="_blank">Border Patrol has a history of excessive force. Critics say they&#x27;re out of their depth</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-26 22:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/26/nx-s1-5687901/us-sled-racer-uhlaender-denied-sixth-olympic-bid" target="_blank">U.S. sled racer Uhlaender says she was unfairly denied sixth Olympic bid</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-26 22:04</span>
             </div>
         </div>
 </div>
@@ -174,6 +173,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/danielpenaloza/rag-desde-cero-con-ruby-42jb" target="_blank">RAG desde cero con Ruby</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-27 03:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aman04/event-driven-architecture-eda-1d98" target="_blank">EVENT-DRIVEN ARCHITECTURE (EDA)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-27 02:24</span>
@@ -204,15 +212,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/run-affinity-linux-ubuntu-appimage" target="_blank">Unofficial AppImage Lets You Run Canva’s Affinity on Ubuntu</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-01-26 23:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vinicius3w/da-deteccao-a-correcao-patches-automaticos-e-o-papel-do-engenheiro-na-era-da-ia-12b0" target="_blank">Da Detecção à Correção: Patches Automáticos e o Papel do Engenheiro na Era da IA</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-26 23:00</span>
             </div>
         </div>
 </div>
@@ -312,6 +311,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/26/glory-to-god-in-the-hyest" target="_blank">Glory To God in The Hyest</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-01-26 23:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1769386879-20260126.png" alt="Saturday Morning Breakfast Cereal - Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -334,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 02:42 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 03:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
