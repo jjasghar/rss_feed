@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-27 06:02:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-27 07:06:09 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, January 27, 2026 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, January 27, 2026 - 07:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +55,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/27/australia-cancels-visa-of-israeli-influencer-accused-of-spreading-hatred?traffic_source=rss" target="_blank">Australia cancels visa of Israeli influencer accused of ‘spreading hatred’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-27 05:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7253/live/7b78e7f0-fb1d-11f0-a47f-d352a7d9988a.jpg" alt="US immigration chief Bovino set to leave Minneapolis after deadly shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss" target="_blank">US immigration chief Bovino set to leave Minneapolis after deadly shooting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-27 04:31</span>
             </div>
         </div>
 <div class="story">
@@ -91,15 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/ce3e53e34klo?at_medium=RSS&at_campaign=rss" target="_blank">Fifty Labour MPs sign letter objecting to Burnham decision</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-27 01:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/karoline-leavitt-4-gty-gmh-260126_1769452914990_hpMain_4x3t_384.jpg" alt="Trump White House distances itself from claims by Noem, others on Pretti shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-send-border-czar-tom-homan-minneapolis-admin/story?id=129562127" target="_blank">Trump White House distances itself from claims by Noem, others on Pretti shooting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-27 00:06</span>
             </div>
         </div>
 </div>
@@ -179,6 +179,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/abhishek-nexgen-dev/constraints-in-dsa-from-zero-to-monster-level-2cjp" target="_blank">Constraints in DSA – From Zero to Monster Level</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-27 06:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/danielpenaloza/rag-desde-cero-con-ruby-42jb" target="_blank">RAG desde cero con Ruby</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-27 03:19</span>
@@ -209,15 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/RadeonSI-Low-Latency-Decode" target="_blank">AMD Radeon Linux Driver Introduces Low-Latency Video Decode Option</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-27 01:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/abdelrahman_adnan/data-engineering-zoomcamp-module-1-notes-part-2-5871" target="_blank">Data Engineering ZoomCamp Module 1 Notes Part 2</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-27 01:20</span>
             </div>
         </div>
 </div>
@@ -348,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 07:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
