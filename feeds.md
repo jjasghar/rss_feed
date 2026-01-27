@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-27 13:16:57 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-01-27 14:07:15 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, January 27, 2026 - 13:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, January 27, 2026 - 14:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769519615838_tdy_news_7a_haake_trump_minneapolis_260127_1920x1080-jvo63z.jpg" alt="Trump Shakes up Immigration Operations in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-shuffles-ice-operations-in-minneapolis-amid-backlash-256648773703" target="_blank">Trump Shakes up Immigration Operations in Minneapolis</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-27 13:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +99,20 @@
                 <span class="time">2026-01-27 08:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64f7/live/574667c0-fb51-11f0-a47f-d352a7d9988a.png" alt="Storm Chandra brings flooding and road closures with warnings across UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy8p2yey0gdo?at_medium=RSS&at_campaign=rss" target="_blank">Storm Chandra brings flooding and road closures with warnings across UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-27 08:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/868531/pinterest-layoffs-cuts-15-percent-ai-transformation" target="_blank">Pinterest cuts workforce by around 15 percent to focus on AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-27 14:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +158,6 @@
                 <span class="time">2026-01-27 02:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/868379/tiktok-us-trump-oracle-broken-rumors-power-outage" target="_blank">All the ways TikTok is broken: here’s what’s real and what’s not</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-27 02:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,6 +170,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ebereplenty/build-a-full-cart-ordering-stripe-payment-system-in-bubble-canvas-framework-558" target="_blank">Build a Full Cart, Ordering &amp; Stripe Payment System in Bubble (Canvas Framework)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-27 14:01</span>
             </div>
         </div>
 <div class="story">
@@ -203,15 +217,6 @@
                 <span class="time">2026-01-27 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/openai-anthropic-healthcare/en/headerimage/generatedHeaderImage-1769507807876.jpg" alt="OpenAI and Anthropic Introduce Healthcare-Focused AI Platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/openai-anthropic-healthcare/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI and Anthropic Introduce Healthcare-Focused AI Platforms</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-27 10:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Samsung-Galaxy-Z-TriFold-14-1280x896.jpg" alt="Samsung Galaxy Z Trifold U.S. Price Is Not at All Surprising" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/samsung-galaxy-z-trifold-u-s-price-is-not-at-all-surprising-2000714196" target="_blank">Samsung Galaxy Z Trifold U.S. Price Is Not at All Surprising</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-27 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2H93WCWZPQS0CG2WWWQ84J/hero-image.png" alt="How to Track Your 2025 Federal Tax Refund" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/how-to-track-federal-tax-return?utm_medium=RSS" target="_blank">How to Track Your 2025 Federal Tax Refund</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-27 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/elite-10-mini-1280x853.jpg" alt="BLUETTI Mini Portable Power Station Drops Below Black Friday Prices, Now an Affordable Emergency Backup for Outages" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +297,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/27/our-_____-is-a-new-projection-art-piece-focusing-on-everything-ice-is-killing.html" target="_blank">&quot;OUR _____&quot; is a new projection art piece focusing on everything ICE is killing</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-27 10:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2022/09/a49a8ee071b00b1b138b8300fcc14488-1024x576.jpg" alt="Study Documents Real World Downside of EV Fast Charging. But There’s Good News Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/study-documents-real-world-downside-of-ev-fast-charging-but-theres-good-news-too-2000714235" target="_blank">Study Documents Real World Downside of EV Fast Charging. But There’s Good News Too</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-27 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/claude-code-1280x853.jpg" alt="Thanks But No Thanks on the Claudeswarms, Kevin Roose" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/thanks-but-no-thanks-on-the-claudeswarms-kevin-roose-2000714238" target="_blank">Thanks But No Thanks on the Claudeswarms, Kevin Roose</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-27 02:35</span>
             </div>
         </div>
 </div>
@@ -331,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 13:17 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 14:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
