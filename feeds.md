@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-27 09:05:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-27 10:03:02 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, January 27, 2026 - 09:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, January 27, 2026 - 10:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,10 +48,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/27/nx-s1-5683149/airlines-have-been-making-their-safety-videos-more-entertaining-but-do-they-work" target="_blank">Airlines have been making their safety videos more entertaining, but do they work?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-27 09:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/27/india-eu-agree-on-mother-of-all-trade-deals?traffic_source=rss" target="_blank">India, EU agree on ‘mother of all’ trade deals</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-27 08:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64f7/live/574667c0-fb51-11f0-a47f-d352a7d9988a.png" alt="Storm Chandra brings flooding and road closures with warnings across UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy8p2yey0gdo?at_medium=RSS&at_campaign=rss" target="_blank">Storm Chandra brings flooding and road closures with warnings across UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-27 08:02</span>
             </div>
         </div>
 <div class="story">
@@ -75,24 +95,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss" target="_blank">Immigration chief at centre of Trump&#x27;s crackdown set to leave Minneapolis</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-27 04:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7253/live/7b78e7f0-fb1d-11f0-a47f-d352a7d9988a.jpg" alt="US immigration chief Bovino set to leave Minneapolis after deadly shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss" target="_blank">US immigration chief Bovino set to leave Minneapolis after deadly shooting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-27 04:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7253/live/7b78e7f0-fb1d-11f0-a47f-d352a7d9988a.jpg" alt="Immigration chief departing Minneapolis as Trump sends border tsar Tom Homan to scene" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss" target="_blank">Immigration chief departing Minneapolis as Trump sends border tsar Tom Homan to scene</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-27 04:31</span>
             </div>
@@ -171,6 +173,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd65m6h5ofku7r3rrr7p1.png" alt="Handling Multiple Data Sources in DeFi Frontend Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/92srdjan/handling-multiple-data-sources-in-defi-frontend-architecture-27kk" target="_blank">Handling Multiple Data Sources in DeFi Frontend Architecture</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-27 09:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/articles/friction-fix/en/headerimage/friction-fix-header-1769156177973.jpg" alt="Article: The Friction Fix: Change What Matters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -206,15 +217,6 @@
                 <span class="time">2026-01-27 03:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://flymag.com/heathrow-drops-the-liquids-rule-what-changes-at-lhr-and-how-close-the-u-s-really-is/" target="_blank">Heathrow Drops the Liquids Rule</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-27 02:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2022/09/a49a8ee071b00b1b138b8300fcc14488-1024x576.jpg" alt="Study Documents Real World Downside of EV Fast Charging. But There’s Good News Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/study-documents-real-world-downside-of-ev-fast-charging-but-theres-good-news-too-2000714235" target="_blank">Study Documents Real World Downside of EV Fast Charging. But There’s Good News Too</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-27 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/claude-code-1280x853.jpg" alt="Thanks But No Thanks on the Claudeswarms, Kevin Roose" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +299,6 @@
                 <span class="time">2026-01-26 22:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/ss_1dca9b5175b902ffef349a6743a2d-1280x720.jpg" alt="Highguard Already Has Over 7,000 Negative Reviews On Steam" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/highguard-already-has-over-7000-negative-reviews-on-steam-2000663220" target="_blank">Highguard Already Has Over 7,000 Negative Reviews On Steam</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-26 22:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -334,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 09:06 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 10:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
