@@ -1,40 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-01-27 21:01:38 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-01-27 22:01:34 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, January 27, 2026 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, January 27, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/27/g-s1-107571/fifa-sepp-blatter-boycott-world-cup" target="_blank">Ex-FIFA president Sepp Blatter joins those calling for boycott of World Cup in U.S.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-27 21:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +95,20 @@
                 <span class="time">2026-01-27 16:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/27/gauff-blasts-broadcasters-over-privacy-after-australian-open-racket-smash?traffic_source=rss" target="_blank">Gauff blasts broadcasters over privacy after Australian Open racket smash</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-27 15:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/" target="_blank">Anduril has invented a wild new drone flying contest where jobs are the prize</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-27 21:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,15 +154,6 @@
                 <span class="time">2026-01-27 18:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/27/googles-ai-plus-plan-rolls-out-to-all-markets-including-the-u-s/" target="_blank">Google’s more affordable AI Plus plan rolls out to all markets, including the U.S.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-27 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -180,10 +171,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Vulkan-DriConf-LTO" target="_blank">New Intel Linux Driver Workaround Halves Initial Game Load Time For MHW</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-27 21:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shamsher_khan/what-a-60-second-war-room-scan-reveals-352i" target="_blank">What a 60-second war-room scan reveals</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-27 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://campedersen.com/vcad" target="_blank">Parametric CAD in Rust</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-27 20:36</span>
             </div>
         </div>
 <div class="story">
@@ -202,24 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GStreamer-1.28" target="_blank">GStreamer 1.28 Released With More Rust Code</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-27 19:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18850769&w=600" alt="Building an Internal Document Search Tool with Retrieval-Augmented Generation (RAG)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-an-internal-document-search-tool-with-ret" target="_blank">Building an Internal Document Search Tool with Retrieval-Augmented Generation (RAG)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-27 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mzivkovicdev/spring-crud-generator-a-yamljson-driven-spring-boot-backend-generator-version-update-stability-4mff" target="_blank">Spring CRUD Generator: a YAML/JSON-driven Spring Boot backend generator (version update + stability improvements)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-27 18:55</span>
             </div>
         </div>
 </div>
@@ -241,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/batman-1-1280x720.jpg" alt="Batman: Arkham Parody Perfectly Captures The Horror And Absurdity Of Living In Gotham" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/batman-arkham-parody-perfectly-captures-the-horror-and-absurdity-of-living-in-gotham-2000663597" target="_blank">Batman: Arkham Parody Perfectly Captures The Horror And Absurdity Of Living In Gotham</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-27 21:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KG0MSPQC13ZKCFWQSD506KDR/hero-image.jpg" alt="&#x27;Clawdbot&#x27; Is Now &#x27;Moltbot,&#x27; but Still Carries the Same Security Concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/clawdbot-is-now-moltbot?utm_medium=RSS" target="_blank">&#x27;Clawdbot&#x27; Is Now &#x27;Moltbot,&#x27; but Still Carries the Same Security Concerns</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-27 21:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/star-wars-rebels-maul-death-shadow-lord-1280x853.jpg" alt="Darth Maul’s Second Death Was Worth the Absurdity of His Survival" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +284,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/27/baird.html" target="_blank">Early 3D game pioneer Graeme Baird dead at 63</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-27 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/highguard-steam-change-1280x720.jpg" alt="Highguard Removes Text From Steam Linking It To The Creators Of Titanfall" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/highguard-removes-text-from-steam-linking-it-to-the-creators-of-titanfall-2000663557" target="_blank">Highguard Removes Text From Steam Linking It To The Creators Of Titanfall</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-27 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KG00KV7A8P89N75YZ19EFHJ1/hero-image.jpg" alt="Meta Is Testing Paid Subscriptions for Instagram, WhatsApp, and Facebook" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/meta-is-testing-paid-subscriptions-for-instagram-whatsapp-and-facebook?utm_medium=RSS" target="_blank">Meta Is Testing Paid Subscriptions for Instagram, WhatsApp, and Facebook</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-27 17:30</span>
             </div>
         </div>
 </div>
@@ -341,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
