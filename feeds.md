@@ -1,34 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-01-28 13:16:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-28 14:07:29 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Generated 11 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, January 28, 2026 - 13:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, January 28, 2026 - 14:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c97b/live/151aa270-fc47-11f0-9972-d3f265c101c6.jpg" alt="Trump warns Iran &#x27;time is running out&#x27; as US military builds up in Gulf" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss" target="_blank">Trump warns Iran &#x27;time is running out&#x27; as US military builds up in Gulf</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-28 14:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-ap-jt-260127_1769556988093_hpMain_4x3t_384.jpg" alt="Trump hints at &#x27;more relaxed&#x27; federal tactics in Minnesota after shootings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-hints-relaxed-federal-tactics-minnesota-after-shootings/story?id=129626425" target="_blank">Trump hints at &#x27;more relaxed&#x27; federal tactics in Minnesota after shootings</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-28 13:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/28/syrias-al-sharaa-discusses-fate-of-russian-military-bases-with-putin?traffic_source=rss" target="_blank">Al-Sharaa meets Putin as Russia seeks to secure military bases in Syria</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-28 13:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,33 +104,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/28/video-mozambique-floods-force-thousands-into-displacement?traffic_source=rss" target="_blank">Video: Mozambique floods force thousands into displacement camps</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-28 11:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/28/g-s1-107526/california-world-health-organization-infectious-diseases" target="_blank">As the U.S. bids adieu to the World Health Organization, California says hello</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-28 11:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/28/tech-giant-asml-announces-record-orders-in-boost-for-ai-boom?traffic_source=rss" target="_blank">Tech giant ASML announces record orders in boost for AI boom</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-28 10:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/28/g-s1-107602/cbp-has-a-history-of-excessive-force-critics-say-they-were-unprepared-for-minnesota" target="_blank">CBP has a history of excessive force. Critics say they were unprepared for Minnesota</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-28 10:01</span>
             </div>
         </div>
 </div>
@@ -172,6 +180,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwzeqqof443m0orqz7wg8.gif" alt="Welcome Thread - v362" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devteam/welcome-thread-v362-il4" target="_blank">Welcome Thread - v362</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-28 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/clawdbot-fiasco-explained/" target="_blank">What is this Clawdbot, Err Moltbot, Everyone&amp;#x27;s Screaming About?</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-28 13:06</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -181,39 +207,21 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2026/01/railway-diagnosing-failure/en/headerimage/generatedHeaderImage-1769498508693.jpg" alt="Railway Highlights the Importance of Logs, Metrics, Traces, and Alerts for Diagnosing System Failure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18848136&w=600" alt="Generating Schema-Valid Synthetic ISO 20022 Messages for Privacy-Preserving Fraud Detection" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/railway-diagnosing-failure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Railway Highlights the Importance of Logs, Metrics, Traces, and Alerts for Diagnosing System Failure</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-28 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="When Safety Becomes Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rawveg/when-safety-becomes-control-1k2g" target="_blank">When Safety Becomes Control</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-28 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/bigquery-sql-huggingface-managed/en/headerimage/generatedHeaderImage-1768996012519.jpg" alt="Google BigQuery Adds SQL-Native Managed Inference for Hugging Face Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/bigquery-sql-huggingface-managed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google BigQuery Adds SQL-Native Managed Inference for Hugging Face Models</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-28 10:55</span>
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/synthetic-iso20022-messages-fraud-detection" target="_blank">Generating Schema-Valid Synthetic ISO 20022 Messages for Privacy-Preserving Fraud Detection</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-28 13:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/SonicDE-Improving-KDE-X11-Code" target="_blank">SoniceDE Looks To Preserve &amp; Improve The X11-Specific KDE Code</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-28 10:53</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bmj.com/content/392/bmj.s168" target="_blank">ICE and Palantir: US agents using health data to hunt illegal immigrants</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-28 12:18</span>
             </div>
         </div>
 </div>
@@ -221,6 +229,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KG08QRSFXEBAF7B4JY6ZW7BS/hero-image.png" alt="Nine Essential Products for Digging Your Car Out of the Snow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/best-products-for-digging-your-car-out-of-snow?utm_medium=RSS" target="_blank">Nine Essential Products for Digging Your Car Out of the Snow</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-28 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/peter-claffey-danny-webb-2-1280x853.jpg" alt="I’m Sorry, That ‘A Knight of the Seven Kingdoms’ Prosthetic Was How Big?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +281,6 @@
                 <span class="title"><a href="https://gizmodo.com/faa-could-have-prevented-fatal-d-c-plane-collision-investigation-finds-2000714631" target="_blank">FAA Could Have Prevented Fatal D.C. Plane Collision, Investigation Finds</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-28 00:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/measles.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="South Carolina beats Texas&#x27;s measles high score" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/27/south-carolina-beats-texass-measles-high-score.html" target="_blank">South Carolina beats Texas&#x27;s measles high score</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-28 00:25</span>
             </div>
         </div>
 </div>
@@ -321,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 13:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 14:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
