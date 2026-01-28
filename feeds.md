@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-28 19:05:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-28 20:03:05 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Error processing https://blog.codinghorror.com/rss/: The read operation timed out -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, January 28, 2026 - 19:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, January 28, 2026 - 20:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +45,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/28/nx-s1-5691764/fulton-county-fbi-search-election" target="_blank">The FBI conducts a search at the Fulton County election office in Georgia</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-28 19:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/28/us-federal-reserve-holds-interest-rates-steady-despite-political-pressure?traffic_source=rss" target="_blank">US Federal Reserve holds interest rates steady despite political pressure</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-28 19:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/cbp-minneapolis-pretti-rt-jef-260128_1769614958525_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: 2 officers involved in Pretti shooting placed on leave" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: 2 officers involved in Pretti shooting placed on leave</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-28 18:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769623632690_now_daily_a_agents_onleave_pretti_260128_1920x1080-qbszs3.jpg" alt="DHS: Agents in Alex Pretti shooting put on administrative leave" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/dhs-agents-in-alex-pretti-shooting-put-on-administrative-leave-256744005564" target="_blank">DHS: Agents in Alex Pretti shooting put on administrative leave</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-28 18:07</span>
             </div>
         </div>
 <div class="story">
@@ -71,38 +98,20 @@
                 <span class="time">2026-01-28 16:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/minn-8-ap-gmh-260127_1769540356287_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Trump says Mayor Frey is &#x27;playing with fire&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: Trump says Mayor Frey is &#x27;playing with fire&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-28 16:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/28/nx-s1-5690370/rural-health-fund-states-hospitals" target="_blank">Here&#x27;s what to know about the $50 billion states are getting for rural health</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-28 15:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/28/march-to-honour-cuban-national-hero-expresses-solidarity-against-trump?traffic_source=rss" target="_blank">March to honour Cuban national hero expresses solidarity against Trump</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-28 15:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/869318/claude-vibe-coding-home-assistant-smart-home" target="_blank">I used Claude to vibe-code my wildly overcomplicated smart home</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-28 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/anthem-500x500.jpg" alt="Why reviving the shuttered Anthem is turning out tougher than expected" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +157,6 @@
                 <span class="time">2026-01-28 15:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/869209/beyond-meat-immerse-protein-soda" target="_blank">Beyond Meat’s protein soda might be its last chance and best hope</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-28 15:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +169,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18851373&w=600" alt="2 Hidden Bottlenecks in Large-Scale Azure Migrations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/hidden-bottlenecks-in-large-scale-azure-migration" target="_blank">2 Hidden Bottlenecks in Large-Scale Azure Migrations</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-28 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code" target="_blank">The creator of Clawd: &quot;I ship code I don&#x27;t read&quot;</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-01-28 18:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.0-rc2-Released" target="_blank">Mesa 26.0-rc2 Released With Numerous AMD, NVIDIA &amp; Intel Driver Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-28 18:03</span>
             </div>
         </div>
 <div class="story">
@@ -189,38 +216,20 @@
                 <span class="time">2026-01-28 17:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/foundation-models-ranking/en/mediumimage/moumita-bhattacharya-medium-1768986504738.jpg" alt="Presentation: Foundation Models for Ranking: Challenges, Successes, and Lessons Learned" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/foundation-models-ranking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Foundation Models for Ranking: Challenges, Successes, and Lessons Learned</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-28 17:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/" target="_blank">From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-01-28 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FreeType-Faster-ClearType-Like" target="_blank">FreeType Speeds-Up ClearType-Like LCD Filter Rendering By 40%</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-28 16:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/starlink-launch-1-1280x853.jpg" alt="SpaceX Won’t Go Public Until the Planets Literally Align, Sources Say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/spacex-wont-go-public-until-the-planets-literally-align-sources-say-2000715151" target="_blank">SpaceX Won’t Go Public Until the Planets Literally Align, Sources Say</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-28 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/01/elon-musk-nazi-salute-1280x853.jpg" alt="The CEO of the ADL Said Elon Musk Is the ‘Henry Ford of Our Time.’ Unfortunately, He Was Right." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +275,6 @@
                 <span class="time">2026-01-28 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KG2J6ZBYNYSPGYM00W05YDGS/hero-image.png" alt="The GoPro Hero12 Black Is One of the Best Action Cameras, and It&#x27;s 42% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/gopro-hero12-black-sale-january-2026?utm_medium=RSS" target="_blank">The GoPro Hero12 Black Is One of the Best Action Cameras, and It&#x27;s 42% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-28 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,6 +308,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/chemical_formula.png" alt="Chemical Formula" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3200/" target="_blank">Chemical Formula</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-01-28 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5753.png" alt="What Happened" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -321,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 19:06 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 20:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
