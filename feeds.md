@@ -1,4 +1,5 @@
-<!-- Processing 54 RSS feeds at 2026-01-28 21:05:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-28 22:03:54 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
@@ -9,30 +10,30 @@
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, January 28, 2026 - 21:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, January 28, 2026 - 22:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/28/israels-top-court-delays-gaza-press-access-ruling-amid-years-long-ban?traffic_source=rss" target="_blank">Israel’s top court delays Gaza press access ruling amid years-long ban</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-28 21:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +103,20 @@
                 <span class="time">2026-01-28 18:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c97b/live/151aa270-fc47-11f0-9972-d3f265c101c6.jpg" alt="Trump warns Iran &#x27;time is running out&#x27; for nuclear deal as US military builds up in Gulf" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss" target="_blank">Trump warns Iran &#x27;time is running out&#x27; for nuclear deal as US military builds up in Gulf</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-28 16:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Screenshot-2026-01-28-at-4.09.33-PM-500x500-1769634775.jpeg" alt="Seven things to know about how Apple&#x27;s Creator Studio subscriptions work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/seven-things-to-know-about-how-apples-creator-studio-subscriptions-work/" target="_blank">Seven things to know about how Apple&#x27;s Creator Studio subscriptions work</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-28 21:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/starlink-snow-500x500.jpg" alt="Starlink demands grant money from states even when residents don&#x27;t buy service" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,15 +162,6 @@
                 <span class="time">2026-01-28 18:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/" target="_blank">Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-28 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +174,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/debashis_das_4deca65ec224/emmet-for-html-a-beginners-guide-to-writing-faster-markup-bl0" target="_blank">Emmet for HTML: A Beginner’s Guide to Writing Faster Markup</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-28 21:48</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.0-rc2-Released" target="_blank">Mesa 26.0-rc2 Released With Numerous AMD, NVIDIA &amp; Intel Driver Fixes</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-28 18:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frmbhavd8gdxplhj8g5tx.png" alt="pam - a minimal SQL client for the CLI (dbeaver terminalized!)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/eduardofuncao/pam-a-minimal-sql-client-for-the-cli-dbeaver-terminalized-1fib" target="_blank">pam - a minimal SQL client for the CLI (dbeaver terminalized!)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-28 17:55</span>
             </div>
         </div>
 </div>
@@ -343,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 21:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 22:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
