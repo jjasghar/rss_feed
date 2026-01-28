@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-28 12:02:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-28 13:16:42 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, January 28, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, January 28, 2026 - 13:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/28/nx-s1-5690365/rubio-senate-venezuela" target="_blank">Rubio braces for Senate scrutiny over Venezuela</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-28 13:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5605/live/76d55200-fc45-11f0-a8b8-bdd2c5f9bcad.jpg" alt="I will speak out on misogyny, first female Archbishop of Canterbury tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7v0948vm9go?at_medium=RSS&at_campaign=rss" target="_blank">I will speak out on misogyny, first female Archbishop of Canterbury tells BBC</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-28 12:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +98,29 @@
                 <span class="time">2026-01-28 10:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/28/video-israeli-settlers-carry-out-arson-attacks-in-occupied-west-bank?traffic_source=rss" target="_blank">Video: Israeli settlers carry out arson attacks in occupied West Bank</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-28 08:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/28/nx-s1-5691086/mexico-oil-shipments-cuba" target="_blank">Mexican president says her country has paused oil shipments to Cuba</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-28 07:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69791ad3fe334c9b0b7e9539/master/pass/Review-%20Sony%20Bravia%205%20Mini%20LED%20TV.png" alt="Sony Bravia 5 Review: An Excellent Mid-Tier TV for Cinephiles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/sony-bravia-5/" target="_blank">Sony Bravia 5 Review: An Excellent Mid-Tier TV for Cinephiles</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-28 13:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/clawdbot_1-500x500.jpg" alt="Users flock to open source Moltbot for always-on AI, despite major risks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/" target="_blank">Users flock to open source Moltbot for always-on AI, despite major risks</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-28 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/697247cdc4d50290ca091961/master/pass/012225_Offline-Club.jpg" alt="No Phone, No Social Safety Net: Welcome to the ‘Offline Club’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,24 +157,6 @@
                 <span class="time">2026-01-28 06:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/27/google-photos-brings-its-prompt-based-editing-feature-to-india-australia-and-japan/" target="_blank">Google Photos brings its prompt-based editing feature to India, Australia and Japan</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-28 06:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/27/indias-shadowfax-slips-on-listing-as-client-concentration-spooks-investors/" target="_blank">India’s Shadowfax slips on listing, as client concentration spooks investors</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-28 05:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +169,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/olucasandrade/cleaning-github-repositories-prs-and-issues-in-bulk-like-a-pro-479e" target="_blank">Cleaning Github repositories, PRs and issues in bulk like a Pro</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-28 13:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/railway-diagnosing-failure/en/headerimage/generatedHeaderImage-1769498508693.jpg" alt="Railway Highlights the Importance of Logs, Metrics, Traces, and Alerts for Diagnosing System Failure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/railway-diagnosing-failure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Railway Highlights the Importance of Logs, Metrics, Traces, and Alerts for Diagnosing System Failure</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-28 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -205,29 +216,29 @@
                 <span class="time">2026-01-28 10:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://andrewgy8.github.io/hnarcade/" target="_blank">Show HN: The HN Arcade</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-28 10:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/suchismita_moharana_f8e8a/python-functions-arguments-from-basics-to-args-and-kwargs-ba1" target="_blank">Python Functions &amp; Arguments: From Basics to *args and **kwargs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-28 09:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/peter-claffey-danny-webb-2-1280x853.jpg" alt="I’m Sorry, That ‘A Knight of the Seven Kingdoms’ Prosthetic Was How Big?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/im-sorry-that-a-knight-of-the-seven-kingdoms-prosthetic-was-how-big-2000714724" target="_blank">I’m Sorry, That ‘A Knight of the Seven Kingdoms’ Prosthetic Was How Big?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-28 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KG0DWB059DMVF34C4KGY3QAV/hero-image.jpg" alt="10 Hacks Every Firefox User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-firefox-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Firefox User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-28 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/noem-horse.jpg?fit=1080%2C683&amp;quality=60&amp;ssl=1" alt="Five-year-old US citizen deported to Honduras" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,24 +273,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/27/south-carolina-beats-texass-measles-high-score.html" target="_blank">South Carolina beats Texas&#x27;s measles high score</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-28 00:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/P2__1_-1280x853.jpg" alt="OpenAI’s New Product Helps You Do ‘Vibe Physics’ Like Travis Kalanick" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/openais-new-product-helps-you-do-vibe-physics-like-travis-kalanick-2000714626" target="_blank">OpenAI’s New Product Helps You Do ‘Vibe Physics’ Like Travis Kalanick</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-27 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KFXD5JWS1HXGYH104E0HRA4Q/hero-image.jpg" alt="12 Shows Like &#x27;His &amp; Hers&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-his-hers-to-watch-next?utm_medium=RSS" target="_blank">12 Shows Like &#x27;His &amp; Hers&#x27; You Should Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-27 23:30</span>
             </div>
         </div>
 </div>
@@ -328,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 13:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
