@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-28 22:03:54 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-28 23:03:53 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, January 28, 2026 - 22:04 UTC</div>
+    <div class="newspaper-date">Wednesday, January 28, 2026 - 23:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/1/28/what-will-be-the-impact-of-the-eu-india-trade-pact?traffic_source=rss" target="_blank">What will be the impact of the EU-India trade pact?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-28 22:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +96,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: 2 officers involved in Pretti shooting placed on leave</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-28 18:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769623632690_now_daily_a_agents_onleave_pretti_260128_1920x1080-qbszs3.jpg" alt="DHS: Agents in Alex Pretti shooting put on administrative leave" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/dhs-agents-in-alex-pretti-shooting-put-on-administrative-leave-256744005564" target="_blank">DHS: Agents in Alex Pretti shooting put on administrative leave</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-28 18:07</span>
             </div>
         </div>
 </div>
@@ -188,6 +183,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wasmer-7.0-Released" target="_blank">Wasmer 7.0 Released For Advancing WebAssembly On The Desktop &amp; Anywhere</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-28 21:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kobbyprincee/horizontal-scaling-postgresql-with-citus-a-practical-deep-dive-3kf7" target="_blank">Horizontal Scaling PostgreSQL with Citus: A Practical Deep Dive</a></span>
                 <span class="feed">DEV Community</span>
@@ -212,20 +216,20 @@
                 <span class="time">2026-01-28 18:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.0-rc2-Released" target="_blank">Mesa 26.0-rc2 Released With Numerous AMD, NVIDIA &amp; Intel Driver Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-28 18:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/Xbox.jpg" alt="Xbox Hardware Is Still Falling, Falling, Falling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-earnings-q2-game-pass-hardware-next-gen-pc-2000663911" target="_blank">Xbox Hardware Is Still Falling, Falling, Falling</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-28 22:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/Screenshot-2026-01-28-154423-1280x762.jpg" alt="10 Tips To Know Before You Start Playing Code Vein 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +273,6 @@
                 <span class="title"><a href="https://kotaku.com/kingdom-come-deliverance-ps5-upgrade-2000663837" target="_blank">Kingdom Come: Deliverance Will Get A Much Needed ‘Next-Gen’ Upgrade Eight Years Later</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-28 17:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/tool.webp?fit=980%2C653&amp;quality=55&amp;ssl=1" alt="430,000-year-old tool found in Greece" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/28/430000-year-old-tool-found-in-greece.html" target="_blank">430,000-year-old tool found in Greece</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-28 17:12</span>
             </div>
         </div>
 </div>
@@ -344,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 22:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 23:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
