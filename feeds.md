@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-01-28 02:39:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-28 03:30:38 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, January 28, 2026 - 02:39 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, January 28, 2026 - 03:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/28/trump-talks-up-strength-of-us-economy-in-advance-of-midterm-elections?traffic_source=rss" target="_blank">President talks up strength of US economy in advance of midterm elections</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-28 03:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769565985288_now_staytuned_ilhan_omar_minneapolis_260127_1920x1080-nuazk6.jpg" alt="Man sprays substance at Rep. Ilhan Omar during town hall in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/man-sprays-substance-at-rep-ilhan-omar-during-town-hall-in-minneapolis-256704069860" target="_blank">Man sprays substance at Rep. Ilhan Omar during town hall in Minneapolis</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-28 02:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2254/live/8dc47bd0-fbd7-11f0-8102-f9e135ba58e0.jpg" alt="Trump says government will &#x27;de-escalate&#x27; in Minnesota following Pretti shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,30 +87,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-donald-trump-minneapolis_7147960.jpg?20260128010414" alt="Trump wants to &#x27;de-escalate&#x27; in Minneapolis - but says ICE victim shouldn&#x27;t have carried gun" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-donald-trump-minneapolis_7147960.jpg?20260128010414" alt="He wasn&#x27;t a would-be assassin, Trump says of ICE victim" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-wants-to-de-escalate-in-minneapolis-but-says-ice-victim-shouldnt-have-carried-gun-13499878" target="_blank">Trump wants to &#x27;de-escalate&#x27; in Minneapolis - but says ICE victim shouldn&#x27;t have carried gun</a></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-wants-to-de-escalate-in-minneapolis-but-says-ice-victim-shouldnt-have-carried-gun-13499878" target="_blank">He wasn&#x27;t a would-be assassin, Trump says of ICE victim</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-01-28 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769558651505_nn_cbe_alex_pretti_death_ice_outrage_260127_1920x1080-ald3ya.jpg" alt="New video shows moments before Pretti shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-video-shows-moments-before-pretti-shooting-256695365829" target="_blank">New video shows moments before Pretti shooting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-28 00:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/minn-19-ht-gmh-260123_1769454964887_hpMain_4x3t_384.jpg" alt="DHS report says 2 agents fired weapons in Alex Pretti shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/dhs-report-2-agents-fired-weapons-alex-pretti/story?id=129614976" target="_blank">DHS report says 2 agents fired weapons in Alex Pretti shooting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-27 23:55</span>
             </div>
         </div>
 </div>
@@ -105,6 +100,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/27/what-you-should-know-about-the-owners-of-us-tiktok/" target="_blank">What you should know about the owners of US TikTok</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-28 03:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +154,6 @@
                 <span class="time">2026-01-27 20:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/696fc239ca96f83356758b0e/master/pass/HBO-Show-Guide-Culture-peter-claffey.jpg" alt="The 50 Best Shows on HBO Max, WIRED’s Picks (February 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/" target="_blank">The 50 Best Shows on HBO Max, WIRED’s Picks (February 2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-27 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -180,6 +175,15 @@
                 <span class="title"><a href="https://dev.to/manukumar07/5-ai-prompting-mistakes-developers-make-25fa" target="_blank">5 AI Prompting Mistakes Developers Make</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-28 02:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://monkeyball-online.pages.dev/" target="_blank">Super Monkey Ball ported to a website</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-28 01:44</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/vivek_ae4cbc77ec323c6a68a/building-a-financial-lead-scoring-platform-algolia-challenge-25ap" target="_blank">Building a Financial Lead Scoring Platform - Algolia Challenge</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-27 23:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vishalmysore/agentic-ai-and-human-in-the-loop-a-practical-implementation-with-java-25de" target="_blank">Agentic AI and Human-in-the-Loop: A Practical Implementation with Java</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-27 22:53</span>
             </div>
         </div>
 </div>
@@ -256,6 +251,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KFXD5JWS1HXGYH104E0HRA4Q/hero-image.jpg" alt="12 Shows Like &#x27;His &amp; Hers&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-his-hers-to-watch-next?utm_medium=RSS" target="_blank">12 Shows Like &#x27;His &amp; Hers&#x27; You Should Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-27 23:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Uber-AV-Labs-1280x853.jpg" alt="Uber Creates ‘AV Labs’ To Leverage Data For Future Robotaxi Routes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -280,15 +284,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/27/for-40-you-can-get-both-ms-office-pro-2021-and-windows-11-pro.html" target="_blank">For $40 you can get both MS Office Pro 2021 and Windows 11 Pro</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-27 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/batman-1-1280x720.jpg" alt="Batman: Arkham Parody Perfectly Captures The Horror And Absurdity Of Living In Gotham" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/batman-arkham-parody-perfectly-captures-the-horror-and-absurdity-of-living-in-gotham-2000663597" target="_blank">Batman: Arkham Parody Perfectly Captures The Horror And Absurdity Of Living In Gotham</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-27 21:41</span>
             </div>
         </div>
 </div>
@@ -319,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 02:39 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 03:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
