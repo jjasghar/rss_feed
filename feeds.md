@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-28 18:04:10 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-28 19:05:57 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, January 28, 2026 - 18:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, January 28, 2026 - 19:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cbp-minneapolis-pretti-rt-jef-260128_1769614958525_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: 2 officers involved in Pretti shooting placed on leave" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: 2 officers involved in Pretti shooting placed on leave</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-28 18:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c97b/live/151aa270-fc47-11f0-9972-d3f265c101c6.jpg" alt="Trump warns Iran &#x27;time is running out&#x27; for nuclear deal as US military builds up in Gulf" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +98,20 @@
                 <span class="time">2026-01-28 15:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260125-minnesota-shooting-bf-1316-9860d6.jpg" alt="Questions swirl around federal government&#x27;s plan to investigate DHS shootings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/questions-swirl-federal-governments-plan-investigate-dhs-shootings-rcna255989" target="_blank">Questions swirl around federal government&#x27;s plan to investigate DHS shootings</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-28 15:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/anthem-500x500.jpg" alt="Why reviving the shuttered Anthem is turning out tougher than expected" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/01/why-reviving-the-shuttered-anthem-is-turning-out-tougher-than-expected/" target="_blank">Why reviving the shuttered Anthem is turning out tougher than expected</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-28 18:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +155,6 @@
                 <span class="title"><a href="https://www.theverge.com/science/869209/beyond-meat-immerse-protein-soda" target="_blank">Beyond Meat’s protein soda might be its last chance and best hope</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-28 15:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/28/the-conference-where-founders-scale-founder-summit-2026-tickets-are-now-live-at-the-lowest-prices/" target="_blank">The conference where founders scale: TechCrunch Founder Summit 2026 tickets are now live at the lowest prices</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-28 15:00</span>
             </div>
         </div>
 </div>
@@ -223,6 +222,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/01/elon-musk-nazi-salute-1280x853.jpg" alt="The CEO of the ADL Said Elon Musk Is the ‘Henry Ford of Our Time.’ Unfortunately, He Was Right." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-ceo-of-the-adl-said-elon-musk-was-the-henry-ford-of-his-time-unfortunately-he-was-right-2000715058" target="_blank">The CEO of the ADL Said Elon Musk Is the ‘Henry Ford of Our Time.’ Unfortunately, He Was Right.</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-28 18:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/Screenshot-2026-01-28-124745.jpg" alt="Kingdom Come: Deliverance Will Get A Much Needed ‘Next-Gen’ Upgrade Eight Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -267,20 +275,20 @@
                 <span class="time">2026-01-28 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/eero-6-1280x853.jpg" alt="Amazon Clears Out eero 6+ Mesh Wi-Fi Routers at an All-Time Low, 4-Pack Bundle Now Matches the 3-Pack Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-clears-out-eero-6-mesh-wi-fi-routers-at-an-all-time-low-4-pack-bundle-now-matches-the-3-pack-price-2000663612" target="_blank">Amazon Clears Out eero 6+ Mesh Wi-Fi Routers at an All-Time Low, 4-Pack Bundle Now Matches the 3-Pack Price</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-28 16:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/as-an-adult/" target="_blank">As an Adult</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-01-28 17:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1769389831-20260128.png" alt="Saturday Morning Breakfast Cereal - It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -308,22 +316,13 @@
                 <span class="time">2026-01-28 01:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/27/highguard" target="_blank">Highguard</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-27 18:55</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 18:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 19:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
