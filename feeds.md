@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-28 17:09:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-28 18:04:10 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, January 28, 2026 - 17:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, January 28, 2026 - 18:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +105,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/869354/halide-mark-iii-process-zero-update" target="_blank">Process Zero II will let you do a little processing, if you want</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-28 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/" target="_blank">Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-28 18:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/697921802a25347a226ac7cb/master/pass/politics_tina_peters_trump_election.jpg" alt="Election Denier Tina Peters Was ‘Pardoned’ by Trump. She’s Still in Prison" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -142,24 +158,6 @@
                 <span class="time">2026-01-28 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2013/02/3f05379v-e1360003011507-500x500.jpeg" alt="The origin story of syphilis goes back far longer than we thought" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/01/the-origin-story-of-syphilis-goes-back-far-longer-than-we-thought/" target="_blank">The origin story of syphilis goes back far longer than we thought</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-28 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6979a062227ac0c895c5e652/master/pass/Review--AMD-Ryzen-7-9850X3D-CPU.jpg" alt="AMD Ryzen 7 9850X3D CPU Review: Gaming’s Best Chip" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/amd-ryzen-7-9850x3d/" target="_blank">AMD Ryzen 7 9850X3D CPU Review: Gaming’s Best Chip</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-28 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +170,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frmbhavd8gdxplhj8g5tx.png" alt="pam - a minimal SQL client for the CLI (dbeaver terminalized!)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/eduardofuncao/pam-a-minimal-sql-client-for-the-cli-dbeaver-terminalized-1fib" target="_blank">pam - a minimal SQL client for the CLI (dbeaver terminalized!)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-28 17:55</span>
             </div>
         </div>
 <div class="story">
@@ -195,28 +202,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FreeType-Faster-ClearType-Like" target="_blank">FreeType Speeds-Up ClearType-Like LCD Filter Rendering By 40%</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-28 16:23</span>
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/" target="_blank">From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-01-28 17:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ldwit/deploying-a-react-app-with-nginx-on-aws-amazon-linux-beginner-walkthrough-3h76" target="_blank">🚀 Deploying a React App with NGINX on AWS (Amazon Linux) — Beginner Walkthrough</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-28 16:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18809920&w=600" alt="The Serverless Ceiling: Designing Write-Heavy Backends With Aurora Limitless" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/the-serverless-ceiling-designing-write-heavy-backe" target="_blank">The Serverless Ceiling: Designing Write-Heavy Backends With Aurora Limitless</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-28 15:00</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FreeType-Faster-ClearType-Like" target="_blank">FreeType Speeds-Up ClearType-Like LCD Filter Rendering By 40%</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-28 16:23</span>
             </div>
         </div>
 </div>
@@ -224,6 +222,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/Screenshot-2026-01-28-124745.jpg" alt="Kingdom Come: Deliverance Will Get A Much Needed ‘Next-Gen’ Upgrade Eight Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kingdom-come-deliverance-ps5-upgrade-2000663837" target="_blank">Kingdom Come: Deliverance Will Get A Much Needed ‘Next-Gen’ Upgrade Eight Years Later</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-28 17:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/tool.webp?fit=980%2C653&amp;quality=55&amp;ssl=1" alt="430,000-year-old tool found in Greece" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/28/430000-year-old-tool-found-in-greece.html" target="_blank">430,000-year-old tool found in Greece</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-28 17:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/psplus-feb2026-1280x720.jpg" alt="February’s PlayStation Plus Games Are A Wild Mix" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -258,24 +274,6 @@
                 <span class="title"><a href="https://kotaku.com/amazon-clears-out-eero-6-mesh-wi-fi-routers-at-an-all-time-low-4-pack-bundle-now-matches-the-3-pack-price-2000663612" target="_blank">Amazon Clears Out eero 6+ Mesh Wi-Fi Routers at an All-Time Low, 4-Pack Bundle Now Matches the 3-Pack Price</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-28 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/PowerANintendoController-1280x853.jpg" alt="PowerA’s Alternative to the Nintendo Switch 2 Pro Controller Is a No Brainer at Less Than Half Its Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/poweras-alternative-to-the-nintendo-switch-2-pro-controller-is-a-no-brainer-at-less-than-half-its-price-2000663633" target="_blank">PowerA’s Alternative to the Nintendo Switch 2 Pro Controller Is a No Brainer at Less Than Half Its Price</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-28 14:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KG08QRSFXEBAF7B4JY6ZW7BS/hero-image.png" alt="Nine Essential Products for Digging Your Car Out of the Snow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/best-products-for-digging-your-car-out-of-snow?utm_medium=RSS" target="_blank">Nine Essential Products for Digging Your Car Out of the Snow</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-28 13:30</span>
             </div>
         </div>
 </div>
@@ -324,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 17:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 18:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
