@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-28 11:03:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-28 12:02:28 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, January 28, 2026 - 11:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, January 28, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/28/video-mozambique-floods-force-thousands-into-displacement?traffic_source=rss" target="_blank">Video: Mozambique floods force thousands into displacement camps</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-28 11:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/28/g-s1-107526/california-world-health-organization-infectious-diseases" target="_blank">As the U.S. bids adieu to the World Health Organization, California says hello</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-28 11:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +105,29 @@
                 <span class="time">2026-01-28 07:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/miller-main_1769584466432_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Stephen Miller says CBP may not have followed protocol" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: Stephen Miller says CBP may not have followed protocol</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-28 07:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/28/south-koreas-former-first-lady-sentenced-to-jail-term-in-bribery-case?traffic_source=rss" target="_blank">South Korea’s former first lady sentenced to jail term in bribery case</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-28 07:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/697247cdc4d50290ca091961/master/pass/012225_Offline-Club.jpg" alt="No Phone, No Social Safety Net: Welcome to the ‘Offline Club’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/europe-offline-club-phone-addiction/" target="_blank">No Phone, No Social Safety Net: Welcome to the ‘Offline Club’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-28 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk" target="_blank">Grok is the most antisemitic chatbot according to the ADL</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-28 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,24 +164,6 @@
                 <span class="time">2026-01-28 05:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/27/what-you-should-know-about-the-owners-of-us-tiktok/" target="_blank">What you should know about the owners of US TikTok</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-28 03:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/868941/clarity-act-congress-shutdown" target="_blank">The crypto bill is falling apart in Congress</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-28 01:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +176,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="When Safety Becomes Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rawveg/when-safety-becomes-control-1k2g" target="_blank">When Safety Becomes Control</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-28 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -191,42 +208,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://andrewgy8.github.io/hnarcade/" target="_blank">Show HN: The HN Arcade</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-28 10:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/suchismita_moharana_f8e8a/python-functions-arguments-from-basics-to-args-and-kwargs-ba1" target="_blank">Python Functions &amp; Arguments: From Basics to *args and **kwargs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-28 09:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.ed.nl/binnenland/asml-wil-veel-managementbanen-schrappen-rekent-op-1700-ontslagen~a04807f1/" target="_blank">ASML firing 1700 people, mostly managers</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-28 08:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dinesh_04/why-my-blender-scene-looked-flat-until-lighting-clicked-412l" target="_blank">Why My Blender Scene Looked Flat Until Lighting Clicked</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-28 07:53</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/the-constitutionality-of-geofence-warrants.html" target="_blank">The Constitutionality of Geofence Warrants</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-01-27 12:01</span>
             </div>
         </div>
 </div>
@@ -234,6 +228,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/noem-horse.jpg?fit=1080%2C683&amp;quality=60&amp;ssl=1" alt="Five-year-old US citizen deported to Honduras" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/28/five-year-old-us-citizen-deported-to-honduras.html" target="_blank">Five-year-old US citizen deported to Honduras</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-28 11:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/tim-cook-1280x872.jpg" alt="Tim Cook Wants ‘Deescalation’ in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +280,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-his-hers-to-watch-next?utm_medium=RSS" target="_blank">12 Shows Like &#x27;His &amp; Hers&#x27; You Should Watch Next</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-27 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Uber-AV-Labs-1280x853.jpg" alt="Uber Creates ‘AV Labs’ To Leverage Data For Future Robotaxi Routes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/uber-creates-av-labs-to-leverage-data-for-future-robotaxi-routes-2000714658" target="_blank">Uber Creates ‘AV Labs’ To Leverage Data For Future Robotaxi Routes</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-27 23:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 11:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
