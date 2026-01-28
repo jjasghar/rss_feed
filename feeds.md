@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-28 01:30:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-28 02:39:33 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, January 28, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, January 28, 2026 - 02:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +47,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2254/live/8dc47bd0-fbd7-11f0-8102-f9e135ba58e0.jpg" alt="Trump says government will &#x27;de-escalate&#x27; in Minnesota following Pretti shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says government will &#x27;de-escalate&#x27; in Minnesota following Pretti shooting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-28 01:33</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -50,48 +65,39 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/27/g-s1-107608/alex-pretti-death-internal-review-immigration" target="_blank">Internal review contradicts White House narrative of Pretti&#x27;s death</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-28 01:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-donald-trump-minneapolis_7147960.jpg?20260128010414" alt="Trump wants to &#x27;de-escalate&#x27; in Minneapolis - but says ICE victim shouldn&#x27;t have carried gun" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-wants-to-de-escalate-in-minneapolis-but-says-ice-victim-shouldnt-have-carried-gun-13499878" target="_blank">Trump wants to &#x27;de-escalate&#x27; in Minneapolis - but says ICE victim shouldn&#x27;t have carried gun</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-28 00:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769558651505_nn_cbe_alex_pretti_death_ice_outrage_260127_1920x1080-ald3ya.jpg" alt="New video shows moments before Pretti shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-video-shows-moments-before-pretti-shooting-256695365829" target="_blank">New video shows moments before Pretti shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-28 00:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/minn-19-ht-gmh-260123_1769454964887_hpMain_4x3t_384.jpg" alt="DHS report says 2 agents fired weapons in Alex Pretti shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Politics/dhs-report-2-agents-fired-weapons-alex-pretti/story?id=129614976" target="_blank">DHS report says 2 agents fired weapons in Alex Pretti shooting</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-27 23:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/27/trump-says-us-will-end-support-for-iraq-if-al-maliki-reinstated-as-pm?traffic_source=rss" target="_blank">Trump says US will end support for Iraq if al-Maliki reinstated as PM</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-27 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/27/mexico-vows-solidarity-with-cuba-after-oil-shipment-cancellation-report?traffic_source=rss" target="_blank">Mexico vows ‘solidarity’ with Cuba after oil shipment cancellation reports</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-27 22:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/27/g-s1-107584/winter-storm-2026-deaths-power-outages" target="_blank">Bitter cold grips the eastern U.S. as storm deaths rise and power outages linger</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-27 22:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf27/live/7cb930e0-fbb1-11f0-b852-153f64f31c74.jpg" alt="Prime minister flies to China for three-day visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy8p2re7gj5o?at_medium=RSS&at_campaign=rss" target="_blank">Prime minister flies to China for three-day visit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-27 22:31</span>
             </div>
         </div>
 </div>
@@ -106,6 +112,15 @@
                 <span class="title"><a href="https://www.theverge.com/column/868941/clarity-act-congress-shutdown" target="_blank">The crypto bill is falling apart in Congress</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-28 01:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/" target="_blank">Everything you need to know about viral personal AI assistant Clawdbot (now Moltbot)</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-28 00:12</span>
             </div>
         </div>
 <div class="story">
@@ -144,15 +159,6 @@
                 <span class="time">2026-01-27 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/27/tiktok-joins-snap-to-settle-social-media-addiction-lawsuit/" target="_blank">TikTok joins Snap to settle social media addiction lawsuit</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-27 19:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,6 +171,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/manukumar07/5-ai-prompting-mistakes-developers-make-25fa" target="_blank">5 AI Prompting Mistakes Developers Make</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-28 02:36</span>
             </div>
         </div>
 <div class="story">
@@ -201,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/vishalmysore/agentic-ai-and-human-in-the-loop-a-practical-implementation-with-java-25de" target="_blank">Agentic AI and Human-in-the-Loop: A Practical Implementation with Java</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-27 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Vulkan-DriConf-LTO" target="_blank">New Intel Linux Driver Workaround Halves Initial Game Load Time For MHW</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-27 21:16</span>
             </div>
         </div>
 </div>
@@ -314,7 +320,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 01:30 UTC
+        🔄 Last Updated: 02:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
