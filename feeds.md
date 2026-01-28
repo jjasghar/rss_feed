@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-28 07:05:33 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-01-28 08:02:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, January 28, 2026 - 07:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, January 28, 2026 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/28/south-koreas-former-first-lady-sentenced-to-jail-term-in-bribery-case?traffic_source=rss" target="_blank">South Korea’s former first lady sentenced to jail term in bribery case</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-28 07:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +101,6 @@
                 <span class="time">2026-01-28 02:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769565985288_now_staytuned_ilhan_omar_minneapolis_260127_1920x1080-nuazk6.jpg" alt="Man sprays substance at Rep. Ilhan Omar during town hall in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/man-sprays-substance-at-rep-ilhan-omar-during-town-hall-in-minneapolis-256704069860" target="_blank">Man sprays substance at Rep. Ilhan Omar during town hall in Minneapolis</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-28 02:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -113,6 +113,15 @@
                 <span class="title"><a href="https://www.wired.com/story/we-vibe-discount-code/" target="_blank">We-Vibe Discount Codes and Deals: Up to 60% Off</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-01-28 06:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/27/google-photos-brings-its-prompt-based-editing-feature-to-india-australia-and-japan/" target="_blank">Google Photos brings its prompt-based editing feature to India, Australia and Japan</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-28 06:07</span>
             </div>
         </div>
 <div class="story">
@@ -151,15 +160,6 @@
                 <span class="time">2026-01-28 00:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2201503706-500x500.jpg" alt="Dozens of CDC vaccination databases have been frozen under RFK Jr." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/01/rfk-jr-lets-cdc-vaccination-data-rot-dozens-of-databases-frozen/" target="_blank">Dozens of CDC vaccination databases have been frozen under RFK Jr.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-27 23:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +172,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dinesh_04/why-my-blender-scene-looked-flat-until-lighting-clicked-412l" target="_blank">Why My Blender Scene Looked Flat Until Lighting Clicked</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-28 07:53</span>
             </div>
         </div>
 <div class="story">
@@ -210,15 +219,6 @@
                 <span class="time">2026-01-28 02:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://monkeyball-online.pages.dev/" target="_blank">Super Monkey Ball ported to a website</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-28 01:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/tim-cook-1280x872.jpg" alt="Tim Cook Wants ‘Deescalation’ in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tim-cook-wants-deescalation-in-minneapolis-2000714854" target="_blank">Tim Cook Wants ‘Deescalation’ in Minneapolis</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-28 05:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/01/PotomacCrash-1280x853.jpg" alt="FAA Could Have Prevented Fatal D.C. Plane Collision, Investigation Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +292,6 @@
                 <span class="time">2026-01-27 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KG0MP0W5QZAZ11NRHBFJX3NR/hero-image.png" alt="How to Get Your Share of These Billion Dollar Amazon Settlements" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-get-your-share-of-the-amazon-settlements?utm_medium=RSS" target="_blank">How to Get Your Share of These Billion Dollar Amazon Settlements</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-27 22:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 07:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
