@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-28 03:30:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-28 04:17:25 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, January 28, 2026 - 03:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, January 28, 2026 - 04:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,9 +53,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/28/trump-talks-up-strength-of-us-economy-in-advance-of-midterm-elections?traffic_source=rss" target="_blank">President talks up strength of US economy amid outrage in Minnesota</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-28 03:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/28/trump-talks-up-strength-of-us-economy-in-advance-of-midterm-elections?traffic_source=rss" target="_blank">President talks up strength of US economy in advance of midterm elections</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-28 03:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/27/g-s1-107625/ilhan-omar-sprayed-town-hall" target="_blank">Rep. Ilhan Omar rushed on stage and sprayed with liquid at town hall event</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-28 02:54</span>
             </div>
         </div>
 <div class="story">
@@ -75,24 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/28/russia-ukraine-war-list-of-key-events-day-1434?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,434</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-28 01:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/27/g-s1-107608/alex-pretti-death-internal-review-immigration" target="_blank">Internal review contradicts White House narrative of Pretti&#x27;s death</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-28 01:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-donald-trump-minneapolis_7147960.jpg?20260128010414" alt="He wasn&#x27;t a would-be assassin, Trump says of ICE victim" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-wants-to-de-escalate-in-minneapolis-but-says-ice-victim-shouldnt-have-carried-gun-13499878" target="_blank">He wasn&#x27;t a would-be assassin, Trump says of ICE victim</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-28 00:12</span>
             </div>
         </div>
 </div>
@@ -172,6 +180,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/realnamehidden1_61/the-architects-blueprint-rest-api-best-practices-in-apigee-x-5gp7" target="_blank">The Architect’s Blueprint: REST API Best Practices in Apigee X</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-28 04:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/manukumar07/5-ai-prompting-mistakes-developers-make-25fa" target="_blank">5 AI Prompting Mistakes Developers Make</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-28 02:36</span>
@@ -204,15 +221,6 @@
                 <span class="time">2026-01-28 01:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqi9ru33n0ikpez609jys.png" alt="Building a Financial Lead Scoring Platform - Algolia Challenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vivek_ae4cbc77ec323c6a68a/building-a-financial-lead-scoring-platform-algolia-challenge-25ap" target="_blank">Building a Financial Lead Scoring Platform - Algolia Challenge</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-27 23:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +247,15 @@
                 <span class="title"><a href="https://gizmodo.com/faa-could-have-prevented-fatal-d-c-plane-collision-investigation-finds-2000714631" target="_blank">FAA Could Have Prevented Fatal D.C. Plane Collision, Investigation Finds</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-28 00:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/measles.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="South Carolina beats Texas&#x27;s measles high score" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/27/south-carolina-beats-texass-measles-high-score.html" target="_blank">South Carolina beats Texas&#x27;s measles high score</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-28 00:25</span>
             </div>
         </div>
 <div class="story">
@@ -277,15 +294,6 @@
                 <span class="time">2026-01-27 22:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="For $40 you can get both MS Office Pro 2021 and Windows 11 Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/27/for-40-you-can-get-both-ms-office-pro-2021-and-windows-11-pro.html" target="_blank">For $40 you can get both MS Office Pro 2021 and Windows 11 Pro</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-27 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 03:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 04:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
