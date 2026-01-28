@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-28 10:03:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-28 11:03:55 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, January 28, 2026 - 10:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, January 28, 2026 - 11:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/28/tech-giant-asml-announces-record-orders-in-boost-for-ai-boom?traffic_source=rss" target="_blank">Tech giant ASML announces record orders in boost for AI boom</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-28 10:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/28/g-s1-107602/cbp-has-a-history-of-excessive-force-critics-say-they-were-unprepared-for-minnesota" target="_blank">CBP has a history of excessive force. Critics say they were unprepared for Minnesota</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-28 10:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/28/south-koreas-former-first-lady-sentenced-to-jail-term-in-bribery-case?traffic_source=rss" target="_blank">South Korea’s former first lady sentenced to jail term in bribery case</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-28 07:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/1/28/live-rafah-crossing-reopens-as-israel-keeps-launching-deadly-attacks-on-gaza?traffic_source=rss" target="_blank">LIVE: Gaza ‘desperate’ as Israel aid blocks hit children hardest, UN says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-28 06:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/28/pegula-sets-up-australian-open-semi-against-rybakina-as-swiatek-crashes-out?traffic_source=rss" target="_blank">Pegula sets up Australian Open semi against Rybakina as Swiatek crashes out</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-28 05:41</span>
             </div>
         </div>
 </div>
@@ -176,6 +171,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/01/bigquery-sql-huggingface-managed/en/headerimage/generatedHeaderImage-1768996012519.jpg" alt="Google BigQuery Adds SQL-Native Managed Inference for Hugging Face Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/bigquery-sql-huggingface-managed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google BigQuery Adds SQL-Native Managed Inference for Hugging Face Models</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-28 10:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/SonicDE-Improving-KDE-X11-Code" target="_blank">SoniceDE Looks To Preserve &amp; Improve The X11-Specific KDE Code</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-28 10:53</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/dinesh_04/why-my-blender-scene-looked-flat-until-lighting-clicked-412l" target="_blank">Why My Blender Scene Looked Flat Until Lighting Clicked</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-28 07:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Klint-Linux-Kernel-RFC-Patches" target="_blank">RFC Patches Posted For Klint Integration With The Linux Kernel: Rust-Based Linting Tool</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-28 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://sethmlarson.dev/use-backslash-A-and-z-not-%5E-and-%24-with-python-regular-expressions" target="_blank">Use “\A...\z”, not “^...$” with Python regular expressions</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-01-28 04:24</span>
             </div>
         </div>
 </div>
@@ -339,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 10:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 11:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
