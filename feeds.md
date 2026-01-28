@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-28 04:17:25 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-28 05:06:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, January 28, 2026 - 04:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, January 28, 2026 - 05:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -179,6 +174,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://sethmlarson.dev/use-backslash-A-and-z-not-%5E-and-%24-with-python-regular-expressions" target="_blank">Use “\A...\z”, not “^...$” with Python regular expressions</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-01-28 04:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/realnamehidden1_61/the-architects-blueprint-rest-api-best-practices-in-apigee-x-5gp7" target="_blank">The Architect’s Blueprint: REST API Best Practices in Apigee X</a></span>
                 <span class="feed">DEV Community</span>
@@ -210,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Apple-M3-Linux-Boot-To-KDE" target="_blank">Apple M3 Progress On Linux: Asahi Can Boot To KDE Desktop - But No GPU Acceleration Yet</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-28 01:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/om_shree_0709/mcp-weekly-signals-of-enterprise-grade-agentic-ai-jan-2026-kp0" target="_blank">MCP Weekly: Signals of Enterprise-Grade Agentic AI (Jan 2026)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-28 01:20</span>
             </div>
         </div>
 </div>
@@ -322,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 04:17 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 05:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
