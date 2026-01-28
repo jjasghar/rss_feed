@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-27 23:02:11 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-01-28 00:05:51 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, January 27, 2026 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, January 28, 2026 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +48,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/minn-19-ht-gmh-260123_1769454964887_hpMain_4x3t_384.jpg" alt="DHS report says 2 agents fired weapons in Alex Pretti shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/dhs-report-2-agents-fired-weapons-alex-pretti/story?id=129614976" target="_blank">DHS report says 2 agents fired weapons in Alex Pretti shooting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-27 23:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/27/trump-says-us-will-end-support-for-iraq-if-al-maliki-reinstated-as-pm?traffic_source=rss" target="_blank">Trump says US will end support for Iraq if al-Maliki reinstated as PM</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-27 22:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/27/mexico-vows-solidarity-with-cuba-after-oil-shipment-cancellation-report?traffic_source=rss" target="_blank">Mexico vows ‘solidarity’ with Cuba after oil shipment cancellation reports</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-27 22:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/27/g-s1-107584/winter-storm-2026-deaths-power-outages" target="_blank">Bitter cold grips the eastern U.S. as storm deaths rise and power outages linger</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-27 22:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf27/live/7cb930e0-fbb1-11f0-b852-153f64f31c74.jpg" alt="Prime minister flies to China for three-day visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy8p2re7gj5o?at_medium=RSS&at_campaign=rss" target="_blank">Prime minister flies to China for three-day visit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-27 22:31</span>
             </div>
         </div>
 <div class="story">
@@ -61,47 +101,20 @@
                 <span class="time">2026-01-27 21:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/27/g-s1-107571/fifa-sepp-blatter-boycott-world-cup" target="_blank">Ex-FIFA president Sepp Blatter joins those calling for boycott of World Cup in U.S.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-27 21:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/noem-1-gty-gmh-260127_1769519459811_hpMain_4x3t_384.jpg" alt="Kristi Noem met with Trump amid scrutiny over deadly Minneapolis shooting: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/kristi-noem-met-trump-amid-scrutiny-deadly-minneapolis/story?id=129603158" target="_blank">Kristi Noem met with Trump amid scrutiny over deadly Minneapolis shooting: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-27 20:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/1/27/will-palestinians-ever-find-their-loved-ones-in-gazas?traffic_source=rss" target="_blank">Will Palestinians ever find their loved ones in Gaza’s rubble?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-27 20:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/featured-documentaries/2026/1/27/indonesias-flood-catastrophe-the-full-report?traffic_source=rss" target="_blank">Indonesia’s Flood Catastrophe | The Full Report</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-27 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2201503706-500x500.jpg" alt="Dozens of CDC vaccination databases have been frozen under RFK Jr." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/01/rfk-jr-lets-cdc-vaccination-data-rot-dozens-of-databases-frozen/" target="_blank">Dozens of CDC vaccination databases have been frozen under RFK Jr.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-27 23:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +160,6 @@
                 <span class="time">2026-01-27 19:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/868722/whatsapp-strict-account-settings-cyberattacks" target="_blank">WhatsApp&amp;#8217;s new &amp;#8216;lockdown&amp;#8217; settings add another layer of protection against cyberattacks</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-27 18:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +172,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqi9ru33n0ikpez609jys.png" alt="Building a Financial Lead Scoring Platform - Algolia Challenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vivek_ae4cbc77ec323c6a68a/building-a-financial-lead-scoring-platform-algolia-challenge-25ap" target="_blank">Building a Financial Lead Scoring Platform - Algolia Challenge</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-27 23:57</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +219,6 @@
                 <span class="time">2026-01-27 20:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/manojsingh00963/manics-portfolio-18ol" target="_blank">MANic&#x27;s portfolio</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-27 19:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +239,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/P2__1_-1280x853.jpg" alt="OpenAI’s New Product Helps You Do ‘Vibe Physics’ Like Travis Kalanick" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/openais-new-product-helps-you-do-vibe-physics-like-travis-kalanick-2000714626" target="_blank">OpenAI’s New Product Helps You Do ‘Vibe Physics’ Like Travis Kalanick</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-27 23:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Uber-AV-Labs-1280x853.jpg" alt="Uber Creates ‘AV Labs’ To Leverage Data For Future Robotaxi Routes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -253,6 +266,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="For $40 you can get both MS Office Pro 2021 and Windows 11 Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/27/for-40-you-can-get-both-ms-office-pro-2021-and-windows-11-pro.html" target="_blank">For $40 you can get both MS Office Pro 2021 and Windows 11 Pro</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-27 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/batman-1-1280x720.jpg" alt="Batman: Arkham Parody Perfectly Captures The Horror And Absurdity Of Living In Gotham" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -268,24 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/clawdbot-is-now-moltbot?utm_medium=RSS" target="_blank">&#x27;Clawdbot&#x27; Is Now &#x27;Moltbot,&#x27; but Still Carries the Same Security Concerns</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-27 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/star-wars-rebels-maul-death-shadow-lord-1280x853.jpg" alt="Darth Maul’s Second Death Was Worth the Absurdity of His Survival" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-wars-maul-shadow-lord-death-rebels-clone-wars-2000714635" target="_blank">Darth Maul’s Second Death Was Worth the Absurdity of His Survival</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-27 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/image-6-1-1280x720.jpg" alt="PlayStation’s Spider-Man Calls For Blocking ICE Funding After Brutal Minnesota Killing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ps5-spider-man-yuri-lowenthal-ice-alex-pretti-2000663563" target="_blank">PlayStation’s Spider-Man Calls For Blocking ICE Funding After Brutal Minnesota Killing</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-27 19:51</span>
             </div>
         </div>
 </div>
@@ -320,22 +324,13 @@
                 <span class="time">2026-01-27 01:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/26/glory-to-god-in-the-hyest" target="_blank">Glory To God in The Hyest</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-26 23:03</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
