@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-28 06:03:20 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-28 07:05:33 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, January 28, 2026 - 06:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, January 28, 2026 - 07:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/1/28/live-rafah-crossing-reopens-as-israel-keeps-launching-deadly-attacks-on-gaza?traffic_source=rss" target="_blank">LIVE: Gaza ‘desperate’ as Israel aid blocks hit children hardest, UN says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-28 06:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +101,20 @@
                 <span class="time">2026-01-28 02:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2254/live/8dc47bd0-fbd7-11f0-8102-f9e135ba58e0.jpg" alt="Trump says government will &#x27;de-escalate&#x27; in Minnesota following Pretti shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says government will &#x27;de-escalate&#x27; in Minnesota following Pretti shooting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-28 01:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="We-Vibe Discount Codes and Deals: Up to 60% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/we-vibe-discount-code/" target="_blank">We-Vibe Discount Codes and Deals: Up to 60% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-28 06:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +160,6 @@
                 <span class="time">2026-01-27 23:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/" target="_blank">Anduril has invented a wild new drone flying contest where jobs are the prize</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-27 21:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +172,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering" target="_blank">Red Hat Performance and Scale Engineering</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Klint-Linux-Kernel-RFC-Patches" target="_blank">RFC Patches Posted For Klint Integration With The Linux Kernel: Rust-Based Linting Tool</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-28 05:00</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +217,6 @@
                 <span class="title"><a href="https://monkeyball-online.pages.dev/" target="_blank">Super Monkey Ball ported to a website</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-28 01:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Apple-M3-Linux-Boot-To-KDE" target="_blank">Apple M3 Progress On Linux: Asahi Can Boot To KDE Desktop - But No GPU Acceleration Yet</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-28 01:27</span>
             </div>
         </div>
 </div>
@@ -326,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 06:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 07:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
