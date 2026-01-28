@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-28 16:06:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-28 17:09:30 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 32 feeds processed -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, January 28, 2026 - 16:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, January 28, 2026 - 17:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c97b/live/151aa270-fc47-11f0-9972-d3f265c101c6.jpg" alt="Trump warns Iran &#x27;time is running out&#x27; for nuclear deal as US military builds up in Gulf" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss" target="_blank">Trump warns Iran &#x27;time is running out&#x27; for nuclear deal as US military builds up in Gulf</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-28 16:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/28/nx-s1-5690358/inside-the-trump-administrations-effort-to-reverse-climate-change-policies" target="_blank">Inside the Trump administration&#x27;s effort to reverse climate change policies</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-28 16:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/minn-8-ap-gmh-260127_1769540356287_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Trump says Mayor Frey is &#x27;playing with fire&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: Trump says Mayor Frey is &#x27;playing with fire&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-28 16:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,39 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65bf/live/0634a150-fc49-11f0-a8b8-bdd2c5f9bcad.jpg" alt="China trip will bring benefits to UK, Starmer insists, ahead of Xi meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260125-minnesota-shooting-bf-1316-9860d6.jpg" alt="Questions swirl around federal government&#x27;s plan to investigate DHS shootings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gw47prew7o?at_medium=RSS&at_campaign=rss" target="_blank">China trip will bring benefits to UK, Starmer insists, ahead of Xi meeting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-28 15:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/28/g-s1-107108/mumbai-india-arabian-sea-promenade" target="_blank">Greetings from Mumbai, where residents take breathing space where they can find it</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-28 14:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/birds-eye-view/2026/1/28/israels-phase-one-gaza-ceasefire-violations?traffic_source=rss" target="_blank">Israel’s phase one Gaza ceasefire violations</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-28 14:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c97b/live/151aa270-fc47-11f0-9972-d3f265c101c6.jpg" alt="Trump warns Iran &#x27;time is running out&#x27; as US military builds up in Gulf" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss" target="_blank">Trump warns Iran &#x27;time is running out&#x27; as US military builds up in Gulf</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-28 14:04</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/questions-swirl-federal-governments-plan-investigate-dhs-shootings-rcna255989" target="_blank">Questions swirl around federal government&#x27;s plan to investigate DHS shootings</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-28 15:35</span>
             </div>
         </div>
 </div>
@@ -178,6 +175,33 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2020/05/transmission-tat2.jpg?resize=406%2C232&amp;ssl=1" alt="Transmission 4.1.0 Released with Big Updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/transmission-4-1-0-released" target="_blank">Transmission 4.1.0 Released with Big Updates</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-28 17:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/foundation-models-ranking/en/mediumimage/moumita-bhattacharya-medium-1768986504738.jpg" alt="Presentation: Foundation Models for Ranking: Challenges, Successes, and Lessons Learned" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/foundation-models-ranking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Foundation Models for Ranking: Challenges, Successes, and Lessons Learned</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-28 17:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FreeType-Faster-ClearType-Like" target="_blank">FreeType Speeds-Up ClearType-Like LCD Filter Rendering By 40%</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-28 16:23</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -195,38 +219,38 @@
                 <span class="time">2026-01-28 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/01/28/are-bugs-and-incidents-inevitable-with-ai-coding-agents/" target="_blank">Are bugs and incidents inevitable with AI coding agents?</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-01-28 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hyperskill_academy/5-java-courses-that-help-you-build-portfolio-worthy-projects-9cp" target="_blank">5 Java Courses That Help You Build Portfolio-Worthy Projects</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-28 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ciechanow.ski/airfoil/" target="_blank">Airfoil</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-28 14:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/psplus-feb2026-1280x720.jpg" alt="February’s PlayStation Plus Games Are A Wild Mix" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/february-ps-plus-games-2026-ps5-ps4-free-ace-combat-subnautica-boxing-2000663822" target="_blank">February’s PlayStation Plus Games Are A Wild Mix</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-28 17:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/NASA-WB57-aircraft-1280x853.jpg" alt="Vintage NASA Jet Skids to a Fiery Stop in Dramatic ‘Wheels-Up’ Landing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/vintage-nasa-jet-skids-to-a-fiery-stop-in-dramatic-wheels-up-landing-2000714975" target="_blank">Vintage NASA Jet Skids to a Fiery Stop in Dramatic ‘Wheels-Up’ Landing</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-28 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KG2J6ZBYNYSPGYM00W05YDGS/hero-image.png" alt="The GoPro Hero12 Black Is One of the Best Action Cameras, and It&#x27;s 42% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/gopro-hero12-black-sale-january-2026?utm_medium=RSS" target="_blank">The GoPro Hero12 Black Is One of the Best Action Cameras, and It&#x27;s 42% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-28 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/eero-6-1280x853.jpg" alt="Amazon Clears Out eero 6+ Mesh Wi-Fi Routers at an All-Time Low, 4-Pack Bundle Now Matches the 3-Pack Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -254,38 +278,20 @@
                 <span class="time">2026-01-28 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/peter-claffey-danny-webb-2-1280x853.jpg" alt="I’m Sorry, That ‘A Knight of the Seven Kingdoms’ Prosthetic Was How Big?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/im-sorry-that-a-knight-of-the-seven-kingdoms-prosthetic-was-how-big-2000714724" target="_blank">I’m Sorry, That ‘A Knight of the Seven Kingdoms’ Prosthetic Was How Big?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-28 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KG0DWB059DMVF34C4KGY3QAV/hero-image.jpg" alt="10 Hacks Every Firefox User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-firefox-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Firefox User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-28 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/noem-horse.jpg?fit=1080%2C683&amp;quality=60&amp;ssl=1" alt="Five-year-old US citizen deported to Honduras" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/28/five-year-old-us-citizen-deported-to-honduras.html" target="_blank">Five-year-old US citizen deported to Honduras</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-28 11:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1769389831-20260128.png" alt="Saturday Morning Breakfast Cereal - It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/it" target="_blank">Saturday Morning Breakfast Cereal - It</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-01-28 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -313,22 +319,13 @@
                 <span class="time">2026-01-27 18:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1769494746-20260127.png" alt="Saturday Morning Breakfast Cereal - Friend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/friend" target="_blank">Saturday Morning Breakfast Cereal - Friend</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-27 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 16:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 17:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
