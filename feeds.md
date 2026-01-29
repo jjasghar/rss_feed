@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-29 13:22:57 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-01-29 14:12:23 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 12 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, January 29, 2026 - 13:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, January 29, 2026 - 14:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/homan-presser-4-gty-jewf-260129_1769693988760_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Homan pledges unprofessional officers will be &#x27;dealt with&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: Homan pledges unprofessional officers will be &#x27;dealt with&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-29 14:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/29/trump-border-czar-says-staying-in-minnesota-until-problems-gone?traffic_source=rss" target="_blank">Trump border czar says staying in Minnesota ‘until problem’s gone’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-29 13:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Border czar Tom Homan speaks in Minneapolis: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,24 +100,6 @@
                 <span class="time">2026-01-29 11:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/29/waels-last-wish-man-detained-by-ice-denied-release-for-sons-funeral?traffic_source=rss" target="_blank">‘Wael’s last wish’: Man detained by ICE denied release for son’s funeral</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-29 10:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/29/gunfire-blasts-heard-airport-niamey-niger-planes-hit-reports" target="_blank">Planes hit by gunfire and blasts heard at airport in Niger capital – reports</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-01-29 10:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -106,10 +108,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/869542/corsair-galleon-stream-deck-gaming-keyboard-review" target="_blank">The Stream Deck-packed gaming keyboard is a monster of good ideas</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-29 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/697ae0c8d71746a1e6c69319/master/pass/The%20Best%20Ski%20Gloves%20and%20Mittens.png" alt="Best Ski Gloves and Mittens, Editor Tested and Reviewed (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-ski-gloves-and-mittens/" target="_blank">Best Ski Gloves and Mittens, Editor Tested and Reviewed (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-29 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/" target="_blank">Waymo robotaxi hits a child near an elementary school in Santa Monica</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-29 12:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/04/image-1-500x500.png" alt="Early Universe&#x27;s supermassive black holes grew in cocoons like butterflies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/01/early-universes-supermassive-black-holes-grew-in-cocoons-like-butterflies/" target="_blank">Early Universe&#x27;s supermassive black holes grew in cocoons like butterflies</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-29 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -130,38 +159,29 @@
                 <span class="time">2026-01-29 08:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="50% Off Blue Apron Promo Codes | February 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/blue-apron-coupon/" target="_blank">50% Off Blue Apron Promo Codes | February 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-29 06:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" alt="15% Off Dyson Promo Code | February 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dyson-cordless-vacuum-promo-code/" target="_blank">15% Off Dyson Promo Code | February 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-29 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/28/meta-burned-19-billion-on-vr-last-year-and-2026-wont-be-any-better/" target="_blank">Meta burned $19 billion on VR last year, and 2026 won’t be any better</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-29 00:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18852288&w=600" alt="Automating AWS Glue Infra and Code Reviews With RAG and Amazon Bedrock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/automate-aws-glue-reviews-rag-bedrock" target="_blank">Automating AWS Glue Infra and Code Reviews With RAG and Amazon Bedrock</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-29 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/design_shake_3b010ccbcec4/i-built-a-social-network-as-a-challenge-did-i-waste-my-time-58mb" target="_blank">I Built a Social Network as a Challenge — Did I Waste My Time?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-29 13:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18852280&w=600" alt="Cloud Systems Drift: What Happens When Exceptions Become the System" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,29 +218,38 @@
                 <span class="time">2026-01-29 11:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sylwia-lask/is-learning-css-a-waste-of-time-in-2026-nj3" target="_blank">Is Learning CSS a Waste of Time in 2026?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-29 11:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sanjaysah/sanjayos-i-built-an-ai-powered-operating-system-for-my-portfolio-3bih" target="_blank">SanjayOS: I Built an AI-Powered Operating System for My Portfolio 🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-29 10:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/Cairn_KeyArt_4K_LargeShot_NoLogo-1280x720.jpg" alt="This Chill Climbing Game Was So Frustrating It Sent Me Into A Mini-Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/cairn-review-game-bakers-haven-impressions-furi-2000664121" target="_blank">This Chill Climbing Game Was So Frustrating It Sent Me Into A Mini-Crisis</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-29 14:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/shutterstock_1064329202-scaled.jpg?fit=2560%2C1707&amp;quality=60&amp;ssl=1" alt="Scared to check your bank balance? A neuroscientist has tips for you." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/29/scared-to-check-your-bank-balance-a-neuroscientist-has-tips-for-you.html" target="_blank">Scared to check your bank balance? A neuroscientist has tips for you.</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-29 13:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Chia-Pet-1280x853.jpg" alt="They’re Making a Movie About What?!?!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/theyre-making-a-movie-about-what-2000715249" target="_blank">They’re Making a Movie About What?!?!</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-29 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/788307.webp?fit=660%2C371&amp;quality=55&amp;ssl=1" alt="80-year-old used £2.4 million lottery win to build drug empire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -246,33 +275,6 @@
                 <span class="title"><a href="https://gizmodo.com/microsofts-ai-spend-is-starting-to-spook-investors-2000715208" target="_blank">Microsoft’s AI Spend Is Starting To Spook Investors</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-29 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/08/tesla-model-x-recall-getty-2021-china-1024x681.jpg" alt="Tesla Kills Models S and X" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tesla-kills-models-s-and-x-2000715273" target="_blank">Tesla Kills Models S and X</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-29 02:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/io-from-juno-close-flyby-1280x853.jpg" alt="NASA Detects Most Powerful Eruption Ever on Jupiter’s Volcanic Moon Io" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nasa-detects-most-powerful-eruption-ever-on-jupiters-volcanic-moon-io-2000714963" target="_blank">NASA Detects Most Powerful Eruption Ever on Jupiter’s Volcanic Moon Io</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-29 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/shutterstock_2573761223-scaled.jpg?fit=2560%2C1670&amp;quality=60&amp;ssl=1" alt="Well-made apps and sites" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/28/well-made-apps-and-sites.html" target="_blank">Well-made apps and sites</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-29 00:16</span>
             </div>
         </div>
 </div>
@@ -321,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 13:23 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 14:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
