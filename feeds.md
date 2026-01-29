@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-29 18:07:28 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-01-29 19:11:41 UTC -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, January 29, 2026 - 18:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, January 29, 2026 - 19:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Minneapolis mayor speaks on federal immigration crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Minneapolis mayor speaks on federal immigration crackdown</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-29 19:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/29/nx-s1-5691896/medicare-advantage-health-insurance-trump-oz-cms-upcoding" target="_blank">Medicare Advantage insurers face new curbs on overcharges in Trump plan</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-29 18:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/29/mexicos-oil-industry-faces-new-pressures-from-venezuela-oil-under-us?traffic_source=rss" target="_blank">Mexico’s oil industry faces new pressures from Venezuela oil under US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-29 18:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +96,29 @@
                 <span class="time">2026-01-29 16:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/29/g-s1-106920/ivf-eggs-india" target="_blank">Why these women break the law to sell their eggs for IVF</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-29 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1311/live/110208b0-fd12-11f0-833e-6bf0186607ca.jpg" alt="Great Ormond Street doctor who botched surgery harmed nearly 100 children" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq841e4n4v8o?at_medium=RSS&at_campaign=rss" target="_blank">Great Ormond Street doctor who botched surgery harmed nearly 100 children</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-29 15:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5666/live/1a709de0-fcdf-11f0-853a-2b6f40b40d41.jpg" alt="China to relax travel rules for British visitors, UK says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c150yv75pn7o?at_medium=RSS&at_campaign=rss" target="_blank">China to relax travel rules for British visitors, UK says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-29 14:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6978d03a04c5e12896469276/master/pass/012726_ICE-vs-AI-Fanfic.jpg" alt="AI-Generated Anti-ICE Videos Are Getting the Fanfic Treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anti-ice-videos-are-getting-the-ai-fanfic-treatment-online/" target="_blank">AI-Generated Anti-ICE Videos Are Getting the Fanfic Treatment</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-29 19:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/icefishing1-500x500-1769701231.jpg" alt="What ice fishing can teach us about making foraging decisions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/01/what-ice-fishing-can-teach-us-about-making-foraging-decisions/" target="_blank">What ice fishing can teach us about making foraging decisions</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-29 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/697aebbc477ee8b8aa7d04e1/master/pass/GettyImages-2255809580.jpg" alt="ICE Pretends It’s a Military Force. Its Tactics Would Get Real Soldiers Killed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +155,20 @@
                 <span class="time">2026-01-29 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey" target="_blank">Half of developers think gen AI is bad for the gaming industry</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-29 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/869824/right-wing-influencers-nick-shirley-slopaganda" target="_blank">The rise of the slopagandist</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-29 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/laskaaad/from-manual-labor-to-devops-built-with-google-antigravity-stitch-1e3p" target="_blank">From Manual Labor to DevOps: Built with Google AntiGravity &amp; Stitch</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-29 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,20 +214,29 @@
                 <span class="time">2026-01-29 16:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/engineering-speed-scale/en/headerimage/engineering-speed-scale-header-1767006608903.jpg" alt="Article: Engineering Speed at Scale — Architectural Lessons from Sub-100-ms APIs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/engineering-speed-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Engineering Speed at Scale — Architectural Lessons from Sub-100-ms APIs</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-29 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/masters-of-universe-toyhed-1280x853.jpg" alt="New ‘Masters of the Universe’ Toys Will Power You Up for the Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/new-masters-of-the-universe-toys-will-prepare-you-for-the-movie-2000715591" target="_blank">New ‘Masters of the Universe’ Toys Will Power You Up for the Movie</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-29 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/ss_1dca9b5175b902ffef349a6743a2d-1280x720.jpg" alt="Highguard’s First Patch Brings Much-Requested Fixes, But PC Optimization Is Still Being Worked On" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/highguards-patch-note-fov-ps5-crash-pc-optimization-2000664201" target="_blank">Highguard’s First Patch Brings Much-Requested Fixes, But PC Optimization Is Still Being Worked On</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-29 18:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/computer-history-museum-1280x853.jpg" alt="The Computer History Museum’s New Online Portal Is a Nerd’s Dream Come True" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,24 +273,6 @@
                 <span class="time">2026-01-29 16:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/flowkey-Piano-Learning-App.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Learn to play the Tetris theme flawlessly for hundreds less with flowkey" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/29/learn-to-play-the-tetris-theme-flawlessly-for-hundreds-less-with-flowkey.html" target="_blank">Learn to play the Tetris theme flawlessly for hundreds less with flowkey</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-29 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/shokz-headphones-1280x853.jpg" alt="SHOKZ OpenMove Is Cheaper Than Ever as Old Open-Ear Sport Headphones Get Cleared Out on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/shokz-openmove-is-cheaper-than-ever-as-old-open-ear-sport-headphones-get-cleared-out-on-amazon-2000663931" target="_blank">SHOKZ OpenMove Is Cheaper Than Ever as Old Open-Ear Sport Headphones Get Cleared Out on Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-29 15:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 18:07 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 19:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
