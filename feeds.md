@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-29 01:30:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-29 02:51:54 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, January 29, 2026 - 01:30 UTC</div>
+    <div class="newspaper-date">Thursday, January 29, 2026 - 02:52 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -76,6 +73,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-doctor-yaser-rahmani-rad_7149124.jpg?20260129001501" alt="The doctors who want you to know what happened inside Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/the-doctors-who-want-you-to-know-what-happened-inside-iran-13500411" target="_blank">The doctors who want you to know what happened inside Iran</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-28 22:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260127-donald-trump-ew-1242p-4236ee.jpg" alt="Inside the White House in the chaotic hours after Alex Pretti&#x27;s shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -93,20 +99,20 @@
                 <span class="time">2026-01-28 22:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/28/israels-top-court-delays-gaza-press-access-ruling-amid-years-long-ban?traffic_source=rss" target="_blank">Israel’s top court delays Gaza press access ruling amid years-long ban</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-28 21:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/697902b191e2c42a13c0d351/master/pass/sci-data-center-gas-turbine-2236733386.jpg" alt="Data Centers Are Driving a US Gas Boom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/data-centers-are-driving-a-us-gas-boom/" target="_blank">Data Centers Are Driving a US Gas Boom</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-29 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +158,20 @@
                 <span class="time">2026-01-28 20:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/869318/claude-vibe-coding-home-assistant-smart-home" target="_blank">I used Claude to vibe-code my wildly overcomplicated smart home</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-28 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNU-gettext-1.0" target="_blank">GNU gettext Reaches Version 1.0 After 30+ Years In Development - Adds LLM Features</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-29 01:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fneyr9u9scxkyth89izit.png" alt="JSONPath Is In! The AI Assistant Will See You Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,20 +217,20 @@
                 <span class="time">2026-01-28 21:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kobbyprincee/horizontal-scaling-postgresql-with-citus-a-practical-deep-dive-3kf7" target="_blank">Horizontal Scaling PostgreSQL with Citus: A Practical Deep Dive</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-28 20:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/08/tesla-model-x-recall-getty-2021-china-1024x681.jpg" alt="Tesla Kills Models S and X" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tesla-kills-models-s-and-x-2000715273" target="_blank">Tesla Kills Models S and X</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-29 02:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/io-from-juno-close-flyby-1280x853.jpg" alt="NASA Detects Most Powerful Eruption Ever on Jupiter’s Volcanic Moon Io" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -244,6 +250,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/baby.jpg" alt="BabyTuber Thumbnails Are The Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/baby-youtuber-gaming-thumbnails-2000663918" target="_blank">BabyTuber Thumbnails Are The Best</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-29 00:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HF2HJYDCTGT4AWW1EX27TGP6/hero-image.jpg" alt="Does Walking Really Count As Cardio?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -259,24 +274,6 @@
                 <span class="title"><a href="https://gizmodo.com/how-the-2-big-celeb-cameos-in-wonder-man-came-about-2000715062" target="_blank">How the 2 Big Celeb Cameos in ‘Wonder Man’ Came About</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-28 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/Xbox.jpg" alt="Xbox Hardware Is Still Falling, Falling, Falling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-earnings-q2-game-pass-hardware-next-gen-pc-2000663911" target="_blank">Xbox Hardware Is Still Falling, Falling, Falling</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-28 22:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Typical-sloptube-content.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="YouTube cracks down on AI slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/28/slop.html" target="_blank">YouTube cracks down on AI slop</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-28 22:42</span>
             </div>
         </div>
 </div>
@@ -329,22 +326,13 @@
                 <span class="time">2026-01-28 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5753.png" alt="What Happened" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5753" target="_blank">What Happened</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-01-28 01:47</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 02:52 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
