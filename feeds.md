@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-29 22:03:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-29 23:04:03 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, January 29, 2026 - 22:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, January 29, 2026 - 23:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +51,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/29/burkina-faso-military-government-dissolves-political-parties?traffic_source=rss" target="_blank">Burkina Faso’s military government dissolves political parties</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-29 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61a6/live/6382f330-fd51-11f0-9972-d3f265c101c6.jpg" alt="Trump says Putin will not attack Ukraine cities during cold week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss" target="_blank">Trump says Putin will not attack Ukraine cities during cold week</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-29 21:21</span>
             </div>
         </div>
 <div class="story">
@@ -90,20 +98,38 @@
                 <span class="time">2026-01-29 19:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Minneapolis mayor speaks on federal immigration crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Minneapolis mayor speaks on federal immigration crackdown</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-29 19:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/" target="_blank">Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-29 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/697aa61dd43d64ebd6c2a9c0/master/pass/Uncanny-Valley-All-Things-ICE-Politics-2255755460.jpg" alt="‘Uncanny Valley’: Minneapolis Misinformation, TikTok’s New Owners, and Moltbot Hype" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-ice-minneapolis-tiktok-moltbot/" target="_blank">‘Uncanny Valley’: Minneapolis Misinformation, TikTok’s New Owners, and Moltbot Hype</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-29 22:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/870422/data-center-ai-gas-power-surge" target="_blank">It’s a new heyday for gas thanks to data centers</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-29 22:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,38 +157,29 @@
                 <span class="time">2026-01-29 19:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/icefishing1-500x500-1769701231.jpg" alt="What ice fishing can teach us about making foraging decisions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/01/what-ice-fishing-can-teach-us-about-making-foraging-decisions/" target="_blank">What ice fishing can teach us about making foraging decisions</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-29 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697aebbc477ee8b8aa7d04e1/master/pass/GettyImages-2255809580.jpg" alt="ICE Pretends It’s a Military Force. Its Tactics Would Get Real Soldiers Killed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ice-pretends-its-a-military-force-its-tactics-would-get-real-soldiers-killed/" target="_blank">ICE Pretends It’s a Military Force. Its Tactics Would Get Real Soldiers Killed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-29 18:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/29/waymo-sfo-airport-robotaxis/" target="_blank">Waymo robotaxis are now giving rides to and from San Francisco International Airport</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-29 17:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/the_nortern_dev/unpopular-opinion-i-stopped-coding-on-weekends-and-my-career-got-better-3el" target="_blank">Unpopular Opinion: I stopped coding on weekends and my career got better.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-29 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Hyper-V-Integrated-Scheduler" target="_blank">Microsoft Working On Improved vCPU Scheduler Support For Hyper-V Linux VMs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-29 22:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,29 +216,20 @@
                 <span class="time">2026-01-29 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/marufrahmanlive/jwt-authentication-in-expressjs-and-nodejs-complete-guide-2261" target="_blank">JWT Authentication in Express.js and Node.js: Complete Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-29 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/laskaaad/from-manual-labor-to-devops-built-with-google-antigravity-stitch-1e3p" target="_blank">From Manual Labor to DevOps: Built with Google AntiGravity &amp; Stitch</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-29 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/05/2797b124069af2d1edbf35fee5ca0fc2-1280x720.jpg" alt="Borderlands 4 Reminds Fans It’s Alive In 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/borderlands-4-2026-road-map-updates-cross-save-new-loot-dlc-level-cap-increase-2000664254" target="_blank">Borderlands 4 Reminds Fans It’s Alive In 2026</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-29 22:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Dragon-Ball-Super-Galactic-Patrol-Akira-Toriyama-io9-template-circle-2-1280x853.jpg" alt="What Is the Future of ‘Dragon Ball’ Without Akira Toriyama?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +275,6 @@
                 <span class="time">2026-01-29 18:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Tdiner-e1753471820584.jpg?fit=600%2C340&amp;quality=60&amp;ssl=1" alt="An &#x27;avowed ketamine user&#x27; explains why robots are the future" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/29/an-avowed-ketamine-user-explains-why-robots-are-the-future.html" target="_blank">An &#x27;avowed ketamine user&#x27; explains why robots are the future</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-29 18:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 22:03 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 23:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
