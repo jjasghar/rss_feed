@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-29 14:12:23 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-01-29 15:09:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, January 29, 2026 - 14:12 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, January 29, 2026 - 15:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5666/live/1a709de0-fcdf-11f0-853a-2b6f40b40d41.jpg" alt="China to relax travel rules for British visitors, UK says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c150yv75pn7o?at_medium=RSS&at_campaign=rss" target="_blank">China to relax travel rules for British visitors, UK says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-29 14:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/29/key-questions-about-us-military-build-up-near-iran?traffic_source=rss" target="_blank">Key questions about US military build-up near Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-29 14:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/homan-presser-4-gty-jewf-260129_1769693988760_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Homan pledges unprofessional officers will be &#x27;dealt with&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +104,20 @@
                 <span class="time">2026-01-29 12:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/29/italys-winter-olympics-security-plan-keeps-ice-in-advisory-role?traffic_source=rss" target="_blank">Italy’s Winter Olympics security plan keeps ICE in advisory role</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-29 11:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/homan-main_1769685699634_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Trump&#x27;s border czar to speak in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: Trump&#x27;s border czar to speak in Minneapolis</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-29 11:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/29/teslas-energy-storage-business-is-growing-faster-than-any-other-part-of-the-company/" target="_blank">Tesla’s energy storage business is growing faster than any other part of the company</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-29 14:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +163,38 @@
                 <span class="time">2026-01-29 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/29/deezer-makes-it-easier-for-rival-platforms-to-take-a-stance-against-ai-generated-music/" target="_blank">Deezer makes it easier for rival platforms to take a stance against AI-generated music</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-29 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/01/29/are-you-learning-with-ai-we-want-to-know-about-it/" target="_blank">Are you learning with AI? We want to know about it!</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-01-29 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mediocredevops/lets-deploy-kgateway-using-vcluster-1e1n" target="_blank">Let&#x27;s deploy kgateway using vCluster</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-29 14:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/linux-kernel-continuity-plan/" target="_blank">What Happens to Linux After Linus Torvalds? We Finally Have the Answer to This Uncomfortable Question</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-29 14:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18852288&w=600" alt="Automating AWS Glue Infra and Code Reviews With RAG and Amazon Bedrock" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -191,38 +222,20 @@
                 <span class="time">2026-01-29 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/__8fa66572/postgresql-rls-in-go-architecting-secure-multi-tenancy-4ifm" target="_blank">PostgreSQL RLS in Go: Architecting Secure Multi-tenancy</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-29 11:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-DC-Improved-GCN-1.1-APUs" target="_blank">Valve Developer Improves Aging AMD APUs On Linux With VRR, DP/HDMI Audio, HDR &amp; Atomic</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-29 11:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/organisations-people-thrive/en/headerimage/generatedHeaderImage-1769417537061.jpg" alt="Building Software Organisations Where People Can Thrive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/organisations-people-thrive/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Building Software Organisations Where People Can Thrive</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-29 11:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/shokz-headphones-1280x853.jpg" alt="SHOKZ OpenMove Is Cheaper Than Ever as Old Open-Ear Sport Headphones Get Cleared Out on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/shokz-openmove-is-cheaper-than-ever-as-old-open-ear-sport-headphones-get-cleared-out-on-amazon-2000663931" target="_blank">SHOKZ OpenMove Is Cheaper Than Ever as Old Open-Ear Sport Headphones Get Cleared Out on Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-29 15:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/Cairn_KeyArt_4K_LargeShot_NoLogo-1280x720.jpg" alt="This Chill Climbing Game Was So Frustrating It Sent Me Into A Mini-Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -230,6 +243,24 @@
                 <span class="title"><a href="https://kotaku.com/cairn-review-game-bakers-haven-impressions-furi-2000664121" target="_blank">This Chill Climbing Game Was So Frustrating It Sent Me Into A Mini-Crisis</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-29 14:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/future-like-you.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="The internet isn&#x27;t just shortening your attention span — it&#x27;s dissolving your identity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/29/the-internet-isnt-just-shortening-your-attention-span-its-dissolving-your-identity.html" target="_blank">The internet isn&#x27;t just shortening your attention span — it&#x27;s dissolving your identity</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-29 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KG4Z7HEW0A5CCVXC50KC8TCJ/hero-image.png" alt="This Ultra-Portable JBL Speaker Is Over 40% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/jbl-flip-7-speaker-sale-january-2026?utm_medium=RSS" target="_blank">This Ultra-Portable JBL Speaker Is Over 40% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-29 14:00</span>
             </div>
         </div>
 <div class="story">
@@ -248,33 +279,6 @@
                 <span class="title"><a href="https://gizmodo.com/theyre-making-a-movie-about-what-2000715249" target="_blank">They’re Making a Movie About What?!?!</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-29 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/788307.webp?fit=660%2C371&amp;quality=55&amp;ssl=1" alt="80-year-old used £2.4 million lottery win to build drug empire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/29/80-year-old-used-2-4-million-lottery-win-to-build-drug-empire.html" target="_blank">80-year-old used £2.4 million lottery win to build drug empire</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-29 12:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/10/McDonalds-Specification-Manual-1975-scaled-e1752091541971.jpg?fit=768%2C604&amp;quality=60&amp;ssl=1" alt="Life-size Ronald Mcdonald statue stolen from Pennsylvania McDonald&#x27;s, caught on camera" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/29/life-size-ronald-mcdonald-statue-stolen-from-pennsylvania-mcdonalds-caught-on-camera.html" target="_blank">Life-size Ronald Mcdonald statue stolen from Pennsylvania McDonald&#x27;s, caught on camera</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-29 10:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/shutterstock_2163957793-1280x853.jpg" alt="Microsoft’s AI Spend Is Starting To Spook Investors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/microsofts-ai-spend-is-starting-to-spook-investors-2000715208" target="_blank">Microsoft’s AI Spend Is Starting To Spook Investors</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-29 10:00</span>
             </div>
         </div>
 </div>
@@ -323,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 14:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 15:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
