@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-29 11:08:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-29 12:04:54 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, January 29, 2026 - 11:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, January 29, 2026 - 12:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/29/italys-winter-olympics-security-plan-keeps-ice-in-advisory-role?traffic_source=rss" target="_blank">Italy’s Winter Olympics security plan keeps ICE in advisory role</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-29 11:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/homan-main_1769685699634_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Trump&#x27;s border czar to speak in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: Trump&#x27;s border czar to speak in Minneapolis</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-29 11:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/29/nx-s1-5686770/national-film-registry-clueless-karate-kid" target="_blank">&#x27;Philadelphia,&#x27; &#x27;Clueless,&#x27; &#x27;The Karate Kid&#x27; added to the National Film Registry</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-29 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/29/video-us-agents-placed-on-leave-over-pretti-shooting-as-vigil-held?traffic_source=rss" target="_blank">Video: US agents placed on leave over Pretti shooting as vigil held</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-29 09:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/29/china-warns-against-us-military-adventurism-as-iran-tensions-escalate?traffic_source=rss" target="_blank">China warns against US ‘military adventurism’ as Iran tensions escalate</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-29 08:39</span>
             </div>
         </div>
 </div>
@@ -171,6 +168,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/__8fa66572/postgresql-rls-in-go-architecting-secure-multi-tenancy-4ifm" target="_blank">PostgreSQL RLS in Go: Architecting Secure Multi-tenancy</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-29 11:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-DC-Improved-GCN-1.1-APUs" target="_blank">Valve Developer Improves Aging AMD APUs On Linux With VRR, DP/HDMI Audio, HDR &amp; Atomic</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-29 11:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sylwia-lask/is-learning-css-a-waste-of-time-in-2026-nj3" target="_blank">Is Learning CSS a Waste of Time in 2026?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-29 11:07</span>
@@ -189,7 +204,7 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images" target="_blank">Europe&#x27;s next-generation weather satellite sends back first images</a></span>
+                <span class="title"><a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images" target="_blank">Europe’s next-generation weather satellite sends back first images</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-29 07:07</span>
             </div>
@@ -197,28 +212,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dineshelumalai/when-serverless-is-more-expensive-5-architecture-patterns-that-should-use-ecs-instead-1o4l" target="_blank">When Serverless is MORE Expensive: 5 Architecture Patterns That Should Use ECS Instead</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-29 07:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/google-deepmind-atlas/en/headerimage/generatedHeaderImage-1769596898916.jpg" alt="Google DeepMind Introduces ATLAS Scaling Laws for Multilingual Language Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/google-deepmind-atlas/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google DeepMind Introduces ATLAS Scaling Laws for Multilingual Language Models</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-29 06:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/" target="_blank">Some notes on starting to use Django</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-01-29 04:39</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images" target="_blank">Europe&#x27;s next-generation weather satellite sends back first images</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-29 07:07</span>
             </div>
         </div>
 </div>
@@ -326,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 11:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 12:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
