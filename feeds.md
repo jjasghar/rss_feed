@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-29 10:09:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-29 11:08:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, January 29, 2026 - 10:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, January 29, 2026 - 11:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/29/waels-last-wish-man-detained-by-ice-denied-release-for-sons-funeral?traffic_source=rss" target="_blank">‘Wael’s last wish’: Man detained by ICE denied release for son’s funeral</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-29 10:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/29/gunfire-blasts-heard-airport-niamey-niger-planes-hit-reports" target="_blank">Planes hit by gunfire and blasts heard at airport in Niger capital – reports</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-29 10:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/29/g-s1-107750/senegal-morocco-fined-african-cup-final-chaos" target="_blank">Senegal and Morocco fined and players banned after African Cup final chaos</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-29 10:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +103,20 @@
                 <span class="time">2026-01-29 08:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/29/car-ramming-at-largest-synagogue-in-brooklyn?traffic_source=rss" target="_blank">Car ramming at largest synagogue in Brooklyn</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-29 07:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e76/live/adda0e50-fce3-11f0-a8b8-bdd2c5f9bcad.jpg" alt="What could happen if the US strikes Iran? Here are seven scenarios" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce3kenge1k9o?at_medium=RSS&at_campaign=rss" target="_blank">What could happen if the US strikes Iran? Here are seven scenarios</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-29 06:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/1/29/bangladesh-election-is-the-military-still-a-power-behind-the-scenes?traffic_source=rss" target="_blank">Bangladesh election: Is the military still a power behind the scenes?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-29 05:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/697b169865447f8ad5aa29e7/master/pass/ScienceSourceImages_2524088_WebRes.jpg" alt="This Chinese Startup Wants to Build a New Brain-Computer Interface—No Implant Required" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/this-chinese-startup-wants-to-build-a-new-brain-computer-interface-no-implant-required-gestalta/" target="_blank">This Chinese Startup Wants to Build a New Brain-Computer Interface—No Implant Required</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-29 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +162,20 @@
                 <span class="time">2026-01-29 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/869926/apple-hires-sebastiaan-de-with-design-team-halide-lux" target="_blank">Halide co-founder Sebastiaan de With is joining Apple&amp;#8217;s design team</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-28 23:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sylwia-lask/is-learning-css-a-waste-of-time-in-2026-nj3" target="_blank">Is Learning CSS a Waste of Time in 2026?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-29 11:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,20 +221,20 @@
                 <span class="time">2026-01-29 04:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-26-05/" target="_blank">FOSS Weekly #26.05: Clawdbot Mania, NexPhone, Things We No Longer Use Terminal for and More Linux Stuff</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-29 04:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/10/McDonalds-Specification-Manual-1975-scaled-e1752091541971.jpg?fit=768%2C604&amp;quality=60&amp;ssl=1" alt="Life-size Ronald Mcdonald statue stolen from Pennsylvania McDonald&#x27;s, caught on camera" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/29/life-size-ronald-mcdonald-statue-stolen-from-pennsylvania-mcdonalds-caught-on-camera.html" target="_blank">Life-size Ronald Mcdonald statue stolen from Pennsylvania McDonald&#x27;s, caught on camera</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-29 10:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/shutterstock_2163957793-1280x853.jpg" alt="Microsoft’s AI Spend Is Starting To Spook Investors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +278,6 @@
                 <span class="title"><a href="https://kotaku.com/baby-youtuber-gaming-thumbnails-2000663918" target="_blank">BabyTuber Thumbnails Are The Best</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-29 00:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HJYDCTGT4AWW1EX27TGP6/hero-image.jpg" alt="Does Walking Really Count As Cardio?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/does-walking-really-count-as-cardio?utm_medium=RSS" target="_blank">Does Walking Really Count As Cardio?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-28 23:30</span>
             </div>
         </div>
 </div>
@@ -324,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 10:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 11:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
