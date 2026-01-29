@@ -1,28 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-29 20:03:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-29 21:03:11 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 20 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, January 29, 2026 - 20:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, January 29, 2026 - 21:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/fulton-county-elections-3-rt-jef-260129_1769701367242_hpMain_4x3t_384.jpg" alt="Trump posts discredited conspiracy theories following seizure of 2020 ballots" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/trump-posts-discredited-conspiracy-theories-seizure-2020-ballots/story?id=129669660" target="_blank">Trump posts discredited conspiracy theories following seizure of 2020 ballots</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-29 20:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/29/nx-s1-5685250/kpop-demon-hunters-rose-katseye-grammys" target="_blank">How the West was won: K-pop&#x27;s great assimilation gambit</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-29 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,29 +100,20 @@
                 <span class="time">2026-01-29 18:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/29/g-s1-107762/senate-shutdown-vote-fails" target="_blank">Senate fails to advance spending bills as Democrats push for DHS reforms</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-29 17:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/29/gunfire-blasts-heard-airport-niamey-niger-planes-hit-reports" target="_blank">Heavy security deployed at airport in Niger capital after overnight explosions</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-01-29 17:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/29/fintech-firm-marquis-blames-hack-at-firewall-provider-sonicwall-for-its-data-breach/" target="_blank">Fintech firm Marquis blames hack at firewall provider SonicWall for its data breach</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-29 20:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/696fc702e199dabd21f9dbd5/master/pass/HBO-Movie-Guide-Smashing-Machine-Culture-TSM_01555R.jpg" alt="The 45 Best Movies on HBO Max Right Now (February 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,20 +159,29 @@
                 <span class="time">2026-01-29 17:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/08/robot_science_header-500x500.jpg" alt="New OpenAI tool renews fears that “AI slop” will overwhelm scientific research" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/01/new-openai-tool-renews-fears-that-ai-slop-will-overwhelm-scientific-research/" target="_blank">New OpenAI tool renews fears that “AI slop” will overwhelm scientific research</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-29 17:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/marufrahmanlive/angular-directives-and-pipes-complete-guide-custom-directives-pipes-transformations-2n44" target="_blank">Angular Directives and Pipes: Complete Guide | Custom Directives, Pipes &amp; Transformations</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-29 20:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18856928&w=600" alt="Modernizing Applications with the 7 Rs Strategy – A CTO&#x27;s Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/modernizing-applications-with-the-7-r-strategy" target="_blank">Modernizing Applications with the 7 Rs Strategy – A CTO&#x27;s Guide</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-29 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,29 +218,20 @@
                 <span class="time">2026-01-29 17:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/" target="_blank">Project Genie: Experimenting with infinite, interactive worlds</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-29 17:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdm7l3fhjiw9cu2a2m5ol.png" alt="The Internet’s Addiction to Being Contrary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/richardpascoe/the-internets-addiction-to-being-contrary-42ni" target="_blank">The Internet’s Addiction to Being Contrary</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-29 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/sex-criminals-hed-1280x853.jpg" alt="Amazon Digs Deeper Into the Comics Shelf With a ‘Sex Criminals’ Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/amazon-digs-deeper-into-the-comics-shelf-with-a-sex-criminals-show-2000715736" target="_blank">Amazon Digs Deeper Into the Comics Shelf With a ‘Sex Criminals’ Show</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-29 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/masters-of-universe-toyhed-1280x853.jpg" alt="New ‘Masters of the Universe’ Toys Will Power You Up for the Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,15 +277,6 @@
                 <span class="time">2026-01-29 18:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KG59AYX4SVNDB1CTG2PFZXAJ/hero-image.jpg" alt="Google Just Updated These Android Theft Protection Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-just-updated-these-android-theft-protection-features?utm_medium=RSS" target="_blank">Google Just Updated These Android Theft Protection Features</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-29 17:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 20:03 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 21:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
