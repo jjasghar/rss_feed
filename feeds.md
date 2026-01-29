@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-29 09:10:41 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-29 10:09:35 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, January 29, 2026 - 09:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, January 29, 2026 - 10:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/29/nx-s1-5686770/national-film-registry-clueless-karate-kid" target="_blank">&#x27;Philadelphia,&#x27; &#x27;Clueless,&#x27; &#x27;The Karate Kid&#x27; added to the National Film Registry</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-29 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/29/video-us-agents-placed-on-leave-over-pretti-shooting-as-vigil-held?traffic_source=rss" target="_blank">Video: US agents placed on leave over Pretti shooting as vigil held</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-29 09:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/1/29/bangladesh-election-is-the-military-still-a-power-behind-the-scenes?traffic_source=rss" target="_blank">Bangladesh election: Is the military still a power behind the scenes?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-29 05:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/29/g-s1-107734/minneapolis-alex-pretti-renee-macklin-good-ice-border-patrol-trump" target="_blank">How the Minneapolis killings look from Trump country</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-29 05:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/29/nx-s1-5689902/us-life-expectancy-rises" target="_blank">U.S. life expectancy hits a new high, as deaths from overdoses and COVID fall</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-29 05:01</span>
             </div>
         </div>
 </div>
@@ -164,6 +168,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sanjaysah/sanjayos-i-built-an-ai-powered-operating-system-for-my-portfolio-3bih" target="_blank">SanjayOS: I Built an AI-Powered Operating System for My Portfolio 🚀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-29 10:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images" target="_blank">Europe&#x27;s next-generation weather satellite sends back first images</a></span>
                 <span class="feed">Hacker News</span>
@@ -206,20 +219,20 @@
                 <span class="time">2026-01-29 04:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pradumnasaraf/using-profiles-with-docker-compose-238l" target="_blank">Using Profiles with Docker Compose</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-29 04:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/shutterstock_2163957793-1280x853.jpg" alt="Microsoft’s AI Spend Is Starting To Spook Investors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/microsofts-ai-spend-is-starting-to-spook-investors-2000715208" target="_blank">Microsoft’s AI Spend Is Starting To Spook Investors</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-29 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/08/tesla-model-x-recall-getty-2021-china-1024x681.jpg" alt="Tesla Kills Models S and X" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,15 +276,6 @@
                 <span class="title"><a href="https://lifehacker.com/does-walking-really-count-as-cardio?utm_medium=RSS" target="_blank">Does Walking Really Count As Cardio?</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-28 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Wonder-Man-Chinese-theater-1280x853.jpg" alt="How the 2 Big Celeb Cameos in ‘Wonder Man’ Came About" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-the-2-big-celeb-cameos-in-wonder-man-came-about-2000715062" target="_blank">How the 2 Big Celeb Cameos in ‘Wonder Man’ Came About</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-28 23:15</span>
             </div>
         </div>
 </div>
@@ -320,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 09:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 10:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
