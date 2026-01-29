@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-29 16:07:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-29 17:11:17 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 12 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, January 29, 2026 - 16:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, January 29, 2026 - 17:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2026/1/29/aje-onl-pal_lastcaptive_av_v3-270126?traffic_source=rss" target="_blank">Inside Gaza after Israel’s last captive is found</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-29 16:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/29/g-s1-106920/ivf-eggs-india" target="_blank">Why these women break the law to sell their eggs for IVF</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-29 15:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5666/live/1a709de0-fcdf-11f0-853a-2b6f40b40d41.jpg" alt="China to relax travel rules for British visitors, UK says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +101,29 @@
                 <span class="time">2026-01-29 14:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/29/trump-border-czar-says-staying-in-minnesota-until-problems-gone?traffic_source=rss" target="_blank">Trump border czar says staying in Minnesota ‘until problem’s gone’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-29 13:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Border czar Tom Homan speaks in Minneapolis: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Border czar Tom Homan speaks in Minneapolis: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-29 12:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/697b91bbe49b1882e7ffc198/master/pass/012826-AI-toy-children-chat-3.jpg" alt="An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/an-ai-toy-exposed-50000-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account/" target="_blank">An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-29 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey" target="_blank">Half of developers think gen AI is bad for the gaming industry</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-29 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +160,47 @@
                 <span class="time">2026-01-29 14:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/869542/corsair-galleon-stream-deck-gaming-keyboard-review" target="_blank">The Stream Deck-packed gaming keyboard is a monster of good ideas</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-29 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697ae0c8d71746a1e6c69319/master/pass/The%20Best%20Ski%20Gloves%20and%20Mittens.png" alt="Best Ski Gloves and Mittens, Editor Tested and Reviewed (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-ski-gloves-and-mittens/" target="_blank">Best Ski Gloves and Mittens, Editor Tested and Reviewed (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-29 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/60f36337-9ba7-4182-a278-4d497f1cf191_420x300.png" alt="The Pulse #161: open source projects overwhelmed by AI-generated security reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-161" target="_blank">The Pulse #161: open source projects overwhelmed by AI-generated security reports</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-01-29 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdm7l3fhjiw9cu2a2m5ol.png" alt="The Internet’s Addiction to Being Contrary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/richardpascoe/the-internets-addiction-to-being-contrary-42ni" target="_blank">The Internet’s Addiction to Being Contrary</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-29 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18835633&w=600" alt="5 Technical Strategies for Scaling SaaS Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/5-technical-strategies-for-scaling-saas-applicatio" target="_blank">5 Technical Strategies for Scaling SaaS Applications</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-29 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/open-gaming-collective-launch/" target="_blank">A Bunch of Developers Have Come Together to Make Linux Gaming Great</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-29 16:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/engineering-speed-scale/en/headerimage/engineering-speed-scale-header-1767006608903.jpg" alt="Article: Engineering Speed at Scale — Architectural Lessons from Sub-100-ms APIs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -183,47 +219,29 @@
                 <span class="time">2026-01-29 15:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18852298&w=600" alt="Cognitive Load-Aware DevOps: Improving SRE Reliability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/cognitive-load-devops-sre-reliability" target="_blank">Cognitive Load-Aware DevOps: Improving SRE Reliability</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-29 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/01/29/are-you-learning-with-ai-we-want-to-know-about-it/" target="_blank">Are you learning with AI? We want to know about it!</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-01-29 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mediocredevops/lets-deploy-kgateway-using-vcluster-1e1n" target="_blank">Let&#x27;s deploy kgateway using vCluster</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-29 14:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/linux-kernel-continuity-plan/" target="_blank">What Happens to Linux After Linus Torvalds? We Finally Have the Answer to This Uncomfortable Question</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-29 14:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/inception-1280x853.jpg" alt="‘Inception’ and ‘The Incredibles’ Among 2025’s National Film Registry Inductees" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/national-film-registry-library-of-congress-inception-the-thing-2000715469" target="_blank">‘Inception’ and ‘The Incredibles’ Among 2025’s National Film Registry Inductees</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-29 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/lawyermario-1280x720.jpg" alt="Nintendo Is Going To Make It Really Hard To Share Screenshots In Tomodachi Life: Living the Dream" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tomodachi-life-living-the-dream-direct-image-sharing-screenshot-block-2000664167" target="_blank">Nintendo Is Going To Make It Really Hard To Share Screenshots In Tomodachi Life: Living the Dream</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-29 16:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/shokz-headphones-1280x853.jpg" alt="SHOKZ OpenMove Is Cheaper Than Ever as Old Open-Ear Sport Headphones Get Cleared Out on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,29 +278,20 @@
                 <span class="time">2026-01-29 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KG4Z7HEW0A5CCVXC50KC8TCJ/hero-image.png" alt="This Ultra-Portable JBL Speaker Is Over 40% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/jbl-flip-7-speaker-sale-january-2026?utm_medium=RSS" target="_blank">This Ultra-Portable JBL Speaker Is Over 40% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-29 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/shutterstock_1064329202-scaled.jpg?fit=2560%2C1707&amp;quality=60&amp;ssl=1" alt="Scared to check your bank balance? A neuroscientist has tips for you." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/29/scared-to-check-your-bank-balance-a-neuroscientist-has-tips-for-you.html" target="_blank">Scared to check your bank balance? A neuroscientist has tips for you.</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-29 13:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1769669183-20260129_edit.png" alt="Saturday Morning Breakfast Cereal - Nothing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/nothing-3" target="_blank">Saturday Morning Breakfast Cereal - Nothing</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-01-29 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5754.png" alt="Speech Therapy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -310,22 +319,13 @@
                 <span class="time">2026-01-28 17:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1769389831-20260128.png" alt="Saturday Morning Breakfast Cereal - It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/it" target="_blank">Saturday Morning Breakfast Cereal - It</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-28 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 16:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 17:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
