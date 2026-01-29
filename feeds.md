@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-29 08:06:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-29 09:10:41 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, January 29, 2026 - 08:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, January 29, 2026 - 09:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/29/china-warns-against-us-military-adventurism-as-iran-tensions-escalate?traffic_source=rss" target="_blank">China warns against US ‘military adventurism’ as Iran tensions escalate</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-29 08:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/29/nx-s1-5689902/us-life-expectancy-rises" target="_blank">U.S. life expectancy hits a new high, as deaths from overdoses and COVID fall</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-29 05:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/29/russia-ukraine-war-list-of-key-events-day-1435?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,435</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-29 00:28</span>
             </div>
         </div>
 </div>
@@ -163,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images" target="_blank">Europe&#x27;s next-generation weather satellite sends back first images</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-29 07:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dineshelumalai/when-serverless-is-more-expensive-5-architecture-patterns-that-should-use-ecs-instead-1o4l" target="_blank">When Serverless is MORE Expensive: 5 Architecture Patterns That Should Use ECS Instead</a></span>
                 <span class="feed">DEV Community</span>
@@ -181,6 +191,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/" target="_blank">Some notes on starting to use Django</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-01-29 04:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-26-05/" target="_blank">FOSS Weekly #26.05: Clawdbot Mania, NexPhone, Things We No Longer Use Terminal for and More Linux Stuff</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
@@ -194,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/pradumnasaraf/using-profiles-with-docker-compose-238l" target="_blank">Using Profiles with Docker Compose</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-29 04:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://web.mit.edu/jemorris/humor/500-miles" target="_blank">We can&#x27;t send mail farther than 500 miles (2002)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-29 03:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-consumer-defined-interfaces-13jn" target="_blank">The Secret Life of Go: Consumer-Defined Interfaces</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-29 03:43</span>
             </div>
         </div>
 </div>
@@ -319,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 08:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 09:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
