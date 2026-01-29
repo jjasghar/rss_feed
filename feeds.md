@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-29 00:06:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-29 01:30:34 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, January 29, 2026 - 00:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, January 29, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/29/russia-ukraine-war-list-of-key-events-day-1435?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,435</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-29 00:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/pretti-1-ht-er-260128_1769644527285_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Video appears to show Alex Pretti in prior clash with feds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: Video appears to show Alex Pretti in prior clash with feds</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-29 00:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/ice-protest-1-gty-jef-260128_1769606571882_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Acting ICE director no longer required to appear in court" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,29 +102,29 @@
                 <span class="time">2026-01-28 21:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/28/colombian-lawmaker-among-15-missing-in-plane-disappearance?traffic_source=rss" target="_blank">Colombian lawmaker among 15 missing in plane disappearance</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-28 20:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/28/nx-s1-5691764/fulton-county-fbi-search-election" target="_blank">The FBI conducts a search at the Fulton County election office in Georgia</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-28 19:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/869926/apple-hires-sebastiaan-de-with-design-team-halide-lux" target="_blank">Halide co-founder Sebastiaan de With is joining Apple&amp;#8217;s design team</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-28 23:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2205801667-500x500-1769638341.jpg" alt="Tesla: 2024 was bad, 2025 was worse as profit falls 46 percent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/01/2025-sees-teslas-annual-revenue-fall-for-the-first-time/" target="_blank">Tesla: 2024 was bad, 2025 was worse as profit falls 46 percent</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-28 22:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Screenshot-2026-01-28-at-4.09.33-PM-500x500-1769634775.jpeg" alt="Seven things to know about how Apple&#x27;s Creator Studio subscriptions work" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,29 +161,20 @@
                 <span class="time">2026-01-28 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/anthem-500x500.jpg" alt="Why reviving the shuttered Anthem is turning out tougher than expected" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/01/why-reviving-the-shuttered-anthem-is-turning-out-tougher-than-expected/" target="_blank">Why reviving the shuttered Anthem is turning out tougher than expected</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-28 18:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/869354/halide-mark-iii-process-zero-update" target="_blank">Process Zero II will let you do a little processing, if you want</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-28 18:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fneyr9u9scxkyth89izit.png" alt="JSONPath Is In! The AI Assistant Will See You Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/david_kershaw_b6916404da6/jsonpath-is-in-the-ai-assistant-will-see-you-now-5cge" target="_blank">JSONPath Is In! The AI Assistant Will See You Now</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-29 01:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,20 +220,38 @@
                 <span class="time">2026-01-28 20:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18851373&w=600" alt="2 Hidden Bottlenecks in Large-Scale Azure Migrations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/hidden-bottlenecks-in-large-scale-azure-migration" target="_blank">2 Hidden Bottlenecks in Large-Scale Azure Migrations</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-28 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/io-from-juno-close-flyby-1280x853.jpg" alt="NASA Detects Most Powerful Eruption Ever on Jupiter’s Volcanic Moon Io" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nasa-detects-most-powerful-eruption-ever-on-jupiters-volcanic-moon-io-2000714963" target="_blank">NASA Detects Most Powerful Eruption Ever on Jupiter’s Volcanic Moon Io</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-29 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/shutterstock_2573761223-scaled.jpg?fit=2560%2C1670&amp;quality=60&amp;ssl=1" alt="Well-made apps and sites" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/28/well-made-apps-and-sites.html" target="_blank">Well-made apps and sites</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-29 00:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2HJYDCTGT4AWW1EX27TGP6/hero-image.jpg" alt="Does Walking Really Count As Cardio?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/does-walking-really-count-as-cardio?utm_medium=RSS" target="_blank">Does Walking Really Count As Cardio?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-28 23:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Wonder-Man-Chinese-theater-1280x853.jpg" alt="How the 2 Big Celeb Cameos in ‘Wonder Man’ Came About" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -242,33 +277,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/28/slop.html" target="_blank">YouTube cracks down on AI slop</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-28 22:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KG31Z06SPVDYTYVGVY444ZSE/hero-image.png" alt="You Can Finally Clean Up Your Mac’s Menu Bar (Without Using Third-Party Software)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-clean-up-your-mac-menu-bar?utm_medium=RSS" target="_blank">You Can Finally Clean Up Your Mac’s Menu Bar (Without Using Third-Party Software)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-28 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/Screenshot-2026-01-28-154423-1280x762.jpg" alt="10 Tips To Know Before You Start Playing Code Vein 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/code-vein-2-tips-beginner-blood-codes-weapons-2000663875" target="_blank">10 Tips To Know Before You Start Playing Code Vein 2</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-28 20:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/measles-HQ-jan-20-2026-1280x855.jpg" alt="South Carolina Measles Outbreak Becomes America’s Largest in 25 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/south-carolina-measles-outbreak-becomes-americas-largest-in-25-years-2000715084" target="_blank">South Carolina Measles Outbreak Becomes America’s Largest in 25 Years</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-28 20:55</span>
             </div>
         </div>
 </div>
@@ -335,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 00:06 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
