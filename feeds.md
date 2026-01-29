@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-29 21:03:11 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-29 22:03:00 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, January 29, 2026 - 21:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, January 29, 2026 - 22:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/29/burkina-faso-military-government-dissolves-political-parties?traffic_source=rss" target="_blank">Burkina Faso’s military government dissolves political parties</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-29 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36e9/live/b45d5c70-fd4a-11f0-b028-cf183ca533c1.jpg" alt="Border tsar Homan promises a &#x27;draw down&#x27; of forces in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg1l8zgglpo?at_medium=RSS&at_campaign=rss" target="_blank">Border tsar Homan promises a &#x27;draw down&#x27; of forces in Minneapolis</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-29 21:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/fulton-county-elections-3-rt-jef-260129_1769701367242_hpMain_4x3t_384.jpg" alt="Trump posts discredited conspiracy theories following seizure of 2020 ballots" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,24 +97,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Minneapolis mayor speaks on federal immigration crackdown</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-29 19:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/29/nx-s1-5691896/medicare-advantage-health-insurance-trump-oz-cms-upcoding" target="_blank">Medicare Advantage insurers face new curbs on overcharges in Trump plan</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-29 18:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/29/mexicos-oil-industry-faces-new-pressures-from-venezuela-oil-under-us?traffic_source=rss" target="_blank">Mexico’s oil industry faces new pressures from Venezuela oil under US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-29 18:35</span>
             </div>
         </div>
 </div>
@@ -168,6 +167,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/amirraouf/your-team-deserves-better-than-a-shared-dev-environment-ephemeral-environments-with-coolify-54gk" target="_blank">Your Team Deserves Better Than a Shared Dev Environment - Ephemeral Environments with Coolify</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-29 21:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/retiring-gpt-4o-and-older-models/" target="_blank">Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-29 21:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/marufrahmanlive/angular-directives-and-pipes-complete-guide-custom-directives-pipes-transformations-2n44" target="_blank">Angular Directives and Pipes: Complete Guide | Custom Directives, Pipes &amp; Transformations</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-29 20:39</span>
@@ -200,29 +217,20 @@
                 <span class="time">2026-01-29 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-ryzen-7-9850x3d-ddr5" target="_blank">DDR5-4800 vs. DDR5-6000 Performance With The AMD Ryzen 7 9850X3D In 300+ Benchmarks</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-29 17:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/60f36337-9ba7-4182-a278-4d497f1cf191_420x300.png" alt="The Pulse #161: open source projects overwhelmed by AI-generated security reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-161" target="_blank">The Pulse #161: open source projects overwhelmed by AI-generated security reports</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-01-29 17:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Dragon-Ball-Super-Galactic-Patrol-Akira-Toriyama-io9-template-circle-2-1280x853.jpg" alt="What Is the Future of ‘Dragon Ball’ Without Akira Toriyama?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/what-is-the-future-of-dragon-ball-without-akira-toriyama-2000715572" target="_blank">What Is the Future of ‘Dragon Ball’ Without Akira Toriyama?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-29 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/sex-criminals-hed-1280x853.jpg" alt="Amazon Digs Deeper Into the Comics Shelf With a ‘Sex Criminals’ Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +276,6 @@
                 <span class="time">2026-01-29 18:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/computer-history-museum-1280x853.jpg" alt="The Computer History Museum’s New Online Portal Is a Nerd’s Dream Come True" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-computer-history-museums-new-online-portal-is-a-nerds-dream-come-true-2000715455" target="_blank">The Computer History Museum’s New Online Portal Is a Nerd’s Dream Come True</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-29 18:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 21:03 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 22:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
