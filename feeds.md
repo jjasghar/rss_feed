@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-29 05:16:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-29 06:10:25 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, January 29, 2026 - 05:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, January 29, 2026 - 06:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/1/29/bangladesh-election-is-the-military-still-a-power-behind-the-scenes?traffic_source=rss" target="_blank">Bangladesh election: Is the military still a power behind the scenes?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-29 05:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/29/g-s1-107734/minneapolis-alex-pretti-renee-macklin-good-ice-border-patrol-trump" target="_blank">How the Minneapolis killings look from Trump country</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-29 05:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,29 +99,29 @@
                 <span class="time">2026-01-29 00:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/ice-protest-1-gty-jef-260128_1769606571882_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Acting ICE director no longer required to appear in court" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: Acting ICE director no longer required to appear in court</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-28 23:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-doctor-yaser-rahmani-rad_7149124.jpg?20260129001501" alt="The doctors who want you to know what happened inside Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/the-doctors-who-want-you-to-know-what-happened-inside-iran-13500411" target="_blank">The doctors who want you to know what happened inside Iran</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-01-28 22:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" alt="15% Off Dyson Promo Code | February 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dyson-cordless-vacuum-promo-code/" target="_blank">15% Off Dyson Promo Code | February 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-29 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/28/meta-burned-19-billion-on-vr-last-year-and-2026-wont-be-any-better/" target="_blank">Meta burned $19 billion on VR last year, and 2026 won’t be any better</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-29 00:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/697902b191e2c42a13c0d351/master/pass/sci-data-center-gas-turbine-2236733386.jpg" alt="Data Centers Are Driving a US Gas Boom" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -132,24 +156,6 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/seven-things-to-know-about-how-apples-creator-studio-subscriptions-work/" target="_blank">Seven things to know about how Apple&#x27;s Creator Studio subscriptions work</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-01-28 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/starlink-snow-500x500.jpg" alt="Starlink demands grant money from states even when residents don&#x27;t buy service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/starlink-demands-grant-money-from-states-even-when-residents-dont-buy-service/" target="_blank">Starlink demands grant money from states even when residents don&#x27;t buy service</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-28 21:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697a4e187173d3b04951493e/master/pass/Company-That-Makes-ICE-Notorious-Face-Recognition-App-Security-2224533016.jpg" alt="Here’s the Company That Sold DHS ICE’s Notorious Face Recognition App" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mobile-fortify-face-recognition-nec-ice-cbp/" target="_blank">Here’s the Company That Sold DHS ICE’s Notorious Face Recognition App</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-28 20:17</span>
             </div>
         </div>
 </div>
@@ -325,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 05:16 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 06:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
