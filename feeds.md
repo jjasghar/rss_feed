@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-01-28 23:03:53 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-29 00:06:39 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, January 28, 2026 - 23:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, January 29, 2026 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/ice-protest-1-gty-jef-260128_1769606571882_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Acting ICE director no longer required to appear in court" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: Acting ICE director no longer required to appear in court</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-28 23:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260127-donald-trump-ew-1242p-4236ee.jpg" alt="Inside the White House in the chaotic hours after Alex Pretti&#x27;s shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/white-house-chaotic-hours-alex-pretti-shooting-rcna256160" target="_blank">Inside the White House in the chaotic hours after Alex Pretti&#x27;s shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-28 22:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +92,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/28/nx-s1-5691764/fulton-county-fbi-search-election" target="_blank">The FBI conducts a search at the Fulton County election office in Georgia</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-28 19:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/28/us-federal-reserve-holds-interest-rates-steady-despite-political-pressure?traffic_source=rss" target="_blank">US Federal Reserve holds interest rates steady despite political pressure</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-28 19:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cbp-minneapolis-pretti-rt-jef-260128_1769614958525_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: 2 officers involved in Pretti shooting placed on leave" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: 2 officers involved in Pretti shooting placed on leave</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-28 18:18</span>
             </div>
         </div>
 </div>
@@ -174,6 +170,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://alecmuffett.com/article/143548" target="_blank">Somebody used spoofed ADSB signals to raster the meme of JD Vance</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-28 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/debashis_das_4deca65ec224/emmet-for-html-a-beginners-guide-to-writing-faster-markup-bl0" target="_blank">Emmet for HTML: A Beginner’s Guide to Writing Faster Markup</a></span>
                 <span class="feed">DEV Community</span>
@@ -207,20 +212,20 @@
                 <span class="time">2026-01-28 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code" target="_blank">The creator of Clawd: &quot;I ship code I don&#x27;t read&quot;</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-01-28 18:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Wonder-Man-Chinese-theater-1280x853.jpg" alt="How the 2 Big Celeb Cameos in ‘Wonder Man’ Came About" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-the-2-big-celeb-cameos-in-wonder-man-came-about-2000715062" target="_blank">How the 2 Big Celeb Cameos in ‘Wonder Man’ Came About</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-28 23:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/Xbox.jpg" alt="Xbox Hardware Is Still Falling, Falling, Falling" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -228,6 +233,24 @@
                 <span class="title"><a href="https://kotaku.com/xbox-earnings-q2-game-pass-hardware-next-gen-pc-2000663911" target="_blank">Xbox Hardware Is Still Falling, Falling, Falling</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-28 22:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Typical-sloptube-content.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="YouTube cracks down on AI slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/28/slop.html" target="_blank">YouTube cracks down on AI slop</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-28 22:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KG31Z06SPVDYTYVGVY444ZSE/hero-image.png" alt="You Can Finally Clean Up Your Mac’s Menu Bar (Without Using Third-Party Software)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-clean-up-your-mac-menu-bar?utm_medium=RSS" target="_blank">You Can Finally Clean Up Your Mac’s Menu Bar (Without Using Third-Party Software)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-28 22:00</span>
             </div>
         </div>
 <div class="story">
@@ -246,33 +269,6 @@
                 <span class="title"><a href="https://gizmodo.com/south-carolina-measles-outbreak-becomes-americas-largest-in-25-years-2000715084" target="_blank">South Carolina Measles Outbreak Becomes America’s Largest in 25 Years</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-28 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/starlink-launch-1-1280x853.jpg" alt="SpaceX Won’t Go Public Until the Planets Literally Align, Sources Say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spacex-wont-go-public-until-the-planets-literally-align-sources-say-2000715151" target="_blank">SpaceX Won’t Go Public Until the Planets Literally Align, Sources Say</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-28 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/01/elon-musk-nazi-salute-1280x853.jpg" alt="The CEO of the ADL Said Elon Musk Is the ‘Henry Ford of Our Time.’ Unfortunately, He Was Right." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-ceo-of-the-adl-said-elon-musk-was-the-henry-ford-of-his-time-unfortunately-he-was-right-2000715058" target="_blank">The CEO of the ADL Said Elon Musk Is the ‘Henry Ford of Our Time.’ Unfortunately, He Was Right.</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-28 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/Screenshot-2026-01-28-124745.jpg" alt="Kingdom Come: Deliverance Will Get A Much Needed ‘Next-Gen’ Upgrade Eight Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kingdom-come-deliverance-ps5-upgrade-2000663837" target="_blank">Kingdom Come: Deliverance Will Get A Much Needed ‘Next-Gen’ Upgrade Eight Years Later</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-28 17:58</span>
             </div>
         </div>
 </div>
@@ -339,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 23:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
