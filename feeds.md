@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-29 02:51:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-29 03:44:05 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, January 29, 2026 - 02:52 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, January 29, 2026 - 03:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -64,6 +64,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/28/nx-s1-5684154/tesla-earnings-2025" target="_blank">Tesla profits slumped 46% last year, as it lost its crown as the top EV seller</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-29 00:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/ice-protest-1-gty-jef-260128_1769606571882_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Acting ICE director no longer required to appear in court" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -88,15 +97,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/white-house-chaotic-hours-alex-pretti-shooting-rcna256160" target="_blank">Inside the White House in the chaotic hours after Alex Pretti&#x27;s shooting</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-01-28 22:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/1/28/what-will-be-the-impact-of-the-eu-india-trade-pact?traffic_source=rss" target="_blank">What will be the impact of the EU-India trade pact?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-28 22:23</span>
             </div>
         </div>
 </div>
@@ -166,6 +166,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-consumer-defined-interfaces-13jn" target="_blank">The Secret Life of Go: Consumer-Defined Interfaces</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-29 03:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/lukilabs/beautiful-mermaid" target="_blank">Render Mermaid diagrams as SVGs or ASCII art</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-29 02:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/GNU-gettext-1.0" target="_blank">GNU gettext Reaches Version 1.0 After 30+ Years In Development - Adds LLM Features</a></span>
                 <span class="feed">Phoronix</span>
@@ -197,24 +215,6 @@
                 <span class="title"><a href="https://alecmuffett.com/article/143548" target="_blank">Somebody used spoofed ADSB signals to raster the meme of JD Vance</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-28 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/debashis_das_4deca65ec224/emmet-for-html-a-beginners-guide-to-writing-faster-markup-bl0" target="_blank">Emmet for HTML: A Beginner’s Guide to Writing Faster Markup</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-28 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wasmer-7.0-Released" target="_blank">Wasmer 7.0 Released For Advancing WebAssembly On The Desktop &amp; Anywhere</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-28 21:13</span>
             </div>
         </div>
 </div>
@@ -282,6 +282,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5754.png" alt="Speech Therapy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5754" target="_blank">Speech Therapy</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-01-29 02:03</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -331,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 02:52 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 03:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
