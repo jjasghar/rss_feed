@@ -1,32 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-01-29 19:11:41 UTC -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-01-29 20:03:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, January 29, 2026 - 19:11 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, January 29, 2026 - 20:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/29/iran-slams-eus-terrorist-designation-for-irgc-as-hypocritical?traffic_source=rss" target="_blank">Iran slams EU’s ‘terrorist’ designation for IRGC as hypocritical</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-29 19:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Minneapolis mayor speaks on federal immigration crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,21 +84,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a72e/live/aa66c7a0-fd32-11f0-a8b8-bdd2c5f9bcad.jpg" alt="EU adds Iran&#x27;s Revolutionary Guards to terrorist list" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c20gypw8enjo?at_medium=RSS&at_campaign=rss" target="_blank">EU adds Iran&#x27;s Revolutionary Guards to terrorist list</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-29 16:49</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2026/1/29/aje-onl-pal_lastcaptive_av_v3-270126?traffic_source=rss" target="_blank">Inside Gaza after Israel’s last captive is found</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-29 16:49</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/29/gunfire-blasts-heard-airport-niamey-niger-planes-hit-reports" target="_blank">Heavy security deployed at airport in Niger capital after overnight explosions</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-29 17:09</span>
             </div>
         </div>
 </div>
@@ -101,6 +97,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/696fc702e199dabd21f9dbd5/master/pass/HBO-Movie-Guide-Smashing-Machine-Culture-TSM_01555R.jpg" alt="The 45 Best Movies on HBO Max Right Now (February 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-movies-hbo-max-right-now/" target="_blank">The 45 Best Movies on HBO Max Right Now (February 2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-29 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6978d03a04c5e12896469276/master/pass/012726_ICE-vs-AI-Fanfic.jpg" alt="AI-Generated Anti-ICE Videos Are Getting the Fanfic Treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +151,20 @@
                 <span class="time">2026-01-29 17:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697b91bbe49b1882e7ffc198/master/pass/012826-AI-toy-children-chat-3.jpg" alt="An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/an-ai-toy-exposed-50000-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account/" target="_blank">An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-29 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/marufrahmanlive/jwt-authentication-in-expressjs-and-nodejs-complete-guide-2261" target="_blank">JWT Authentication in Express.js and Node.js: Complete Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-29 19:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,30 +193,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/" target="_blank">Project Genie: Experimenting with infinite, interactive worlds</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-29 17:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdm7l3fhjiw9cu2a2m5ol.png" alt="The Internet’s Addiction to Being Contrary" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/richardpascoe/the-internets-addiction-to-being-contrary-42ni" target="_blank">The Internet’s Addiction to Being Contrary</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-29 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18835633&w=600" alt="5 Technical Strategies for Scaling SaaS Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/5-technical-strategies-for-scaling-saas-applicatio" target="_blank">5 Technical Strategies for Scaling SaaS Applications</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-29 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/open-gaming-collective-launch/" target="_blank">A Bunch of Developers Have Come Together to Make Linux Gaming Great</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-29 16:56</span>
             </div>
         </div>
 </div>
@@ -229,12 +225,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KG5ESVQBGC9QTJJPMJJA846M/hero-image.png" alt="Seven Products to Protect Your House From Snow and Ice Damage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/best-products-to-protect-your-house-from-snow-and-ice-damage?utm_medium=RSS" target="_blank">Seven Products to Protect Your House From Snow and Ice Damage</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-29 19:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/ss_1dca9b5175b902ffef349a6743a2d-1280x720.jpg" alt="Highguard’s First Patch Brings Much-Requested Fixes, But PC Optimization Is Still Being Worked On" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/highguards-patch-note-fov-ps5-crash-pc-optimization-2000664201" target="_blank">Highguard’s First Patch Brings Much-Requested Fixes, But PC Optimization Is Still Being Worked On</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-29 18:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Tdiner-e1753471820584.jpg?fit=600%2C340&amp;quality=60&amp;ssl=1" alt="An &#x27;avowed ketamine user&#x27; explains why robots are the future" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/29/an-avowed-ketamine-user-explains-why-robots-are-the-future.html" target="_blank">An &#x27;avowed ketamine user&#x27; explains why robots are the future</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-29 18:22</span>
             </div>
         </div>
 <div class="story">
@@ -253,24 +267,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/google-just-updated-these-android-theft-protection-features?utm_medium=RSS" target="_blank">Google Just Updated These Android Theft Protection Features</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-29 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/inception-1280x853.jpg" alt="‘Inception’ and ‘The Incredibles’ Among 2025’s National Film Registry Inductees" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/national-film-registry-library-of-congress-inception-the-thing-2000715469" target="_blank">‘Inception’ and ‘The Incredibles’ Among 2025’s National Film Registry Inductees</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-29 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/lawyermario-1280x720.jpg" alt="Nintendo Is Going To Make It Really Hard To Share Screenshots In Tomodachi Life: Living the Dream" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tomodachi-life-living-the-dream-direct-image-sharing-screenshot-block-2000664167" target="_blank">Nintendo Is Going To Make It Really Hard To Share Screenshots In Tomodachi Life: Living the Dream</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-29 16:35</span>
             </div>
         </div>
 </div>
@@ -301,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 19:11 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 20:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
