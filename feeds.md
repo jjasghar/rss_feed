@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-29 07:14:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-29 08:06:13 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, January 29, 2026 - 07:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, January 29, 2026 - 08:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/29/car-ramming-at-largest-synagogue-in-brooklyn?traffic_source=rss" target="_blank">Car ramming at largest synagogue in Brooklyn</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-29 07:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e76/live/adda0e50-fce3-11f0-a8b8-bdd2c5f9bcad.jpg" alt="What could happen if the US strikes Iran? Here are seven scenarios" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce3kenge1k9o?at_medium=RSS&at_campaign=rss" target="_blank">What could happen if the US strikes Iran? Here are seven scenarios</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-29 06:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +96,20 @@
                 <span class="time">2026-01-29 00:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/pretti-1-ht-er-260128_1769644527285_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Video appears to show Alex Pretti in prior clash with feds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: Video appears to show Alex Pretti in prior clash with feds</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-29 00:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/28/nx-s1-5684154/tesla-earnings-2025" target="_blank">Tesla profits slumped 46% last year, as it lost its crown as the top EV seller</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-29 00:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/29/deezer-makes-it-easier-for-rival-platforms-to-take-a-stance-against-ai-generated-music/" target="_blank">Deezer makes it easier for rival platforms to take a stance against AI-generated music</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-29 08:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="50% Off Blue Apron Promo Codes | February 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +155,6 @@
                 <span class="time">2026-01-28 23:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2205801667-500x500-1769638341.jpg" alt="Tesla: 2024 was bad, 2025 was worse as profit falls 46 percent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/01/2025-sees-teslas-annual-revenue-fall-for-the-first-time/" target="_blank">Tesla: 2024 was bad, 2025 was worse as profit falls 46 percent</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-28 22:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +167,15 @@
                 <span class="title"><a href="https://dev.to/dineshelumalai/when-serverless-is-more-expensive-5-architecture-patterns-that-should-use-ecs-instead-1o4l" target="_blank">When Serverless is MORE Expensive: 5 Architecture Patterns That Should Use ECS Instead</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-29 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/google-deepmind-atlas/en/headerimage/generatedHeaderImage-1769596898916.jpg" alt="Google DeepMind Introduces ATLAS Scaling Laws for Multilingual Language Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/google-deepmind-atlas/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google DeepMind Introduces ATLAS Scaling Laws for Multilingual Language Models</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-29 06:09</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-consumer-defined-interfaces-13jn" target="_blank">The Secret Life of Go: Consumer-Defined Interfaces</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-29 03:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/lukilabs/beautiful-mermaid" target="_blank">Render Mermaid diagrams as SVGs or ASCII art</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-29 02:08</span>
             </div>
         </div>
 </div>
@@ -316,22 +314,13 @@
                 <span class="time">2026-01-28 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/01/28/guarding-while-high" target="_blank">Guarding While High</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-28 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 07:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 08:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
