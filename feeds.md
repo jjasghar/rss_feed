@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-29 17:11:17 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-29 18:07:28 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 12 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, January 29, 2026 - 17:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, January 29, 2026 - 18:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/29/g-s1-107762/senate-shutdown-vote-fails" target="_blank">Senate fails to advance spending bills as Democrats push for DHS reforms</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-29 17:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a72e/live/aa66c7a0-fd32-11f0-a8b8-bdd2c5f9bcad.jpg" alt="EU adds Iran&#x27;s Revolutionary Guards to terrorist list" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c20gypw8enjo?at_medium=RSS&at_campaign=rss" target="_blank">EU adds Iran&#x27;s Revolutionary Guards to terrorist list</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-29 16:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,6 +83,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1311/live/110208b0-fd12-11f0-833e-6bf0186607ca.jpg" alt="Great Ormond Street doctor who botched surgery harmed nearly 100 children" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq841e4n4v8o?at_medium=RSS&at_campaign=rss" target="_blank">Great Ormond Street doctor who botched surgery harmed nearly 100 children</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-29 15:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5666/live/1a709de0-fcdf-11f0-853a-2b6f40b40d41.jpg" alt="China to relax travel rules for British visitors, UK says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -74,38 +100,38 @@
                 <span class="time">2026-01-29 14:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/29/key-questions-about-us-military-build-up-near-iran?traffic_source=rss" target="_blank">Key questions about US military build-up near Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-29 14:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769695587854_now_brk_homan_ice_improvements_260129_1920x1080-hb5pwc.jpg" alt="Tom Homan says ICE operation in Minneapolis ‘can be improved&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/tom-homan-ice-operation-in-minneapolis-can-be-improved-256806981872" target="_blank">Tom Homan says ICE operation in Minneapolis ‘can be improved&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-29 14:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/homan-presser-4-gty-jewf-260129_1769693988760_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Homan pledges unprofessional officers will be &#x27;dealt with&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-doj-investigating-apparent/?id=129340693" target="_blank">Minneapolis live updates: Homan pledges unprofessional officers will be &#x27;dealt with&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-29 14:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/697aebbc477ee8b8aa7d04e1/master/pass/GettyImages-2255809580.jpg" alt="ICE Pretends It’s a Military Force. Its Tactics Would Get Real Soldiers Killed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ice-pretends-its-a-military-force-its-tactics-would-get-real-soldiers-killed/" target="_blank">ICE Pretends It’s a Military Force. Its Tactics Would Get Real Soldiers Killed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-29 18:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/29/waymo-sfo-airport-robotaxis/" target="_blank">Waymo robotaxis are now giving rides to and from San Francisco International Airport</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-29 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/08/robot_science_header-500x500.jpg" alt="New OpenAI tool renews fears that “AI slop” will overwhelm scientific research" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/01/new-openai-tool-renews-fears-that-ai-slop-will-overwhelm-scientific-research/" target="_blank">New OpenAI tool renews fears that “AI slop” will overwhelm scientific research</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-29 17:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/697b91bbe49b1882e7ffc198/master/pass/012826-AI-toy-children-chat-3.jpg" alt="An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,38 +159,20 @@
                 <span class="time">2026-01-29 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/the-AI-ghost-in-the-machine-500x500.jpg" alt="Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/" target="_blank">Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-29 15:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/29/teslas-energy-storage-business-is-growing-faster-than-any-other-part-of-the-company/" target="_blank">Tesla’s energy storage business is growing faster than any other part of the company</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-29 14:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697b27025f535c8154fca49b/master/pass/GettyImages-2249832873.jpg" alt="Trump Admin&#x27;s Plans for $500 Million USIP Building May Violate Court Order, Say Former Workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/trump-admins-plans-for-dollar500-million-usip-building-may-violate-court-order-say-former-workers/" target="_blank">Trump Admin&#x27;s Plans for $500 Million USIP Building May Violate Court Order, Say Former Workers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-29 14:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-ryzen-7-9850x3d-ddr5" target="_blank">DDR5-4800 vs. DDR5-6000 Performance With The AMD Ryzen 7 9850X3D In 300+ Benchmarks</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-29 17:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://substack-post-media.s3.amazonaws.com/public/images/60f36337-9ba7-4182-a278-4d497f1cf191_420x300.png" alt="The Pulse #161: open source projects overwhelmed by AI-generated security reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,20 +218,29 @@
                 <span class="time">2026-01-29 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/06/Ubuntu-Snap-package.jpg?resize=406%2C232&amp;ssl=1" alt="Free Up Disk Space by Removing Old Snap Versions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/remove-snap-revisions-ubuntu-disk-space" target="_blank">Free Up Disk Space by Removing Old Snap Versions</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-29 15:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/computer-history-museum-1280x853.jpg" alt="The Computer History Museum’s New Online Portal Is a Nerd’s Dream Come True" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-computer-history-museums-new-online-portal-is-a-nerds-dream-come-true-2000715455" target="_blank">The Computer History Museum’s New Online Portal Is a Nerd’s Dream Come True</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-29 18:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KG59AYX4SVNDB1CTG2PFZXAJ/hero-image.jpg" alt="Google Just Updated These Android Theft Protection Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-just-updated-these-android-theft-protection-features?utm_medium=RSS" target="_blank">Google Just Updated These Android Theft Protection Features</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-29 17:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/inception-1280x853.jpg" alt="‘Inception’ and ‘The Incredibles’ Among 2025’s National Film Registry Inductees" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -243,39 +260,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/flowkey-Piano-Learning-App.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Learn to play the Tetris theme flawlessly for hundreds less with flowkey" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/29/learn-to-play-the-tetris-theme-flawlessly-for-hundreds-less-with-flowkey.html" target="_blank">Learn to play the Tetris theme flawlessly for hundreds less with flowkey</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-29 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/shokz-headphones-1280x853.jpg" alt="SHOKZ OpenMove Is Cheaper Than Ever as Old Open-Ear Sport Headphones Get Cleared Out on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/shokz-openmove-is-cheaper-than-ever-as-old-open-ear-sport-headphones-get-cleared-out-on-amazon-2000663931" target="_blank">SHOKZ OpenMove Is Cheaper Than Ever as Old Open-Ear Sport Headphones Get Cleared Out on Amazon</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-29 15:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KG51BYTGZ282TNM3ZC746SV9/hero-image.png" alt="This Samsung 77-Inch OLED TV Is Under $1,500 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-77-inch-oled-s85f-tv-sale-january-2026?utm_medium=RSS" target="_blank">This Samsung 77-Inch OLED TV Is Under $1,500 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-29 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/Cairn_KeyArt_4K_LargeShot_NoLogo-1280x720.jpg" alt="This Chill Climbing Game Was So Frustrating It Sent Me Into A Mini-Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/cairn-review-game-bakers-haven-impressions-furi-2000664121" target="_blank">This Chill Climbing Game Was So Frustrating It Sent Me Into A Mini-Crisis</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-29 14:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/future-like-you.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="The internet isn&#x27;t just shortening your attention span — it&#x27;s dissolving your identity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/29/the-internet-isnt-just-shortening-your-attention-span-its-dissolving-your-identity.html" target="_blank">The internet isn&#x27;t just shortening your attention span — it&#x27;s dissolving your identity</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-29 14:00</span>
             </div>
         </div>
 </div>
@@ -301,31 +300,13 @@
                 <span class="time">2026-01-29 02:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/28/guarding-while-high" target="_blank">Guarding While High</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-28 17:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/as-an-adult/" target="_blank">As an Adult</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-01-28 17:48</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 17:11 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 18:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
