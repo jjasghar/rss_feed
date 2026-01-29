@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-29 15:09:27 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-29 16:07:58 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, January 29, 2026 - 15:09 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, January 29, 2026 - 16:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -69,6 +66,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769695587854_now_brk_homan_ice_improvements_260129_1920x1080-hb5pwc.jpg" alt="Tom Homan says ICE operation in Minneapolis ‘can be improved&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/tom-homan-ice-operation-in-minneapolis-can-be-improved-256806981872" target="_blank">Tom Homan says ICE operation in Minneapolis ‘can be improved&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-29 14:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/homan-presser-4-gty-jewf-260129_1769693988760_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Homan pledges unprofessional officers will be &#x27;dealt with&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -95,15 +101,6 @@
                 <span class="time">2026-01-29 12:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/29/g-s1-107759/up-first-newsletter-government-shutdown-possible-immigration-liam-ramos-fed-inflation-interest-rates" target="_blank">DHS funding battle risks shutdown. And, Fed holds rates steady despite Trump pressure</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-29 12:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -112,10 +109,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/869824/right-wing-influencers-nick-shirley-slopaganda" target="_blank">The rise of the slopagandist</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-29 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/the-AI-ghost-in-the-machine-500x500.jpg" alt="Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/" target="_blank">Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-29 15:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/01/29/teslas-energy-storage-business-is-growing-faster-than-any-other-part-of-the-company/" target="_blank">Tesla’s energy storage business is growing faster than any other part of the company</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-29 14:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/697b27025f535c8154fca49b/master/pass/GettyImages-2249832873.jpg" alt="Trump Admin&#x27;s Plans for $500 Million USIP Building May Violate Court Order, Say Former Workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/trump-admins-plans-for-dollar500-million-usip-building-may-violate-court-order-say-former-workers/" target="_blank">Trump Admin&#x27;s Plans for $500 Million USIP Building May Violate Court Order, Say Former Workers</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-29 14:39</span>
             </div>
         </div>
 <div class="story">
@@ -136,38 +160,38 @@
                 <span class="time">2026-01-29 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/" target="_blank">Waymo robotaxi hits a child near an elementary school in Santa Monica</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-29 12:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/04/image-1-500x500.png" alt="Early Universe&#x27;s supermassive black holes grew in cocoons like butterflies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/01/early-universes-supermassive-black-holes-grew-in-cocoons-like-butterflies/" target="_blank">Early Universe&#x27;s supermassive black holes grew in cocoons like butterflies</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-29 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697b169865447f8ad5aa29e7/master/pass/ScienceSourceImages_2524088_WebRes.jpg" alt="This Chinese Startup Wants to Build a New Brain-Computer Interface—No Implant Required" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/this-chinese-startup-wants-to-build-a-new-brain-computer-interface-no-implant-required-gestalta/" target="_blank">This Chinese Startup Wants to Build a New Brain-Computer Interface—No Implant Required</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-29 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/engineering-speed-scale/en/headerimage/engineering-speed-scale-header-1767006608903.jpg" alt="Article: Engineering Speed at Scale — Architectural Lessons from Sub-100-ms APIs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/engineering-speed-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Engineering Speed at Scale — Architectural Lessons from Sub-100-ms APIs</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-29 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/06/Ubuntu-Snap-package.jpg?resize=406%2C232&amp;ssl=1" alt="Free Up Disk Space by Removing Old Snap Versions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/remove-snap-revisions-ubuntu-disk-space" target="_blank">Free Up Disk Space by Removing Old Snap Versions</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-29 15:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18852298&w=600" alt="Cognitive Load-Aware DevOps: Improving SRE Reliability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/cognitive-load-devops-sre-reliability" target="_blank">Cognitive Load-Aware DevOps: Improving SRE Reliability</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-29 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,33 +219,6 @@
                 <span class="time">2026-01-29 14:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18852288&w=600" alt="Automating AWS Glue Infra and Code Reviews With RAG and Amazon Bedrock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/automate-aws-glue-reviews-rag-bedrock" target="_blank">Automating AWS Glue Infra and Code Reviews With RAG and Amazon Bedrock</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-29 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/design_shake_3b010ccbcec4/i-built-a-social-network-as-a-challenge-did-i-waste-my-time-58mb" target="_blank">I Built a Social Network as a Challenge — Did I Waste My Time?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-29 13:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18852280&w=600" alt="Cloud Systems Drift: What Happens When Exceptions Become the System" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/cloud-systems-drift-exceptions-turn-normal" target="_blank">Cloud Systems Drift: What Happens When Exceptions Become the System</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-29 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -234,6 +231,15 @@
                 <span class="title"><a href="https://kotaku.com/shokz-openmove-is-cheaper-than-ever-as-old-open-ear-sport-headphones-get-cleared-out-on-amazon-2000663931" target="_blank">SHOKZ OpenMove Is Cheaper Than Ever as Old Open-Ear Sport Headphones Get Cleared Out on Amazon</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-29 15:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KG51BYTGZ282TNM3ZC746SV9/hero-image.png" alt="This Samsung 77-Inch OLED TV Is Under $1,500 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-77-inch-oled-s85f-tv-sale-january-2026?utm_medium=RSS" target="_blank">This Samsung 77-Inch OLED TV Is Under $1,500 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-29 14:30</span>
             </div>
         </div>
 <div class="story">
@@ -270,15 +276,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/29/scared-to-check-your-bank-balance-a-neuroscientist-has-tips-for-you.html" target="_blank">Scared to check your bank balance? A neuroscientist has tips for you.</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-29 13:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Chia-Pet-1280x853.jpg" alt="They’re Making a Movie About What?!?!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/theyre-making-a-movie-about-what-2000715249" target="_blank">They’re Making a Movie About What?!?!</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-29 13:00</span>
             </div>
         </div>
 </div>
@@ -327,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 15:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 16:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
