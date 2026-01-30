@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-30 16:06:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-30 17:10:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, January 30, 2026 - 16:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, January 30, 2026 - 17:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e13/live/061dddb0-fdf9-11f0-a402-95e95a98d0ec.jpg" alt="UN risks &#x27;imminent financial collapse&#x27;, secretary general warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr579mdv4m7o?at_medium=RSS&at_campaign=rss" target="_blank">UN risks &#x27;imminent financial collapse&#x27;, secretary general warns</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-30 16:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba45/live/85874200-a9c9-11f0-ba75-093eca1ac29b.png" alt="Asylum seeker sentenced to at least 29 years for murdering hotel worker Rhiannon Whyte" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +100,20 @@
                 <span class="time">2026-01-30 14:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/don-lemon-2-ap-jef-260130_1769778880757_hpMain_4x3t_384.jpg" alt="Former CNN journalist arrested in connection with Minnesota protest: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/don-lemon-arrested-connection-minnesota-protest-sources/story?id=129699476" target="_blank">Former CNN journalist arrested in connection with Minnesota protest: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-30 13:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/697c28280e588ecc4e299cc3/master/pass/Backchannel-Tech-CEOs-Struggling-to-Stay-Silent-Business.jpg" alt="After Minneapolis, Tech CEOs Are Struggling to Stay Silent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/after-minneapolis-tech-ceos-are-struggling-to-stay-silent/" target="_blank">After Minneapolis, Tech CEOs Are Struggling to Stay Silent</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-30 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +159,29 @@
                 <span class="time">2026-01-30 13:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697c1c009b8282125ca229f1/master/pass/Review-%20Samsung%20S90F%20QD-OLED%20TV.png" alt="Samsung S90F QD-OLED TV Review: Refined From Any Angle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/samsung-s90f/" target="_blank">Samsung S90F QD-OLED TV Review: Refined From Any Angle</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-30 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/powertoys-command-palette-dock-ui.jpg?resize=406%2C232&amp;ssl=1" alt="Microsoft PowerToys Proposal Adds Linux-style UI to Windows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/powertoys-linux-dock-proposal" target="_blank">Microsoft PowerToys Proposal Adds Linux-style UI to Windows</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-30 17:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/julsr_mx/trading-cv-a-different-and-interactive-way-to-share-your-skills-476o" target="_blank">Trading CV- A different and interactive way to share your skills.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-30 17:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,22 +218,18 @@
                 <span class="time">2026-01-30 14:02</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-ublk-Batch-IO-Dispatch" target="_blank">Linux&#x27;s ublk Adding Batch I/O Dispatch Capability For Greater Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-30 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18856920&w=600" alt="Automating TDD: Using AI to Generate Edge-Case Unit Tests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/automating-tdd-ai-edge-case-tests" target="_blank">Automating TDD: Using AI to Generate Edge-Case Unit Tests</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-30 14:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-security-vulnerabilities.html" target="_blank">AIs Are Getting Better at Finding and Exploiting Security Vulnerabilities</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-01-30 15:35</span>
             </div>
         </div>
 </div>
@@ -221,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/i-want-to-believe-melania.jpg?fit=2176%2C1362&amp;quality=60&amp;ssl=1" alt="No seats for mainstream media at premiere of &quot;Melania&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/30/no-seats-for-mainstream-media-at-premiere-of-melania.html" target="_blank">No seats for mainstream media at premiere of &quot;Melania&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-30 16:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/hitman-MAIN-1280x720.jpg" alt="Report: Hitman Is No Longer Coming To 2025’s Biggest Flop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hitman-mission-mindseye-build-rocket-io-interactive-2000664566" target="_blank">Report: Hitman Is No Longer Coming To 2025’s Biggest Flop</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-30 16:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KG6TYTQMAKE4JR3EQZ7D1GC5/hero-image.jpg" alt="10 Hacks Every Safari User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-safari-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Safari User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-30 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KG7N57Z0J8Q1S9FFSC7KS6BJ/hero-image.png" alt="These Sweat-Proof JBL Earbuds Are 25% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -248,38 +291,20 @@
                 <span class="time">2026-01-30 13:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KG5KBMS31T6SMW5YQ5WW4JFE/hero-image.jpg" alt="10 Hacks Every Steam Deck Owner Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/hacks-every-steam-deck-owner-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Steam Deck Owner Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-30 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/switchvouchers.jpg" alt="Today’s The Last Chance To Buy The Nintendo Switch’s Best Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nintendo-switch-game-vouchers-last-day-save-money-2000664520" target="_blank">Today’s The Last Chance To Buy The Nintendo Switch’s Best Deal</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-30 13:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/edgeoftime-2-1280x853.jpg" alt="69 New Sci-Fi, Fantasy, and Horror Books Coming Your Way in February" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/69-new-sci-fi-fantasy-and-horror-books-coming-your-way-in-february-2000711365" target="_blank">69 New Sci-Fi, Fantasy, and Horror Books Coming Your Way in February</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-30 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1769734368-20260130.png" alt="Saturday Morning Breakfast Cereal - French" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/french" target="_blank">Saturday Morning Breakfast Cereal - French</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-01-30 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -298,22 +323,13 @@
                 <span class="time">2026-01-30 02:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1769669183-20260129_edit.png" alt="Saturday Morning Breakfast Cereal - Nothing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/nothing-3" target="_blank">Saturday Morning Breakfast Cereal - Nothing</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-29 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 151 | 📡 Total Sources: 41 | 📸 With Images: 270 |
-        🔄 Last Updated: 16:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 17:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
