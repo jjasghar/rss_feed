@@ -1,31 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-30 02:52:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-30 03:44:01 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, January 30, 2026 - 02:52 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, January 30, 2026 - 03:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/30/russia-ukraine-war-list-of-key-events-day-1436?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,436</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-30 02:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66a9/live/8147ae30-fd68-11f0-9972-d3f265c101c6.jpg" alt="Two officers to face court martial over handling of Jaysley Beck sexual assault case" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,21 +97,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769730120941_now_hallie_wh_dems_deal_shutdown_260129_1920x1080-nv4d28.jpg" alt="White House strikes deal with Democrats to avert government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-syria-kurdish-volunteer_7147533.jpg?20260127164947" alt="Kurdish-led forces being pushed back in Syria - but what happens next?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/white-house-strikes-deal-with-democrats-to-avert-government-shutdown-256846917590" target="_blank">White House strikes deal with Democrats to avert government shutdown</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-29 23:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/capitol-2-rt-gmh-260127_1769525652185_hpMain_4x3t_384.jpg" alt="Democrats say they’ve reached agreement to avert shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/signs-progress-avert-potential-partial-government-shutdown-after/story?id=129667780" target="_blank">Democrats say they’ve reached agreement to avert shutdown</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-29 23:29</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/kurdish-led-forces-being-pushed-back-in-syria-but-what-happens-next-13500758" target="_blank">Kurdish-led forces being pushed back in Syria - but what happens next?</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-01-30 00:01</span>
             </div>
         </div>
 </div>
@@ -100,6 +110,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/29/how-sequoia-backed-ethos-reached-the-public-market-while-rivals-fell-short/" target="_blank">How Sequoia-backed Ethos reached the public market while rivals fell short</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-30 01:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +164,20 @@
                 <span class="time">2026-01-29 22:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/870422/data-center-ai-gas-power-surge" target="_blank">It’s a new heyday for gas thanks to data centers</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-29 22:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbihijdc4o4r2o0q8hr7u.png" alt="Your app looks like sh*t when users don’t upload avatars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anthonyriera/your-app-looks-like-sht-when-users-dont-upload-avatars-1o5p" target="_blank">Your app looks like sh*t when users don’t upload avatars</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-30 03:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +221,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Hyper-V-Integrated-Scheduler" target="_blank">Microsoft Working On Improved vCPU Scheduler Support For Hyper-V Linux VMs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-29 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://grid.space/stem/" target="_blank">Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-29 22:38</span>
             </div>
         </div>
 </div>
@@ -300,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 02:52 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 03:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
