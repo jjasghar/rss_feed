@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-30 21:04:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-30 22:02:15 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, January 30, 2026 - 21:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, January 30, 2026 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/30/iran-says-ready-for-fair-talks-with-us-but-not-under-shadow-of-threats?traffic_source=rss" target="_blank">Iran says ready for ‘fair’ talks with US but not ‘under shadow of threats’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-30 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/30/nx-s1-5694644/blue-origin-pauses-space-tourism-flights-to-focus-on-lunar-lander" target="_blank">Blue Origin pauses space tourism flights to focus on lunar lander</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-30 21:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +100,29 @@
                 <span class="time">2026-01-30 18:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/epstein-9-ht-gmh-251218._1766081526464_hpMain_4x3t_384.jpg" alt="DOJ releasing 3M pages of Epstein files, &#x27;didn&#x27;t protect&#x27; Trump, deputy AG says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/doj-releasing-additional-material-epstein-files/story?id=129680518" target="_blank">DOJ releasing 3M pages of Epstein files, &#x27;didn&#x27;t protect&#x27; Trump, deputy AG says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-30 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/30/nx-s1-5693777/brown-university-workforce-grants-deal-with-trump" target="_blank">Brown University pays out first workforce grants under deal with Trump</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-30 17:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/10/blue-origin-ns18-lift-off-october-13-2021-500x500.jpg" alt="Here&#x27;s why Blue Origin just ended its suborbital space tourism program" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/01/heres-why-blue-origin-just-ended-its-suborbital-space-tourism-program/" target="_blank">Here&#x27;s why Blue Origin just ended its suborbital space tourism program</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-30 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/30/instagram-might-soon-let-you-remove-yourself-from-someones-close-friends-list/" target="_blank">Instagram might soon let you remove yourself from someone’s Close Friends list</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-30 21:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +159,6 @@
                 <span class="time">2026-01-30 18:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/" target="_blank">Anthropic brings agentic plugins to Cowork</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-30 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697c28280e588ecc4e299cc3/master/pass/Backchannel-Tech-CEOs-Struggling-to-Stay-Silent-Business.jpg" alt="After Minneapolis, Tech CEOs Are Struggling to Stay Silent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/after-minneapolis-tech-ceos-are-struggling-to-stay-silent/" target="_blank">After Minneapolis, Tech CEOs Are Struggling to Stay Silent</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-30 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +171,24 @@
                 <span class="title"><a href="https://dev.to/ziizium/security-news-weekly-round-up-30th-january-2026-gb8" target="_blank">Security news weekly round-up - 30th January 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-30 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux" target="_blank">AI Code Review Prompts Initiative Making Progress For The Linux Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-30 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18858293&w=600" alt="From LLMs to Agents: How BigID is Enabling Secure Agentic AI for Data Governance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/from-llms-to-agents-how-bigid-is-enabling-secure-a-1" target="_blank">From LLMs to Agents: How BigID is Enabling Secure Agentic AI for Data Governance</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-30 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +218,6 @@
                 <span class="time">2026-01-30 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.04-LTS-Linux-Commit" target="_blank">Ubuntu 26.04 LTS Still Committed To Linux 6.20~7.0 Even If Not Finalized For Release Time</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-30 17:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/powertoys-command-palette-dock-ui.jpg?resize=406%2C232&amp;ssl=1" alt="Microsoft PowerToys Proposal Adds Linux-style UI to Windows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/powertoys-linux-dock-proposal" target="_blank">Microsoft PowerToys Proposal Adds Linux-style UI to Windows</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-30 17:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/highguard-review-1280x720.jpg" alt="Highguard: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/highguard-the-kotaku-review-is-it-good-free-ps5-pc-5v5-3v3-update-patch-2000664646" target="_blank">Highguard: The Kotaku Review</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-30 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/lego-february-2026-releases-pokemon-pikachu-1280x853.jpg" alt="February’s Lego Releases Want You to Catch ‘Em All" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lego-february-2026-releases-pokemon-2000716057" target="_blank">February’s Lego Releases Want You to Catch ‘Em All</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-30 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KG88JE6P1TSSP7G184NRN6FQ/hero-image.png" alt="This Entry-Level Roborock Robot Vacuum Is 44% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/roborock-q7-l5-robot-vacuum-and-mop-sale-january-2026?utm_medium=RSS" target="_blank">This Entry-Level Roborock Robot Vacuum Is 44% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-30 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/GameofThrones-2-1280x853.jpg" alt="George R.R. Martin Almost Planned a Very Different Kind of Targaryen Power for ‘Game of Thrones’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,33 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/seeing-is-believing-at-your-own-peril-in-after-god-2000715972" target="_blank">Seeing Is Believing at Your Own Peril in ‘After God’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-30 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KG7ZG7VRY6P3X9FZV8YSTYA9/hero-image.png" alt="Nine Phone Settings to Change Before Attending a Protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/phone-security-before-attending-protest?utm_medium=RSS" target="_blank">Nine Phone Settings to Change Before Attending a Protest</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-30 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/flappyone.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Man dressed as duck pours milk and cereal over himself in subway train" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/30/man-dressed-as-duck-pours-milk-and-cereal-over-himself-in-subway-train.html" target="_blank">Man dressed as duck pours milk and cereal over himself in subway train</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-30 19:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KG818ACX1W8MM5HD10AE4G1B/hero-image.jpg" alt="&#x27;Moltbook&#x27; Is a Social Media Platform for AI Bots to Chat With Each Other" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/moltbook-is-a-social-media-platform-for-ai-bots-to-chat-with-each-other?utm_medium=RSS" target="_blank">&#x27;Moltbook&#x27; Is a Social Media Platform for AI Bots to Chat With Each Other</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-30 19:00</span>
             </div>
         </div>
 </div>
@@ -337,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 21:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
