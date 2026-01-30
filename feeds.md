@@ -1,19 +1,17 @@
-<!-- Processing 54 RSS feeds at 2026-01-30 05:17:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-30 06:10:59 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
@@ -21,21 +19,17 @@
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, January 30, 2026 - 05:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, January 30, 2026 - 06:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,6 +52,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/30/trump-says-russia-to-pause-bombing-kyiv-during-extreme-winter-conditions?traffic_source=rss" target="_blank">Trump says Russia to pause bombing Kyiv during extreme winter conditions</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-30 04:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aca0/live/c39c92c0-fd98-11f0-9972-d3f265c101c6.jpg" alt="Trump says &#x27;very dangerous&#x27; for UK to deal with China" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0keyyeyr41o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says &#x27;very dangerous&#x27; for UK to deal with China</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-30 04:27</span>
             </div>
         </div>
 <div class="story">
@@ -94,15 +97,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-sues-irs-treasury-10-billion-tax-returns/story?id=129687076" target="_blank">Trump sues IRS, Treasury for $10 billion over tax returns leak</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-30 01:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/29/nx-s1-5693050/trump-minneapolis-government-shutdown-funding-immigration-republicans" target="_blank">How Democrats want to reform DHS – and why some Republicans are open to their demands</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-30 01:10</span>
             </div>
         </div>
 </div>
@@ -172,6 +166,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/01/30/wanna-see-a-css-magic-trick/" target="_blank">Wanna see a CSS magic trick?</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-01-30 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqml4ly4bguuwb5o9rxr1.png" alt="How AI-Native Engineering Changes Architecture Decisions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dhruvjoshi9/how-ai-native-engineering-changes-architecture-decisions-274e" target="_blank">How AI-Native Engineering Changes Architecture Decisions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-30 06:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hitjethva/how-to-choose-best-cloud-hosting-and-best-practices-eon" target="_blank">How to Choose Best Cloud Hosting and Best Practices</a></span>
                 <span class="feed">DEV Community</span>
@@ -203,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/khaled_01/analytics-vs-raw-data-2b6e" target="_blank">Analytics vs Raw Data</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-30 01:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-january-30-2026-red-hat" target="_blank">Friday Five — January 30, 2026</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-01-30 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/theasf/how-didi-scaled-to-hundreds-of-petabytes-with-apache-ozone-2bdk" target="_blank">How DiDi Scaled to Hundreds of Petabytes with Apache Ozone</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-29 23:42</span>
             </div>
         </div>
 </div>
@@ -310,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 147 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 05:18 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 06:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
