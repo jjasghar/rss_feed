@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-30 00:06:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-30 01:30:46 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, January 30, 2026 - 00:07 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, January 30, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/29/nx-s1-5693050/trump-minneapolis-government-shutdown-funding-immigration-republicans" target="_blank">How Democrats want to reform DHS – and why some Republicans are open to their demands</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-30 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/30/gaza-based-journalist-bisan-owda-regains-tiktok-account-after-outcry?traffic_source=rss" target="_blank">Gaza-based journalist Bisan Owda regains TikTok account after outcry</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-30 01:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/capitol-2-rt-gmh-260127_1769525652185_hpMain_4x3t_384.jpg" alt="Democrats say they’ve reached agreement to avert shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,24 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss" target="_blank">Trump says Putin will not attack Ukraine cities during cold week</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-29 21:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36e9/live/b45d5c70-fd4a-11f0-b028-cf183ca533c1.jpg" alt="Border tsar Homan promises a &#x27;draw down&#x27; of forces in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg1l8zgglpo?at_medium=RSS&at_campaign=rss" target="_blank">Border tsar Homan promises a &#x27;draw down&#x27; of forces in Minneapolis</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-29 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/fulton-county-elections-3-rt-jef-260129_1769701367242_hpMain_4x3t_384.jpg" alt="Trump posts discredited conspiracy theories following seizure of 2020 ballots" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/trump-posts-discredited-conspiracy-theories-seizure-2020-ballots/story?id=129669660" target="_blank">Trump posts discredited conspiracy theories following seizure of 2020 ballots</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-29 20:02</span>
             </div>
         </div>
 </div>
@@ -168,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdm87ltake4zafina0063.png" alt="Analytics vs Raw Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/khaled_01/analytics-vs-raw-data-2b6e" target="_blank">Analytics vs Raw Data</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-30 01:18</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -212,20 +217,29 @@
                 <span class="time">2026-01-29 21:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/marufrahmanlive/angular-directives-and-pipes-complete-guide-custom-directives-pipes-transformations-2n44" target="_blank">Angular Directives and Pipes: Complete Guide | Custom Directives, Pipes &amp; Transformations</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-29 20:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/ai-benjamin-franklin-1280x853.jpg" alt="Darren Aronofsky’s New AI Series About the Revolutionary War Looks Like Dogshit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/darren-aronofskys-new-ai-series-about-the-revolutionary-war-looks-like-dogshit-2000715754" target="_blank">Darren Aronofsky’s New AI Series About the Revolutionary War Looks Like Dogshit</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-29 23:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/Chocolate.jpg" alt="Stardew Valley Creator Busts 4 Myths About His Upcoming Haunted Chocolatier Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/haunted-chocolatier-stardew-valley-abandoned-release-date-2000664261" target="_blank">Stardew Valley Creator Busts 4 Myths About His Upcoming Haunted Chocolatier Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-29 23:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/05/2797b124069af2d1edbf35fee5ca0fc2-1280x720.jpg" alt="Borderlands 4 Reminds Fans It’s Alive In 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,24 +276,6 @@
                 <span class="time">2026-01-29 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KG5ESVQBGC9QTJJPMJJA846M/hero-image.png" alt="Seven Products to Protect Your House From Snow and Ice Damage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/best-products-to-protect-your-house-from-snow-and-ice-damage?utm_medium=RSS" target="_blank">Seven Products to Protect Your House From Snow and Ice Damage</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-29 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/ss_1dca9b5175b902ffef349a6743a2d-1280x720.jpg" alt="Highguard’s First Patch Brings Much-Requested Fixes, But PC Optimization Is Still Being Worked On" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/highguards-patch-note-fov-ps5-crash-pc-optimization-2000664201" target="_blank">Highguard’s First Patch Brings Much-Requested Fixes, But PC Optimization Is Still Being Worked On</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-29 18:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 00:07 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
