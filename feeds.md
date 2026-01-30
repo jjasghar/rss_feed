@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-30 17:10:16 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-30 18:06:33 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, January 30, 2026 - 17:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, January 30, 2026 - 18:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/epstein-9-ht-gmh-251218._1766081526464_hpMain_4x3t_384.jpg" alt="DOJ releasing 3M pages of Epstein files, &#x27;didn&#x27;t protect&#x27; Trump, deputy AG says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/doj-releasing-additional-material-epstein-files/story?id=129680518" target="_blank">DOJ releasing 3M pages of Epstein files, &#x27;didn&#x27;t protect&#x27; Trump, deputy AG says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-30 17:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/30/nx-s1-5693777/brown-university-workforce-grants-deal-with-trump" target="_blank">Brown University pays out first workforce grants under deal with Trump</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-30 17:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/30/us-department-of-justice-releases-three-million-new-epstein-documents?traffic_source=rss" target="_blank">US Department of Justice releases three million new Epstein documents</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-30 17:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e13/live/061dddb0-fdf9-11f0-a402-95e95a98d0ec.jpg" alt="UN risks &#x27;imminent financial collapse&#x27;, secretary general warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,38 +96,20 @@
                 <span class="time">2026-01-30 15:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/1/30/trump-nominates-kevin-warsh-to-replace-powell-as-fed-chair?traffic_source=rss" target="_blank">Trump nominates Kevin Warsh to replace Powell as fed chair</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-30 14:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/don-lemon-2-ap-jef-260130_1769778880757_hpMain_4x3t_384.jpg" alt="Former CNN journalist arrested in connection with Minnesota protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/don-lemon-arrested-connection-minnesota-protest-sources/story?id=129699476" target="_blank">Former CNN journalist arrested in connection with Minnesota protest</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-30 14:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/936d/live/cd9ead90-fde2-11f0-b7e1-afb6d0884c18.jpg" alt="Former CNN host Don Lemon arrested after anti-ICE protests at Minnesota church" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c24gm3dz36po?at_medium=RSS&at_campaign=rss" target="_blank">Former CNN host Don Lemon arrested after anti-ICE protests at Minnesota church</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-30 14:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/" target="_blank">Anthropic brings agentic plugins to Cowork</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-30 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/697c28280e588ecc4e299cc3/master/pass/Backchannel-Tech-CEOs-Struggling-to-Stay-Silent-Business.jpg" alt="After Minneapolis, Tech CEOs Are Struggling to Stay Silent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +155,29 @@
                 <span class="time">2026-01-30 14:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/870713/melania-amazon-documentary-bribe-accusations" target="_blank">Melania documentary creators say its big price tag wasn&amp;#8217;t bribery</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-30 13:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/paperium/understanding-the-exploding-gradient-problem-4dl0" target="_blank">Understanding the exploding gradient problem</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-30 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.04-LTS-Linux-Commit" target="_blank">Ubuntu 26.04 LTS Still Committed To Linux 6.20~7.0 Even If Not Finalized For Release Time</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-30 17:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/powertoys-command-palette-dock-ui.jpg?resize=406%2C232&amp;ssl=1" alt="Microsoft PowerToys Proposal Adds Linux-style UI to Windows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,24 +214,6 @@
                 <span class="time">2026-01-30 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/0xmergen/lmad-mcp-for-laravel-3ao6" target="_blank">LMAD MCP FOR LARAVEL</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-30 14:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/clunkier/you-have-tried-maths-on-computer-now-try-it-on-quantum-computer-fef" target="_blank">You have tried Maths on Computer, now try it on Quantum computer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-30 14:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Vin-Diesel-Fast-X-1280x853.jpg" alt="The Next ‘Fast and Furious’ Movie Finally Has an Official Title and Release Date" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-next-fast-and-furious-movie-finally-has-an-official-title-and-release-date-2000716061" target="_blank">The Next ‘Fast and Furious’ Movie Finally Has an Official Title and Release Date</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-30 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/i-want-to-believe-melania.jpg?fit=2176%2C1362&amp;quality=60&amp;ssl=1" alt="No seats for mainstream media at premiere of &quot;Melania&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +287,6 @@
                 <span class="time">2026-01-30 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/gold_bar-1280x853.jpg" alt="Gold Has Been Acting More Like Bitcoin Lately" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/gold-has-been-acting-more-like-bitcoin-lately-2000715946" target="_blank">Gold Has Been Acting More Like Bitcoin Lately</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-30 13:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 17:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 18:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
