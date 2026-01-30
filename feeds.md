@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-30 22:02:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-30 23:03:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, January 30, 2026 - 22:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, January 30, 2026 - 23:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ac7/live/aae2b1b0-fe1f-11f0-bd36-9d8a84b498ee.jpg" alt="Schitt&#x27;s Creek and Home Alone star Catherine O&#x27;Hara dies aged 71" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czr4jn4621lo?at_medium=RSS&at_campaign=rss" target="_blank">Schitt&#x27;s Creek and Home Alone star Catherine O&#x27;Hara dies aged 71</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-30 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/30/g-s1-108032/judge-rules-luigi-mangione-should-not-face-death-penalty" target="_blank">Judge rules Luigi Mangione should not face death penalty</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-30 22:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/Lindsey-Graham-1-rt-gmh-260130_1769798932403_hpMain_4x3t_384.jpg" alt="Graham lifts hold on government funding deal with just hours to shutdown deadline" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/graham-blockade-stalls-government-funding-deal-hours-shutdown/story?id=129712452" target="_blank">Graham lifts hold on government funding deal with just hours to shutdown deadline</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-30 22:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,33 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/30/nx-s1-5608365/lila-ike-treasure-grammy-awards" target="_blank">Lila Iké learned what &quot;self-love&quot; means with her Grammy-nominated album</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-30 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/30/after-trump-call-russia-agrees-to-pause-attacks-on-kyiv-amid-cold-spell?traffic_source=rss" target="_blank">After Trump call, Russia agrees to pause attacks on Kyiv amid cold spell</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-30 20:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/30/nx-s1-5694313/alex-pretti-shooting-doj-civil-rights-investigation" target="_blank">Alex Pretti shooting by federal agents in Minneapolis prompts DOJ civil rights probe</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-30 19:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/30/confusion-grows-over-state-of-us-iran-negotiations?traffic_source=rss" target="_blank">Confusion grows over state of US-Iran negotiations</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-30 18:36</span>
             </div>
         </div>
 </div>
@@ -165,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0lyqsirlf07dxuto8mt8.png" alt="# The 85% of Success They Never Taught You to Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zerozulu/-the-85-of-success-they-never-taught-you-to-code-4ii8" target="_blank"># The 85% of Success They Never Taught You to Code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-30 22:56</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -180,6 +189,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux" target="_blank">AI Code Review Prompts Initiative Making Progress For The Linux Kernel</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-30 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://antirender.com/" target="_blank">Antirender: remove the glossy shine on architectural renderings</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-30 20:05</span>
             </div>
         </div>
 <div class="story">
@@ -200,29 +218,20 @@
                 <span class="time">2026-01-30 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18858288&w=600" alt="Testcontainers Explained: Bringing Real Services to Your Test Suite" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/testcontainers-explained-bringing-real-services-to" target="_blank">Testcontainers Explained: Bringing Real Services to Your Test Suite</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-30 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/paperium/understanding-the-exploding-gradient-problem-4dl0" target="_blank">Understanding the exploding gradient problem</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-30 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-new-squid-species-discovered.html" target="_blank">Friday Squid Blogging: New Squid Species Discovered</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-01-30 22:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -256,6 +265,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-30 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KG88JE6P1TSSP7G184NRN6FQ/hero-image.png" alt="This Entry-Level Roborock Robot Vacuum Is 44% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -280,15 +298,6 @@
                 <span class="title"><a href="https://kotaku.com/highguard-big-update-free-shooter-future-patch-notes-wildlight-2000664584" target="_blank">Highguard Devs Make A Big Change As Player Count Nosedives</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-30 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/after-god-sumi-eno-viz-media-manga-1280x853.jpg" alt="Seeing Is Believing at Your Own Peril in ‘After God’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/seeing-is-believing-at-your-own-peril-in-after-god-2000715972" target="_blank">Seeing Is Believing at Your Own Peril in ‘After God’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-30 20:00</span>
             </div>
         </div>
 </div>
@@ -337,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 23:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
