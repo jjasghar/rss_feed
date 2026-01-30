@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-30 20:03:04 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-30 21:04:26 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, January 30, 2026 - 20:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, January 30, 2026 - 21:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/30/nx-s1-5608365/lila-ike-treasure-grammy-awards" target="_blank">Lila Iké learned what &quot;self-love&quot; means with her Grammy-nominated album</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-30 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/30/after-trump-call-russia-agrees-to-pause-attacks-on-kyiv-amid-cold-spell?traffic_source=rss" target="_blank">After Trump call, Russia agrees to pause attacks on Kyiv amid cold spell</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-30 20:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +100,20 @@
                 <span class="time">2026-01-30 17:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/30/us-department-of-justice-releases-three-million-new-epstein-documents?traffic_source=rss" target="_blank">US Department of Justice releases three million new Epstein documents</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-30 17:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769791262737_nbc_spec_blanche_victims_trump_260130_1920x1080-ynibfu.jpg" alt="Blanche acknowledges Epstein victims&#x27; frustrations, denies protecting Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/blanche-acknowledges-epstein-victims-frustrations-denies-protecting-trump-256903749611" target="_blank">Blanche acknowledges Epstein victims&#x27; frustrations, denies protecting Trump</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-30 16:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/871054/sonos-super-bowl-deal-sale-era-beam-arc-ultra-sub" target="_blank">Sonos’ Super Bowl sale knocks hundreds off its audio gear</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-30 20:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/697d074cb8c7ce5e411f04bd/master/pass/bedsure-gentlesoft-source-amazon.jpg" alt="3 Great Heated Blanket Deals on My Favorite Affordable Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +159,20 @@
                 <span class="time">2026-01-30 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/870765/don-lemon-arrest-ice-protest" target="_blank">Don Lemon has been arrested for covering an anti-ICE protest</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-30 15:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ziizium/security-news-weekly-round-up-30th-january-2026-gb8" target="_blank">Security news weekly round-up - 30th January 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-30 20:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +218,6 @@
                 <span class="time">2026-01-30 17:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/julsr_mx/trading-cv-a-different-and-interactive-way-to-share-your-skills-476o" target="_blank">Trading CV- A different and interactive way to share your skills.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-30 17:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,11 +238,38 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/GameofThrones-2-1280x853.jpg" alt="George R.R. Martin Almost Planned a Very Different Kind of Targaryen Power for ‘Game of Thrones’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/george-r-r-martin-almost-planned-a-very-different-kind-of-targaryen-power-for-game-of-thrones-2000716055" target="_blank">George R.R. Martin Almost Planned a Very Different Kind of Targaryen Power for ‘Game of Thrones’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-30 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/highguard5v5-1280x720.jpg" alt="Highguard Devs Make A Big Change As Player Count Nosedives" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/highguard-big-update-free-shooter-future-patch-notes-wildlight-2000664584" target="_blank">Highguard Devs Make A Big Change As Player Count Nosedives</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-30 20:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/after-god-sumi-eno-viz-media-manga-1280x853.jpg" alt="Seeing Is Believing at Your Own Peril in ‘After God’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/seeing-is-believing-at-your-own-peril-in-after-god-2000715972" target="_blank">Seeing Is Believing at Your Own Peril in ‘After God’</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-30 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KG7ZG7VRY6P3X9FZV8YSTYA9/hero-image.png" alt="Nine Phone Settings to Change Before Attending a Protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/phone-security-before-attending-protest?utm_medium=RSS" target="_blank">Nine Phone Settings to Change Before Attending a Protest</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-30 20:00</span>
             </div>
         </div>
@@ -264,33 +289,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/moltbook-is-a-social-media-platform-for-ai-bots-to-chat-with-each-other?utm_medium=RSS" target="_blank">&#x27;Moltbook&#x27; Is a Social Media Platform for AI Bots to Chat With Each Other</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-30 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/image-8.jpg" alt="Pokémon Ascended Heroes Is Out And One Card Is Already Going For Over $1,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-ascendant-heroes-mega-gengar-ex-2000664572" target="_blank">Pokémon Ascended Heroes Is Out And One Card Is Already Going For Over $1,000</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-30 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Vin-Diesel-Fast-X-1280x853.jpg" alt="The Next ‘Fast and Furious’ Movie Finally Has an Official Title and Release Date" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-next-fast-and-furious-movie-finally-has-an-official-title-and-release-date-2000716061" target="_blank">The Next ‘Fast and Furious’ Movie Finally Has an Official Title and Release Date</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-30 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/i-want-to-believe-melania.jpg?fit=2176%2C1362&amp;quality=60&amp;ssl=1" alt="No seats for mainstream media at premiere of &quot;Melania&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/30/no-seats-for-mainstream-media-at-premiere-of-melania.html" target="_blank">No seats for mainstream media at premiere of &quot;Melania&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-30 16:29</span>
             </div>
         </div>
 </div>
@@ -339,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 20:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 21:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
