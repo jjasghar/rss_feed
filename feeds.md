@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-30 18:06:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-30 19:10:21 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, January 30, 2026 - 18:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, January 30, 2026 - 19:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/30/confusion-grows-over-state-of-us-iran-negotiations?traffic_source=rss" target="_blank">Confusion grows over state of US-Iran negotiations</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-30 18:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/epstein-9-ht-gmh-251218._1766081526464_hpMain_4x3t_384.jpg" alt="DOJ releasing 3M pages of Epstein files, &#x27;didn&#x27;t protect&#x27; Trump, deputy AG says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769791262737_nbc_spec_blanche_victims_trump_260130_1920x1080-ynibfu.jpg" alt="Blanche acknowledges Epstein victims&#x27; frustrations, denies protecting Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/blanche-acknowledges-epstein-victims-frustrations-denies-protecting-trump-256903749611" target="_blank">Blanche acknowledges Epstein victims&#x27; frustrations, denies protecting Trump</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-30 16:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e13/live/061dddb0-fdf9-11f0-a402-95e95a98d0ec.jpg" alt="UN risks &#x27;imminent financial collapse&#x27;, secretary general warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -78,29 +97,20 @@
                 <span class="time">2026-01-30 16:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba45/live/85874200-a9c9-11f0-ba75-093eca1ac29b.png" alt="Asylum seeker sentenced to at least 29 years for murdering hotel worker Rhiannon Whyte" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yvwdgjpj3o?at_medium=RSS&at_campaign=rss" target="_blank">Asylum seeker sentenced to at least 29 years for murdering hotel worker Rhiannon Whyte</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-30 15:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/30/why-has-burkina-faso-banned-political-parties-and-whats?traffic_source=rss" target="_blank">Why has Burkina Faso banned political parties, and what’s next?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-30 15:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/video/uber-is-literally-in-the-drivers-seat-when-it-comes-to-av-bets/" target="_blank">Uber is literally in the driver’s seat when it comes to AV bets</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-30 18:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/870543/tiktok-us-ownership-oracle-algorithm-trust" target="_blank">Who’s afraid of the new TikTok?</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-30 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d5e3ee6c3fcefe47ab17af/master/pass/The%20Best%20Beard%20Trimmers%20for%20Showing%20Your%20Face.png" alt="6 Best Beard Trimmers (2026): Full Beards, Hair, Stubble" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-beard-trimmers/" target="_blank">6 Best Beard Trimmers (2026): Full Beards, Hair, Stubble</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-30 14:30</span>
             </div>
         </div>
 </div>
@@ -311,6 +312,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/proof_without_content.png" alt="Proof Without Content" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3201/" target="_blank">Proof Without Content</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-01-30 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5755.png" alt="Cooler Than Cool" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -324,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 18:06 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 19:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
