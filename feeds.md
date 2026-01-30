@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-01-30 11:07:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-01-30 12:03:56 UTC -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, January 30, 2026 - 11:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, January 30, 2026 - 12:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/30/nx-s1-5693214/hsa-high-deductible-health-plan-insurance" target="_blank">Are you on a high-deductible health plan? What do you wish you knew?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-30 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +94,29 @@
                 <span class="time">2026-01-30 08:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/30/g-s1-107913/trump-to-announce-fed-chair-nominee-friday" target="_blank">Trump says he will announce his Federal Reserve chair nominee on Friday morning</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-30 07:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/697c17cea1bad223dbaae035/master/pass/Review-%20Viome%20Full%20Body%20Intelligence%20Test.png" alt="Viome Full Body Intelligence Test Review: Little Clarity, Pricey Supplements" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/viome-full-body-intelligence-test/" target="_blank">Viome Full Body Intelligence Test Review: Little Clarity, Pricey Supplements</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-30 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/870138/hlynur-palmason-the-love-that-remains-interview" target="_blank">The small film that answers the big questions</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-30 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/697805672a38a4db0244a583/master/pass/science_microdosing_placebo.jpg" alt="Microdosing for Depression Appears to Work About as Well as Drinking Coffee" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +153,29 @@
                 <span class="time">2026-01-29 23:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697bbe8b5e7ff27e27dc8ac3/master/pass/Melania-Opening-Day-Screenings-Culture-MCDMELA_ZU002.jpg" alt="We Found Two Theaters With Sold-Out ‘Melania’ Opening Day Screenings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/we-found-2-theaters-with-sold-out-melania-opening-day-screenings/" target="_blank">We Found Two Theaters With Sold-Out ‘Melania’ Opening Day Screenings</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-29 23:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2211388790-500x500.jpg" alt="Having that high-deductible health plan might kill you, literally" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/01/having-that-high-deductible-health-plan-might-kill-you-literally/" target="_blank">Having that high-deductible health plan might kill you, literally</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-29 23:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/Articles%2Fimages%2Fid48-personal-brand-data-analyst.jpg" alt="Building Your Personal Brand as a Data Analyst" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/adnan_arif_14ae4bc014267f/building-your-personal-brand-as-a-data-analyst-i1a" target="_blank">Building Your Personal Brand as a Data Analyst</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-30 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18854737&w=600" alt="Mentorship in Modern Engineering Teams: The ROI Question in the Age of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/mentorship-roi-modern-engineering-ai" target="_blank">Mentorship in Modern Engineering Teams: The ROI Question in the Age of AI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-30 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +210,6 @@
                 <span class="title"><a href="https://itsfoss.com/news/amutable-linux-security/" target="_blank">Systemd Creator Quits Microsoft to Form His Own Linux-focused Start Up</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-01-30 08:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/01/30/wanna-see-a-css-magic-trick/" target="_blank">Wanna see a CSS magic trick?</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-01-30 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/copilot-agents-csharp-winforms/en/headerimage/header-1769379306008.jpg" alt="Microsoft Adds Custom Copilot Agents for .NET Developers with C# and WinForms Experts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/copilot-agents-csharp-winforms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Adds Custom Copilot Agents for .NET Developers with C# and WinForms Experts</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-30 08:00</span>
             </div>
         </div>
 </div>
@@ -314,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 153 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 11:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 153 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 12:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
