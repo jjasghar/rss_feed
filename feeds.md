@@ -1,45 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-30 10:07:03 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-30 11:07:24 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 36 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, January 30, 2026 - 10:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, January 30, 2026 - 11:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,10 +49,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/30/alcaraz-beats-zverev-to-break-slam-record-in-reaching-australian-open-final?traffic_source=rss" target="_blank">Alcaraz beats Zverev to break slam record in reaching Australian Open final</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-30 10:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/01/30/g-s1-107732/baking-show-ye-springsteen-patriots-milan-npr-news-quiz" target="_blank">U.S. life expectancy is going up. Think how many more news quizzes you can do!</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-30 10:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a18b/live/ece956d0-fdad-11f0-9972-d3f265c101c6.jpg" alt="Trump says &#x27;it would be great&#x27; if US &#x27;didn&#x27;t have to use&#x27; military force on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c394ymdpjwvo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says &#x27;it would be great&#x27; if US &#x27;didn&#x27;t have to use&#x27; military force on Iran</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-30 09:52</span>
             </div>
         </div>
 <div class="story">
@@ -91,29 +100,20 @@
                 <span class="time">2026-01-30 07:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/30/panama-court-rules-chinese-control-of-canal-ports-unconstitutional?traffic_source=rss" target="_blank">Panama court rules Chinese control of canal ports unconstitutional</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-30 07:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aca0/live/c39c92c0-fd98-11f0-9972-d3f265c101c6.jpg" alt="Trump says &#x27;very dangerous&#x27; for UK to do business with China as Starmer lands in Shanghai" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0keyyeyr41o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says &#x27;very dangerous&#x27; for UK to do business with China as Starmer lands in Shanghai</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-30 07:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/697805672a38a4db0244a583/master/pass/science_microdosing_placebo.jpg" alt="Microdosing for Depression Appears to Work About as Well as Drinking Coffee" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/microdosing-for-depression-appears-to-work-about-as-well-as-drinking-coffee/" target="_blank">Microdosing for Depression Appears to Work About as Well as Drinking Coffee</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-30 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/697c06f0ad52695a25712c97/master/pass/U-Up---I%E2%80%99ve-Tested-1,000+-Sex-Toys,-These-8-Are-What-I-Always-Recommend.jpg" alt="I’ve Tested 1,000+ Sex Toys. These 8 Are What I Always Recommend" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -159,20 +159,20 @@
                 <span class="time">2026-01-29 23:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/" target="_blank">Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-29 22:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Disabling-DCC-PTL" target="_blank">Intel Xe Linux Driver Updated To Disable GuC Power DCC For Panther Lake</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-30 10:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -218,20 +218,20 @@
                 <span class="time">2026-01-30 08:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sampathm/master-your-workflow-top-gemini-cli-commands-you-should-know-gemini-cli-cheatsheet-3l9o" target="_blank">Master Your Workflow: Top Gemini CLI Commands You Should Know | Gemini CLI CheatSheet</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-30 07:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/22FUCK-ICE22-sticker-spotted-in-New-Orleans.-photo-e1768412930269.jpg?fit=768%2C859&amp;quality=60&amp;ssl=1" alt="ICE OUT national shutdown Friday.  Protests in all 50 states on Saturday." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/30/ice-out-national-shutdown-friday-protests-in-all-50-states-on-saturday.html" target="_blank">ICE OUT national shutdown Friday.  Protests in all 50 states on Saturday.</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-30 10:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/22FUCK-ICE22-poster-spotted-in-Tempe2C-AZ.-Photo-J.jpg?fit=1080%2C1439&amp;quality=60&amp;ssl=1" alt="As part of the &quot;ICE OUT&quot; strike, consider boycotting these companies that have the biggest ICE contracts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +277,6 @@
                 <span class="time">2026-01-29 22:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-29 22:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 10:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 153 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 11:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
