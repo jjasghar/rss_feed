@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-30 08:05:39 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-30 09:09:03 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, January 30, 2026 - 08:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, January 30, 2026 - 09:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/1/30/why-the-uks-toughest-immigration-voices-are-often-politicians-of-colour?traffic_source=rss" target="_blank">Why the UK’s toughest immigration voices are often politicians of colour</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-30 08:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/30/nx-s1-5693675/a-man-impersonating-an-fbi-agent-tried-to-get-luigi-mangione-out-of-jail-authorities-say" target="_blank">A man impersonating an FBI agent tried to get Luigi Mangione out of jail, authorities say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-30 08:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +98,20 @@
                 <span class="time">2026-01-30 06:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/30/trump-says-russia-to-pause-bombing-kyiv-during-extreme-winter-conditions?traffic_source=rss" target="_blank">Trump says Russia to pause bombing Kyiv during extreme winter conditions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-30 04:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aca0/live/c39c92c0-fd98-11f0-9972-d3f265c101c6.jpg" alt="Trump says &#x27;very dangerous&#x27; for UK to deal with China" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0keyyeyr41o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says &#x27;very dangerous&#x27; for UK to deal with China</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-30 04:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/697c06f0ad52695a25712c97/master/pass/U-Up---I%E2%80%99ve-Tested-1,000+-Sex-Toys,-These-8-Are-What-I-Always-Recommend.jpg" alt="I’ve Tested 1,000+ Sex Toys. These 8 Are What I Always Recommend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/i-have-tested-1000-sex-toys-these-8-are-what-i-always-recommend/" target="_blank">I’ve Tested 1,000+ Sex Toys. These 8 Are What I Always Recommend</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-30 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +157,29 @@
                 <span class="time">2026-01-29 22:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697aa61dd43d64ebd6c2a9c0/master/pass/Uncanny-Valley-All-Things-ICE-Politics-2255755460.jpg" alt="‘Uncanny Valley’: Minneapolis Misinformation, TikTok’s New Owners, and Moltbot Hype" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-ice-minneapolis-tiktok-moltbot/" target="_blank">‘Uncanny Valley’: Minneapolis Misinformation, TikTok’s New Owners, and Moltbot Hype</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-29 22:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/agent-reinforcement-learning-apache-spark/en/headerimage/agent-reinforcement-learning-apache-spark-header-1769431334097.jpg" alt="Article: Autonomous Big Data Optimization: Multi-Agent Reinforcement Learning to Achieve Self-Tuning Apache Spark" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/agent-reinforcement-learning-apache-spark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Autonomous Big Data Optimization: Multi-Agent Reinforcement Learning to Achieve Self-Tuning Apache Spark</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-30 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/amutable-linux-security/" target="_blank">Systemd Creator Quits Microsoft to Form His Own Linux-focused Start Up</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-30 08:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/dhruvjoshi9/how-ai-native-engineering-changes-architecture-decisions-274e" target="_blank">How AI-Native Engineering Changes Architecture Decisions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-30 06:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hitjethva/how-to-choose-best-cloud-hosting-and-best-practices-eon" target="_blank">How to Choose Best Cloud Hosting and Best Practices</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-30 05:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.moltbook.com/" target="_blank">Moltbook</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-30 03:55</span>
             </div>
         </div>
 </div>
@@ -303,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 08:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 153 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 09:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
