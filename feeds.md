@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-29 23:04:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-30 00:06:50 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, January 29, 2026 - 23:04 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, January 30, 2026 - 00:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/capitol-2-rt-gmh-260127_1769525652185_hpMain_4x3t_384.jpg" alt="Democrats say they’ve reached agreement to avert shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/signs-progress-avert-potential-partial-government-shutdown-after/story?id=129667780" target="_blank">Democrats say they’ve reached agreement to avert shutdown</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-29 23:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/29/canadas-carney-hails-new-trade-deals-expects-us-to-respect-sovereignty?traffic_source=rss" target="_blank">Canada’s Carney hails new trade deals, ‘expects’ US to respect sovereignty</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-29 23:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +103,38 @@
                 <span class="time">2026-01-29 20:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/29/nx-s1-5685250/kpop-demon-hunters-rose-katseye-grammys" target="_blank">How the West was won: K-pop&#x27;s great assimilation gambit</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-29 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/29/iran-slams-eus-terrorist-designation-for-irgc-as-hypocritical?traffic_source=rss" target="_blank">Iran slams EU’s ‘terrorist’ designation for IRGC as hypocritical</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-29 19:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/29/the-iphone-just-had-its-best-quarter-ever/" target="_blank">The iPhone just had its best quarter ever</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-29 23:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/697bbe8b5e7ff27e27dc8ac3/master/pass/Melania-Opening-Day-Screenings-Culture-MCDMELA_ZU002.jpg" alt="We Found Two Theaters With Sold-Out ‘Melania’ Opening Day Screenings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/we-found-2-theaters-with-sold-out-melania-opening-day-screenings/" target="_blank">We Found Two Theaters With Sold-Out ‘Melania’ Opening Day Screenings</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-29 23:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2211388790-500x500.jpg" alt="Having that high-deductible health plan might kill you, literally" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/01/having-that-high-deductible-health-plan-might-kill-you-literally/" target="_blank">Having that high-deductible health plan might kill you, literally</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-29 23:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,38 +162,20 @@
                 <span class="time">2026-01-29 22:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/29/fintech-firm-marquis-blames-hack-at-firewall-provider-sonicwall-for-its-data-breach/" target="_blank">Fintech firm Marquis blames hack at firewall provider SonicWall for its data breach</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-29 20:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/696fc702e199dabd21f9dbd5/master/pass/HBO-Movie-Guide-Smashing-Machine-Culture-TSM_01555R.jpg" alt="The 45 Best Movies on HBO Max Right Now (February 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-movies-hbo-max-right-now/" target="_blank">The 45 Best Movies on HBO Max Right Now (February 2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-29 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6978d03a04c5e12896469276/master/pass/012726_ICE-vs-AI-Fanfic.jpg" alt="AI-Generated Anti-ICE Videos Are Getting the Fanfic Treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/anti-ice-videos-are-getting-the-ai-fanfic-treatment-online/" target="_blank">AI-Generated Anti-ICE Videos Are Getting the Fanfic Treatment</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-29 19:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/theasf/how-didi-scaled-to-hundreds-of-petabytes-with-apache-ozone-2bdk" target="_blank">How DiDi Scaled to Hundreds of Petabytes with Apache Ozone</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-29 23:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/marufrahmanlive/angular-directives-and-pipes-complete-guide-custom-directives-pipes-transformations-2n44" target="_blank">Angular Directives and Pipes: Complete Guide | Custom Directives, Pipes &amp; Transformations</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-29 20:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18856928&w=600" alt="Modernizing Applications with the 7 Rs Strategy – A CTO&#x27;s Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/modernizing-applications-with-the-7-r-strategy" target="_blank">Modernizing Applications with the 7 Rs Strategy – A CTO&#x27;s Guide</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-29 20:00</span>
             </div>
         </div>
 </div>
@@ -303,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 23:04 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 00:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
