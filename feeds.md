@@ -1,34 +1,45 @@
-<!-- Processing 54 RSS feeds at 2026-01-30 09:09:03 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-01-30 10:07:03 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, January 30, 2026 - 09:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, January 30, 2026 - 10:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +55,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/30/g-s1-107732/baking-show-ye-springsteen-patriots-milan-npr-news-quiz" target="_blank">U.S. life expectancy is going up. Think how many more news quizzes you can do!</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-30 10:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +107,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c0keyyeyr41o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says &#x27;very dangerous&#x27; for UK to do business with China as Starmer lands in Shanghai</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-30 07:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/30/nx-s1-5693662/trump-sues-irs-and-treasury-for-10-billion-over-leaked-tax-information" target="_blank">Trump sues IRS and Treasury for $10 billion over leaked tax information</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-30 06:42</span>
             </div>
         </div>
 </div>
@@ -163,6 +174,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/airesumebuilder/lessons-learned-while-exploring-ai-assisted-resume-optimization-3029" target="_blank">Lessons Learned While Exploring AI-Assisted Resume Optimization</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-30 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/articles/agent-reinforcement-learning-apache-spark/en/headerimage/agent-reinforcement-learning-apache-spark-header-1769431334097.jpg" alt="Article: Autonomous Big Data Optimization: Multi-Agent Reinforcement Learning to Achieve Self-Tuning Apache Spark" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -207,20 +227,20 @@
                 <span class="time">2026-01-30 07:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqml4ly4bguuwb5o9rxr1.png" alt="How AI-Native Engineering Changes Architecture Decisions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dhruvjoshi9/how-ai-native-engineering-changes-architecture-decisions-274e" target="_blank">How AI-Native Engineering Changes Architecture Decisions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-30 06:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/22FUCK-ICE22-poster-spotted-in-Tempe2C-AZ.-Photo-J.jpg?fit=1080%2C1439&amp;quality=60&amp;ssl=1" alt="As part of the &quot;ICE OUT&quot; strike, consider boycotting these companies that have the biggest ICE contracts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/30/as-part-of-the-ice-out-strike-consider-boycotting-these-companies-that-have-the-biggest-ice-contracts.html" target="_blank">As part of the &quot;ICE OUT&quot; strike, consider boycotting these companies that have the biggest ICE contracts</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-30 09:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/f5e20d74-c11d-4dc9-b3fb-d56e985d036e_25b68834-copy.jpg?fit=1024%2C679&amp;quality=60&amp;ssl=1" alt="Charges announced for man who squirted vinegar on Ilhan Omar" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,20 +286,20 @@
                 <span class="time">2026-01-29 22:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Dragon-Ball-Super-Galactic-Patrol-Akira-Toriyama-io9-template-circle-2-1280x853.jpg" alt="What Is the Future of ‘Dragon Ball’ Without Akira Toriyama?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/what-is-the-future-of-dragon-ball-without-akira-toriyama-2000715572" target="_blank">What Is the Future of ‘Dragon Ball’ Without Akira Toriyama?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-29 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/01/30/raising-the-roof" target="_blank">Raising the Roof</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-01-30 08:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5755.png" alt="Cooler Than Cool" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -303,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 153 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 09:09 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 10:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
