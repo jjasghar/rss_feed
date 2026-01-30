@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-01-30 19:10:21 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-30 20:03:04 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, January 30, 2026 - 19:10 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, January 30, 2026 - 20:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/30/nx-s1-5694313/alex-pretti-shooting-doj-civil-rights-investigation" target="_blank">Alex Pretti shooting by federal agents in Minneapolis prompts DOJ civil rights probe</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-30 19:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +102,29 @@
                 <span class="time">2026-01-30 16:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e13/live/061dddb0-fdf9-11f0-a402-95e95a98d0ec.jpg" alt="UN risks &#x27;imminent financial collapse&#x27;, secretary general warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr579mdv4m7o?at_medium=RSS&at_campaign=rss" target="_blank">UN risks &#x27;imminent financial collapse&#x27;, secretary general warns</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-30 16:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/697d074cb8c7ce5e411f04bd/master/pass/bedsure-gentlesoft-source-amazon.jpg" alt="3 Great Heated Blanket Deals on My Favorite Affordable Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/heated-blanket-deals-january-2026/" target="_blank">3 Great Heated Blanket Deals on My Favorite Affordable Models</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-30 19:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/brendan-carr-anna-gomez-500x500.jpg" alt="FCC aims to ensure &quot;only living and lawful Americans&quot; get Lifeline benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/fcc-chair-fights-calif-governor-over-alleged-lifeline-benefits-for-dead-people/" target="_blank">FCC aims to ensure &quot;only living and lawful Americans&quot; get Lifeline benefits</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-30 19:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +161,29 @@
                 <span class="time">2026-01-30 15:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/electric-piggy-bank-500x500.jpg" alt="How far does $5,000 go when you want an electric car?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/01/how-far-does-5000-go-when-you-want-an-electric-car/" target="_blank">How far does $5,000 go when you want an electric car?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-30 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/870543/tiktok-us-ownership-oracle-algorithm-trust" target="_blank">Who’s afraid of the new TikTok?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-30 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/programmingcentral/stop-making-users-wait-the-ultimate-guide-to-streaming-ai-responses-22m3" target="_blank">Stop Making Users Wait: The Ultimate Guide to Streaming AI Responses</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-30 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18858288&w=600" alt="Testcontainers Explained: Bringing Real Services to Your Test Suite" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/testcontainers-explained-bringing-real-services-to" target="_blank">Testcontainers Explained: Bringing Real Services to Your Test Suite</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-30 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +220,6 @@
                 <span class="time">2026-01-30 17:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thesnehamk/why-do-keys-matter-in-react-and-how-do-they-improve-performance-4d1m" target="_blank">Why do keys matter in React, and how do they improve performance?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-30 16:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18858598&w=600" alt="Essential Techniques for Production Vector Search Systems, Part 3: Filterable HNSW" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/filterable-hnsw-production-vector-search-part-3" target="_blank">Essential Techniques for Production Vector Search Systems, Part 3: Filterable HNSW</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-30 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +240,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/after-god-sumi-eno-viz-media-manga-1280x853.jpg" alt="Seeing Is Believing at Your Own Peril in ‘After God’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/seeing-is-believing-at-your-own-peril-in-after-god-2000715972" target="_blank">Seeing Is Believing at Your Own Peril in ‘After God’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-30 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/flappyone.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Man dressed as duck pours milk and cereal over himself in subway train" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/30/man-dressed-as-duck-pours-milk-and-cereal-over-himself-in-subway-train.html" target="_blank">Man dressed as duck pours milk and cereal over himself in subway train</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-30 19:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KG818ACX1W8MM5HD10AE4G1B/hero-image.jpg" alt="&#x27;Moltbook&#x27; Is a Social Media Platform for AI Bots to Chat With Each Other" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/moltbook-is-a-social-media-platform-for-ai-bots-to-chat-with-each-other?utm_medium=RSS" target="_blank">&#x27;Moltbook&#x27; Is a Social Media Platform for AI Bots to Chat With Each Other</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-30 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/image-8.jpg" alt="Pokémon Ascended Heroes Is Out And One Card Is Already Going For Over $1,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-ascendant-heroes-mega-gengar-ex-2000664572" target="_blank">Pokémon Ascended Heroes Is Out And One Card Is Already Going For Over $1,000</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-30 18:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Vin-Diesel-Fast-X-1280x853.jpg" alt="The Next ‘Fast and Furious’ Movie Finally Has an Official Title and Release Date" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -250,42 +291,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/30/no-seats-for-mainstream-media-at-premiere-of-melania.html" target="_blank">No seats for mainstream media at premiere of &quot;Melania&quot;</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-30 16:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/hitman-MAIN-1280x720.jpg" alt="Report: Hitman Is No Longer Coming To 2025’s Biggest Flop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hitman-mission-mindseye-build-rocket-io-interactive-2000664566" target="_blank">Report: Hitman Is No Longer Coming To 2025’s Biggest Flop</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-30 16:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KG6TYTQMAKE4JR3EQZ7D1GC5/hero-image.jpg" alt="10 Hacks Every Safari User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-safari-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Safari User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-30 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KG7N57Z0J8Q1S9FFSC7KS6BJ/hero-image.png" alt="These Sweat-Proof JBL Earbuds Are 25% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/jbl-endurance-race-2-earbuds-sale-january-2026?utm_medium=RSS" target="_blank">These Sweat-Proof JBL Earbuds Are 25% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-30 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KG7J355X9Z5YXEY1AE38HZP6/hero-image.png" alt="This Well-Reviewed Outdoor Camera Is Nearly 30% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/tapo-magcam-2k-plus-sale-january-2026?utm_medium=RSS" target="_blank">This Well-Reviewed Outdoor Camera Is Nearly 30% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-30 14:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 19:10 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 20:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
