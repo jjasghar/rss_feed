@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-30 15:07:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-30 16:06:47 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, January 30, 2026 - 15:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, January 30, 2026 - 16:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba45/live/85874200-a9c9-11f0-ba75-093eca1ac29b.png" alt="Asylum seeker sentenced to at least 29 years for murdering hotel worker Rhiannon Whyte" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yvwdgjpj3o?at_medium=RSS&at_campaign=rss" target="_blank">Asylum seeker sentenced to at least 29 years for murdering hotel worker Rhiannon Whyte</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-30 15:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/30/why-has-burkina-faso-banned-political-parties-and-whats?traffic_source=rss" target="_blank">Why has Burkina Faso banned political parties, and what’s next?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-30 15:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +98,29 @@
                 <span class="time">2026-01-30 13:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/1/30/pep-guardiola-renews-public-support-for-palestine-at-charity-event?traffic_source=rss" target="_blank">Pep Guardiola renews public support for Palestine at charity event</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-30 13:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5990/live/4d0407a0-fdd0-11f0-9312-c321edcbd89a.jpg" alt="Syrian government reaches deal with Kurdish-led forces" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz0pj0n0yk3o?at_medium=RSS&at_campaign=rss" target="_blank">Syrian government reaches deal with Kurdish-led forces</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-30 12:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/870765/don-lemon-arrest-ice-protest" target="_blank">Don Lemon has been arrested for covering an anti-ICE protest</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-30 15:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/electric-piggy-bank-500x500.jpg" alt="How far does $5,000 go when you want an electric car?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/01/how-far-does-5000-go-when-you-want-an-electric-car/" target="_blank">How far does $5,000 go when you want an electric car?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-30 15:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +157,29 @@
                 <span class="time">2026-01-30 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/07/LaunchsiteScotland_3b-500x500.jpg" alt="Rocket Report: How a 5-ton satellite fell off a booster; will SpaceX and xAI merge?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/01/rocket-report-how-a-5-ton-satellite-fell-off-a-booster-will-spacex-and-xai-merge/" target="_blank">Rocket Report: How a 5-ton satellite fell off a booster; will SpaceX and xAI merge?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-30 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697c17cea1bad223dbaae035/master/pass/Review-%20Viome%20Full%20Body%20Intelligence%20Test.png" alt="Viome Full Body Intelligence Test Review: Little Clarity, Pricey Supplements" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/viome-full-body-intelligence-test/" target="_blank">Viome Full Body Intelligence Test Review: Little Clarity, Pricey Supplements</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-30 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thesnehamk/why-do-keys-matter-in-react-and-how-do-they-improve-performance-4d1m" target="_blank">Why do keys matter in React, and how do they improve performance?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-30 16:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18858598&w=600" alt="Essential Techniques for Production Vector Search Systems, Part 3: Filterable HNSW" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/filterable-hnsw-production-vector-search-part-3" target="_blank">Essential Techniques for Production Vector Search Systems, Part 3: Filterable HNSW</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-01-30 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,29 +216,20 @@
                 <span class="time">2026-01-30 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers" target="_blank">Wisconsin communities signed secrecy deals for billion-dollar data centers</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-30 13:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/puppet/puppet-cd-5140-and-4390-now-available-1g4j" target="_blank">Puppet CD 5.14.0 and 4.39.0 now available!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-30 13:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KG7N57Z0J8Q1S9FFSC7KS6BJ/hero-image.png" alt="These Sweat-Proof JBL Earbuds Are 25% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/jbl-endurance-race-2-earbuds-sale-january-2026?utm_medium=RSS" target="_blank">These Sweat-Proof JBL Earbuds Are 25% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-30 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KG7J355X9Z5YXEY1AE38HZP6/hero-image.png" alt="This Well-Reviewed Outdoor Camera Is Nearly 30% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +275,6 @@
                 <span class="time">2026-01-30 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/22FUCK-ICE22-sticker-spotted-in-New-Orleans.-photo-e1768412930269.jpg?fit=768%2C859&amp;quality=60&amp;ssl=1" alt="ICE OUT national shutdown Friday.  Protests in all 50 states on Saturday." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/30/ice-out-national-shutdown-friday-protests-in-all-50-states-on-saturday.html" target="_blank">ICE OUT national shutdown Friday.  Protests in all 50 states on Saturday.</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-30 10:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 150 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 15:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 151 | 📡 Total Sources: 41 | 📸 With Images: 270 |
+        🔄 Last Updated: 16:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
