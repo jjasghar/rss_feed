@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-30 04:29:41 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-01-30 05:17:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, January 30, 2026 - 04:29 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, January 30, 2026 - 05:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/30/trump-says-russia-to-pause-bombing-kyiv-during-extreme-winter-conditions?traffic_source=rss" target="_blank">Trump says Russia to pause bombing Kyiv during extreme winter conditions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-30 04:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-4-ap-gmh-260128_1769607779159_hpMain_4x3t_384.jpg" alt="Trump threatens tariffs on countries selling oil to Cuba, declaring emergency" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/trump-threatens-tariffs-countries-selling-oil-cuba-declaring/story?id=129687112" target="_blank">Trump threatens tariffs on countries selling oil to Cuba, declaring emergency</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-30 04:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +103,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/29/nx-s1-5693050/trump-minneapolis-government-shutdown-funding-immigration-republicans" target="_blank">How Democrats want to reform DHS – and why some Republicans are open to their demands</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-30 01:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/30/gaza-based-journalist-bisan-owda-regains-tiktok-account-after-outcry?traffic_source=rss" target="_blank">Gaza-based journalist Bisan Owda regains TikTok account after outcry</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-30 01:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/29/gunfire-blasts-heard-airport-niamey-niger-planes-hit-reports" target="_blank">Niger’s military ruler vows retaliation after gunfire and explosions heard in capital</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-01-30 00:34</span>
             </div>
         </div>
 </div>
@@ -163,6 +170,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hitjethva/how-to-choose-best-cloud-hosting-and-best-practices-eon" target="_blank">How to Choose Best Cloud Hosting and Best Practices</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-30 05:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbihijdc4o4r2o0q8hr7u.png" alt="Your app looks like sh*t when users don’t upload avatars" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +223,6 @@
                 <span class="time">2026-01-29 23:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/the_nortern_dev/unpopular-opinion-i-stopped-coding-on-weekends-and-my-career-got-better-3el" target="_blank">Unpopular Opinion: I stopped coding on weekends and my career got better.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-29 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -258,21 +265,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-29 22:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Dragon-Ball-Super-Galactic-Patrol-Akira-Toriyama-io9-template-circle-2-1280x853.jpg" alt="What Is the Future of ‘Dragon Ball’ Without Akira Toriyama?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/what-is-the-future-of-dragon-ball-without-akira-toriyama-2000715572" target="_blank">What Is the Future of ‘Dragon Ball’ Without Akira Toriyama?</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-29 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/sex-criminals-hed-1280x853.jpg" alt="Amazon Digs Deeper Into the Comics Shelf With a ‘Sex Criminals’ Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/amazon-digs-deeper-into-the-comics-shelf-with-a-sex-criminals-show-2000715736" target="_blank">Amazon Digs Deeper Into the Comics Shelf With a ‘Sex Criminals’ Show</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-29 21:00</span>
             </div>
         </div>
 </div>
@@ -303,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 04:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 147 | 📡 Total Sources: 41 | 📸 With Images: 271 |
+        🔄 Last Updated: 05:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
