@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-01-30 01:30:46 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-30 02:52:22 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, January 30, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, January 30, 2026 - 02:52 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66a9/live/8147ae30-fd68-11f0-9972-d3f265c101c6.jpg" alt="Two officers to face court martial over handling of Jaysley Beck sexual assault case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0mky220nrdo?at_medium=RSS&at_campaign=rss" target="_blank">Two officers to face court martial over handling of Jaysley Beck sexual assault case</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-30 01:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-6-gty-er-260129_1769727004208_hpMain_2_4x3t_384.jpg" alt="Trump sues IRS, Treasury for $10 billion over tax returns leak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-sues-irs-treasury-10-billion-tax-returns/story?id=129687076" target="_blank">Trump sues IRS, Treasury for $10 billion over tax returns leak</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-30 01:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -64,39 +78,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769730120941_now_hallie_wh_dems_deal_shutdown_260129_1920x1080-nv4d28.jpg" alt="White House strikes deal with Democrats to avert government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/white-house-strikes-deal-with-democrats-to-avert-government-shutdown-256846917590" target="_blank">White House strikes deal with Democrats to avert government shutdown</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-29 23:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/capitol-2-rt-gmh-260127_1769525652185_hpMain_4x3t_384.jpg" alt="Democrats say they’ve reached agreement to avert shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Politics/signs-progress-avert-potential-partial-government-shutdown-after/story?id=129667780" target="_blank">Democrats say they’ve reached agreement to avert shutdown</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-01-29 23:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/29/canadas-carney-hails-new-trade-deals-expects-us-to-respect-sovereignty?traffic_source=rss" target="_blank">Canada’s Carney hails new trade deals, ‘expects’ US to respect sovereignty</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-29 23:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/29/burkina-faso-military-government-dissolves-political-parties?traffic_source=rss" target="_blank">Burkina Faso’s military government dissolves political parties</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-29 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61a6/live/6382f330-fd51-11f0-9972-d3f265c101c6.jpg" alt="Trump says Putin will not attack Ukraine cities during cold week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss" target="_blank">Trump says Putin will not attack Ukraine cities during cold week</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-29 21:21</span>
             </div>
         </div>
 </div>
@@ -164,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/formantaudio/when-ai-safety-breaks-trust-how-guardrails-override-truth-in-chatgpt-5d0l" target="_blank">When AI “Safety” Breaks Trust: How Guardrails Override Truth in ChatGPT</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-30 02:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdm87ltake4zafina0063.png" alt="Analytics vs Raw Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,19 +207,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/amirraouf/your-team-deserves-better-than-a-shared-dev-environment-ephemeral-environments-with-coolify-54gk" target="_blank">Your Team Deserves Better Than a Shared Dev Environment - Ephemeral Environments with Coolify</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-29 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openai.com/index/retiring-gpt-4o-and-older-models/" target="_blank">Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT</a></span>
+                <span class="title"><a href="https://grid.space/stem/" target="_blank">Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-01-29 21:02</span>
+                <span class="time">2026-01-29 22:38</span>
             </div>
         </div>
 </div>
@@ -222,6 +218,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/f5e20d74-c11d-4dc9-b3fb-d56e985d036e_25b68834-copy.jpg?fit=1024%2C679&amp;quality=60&amp;ssl=1" alt="Charges announced for man who squirted vinegar on Ilhan Omar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/29/charges.html" target="_blank">Charges announced for man who squirted vinegar on Ilhan Omar</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-30 00:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/ai-benjamin-franklin-1280x853.jpg" alt="Darren Aronofsky’s New AI Series About the Revolutionary War Looks Like Dogshit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,20 +272,20 @@
                 <span class="time">2026-01-29 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/masters-of-universe-toyhed-1280x853.jpg" alt="New ‘Masters of the Universe’ Toys Will Power You Up for the Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/new-masters-of-the-universe-toys-will-prepare-you-for-the-movie-2000715591" target="_blank">New ‘Masters of the Universe’ Toys Will Power You Up for the Movie</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-29 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5755.png" alt="Cooler Than Cool" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5755" target="_blank">Cooler Than Cool</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-01-30 02:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1769669183-20260129_edit.png" alt="Saturday Morning Breakfast Cereal - Nothing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,22 +295,13 @@
                 <span class="time">2026-01-29 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5754.png" alt="Speech Therapy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5754" target="_blank">Speech Therapy</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-01-29 02:03</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 02:52 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
