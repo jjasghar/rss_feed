@@ -1,35 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-01-30 06:10:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-30 07:14:24 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, January 30, 2026 - 06:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, January 30, 2026 - 07:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aca0/live/c39c92c0-fd98-11f0-9972-d3f265c101c6.jpg" alt="Trump says &#x27;very dangerous&#x27; for UK to do business with China as Starmer lands in Shanghai" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0keyyeyr41o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says &#x27;very dangerous&#x27; for UK to do business with China as Starmer lands in Shanghai</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-30 07:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/30/nx-s1-5693662/trump-sues-irs-and-treasury-for-10-billion-over-leaked-tax-information" target="_blank">Trump sues IRS and Treasury for $10 billion over leaked tax information</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-30 06:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +106,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/30/russia-ukraine-war-list-of-key-events-day-1436?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,436</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-30 02:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66a9/live/8147ae30-fd68-11f0-9972-d3f265c101c6.jpg" alt="Two officers to face court martial over handling of Jaysley Beck sexual assault case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0mky220nrdo?at_medium=RSS&at_campaign=rss" target="_blank">Two officers to face court martial over handling of Jaysley Beck sexual assault case</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-30 01:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-6-gty-er-260129_1769727004208_hpMain_2_4x3t_384.jpg" alt="Trump sues IRS, Treasury for $10 billion over tax returns leak" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-sues-irs-treasury-10-billion-tax-returns/story?id=129687076" target="_blank">Trump sues IRS, Treasury for $10 billion over tax returns leak</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-30 01:36</span>
             </div>
         </div>
 </div>
@@ -173,6 +182,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sampathm/master-your-workflow-top-gemini-cli-commands-you-should-know-gemini-cli-cheatsheet-3l9o" target="_blank">Master Your Workflow: Top Gemini CLI Commands You Should Know | Gemini CLI CheatSheet</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-30 07:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqml4ly4bguuwb5o9rxr1.png" alt="How AI-Native Engineering Changes Architecture Decisions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +224,6 @@
                 <span class="title"><a href="https://dev.to/formantaudio/when-ai-safety-breaks-trust-how-guardrails-override-truth-in-chatgpt-5d0l" target="_blank">When AI “Safety” Breaks Trust: How Guardrails Override Truth in ChatGPT</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-30 02:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdm87ltake4zafina0063.png" alt="Analytics vs Raw Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/khaled_01/analytics-vs-raw-data-2b6e" target="_blank">Analytics vs Raw Data</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-30 01:18</span>
             </div>
         </div>
 </div>
@@ -304,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 06:11 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 07:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
