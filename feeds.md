@@ -1,44 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-30 07:14:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-30 08:05:39 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 35 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, January 30, 2026 - 07:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, January 30, 2026 - 08:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/30/g-s1-107913/trump-to-announce-fed-chair-nominee-friday" target="_blank">Trump says he will announce his Federal Reserve chair nominee on Friday morning</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-30 07:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/30/panama-court-rules-chinese-control-of-canal-ports-unconstitutional?traffic_source=rss" target="_blank">Panama court rules Chinese control of canal ports unconstitutional</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-30 07:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aca0/live/c39c92c0-fd98-11f0-9972-d3f265c101c6.jpg" alt="Trump says &#x27;very dangerous&#x27; for UK to do business with China as Starmer lands in Shanghai" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,24 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c0keyyeyr41o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says &#x27;very dangerous&#x27; for UK to deal with China</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-30 04:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-4-ap-gmh-260128_1769607779159_hpMain_4x3t_384.jpg" alt="Trump threatens tariffs on countries selling oil to Cuba, declaring emergency" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/trump-threatens-tariffs-countries-selling-oil-cuba-declaring/story?id=129687112" target="_blank">Trump threatens tariffs on countries selling oil to Cuba, declaring emergency</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-30 04:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/30/russia-ukraine-war-list-of-key-events-day-1436?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,436</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-30 02:55</span>
             </div>
         </div>
 </div>
@@ -182,6 +172,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/01/copilot-agents-csharp-winforms/en/headerimage/header-1769379306008.jpg" alt="Microsoft Adds Custom Copilot Agents for .NET Developers with C# and WinForms Experts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/copilot-agents-csharp-winforms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Adds Custom Copilot Agents for .NET Developers with C# and WinForms Experts</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-30 08:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,21 +208,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbihijdc4o4r2o0q8hr7u.png" alt="Your app looks like sh*t when users don’t upload avatars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anthonyriera/your-app-looks-like-sht-when-users-dont-upload-avatars-1o5p" target="_blank">Your app looks like sh*t when users don’t upload avatars</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-30 03:33</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/formantaudio/when-ai-safety-breaks-trust-how-guardrails-override-truth-in-chatgpt-5d0l" target="_blank">When AI “Safety” Breaks Trust: How Guardrails Override Truth in ChatGPT</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-30 02:39</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.moltbook.com/" target="_blank">Moltbook</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-30 03:55</span>
             </div>
         </div>
 </div>
@@ -313,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 07:14 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 08:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
