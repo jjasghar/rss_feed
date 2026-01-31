@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-30 23:03:57 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2026-01-31 00:06:38 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, January 30, 2026 - 23:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, January 31, 2026 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7190/live/07c88e80-c956-11f0-b163-d7d455ce68d3.jpg" alt="Epstein invited &#x27;The Duke&#x27; to meet Russian woman" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g5490xmkeo?at_medium=RSS&at_campaign=rss" target="_blank">Epstein invited &#x27;The Duke&#x27; to meet Russian woman</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-30 23:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/30/un-nuclear-watchdog-discusses-ukraine-nuclear-safety-risks?traffic_source=rss" target="_blank">UN nuclear watchdog discusses Ukraine nuclear safety risks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-30 23:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ac7/live/aae2b1b0-fe1f-11f0-bd36-9d8a84b498ee.jpg" alt="Schitt&#x27;s Creek and Home Alone star Catherine O&#x27;Hara dies aged 71" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,28 +95,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/30/iran-says-ready-for-fair-talks-with-us-but-not-under-shadow-of-threats?traffic_source=rss" target="_blank">Iran says ready for ‘fair’ talks with US but not ‘under shadow of threats’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-30 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/30/nx-s1-5694644/blue-origin-pauses-space-tourism-flights-to-focus-on-lunar-lander" target="_blank">Blue Origin pauses space tourism flights to focus on lunar lander</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-30 21:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/30/nx-s1-5608365/lila-ike-treasure-grammy-awards" target="_blank">Lila Iké learned what &quot;self-love&quot; means with her Grammy-nominated album</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-30 21:00</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/jan/30/more-than-200-killed-in-coltan-mine-collapse-in-eastern-drc-officials-say" target="_blank">More than 200 killed in coltan mine collapse in eastern DRC, officials say</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-01-30 22:11</span>
             </div>
         </div>
 </div>
@@ -105,6 +106,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/871422/peloton-layoffs-cost-cutting-2026" target="_blank">Peloton lays off 11 percent of its staff just a few months after launching its AI hardware</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-30 23:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Desktop_01-1-500x500-1769809183.jpg" alt="The TV industry finally concedes that the future may not be in 8K" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/lg-joins-the-rest-of-the-world-accepts-that-people-dont-want-8k-tvs/" target="_blank">The TV industry finally concedes that the future may not be in 8K</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-30 23:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/697a8fd1936236e628511234/master/pass/Gun-Nuts-Bend-Over-Backward-Culture-1542347197.jpg" alt="Right-Wing Gun Enthusiasts and Extremists Are Working Overtime to Justify Alex Pretti’s Killing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/right-wing-gun-enthusiasts-and-extremists-are-working-overtime-to-justify-alex-prettis-killing/" target="_blank">Right-Wing Gun Enthusiasts and Extremists Are Working Overtime to Justify Alex Pretti’s Killing</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-30 22:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/10/blue-origin-ns18-lift-off-october-13-2021-500x500.jpg" alt="Here&#x27;s why Blue Origin just ended its suborbital space tourism program" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -132,38 +160,20 @@
                 <span class="time">2026-01-30 20:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697d074cb8c7ce5e411f04bd/master/pass/bedsure-gentlesoft-source-amazon.jpg" alt="3 Great Heated Blanket Deals on My Favorite Affordable Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/heated-blanket-deals-january-2026/" target="_blank">3 Great Heated Blanket Deals on My Favorite Affordable Models</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-30 19:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/brendan-carr-anna-gomez-500x500.jpg" alt="FCC aims to ensure &quot;only living and lawful Americans&quot; get Lifeline benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/01/fcc-chair-fights-calif-governor-over-alleged-lifeline-benefits-for-dead-people/" target="_blank">FCC aims to ensure &quot;only living and lawful Americans&quot; get Lifeline benefits</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-30 19:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/video/uber-is-literally-in-the-drivers-seat-when-it-comes-to-av-bets/" target="_blank">Uber is literally in the driver’s seat when it comes to AV bets</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-30 18:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shawn_dsza/voxtube-convert-youtube-videos-to-audio-with-local-tts-1ae1" target="_blank">VoxTube – Convert YouTube videos to audio with local TTS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-30 23:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0lyqsirlf07dxuto8mt8.png" alt="# The 85% of Success They Never Taught You to Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +219,6 @@
                 <span class="time">2026-01-30 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/programmingcentral/stop-making-users-wait-the-ultimate-guide-to-streaming-ai-responses-22m3" target="_blank">Stop Making Users Wait: The Ultimate Guide to Streaming AI Responses</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-30 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/It-is-what-it-is.jpg?fit=2016%2C1080&amp;quality=60&amp;ssl=1" alt="Elon Musk email to Epstein revealed: &quot;What day/night will be the wildest party on your island?&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/30/elon-musk-email-to-epstein-revealed-what-day-night-will-be-the-wildest-party-on-your-island.html" target="_blank">Elon Musk email to Epstein revealed: &quot;What day/night will be the wildest party on your island?&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-30 23:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/peter-claffey_aknightoftheseven-1280x853.jpg" alt="The Success of ‘Knight of the Seven Kingdoms’ Is Already Influencing HBO’s Other ‘Game of Thrones’ Spinoff Plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/game-of-thrones-knight-of-the-seven-kingdoms-spinoffs-influence-2000716152" target="_blank">The Success of ‘Knight of the Seven Kingdoms’ Is Already Influencing HBO’s Other ‘Game of Thrones’ Spinoff Plans</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-30 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/highguard-review-1280x720.jpg" alt="Highguard: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,24 +299,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/roborock-q7-l5-robot-vacuum-and-mop-sale-january-2026?utm_medium=RSS" target="_blank">This Entry-Level Roborock Robot Vacuum Is 44% Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-01-30 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/GameofThrones-2-1280x853.jpg" alt="George R.R. Martin Almost Planned a Very Different Kind of Targaryen Power for ‘Game of Thrones’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/george-r-r-martin-almost-planned-a-very-different-kind-of-targaryen-power-for-game-of-thrones-2000716055" target="_blank">George R.R. Martin Almost Planned a Very Different Kind of Targaryen Power for ‘Game of Thrones’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-30 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/highguard5v5-1280x720.jpg" alt="Highguard Devs Make A Big Change As Player Count Nosedives" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/highguard-big-update-free-shooter-future-patch-notes-wildlight-2000664584" target="_blank">Highguard Devs Make A Big Change As Player Count Nosedives</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-30 20:58</span>
             </div>
         </div>
 </div>
@@ -346,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 23:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
