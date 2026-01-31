@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-31 22:01:44 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-31 23:01:34 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, January 31, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, January 31, 2026 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1f1/live/4be2d3f0-fef3-11f0-9972-d3f265c101c6.jpg" alt="Andrew should testify to US Congress, Starmer suggests after new photos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgrd7kpg9pwo?at_medium=RSS&at_campaign=rss" target="_blank">Andrew should testify to US Congress, Starmer suggests after new photos</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-31 22:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/31/g-s1-108168/5-year-old-liam-ramos-ice-order" target="_blank">Judge orders release of 5-year-old Liam Ramos and his dad from ICE detention</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-31 21:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/donald-trump-3-gty-jef-260130_1769778414635_hpMain_4x3t_384.jpg" alt="Trump continues to defend Homan, Noem over immigration enforcement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,24 +97,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/news/us-news/judge-allows-ices-operation-metro-surge-continue-minnesota-rcna256847" target="_blank">Judge allows ICE’s Operation Metro Surge to continue in Minnesota</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-01-31 17:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/31/nx-s1-5695207/elena-rybakina-wins-australian-open" target="_blank">Kazakhstan&#x27;s Elena Rybakina defeats No. 1 Aryana Sabalenka to win Australian Open</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-31 17:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/31/drone-strikes-in-ethiopias-tigray-kill-one-amid-fears-of-renewed-conflict?traffic_source=rss" target="_blank">Drone strikes in Ethiopia’s Tigray kill one amid fears of renewed conflict</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-31 13:49</span>
             </div>
         </div>
 </div>
@@ -164,12 +164,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdsiabvi12ntw7mer68zk.png" alt="AI Agents Are Becoming Digital Citizens" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sreeni5018/ai-agents-are-becoming-digital-citizens-1dkn" target="_blank">AI Agents Are Becoming Digital Citizens</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-31 22:47</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/secengineerx/retry-logic-is-a-policy-decision-not-a-code-pattern-1lmi" target="_blank">Retry Logic Is a Policy Decision, Not a Code Pattern</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-31 21:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Shotcut-26.1-Video-Editor" target="_blank">Shotcut Video Editor Now Using Hardware Decoding By Default Except For NVIDIA On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-31 21:11</span>
             </div>
         </div>
 <div class="story">
@@ -197,38 +215,6 @@
                 <span class="title"><a href="https://dev.to/rafael_panisset/retry-strategies-compared-constant-vs-exponential-backoff-vs-jitter-in-go-with-simulation-1mce" target="_blank">Retry Strategies Compared: Constant vs Exponential Backoff vs Jitter in Go (With Simulation)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-31 18:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-Gaming-2026" target="_blank">Linuxulator-Steam-Utils To Enjoy Steam Play Gaming On FreeBSD &amp; Other Options</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-31 17:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://an.dywa.ng/carrier-gnss.html" target="_blank">Mobile carriers can get your GPS location</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-31 17:21</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-new-squid-species-discovered.html" target="_blank">Friday Squid Blogging: New Squid Species Discovered</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-01-30 22:05</span>
             </div>
         </div>
 </div>
@@ -318,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
