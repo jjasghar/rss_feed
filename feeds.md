@@ -1,42 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-01-31 18:02:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-31 19:03:33 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, January 31, 2026 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, January 31, 2026 - 19:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +53,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/donald-trump-3-gty-jef-260130_1769778414635_hpMain_4x3t_384.jpg" alt="Trump continues to defend Homan, Noem over immigration enforcement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-continues-defend-homan-noem-amid-immigration-enforcement/story?id=129731874" target="_blank">Trump continues to defend Homan, Noem over immigration enforcement</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-01-31 18:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/31/us-envoy-witkoff-says-ukraine-talks-with-russia-productive?traffic_source=rss" target="_blank">US envoy Witkoff says Ukraine talks with Russia ‘productive’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-31 18:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260127-ice-rs-6f1c64.jpg" alt="Judge allows ICE’s Operation Metro Surge to continue in Minnesota" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/judge-allows-ices-operation-metro-surge-continue-minnesota-rcna256847" target="_blank">Judge allows ICE’s Operation Metro Surge to continue in Minnesota</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-31 17:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,33 +105,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/31/madison-square-garden-to-life-ban-brawlers-ahead-of-lopez-vs-stevenson?traffic_source=rss" target="_blank">Madison Square Garden warns brawlers of life bans before Lopez vs Stevenson</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-31 13:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/31/nx-s1-5687210/opinion-remembering-catherine-ohara" target="_blank">Opinion: Remembering Catherine O&#x27;Hara</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-31 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/31/nx-s1-5694681/measles-elimination-status-south-carolina-texas-outbreak" target="_blank">The U.S. will likely lose its measles elimination status. Here&#x27;s what that means</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-31 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/31/rybakina-shocks-sabalenka-to-win-australian-open-tennis-final?traffic_source=rss" target="_blank">Rybakina shocks Sabalenka to win Australian Open tennis final</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-31 11:08</span>
             </div>
         </div>
 </div>
@@ -171,6 +172,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/01/chainguard-opensource-vulns/en/headerimage/generatedHeaderImage-1769821535716.jpg" alt="Chainguard Finds 98% of Container CVEs Lurking Outside the Top 20 Images" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/chainguard-opensource-vulns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Chainguard Finds 98% of Container CVEs Lurking Outside the Top 20 Images</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-31 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovbp9vn22xw8il54mx91.png" alt="Retry Strategies Compared: Constant vs Exponential Backoff vs Jitter in Go (With Simulation)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rafael_panisset/retry-strategies-compared-constant-vs-exponential-backoff-vs-jitter-in-go-with-simulation-1mce" target="_blank">Retry Strategies Compared: Constant vs Exponential Backoff vs Jitter in Go (With Simulation)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-31 18:42</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -206,24 +225,6 @@
                 <span class="time">2026-01-31 13:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tedhagos/the-5-rules-for-not-breaking-production-with-ai-2jfc" target="_blank">The 5 Rules for Not Breaking Production with AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-31 13:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/openai-prism/en/headerimage/generatedHeaderImage-1769714347805.jpg" alt="OpenAI Launches Prism, a Free LaTeX-Native Workspace with Integrated GPT-5.2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/openai-prism/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Launches Prism, a Free LaTeX-Native Workspace with Integrated GPT-5.2</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-31 12:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/bovino.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="NYT: Bovino made antisemitic remarks about Jewish prosecutor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/31/nyt-bovino-made-antisemitic-remarks-about-jewish-prosecutor.html" target="_blank">NYT: Bovino made antisemitic remarks about Jewish prosecutor</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-31 18:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/saw-x-hed-1280x853.jpg" alt="The Original ‘Saw’ Team Is Leading the Franchise’s Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +298,6 @@
                 <span class="time">2026-01-31 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/Meta-Quest-1280x853.jpg" alt="Meta Quest 3S Now the Cheapest VR Headset Option After Sudden Price Drop, While PlayStation VR2 Remains at Full Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/meta-quest-3s-now-the-cheapest-vr-headset-option-after-sudden-price-drop-while-playstation-vr2-remains-at-full-price-2000664623" target="_blank">Meta Quest 3S Now the Cheapest VR Headset Option After Sudden Price Drop, While PlayStation VR2 Remains at Full Price</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-31 14:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 19:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
