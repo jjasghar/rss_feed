@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-31 13:15:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-31 14:03:46 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, January 31, 2026 - 13:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, January 31, 2026 - 14:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/31/drone-strikes-in-ethiopias-tigray-kill-one-amid-fears-of-renewed-conflict?traffic_source=rss" target="_blank">Drone strikes in Ethiopia’s Tigray kill one amid fears of renewed conflict</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-31 13:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/31/djokovic-vs-alcaraz-australian-open-final-start-time-head-to-head?traffic_source=rss" target="_blank">Djokovic vs Alcaraz – Australian Open final: Start time, head-to-head</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-31 10:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca4d/live/81a042e0-fe83-11f0-9f78-ef986b34a4d8.jpg" alt="Photos released in Epstein files appear to show Andrew on all fours over female" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g5490xmkeo?at_medium=RSS&at_campaign=rss" target="_blank">Photos released in Epstein files appear to show Andrew on all fours over female</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-31 09:43</span>
             </div>
         </div>
 </div>
@@ -164,9 +168,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/agastya_khati_f72c89077c8/building-a-portfolio-with-gemini-new-year-new-you-portfolio-challenge-314m" target="_blank">Building a Portfolio with Gemini - New Year, New You Portfolio Challenge</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-31 13:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/tedhagos/the-5-rules-for-not-breaking-production-with-ai-2jfc" target="_blank">The 5 Rules for Not Breaking Production with AI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-31 13:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/01/openai-prism/en/headerimage/generatedHeaderImage-1769714347805.jpg" alt="OpenAI Launches Prism, a Free LaTeX-Native Workspace with Integrated GPT-5.2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/openai-prism/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Launches Prism, a Free LaTeX-Native Workspace with Integrated GPT-5.2</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-31 12:56</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GTK-2026-Planning-FOSDEM" target="_blank">GTK Developers Plot Improvements To Tackle This Year - Possible Opt-In Unstable API</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-31 10:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://antirez.com/news/159" target="_blank">Automatic Programming</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-31 10:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/azmy/http-push-mechanism-3c3j" target="_blank">HTTP Push Mechanism</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-31 09:49</span>
             </div>
         </div>
 </div>
@@ -242,6 +246,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/07/How-to-watch-NFL-free-live-stream-1024x683.jpg" alt="The Super Bowl Will Test New Device for Blind Fans Who Want to Enjoy the Big Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-super-bowl-will-test-new-device-for-blind-fans-who-want-to-enjoy-the-big-game-2000716132" target="_blank">The Super Bowl Will Test New Device for Blind Fans Who Want to Enjoy the Big Game</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-31 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/22FUCK-ICE22-sticker-spotted-in-New-Orleans.-photo-e1768412930269.jpg?fit=768%2C859&amp;quality=60&amp;ssl=1" alt="ICE expands power to arrest people without warrants" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/31/ice-expands-power-to-arrest-people-without-warrants.html" target="_blank">ICE expands power to arrest people without warrants</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-31 13:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/featured-1280x720.jpg" alt="Steam’s Invite-Only Shooter Deadlock Is Quietly Becoming An Absolute Monster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +298,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/30/elon-musk-email-to-epstein-revealed-what-day-night-will-be-the-wildest-party-on-your-island.html" target="_blank">Elon Musk email to Epstein revealed: &quot;What day/night will be the wildest party on your island?&quot;</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-30 23:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/peter-claffey_aknightoftheseven-1280x853.jpg" alt="The Success of ‘Knight of the Seven Kingdoms’ Is Already Influencing HBO’s Other ‘Game of Thrones’ Spinoff Plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/game-of-thrones-knight-of-the-seven-kingdoms-spinoffs-influence-2000716152" target="_blank">The Success of ‘Knight of the Seven Kingdoms’ Is Already Influencing HBO’s Other ‘Game of Thrones’ Spinoff Plans</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-30 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KG82NGDWPWARCVBDPS9RS04J/hero-image.jpg" alt="10 Hacks Every Nintendo Switch (or Switch 2) Owner Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/hacks-every-nintendo-switch-or-switch-2-owner-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Nintendo Switch (or Switch 2) Owner Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-30 22:30</span>
             </div>
         </div>
 </div>
@@ -333,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 13:15 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 14:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
