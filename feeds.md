@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-31 12:02:29 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-31 13:15:30 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, January 31, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, January 31, 2026 - 13:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/31/madison-square-garden-to-life-ban-brawlers-ahead-of-lopez-vs-stevenson?traffic_source=rss" target="_blank">Madison Square Garden warns brawlers of life bans before Lopez vs Stevenson</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-31 13:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/31/nx-s1-5687210/opinion-remembering-catherine-ohara" target="_blank">Opinion: Remembering Catherine O&#x27;Hara</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-31 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +96,38 @@
                 <span class="time">2026-01-31 09:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca4d/live/81a042e0-fe83-11f0-9f78-ef986b34a4d8.jpg" alt="Photos appearing to show Andrew on all fours over woman released in Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g5490xmkeo?at_medium=RSS&at_campaign=rss" target="_blank">Photos appearing to show Andrew on all fours over woman released in Epstein files</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-31 09:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/31/irans-president-says-trump-netanyahu-eu-stirred-tensions-during-protests?traffic_source=rss" target="_blank">Iran’s president says Trump, Netanyahu, EU stirred tensions during protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-31 09:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia" target="_blank">ChatGPT isn’t the only chatbot pulling answers from Elon Musk’s Grokipedia</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-31 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/697d7970f75f1b1bcce7e772/master/pass/How%20Bosch%E2%80%99s%20Newest%20Vacuum%20Compares%20to%20Shark%20and%20Dyson.png" alt="Cordless Stick Vacuum Throw Down: Bosch, Shark, Dyson (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cordless-stick-vacuum-comparison/" target="_blank">Cordless Stick Vacuum Throw Down: Bosch, Shark, Dyson (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-31 12:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1079704034-500x500.jpg" alt="A cup of coffee for depression treatment has better results than microdosing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/01/placebo-outperforms-lsd-microdosing-for-depression/" target="_blank">A cup of coffee for depression treatment has better results than microdosing</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-31 12:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69779bc178751830011ffe68/master/pass/sec-ice-record-2256914180.jpg" alt="How to Film ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,33 +155,6 @@
                 <span class="time">2026-01-31 06:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/870419/senate-passes-budget-with-two-more-weeks-of-homeland-security-funding" target="_blank">Senate passes budget with two more weeks of Homeland Security funding</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-31 02:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/" target="_blank">a16z partner Kofi Ampadu to leave firm after TxO program pause</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-31 01:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/871422/peloton-layoffs-cost-cutting-2026" target="_blank">Peloton lays off 11 percent of its staff just a few months after launching its AI hardware</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-30 23:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,9 +164,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tedhagos/the-5-rules-for-not-breaking-production-with-ai-2jfc" target="_blank">The 5 Rules for Not Breaking Production with AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-31 13:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vamshi_duvva_da4bd62f622c/ide-styled-with-scrapbook-preview-49nd" target="_blank">IDE styled with scrapbook preview</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-31 11:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-50-VRR-Not-Experimental" target="_blank">GNOME 50 Is No Longer Treating Variable Rate Refresh &quot;VRR&quot; As Experimental</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-31 11:37</span>
             </div>
         </div>
 <div class="story">
@@ -202,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/azmy/http-push-mechanism-3c3j" target="_blank">HTTP Push Mechanism</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-31 09:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/calibre-9-0-release/" target="_blank">Your eBooks Don&amp;#x27;t Have to Look Boring, Calibre 9.0 Now has Shelves</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-31 09:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/nvidia-dynamo-ai-kubernetes/en/headerimage/generatedHeaderImage-1769780194150.jpg" alt="NVIDIA Dynamo Planner Brings SLO-Driven Automation to Multi-Node LLM Inference" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/nvidia-dynamo-ai-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">NVIDIA Dynamo Planner Brings SLO-Driven Automation to Multi-Node LLM Inference</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-31 09:00</span>
             </div>
         </div>
 </div>
@@ -250,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/featured-1280x720.jpg" alt="Steam’s Invite-Only Shooter Deadlock Is Quietly Becoming An Absolute Monster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/deadlock-valve-moba-hero-shooter-cast-characters-update-is-it-good-2000664616" target="_blank">Steam’s Invite-Only Shooter Deadlock Is Quietly Becoming An Absolute Monster</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-31 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2023/06/e85c7997318d179cfbeb736341efa1ee.jpg" alt="Jeffrey Epstein Sent Five Nights At Freddy’s Porn Via 4Chan Links, Emails Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -295,15 +296,6 @@
                 <span class="time">2026-01-30 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/highguard-review-1280x720.jpg" alt="Highguard: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/highguard-the-kotaku-review-is-it-good-free-ps5-pc-5v5-3v3-update-patch-2000664646" target="_blank">Highguard: The Kotaku Review</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-30 22:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -341,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 13:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
