@@ -1,44 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-01-31 03:41:54 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-01-31 04:28:39 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 36 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, January 31, 2026 - 03:42 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, January 31, 2026 - 04:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/31/us-approves-6-6bn-sale-of-attack-helicopters-assault-vehicles-to-israel?traffic_source=rss" target="_blank">US approves $6.6bn sale of attack helicopters, assault vehicles to Israel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-31 03:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,15 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/senate-approves-spending-package-allowing-for-dhs-funding-negotiation-256927813916" target="_blank">Senate approves spending package allowing for DHS funding negotiation</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-01-31 01:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02e3/live/289bd6d0-fe17-11f0-8a1e-69aa641f4cb6.jpg" alt="Takeaways from the millions of newly released Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cevnmxyy4wjo?at_medium=RSS&at_campaign=rss" target="_blank">Takeaways from the millions of newly released Epstein files</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-31 00:17</span>
             </div>
         </div>
 </div>
@@ -173,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04la1z9b9b96la5x1eqy.png" alt="Debugging a Failing Test Entirely from the Terminal with GitHub Copilot CLI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/manoj_kiran_4ff6ecaa902bd/debugging-a-failing-test-entirely-from-the-terminal-with-github-copilot-cli-447a" target="_blank">Debugging a Failing Test Entirely from the Terminal with GitHub Copilot CLI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-31 04:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/05/kinetic-kudu-ubuntu-download.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 Snapshot 3 is available to download" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/ubuntu-26-04-snapshot-3-released" target="_blank">Ubuntu 26.04 Snapshot 3 is available to download</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-31 03:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/05/kinetic-kudu-ubuntu-download.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 Snapshot 3 is Available to Download" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -206,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/shawn_dsza/voxtube-convert-youtube-videos-to-audio-with-local-tts-1ae1" target="_blank">VoxTube – Convert YouTube videos to audio with local TTS</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-30 23:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0lyqsirlf07dxuto8mt8.png" alt="# The 85% of Success They Never Taught You to Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zerozulu/-the-85-of-success-they-never-taught-you-to-code-4ii8" target="_blank"># The 85% of Success They Never Taught You to Code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-30 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ziizium/security-news-weekly-round-up-30th-january-2026-gb8" target="_blank">Security news weekly round-up - 30th January 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-30 20:55</span>
             </div>
         </div>
 </div>
@@ -355,7 +348,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 03:42 UTC
+        🔄 Last Updated: 04:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
