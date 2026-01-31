@@ -1,34 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-01-31 02:49:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-31 03:41:54 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, January 31, 2026 - 02:49 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, January 31, 2026 - 03:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/31/us-senate-approves-spending-package-but-short-government-shutdown-likely?traffic_source=rss" target="_blank">US Senate approves spending package, but short government shutdown likely</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-31 03:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/30/nx-s1-5691558/melania-documentary-review" target="_blank">&#x27;Melania&#x27; is Amazon&#x27;s airbrushed and astronomically pricey portrait of the First Lady</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-31 02:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/john-thune-ht-gmh-260130_1769808162249_hpMain_4x3t_384.jpg" alt="Senate votes to fund government ahead of deadline but will negotiate ICE restrictions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,6 +91,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_01/1769821458206_now_hallie_jts_sentate_spending_260130_1920x1080-sdfy4p.jpg" alt="Senate approves spending package allowing for DHS funding negotiation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/senate-approves-spending-package-allowing-for-dhs-funding-negotiation-256927813916" target="_blank">Senate approves spending package allowing for DHS funding negotiation</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-31 01:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02e3/live/289bd6d0-fe17-11f0-8a1e-69aa641f4cb6.jpg" alt="Takeaways from the millions of newly released Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -71,38 +108,20 @@
                 <span class="time">2026-01-31 00:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260129-us-capitol-ew-235p-666516.jpg" alt="Senate passes bill to resolve shutdown clash, punting on DHS for two weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/senate-passes-bill-resolve-shutdown-clash-punting-dhs-two-weeks-rcna256540" target="_blank">Senate passes bill to resolve shutdown clash, punting on DHS for two weeks</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-30 23:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7190/live/07c88e80-c956-11f0-b163-d7d455ce68d3.jpg" alt="Epstein invited &#x27;The Duke&#x27; to meet Russian woman" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g5490xmkeo?at_medium=RSS&at_campaign=rss" target="_blank">Epstein invited &#x27;The Duke&#x27; to meet Russian woman</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-30 23:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/30/un-nuclear-watchdog-discusses-ukraine-nuclear-safety-risks?traffic_source=rss" target="_blank">UN nuclear watchdog discusses Ukraine nuclear safety risks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-30 23:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/870419/senate-passes-budget-with-two-more-weeks-of-homeland-security-funding" target="_blank">Senate passes budget with two more weeks of Homeland Security funding</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-31 02:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +167,29 @@
                 <span class="time">2026-01-30 21:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/30/instagram-might-soon-let-you-remove-yourself-from-someones-close-friends-list/" target="_blank">Instagram might soon let you remove yourself from someone’s Close Friends list</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-30 21:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/05/kinetic-kudu-ubuntu-download.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 Snapshot 3 is Available to Download" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/ubuntu-26-04-snapshot-3-released" target="_blank">Ubuntu 26.04 Snapshot 3 is Available to Download</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-01-31 03:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwj7qg3llnbvwjbk7696k.png" alt="How to Turn Raw Product Photos Into Studio-Quality Images with AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mashraf_aiman_b9a968e5c1d/how-to-turn-raw-product-photos-into-studio-quality-images-with-ai-4l2l" target="_blank">How to Turn Raw Product Photos Into Studio-Quality Images with AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-31 03:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/01/uber-network-observability/en/headerimage/generatedHeaderImage-1769818120419.jpg" alt="Uber Gets Ready for AI in Network Observability with Cloud Native Overhaul" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +226,6 @@
                 <span class="time">2026-01-30 20:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux" target="_blank">AI Code Review Prompts Initiative Making Progress For The Linux Kernel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-30 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://antirender.com/" target="_blank">Antirender: remove the glossy shine on architectural renderings</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-01-30 20:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +255,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/06/e85c7997318d179cfbeb736341efa1ee.jpg" alt="Jeffrey Epstein Sent Five Nights At Freddy’s Porn Via 4Chan Links, Emails Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/jeffrey-epstein-five-nights-at-freddys-porn-via-4chan-links-emails-show-2000664667" target="_blank">Jeffrey Epstein Sent Five Nights At Freddy’s Porn Via 4Chan Links, Emails Show</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-31 03:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/elon-doge.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Emails appear to show Elon Musk trying very hard to get invited to Jeffrey Epstein&#x27;s party" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/30/emails-appear-to-show-elon-musk-trying-very-hard-to-get-invited-to-jeffrey-epsteins-party.html" target="_blank">Emails appear to show Elon Musk trying very hard to get invited to Jeffrey Epstein&#x27;s party</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-31 01:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/It-is-what-it-is.jpg?fit=2016%2C1080&amp;quality=60&amp;ssl=1" alt="Elon Musk email to Epstein revealed: &quot;What day/night will be the wildest party on your island?&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -263,39 +291,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KG82NGDWPWARCVBDPS9RS04J/hero-image.jpg" alt="10 Hacks Every Nintendo Switch (or Switch 2) Owner Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/hacks-every-nintendo-switch-or-switch-2-owner-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Nintendo Switch (or Switch 2) Owner Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-01-30 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/highguard-review-1280x720.jpg" alt="Highguard: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/highguard-the-kotaku-review-is-it-good-free-ps5-pc-5v5-3v3-update-patch-2000664646" target="_blank">Highguard: The Kotaku Review</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-30 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/lego-february-2026-releases-pokemon-pikachu-1280x853.jpg" alt="February’s Lego Releases Want You to Catch ‘Em All" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/lego-february-2026-releases-pokemon-2000716057" target="_blank">February’s Lego Releases Want You to Catch ‘Em All</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-30 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-30 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KG88JE6P1TSSP7G184NRN6FQ/hero-image.png" alt="This Entry-Level Roborock Robot Vacuum Is 44% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/roborock-q7-l5-robot-vacuum-and-mop-sale-january-2026?utm_medium=RSS" target="_blank">This Entry-Level Roborock Robot Vacuum Is 44% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-01-30 21:30</span>
             </div>
         </div>
 </div>
@@ -344,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 02:49 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 03:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
