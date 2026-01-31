@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-01-31 01:30:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-01-31 02:49:04 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, January 31, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, January 31, 2026 - 02:49 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -73,6 +72,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260129-us-capitol-ew-235p-666516.jpg" alt="Senate passes bill to resolve shutdown clash, punting on DHS for two weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/senate-passes-bill-resolve-shutdown-clash-punting-dhs-two-weeks-rcna256540" target="_blank">Senate passes bill to resolve shutdown clash, punting on DHS for two weeks</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-01-30 23:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7190/live/07c88e80-c956-11f0-b163-d7d455ce68d3.jpg" alt="Epstein invited &#x27;The Duke&#x27; to meet Russian woman" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -88,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/30/un-nuclear-watchdog-discusses-ukraine-nuclear-safety-risks?traffic_source=rss" target="_blank">UN nuclear watchdog discusses Ukraine nuclear safety risks</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-30 23:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ac7/live/aae2b1b0-fe1f-11f0-bd36-9d8a84b498ee.jpg" alt="Schitt&#x27;s Creek and Home Alone star Catherine O&#x27;Hara dies aged 71" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czr4jn4621lo?at_medium=RSS&at_campaign=rss" target="_blank">Schitt&#x27;s Creek and Home Alone star Catherine O&#x27;Hara dies aged 71</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-01-30 22:47</span>
             </div>
         </div>
 </div>
@@ -164,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/01/uber-network-observability/en/headerimage/generatedHeaderImage-1769818120419.jpg" alt="Uber Gets Ready for AI in Network Observability with Cloud Native Overhaul" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/01/uber-network-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber Gets Ready for AI in Network Observability with Cloud Native Overhaul</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-01-31 02:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +214,6 @@
                 <span class="title"><a href="https://antirender.com/" target="_blank">Antirender: remove the glossy shine on architectural renderings</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-30 20:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18858293&w=600" alt="From LLMs to Agents: How BigID is Enabling Secure Agentic AI for Data Governance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/from-llms-to-agents-how-bigid-is-enabling-secure-a-1" target="_blank">From LLMs to Agents: How BigID is Enabling Secure Agentic AI for Data Governance</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-01-30 20:00</span>
             </div>
         </div>
 </div>
@@ -340,22 +339,13 @@
                 <span class="time">2026-01-30 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5755.png" alt="Cooler Than Cool" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5755" target="_blank">Cooler Than Cool</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-01-30 02:03</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 02:49 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
