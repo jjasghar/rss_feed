@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-01-31 05:15:09 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-01-31 06:06:46 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, January 31, 2026 - 05:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, January 31, 2026 - 06:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2026/1/31/how-does-ice-spend-its-budget-and-who-profits?traffic_source=rss" target="_blank">How does ICE spend its budget? And who profits?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-31 05:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/30/nx-s1-5691558/melania-documentary-review" target="_blank">&#x27;Melania&#x27; is Amazon&#x27;s airbrushed and astronomically pricey portrait of the First Lady</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-31 02:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/john-thune-ht-gmh-260130_1769808162249_hpMain_4x3t_384.jpg" alt="Senate votes to fund government ahead of deadline but will negotiate ICE restrictions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/graham-blockade-stalls-government-funding-deal-hours-shutdown/story?id=129712452" target="_blank">Senate votes to fund government ahead of deadline but will negotiate ICE restrictions</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-31 01:28</span>
             </div>
         </div>
 </div>
@@ -169,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/testmygamepad/i-built-a-browser-based-gamepad-tester-using-the-html5-gamepad-api-3hec" target="_blank">I built a browser-based Gamepad Tester using the HTML5 Gamepad API</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-31 06:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04la1z9b9b96la5x1eqy.png" alt="Debugging a Failing Test Entirely from the Terminal with GitHub Copilot CLI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +216,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/01/uber-network-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber Gets Ready for AI in Network Observability with Cloud Native Overhaul</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-01-31 02:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shawn_dsza/voxtube-convert-youtube-videos-to-audio-with-local-tts-1ae1" target="_blank">VoxTube – Convert YouTube videos to audio with local TTS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-30 23:37</span>
             </div>
         </div>
 </div>
@@ -341,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 05:15 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 06:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
