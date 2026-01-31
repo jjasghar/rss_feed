@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-01-31 20:01:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-31 21:01:37 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, January 31, 2026 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, January 31, 2026 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +104,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/871606/minneapolis-general-strike-anti-ice-protest" target="_blank">“No more Minnesota nice, Minneapolis will strike”</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-31 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/697d437513c39f45f09e613d/master/pass/Onnit's%20Instant%20Melatonin%20Spray%20Is%20the%20Easiest%20Part%20of%20My%20Nightly%20Routine.png" alt="Onnit&#x27;s Instant Melatonin Spray Keeps Bedtime Uncomplicated" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/onnit-instant-melatonin-spray-rave/" target="_blank">Onnit&#x27;s Instant Melatonin Spray Keeps Bedtime Uncomplicated</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-31 19:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/" target="_blank">Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled</a></span>
                 <span class="feed">TechCrunch</span>
@@ -139,24 +153,6 @@
                 <span class="title"><a href="https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia" target="_blank">ChatGPT isn’t the only chatbot pulling answers from Elon Musk’s Grokipedia</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-31 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697d7970f75f1b1bcce7e772/master/pass/How%20Bosch%E2%80%99s%20Newest%20Vacuum%20Compares%20to%20Shark%20and%20Dyson.png" alt="Cordless Stick Vacuum Throw Down: Bosch, Shark, Dyson (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cordless-stick-vacuum-comparison/" target="_blank">Cordless Stick Vacuum Throw Down: Bosch, Shark, Dyson (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-31 12:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1079704034-500x500.jpg" alt="A cup of coffee for depression treatment has better results than microdosing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/01/placebo-outperforms-lsd-microdosing-for-depression/" target="_blank">A cup of coffee for depression treatment has better results than microdosing</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-31 12:19</span>
             </div>
         </div>
 </div>
@@ -238,6 +234,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Kevin-Warsh-smiling-while-wearing-sunglasses-1280x853.jpg" alt="Trump’s Pick for Fed Chair Points to Growing Bitcoin-Dollar Synthesis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trumps-pick-for-fed-chair-points-to-growing-bitcoin-dollar-synthesis-2000716347" target="_blank">Trump’s Pick for Fed Chair Points to Growing Bitcoin-Dollar Synthesis</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-31 20:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/bovino.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="NYT: Bovino made antisemitic remarks about Jewish prosecutor" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -282,15 +287,6 @@
                 <span class="time">2026-01-31 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Image-Kathy-Hutchins-Shutterstock.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Long-time voice of Kermit calls the current Muppets a tribute band" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/31/long-time-voice-of-kermit-calls-the-current-muppets-a-tribute-band.html" target="_blank">Long-time voice of Kermit calls the current Muppets a tribute band</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-31 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 279 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 41 | 📸 With Images: 279 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
