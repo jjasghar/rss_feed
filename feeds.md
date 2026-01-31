@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-31 21:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-31 22:01:44 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, January 31, 2026 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, January 31, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +107,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/" target="_blank">Waymo reportedly raising a $16B funding round</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-01-31 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/policy/871606/minneapolis-general-strike-anti-ice-protest" target="_blank">“No more Minnesota nice, Minneapolis will strike”</a></span>
                 <span class="feed">The Verge</span>
@@ -146,20 +158,20 @@
                 <span class="time">2026-01-31 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia" target="_blank">ChatGPT isn’t the only chatbot pulling answers from Elon Musk’s Grokipedia</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-31 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/secengineerx/retry-logic-is-a-policy-decision-not-a-code-pattern-1lmi" target="_blank">Retry Logic Is a Policy Decision, Not a Code Pattern</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-31 21:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +215,6 @@
                 <span class="title"><a href="https://an.dywa.ng/carrier-gnss.html" target="_blank">Mobile carriers can get your GPS location</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-01-31 17:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lewisawe/why-my-portfolio-has-superpowers-and-villain-galleries-1hci" target="_blank">Why My Portfolio Has Superpowers and Villain Galleries</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-31 16:56</span>
             </div>
         </div>
 </div>
@@ -315,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 41 | 📸 With Images: 279 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
