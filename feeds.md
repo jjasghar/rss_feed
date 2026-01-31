@@ -1,41 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-31 15:02:25 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-01-31 16:02:02 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, January 31, 2026 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, January 31, 2026 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -114,6 +108,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/871092/airpods-4-anc-google-tv-streamer-4k-deal-sale" target="_blank">The AirPods 4 and Google’s 4K streamer are just two of this week’s best deals</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-31 15:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/games/867020/cassette-boy-review-pc-playstation-xbox-nintendo-switch" target="_blank">Cassette Boy forces you to see its world in a whole new way</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-31 14:00</span>
@@ -153,15 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/how-to-film-ice/" target="_blank">How to Film ICE</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-01-31 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/870603/fujifilm-instax-mini-link-plus-reivew-improved-photos" target="_blank">The latest Instax printer is a pricey but worthy upgrade</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-31 08:00</span>
             </div>
         </div>
 </div>
@@ -237,20 +231,29 @@
                 <span class="time">2026-01-30 22:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-security-vulnerabilities.html" target="_blank">AIs Are Getting Better at Finding and Exploiting Security Vulnerabilities</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-01-30 15:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/xboxepstein.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Jeffrey Epstein was banned by Xbox Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/31/jeffrey-epstein-was-banned-by-xbox-live.html" target="_blank">Jeffrey Epstein was banned by Xbox Live</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-31 15:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/catherine-ohara-culkin-1280x853.jpg" alt="Hollywood Mourns the Surprise Death of Catherine O’Hara" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/hollywood-mourns-the-sudden-death-of-catherine-ohara-2000716203" target="_blank">Hollywood Mourns the Surprise Death of Catherine O’Hara</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-31 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/rokid-ai-glasses-style-review-4-1280x853.jpg" alt="Rokid AI Glasses Style Review: Surprisingly Tough Competition for Meta’s Ray-Ban" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,24 +288,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-super-bowl-will-test-new-device-for-blind-fans-who-want-to-enjoy-the-big-game-2000716132" target="_blank">The Super Bowl Will Test New Device for Blind Fans Who Want to Enjoy the Big Game</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-01-31 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/22FUCK-ICE22-sticker-spotted-in-New-Orleans.-photo-e1768412930269.jpg?fit=768%2C859&amp;quality=60&amp;ssl=1" alt="ICE expands power to arrest people without warrants" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/31/ice-expands-power-to-arrest-people-without-warrants.html" target="_blank">ICE expands power to arrest people without warrants</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-31 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/featured-1280x720.jpg" alt="Steam’s Invite-Only Shooter Deadlock Is Quietly Becoming An Absolute Monster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/deadlock-valve-moba-hero-shooter-cast-characters-update-is-it-good-2000664616" target="_blank">Steam’s Invite-Only Shooter Deadlock Is Quietly Becoming An Absolute Monster</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-31 13:00</span>
             </div>
         </div>
 </div>
@@ -342,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
