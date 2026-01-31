@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-01-31 14:03:46 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-01-31 15:02:25 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, January 31, 2026 - 14:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, January 31, 2026 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +114,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/867020/cassette-boy-review-pc-playstation-xbox-nintendo-switch" target="_blank">Cassette Boy forces you to see its world in a whole new way</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-31 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia" target="_blank">ChatGPT isn’t the only chatbot pulling answers from Elon Musk’s Grokipedia</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-31 13:00</span>
@@ -148,15 +162,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/870603/fujifilm-instax-mini-link-plus-reivew-improved-photos" target="_blank">The latest Instax printer is a pricey but worthy upgrade</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-31 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="Nomad Goods Promo Codes: 25% Off | February 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nomad-discount-code/" target="_blank">Nomad Goods Promo Codes: 25% Off | February 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-31 06:30</span>
             </div>
         </div>
 </div>
@@ -247,6 +252,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/rokid-ai-glasses-style-review-4-1280x853.jpg" alt="Rokid AI Glasses Style Review: Surprisingly Tough Competition for Meta’s Ray-Ban" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/rokid-ai-glasses-style-review-surprisingly-tough-competition-for-metas-ray-ban-2000716034" target="_blank">Rokid AI Glasses Style Review: Surprisingly Tough Competition for Meta’s Ray-Ban</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-31 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Image-Kathy-Hutchins-Shutterstock.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Long-time voice of Kermit calls the current Muppets a tribute band" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/31/long-time-voice-of-kermit-calls-the-current-muppets-a-tribute-band.html" target="_blank">Long-time voice of Kermit calls the current Muppets a tribute band</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-31 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/Meta-Quest-1280x853.jpg" alt="Meta Quest 3S Now the Cheapest VR Headset Option After Sudden Price Drop, While PlayStation VR2 Remains at Full Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/meta-quest-3s-now-the-cheapest-vr-headset-option-after-sudden-price-drop-while-playstation-vr2-remains-at-full-price-2000664623" target="_blank">Meta Quest 3S Now the Cheapest VR Headset Option After Sudden Price Drop, While PlayStation VR2 Remains at Full Price</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-01-31 14:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/07/How-to-watch-NFL-free-live-stream-1024x683.jpg" alt="The Super Bowl Will Test New Device for Blind Fans Who Want to Enjoy the Big Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -271,33 +303,6 @@
                 <span class="title"><a href="https://kotaku.com/deadlock-valve-moba-hero-shooter-cast-characters-update-is-it-good-2000664616" target="_blank">Steam’s Invite-Only Shooter Deadlock Is Quietly Becoming An Absolute Monster</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-01-31 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/06/e85c7997318d179cfbeb736341efa1ee.jpg" alt="Jeffrey Epstein Sent Five Nights At Freddy’s Porn Via 4Chan Links, Emails Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/jeffrey-epstein-five-nights-at-freddys-porn-via-4chan-links-emails-show-2000664667" target="_blank">Jeffrey Epstein Sent Five Nights At Freddy’s Porn Via 4Chan Links, Emails Show</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-01-31 03:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/elon-doge.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Emails appear to show Elon Musk trying very hard to get invited to Jeffrey Epstein&#x27;s party" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/30/emails-appear-to-show-elon-musk-trying-very-hard-to-get-invited-to-jeffrey-epsteins-party.html" target="_blank">Emails appear to show Elon Musk trying very hard to get invited to Jeffrey Epstein&#x27;s party</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-31 01:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/It-is-what-it-is.jpg?fit=2016%2C1080&amp;quality=60&amp;ssl=1" alt="Elon Musk email to Epstein revealed: &quot;What day/night will be the wildest party on your island?&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/30/elon-musk-email-to-epstein-revealed-what-day-night-will-be-the-wildest-party-on-your-island.html" target="_blank">Elon Musk email to Epstein revealed: &quot;What day/night will be the wildest party on your island?&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-30 23:37</span>
             </div>
         </div>
 </div>
@@ -337,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 14:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
