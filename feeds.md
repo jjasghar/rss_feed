@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-01-31 10:01:43 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-01-31 11:02:45 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, January 31, 2026 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, January 31, 2026 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/31/djokovic-vs-alcaraz-australian-open-final-start-time-head-to-head?traffic_source=rss" target="_blank">Djokovic vs Alcaraz – Australian Open final: Start time, head-to-head</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-31 10:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca4d/live/81a042e0-fe83-11f0-9f78-ef986b34a4d8.jpg" alt="Photos released in Epstein files appear to show Andrew on all fours over female" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g5490xmkeo?at_medium=RSS&at_campaign=rss" target="_blank">Photos released in Epstein files appear to show Andrew on all fours over female</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-31 09:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca4d/live/81a042e0-fe83-11f0-9f78-ef986b34a4d8.jpg" alt="Photos appearing to show Andrew on all fours over woman released in Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +103,29 @@
                 <span class="time">2026-01-31 07:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/31/g-s1-108127/venezuela-amnesty-bill" target="_blank">Venezuela announces amnesty bill that could lead to release of political prisoners</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-31 06:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2026/1/31/how-does-ice-spend-its-budget-and-who-profits?traffic_source=rss" target="_blank">How does ICE spend its budget? And who profits?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-31 05:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69779bc178751830011ffe68/master/pass/sec-ice-record-2256914180.jpg" alt="How to Film ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-film-ice/" target="_blank">How to Film ICE</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-01-31 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/870603/fujifilm-instax-mini-link-plus-reivew-improved-photos" target="_blank">The latest Instax printer is a pricey but worthy upgrade</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-01-31 08:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="Nomad Goods Promo Codes: 25% Off | February 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +162,20 @@
                 <span class="time">2026-01-30 23:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Desktop_01-1-500x500-1769809183.jpg" alt="The TV industry finally concedes that the future may not be in 8K" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/01/lg-joins-the-rest-of-the-world-accepts-that-people-dont-want-8k-tvs/" target="_blank">The TV industry finally concedes that the future may not be in 8K</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-01-30 23:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697a8fd1936236e628511234/master/pass/Gun-Nuts-Bend-Over-Backward-Culture-1542347197.jpg" alt="Right-Wing Gun Enthusiasts and Extremists Are Working Overtime to Justify Alex Pretti’s Killing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/right-wing-gun-enthusiasts-and-extremists-are-working-overtime-to-justify-alex-prettis-killing/" target="_blank">Right-Wing Gun Enthusiasts and Extremists Are Working Overtime to Justify Alex Pretti’s Killing</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-30 22:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GTK-2026-Planning-FOSDEM" target="_blank">GTK Developers Plot Improvements To Tackle This Year - Possible Opt-In Unstable API</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-01-31 10:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/testmygamepad/i-built-a-browser-based-gamepad-tester-using-the-html5-gamepad-api-3hec" target="_blank">I built a browser-based Gamepad Tester using the HTML5 Gamepad API</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-31 06:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04la1z9b9b96la5x1eqy.png" alt="Debugging a Failing Test Entirely from the Terminal with GitHub Copilot CLI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/manoj_kiran_4ff6ecaa902bd/debugging-a-failing-test-entirely-from-the-terminal-with-github-copilot-cli-447a" target="_blank">Debugging a Failing Test Entirely from the Terminal with GitHub Copilot CLI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-31 04:10</span>
             </div>
         </div>
 </div>
@@ -314,6 +318,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/a-new-bird/" target="_blank">A New Bird</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-01-30 17:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1769734368-20260130.png" alt="Saturday Morning Breakfast Cereal - French" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -327,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
