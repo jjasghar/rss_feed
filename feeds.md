@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-01-31 11:02:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-01-31 12:02:29 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, January 31, 2026 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, January 31, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/31/nx-s1-5694681/measles-elimination-status-south-carolina-texas-outbreak" target="_blank">The U.S. will likely lose its measles elimination status. Here&#x27;s what that means</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-01-31 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/31/rybakina-shocks-sabalenka-to-win-australian-open-tennis-final?traffic_source=rss" target="_blank">Rybakina shocks Sabalenka to win Australian Open tennis final</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-31 11:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/31/irans-president-says-trump-netanyahu-eu-stirred-tensions-during-protests?traffic_source=rss" target="_blank">Iran’s president says Trump, Netanyahu, EU stirred tensions during protests</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-31 09:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/1/31/injured-pat-cummins-out-of-australias-t20-world-cup-squad?traffic_source=rss" target="_blank">Injured Pat Cummins out of Australia’s T20 World Cup squad</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-31 08:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/1/31/gazas-collapsing-economy-drives-youth-to-create-unconventional-solutions?traffic_source=rss" target="_blank">Gaza’s collapsing economy drives youth to create unconventional solutions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-31 07:38</span>
             </div>
         </div>
 </div>
@@ -170,10 +171,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vamshi_duvva_da4bd62f622c/ide-styled-with-scrapbook-preview-49nd" target="_blank">IDE styled with scrapbook preview</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-31 11:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/GTK-2026-Planning-FOSDEM" target="_blank">GTK Developers Plot Improvements To Tackle This Year - Possible Opt-In Unstable API</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-31 10:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://antirez.com/news/159" target="_blank">Automatic Programming</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-31 10:11</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +220,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/01/nvidia-dynamo-ai-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">NVIDIA Dynamo Planner Brings SLO-Driven Automation to Multi-Node LLM Inference</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-01-31 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/nano-like-editors/" target="_blank">Nano Feels Complicated? Try These 5 Easier Terminal Editors</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-01-31 07:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/testmygamepad/i-built-a-browser-based-gamepad-tester-using-the-html5-gamepad-api-3hec" target="_blank">I built a browser-based Gamepad Tester using the HTML5 Gamepad API</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-31 06:02</span>
             </div>
         </div>
 </div>
@@ -340,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
