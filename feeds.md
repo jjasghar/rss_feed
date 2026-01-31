@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-01-31 09:04:44 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-01-31 10:01:43 UTC -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, January 31, 2026 - 09:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, January 31, 2026 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca4d/live/81a042e0-fe83-11f0-9f78-ef986b34a4d8.jpg" alt="Photos appearing to show Andrew on all fours over woman released in Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g5490xmkeo?at_medium=RSS&at_campaign=rss" target="_blank">Photos appearing to show Andrew on all fours over woman released in Epstein files</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-01-31 09:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/31/irans-president-says-trump-netanyahu-eu-stirred-tensions-during-protests?traffic_source=rss" target="_blank">Iran’s president says Trump, Netanyahu, EU stirred tensions during protests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-01-31 09:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2026/1/31/how-does-ice-spend-its-budget-and-who-profits?traffic_source=rss" target="_blank">How does ICE spend its budget? And who profits?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-31 05:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/31/nx-s1-5694716/partial-government-shutdown" target="_blank">What to know about the partial government shutdown</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-31 05:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/31/myanmar-election-delivers-walkover-win-for-military-backed-political-party?traffic_source=rss" target="_blank">Myanmar election delivers walkover win for military-backed political party</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-31 04:31</span>
             </div>
         </div>
 </div>
@@ -166,6 +164,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/azmy/http-push-mechanism-3c3j" target="_blank">HTTP Push Mechanism</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-01-31 09:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/calibre-9-0-release/" target="_blank">Your eBooks Don&amp;#x27;t Have to Look Boring, Calibre 9.0 Now has Shelves</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-01-31 09:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/01/nvidia-dynamo-ai-kubernetes/en/headerimage/generatedHeaderImage-1769780194150.jpg" alt="NVIDIA Dynamo Planner Brings SLO-Driven Automation to Multi-Node LLM Inference" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -199,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/manoj_kiran_4ff6ecaa902bd/debugging-a-failing-test-entirely-from-the-terminal-with-github-copilot-cli-447a" target="_blank">Debugging a Failing Test Entirely from the Terminal with GitHub Copilot CLI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-01-31 04:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/05/kinetic-kudu-ubuntu-download.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 Snapshot 3 is available to download" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/ubuntu-26-04-snapshot-3-released" target="_blank">Ubuntu 26.04 Snapshot 3 is available to download</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-31 03:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/05/kinetic-kudu-ubuntu-download.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 Snapshot 3 is Available to Download" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/01/ubuntu-26-04-snapshot-3-released" target="_blank">Ubuntu 26.04 Snapshot 3 is Available to Download</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-01-31 03:39</span>
             </div>
         </div>
 </div>
@@ -330,7 +328,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 09:04 UTC
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
