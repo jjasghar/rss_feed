@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-01 21:03:29 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-02-01 22:01:40 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, February 01, 2026 - 21:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, February 01, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/2/1/how-will-pakistan-deal-with-the-unrest-in-balochistan?traffic_source=rss" target="_blank">How will Pakistan deal with the unrest in Balochistan?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-01 21:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +95,6 @@
                 <span class="time">2026-02-01 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85c6/live/361feac0-ff85-11f0-ba7a-65010dfea24f.jpg" alt="Twelve killed by Russian strike near bus in Ukraine, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss" target="_blank">Twelve killed by Russian strike near bus in Ukraine, official says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-01 16:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,6 +107,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/01/why-tethers-ceo-is-everywhere-right-now/" target="_blank">Why Tether’s CEO is everywhere right now</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-01 20:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/871879/bill-gates-epstein-files-absolutely-absurd" target="_blank">Bill Gates says accusations contained in Epstein files are ‘absolutely absurd’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-01 19:24</span>
             </div>
         </div>
 <div class="story">
@@ -148,20 +154,29 @@
                 <span class="time">2026-02-01 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/871350/artly-robot-coffee-jarvis-seattle" target="_blank">I don’t hate the robot barista like I thought I would</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-01 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gianfcop98/transactions-in-spring-boot-what-transactional-really-does-and-why-it-matters-56a6" target="_blank">Transactions in Spring Boot: What `@Transactional` Really Does (and Why It Matters)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-01 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.iranintl.com/en/202602017863" target="_blank">Iran summons families of exiled journalists to halt their activities</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-01 21:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftrat9h85ijpp2nq64dp9.png" alt="Under the Hood of Bitcoin: UTXO Lifecycle, Script Execution, and Practical Debugging" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,24 +211,6 @@
                 <span class="title"><a href="https://dev.to/primaryobjects/i-wrote-hello-world-to-the-cardano-blockchain-and-heres-how-you-can-too-3ppc" target="_blank">I Wrote “Hello World” to the Cardano Blockchain and Here’s How You Can Too</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-01 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNU-Hurd-In-2026" target="_blank">GNU Hurd Is &quot;Almost There&quot; With x86_64, SMP &amp; ~75% Of Debian Packages Building</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-01 15:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mohammad_waseem_c31f3a26f/taming-the-chaos-how-a-devops-specialist-cleaned-dirty-data-with-web-scraping-without-documentation-4h7i" target="_blank">Taming the Chaos: How a DevOps Specialist Cleaned Dirty Data with Web Scraping Without Documentation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-01 14:48</span>
             </div>
         </div>
 </div>
@@ -294,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 21:03 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
