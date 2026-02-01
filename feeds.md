@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-02-01 17:04:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-01 18:02:51 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, February 01, 2026 - 17:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, February 01, 2026 - 18:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Liam-conejo-ramos-abc-bh-260102_1769953109621_hpMain_4x3t_384.jpg" alt="&#x27;Going home&#x27;: 5-year-old, father arrive in Minneapolis after detention center release" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/5-year-liam-conejo-ramos-father-board-plane/story?id=129749784" target="_blank">&#x27;Going home&#x27;: 5-year-old, father arrive in Minneapolis after detention center release</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-01 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/1/israel-says-it-will-ban-msf-from-operating-in-gaza?traffic_source=rss" target="_blank">Israel says it will ban MSF from operating in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-01 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85c6/live/361feac0-ff85-11f0-ba7a-65010dfea24f.jpg" alt="Twelve killed by Russian strike near bus in Ukraine, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,24 +103,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/1/khartoum-airport-receives-first-scheduled-flight-since-start-of-sudan-war?traffic_source=rss" target="_blank">Khartoum airport receives first scheduled flight since start of Sudan war</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-01 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1769954400321_mtp_clip_khannashutdown_260201_1920x1080-r0nmus.jpg" alt="Ro Khanna says he’s a ‘firm no’ on reopening the government amid DHS funding fight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/ro-khanna-says-he-s-a-firm-no-on-reopening-the-government-amid-dhs-funding-fight-256971333800" target="_blank">Ro Khanna says he’s a ‘firm no’ on reopening the government amid DHS funding fight</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-01 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/1/alcaraz-beats-djokovic-to-win-australian-open-completes-career-slam?traffic_source=rss" target="_blank">Alcaraz beats Djokovic to win Australian Open; completes career Slam</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-01 13:16</span>
             </div>
         </div>
 </div>
@@ -190,6 +197,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.adventuregamestudio.co.uk/" target="_blank">Adventure Game Studio: OSS software for creating adventure games</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-01 13:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftxyuc4m8q5yft2wxisky.png" alt="Migrating a Lambda to a Durable Lambda Function" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +221,6 @@
                 <span class="title"><a href="https://dev.to/neurondb_support_d73fa7ba/retrieval-augmented-generation-architectures-patterns-and-production-reality-49g1" target="_blank">Retrieval Augmented Generation: Architectures, Patterns, and Production Reality</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-01 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/smolBSD" target="_blank">smolBSD Builds On The NetBSD-MicroVM Kernel For Booting To Service VMs In Milliseconds</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-01 11:34</span>
             </div>
         </div>
 </div>
@@ -277,11 +284,25 @@
         </div>
 </div>
 </div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1769907112-20260201.png" alt="Saturday Morning Breakfast Cereal - Grow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/grow" target="_blank">Saturday Morning Breakfast Cereal - Grow</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-02-01 16:20</span>
+            </div>
+        </div>
+</div>
+</div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 17:04 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 18:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
