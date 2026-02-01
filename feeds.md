@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-01 16:02:21 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-01 17:04:07 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, February 01, 2026 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, February 01, 2026 - 17:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85c6/live/361feac0-ff85-11f0-ba7a-65010dfea24f.jpg" alt="Twelve killed by Russian strike near bus in Ukraine, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss" target="_blank">Twelve killed by Russian strike near bus in Ukraine, official says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-01 16:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +98,29 @@
                 <span class="time">2026-02-01 13:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/2/1/starmers-visit-to-china-was-not-a-reset-but-a-new-way-forward?traffic_source=rss" target="_blank">Starmer’s visit to China was not a reset, but a new way forward</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-01 12:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/01/india-offers-zero-taxes-through-2047-to-lure-global-ai-workloads/" target="_blank">India offers zero taxes through 2047 to lure global AI workloads</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-01 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/870583/xteink-x4-e-ink-reader-books-hands-on" target="_blank">This tiny pocket-friendly e-reader is packed with frustration and potential</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-01 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +157,20 @@
                 <span class="time">2026-02-01 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1291108057-500x500.jpg" alt="At NIH, a power struggle over institute directorships deepens" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/02/at-nih-a-power-struggle-over-institute-directorships-deepens/" target="_blank">At NIH, a power struggle over institute directorships deepens</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-01 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697d39dd288c1dafebd263ee/master/pass/Using-Physics-to-Escape-Ice-Bowl-Science-2248980379.jpg" alt="How to Use Physics to Escape an Ice Bowl" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-use-physics-to-escape-an-ice-bowl/" target="_blank">How to Use Physics to Escape an Ice Bowl</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-01 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F555cd1cn0p4jlrjgpvng.png" alt="Schemas and Data modelling in Power BI." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/murimikelvin/schemas-and-data-modelling-in-power-bi-4184" target="_blank">Schemas and Data modelling in Power BI.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-01 16:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcqgv1pgqk0zlvmbp7m21.png" alt="I Wrote “Hello World” to the Cardano Blockchain and Here’s How You Can Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +216,6 @@
                 <span class="time">2026-02-01 11:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Framework-13-Fan-Target" target="_blank">Framework 13 To See Fan Target &amp; Fan Temperature Thresholds Support With Linux 7.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-01 10:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -232,6 +228,15 @@
                 <span class="title"><a href="https://gizmodo.com/when-does-the-last-of-us-end-hbo-doesnt-know-2000716334" target="_blank">When Does ‘The Last of Us’ End? HBO Doesn’t Know</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-01 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Archies-TV-Laugh-Out.jpg?fit=813%2C1200&amp;quality=60&amp;ssl=1" alt="In 1962, a laughing fit spread through Tanzania for 18 months" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/01/in-1962-a-laughing-fit-spread-through-tanzania-for-18-months.html" target="_blank">In 1962, a laughing fit spread through Tanzania for 18 months</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-01 14:00</span>
             </div>
         </div>
 <div class="story">
@@ -270,36 +275,13 @@
                 <span class="time">2026-02-01 04:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/10/mt-baldy.jpeg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Mount Baldy is another deceptively deadly mountain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/31/mount-baldy-is-another-deceptively-deadly-mountain.html" target="_blank">Mount Baldy is another deceptively deadly mountain</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-01 01:52</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1769732982-20260131.png" alt="Saturday Morning Breakfast Cereal - Flavor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/flavor" target="_blank">Saturday Morning Breakfast Cereal - Flavor</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-01-31 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 17:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
