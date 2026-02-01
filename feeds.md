@@ -1,41 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-01 18:02:51 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-01 19:06:12 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, February 01, 2026 - 18:03 UTC</div>
+    <div class="newspaper-date">Sunday, February 01, 2026 - 19:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85c6/live/361feac0-ff85-11f0-ba7a-65010dfea24f.jpg" alt="Twelve miners killed by Russian strike in Ukraine, energy company says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss" target="_blank">Twelve miners killed by Russian strike in Ukraine, energy company says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-01 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/1/russian-drone-attack-on-bus-in-ukraine-kills-at-least-12?traffic_source=rss" target="_blank">Russian drone attack on bus in Ukraine kills at least 12</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-01 18:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Liam-conejo-ramos-abc-bh-260102_1769953109621_hpMain_4x3t_384.jpg" alt="&#x27;Going home&#x27;: 5-year-old, father arrive in Minneapolis after detention center release" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,29 +95,20 @@
                 <span class="time">2026-02-01 15:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3edd/live/707995f0-ff48-11f0-b7e1-afb6d0884c18.jpg" alt="Epstein sent $75,000 to accounts linked to Mandelson, files suggest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn82elvzpz7o?at_medium=RSS&at_campaign=rss" target="_blank">Epstein sent $75,000 to accounts linked to Mandelson, files suggest</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-01 14:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/1/khartoum-airport-receives-first-scheduled-flight-since-start-of-sudan-war?traffic_source=rss" target="_blank">Khartoum airport receives first scheduled flight since start of Sudan war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-01 14:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/871848/iran-blackout-internet-mahsa-alimardani" target="_blank">Shedding light on Iran’s longest internet blackout</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-01 18:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +154,20 @@
                 <span class="time">2026-02-01 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/870883/telephoto-phone-camera" target="_blank">The telephoto is the only phone camera that really matters</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-01 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="http://apple1.chez.com/Apple1project/Gallery/Gallery.htm" target="_blank">Apple: Our philosophy is to provide software for our machines free (1976)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-01 17:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F555cd1cn0p4jlrjgpvng.png" alt="Schemas and Data modelling in Power BI." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -214,20 +213,20 @@
                 <span class="time">2026-02-01 13:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F75oygsxfybutofphj3kp.png" alt="Retrieval Augmented Generation: Architectures, Patterns, and Production Reality" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/neurondb_support_d73fa7ba/retrieval-augmented-generation-architectures-patterns-and-production-reality-49g1" target="_blank">Retrieval Augmented Generation: Architectures, Patterns, and Production Reality</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-01 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Demon-Slayer-Infinity-Castle-Crunchyroll-Anime-Ufotable-1280x853.jpg" alt="‘Demon Slayer: Infinity Castle’ Returns to Theaters in Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/demon-slayer-infinity-castle-returns-to-theaters-in-japan-2000716052" target="_blank">‘Demon Slayer: Infinity Castle’ Returns to Theaters in Japan</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-01 17:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Kaitlyn-Dever-Abby-Last-of-Us-S2-1280x853.jpg" alt="When Does ‘The Last of Us’ End? HBO Doesn’t Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,15 +272,6 @@
                 <span class="time">2026-02-01 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/07/shutterstock_483188605-scaled-e1769921042751.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="An attempt to gut the Marine Mammal Protection Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/31/an-attempt-to-gut-the-marine-mammal-protection-act.html" target="_blank">An attempt to gut the Marine Mammal Protection Act</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-01 04:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 18:03 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 19:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
