@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-01 09:05:06 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-01 10:02:24 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, February 01, 2026 - 09:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, February 01, 2026 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/01/nx-s1-5695694/gaza-border-rafah-closure" target="_blank">Gaza border crossing buzzes with activity after years of near-complete closure</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-01 09:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,30 +83,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/iran-has-fingers-on-the-trigger-as-trump-sends-very-big-powerful-ships-to-region-13501758" target="_blank">Iran warns &#x27;fingers are on the trigger&#x27;  as Trump sends &#x27;very big, powerful ships&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-01 05:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/02/1920x1080/skynews-amir-hatami-iran_7151905.jpg?20260201082918" alt="Iran has &#x27;fingers on the trigger&#x27; as Trump sends &#x27;very big, powerful ships&#x27; to region" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/iran-has-fingers-on-the-trigger-as-trump-sends-very-big-powerful-ships-to-region-13501758" target="_blank">Iran has &#x27;fingers on the trigger&#x27; as Trump sends &#x27;very big, powerful ships&#x27; to region</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-02-01 05:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/1/us-judge-orders-release-of-five-year-old-and-father-from-ice-detention?traffic_source=rss" target="_blank">US judge orders release of five-year-old and father from ICE detention</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-01 02:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/31/nx-s1-5695221/anti-ice-protesters-call-for-national-action-against-federal-immigration-tactics" target="_blank">Anti-ICE protesters call for national action against federal immigration tactics</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-01 02:27</span>
             </div>
         </div>
 </div>
@@ -294,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 09:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
