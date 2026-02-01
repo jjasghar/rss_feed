@@ -1,41 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-02-01 14:04:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-01 15:03:01 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 33 feeds processed -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, February 01, 2026 - 14:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, February 01, 2026 - 15:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3edd/live/707995f0-ff48-11f0-b7e1-afb6d0884c18.jpg" alt="Epstein sent $75,000 to accounts linked to Mandelson, files suggest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn82elvzpz7o?at_medium=RSS&at_campaign=rss" target="_blank">Epstein sent $75,000 to accounts linked to Mandelson, files suggest</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-01 14:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/1/khartoum-airport-receives-first-scheduled-flight-since-start-of-sudan-war?traffic_source=rss" target="_blank">Khartoum airport receives first scheduled flight since start of Sudan war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-01 14:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1769954400321_mtp_clip_khannashutdown_260201_1920x1080-r0nmus.jpg" alt="Ro Khanna says he’s a ‘firm no’ on reopening the government amid DHS funding fight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/ro-khanna-says-he-s-a-firm-no-on-reopening-the-government-amid-dhs-funding-fight-256971333800" target="_blank">Ro Khanna says he’s a ‘firm no’ on reopening the government amid DHS funding fight</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-01 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,36 +100,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/01/nx-s1-5647760/chile-seeds-climate-change-plants" target="_blank">In the world&#x27;s driest desert, Chile freezes its future to protect plants</a></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/01/nx-s1-5695713/alcaraz-beats-djokovic-grand-slam" target="_blank">Alcaraz beats Djokovic to become the youngest man to complete a career Grand Slam</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-01 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/1/iran-designates-european-armies-terrorist-groups-in-retaliatory-move?traffic_source=rss" target="_blank">Iran designates European armies ‘terrorist groups’ in retaliatory move</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-01 10:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260129-ALEX-PRETTI-MINNEAPOLIS-PROTEST-FAKE-IMAGE-CS-d401a2.jpg" alt="AI-altered photos and videos of Minneapolis shootings blur reality" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/tech/tech-news/ai-altered-photos-videos-minneapolis-shootings-blur-reality-rcna256552" target="_blank">AI-altered photos and videos of Minneapolis shootings blur reality</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-01 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/01/nx-s1-5695694/gaza-border-rafah-closure" target="_blank">Gaza border crossing buzzes with activity after years of near-complete closure</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-01 09:22</span>
+                <span class="time">2026-02-01 12:39</span>
             </div>
         </div>
 </div>
@@ -110,6 +110,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/871350/artly-robot-coffee-jarvis-seattle" target="_blank">I don’t hate the robot barista like I thought I would</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-01 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/697ce6fe9268c2127fc46327/master/pass/013026_GEAR-TIME-Budget-Top-Art.jpg" alt="Building a Watch Collection on a Budget? Here’s Where to Start (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/want-to-build-a-watch-collection-on-a-budget-heres-where-to-start/" target="_blank">Building a Watch Collection on a Budget? Here’s Where to Start (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-01 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,29 +164,20 @@
                 <span class="time">2026-02-01 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697b600d4c1cdd87d4370b0d/master/pass/GettyImages-2255514605.jpg" alt="The Information Networks That Connect Venezuelans in Uncertain Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/venezuela-information-networks-maduro-censorship/" target="_blank">The Information Networks That Connect Venezuelans in Uncertain Times</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-01 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="Walmart Promo Codes and Coupons: Up to 65% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/top-walmart-promo-codes/" target="_blank">Walmart Promo Codes and Coupons: Up to 65% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-01 07:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mohammad_waseem_c31f3a26f/taming-the-chaos-how-a-devops-specialist-cleaned-dirty-data-with-web-scraping-without-documentation-4h7i" target="_blank">Taming the Chaos: How a DevOps Specialist Cleaned Dirty Data with Web Scraping Without Documentation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-01 14:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftxyuc4m8q5yft2wxisky.png" alt="Migrating a Lambda to a Durable Lambda Function" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,18 +218,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://netbird.io/" target="_blank">Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)</a></span>
+                <span class="title"><a href="https://netbird.io/" target="_blank">Netbird – Open Source Zero Trust Networking</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-01 09:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/giveitatry/how-to-clone-a-gitlab-repository-with-a-self-signed-certificate-3me9" target="_blank">How to Clone a GitLab Repository with a Self-Signed Certificate</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-01 08:52</span>
             </div>
         </div>
 </div>
@@ -301,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 14:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 15:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
