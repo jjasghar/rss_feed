@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-01 08:03:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-01 09:05:06 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, February 01, 2026 - 08:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, February 01, 2026 - 09:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -74,6 +72,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-amir-hatami-iran_7151905.jpg?20260201082918" alt="Iran has &#x27;fingers on the trigger&#x27; as Trump sends &#x27;very big, powerful ships&#x27; to region" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/iran-has-fingers-on-the-trigger-as-trump-sends-very-big-powerful-ships-to-region-13501758" target="_blank">Iran has &#x27;fingers on the trigger&#x27; as Trump sends &#x27;very big, powerful ships&#x27; to region</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-01 05:46</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -89,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/31/nx-s1-5695221/anti-ice-protesters-call-for-national-action-against-federal-immigration-tactics" target="_blank">Anti-ICE protesters call for national action against federal immigration tactics</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-01 02:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/CongressDemocrats_1769899553298_hpMain_4x3t_384.jpg" alt="Why the partial government shutdown is expected to drag on longer than anticipated" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/graham-blockade-stalls-government-funding-deal-hours-shutdown/story?id=129712452" target="_blank">Why the partial government shutdown is expected to drag on longer than anticipated</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-01 02:01</span>
             </div>
         </div>
 </div>
@@ -168,6 +166,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/giveitatry/how-to-clone-a-gitlab-repository-with-a-self-signed-certificate-3me9" target="_blank">How to Clone a GitLab Repository with a Self-Signed Certificate</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-01 08:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://nostarch.com/book-of-pf-4th-edition" target="_blank">The Book of PF, 4th edition</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-01 07:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mohammad_waseem_c31f3a26f/zero-budget-strategies-for-optimizing-slow-queries-in-react-apps-23l" target="_blank">Zero-Budget Strategies for Optimizing Slow Queries in React Apps</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-01 06:10</span>
@@ -198,24 +214,6 @@
                 <span class="title"><a href="https://zeroleaks.ai/reports/openclaw-analysis.pdf" target="_blank">OpenClaw Security Assessment by ZeroLeaks [pdf]</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-01 01:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Replace-Slabs-Sheaves" target="_blank">Linux 7.0 Aims To Replace More Caching Code With Sheaves For &quot;Hopefully&quot; Improved Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-01 01:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdsiabvi12ntw7mer68zk.png" alt="AI Agents Are Becoming Digital Citizens" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sreeni5018/ai-agents-are-becoming-digital-citizens-1dkn" target="_blank">AI Agents Are Becoming Digital Citizens</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-31 22:47</span>
             </div>
         </div>
 </div>
@@ -296,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 08:03 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 09:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
