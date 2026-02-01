@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-01-31 23:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-01 00:07:01 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, January 31, 2026 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, February 01, 2026 - 00:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/lipsyncrobot-500x500.jpg" alt="Research roundup: 6 cool stories we almost missed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/01/research-roundup-6-cool-stories-we-almost-missed-2/" target="_blank">Research roundup: 6 cool stories we almost missed</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-01-31 23:13</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -147,15 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/871092/airpods-4-anc-google-tv-streamer-4k-deal-sale" target="_blank">The AirPods 4 and Google’s 4K streamer are just two of this week’s best deals</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-01-31 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/867020/cassette-boy-review-pc-playstation-xbox-nintendo-switch" target="_blank">Cassette Boy forces you to see its world in a whole new way</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-31 14:00</span>
             </div>
         </div>
 </div>
@@ -223,6 +221,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Epstein_2C-left_2C-and-Ratner_2C-right.jpg?fit=1080%2C1073&amp;quality=60&amp;ssl=1" alt="Director of &quot;Melania&quot; in the latest Epstein Files drop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/31/ratner.html" target="_blank">Director of &quot;Melania&quot; in the latest Epstein Files drop</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-01-31 22:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Kevin-Warsh-smiling-while-wearing-sunglasses-1280x853.jpg" alt="Trump’s Pick for Fed Chair Points to Growing Bitcoin-Dollar Synthesis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -267,15 +274,6 @@
                 <span class="time">2026-01-31 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/rokid-ai-glasses-style-review-4-1280x853.jpg" alt="Rokid AI Glasses Style Review: Surprisingly Tough Competition for Meta’s Ray-Ban" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/rokid-ai-glasses-style-review-surprisingly-tough-competition-for-metas-ray-ban-2000716034" target="_blank">Rokid AI Glasses Style Review: Surprisingly Tough Competition for Meta’s Ray-Ban</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-31 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -290,22 +288,13 @@
                 <span class="time">2026-01-31 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/01/31/raising-the-roof" target="_blank">Raising the Roof</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-01-31 00:03</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 41 | 📸 With Images: 281 |
+        🔄 Last Updated: 00:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
