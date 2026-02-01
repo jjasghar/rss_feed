@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-01 04:02:29 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-01 05:26:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, February 01, 2026 - 04:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, February 01, 2026 - 05:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -81,21 +78,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1769905082796_wnn_mve_260131_1920x1080-pi9rl2.jpg" alt="Federal judge orders release of 5-year-old boy from detention facility" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/federal-judge-orders-release-of-5-year-old-boy-from-detention-facility-256959045887" target="_blank">Federal judge orders release of 5-year-old boy from detention facility</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-01 00:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1f1/live/4be2d3f0-fef3-11f0-9972-d3f265c101c6.jpg" alt="Andrew should testify to US Congress, Starmer suggests after new photos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cgrd7kpg9pwo?at_medium=RSS&at_campaign=rss" target="_blank">Andrew should testify to US Congress, Starmer suggests after new photos</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-01-31 22:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/01/31/g-s1-108168/5-year-old-liam-ramos-ice-order" target="_blank">Judge orders release of 5-year-old Liam Ramos and his dad from ICE detention</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-01-31 21:19</span>
             </div>
         </div>
 </div>
@@ -172,6 +169,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/06/tiling-shell-glitch-thumb.jpg?resize=406%2C232&amp;ssl=1" alt="Tiling Shell 17.3 adds new tiling modes, touchscreen support" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/tiling-shell-17-3-gnome-adaptive-snapping-update" target="_blank">Tiling Shell 17.3 adds new tiling modes, touchscreen support</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-02-01 02:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -207,20 +213,20 @@
                 <span class="time">2026-01-31 22:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/secengineerx/retry-logic-is-a-policy-decision-not-a-code-pattern-1lmi" target="_blank">Retry Logic Is a Policy Decision, Not a Code Pattern</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-01-31 21:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/07/shutterstock_483188605-scaled-e1769921042751.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="An attempt to gut the Marine Mammal Protection Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/31/an-attempt-to-gut-the-marine-mammal-protection-act.html" target="_blank">An attempt to gut the Marine Mammal Protection Act</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-01 04:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/10/mt-baldy.jpeg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Mount Baldy is another deceptively deadly mountain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +272,6 @@
                 <span class="time">2026-01-31 18:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/saw-x-hed-1280x853.jpg" alt="The Original ‘Saw’ Team Is Leading the Franchise’s Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-original-saw-team-is-leading-the-franchises-return-2000716238" target="_blank">The Original ‘Saw’ Team Is Leading the Franchise’s Return</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-31 17:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 05:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
