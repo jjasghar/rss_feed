@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-02-01 13:16:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-01 14:04:52 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, February 01, 2026 - 13:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, February 01, 2026 - 14:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/1/alcaraz-beats-djokovic-to-win-australian-open-completes-career-slam?traffic_source=rss" target="_blank">Alcaraz beats Djokovic to win Australian Open; completes career Slam</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-01 13:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +105,20 @@
                 <span class="time">2026-02-01 09:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/1/trump-says-iran-and-us-are-talking-to-avert-military-escalation?traffic_source=rss" target="_blank">Trump says Iran and US are talking to avert military escalation</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-01 07:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/870772/antigravity-insta360-a1-drone-deal-sale" target="_blank">Antigravity’s 360-degree A1 drone is 15 percent off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-01 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +164,20 @@
                 <span class="time">2026-02-01 07:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/31/meet-the-new-european-unicorns-of-2026/" target="_blank">Meet the new European unicorns of 2026</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-01 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftxyuc4m8q5yft2wxisky.png" alt="Migrating a Lambda to a Durable Lambda Function" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/iamsherif/migrating-a-lambda-to-a-durable-lambda-function-1ki2" target="_blank">Migrating a Lambda to a Durable Lambda Function</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-01 13:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F75oygsxfybutofphj3kp.png" alt="Retrieval Augmented Generation: Architectures, Patterns, and Production Reality" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,20 +223,29 @@
                 <span class="time">2026-02-01 08:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://nostarch.com/book-of-pf-4th-edition" target="_blank">The Book of PF, 4th edition</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-01 07:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2016/05/black_seed_images_1920x1200.jpg.jpeg?fit=1920%2C1200&amp;quality=60&amp;ssl=1" alt="Earth falls into the Sun in 7.59 billion years, and it gets worse from there" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/01/earth-falls-into-the-sun-in-7-59-billion-years-and-it-gets-worse-from-there.html" target="_blank">Earth falls into the Sun in 7.59 billion years, and it gets worse from there</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-01 13:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/switchbot-lock-ultra-review-2-1280x853.jpg" alt="SwitchBot Lock Ultra Review: A Good Retrofit Smart Lock for Secondary Doors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/switchbot-lock-ultra-review-a-good-retrofit-smart-lock-for-secondary-doors-2000710351" target="_blank">SwitchBot Lock Ultra Review: A Good Retrofit Smart Lock for Secondary Doors</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-01 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Honda-Road-Repair-AI-1280x852.jpg" alt="What If the Sensors on Your Car Were Inspecting Potholes for the Government? Honda Found Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,24 +282,6 @@
                 <span class="time">2026-01-31 22:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/house-of-the-dragon-season-3-rhaenyra-1280x853.jpg" alt="HBO Still Loyal to ‘House of the Dragon’ Despite Creative Strife" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/hbo-still-loyal-to-house-of-the-dragon-despite-creative-strife-2000716180" target="_blank">HBO Still Loyal to ‘House of the Dragon’ Despite Creative Strife</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-31 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Kevin-Warsh-smiling-while-wearing-sunglasses-1280x853.jpg" alt="Trump’s Pick for Fed Chair Points to Growing Bitcoin-Dollar Synthesis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trumps-pick-for-fed-chair-points-to-growing-bitcoin-dollar-synthesis-2000716347" target="_blank">Trump’s Pick for Fed Chair Points to Growing Bitcoin-Dollar Synthesis</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-31 20:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 13:16 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 14:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
