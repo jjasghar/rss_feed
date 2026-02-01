@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-01 01:31:06 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-02-01 02:58:49 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, February 01, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, February 01, 2026 - 02:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/1/us-judge-orders-release-of-five-year-old-and-father-from-ice-detention?traffic_source=rss" target="_blank">US judge orders release of five-year-old and father from ICE detention</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-01 02:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/1/31/us-envoy-witkoff-says-ukraine-talks-with-russia-productive?traffic_source=rss" target="_blank">US envoy Witkoff says Ukraine talks with Russia ‘productive’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-01-31 18:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260127-ice-rs-6f1c64.jpg" alt="Judge allows ICE&#x27;s Operation Metro Surge to continue in Minnesota" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/judge-allows-ices-operation-metro-surge-continue-minnesota-rcna256847" target="_blank">Judge allows ICE&#x27;s Operation Metro Surge to continue in Minnesota</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-01-31 17:56</span>
             </div>
         </div>
 </div>
@@ -166,6 +169,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/appsync-cache-eviction-with-lambda-data-sources-2ne5" target="_blank">AppSync Cache Eviction with Lambda Data Sources</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-01 02:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Replace-Slabs-Sheaves" target="_blank">Linux 7.0 Aims To Replace More Caching Code With Sheaves For &quot;Hopefully&quot; Improved Performance</a></span>
                 <span class="feed">Phoronix</span>
@@ -184,6 +196,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust" target="_blank">Swift is a more convenient Rust</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-01-31 22:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/secengineerx/retry-logic-is-a-policy-decision-not-a-code-pattern-1lmi" target="_blank">Retry Logic Is a Policy Decision, Not a Code Pattern</a></span>
                 <span class="feed">DEV Community</span>
@@ -197,24 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Shotcut-26.1-Video-Editor" target="_blank">Shotcut Video Editor Now Using Hardware Decoding By Default Except For NVIDIA On Linux</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-01-31 21:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Phosh-GTK4-Progress" target="_blank">Phosh Mobile Phone UI Making Progress On GTK4 Port</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-31 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/01/chainguard-opensource-vulns/en/headerimage/generatedHeaderImage-1769821535716.jpg" alt="Chainguard Finds 98% of Container CVEs Lurking Outside the Top 20 Images" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/01/chainguard-opensource-vulns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Chainguard Finds 98% of Container CVEs Lurking Outside the Top 20 Images</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-01-31 19:00</span>
             </div>
         </div>
 </div>
@@ -295,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 02:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
