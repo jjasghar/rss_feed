@@ -1,42 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-01 06:13:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-01 07:13:43 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 33 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, February 01, 2026 - 06:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, February 01, 2026 - 07:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/2/1/live-india-vs-pakistan-u19-cricket-world-cup-2026?traffic_source=rss" target="_blank">LIVE: India vs Pakistan – U19 Cricket World Cup 2026</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-01 06:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,20 +98,29 @@
                 <span class="time">2026-02-01 00:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1769905082796_wnn_mve_260131_1920x1080-pi9rl2.jpg" alt="Federal judge orders release of 5-year-old boy from detention facility" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/federal-judge-orders-release-of-5-year-old-boy-from-detention-facility-256959045887" target="_blank">Federal judge orders release of 5-year-old boy from detention facility</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-01 00:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="Walmart Promo Codes and Coupons: Up to 65% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/top-walmart-promo-codes/" target="_blank">Walmart Promo Codes and Coupons: Up to 65% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-01 07:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/01/31/meet-the-new-european-unicorns-of-2026/" target="_blank">Meet the new European unicorns of 2026</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-01 07:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" alt="20% Off TurboTax Service Codes | January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,24 +155,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/" target="_blank">Waymo reportedly raising a $16B funding round</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-01-31 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/871606/minneapolis-general-strike-anti-ice-protest" target="_blank">“No more Minnesota nice, Minneapolis will strike”</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-01-31 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697d437513c39f45f09e613d/master/pass/Onnit's%20Instant%20Melatonin%20Spray%20Is%20the%20Easiest%20Part%20of%20My%20Nightly%20Routine.png" alt="Onnit&#x27;s Instant Melatonin Spray Keeps Bedtime Uncomplicated" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/onnit-instant-melatonin-spray-rave/" target="_blank">Onnit&#x27;s Instant Melatonin Spray Keeps Bedtime Uncomplicated</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-01-31 19:56</span>
             </div>
         </div>
 </div>
@@ -302,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 41 | 📸 With Images: 276 |
-        🔄 Last Updated: 06:13 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 07:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
