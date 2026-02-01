@@ -1,31 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-01 19:06:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-01 20:01:39 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, February 01, 2026 - 19:06 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, February 01, 2026 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +103,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/01/amazons-melania-documentary-makes-7m-on-opening-weekend/" target="_blank">Amazon’s ‘Melania’ documentary makes $7M on opening weekend</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-01 19:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/policy/871848/iran-blackout-internet-mahsa-alimardani" target="_blank">Shedding light on Iran’s longest internet blackout</a></span>
                 <span class="feed">The Verge</span>
@@ -145,15 +154,6 @@
                 <span class="time">2026-02-01 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/870772/antigravity-insta360-a1-drone-deal-sale" target="_blank">Antigravity’s 360-degree A1 drone is 15 percent off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-01 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -189,6 +189,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNU-Hurd-In-2026" target="_blank">GNU Hurd Is &quot;Almost There&quot; With x86_64, SMP &amp; ~75% Of Debian Packages Building</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-01 15:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mohammad_waseem_c31f3a26f/taming-the-chaos-how-a-devops-specialist-cleaned-dirty-data-with-web-scraping-without-documentation-4h7i" target="_blank">Taming the Chaos: How a DevOps Specialist Cleaned Dirty Data with Web Scraping Without Documentation</a></span>
                 <span class="feed">DEV Community</span>
@@ -204,20 +213,20 @@
                 <span class="time">2026-02-01 13:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftxyuc4m8q5yft2wxisky.png" alt="Migrating a Lambda to a Durable Lambda Function" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/iamsherif/migrating-a-lambda-to-a-durable-lambda-function-1ki2" target="_blank">Migrating a Lambda to a Durable Lambda Function</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-01 13:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Scooby-doo-1280x853.jpg" alt="Matthew Lillard Is Happy Netflix Is Bringing ‘Scooby-Doo’ Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/matthew-lillard-is-happy-netflix-is-bringing-scooby-doo-back-2000716361" target="_blank">Matthew Lillard Is Happy Netflix Is Bringing ‘Scooby-Doo’ Back</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-01 19:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Demon-Slayer-Infinity-Castle-Crunchyroll-Anime-Ufotable-1280x853.jpg" alt="‘Demon Slayer: Infinity Castle’ Returns to Theaters in Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,15 +272,6 @@
                 <span class="time">2026-02-01 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Honda-Road-Repair-AI-1280x852.jpg" alt="What If the Sensors on Your Car Were Inspecting Potholes for the Government? Honda Found Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/what-if-the-sensors-on-your-car-were-inspecting-potholes-for-the-government-honda-found-out-2000715973" target="_blank">What If the Sensors on Your Car Were Inspecting Potholes for the Government? Honda Found Out</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-01 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -291,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 19:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
