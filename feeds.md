@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-01 10:02:24 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-02-01 11:03:10 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, February 01, 2026 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, February 01, 2026 - 11:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/01/nx-s1-5647760/chile-seeds-climate-change-plants" target="_blank">In the world&#x27;s driest desert, Chile freezes its future to protect plants</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-01 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/1/iran-designates-european-armies-terrorist-groups-in-retaliatory-move?traffic_source=rss" target="_blank">Iran designates European armies ‘terrorist groups’ in retaliatory move</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-01 10:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260129-ALEX-PRETTI-MINNEAPOLIS-PROTEST-FAKE-IMAGE-CS-d401a2.jpg" alt="AI-altered photos and videos of Minneapolis shootings blur reality" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/tech/tech-news/ai-altered-photos-videos-minneapolis-shootings-blur-reality-rcna256552" target="_blank">AI-altered photos and videos of Minneapolis shootings blur reality</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-01 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +103,20 @@
                 <span class="time">2026-02-01 06:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/1/live-israel-to-partially-open-rafah-in-gaza-as-dozens-killed-in-attacks?traffic_source=rss" target="_blank">LIVE: Israel to partially open Rafah in Gaza as dozens killed in attacks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-01 05:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/iran-has-fingers-on-the-trigger-as-trump-sends-very-big-powerful-ships-to-region-13501758" target="_blank">Iran warns &#x27;fingers are on the trigger&#x27;  as Trump sends &#x27;very big, powerful ships&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-01 05:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-amir-hatami-iran_7151905.jpg?20260201082918" alt="Iran has &#x27;fingers on the trigger&#x27; as Trump sends &#x27;very big, powerful ships&#x27; to region" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/iran-has-fingers-on-the-trigger-as-trump-sends-very-big-powerful-ships-to-region-13501758" target="_blank">Iran has &#x27;fingers on the trigger&#x27; as Trump sends &#x27;very big, powerful ships&#x27; to region</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-01 05:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/697b600d4c1cdd87d4370b0d/master/pass/GettyImages-2255514605.jpg" alt="The Information Networks That Connect Venezuelans in Uncertain Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/venezuela-information-networks-maduro-censorship/" target="_blank">The Information Networks That Connect Venezuelans in Uncertain Times</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-01 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="Walmart Promo Codes and Coupons: Up to 65% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +162,29 @@
                 <span class="time">2026-01-31 23:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/" target="_blank">Waymo reportedly raising a $16B funding round</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-01-31 21:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Framework-13-Fan-Target" target="_blank">Framework 13 To See Fan Target &amp; Fan Temperature Thresholds Support With Linux 7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-01 10:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://netbird.io/" target="_blank">Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-01 09:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,29 +221,20 @@
                 <span class="time">2026-02-01 02:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/06/tiling-shell-glitch-thumb.jpg?resize=406%2C232&amp;ssl=1" alt="Tiling Shell 17.3 adds new tiling modes, touchscreen support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/tiling-shell-17-3-gnome-adaptive-snapping-update" target="_blank">Tiling Shell 17.3 adds new tiling modes, touchscreen support</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-01 02:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://zeroleaks.ai/reports/openclaw-analysis.pdf" target="_blank">OpenClaw Security Assessment by ZeroLeaks [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-01 01:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Honda-Road-Repair-AI-1280x852.jpg" alt="What If the Sensors on Your Car Were Inspecting Potholes for the Government? Honda Found Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/what-if-the-sensors-on-your-car-were-inspecting-potholes-for-the-government-honda-found-out-2000715973" target="_blank">What If the Sensors on Your Car Were Inspecting Potholes for the Government? Honda Found Out</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-01 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/07/shutterstock_483188605-scaled-e1769921042751.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="An attempt to gut the Marine Mammal Protection Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +280,6 @@
                 <span class="time">2026-01-31 20:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/bovino.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="NYT: Bovino made antisemitic remarks about Jewish prosecutor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/31/nyt-bovino-made-antisemitic-remarks-about-jewish-prosecutor.html" target="_blank">NYT: Bovino made antisemitic remarks about Jewish prosecutor</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-31 18:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 11:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
