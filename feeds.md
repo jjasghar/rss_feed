@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-01 02:58:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-01 04:02:29 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, February 01, 2026 - 02:58 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, February 01, 2026 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -60,6 +56,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/01/31/nx-s1-5695221/anti-ice-protesters-call-for-national-action-against-federal-immigration-tactics" target="_blank">Anti-ICE protesters call for national action against federal immigration tactics</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-01 02:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/CongressDemocrats_1769899553298_hpMain_4x3t_384.jpg" alt="Why the partial government shutdown is expected to drag on longer than anticipated" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/graham-blockade-stalls-government-funding-deal-hours-shutdown/story?id=129712452" target="_blank">Why the partial government shutdown is expected to drag on longer than anticipated</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-01 02:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/1/trump-orders-federal-agents-to-stay-away-from-protests-in-democrat-cities?traffic_source=rss" target="_blank">Trump orders federal agents to stay away from protests in Democrat cities</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -82,24 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/01/31/g-s1-108168/5-year-old-liam-ramos-ice-order" target="_blank">Judge orders release of 5-year-old Liam Ramos and his dad from ICE detention</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-01-31 21:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/donald-trump-3-gty-jef-260130_1769778414635_hpMain_4x3t_384.jpg" alt="Trump continues to defend Homan, Noem over immigration enforcement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-continues-defend-homan-noem-amid-immigration-enforcement/story?id=129731874" target="_blank">Trump continues to defend Homan, Noem over immigration enforcement</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-01-31 18:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/1/31/us-envoy-witkoff-says-ukraine-talks-with-russia-productive?traffic_source=rss" target="_blank">US envoy Witkoff says Ukraine talks with Russia ‘productive’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-01-31 18:25</span>
             </div>
         </div>
 </div>
@@ -178,6 +174,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://zeroleaks.ai/reports/openclaw-analysis.pdf" target="_blank">OpenClaw Security Assessment by ZeroLeaks [pdf]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-01 01:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Replace-Slabs-Sheaves" target="_blank">Linux 7.0 Aims To Replace More Caching Code With Sheaves For &quot;Hopefully&quot; Improved Performance</a></span>
                 <span class="feed">Phoronix</span>
@@ -211,20 +216,20 @@
                 <span class="time">2026-01-31 21:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Shotcut-26.1-Video-Editor" target="_blank">Shotcut Video Editor Now Using Hardware Decoding By Default Except For NVIDIA On Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-01-31 21:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/10/mt-baldy.jpeg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Mount Baldy is another deceptively deadly mountain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/01/31/mount-baldy-is-another-deceptively-deadly-mountain.html" target="_blank">Mount Baldy is another deceptively deadly mountain</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-01 01:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Epstein_2C-left_2C-and-Ratner_2C-right.jpg?fit=1080%2C1073&amp;quality=60&amp;ssl=1" alt="Director of &quot;Melania&quot; in the latest Epstein Files drop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -232,6 +237,15 @@
                 <span class="title"><a href="https://boingboing.net/2026/01/31/ratner.html" target="_blank">Director of &quot;Melania&quot; in the latest Epstein Files drop</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-01-31 22:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/house-of-the-dragon-season-3-rhaenyra-1280x853.jpg" alt="HBO Still Loyal to ‘House of the Dragon’ Despite Creative Strife" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/hbo-still-loyal-to-house-of-the-dragon-despite-creative-strife-2000716180" target="_blank">HBO Still Loyal to ‘House of the Dragon’ Despite Creative Strife</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-01-31 21:15</span>
             </div>
         </div>
 <div class="story">
@@ -261,24 +275,6 @@
                 <span class="time">2026-01-31 17:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/xboxepstein.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Jeffrey Epstein was banned by Xbox Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/01/31/jeffrey-epstein-was-banned-by-xbox-live.html" target="_blank">Jeffrey Epstein was banned by Xbox Live</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-01-31 15:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/catherine-ohara-culkin-1280x853.jpg" alt="Hollywood Mourns the Surprise Death of Catherine O’Hara" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/hollywood-mourns-the-sudden-death-of-catherine-ohara-2000716203" target="_blank">Hollywood Mourns the Surprise Death of Catherine O’Hara</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-01-31 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 02:58 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
