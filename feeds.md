@@ -1,31 +1,26 @@
-<!-- Processing 54 RSS feeds at 2026-02-01 22:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-01 23:03:18 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 7 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, February 01, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, February 01, 2026 - 23:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +36,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afee/live/6cd15560-ffbf-11f0-bd7b-15f77993effb.jpg" alt="Lord Mandelson resigns from Labour Party over Epstein links" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn8jm2vpve1o?at_medium=RSS&at_campaign=rss" target="_blank">Lord Mandelson resigns from Labour Party over Epstein links</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-01 22:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/1/israel-partially-reopens-rafah-crossing-in-pilot?traffic_source=rss" target="_blank">Israel partially reopens Rafah crossing between Egypt and Gaza in pilot</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-01 22:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +90,20 @@
                 <span class="time">2026-02-01 18:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Liam-conejo-ramos-abc-bh-260102_1769953109621_hpMain_4x3t_384.jpg" alt="&#x27;Going home&#x27;: 5-year-old, father arrive in Minneapolis after detention center release" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/5-year-liam-conejo-ramos-father-board-plane/story?id=129749784" target="_blank">&#x27;Going home&#x27;: 5-year-old, father arrive in Minneapolis after detention center release</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-01 17:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/1/israel-says-it-will-ban-msf-from-operating-in-gaza?traffic_source=rss" target="_blank">Israel says it will ban MSF from operating in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-01 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/" target="_blank">AI layoffs or ‘AI-washing’?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-01 22:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +149,20 @@
                 <span class="time">2026-02-01 16:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/870583/xteink-x4-e-ink-reader-books-hands-on" target="_blank">This tiny pocket-friendly e-reader is packed with frustration and potential</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-01 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-rc8" target="_blank">Linux 6.19-rc8 Released Ahead Of Linux 6.19 Stable Next Week</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-01 22:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -178,6 +182,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle" target="_blank">Defeating a 40-year-old copy protection dongle</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-01 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftrat9h85ijpp2nq64dp9.png" alt="Under the Hood of Bitcoin: UTXO Lifecycle, Script Execution, and Practical Debugging" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -193,24 +206,6 @@
                 <span class="title"><a href="http://apple1.chez.com/Apple1project/Gallery/Gallery.htm" target="_blank">Apple: Our philosophy is to provide software for our machines free (1976)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-01 17:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F555cd1cn0p4jlrjgpvng.png" alt="Schemas and Data modelling in Power BI." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/murimikelvin/schemas-and-data-modelling-in-power-bi-4184" target="_blank">Schemas and Data modelling in Power BI.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-01 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcqgv1pgqk0zlvmbp7m21.png" alt="I Wrote “Hello World” to the Cardano Blockchain and Here’s How You Can Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/primaryobjects/i-wrote-hello-world-to-the-cardano-blockchain-and-heres-how-you-can-too-3ppc" target="_blank">I Wrote “Hello World” to the Cardano Blockchain and Here’s How You Can Too</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-01 15:49</span>
             </div>
         </div>
 </div>
@@ -291,8 +286,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 23:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
