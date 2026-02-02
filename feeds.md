@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-02 13:23:51 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-02 14:13:11 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, February 02, 2026 - 13:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, February 02, 2026 - 14:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +108,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/55050650260_2530fea74e_k-500x500.jpg" alt="NASA gears up for one more key test before launching Artemis II to the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/02/nasa-gears-up-for-one-more-key-test-before-launching-artemis-ii-to-the-moon/" target="_blank">NASA gears up for one more key test before launching Artemis II to the Moon</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-02 13:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/698016dea0869dffb9af5c66/master/pass/BULBS%202.gif" alt="3 Best Floodlight Security Cameras (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -150,20 +161,38 @@
                 <span class="time">2026-02-02 08:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/01/tiktok-says-its-services-are-restored-after-the-outage/" target="_blank">TikTok says its services are restored after the outage</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-02 06:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzyacjpzu0dup5pcqrsgw.png" alt="SCHEMAS AND DATA MODELLING IN POWER BI." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/njokijoan003commits/schemas-and-data-modelling-in-power-bi-13il" target="_blank">SCHEMAS AND DATA MODELLING IN POWER BI.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-02 14:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/1GB-PUD-Level-THPs-Linux" target="_blank">Experimental Linux Code For 1GB PUD-Level THPs Shows 34% Faster Memory Access Times</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-02 13:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/greg-kroah-hartman-european-open-source-award/" target="_blank">Linux&amp;#x27;s Second-in-Command Greg Kroah-Hartman Bestowed With The European Open Source Award</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-02 13:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18859338&w=600" alt="Modern Vulnerability Detection: Using GNNs to Find Subtle Bugs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,33 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Rust-Coreutils-FOSDEM-2026" target="_blank">Rust Coreutils Continues Working Toward 100% GNU Compatibility, Proving Trolls Wrong</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-02 11:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/termux/termux-app" target="_blank">Termux</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-02 11:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/why-ml-projects-fail-production/en/headerimage/why-ml-projects-fail-production-header-1769072877092.jpg" alt="Article: Why Most Machine Learning Projects Fail to Reach Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/why-ml-projects-fail-production/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Why Most Machine Learning Projects Fail to Reach Production</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-02 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpdecl3vb6mifb94s4xdg.png" alt="Prompt Engineering Is a Temporary Skill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zywrap/prompt-engineering-is-a-temporary-skill-1bd" target="_blank">Prompt Engineering Is a Temporary Skill</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-02 10:54</span>
             </div>
         </div>
 </div>
@@ -328,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 13:24 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 14:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
