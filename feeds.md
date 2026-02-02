@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-02 09:12:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-02 10:13:49 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, February 02, 2026 - 09:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, February 02, 2026 - 10:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/02/nx-s1-5633438/hemp-marijuana-cannabis-thc-cbd-farm-bill" target="_blank">Hemp and marijuana are the same species. So why all the different laws?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-02 10:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,30 +81,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-china-execution-myanmar_7152947.jpg?20260202072425" alt="China executes four people over Myanmar-based scam and gambling syndicate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/china-executes-four-people-over-myanmar-based-scam-and-gambling-syndicate-13502173" target="_blank">China executes four people over Myanmar-based scam and gambling syndicate</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-02 06:41</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/2/live-wounded-palestinians-prepare-to-leave-gaza-as-israel-opens-checkpoint?traffic_source=rss" target="_blank">LIVE: Wounded Palestinians prepare to leave Gaza as Israel opens Rafah</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-02 06:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/gas_1770004052577_hpMain_4x3t_384.jpg" alt="Venezuela&#x27;s first shipment of liquefied petroleum gas is bound for the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/venezuelas-shipment-liquefied-petroleum-gas-left-venezuela-bound/story?id=129768949" target="_blank">Venezuela&#x27;s first shipment of liquefied petroleum gas is bound for the US</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-02 05:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/2/pakistani-forces-kill-145-fighters-in-balochistan-after-deadly-attacks?traffic_source=rss" target="_blank">Pakistani forces kill 145 fighters in Balochistan after deadly attacks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-02 05:10</span>
             </div>
         </div>
 </div>
@@ -221,6 +222,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_2718210697-1280x853.jpg" alt="Anti-ICE Protesters Have Started a Month-Long Tech and AI Boycott. Here’s How It Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/anti-ice-protesters-have-started-a-month-long-tech-and-ai-boycott-heres-how-it-works-2000716458" target="_blank">Anti-ICE Protesters Have Started a Month-Long Tech and AI Boycott. Here’s How It Works</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-02 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_2700484955-1280x853.jpg" alt="European Tech Giant Cuts Off U.S. Subsidiary After Multimillion Dollar ICE Contract" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -265,15 +275,6 @@
                 <span class="time">2026-02-01 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2016/05/black_seed_images_1920x1200.jpg.jpeg?fit=1920%2C1200&amp;quality=60&amp;ssl=1" alt="Earth falls into the Sun in 7.59 billion years, and it gets worse from there" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/01/earth-falls-into-the-sun-in-7-59-billion-years-and-it-gets-worse-from-there.html" target="_blank">Earth falls into the Sun in 7.59 billion years, and it gets worse from there</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-01 13:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 09:12 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 10:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
