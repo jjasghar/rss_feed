@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-02 14:13:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-02 15:12:09 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, February 02, 2026 - 14:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, February 02, 2026 - 15:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +103,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/872092/jeffrey-epstein-files-doj-trump-musk-brin-gates" target="_blank">The Epstein files</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-02 15:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/narwhal-500x500.jpg" alt="Narwhals become quieter as the Arctic Ocean grows louder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/02/narwhals-become-quieter-as-the-arctic-ocean-grows-louder/" target="_blank">Narwhals become quieter as the Arctic Ocean grows louder</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-02 14:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/55050650260_2530fea74e_k-500x500.jpg" alt="NASA gears up for one more key test before launching Artemis II to the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -143,29 +156,20 @@
                 <span class="time">2026-02-02 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/871250/supernatural-meta-vr-fitness-community" target="_blank">The tragedy of Supernatural</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-02 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/02/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/" target="_blank">These AI notetaking devices can help you record and transcribe your meetings</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-02 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/airbnb-global-payaslocal/en/headerimage/generatedHeaderImage-1769485512610.jpg" alt="Airbnb Expands Global Checkout with “Pay as a Local,” Scaling to 220 Markets in 14 Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/airbnb-global-payaslocal/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Airbnb Expands Global Checkout with “Pay as a Local,” Scaling to 220 Markets in 14 Months</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-02 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzyacjpzu0dup5pcqrsgw.png" alt="SCHEMAS AND DATA MODELLING IN POWER BI." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +215,6 @@
                 <span class="time">2026-02-02 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rust-Coreutils-FOSDEM-2026" target="_blank">Rust Coreutils Continues Working Toward 100% GNU Compatibility, Proving Trolls Wrong</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-02 11:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +235,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/stylus-pen-1280x853.jpg" alt="This Apple Pencil Alternative Drops 43% to a New Record Low, Compatible With iPad Pro and iPad Mini" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-apple-pencil-alternative-drops-43-to-a-new-record-low-compatible-with-ipad-pro-and-ipad-mini-2000664837" target="_blank">This Apple Pencil Alternative Drops 43% to a New Record Low, Compatible With iPad Pro and iPad Mini</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-02 15:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/scream-7-trailer-ghostface-1280x853.jpg" alt="‘Scream 7’ Calls in Early With Its New Super Bowl Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/scream-7-super-bowl-trailer-2000716630" target="_blank">‘Scream 7’ Calls in Early With Its New Super Bowl Trailer</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-02 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KG8SY736BZT43FJH207MCDX1/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: Humans Are in a Dance Battle With AI Babies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/ai-babies-human-dance-battle-out-of-touch-adults-guide-to-kid-culture?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: Humans Are in a Dance Battle With AI Babies</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-02 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Richmanns_Tod_1753.jpeg?fit=1200%2C1049&amp;quality=60&amp;ssl=1" alt="Wikipedia&#x27;s list of inventors killed by their own inventions keeps growing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/02/wikipedias-list-of-inventors-killed-by-their-own-inventions-keeps-growing.html" target="_blank">Wikipedia&#x27;s list of inventors killed by their own inventions keeps growing</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-02 13:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/steven-spielberg-hed-1280x853.jpg" alt="Steven Spielberg Lands EGOT Status With New Grammy Win" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -255,42 +286,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/02/the-two-cbp-agents-who-killed-alex-pretti-have-been-identified.html" target="_blank">The two CBP agents who killed Alex Pretti have been identified</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-02 12:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/avengers-doomsday-cyclops-1280x853.jpg" alt="The 2026 Super Bowl May Be Free of Superhero Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-2026-super-bowl-may-be-free-of-superhero-movies-2000716487" target="_blank">The 2026 Super Bowl May Be Free of Superhero Movies</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-02 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_2718210697-1280x853.jpg" alt="Anti-ICE Protesters Have Started a Month-Long Tech and AI Boycott. Here’s How It Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/anti-ice-protesters-have-started-a-month-long-tech-and-ai-boycott-heres-how-it-works-2000716458" target="_blank">Anti-ICE Protesters Have Started a Month-Long Tech and AI Boycott. Here’s How It Works</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-02 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_2700484955-1280x853.jpg" alt="European Tech Giant Cuts Off U.S. Subsidiary After Multimillion Dollar ICE Contract" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/european-tech-giant-cuts-off-u-s-subsidiary-after-multimillion-dollar-ice-contract-2000716428" target="_blank">European Tech Giant Cuts Off U.S. Subsidiary After Multimillion Dollar ICE Contract</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-01 21:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Scooby-doo-1280x853.jpg" alt="Matthew Lillard Is Happy Netflix Is Bringing ‘Scooby-Doo’ Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/matthew-lillard-is-happy-netflix-is-bringing-scooby-doo-back-2000716361" target="_blank">Matthew Lillard Is Happy Netflix Is Bringing ‘Scooby-Doo’ Back</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-01 19:50</span>
             </div>
         </div>
 </div>
@@ -330,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 14:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 15:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
