@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-02 16:06:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-02 17:12:35 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Generated 10 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, February 02, 2026 - 16:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, February 02, 2026 - 17:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/02/nx-s1-5696424/mike-lawler-town-hall" target="_blank">N.Y. Republican met with jeers over ICE tactics during town hall in swing district</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-02 17:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/longform/2026/2/2/trump-and-petro-clash-over-how-best-to-uproot-colombias-cocaine-crops?traffic_source=rss" target="_blank">Trump and Petro clash over how best to uproot Colombia’s cocaine crops</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-02 16:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +104,29 @@
                 <span class="time">2026-02-02 12:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/2/2/in-zimbabwe-millions-choose-funeral-insurance-over-pricey-medical-cover?traffic_source=rss" target="_blank">In Zimbabwe, millions choose funeral insurance over pricey medical cover</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-02 11:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/02/nx-s1-5633438/hemp-marijuana-cannabis-thc-cbd-farm-bill" target="_blank">Hemp and marijuana are the same species. So why all the different laws?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-02 10:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/yields-500x500.jpg" alt="Interview: Civilization VII’s devs on the big update meant to win critics back" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/02/interview-civilization-viis-devs-on-the-big-update-meant-to-win-critics-back/" target="_blank">Interview: Civilization VII’s devs on the big update meant to win critics back</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-02 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/865281/valentines-day-2026-gift-ideas-for-her-girlfriend-wife-partner" target="_blank">The Verge’s 2026 Valentine’s Day gift guide (for her)</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-02 16:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +163,38 @@
                 <span class="time">2026-02-02 13:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698016dea0869dffb9af5c66/master/pass/BULBS%202.gif" alt="3 Best Floodlight Security Cameras (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-floodlight-security-cameras/" target="_blank">3 Best Floodlight Security Cameras (2026), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-02 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697d89839d51354f7f32af11/master/pass/The%20Best%20Sexy%20Gifts%20for%20Lovers-%20U%20Up.png" alt="The 20 Best Sexy Gifts for Lovers (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-sexy-gift/" target="_blank">The 20 Best Sexy Gifts for Lovers (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-02 12:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://youtu.be/03DswsNUBdQ" target="_blank">Python, Is It Being Killed by Incremental Improvements?</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-02-02 17:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/raspberry-pi-1GB.jpg?resize=406%2C232&amp;ssl=1" alt="The Raspberry Pi Just Got More Expensive (Again)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/raspberry-pi-annouce-more-price-rises" target="_blank">The Raspberry Pi Just Got More Expensive (Again)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-02-02 16:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://news.ycombinator.com/item?id=46857488" target="_blank">Ask HN: Who is hiring? (February 2026)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-02 16:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,33 +222,6 @@
                 <span class="time">2026-02-02 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/loongson-3b6000-loongarch" target="_blank">Loongson 3B6000 Benchmarks: How China&#x27;s LoongArch CPU Compares To AMD Zen 5, Intel Arrow Lake &amp; Raspberry Pi 5</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-02 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzyacjpzu0dup5pcqrsgw.png" alt="SCHEMAS AND DATA MODELLING IN POWER BI." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/njokijoan003commits/schemas-and-data-modelling-in-power-bi-13il" target="_blank">SCHEMAS AND DATA MODELLING IN POWER BI.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-02 14:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/1GB-PUD-Level-THPs-Linux" target="_blank">Experimental Linux Code For 1GB PUD-Level THPs Shows 34% Faster Memory Access Times</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-02 13:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/Stranger_Things_Tales_from_85_RemindTeaserStill_5-1-1280x720.jpg" alt="Stranger Things Animated Series Trailer Tries To Wash Away The Bitter Aftertaste Of The Finale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/stranger-things-tales-85-animated-series-trailer-netflix-2000665051" target="_blank">Stranger Things Animated Series Trailer Tries To Wash Away The Bitter Aftertaste Of The Finale</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-02 16:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGFEVPKM6CRX1JBWFW33WEE5/hero-image.png" alt="Why You Shouldn&#x27;t Buy a MacBook Pro Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/why-you-should-not-buy-a-macbook-pro-right-now?utm_medium=RSS" target="_blank">Why You Shouldn&#x27;t Buy a MacBook Pro Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-02 16:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Predator-vinyl-exclusive-1280x853.jpg" alt="Last Year’s Other Amazing ‘Predator’ Movie Is Finally Getting Some Love (Exclusive)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +295,6 @@
                 <span class="time">2026-02-02 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGF87D7W0RMXE73J8P786M17/hero-image.jpg" alt="Everything We Think We Know About the Samsung Galaxy S26 Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-s26-series-rumors?utm_medium=RSS" target="_blank">Everything We Think We Know About the Samsung Galaxy S26 Series</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-02 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KG8SY736BZT43FJH207MCDX1/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: Humans Are in a Dance Battle With AI Babies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/ai-babies-human-dance-battle-out-of-touch-adults-guide-to-kid-culture?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: Humans Are in a Dance Battle With AI Babies</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-02 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,22 +327,13 @@
                 <span class="time">2026-02-02 01:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1769907112-20260201.png" alt="Saturday Morning Breakfast Cereal - Grow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/grow" target="_blank">Saturday Morning Breakfast Cereal - Grow</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-02-01 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 98 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 16:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 17:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
