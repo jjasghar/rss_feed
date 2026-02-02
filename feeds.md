@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-02 15:12:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-02 16:06:21 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, February 02, 2026 - 15:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, February 02, 2026 - 16:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/02/g-s1-107461/global-health-malaria-bill-steiger-trump" target="_blank">This global health leader praises Trump&#x27;s aid plan -- and gears up to beat malaria</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-02 15:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2a8/live/bc744210-fb70-11f0-b7fd-f5e7f9ed0815.jpg" alt="Serial killer Wright admits murder of teen in 1999" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +101,20 @@
                 <span class="time">2026-02-02 10:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/2/stars-target-ice-crackdown-at-grammys-ceremony?traffic_source=rss" target="_blank">Music stars target ICE crackdown at Grammy’s ceremony</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-02 08:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/872182/sony-xm5-noise-canceling-headphones-super-bowl-tv-deal-sale" target="_blank">Sony’s last-gen, but still great 1000XM5 are cheaper than ever</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-02 15:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +160,29 @@
                 <span class="time">2026-02-02 12:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69794e175c9274c20fbe6b20/master/pass/Olympics-2026-5-Movies-to-Watch-Before-Winter-Olympics-Culture.jpg" alt="5 Movies You Must Watch Before the 2026 Winter Olympics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/5-movies-to-watch-before-2026-winter-olympics/" target="_blank">5 Movies You Must Watch Before the 2026 Winter Olympics</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-02 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/girma35/cli-agent-vs-mcp-a-practical-comparison-for-students-startups-and-developers-4com" target="_blank">CLI-Agent vs MCP A Practical Comparison for Students, Startups, and Developers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-02 15:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/02/02/what-s-new-at-stack-overflow-february-2026/" target="_blank">What’s new at Stack Overflow: February 2026</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-02-02 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/02/airbnb-global-payaslocal/en/headerimage/generatedHeaderImage-1769485512610.jpg" alt="Airbnb Expands Global Checkout with “Pay as a Local,” Scaling to 220 Markets in 14 Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -168,6 +190,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/02/airbnb-global-payaslocal/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Airbnb Expands Global Checkout with “Pay as a Local,” Scaling to 220 Markets in 14 Months</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-02-02 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/loongson-3b6000-loongarch" target="_blank">Loongson 3B6000 Benchmarks: How China&#x27;s LoongArch CPU Compares To AMD Zen 5, Intel Arrow Lake &amp; Raspberry Pi 5</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-02 14:48</span>
             </div>
         </div>
 <div class="story">
@@ -186,33 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/1GB-PUD-Level-THPs-Linux" target="_blank">Experimental Linux Code For 1GB PUD-Level THPs Shows 34% Faster Memory Access Times</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-02 13:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/greg-kroah-hartman-european-open-source-award/" target="_blank">Linux&amp;#x27;s Second-in-Command Greg Kroah-Hartman Bestowed With The European Open Source Award</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-02 13:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18859338&w=600" alt="Modern Vulnerability Detection: Using GNNs to Find Subtle Bugs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/modern-vulnerability-detection-gnns-subtle-bugs" target="_blank">Modern Vulnerability Detection: Using GNNs to Find Subtle Bugs</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-02 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/myterms-privacy-cookies/en/headerimage/myterms-privacy-cookies-1770033832189.jpeg" alt="MyTerms: A New IEEE Standard Enabling Online Privacy and Aiming to Replace Cookies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/myterms-privacy-cookies/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MyTerms: A New IEEE Standard Enabling Online Privacy and Aiming to Replace Cookies</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-02 13:00</span>
             </div>
         </div>
 </div>
@@ -235,6 +239,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Predator-vinyl-exclusive-1280x853.jpg" alt="Last Year’s Other Amazing ‘Predator’ Movie Is Finally Getting Some Love (Exclusive)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/last-years-other-amazing-predator-movie-is-finally-getting-some-love-exclusive-2000715241" target="_blank">Last Year’s Other Amazing ‘Predator’ Movie Is Finally Getting Some Love (Exclusive)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-02 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/ASUSCurvedMonitor-1280x853.jpg" alt="ASUS 34″ Curved Gaming Monitor Falls Back to Its Lowest Price in Weeks to Compete With Samsung Odyssey" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/asus-34-curved-gaming-monitor-falls-back-to-its-lowest-price-in-weeks-to-compete-with-samsung-odyssey-2000660670" target="_blank">ASUS 34″ Curved Gaming Monitor Falls Back to Its Lowest Price in Weeks to Compete With Samsung Odyssey</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-02 15:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/stylus-pen-1280x853.jpg" alt="This Apple Pencil Alternative Drops 43% to a New Record Low, Compatible With iPad Pro and iPad Mini" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -253,39 +275,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGF87D7W0RMXE73J8P786M17/hero-image.jpg" alt="Everything We Think We Know About the Samsung Galaxy S26 Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-s26-series-rumors?utm_medium=RSS" target="_blank">Everything We Think We Know About the Samsung Galaxy S26 Series</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-02 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KG8SY736BZT43FJH207MCDX1/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: Humans Are in a Dance Battle With AI Babies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/entertainment/ai-babies-human-dance-battle-out-of-touch-adults-guide-to-kid-culture?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: Humans Are in a Dance Battle With AI Babies</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-02 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Richmanns_Tod_1753.jpeg?fit=1200%2C1049&amp;quality=60&amp;ssl=1" alt="Wikipedia&#x27;s list of inventors killed by their own inventions keeps growing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/02/wikipedias-list-of-inventors-killed-by-their-own-inventions-keeps-growing.html" target="_blank">Wikipedia&#x27;s list of inventors killed by their own inventions keeps growing</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-02 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/steven-spielberg-hed-1280x853.jpg" alt="Steven Spielberg Lands EGOT Status With New Grammy Win" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/steven-spielberg-lands-egot-status-with-new-grammy-win-2000716477" target="_blank">Steven Spielberg Lands EGOT Status With New Grammy Win</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-02 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Alex_Pretti_-_VA_portrait_enhanced.jpeg?fit=477%2C692&amp;quality=60&amp;ssl=1" alt="The two CBP agents who killed Alex Pretti have been identified" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/02/the-two-cbp-agents-who-killed-alex-pretti-have-been-identified.html" target="_blank">The two CBP agents who killed Alex Pretti have been identified</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-02 12:49</span>
             </div>
         </div>
 </div>
@@ -300,6 +304,15 @@
                 <span class="title"><a href="https://www.penny-arcade.com/comic/2026/02/02/constructivism" target="_blank">Constructivism</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-02-02 08:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/groundhog_day_meaning.png" alt="Groundhog Day Meaning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3202/" target="_blank">Groundhog Day Meaning</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-02-02 05:00</span>
             </div>
         </div>
 <div class="story">
@@ -325,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 15:12 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 98 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 16:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
