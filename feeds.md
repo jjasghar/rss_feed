@@ -1,26 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-02-01 23:03:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-02 00:07:02 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 7 new posts out of 18 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, February 01, 2026 - 23:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, February 02, 2026 - 00:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +53,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0388/live/14ae8430-ffaa-11f0-8271-fbc780087a4c.jpg" alt="Twelve miners killed by Russian strike in Ukraine, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss" target="_blank">Twelve miners killed by Russian strike in Ukraine, officials say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-01 23:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/1/five-year-old-boy-and-father-detained-by-ice-return-home-to-minnesota?traffic_source=rss" target="_blank">Five-year-old boy and father detained by ICE return home to Minnesota</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-01 22:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afee/live/6cd15560-ffbf-11f0-bd7b-15f77993effb.jpg" alt="Lord Mandelson resigns from Labour Party over Epstein links" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,24 +105,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/2/1/gaza-patients-in-limbo-amid-israels-pilot-reopening-of-rafah-crossing?traffic_source=rss" target="_blank">Gaza patients in limbo amid Israel’s ‘pilot reopening’ of Rafah crossing</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-01 20:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85c6/live/361feac0-ff85-11f0-ba7a-65010dfea24f.jpg" alt="Twelve miners killed by Russian strike in Ukraine, energy company says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss" target="_blank">Twelve miners killed by Russian strike in Ukraine, energy company says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-01 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/1/russian-drone-attack-on-bus-in-ukraine-kills-at-least-12?traffic_source=rss" target="_blank">Russian drone attack on bus in Ukraine kills at least 12</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-01 18:01</span>
             </div>
         </div>
 </div>
@@ -157,6 +174,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mohammad_waseem_c31f3a26f/ensuring-seamless-gated-content-access-during-high-traffic-with-qa-testing-in-devops-5cch" target="_blank">Ensuring Seamless Gated Content Access During High Traffic with QA Testing in DevOps</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-01 23:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-rc8" target="_blank">Linux 6.19-rc8 Released Ahead Of Linux 6.19 Stable Next Week</a></span>
                 <span class="feed">Phoronix</span>
@@ -199,20 +225,20 @@
                 <span class="time">2026-02-01 20:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="http://apple1.chez.com/Apple1project/Gallery/Gallery.htm" target="_blank">Apple: Our philosophy is to provide software for our machines free (1976)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-01 17:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_2700484955-1280x853.jpg" alt="European Tech Giant Cuts Off U.S. Subsidiary After Multimillion Dollar ICE Contract" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/european-tech-giant-cuts-off-u-s-subsidiary-after-multimillion-dollar-ice-contract-2000716428" target="_blank">European Tech Giant Cuts Off U.S. Subsidiary After Multimillion Dollar ICE Contract</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-01 21:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Scooby-doo-1280x853.jpg" alt="Matthew Lillard Is Happy Netflix Is Bringing ‘Scooby-Doo’ Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -258,15 +284,6 @@
                 <span class="time">2026-02-01 13:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/switchbot-lock-ultra-review-2-1280x853.jpg" alt="SwitchBot Lock Ultra Review: A Good Retrofit Smart Lock for Secondary Doors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/switchbot-lock-ultra-review-a-good-retrofit-smart-lock-for-secondary-doors-2000710351" target="_blank">SwitchBot Lock Ultra Review: A Good Retrofit Smart Lock for Secondary Doors</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-01 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -286,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 23:03 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 00:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
