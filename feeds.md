@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-02 12:04:54 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-02 13:23:51 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, February 02, 2026 - 12:05 UTC</div>
+    <div class="newspaper-date">Monday, February 02, 2026 - 13:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2a8/live/bc744210-fb70-11f0-b7fd-f5e7f9ed0815.jpg" alt="Serial killer Wright admits murder of teen in 1999" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpdy7q1yn3xo?at_medium=RSS&at_campaign=rss" target="_blank">Serial killer Wright admits murder of teen in 1999</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-02 12:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/environment/2026/feb/02/weather-tracker-cyclone-fytia-madagascar-floods" target="_blank">Weather tracker: Cyclone Fytia in Madagascar kills several people and floods homes</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-02 12:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770035114966_tdy_news_7a_nobles_congress_shutdown_260202_1920x1080-kokwn3.jpg" alt="Partial Shutdown Enters Day 3 Amid ICE Reform Standoff" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/house-looks-to-end-partial-shutdown-amid-ice-reform-standoff-256993861851" target="_blank">Partial Shutdown Enters Day 3 Amid ICE Reform Standoff</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-02 12:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +100,20 @@
                 <span class="time">2026-02-02 08:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/02/g-s1-108287/gaza-rafah-border-crossing-reopens" target="_blank">Gaza&#x27;s Rafah border crossing with Egypt reopens for limited traffic</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-02 08:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/02/nx-s1-5696304/groundhog-day-punxsutawney-phil-forecast-winter-length" target="_blank">Groundhog Day puts Punxsutawney Phil&#x27;s forecast about winter&#x27;s length in the spotlight</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-02 07:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-china-execution-myanmar_7152947.jpg?20260202072425" alt="China executes four people over Myanmar-based scam and gambling syndicate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/china-executes-four-people-over-myanmar-based-scam-and-gambling-syndicate-13502173" target="_blank">China executes four people over Myanmar-based scam and gambling syndicate</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-02 06:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/698016dea0869dffb9af5c66/master/pass/BULBS%202.gif" alt="3 Best Floodlight Security Cameras (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-floodlight-security-cameras/" target="_blank">3 Best Floodlight Security Cameras (2026), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-02 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/697d89839d51354f7f32af11/master/pass/The%20Best%20Sexy%20Gifts%20for%20Lovers-%20U%20Up.png" alt="The 20 Best Sexy Gifts for Lovers (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +159,29 @@
                 <span class="time">2026-02-02 06:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/" target="_blank">AI layoffs or ‘AI-washing’?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-01 22:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18859338&w=600" alt="Modern Vulnerability Detection: Using GNNs to Find Subtle Bugs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/modern-vulnerability-detection-gnns-subtle-bugs" target="_blank">Modern Vulnerability Detection: Using GNNs to Find Subtle Bugs</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-02 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/myterms-privacy-cookies/en/headerimage/myterms-privacy-cookies-1770033832189.jpeg" alt="MyTerms: A New IEEE Standard Enabling Online Privacy and Aiming to Replace Cookies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/myterms-privacy-cookies/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MyTerms: A New IEEE Standard Enabling Online Privacy and Aiming to Replace Cookies</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-02 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -173,6 +189,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Rust-Coreutils-FOSDEM-2026" target="_blank">Rust Coreutils Continues Working Toward 100% GNU Compatibility, Proving Trolls Wrong</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-02 11:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/termux/termux-app" target="_blank">Termux</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-02 11:03</span>
             </div>
         </div>
 <div class="story">
@@ -193,31 +218,18 @@
                 <span class="time">2026-02-02 10:54</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/picoide-crowdfunding-campaign/" target="_blank">$69 in 2026 Gets You a Tool to Rejuvenate Old Computers</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-02 10:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ikhwanal/cpu-work-2-12am" target="_blank">Cpu Work (2)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-02 07:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://gmpy.dev/blog/2026/event-driven-process-waiting" target="_blank">Ending 15 years of subprocess polling</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-02-02 06:39</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/ai-coding-assistants-secretly-copying-all-code-to-china.html" target="_blank">AI Coding Assistants Secretly Copying All Code to China</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-02-02 12:05</span>
             </div>
         </div>
 </div>
@@ -225,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/steven-spielberg-hed-1280x853.jpg" alt="Steven Spielberg Lands EGOT Status With New Grammy Win" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/steven-spielberg-lands-egot-status-with-new-grammy-win-2000716477" target="_blank">Steven Spielberg Lands EGOT Status With New Grammy Win</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-02 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Alex_Pretti_-_VA_portrait_enhanced.jpeg?fit=477%2C692&amp;quality=60&amp;ssl=1" alt="The two CBP agents who killed Alex Pretti have been identified" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/02/the-two-cbp-agents-who-killed-alex-pretti-have-been-identified.html" target="_blank">The two CBP agents who killed Alex Pretti have been identified</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-02 12:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/avengers-doomsday-cyclops-1280x853.jpg" alt="The 2026 Super Bowl May Be Free of Superhero Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,24 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/matthew-lillard-is-happy-netflix-is-bringing-scooby-doo-back-2000716361" target="_blank">Matthew Lillard Is Happy Netflix Is Bringing ‘Scooby-Doo’ Back</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-01 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Demon-Slayer-Infinity-Castle-Crunchyroll-Anime-Ufotable-1280x853.jpg" alt="‘Demon Slayer: Infinity Castle’ Returns to Theaters in Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/demon-slayer-infinity-castle-returns-to-theaters-in-japan-2000716052" target="_blank">‘Demon Slayer: Infinity Castle’ Returns to Theaters in Japan</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-01 17:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Kaitlyn-Dever-Abby-Last-of-Us-S2-1280x853.jpg" alt="When Does ‘The Last of Us’ End? HBO Doesn’t Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/when-does-the-last-of-us-end-hbo-doesnt-know-2000716334" target="_blank">When Does ‘The Last of Us’ End? HBO Doesn’t Know</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-01 15:30</span>
             </div>
         </div>
 </div>
@@ -316,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 12:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 13:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
