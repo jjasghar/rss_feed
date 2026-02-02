@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-02 18:08:22 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-02 23:04:02 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, February 02, 2026 - 18:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, February 02, 2026 - 23:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260202-tulsi-gabbard-ew-520p-e675b9.jpg" alt="Tulsi Gabbard accused of trying to &#x27;bury&#x27; whistleblower complaint" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/tulsi-gabbard-accused-trying-bury-whistleblower-complaint-rcna257096" target="_blank">Tulsi Gabbard accused of trying to &#x27;bury&#x27; whistleblower complaint</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-02 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/capitol-1-gty-gmh-260202_1770048046329_hpMain_4x3t_384.jpg" alt="What to know about the partial government shutdown, now in its 3rd day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/partial-government-shutdown-now-3rd-day/story?id=129788569" target="_blank">What to know about the partial government shutdown, now in its 3rd day</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-02 21:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/02/g-s1-108418/costa-rica-election-laura-fernandez-wins" target="_blank">Populist conservative Laura Fernández wins Costa Rica&#x27;s presidential election</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-02 21:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/02/israel-agrees-to-limited-reopening-of-rafah-border-crossing-in-gaza" target="_blank">Sick and wounded Palestinians enter Egypt after Israel reopens Rafah crossing</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-02 18:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7c7/live/675324e0-004d-11f1-b0e3-c598b6818235.jpg" alt="Crown Princess&#x27;s son arrested for alleged assault before rape trial in Norway" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,47 +98,20 @@
                 <span class="time">2026-02-02 17:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/longform/2026/2/2/trump-and-petro-clash-over-how-best-to-uproot-colombias-cocaine-crops?traffic_source=rss" target="_blank">Trump and Petro clash over how best to uproot Colombia’s cocaine crops</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-02 16:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/02/g-s1-107461/global-health-malaria-bill-steiger-trump" target="_blank">This global health leader praises Trump&#x27;s aid plan -- and gears up to beat malaria</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-02 15:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2a8/live/bc744210-fb70-11f0-b7fd-f5e7f9ed0815.jpg" alt="Serial killer Wright admits murder of teen in 1999" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpdy7q1yn3xo?at_medium=RSS&at_campaign=rss" target="_blank">Serial killer Wright admits murder of teen in 1999</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-02 12:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/environment/2026/feb/02/weather-tracker-cyclone-fytia-madagascar-floods" target="_blank">Weather tracker: Cyclone Fytia in Madagascar kills several people and floods homes</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-02 12:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/872731/adobe-animate-app-shutdown-date" target="_blank">Adobe Animate is shutting down next month</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-02 22:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/Codex-dark-500x500-1770052646.jpg" alt="OpenAI picks up pace against Claude Code with new Codex desktop app" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +157,29 @@
                 <span class="time">2026-02-02 15:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/02/ring-brings-its-search-party-feature-for-finding-lost-dogs-to-non-ring-camera-owners/" target="_blank">Ring brings its ‘Search Party’ feature for finding lost dogs to non-Ring camera owners</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-02 15:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.spacex.com/updates#xai-joins-spacex" target="_blank">xAI joins SpaceX</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-02 21:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18861902&w=600" alt="Agentic Commerce: A Developer&#x27;s Guide to Google&#x27;s Universal Commerce Protocol (UCP)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/agentic-commerce-arrives-a-developers-guide-to-goo" target="_blank">Agentic Commerce: A Developer&#x27;s Guide to Google&#x27;s Universal Commerce Protocol (UCP)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-02 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +216,6 @@
                 <span class="time">2026-02-02 16:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/girma35/cli-agent-vs-mcp-a-practical-comparison-for-students-startups-and-developers-4com" target="_blank">CLI-Agent vs MCP A Practical Comparison for Students, Startups, and Developers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-02 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/02/02/what-s-new-at-stack-overflow-february-2026/" target="_blank">What’s new at Stack Overflow: February 2026</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-02-02 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/sebulbastarwars-1280x720.jpg" alt="Podracing Confirmed For 2026’s Coolest-Looking Star Wars Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/star-wars-galactic-racer-racing-game-podracing-confirmed-2000665131" target="_blank">Podracing Confirmed For 2026’s Coolest-Looking Star Wars Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-02 21:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/elon-musk-nov-19-2025-1280x853.jpg" alt="Elon Musk Is Convinced He Can Turn Low-Earth Orbit Into a Gigantic Data Center" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,20 +289,20 @@
                 <span class="time">2026-02-02 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/ASUSCurvedMonitor-1280x853.jpg" alt="ASUS 34″ Curved Gaming Monitor Falls Back to Its Lowest Price in Weeks to Compete With Samsung Odyssey" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/asus-34-curved-gaming-monitor-falls-back-to-its-lowest-price-in-weeks-to-compete-with-samsung-odyssey-2000660670" target="_blank">ASUS 34″ Curved Gaming Monitor Falls Back to Its Lowest Price in Weeks to Compete With Samsung Odyssey</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-02 15:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1769907157-20260202.png" alt="Saturday Morning Breakfast Cereal - Private" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/private" target="_blank">Saturday Morning Breakfast Cereal - Private</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-02-02 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -327,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 18:08 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 23:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
