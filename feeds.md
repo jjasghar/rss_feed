@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-02 02:57:42 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-02-02 03:54:12 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, February 02, 2026 - 02:57 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, February 02, 2026 - 03:54 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/epstein-sheet-20260201-ap-jh_1769955118902_hpMain_2_4x3t_384.jpg" alt="Epstein victims&#x27; lawyers ask court to order DOJ to take down Epstein files website" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/epstein-victims-lawyers-court-order-doj-epstein-files/story?id=129766059" target="_blank">Epstein victims&#x27; lawyers ask court to order DOJ to take down Epstein files website</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-02 03:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/2/trump-to-close-kennedy-center-for-renovations-amid-backlash-from-performers?traffic_source=rss" target="_blank">Trump to close Kennedy Center for renovations amid backlash from performers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-02 03:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/epstein-sheet-20260201-ap-jh_1769955118902_hpMain_2_4x3t_384.jpg" alt="Epstein victims&#x27; lawyers ask court to order DOJ to take down Epstein Files website" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,24 +93,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss" target="_blank">Twelve miners killed by Russian strike in Ukraine, officials say</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-01 23:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/705f/live/cd7719e0-ffba-11f0-9bf1-816719a06c81.jpg" alt="Norway&#x27;s PM agrees crown princess had &#x27;poor judgement&#x27; over Epstein links" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1508llzw4qo?at_medium=RSS&at_campaign=rss" target="_blank">Norway&#x27;s PM agrees crown princess had &#x27;poor judgement&#x27; over Epstein links</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-01 23:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/1/five-year-old-boy-and-father-detained-by-ice-return-home-to-minnesota?traffic_source=rss" target="_blank">Five-year-old boy and father detained by ICE return home to Minnesota</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-01 22:55</span>
             </div>
         </div>
 </div>
@@ -165,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mohammad_waseem_c31f3a26f/detecting-phishing-patterns-in-microservices-with-javascript-a-senior-architects-approach-1e0k" target="_blank">Detecting Phishing Patterns in Microservices with JavaScript: A Senior Architect’s Approach</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-02 03:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/02/linux-release-roundup-hero.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Release Roundup (January 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -207,15 +211,6 @@
                 <span class="title"><a href="https://www.iranintl.com/en/202602017863" target="_blank">Iran summons families of exiled journalists to halt their activities</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-01 21:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle" target="_blank">Defeating a 40-year-old copy protection dongle</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-01 21:30</span>
             </div>
         </div>
 </div>
@@ -305,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 02:57 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 03:54 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
