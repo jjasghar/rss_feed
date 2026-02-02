@@ -1,43 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-02 01:31:05 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-02 02:57:42 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 34 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, February 02, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, February 02, 2026 - 02:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/epstein-sheet-20260201-ap-jh_1769955118902_hpMain_2_4x3t_384.jpg" alt="Epstein victims&#x27; lawyers ask court to order DOJ to take down Epstein Files website" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/epstein-victims-lawyers-court-order-doj-epstein-files/story?id=129766059" target="_blank">Epstein victims&#x27; lawyers ask court to order DOJ to take down Epstein Files website</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-02 02:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/2/russia-ukraine-war-list-of-key-events-day-1439?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,439</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-02 02:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/01/nx-s1-5695832/kennedy-center-renovations-trump" target="_blank">Kennedy Center to close for 2 years for construction in July, Trump says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-02 01:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0388/live/14ae8430-ffaa-11f0-8271-fbc780087a4c.jpg" alt="Twelve miners killed by Russian strike in Ukraine, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,33 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/1/five-year-old-boy-and-father-detained-by-ice-return-home-to-minnesota?traffic_source=rss" target="_blank">Five-year-old boy and father detained by ICE return home to Minnesota</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-01 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afee/live/6cd15560-ffbf-11f0-bd7b-15f77993effb.jpg" alt="Lord Mandelson resigns from Labour Party over Epstein links" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn8jm2vpve1o?at_medium=RSS&at_campaign=rss" target="_blank">Lord Mandelson resigns from Labour Party over Epstein links</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-01 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/1/israel-partially-reopens-rafah-crossing-in-pilot?traffic_source=rss" target="_blank">Israel partially reopens Rafah crossing between Egypt and Gaza in pilot</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-01 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/2/1/how-will-pakistan-deal-with-the-unrest-in-balochistan?traffic_source=rss" target="_blank">How will Pakistan deal with the unrest in Balochistan?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-01 21:39</span>
             </div>
         </div>
 </div>
@@ -172,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/02/linux-release-roundup-hero.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Release Roundup (January 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/linux-release-roundup-january-2026" target="_blank">Linux Release Roundup (January 2026)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-02-01 23:57</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -214,15 +216,6 @@
                 <span class="title"><a href="https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle" target="_blank">Defeating a 40-year-old copy protection dongle</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-01 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftrat9h85ijpp2nq64dp9.png" alt="Under the Hood of Bitcoin: UTXO Lifecycle, Script Execution, and Practical Debugging" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aaayushhh/under-the-hood-of-bitcoin-utxo-lifecycle-script-execution-and-practical-debugging-5apa" target="_blank">Under the Hood of Bitcoin: UTXO Lifecycle, Script Execution, and Practical Debugging</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-01 20:47</span>
             </div>
         </div>
 </div>
@@ -290,6 +283,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5756.png" alt="Language Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5756" target="_blank">Language Development</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-02-02 01:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1769907112-20260201.png" alt="Saturday Morning Breakfast Cereal - Grow" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -303,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 02:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
