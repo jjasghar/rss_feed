@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-02 08:08:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-02 09:12:49 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, February 02, 2026 - 08:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, February 02, 2026 - 09:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/2/stars-target-ice-crackdown-at-grammys-ceremony?traffic_source=rss" target="_blank">Music stars target ICE crackdown at Grammy’s ceremony</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-02 08:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/02/g-s1-108287/gaza-rafah-border-crossing-reopens" target="_blank">Gaza&#x27;s Rafah border crossing with Egypt reopens for limited traffic</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-02 08:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/2/pakistani-forces-kill-145-fighters-in-balochistan-after-deadly-attacks?traffic_source=rss" target="_blank">Pakistani forces kill 145 fighters in Balochistan after deadly attacks</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-02 05:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/law/2026/feb/02/more-than-100000-civilians-killed-war-crimes-out-of-control-study" target="_blank">International law meant to limit effects of war at breaking point, study finds</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-02 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/2/laura-fernandez-leads-early-results-in-costa-ricas-presidential-election?traffic_source=rss" target="_blank">Laura Fernandez leads early results in Costa Rica’s presidential election</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-02 03:43</span>
             </div>
         </div>
 </div>
@@ -299,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 08:08 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 09:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
