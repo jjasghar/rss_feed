@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-02 10:13:49 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-02-02 11:13:19 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, February 02, 2026 - 10:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, February 02, 2026 - 11:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +106,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69794e175c9274c20fbe6b20/master/pass/Olympics-2026-5-Movies-to-Watch-Before-Winter-Olympics-Culture.jpg" alt="5 Movies You Must Watch Before the 2026 Winter Olympics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/5-movies-to-watch-before-2026-winter-olympics/" target="_blank">5 Movies You Must Watch Before the 2026 Winter Olympics</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-02 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/871250/supernatural-meta-vr-fitness-community" target="_blank">The tragedy of Supernatural</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-02 11:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -139,29 +159,38 @@
                 <span class="time">2026-02-01 20:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/871879/bill-gates-epstein-files-absolutely-absurd" target="_blank">Bill Gates says accusations contained in Epstein files are ‘absolutely absurd’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-01 19:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/01/amazons-melania-documentary-makes-7m-on-opening-weekend/" target="_blank">Amazon’s ‘Melania’ documentary makes $7M on opening weekend</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-01 19:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/why-ml-projects-fail-production/en/headerimage/why-ml-projects-fail-production-header-1769072877092.jpg" alt="Article: Why Most Machine Learning Projects Fail to Reach Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/why-ml-projects-fail-production/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Why Most Machine Learning Projects Fail to Reach Production</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-02 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpdecl3vb6mifb94s4xdg.png" alt="Prompt Engineering Is a Temporary Skill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zywrap/prompt-engineering-is-a-temporary-skill-1bd" target="_blank">Prompt Engineering Is a Temporary Skill</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-02 10:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/picoide-crowdfunding-campaign/" target="_blank">$69 in 2026 Gets You a Tool to Rejuvenate Old Computers</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-02 10:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,33 +216,6 @@
                 <span class="title"><a href="https://dev.to/njagiii/mastering-data-modeling-in-power-bi-schemas-tables-and-relationships-for-optimal-performance-1l0f" target="_blank">Mastering Data Modeling in Power BI: Schemas, Tables, and Relationships for Optimal Performance</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-02 06:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mohammad_waseem_c31f3a26f/detecting-phishing-patterns-in-microservices-with-javascript-a-senior-architects-approach-1e0k" target="_blank">Detecting Phishing Patterns in Microservices with JavaScript: A Senior Architect’s Approach</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-02 03:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/02/linux-release-roundup-hero.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Release Roundup (January 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/linux-release-roundup-january-2026" target="_blank">Linux Release Roundup (January 2026)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-01 23:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mohammad_waseem_c31f3a26f/ensuring-seamless-gated-content-access-during-high-traffic-with-qa-testing-in-devops-5cch" target="_blank">Ensuring Seamless Gated Content Access During High Traffic with QA Testing in DevOps</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-01 23:49</span>
             </div>
         </div>
 </div>
@@ -303,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 10:13 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 11:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
