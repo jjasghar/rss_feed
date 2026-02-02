@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-02 11:13:19 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-02-02 12:04:54 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, February 02, 2026 - 11:13 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, February 02, 2026 - 12:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/2/2/in-zimbabwe-millions-choose-funeral-insurance-over-pricey-medical-cover?traffic_source=rss" target="_blank">In Zimbabwe, millions choose funeral insurance over pricey medical cover</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-02 11:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +102,20 @@
                 <span class="time">2026-02-02 06:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/2/live-wounded-palestinians-prepare-to-leave-gaza-as-israel-opens-checkpoint?traffic_source=rss" target="_blank">LIVE: Wounded Palestinians prepare to leave Gaza as Israel opens Rafah</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-02 06:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/697d89839d51354f7f32af11/master/pass/The%20Best%20Sexy%20Gifts%20for%20Lovers-%20U%20Up.png" alt="The 20 Best Sexy Gifts for Lovers (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-sexy-gift/" target="_blank">The 20 Best Sexy Gifts for Lovers (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-02 12:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69794e175c9274c20fbe6b20/master/pass/Olympics-2026-5-Movies-to-Watch-Before-Winter-Olympics-Culture.jpg" alt="5 Movies You Must Watch Before the 2026 Winter Olympics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +161,20 @@
                 <span class="time">2026-02-01 22:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/01/why-tethers-ceo-is-everywhere-right-now/" target="_blank">Why Tether’s CEO is everywhere right now</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-01 20:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rust-Coreutils-FOSDEM-2026" target="_blank">Rust Coreutils Continues Working Toward 100% GNU Compatibility, Proving Trolls Wrong</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-02 11:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/why-ml-projects-fail-production/en/headerimage/why-ml-projects-fail-production-header-1769072877092.jpg" alt="Article: Why Most Machine Learning Projects Fail to Reach Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,20 +220,20 @@
                 <span class="time">2026-02-02 06:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd6vpji3zwleys7my7lr8.webp" alt="Mastering Data Modeling in Power BI: Schemas, Tables, and Relationships for Optimal Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/njagiii/mastering-data-modeling-in-power-bi-schemas-tables-and-relationships-for-optimal-performance-1l0f" target="_blank">Mastering Data Modeling in Power BI: Schemas, Tables, and Relationships for Optimal Performance</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-02 06:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/avengers-doomsday-cyclops-1280x853.jpg" alt="The 2026 Super Bowl May Be Free of Superhero Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-2026-super-bowl-may-be-free-of-superhero-movies-2000716487" target="_blank">The 2026 Super Bowl May Be Free of Superhero Movies</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-02 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_2718210697-1280x853.jpg" alt="Anti-ICE Protesters Have Started a Month-Long Tech and AI Boycott. Here’s How It Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,20 +279,20 @@
                 <span class="time">2026-02-01 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Archies-TV-Laugh-Out.jpg?fit=813%2C1200&amp;quality=60&amp;ssl=1" alt="In 1962, a laughing fit spread through Tanzania for 18 months" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/01/in-1962-a-laughing-fit-spread-through-tanzania-for-18-months.html" target="_blank">In 1962, a laughing fit spread through Tanzania for 18 months</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-01 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/02/02/constructivism" target="_blank">Constructivism</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-02-02 08:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5756.png" alt="Language Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -305,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 11:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 12:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
