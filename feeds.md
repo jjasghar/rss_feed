@@ -1,30 +1,26 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 10:10:04 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2026-02-03 11:10:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Generated 6 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 10:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 11:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +36,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/03/nx-s1-5664057/sound-recording-dads-voice-supreme-court-history-of-sound" target="_blank">I thought I&#x27;d heard my dad&#x27;s voice for the last time. A movie helped me find it again</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-03 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/2/3/syrian-army-enters-hasakah-as-us-backed-ceasefire-deal-takes-effect?traffic_source=rss" target="_blank">Syrian army enters Kurdish city of Hasakah as ceasefire takes hold</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-03 10:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,29 +90,38 @@
                 <span class="time">2026-02-03 05:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/3/musk-merges-spacex-and-xai-firms-plans-for-space-based-ai-data-centres?traffic_source=rss" target="_blank">Musk merges SpaceX and xAI firms, plans for space-based AI data centres</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-03 04:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/3/moscow-confirms-russian-forces-helped-repel-isil-attack-on-niger-airport?traffic_source=rss" target="_blank">Moscow confirms Russian forces helped repel ISIL attack on Niger airport</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-03 04:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69811e4636e7791aeebe1521/master/pass/zwMELANIA-HIRES06.jpg" alt="‘She Has a Presence’: The ‘Melania’ Superfans Who Turned Up for Opening Weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/she-has-a-presence-the-melania-superfans-who-turned-up-for-opening-weekend/" target="_blank">‘She Has a Presence’: The ‘Melania’ Superfans Who Turned Up for Opening Weekend</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-03 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/03/avalanche-thinks-the-fusion-power-industry-should-think-smaller/" target="_blank">Avalanche thinks the fusion power industry should think smaller</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-03 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/AFRC2026-0017-15orig-500x500.jpg" alt="Unable to tame hydrogen leaks, NASA delays launch of Artemis II until March" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/02/unable-to-tame-hydrogen-leaks-nasa-delays-launch-of-artemis-ii-until-march/" target="_blank">Unable to tame hydrogen leaks, NASA delays launch of Artemis II until March</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-03 08:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -124,33 +147,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/02/fintech-ceo-and-forbes-30-under-30-alum-has-been-charged-for-alleged-fraud/" target="_blank">Fintech CEO and Forbes 30 Under 30 alum has been charged for alleged fraud</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-03 00:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69811faf5fea9b4898ac924e/master/pass/SpaceX-Aquires-xAI-Business-2256970109.jpg" alt="Elon Musk Is Rolling xAI Into SpaceX—Creating the World’s Most Valuable Private Company" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/spacex-acquires-xai-elon-musk/" target="_blank">Elon Musk Is Rolling xAI Into SpaceX—Creating the World’s Most Valuable Private Company</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-02 23:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/872731/adobe-animate-app-shutdown-date" target="_blank">Adobe Animate is shutting down next month</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-02 22:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/c3d-500x500.jpg" alt="Looking back at Catacomb 3D, the game that led to Wolfenstein 3D" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/02/looking-back-at-catacomb-3d-the-game-that-led-to-wolfenstein-3d/" target="_blank">Looking back at Catacomb 3D, the game that led to Wolfenstein 3D</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-02 22:57</span>
             </div>
         </div>
 </div>
@@ -322,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 10:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 11:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
