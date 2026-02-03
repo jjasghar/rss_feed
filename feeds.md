@@ -1,33 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 18:13:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-03 19:16:45 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 18:13 UTC</div>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 19:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +53,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/03/nx-s1-5697950/nancy-guthrie-savannah-mother" target="_blank">What we know about Savannah Guthrie&#x27;s missing mother</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-03 18:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/captiol-1-ap-gmh-260130_1769804588122_hpMain_4x3t_384.jpg" alt="House votes to advance funding package to end partial government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/house-hold-votes-funding-end-partial-government-shutdown/story?id=129813498" target="_blank">House votes to advance funding package to end partial government shutdown</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-03 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260202-us-capitol-ew-620p-eec02c.jpg" alt="House passes bill to end the shutdown and punt on DHS funding, sending it to Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/house-path-end-government-shutdown-tuesday-dhs-trump-rcna257138" target="_blank">House passes bill to end the shutdown and punt on DHS funding, sending it to Trump</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-03 17:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/captiol-1-ap-gmh-260130_1769804588122_hpMain_4x3t_384.jpg" alt="House to hold votes on funding package to end partial government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,33 +105,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cn0k65pnxjxo?at_medium=RSS&at_campaign=rss" target="_blank">Thousands of Epstein documents taken down after victims identified</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-03 15:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/03/nx-s1-5697941/pepsi-prices-cheetos-doritos-super-bowl-snacks" target="_blank">Pepsi will cut prices on Lay&#x27;s, Cheetos by as much as 15%</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-03 15:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/minn-4-gty-gmh-260130_1769796470692_hpMain_4x3t_384.jpg" alt="Military stands down troops ordered to prep to deploy to Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/military-stands-troops-ordered-prep-deploy-minneapolis/story?id=129797524" target="_blank">Military stands down troops ordered to prep to deploy to Minneapolis</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-03 14:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/3/russia-welcomes-infantinos-comments-on-lifting-ban-ukraine-furious?traffic_source=rss" target="_blank">Russia welcomes Infantino’s comments on lifting ban; Ukraine furious</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-03 14:18</span>
             </div>
         </div>
 </div>
@@ -164,6 +174,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alexdesi/63-qas-from-watching-karpathys-llm-tutorial-twice-1pcl" target="_blank">63 Q&amp;As from Watching Karpathy&#x27;s LLM Tutorial Twice</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-03 18:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!djLn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F980b797a-3d2d-43f2-9a0d-2c20069a9f94_1504x530.png" alt="Deepdive: How 10 tech companies choose the next generation of dev tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/measuring-ai-dev-tools" target="_blank">Deepdive: How 10 tech companies choose the next generation of dev tools</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-02-03 17:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/GNOME-50-Remote-Desktop-HiDPI" target="_blank">GNOME 50 Lands Virtual Monitor / Remote Desktop Improvements - Including HiDPI</a></span>
                 <span class="feed">Phoronix</span>
@@ -197,24 +225,6 @@
                 <span class="time">2026-02-03 16:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbn8zgdplqu4i065ib9r7.png" alt="What is “Build In Process”?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kislay/what-is-build-in-process-23c0" target="_blank">What is “Build In Process”?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-03 15:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.djangoproject.com/weblog/2026/feb/03/security-releases/" target="_blank">Django security releases issued: 6.0.2, 5.2.11, and 4.2.28</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-02-03 14:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGJ9PVE3CB3HF0F0B0PVE9D6/hero-image.png" alt="The Fast-Charging Pixel Watch 4 Is on Sale for $300" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-pixel-watch-4-sale-february-2026?utm_medium=RSS" target="_blank">The Fast-Charging Pixel Watch 4 Is on Sale for $300</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-03 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/11/juno-jupiter.jpg?fit=2500%2C1199&amp;quality=60&amp;ssl=1" alt="Jupiter smaller than thought" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/03/jupiter-smaller-than-thought.html" target="_blank">Jupiter smaller than thought</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-03 18:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KGFF94NBV03CK5FDFS0M095X/hero-image.jpg" alt="15 Shows Like &#x27;The Night Manager&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +298,6 @@
                 <span class="time">2026-02-03 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/PDPRiffmaster-1280x853.jpg" alt="This RIFFMASTER Wireless Guitar Controller for Xbox Drops to All-Time Low, Officially Licensed by Microsoft" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-riffmaster-wireless-guitar-controller-for-xbox-drops-to-all-time-low-officially-licensed-by-microsoft-2000665101" target="_blank">This RIFFMASTER Wireless Guitar Controller for Xbox Drops to All-Time Low, Officially Licensed by Microsoft</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-03 15:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Il-principe-1280x853.jpg" alt="This May Be the Oldest Known Victim of a Bear Attack—and It’s Brutal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-may-be-the-oldest-known-victim-of-a-bear-attack-and-its-brutal-2000716962" target="_blank">This May Be the Oldest Known Victim of a Bear Attack—and It’s Brutal</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-03 15:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 18:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 19:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
