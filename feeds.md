@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 20:06:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-03 21:07:50 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 20:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 21:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/3/game-is-over-irans-ex-leaders-hardliners-clash-after-protest-killings?traffic_source=rss" target="_blank">‘Game is over’: Iran’s ex-leaders, hardliners clash after protest killings</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-03 20:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63c2/live/8677c420-010b-11f1-87ac-6bcb44a3becd.jpg" alt="Police investigate Mandelson over claims he leaked information to Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cre2yqyex4zo?at_medium=RSS&at_campaign=rss" target="_blank">Police investigate Mandelson over claims he leaked information to Epstein</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-03 20:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770146783973_now_daily_b_house_ends_shutdown_260103_1920x1080-c6p2w0.jpg" alt="House votes to end partial government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/house-votes-to-end-partial-government-shutdown-257087045976" target="_blank">House votes to end partial government shutdown</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-03 19:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/captiol-1-ap-gmh-260130_1769804588122_hpMain_4x3t_384.jpg" alt="House passes funding package to end partial government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,38 +102,38 @@
                 <span class="time">2026-02-03 18:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/captiol-1-ap-gmh-260130_1769804588122_hpMain_4x3t_384.jpg" alt="House votes to advance funding package to end partial government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/house-hold-votes-funding-end-partial-government-shutdown/story?id=129813498" target="_blank">House votes to advance funding package to end partial government shutdown</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-03 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260202-us-capitol-ew-620p-eec02c.jpg" alt="House passes bill to end the shutdown and punt on DHS funding, sending it to Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/house-path-end-government-shutdown-tuesday-dhs-trump-rcna257138" target="_blank">House passes bill to end the shutdown and punt on DHS funding, sending it to Trump</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-03 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/captiol-1-ap-gmh-260130_1769804588122_hpMain_4x3t_384.jpg" alt="House to hold votes on funding package to end partial government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/house-hold-votes-funding-end-partial-government-shutdown/story?id=129813498" target="_blank">House to hold votes on funding package to end partial government shutdown</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-03 15:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/" target="_blank">Intel will start making GPUs, a market dominated by Nvidia</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-03 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/873203/elon-musk-spacex-xai-merge-data-centers-space-tesla-ipo" target="_blank">Elon Musk is merging SpaceX and xAI to build data centers in space — or so he says</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-03 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/02/Elon-Musk-X-500x500.jpg" alt="X office raided in France&#x27;s Grok probe; Elon Musk summoned for questioning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/x-office-raided-in-frances-grok-probe-elon-musk-summoned-for-questioning/" target="_blank">X office raided in France&#x27;s Grok probe; Elon Musk summoned for questioning</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-03 20:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,38 +161,20 @@
                 <span class="time">2026-02-03 18:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/03/agentic-coding-comes-to-apples-xcode-26-3-with-agents-from-anthropic-and-openai/" target="_blank">Agentic coding comes to Apple’s Xcode with agents from Anthropic and OpenAI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-03 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/873142/french-police-raid-x-investigation" target="_blank">French police raid X&amp;#8217;s Paris office as UK investigation continues</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-03 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/03/peak-xv-says-internal-disagreement-led-to-partner-exits-as-it-doubles-down-on-ai/" target="_blank">Peak XV says internal disagreement led to partner exits as it doubles down on AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-03 14:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-44-Dank-MiracleWM" target="_blank">Dank Fedora MiracleWM &amp; Other Fedora 44 Changes Approved</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-03 20:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,30 +203,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/notepad-plus-plus-compromised/" target="_blank">Oh Dear! Notepad++ Was Quietly Compromised for Six Months (But Don&amp;#x27;t Panic Just Yet)</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-03 17:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://substackcdn.com/image/fetch/$s_!djLn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F980b797a-3d2d-43f2-9a0d-2c20069a9f94_1504x530.png" alt="Deepdive: How 10 tech companies choose the next generation of dev tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-wrench"></span>
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/measuring-ai-dev-tools" target="_blank">Deepdive: How 10 tech companies choose the next generation of dev tools</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2026-02-03 17:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-50-Remote-Desktop-HiDPI" target="_blank">GNOME 50 Lands Virtual Monitor / Remote Desktop Improvements - Including HiDPI</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-03 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18863702&w=600" alt="Rapid Prototyping for Multimodal AI Agents in Enterprise Collaboration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/rapid-prototyping-multimodal-ai-agents-enterprise" target="_blank">Rapid Prototyping for Multimodal AI Agents in Enterprise Collaboration</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-03 17:00</span>
             </div>
         </div>
 </div>
@@ -236,6 +240,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1280x853.jpg" alt="Sam Altman Expects to Get What He Wants" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sam-altman-expects-to-get-what-he-wants-2000717277" target="_blank">Sam Altman Expects to Get What He Wants</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-03 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/fortnite-chappell-roan-1280x720.jpg" alt="Chappell Roan Stuns In New Fortnite Skins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/chappell-roan-fortnite-festival-skins-songs-pink-pony-2000665444" target="_blank">Chappell Roan Stuns In New Fortnite Skins</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-03 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGJ0A1C2SPDD65H38A3EZ4RG/hero-image.png" alt="That AT&amp;T &#x27;Rewards&#x27; Text Is a Scam" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/that-att-rewards-text-is-a-scam?utm_medium=RSS" target="_blank">That AT&amp;T &#x27;Rewards&#x27; Text Is a Scam</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-03 20:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="&quot;Highly disturbing allegations of Donald Trump raping children&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/03/highly-disturbing-allegations-of-donald-trump-raping-children.html" target="_blank">&quot;Highly disturbing allegations of Donald Trump raping children&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-03 19:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KGJB6RQ6TPPSJEGST9HXN22Y/hero-image.png" alt="The Newest Apple Watch Is $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -251,42 +291,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/google-pixel-watch-4-sale-february-2026?utm_medium=RSS" target="_blank">The Fast-Charging Pixel Watch 4 Is on Sale for $300</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-03 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/11/juno-jupiter.jpg?fit=2500%2C1199&amp;quality=60&amp;ssl=1" alt="Jupiter smaller than thought" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/03/jupiter-smaller-than-thought.html" target="_blank">Jupiter smaller than thought</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-03 18:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGFF94NBV03CK5FDFS0M095X/hero-image.jpg" alt="15 Shows Like &#x27;The Night Manager&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-shows-like-the-night-manager?utm_medium=RSS" target="_blank">15 Shows Like &#x27;The Night Manager&#x27; You Should Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-03 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Tdiner-e1753471820584.jpg?fit=600%2C340&amp;quality=60&amp;ssl=1" alt="When will Tesla give up on cars?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/03/when-will-tesla-give-up-on-cars.html" target="_blank">When will Tesla give up on cars?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-03 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGGN6JEV2YFTA2NHF8A38B5K/hero-image.png" alt="What People Are Getting Wrong This Week: Will the Midterm Elections Be Canceled?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/will-the-midterm-elections-be-canceled?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: Will the Midterm Elections Be Canceled?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-03 16:30</span>
             </div>
         </div>
 </div>
@@ -317,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 20:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 21:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
