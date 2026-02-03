@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 13:24:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-03 14:14:40 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 13:24 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 14:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260203-Josh-DAmaro-rs-6a7fbe.jpg" alt="Disney names parks chief Josh D&#x27;Amaro as its next CEO" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/media/disney-names-parks-chief-josh-damaro-ceo-rcna252573" target="_blank">Disney names parks chief Josh D&#x27;Amaro as its next CEO</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-03 13:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +101,38 @@
                 <span class="time">2026-02-03 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/2/3/syrian-army-enters-hasakah-as-us-backed-ceasefire-deal-takes-effect?traffic_source=rss" target="_blank">Syrian army enters Kurdish city of Hasakah as ceasefire takes hold</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-03 10:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/03/peak-xv-says-internal-disagreement-led-to-partner-exits-as-it-doubles-down-on-ai/" target="_blank">Peak XV says internal disagreement led to partner exits as it doubles down on AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-03 14:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/872972/disney-ceo-bob-iger-replacement-josh-damaro" target="_blank">Disney says Josh D&amp;#8217;Amaro will replace Bob Iger as CEO</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-03 14:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/openai-logo-500x500-1741196880.jpg" alt="Senior staff departing OpenAI as firm prioritizes ChatGPT development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/02/senior-staff-departing-openai-as-firm-prioritizes-chatgpt-development/" target="_blank">Senior staff departing OpenAI as firm prioritizes ChatGPT development</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-03 14:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6980fd8d992a1d55349a44e4/master/pass/A%20Continuous%20Glucose%20Monitor%20Really%20Can%20Help%20You%20Lose%20Weight.png" alt="A Continuous Glucose Monitor Might Help You Lose Weight (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,33 +158,6 @@
                 <span class="title"><a href="https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/" target="_blank">The rise of Moltbook suggests viral AI prompts may be the next big security threat</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-02-03 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/872783/tear-gas-children-portland-ice-labor" target="_blank">How to tear gas children</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-03 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69811e4636e7791aeebe1521/master/pass/zwMELANIA-HIRES06.jpg" alt="‘She Has a Presence’: The ‘Melania’ Superfans Who Turned Up for Opening Weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/she-has-a-presence-the-melania-superfans-who-turned-up-for-opening-weekend/" target="_blank">‘She Has a Presence’: The ‘Melania’ Superfans Who Turned Up for Opening Weekend</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-03 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/03/avalanche-thinks-the-fusion-power-industry-should-think-smaller/" target="_blank">Avalanche thinks the fusion power industry should think smaller</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-03 11:00</span>
             </div>
         </div>
 </div>
@@ -329,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 13:24 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 14:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
