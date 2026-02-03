@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 08:06:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-03 09:09:40 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 08:06 UTC</div>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 09:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -163,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/articles/skeleton-architecture/en/headerimage/skeleton-architecture-header-1769508521191.jpg" alt="Article: Working with Code Assistants: The Skeleton Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/skeleton-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Working with Code Assistants: The Skeleton Architecture</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-03 09:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
@@ -207,15 +217,6 @@
                 <span class="time">2026-02-03 05:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/mongodb-embedding-reranking-api/en/headerimage/generatedHeaderImage-1769104698538.jpg" alt="MongoDB Introduces Embedding and Reranking API on Atlas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/mongodb-embedding-reranking-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MongoDB Introduces Embedding and Reranking API on Atlas</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-03 04:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/2026-02-03-to-the-life.jpeg?fit=1200%2C1404&amp;quality=60&amp;ssl=1" alt="One of the earliest-born humans ever to be photographed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/03/one-of-the-earliest-born-humans-ever-to-be-photographed.html" target="_blank">One of the earliest-born humans ever to be photographed</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-03 08:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/elon-doug-burgum-1280x971.jpg" alt="SpaceX and xAI Are Merging Into a Very Silly-Sounding Conglomerate. Take It Seriously" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +299,6 @@
                 <span class="time">2026-02-02 22:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/sebulbastarwars-1280x720.jpg" alt="Podracing Confirmed For 2026’s Coolest-Looking Star Wars Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/star-wars-galactic-racer-racing-game-podracing-confirmed-2000665131" target="_blank">Podracing Confirmed For 2026’s Coolest-Looking Star Wars Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-02 21:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 08:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 09:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
