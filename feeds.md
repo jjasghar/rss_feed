@@ -1,40 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 01:30:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-03 02:55:42 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 02:55 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/3/ex-us-president-bill-clinton-hillary-clinton-to-testify-in-epstein-probe?traffic_source=rss" target="_blank">Ex-US President Bill Clinton, Hillary Clinton to testify in Epstein probe</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-03 02:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/epstein_thumbnail-xq8qc8.jpg" alt="Clintons agree to testify in Epstein investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/clintons-agree-to-testify-in-epstein-investigation-257043013623" target="_blank">Clintons agree to testify in Epstein investigation</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-03 01:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260202-bill-hillary-clinton-ew-643p-f8d0f8.jpg" alt="Bill and Hillary Clinton agree to testify in House Epstein probe ahead of contempt vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,24 +104,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/tulsi-gabbard-accused-trying-bury-whistleblower-complaint-rcna257096" target="_blank">Tulsi Gabbard accused of trying to &#x27;bury&#x27; whistleblower complaint</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-02 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/capitol-1-gty-gmh-260202_1770048046329_hpMain_4x3t_384.jpg" alt="What to know about the partial government shutdown, now in its 3rd day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/partial-government-shutdown-now-3rd-day/story?id=129788569" target="_blank">What to know about the partial government shutdown, now in its 3rd day</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-02 21:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/02/g-s1-108418/costa-rica-election-laura-fernandez-wins" target="_blank">Populist conservative Laura Fernández wins Costa Rica&#x27;s presidential election</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-02 21:28</span>
             </div>
         </div>
 </div>
@@ -196,6 +198,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="http://github.com/stelviodev/stelvio" target="_blank">Stelvio: ship Python to AWS</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-02-02 19:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/Firefox-Ai.jpg?resize=406%2C232&amp;ssl=1" alt="You can turn off every Firefox AI feature this month" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -211,15 +222,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/firefox-148-disable-ai-features" target="_blank">You’ll be able to turn off Firefox’s AI features this month</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-02-02 18:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://youtu.be/03DswsNUBdQ" target="_blank">Python, Is It Being Killed by Incremental Improvements?</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-02-02 17:09</span>
             </div>
         </div>
 </div>
@@ -301,6 +303,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/02/look-on-my-works-ye-mighty-and-despair" target="_blank">Look on my Works, ye Mighty, and despair!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-02-02 21:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1769907157-20260202.png" alt="Saturday Morning Breakfast Cereal - Private" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -327,22 +338,13 @@
                 <span class="time">2026-02-02 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5756.png" alt="Language Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5756" target="_blank">Language Development</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-02-02 01:56</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 02:55 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
