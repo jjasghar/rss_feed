@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 00:08:11 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-03 01:30:59 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 00:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +51,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260202-bill-hillary-clinton-ew-643p-f8d0f8.jpg" alt="Bill and Hillary Clinton agree to testify in House Epstein probe ahead of contempt vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/clintons-agree-testify-house-epstein-probe-ahead-contempt-vote-rcna257143" target="_blank">Bill and Hillary Clinton agree to testify in House Epstein probe ahead of contempt vote</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-02 23:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
                 <span class="title"><a href="https://www.theguardian.com/world/2026/feb/02/israel-agrees-to-limited-reopening-of-rafah-border-crossing-in-gaza" target="_blank">Handful of sick and wounded Palestinians allowed through Rafah crossing on first day</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-02-02 23:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2173/live/952c7d50-005f-11f1-9972-d3f265c101c6.jpg" alt="Police review misconduct claims after files suggest Mandelson sent government information to Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgm4rkn7x7po?at_medium=RSS&at_campaign=rss" target="_blank">Police review misconduct claims after files suggest Mandelson sent government information to Epstein</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-02 22:25</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +104,20 @@
                 <span class="time">2026-02-02 21:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/02/israel-agrees-to-limited-reopening-of-rafah-border-crossing-in-gaza" target="_blank">Sick and wounded Palestinians enter Egypt after Israel reopens Rafah crossing</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-02 18:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7c7/live/675324e0-004d-11f1-b0e3-c598b6818235.jpg" alt="Crown Princess&#x27;s son arrested for alleged assault before rape trial in Norway" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crrn44p9r59o?at_medium=RSS&at_campaign=rss" target="_blank">Crown Princess&#x27;s son arrested for alleged assault before rape trial in Norway</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-02 17:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/02/fintech-ceo-and-forbes-30-under-30-alum-has-been-charged-for-alleged-fraud/" target="_blank">Fintech CEO and Forbes 30 Under 30 alum has been charged for alleged fraud</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-03 00:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69811faf5fea9b4898ac924e/master/pass/SpaceX-Aquires-xAI-Business-2256970109.jpg" alt="Elon Musk Is Rolling xAI Into SpaceX—Creating the World’s Most Valuable Private Company" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,15 +163,6 @@
                 <span class="time">2026-02-02 17:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/yields-500x500.jpg" alt="Interview: Civilization VII’s devs on the big update meant to win critics back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/02/interview-civilization-viis-devs-on-the-big-update-meant-to-win-critics-back/" target="_blank">Interview: Civilization VII’s devs on the big update meant to win critics back</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-02 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -189,6 +196,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/Firefox-Ai.jpg?resize=406%2C232&amp;ssl=1" alt="You can turn off every Firefox AI feature this month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/firefox-148-disable-ai-features" target="_blank">You can turn off every Firefox AI feature this month</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-02-02 18:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/Firefox-Ai.jpg?resize=406%2C232&amp;ssl=1" alt="You’ll be able to turn off Firefox’s AI features this month" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -204,15 +220,6 @@
                 <span class="title"><a href="https://youtu.be/03DswsNUBdQ" target="_blank">Python, Is It Being Killed by Incremental Improvements?</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-02-02 17:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-to-maximize-github-copilots-agentic-capabilities/" target="_blank">How to maximize GitHub Copilot’s agentic capabilities</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-02-02 17:00</span>
             </div>
         </div>
 </div>
@@ -234,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/alex-karp-1280x854.jpg" alt="Palantir Touts $2 Billion in Revenue from Aiding Trump Administration’s ‘Unusual’ Operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/palantir-touts-2-billion-in-revenue-from-aiding-trump-administrations-unusual-operations-2000717022" target="_blank">Palantir Touts $2 Billion in Revenue from Aiding Trump Administration’s ‘Unusual’ Operations</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-03 01:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/shutterstock_1895928394-scaled-e1745938629828.jpg?fit=768%2C535&amp;quality=60&amp;ssl=1" alt="Normalizing surveillance under the banner of helping lost pets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +293,6 @@
                 <span class="title"><a href="https://kotaku.com/gog-ai-art-banner-ad-confirms-discord-message-small-team-slop-2000665056" target="_blank">GOG Says Game Banner Ad Was Made With AI But Claims It Was Shared By Mistake</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-02 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/Stranger_Things_Tales_from_85_RemindTeaserStill_5-1-1280x720.jpg" alt="Stranger Things Animated Series Trailer Tries To Wash Away The Bitter Aftertaste Of The Finale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/stranger-things-tales-85-animated-series-trailer-netflix-2000665051" target="_blank">Stranger Things Animated Series Trailer Tries To Wash Away The Bitter Aftertaste Of The Finale</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-02 16:39</span>
             </div>
         </div>
 </div>
@@ -334,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 00:08 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
