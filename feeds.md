@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-02 23:04:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-03 00:08:11 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: WIRED -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, February 02, 2026 - 23:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 00:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/02/israel-agrees-to-limited-reopening-of-rafah-border-crossing-in-gaza" target="_blank">Handful of sick and wounded Palestinians allowed through Rafah crossing on first day</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-02 23:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260202-tulsi-gabbard-ew-520p-e675b9.jpg" alt="Tulsi Gabbard accused of trying to &#x27;bury&#x27; whistleblower complaint" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +97,20 @@
                 <span class="time">2026-02-02 17:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/02/nx-s1-5696424/mike-lawler-town-hall" target="_blank">N.Y. Republican met with jeers over ICE tactics during town hall in swing district</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-02 17:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69811faf5fea9b4898ac924e/master/pass/SpaceX-Aquires-xAI-Business-2256970109.jpg" alt="Elon Musk Is Rolling xAI Into SpaceX—Creating the World’s Most Valuable Private Company" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/spacex-acquires-xai-elon-musk/" target="_blank">Elon Musk Is Rolling xAI Into SpaceX—Creating the World’s Most Valuable Private Company</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-02 23:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -110,6 +118,15 @@
                 <span class="title"><a href="https://www.theverge.com/news/872731/adobe-animate-app-shutdown-date" target="_blank">Adobe Animate is shutting down next month</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-02 22:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/c3d-500x500.jpg" alt="Looking back at Catacomb 3D, the game that led to Wolfenstein 3D" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/02/looking-back-at-catacomb-3d-the-game-that-led-to-wolfenstein-3d/" target="_blank">Looking back at Catacomb 3D, the game that led to Wolfenstein 3D</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-02 22:57</span>
             </div>
         </div>
 <div class="story">
@@ -139,29 +156,20 @@
                 <span class="time">2026-02-02 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/865281/valentines-day-2026-gift-ideas-for-her-girlfriend-wife-partner" target="_blank">The Verge’s 2026 Valentine’s Day gift guide (for her)</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-02 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/872182/sony-xm5-noise-canceling-headphones-super-bowl-tv-deal-sale" target="_blank">Sony’s last-gen, but still great 1000XM5 are cheaper than ever</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-02 15:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rust-Coreutils-0.6" target="_blank">Rust Coreutils 0.6 Brings Increased Compatibility, Removing Some Unsafe Code &amp; More Perf</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-02 22:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,6 +189,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/Firefox-Ai.jpg?resize=406%2C232&amp;ssl=1" alt="You’ll be able to turn off Firefox’s AI features this month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/firefox-148-disable-ai-features" target="_blank">You’ll be able to turn off Firefox’s AI features this month</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-02-02 18:21</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
@@ -190,30 +207,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/raspberry-pi-1GB.jpg?resize=406%2C232&amp;ssl=1" alt="The Raspberry Pi Just Got More Expensive (Again)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/raspberry-pi-annouce-more-price-rises" target="_blank">The Raspberry Pi Just Got More Expensive (Again)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-02 16:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/patterns-organizational-change/en/mediumimage/thiago-ghisi-medium-1769523631580.jpg" alt="Presentation: Scaling to 100+ as a Director: Lessons From Growing Engineering Organizations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/patterns-organizational-change/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Scaling to 100+ as a Director: Lessons From Growing Engineering Organizations</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-02 16:23</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://news.ycombinator.com/item?id=46857488" target="_blank">Ask HN: Who is hiring? (February 2026)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-02 16:01</span>
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-to-maximize-github-copilots-agentic-capabilities/" target="_blank">How to maximize GitHub Copilot’s agentic capabilities</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-02-02 17:00</span>
             </div>
         </div>
 </div>
@@ -235,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/shutterstock_1895928394-scaled-e1745938629828.jpg?fit=768%2C535&amp;quality=60&amp;ssl=1" alt="Normalizing surveillance under the banner of helping lost pets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/02/normalizing-surveillance-under-the-banner-of-helping-lost-pets.html" target="_blank">Normalizing surveillance under the banner of helping lost pets</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-02 23:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Amazon_Ring_Lost_dogs-1280x854.jpg" alt="Amazon’s Ring Wants to Wash Away Your Surveillance Concerns With Lost Puppies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ring-wants-to-wash-away-your-surveillance-concerns-with-lost-puppies-2000716802" target="_blank">Amazon’s Ring Wants to Wash Away Your Surveillance Concerns With Lost Puppies</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-02 22:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/sebulbastarwars-1280x720.jpg" alt="Podracing Confirmed For 2026’s Coolest-Looking Star Wars Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +286,6 @@
                 <span class="title"><a href="https://kotaku.com/stranger-things-tales-85-animated-series-trailer-netflix-2000665051" target="_blank">Stranger Things Animated Series Trailer Tries To Wash Away The Bitter Aftertaste Of The Finale</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-02 16:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGFEVPKM6CRX1JBWFW33WEE5/hero-image.png" alt="Why You Shouldn&#x27;t Buy a MacBook Pro Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/why-you-should-not-buy-a-macbook-pro-right-now?utm_medium=RSS" target="_blank">Why You Shouldn&#x27;t Buy a MacBook Pro Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-02 16:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Predator-vinyl-exclusive-1280x853.jpg" alt="Last Year’s Other Amazing ‘Predator’ Movie Is Finally Getting Some Love (Exclusive)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/last-years-other-amazing-predator-movie-is-finally-getting-some-love-exclusive-2000715241" target="_blank">Last Year’s Other Amazing ‘Predator’ Movie Is Finally Getting Some Love (Exclusive)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-02 16:00</span>
             </div>
         </div>
 </div>
@@ -335,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 23:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 00:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
