@@ -1,42 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 02:55:42 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-03 03:46:37 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 02:55 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 03:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +108,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/698103aadaa80b7117c10e2b/master/pass/Peter-Thiel-Diet-Business-2152107540.jpg" alt="Epstein Files Reveal Peter Thiel’s Elaborate Dietary Restrictions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/epstein-jeffrey-files-peter-thiel-diet-sushi/" target="_blank">Epstein Files Reveal Peter Thiel’s Elaborate Dietary Restrictions</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-03 00:24</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -156,20 +161,29 @@
                 <span class="time">2026-02-02 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/872223/abxylute-nintendo-switch-2-controller-n6-n9c-gamecube-retro" target="_blank">Abxylute’s new Switch 2 controller is for all the die-hard GameCube fans</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-02 17:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/techstratos/practical-developer-wisdom-you-cannot-google-easily-1ibp" target="_blank">Practical Developer Wisdom You Cannot Google Easily</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-03 03:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://alignment.anthropic.com/2026/hot-mess-of-ai/" target="_blank">How does misalignment scale with model intelligence and task complexity?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-03 00:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,24 +220,6 @@
                 <span class="time">2026-02-02 19:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/Firefox-Ai.jpg?resize=406%2C232&amp;ssl=1" alt="You can turn off every Firefox AI feature this month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/firefox-148-disable-ai-features" target="_blank">You can turn off every Firefox AI feature this month</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-02 18:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/Firefox-Ai.jpg?resize=406%2C232&amp;ssl=1" alt="You’ll be able to turn off Firefox’s AI features this month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/firefox-148-disable-ai-features" target="_blank">You’ll be able to turn off Firefox’s AI features this month</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-02 18:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/elon-doug-burgum-1280x971.jpg" alt="SpaceX and xAI Are Merging Into a Very Silly-Sounding Conglomerate. Take It Seriously" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/spacex-and-xai-are-merging-into-a-very-silly-sounding-conglomerate-take-it-seriously-2000716461" target="_blank">SpaceX and xAI Are Merging Into a Very Silly-Sounding Conglomerate. Take It Seriously</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-03 03:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/alex-karp-1280x854.jpg" alt="Palantir Touts $2 Billion in Revenue from Aiding Trump Administration’s ‘Unusual’ Operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +291,6 @@
                 <span class="title"><a href="https://gizmodo.com/elon-musk-is-convinced-he-can-turn-low-earth-orbit-into-a-gigantic-data-center-2000716711" target="_blank">Elon Musk Is Convinced He Can Turn Low-Earth Orbit Into a Gigantic Data Center</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-02 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/GOG-1280x720.jpg" alt="GOG Says Game Banner Ad Was Made With AI But Claims It Was Shared By Mistake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gog-ai-art-banner-ad-confirms-discord-message-small-team-slop-2000665056" target="_blank">GOG Says Game Banner Ad Was Made With AI But Claims It Was Shared By Mistake</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-02 17:26</span>
             </div>
         </div>
 </div>
@@ -344,7 +340,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 02:55 UTC
+        🔄 Last Updated: 03:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
