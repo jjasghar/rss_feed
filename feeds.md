@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 21:07:50 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-03 22:05:25 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 21:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 22:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/03/nx-s1-5697839/disney-damaro-ceo" target="_blank">Disney names Josh D&#x27;Amaro as its new CEO</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-03 21:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +102,29 @@
                 <span class="time">2026-02-03 19:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/03/nx-s1-5697950/nancy-guthrie-savannah-mother" target="_blank">What we know about Savannah Guthrie&#x27;s missing mother</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-03 18:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/873409/borderlands-4-nintendo-switch-2-development-pause" target="_blank">Borderlands 4 for Switch 2 is on ‘pause’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-03 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2211793949-500x500.jpg" alt="Newborn dies after mother drinks raw milk during pregnancy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/02/newborns-death-spurs-raw-milk-warning-in-new-mexico/" target="_blank">Newborn dies after mother drinks raw milk during pregnancy</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-03 21:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +159,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing" target="_blank">Microsoft says it’s building an app store for AI content licensing</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-03 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697ce535e97ad4a83ab638db/master/pass/sec-roundup-lobster-120377151.jpg" alt="I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren&#x27;t Allowed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/i-infiltrated-moltbook-ai-only-social-network/" target="_blank">I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren&#x27;t Allowed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-03 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/Xcode-500x500-1770141251.png" alt="Xcode 26.3 adds support for Claude, Codex, and other agentic tools via MCP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/apple/2026/02/xcode-26-3-adds-support-for-claude-codex-and-other-agentic-tools-via-mcp/" target="_blank">Xcode 26.3 adds support for Claude, Codex, and other agentic tools via MCP</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-03 18:01</span>
             </div>
         </div>
 </div>
@@ -240,6 +240,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/shutterstock_2681902813-e1761777398744-1280x852.jpg" alt="All the Messy Drama Between OpenAI and Nvidia, Explained" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/all-the-messy-drama-between-openai-and-nvidia-explained-2000717226" target="_blank">All the Messy Drama Between OpenAI and Nvidia, Explained</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-03 21:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGJJJB0HWW2DESVY1W0NB3BQ/hero-image.png" alt="YouTube Just Blocked This Popular Hack for Free Background Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/youtube-just-blocked-this-popular-hack-for-background-play?utm_medium=RSS" target="_blank">YouTube Just Blocked This Popular Hack for Free Background Play</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-03 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Melinda-Gates-on-NPR.jpg?fit=1080%2C556&amp;quality=60&amp;ssl=1" alt="Melinda Gates ended marriage with Bill Gates over Epstein allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/03/melinda-gates-ended-marriage-with-bill-gates-over-epstein-allegations.html" target="_blank">Melinda Gates ended marriage with Bill Gates over Epstein allegations</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-03 21:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1280x853.jpg" alt="Sam Altman Expects to Get What He Wants" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -266,33 +293,6 @@
                 <span class="time">2026-02-03 20:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="&quot;Highly disturbing allegations of Donald Trump raping children&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/03/highly-disturbing-allegations-of-donald-trump-raping-children.html" target="_blank">&quot;Highly disturbing allegations of Donald Trump raping children&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-03 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGJB6RQ6TPPSJEGST9HXN22Y/hero-image.png" alt="The Newest Apple Watch Is $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-watch-series-11-sale-february-2026?utm_medium=RSS" target="_blank">The Newest Apple Watch Is $100 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-03 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGJ9PVE3CB3HF0F0B0PVE9D6/hero-image.png" alt="The Fast-Charging Pixel Watch 4 Is on Sale for $300" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-pixel-watch-4-sale-february-2026?utm_medium=RSS" target="_blank">The Fast-Charging Pixel Watch 4 Is on Sale for $300</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-03 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -307,22 +307,13 @@
                 <span class="time">2026-02-03 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/02/look-on-my-works-ye-mighty-and-despair" target="_blank">Look on my Works, ye Mighty, and despair!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-02-02 21:55</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 21:07 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 22:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
