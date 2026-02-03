@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 12:05:33 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-03 13:24:32 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 13 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 12:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 13:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/3/huge-fire-breaks-out-at-tehran-market?traffic_source=rss" target="_blank">Huge fire breaks out at Tehran market</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-03 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/03/g-s1-108485/up-first-newsletter-jeffrey-epstein-steve-witkoff-iran-savannah-guthrie-partial-government-shutdown" target="_blank">Takeaways from the latest Epstein files. And, police search for Savannah Guthrie&#x27;s mom</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-03 12:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770121794220_tdy_news_7a_nobles_clintons_epstein_files_260203_1920x1080-oo0yfv.jpg" alt="Bill and Hillary Clinton Agree to Testify Before Congress on Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/clintons-agree-to-testify-in-congressional-epstein-investigation-257056325798" target="_blank">Bill and Hillary Clinton Agree to Testify Before Congress on Epstein</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-03 12:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,38 +101,38 @@
                 <span class="time">2026-02-03 10:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/3/why-is-benzemas-al-hilal-transfer-linked-to-ronaldo?traffic_source=rss" target="_blank">Why is Benzema’s Al Hilal transfer linked to Ronaldo?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-03 09:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/3/record-breaking-snow-blankets-japan-killing-at-least-30-people?traffic_source=rss" target="_blank">Record-breaking snow blankets Japan, killing at least 30 people</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-03 07:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/03/g-s1-108471/trevi-fountain-fee-takes-effect" target="_blank">Trevi Fountain fee takes effect as Rome seeks to manage tourist crowds</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-03 07:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6980fd8d992a1d55349a44e4/master/pass/A%20Continuous%20Glucose%20Monitor%20Really%20Can%20Help%20You%20Lose%20Weight.png" alt="A Continuous Glucose Monitor Might Help You Lose Weight (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cgms-really-can-help-you-lose-weight/" target="_blank">A Continuous Glucose Monitor Might Help You Lose Weight (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-03 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/03/indias-supreme-court-to-whatsapp-you-cannot-play-with-the-right-to-privacy/" target="_blank">India’s Supreme Court to WhatsApp: ‘You cannot play with the right to privacy’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-03 12:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/moltbook-chest-burster-500x500.jpg" alt="The rise of Moltbook suggests viral AI prompts may be the next big security threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/" target="_blank">The rise of Moltbook suggests viral AI prompts may be the next big security threat</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-03 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,38 +160,47 @@
                 <span class="time">2026-02-03 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/AFRC2026-0017-15orig-500x500.jpg" alt="Unable to tame hydrogen leaks, NASA delays launch of Artemis II until March" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/02/unable-to-tame-hydrogen-leaks-nasa-delays-launch-of-artemis-ii-until-march/" target="_blank">Unable to tame hydrogen leaks, NASA delays launch of Artemis II until March</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-03 08:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/872768/nintendo-earnings-switch-best-selling-console-ds" target="_blank">The Switch is now Nintendo’s best-selling console of all time</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-03 07:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698103aadaa80b7117c10e2b/master/pass/Peter-Thiel-Diet-Business-2152107540.jpg" alt="Epstein Files Reveal Peter Thiel’s Elaborate Dietary Restrictions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/epstein-jeffrey-files-peter-thiel-diet-sushi/" target="_blank">Epstein Files Reveal Peter Thiel’s Elaborate Dietary Restrictions</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-03 00:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/gnu-hurd-progress-report/" target="_blank">36 Years in Making, GNU&amp;#x27;s Very Own Kernel Project Hurd is Anything But Dead</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-03 13:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Reverting-SMC-TCP-ULP" target="_blank">Linux Dropping SMC TCP ULP Support For Being &quot;Fundamentally Broken&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-03 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1cp0gx91v5yrwrgf09lo.png" alt="The Essence of DDD: A Complete Guide from Philosophy to Mathematics to Engineering Practice—The Theory Part" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/canonical/the-essence-of-ddd-a-complete-guide-from-philosophy-to-mathematics-to-engineering-practice-the-4jfa" target="_blank">The Essence of DDD: A Complete Guide from Philosophy to Mathematics to Engineering Practice—The Theory Part</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-03 13:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18846864&w=600" alt="Building SRE Error Budgets for AI/ML Workloads: A Practical Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-sre-error-budgets-for-ai-ml-workloads" target="_blank">Building SRE Error Budgets for AI/ML Workloads: A Practical Framework</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-03 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18862923&w=600" alt="How Global Payment Processors like Stripe and PayPal Use Apache Kafka and Flink to Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -185,47 +219,20 @@
                 <span class="time">2026-02-03 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/aws-iot-greengrass-comes-to-ubuntu-core" target="_blank">AWS IoT Greengrass comes to Ubuntu Core</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-02-03 09:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/" target="_blank">What&#x27;s up with all those equals signs anyway?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-03 09:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/skeleton-architecture/en/headerimage/skeleton-architecture-header-1769508521191.jpg" alt="Article: Working with Code Assistants: The Skeleton Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/skeleton-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Working with Code Assistants: The Skeleton Architecture</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-03 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/02/03/generating-text-with-diffusion-and-roi-with-llms/" target="_blank">Generating text with diffusion (and ROI with LLMs)</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-02-03 08:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/microsoft-is-giving-the-fbi-bitlocker-keys.html" target="_blank">Microsoft is Giving the FBI BitLocker Keys</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-02-03 12:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -240,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/star-wars-the-acolyte-plagueis-1280x853.jpg" alt="One of ‘Star Wars’ Biggest Recent Reveals Was Inspired by ‘Lord of the Rings’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/one-of-star-wars-biggest-recent-reveals-was-inspired-by-lord-of-the-rings-2000717041" target="_blank">One of ‘Star Wars’ Biggest Recent Reveals Was Inspired by ‘Lord of the Rings’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-03 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/GoodOmens_NeilGaiman-1280x853.jpg" alt="Neil Gaiman Denies the Allegations Against Him (Again) While Announcing a New Book" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +301,6 @@
                 <span class="time">2026-02-03 00:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/shutterstock_1895928394-scaled-e1745938629828.jpg?fit=768%2C535&amp;quality=60&amp;ssl=1" alt="Normalizing surveillance under the banner of helping lost pets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/02/normalizing-surveillance-under-the-banner-of-helping-lost-pets.html" target="_blank">Normalizing surveillance under the banner of helping lost pets</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-02 23:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 12:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 13:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
