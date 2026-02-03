@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 14:14:40 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-03 15:13:12 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 14:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 15:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/03/nx-s1-5697941/pepsi-prices-cheetos-doritos-super-bowl-snacks" target="_blank">Pepsi will cut prices on Lay&#x27;s, Cheetos by as much as 15%</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-03 15:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/minn-4-gty-gmh-260130_1769796470692_hpMain_4x3t_384.jpg" alt="Military stands down troops ordered to prep to deploy to Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/military-stands-troops-ordered-prep-deploy-minneapolis/story?id=129797524" target="_blank">Military stands down troops ordered to prep to deploy to Minneapolis</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-03 14:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/3/russia-welcomes-infantinos-comments-on-lifting-ban-ukraine-furious?traffic_source=rss" target="_blank">Russia welcomes Infantino’s comments on lifting ban; Ukraine furious</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-03 14:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260203-Josh-DAmaro-rs-6a7fbe.jpg" alt="Disney names parks chief Josh D&#x27;Amaro as its next CEO" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,33 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/03/g-s1-108485/up-first-newsletter-jeffrey-epstein-steve-witkoff-iran-savannah-guthrie-partial-government-shutdown" target="_blank">Takeaways from the latest Epstein files. And, police search for Savannah Guthrie&#x27;s mom</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-03 12:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770121794220_tdy_news_7a_nobles_clintons_epstein_files_260203_1920x1080-oo0yfv.jpg" alt="Bill and Hillary Clinton Agree to Testify Before Congress on Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/clintons-agree-to-testify-in-congressional-epstein-investigation-257056325798" target="_blank">Bill and Hillary Clinton Agree to Testify Before Congress on Epstein</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-03 12:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/planet-money/2026/02/03/g-s1-107994/5-papers-from-the-super-bowl-of-economics" target="_blank">5 papers from the Super Bowl of Economics</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-03 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/03/nx-s1-5664057/sound-recording-dads-voice-supreme-court-history-of-sound" target="_blank">I thought I&#x27;d heard my dad&#x27;s voice for the last time. A movie helped me find it again</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-03 11:00</span>
             </div>
         </div>
 </div>
@@ -166,6 +165,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbn8zgdplqu4i065ib9r7.png" alt="What is “Build In Process”?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kislay/what-is-build-in-process-23c0" target="_blank">What is “Build In Process”?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-03 15:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.djangoproject.com/weblog/2026/feb/03/security-releases/" target="_blank">Django security releases issued: 6.0.2, 5.2.11, and 4.2.28</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-02-03 14:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://agentskills.io/home" target="_blank">Agent Skills</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-03 14:09</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -190,33 +216,6 @@
                 <span class="title"><a href="https://dev.to/canonical/the-essence-of-ddd-a-complete-guide-from-philosophy-to-mathematics-to-engineering-practice-the-4jfa" target="_blank">The Essence of DDD: A Complete Guide from Philosophy to Mathematics to Engineering Practice—The Theory Part</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-03 13:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18846864&w=600" alt="Building SRE Error Budgets for AI/ML Workloads: A Practical Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-sre-error-budgets-for-ai-ml-workloads" target="_blank">Building SRE Error Budgets for AI/ML Workloads: A Practical Framework</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-03 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18862923&w=600" alt="How Global Payment Processors like Stripe and PayPal Use Apache Kafka and Flink to Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-global-payment-processors-use-apache" target="_blank">How Global Payment Processors like Stripe and PayPal Use Apache Kafka and Flink to Scale</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-03 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/etleap-iceberg-pipeline-platform/en/headerimage/generatedHeaderImage-1770029461372.jpg" alt="Etleap Launches Iceberg Pipeline Platform to Simplify Enterprise Adoption of Apache Iceberg" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/etleap-iceberg-pipeline-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Etleap Launches Iceberg Pipeline Platform to Simplify Enterprise Adoption of Apache Iceberg</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-03 12:00</span>
             </div>
         </div>
 </div>
@@ -248,6 +247,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/PDPRiffmaster-1280x853.jpg" alt="This RIFFMASTER Wireless Guitar Controller for Xbox Drops to All-Time Low, Officially Licensed by Microsoft" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-riffmaster-wireless-guitar-controller-for-xbox-drops-to-all-time-low-officially-licensed-by-microsoft-2000665101" target="_blank">This RIFFMASTER Wireless Guitar Controller for Xbox Drops to All-Time Low, Officially Licensed by Microsoft</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-03 15:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Il-principe-1280x853.jpg" alt="This May Be the Oldest Known Victim of a Bear Attack—and It’s Brutal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-may-be-the-oldest-known-victim-of-a-bear-attack-and-its-brutal-2000716962" target="_blank">This May Be the Oldest Known Victim of a Bear Attack—and It’s Brutal</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-03 15:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGHYRXHEH8N341QPD56J3HBV/hero-image.png" alt="This Roku Streaming Stick Is a Simple Upgrade, and It’s on Sale for $16 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/roku-streaming-stick-sale-february-2026?utm_medium=RSS" target="_blank">This Roku Streaming Stick Is a Simple Upgrade, and It’s on Sale for $16 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-03 14:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/star-wars-the-acolyte-plagueis-1280x853.jpg" alt="One of ‘Star Wars’ Biggest Recent Reveals Was Inspired by ‘Lord of the Rings’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -272,33 +298,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/03/one-of-the-earliest-born-humans-ever-to-be-photographed.html" target="_blank">One of the earliest-born humans ever to be photographed</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-03 08:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/elon-doug-burgum-1280x971.jpg" alt="SpaceX and xAI Are Merging Into a Very Silly-Sounding Conglomerate. Take It Seriously" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spacex-and-xai-are-merging-into-a-very-silly-sounding-conglomerate-take-it-seriously-2000716461" target="_blank">SpaceX and xAI Are Merging Into a Very Silly-Sounding Conglomerate. Take It Seriously</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-03 03:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/alex-karp-1280x854.jpg" alt="Palantir Touts $2 Billion in Revenue from Aiding Trump Administration’s ‘Unusual’ Operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/palantir-touts-2-billion-in-revenue-from-aiding-trump-administrations-unusual-operations-2000717022" target="_blank">Palantir Touts $2 Billion in Revenue from Aiding Trump Administration’s ‘Unusual’ Operations</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-03 01:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/ice-sign.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="ICE claims man in custody shattered his own skull. Sure." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/02/ice-claims-man-in-custody-shattered-his-own-skull-sure.html" target="_blank">ICE claims man in custody shattered his own skull. Sure.</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-03 00:05</span>
             </div>
         </div>
 </div>
@@ -329,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 14:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 15:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
