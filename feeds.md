@@ -1,35 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 06:13:46 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-03 07:15:30 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 06:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 07:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/03/g-s1-108471/trevi-fountain-fee-takes-effect" target="_blank">Trevi Fountain fee takes effect as Rome seeks to manage tourist crowds</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-03 07:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +105,20 @@
                 <span class="time">2026-02-03 02:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8334/live/3e863430-00b1-11f1-9972-d3f265c101c6.jpg" alt="Clintons agree to testify on Epstein as vote looms to hold them in contempt of Congress" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c14r685mne4o?at_medium=RSS&at_campaign=rss" target="_blank">Clintons agree to testify on Epstein as vote looms to hold them in contempt of Congress</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-03 01:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/872768/nintendo-earnings-switch-best-selling-console-ds" target="_blank">The Switch is now Nintendo’s best-selling console of all time</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-03 07:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/698103aadaa80b7117c10e2b/master/pass/Peter-Thiel-Diet-Business-2152107540.jpg" alt="Epstein Files Reveal Peter Thiel’s Elaborate Dietary Restrictions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +164,29 @@
                 <span class="time">2026-02-02 22:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/Codex-dark-500x500-1770052646.jpg" alt="OpenAI picks up pace against Claude Code with new Codex desktop app" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/02/openai-picks-up-pace-against-claude-code-with-new-codex-desktop-app/" target="_blank">OpenAI picks up pace against Claude Code with new Codex desktop app</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-02 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/02/03/generating-text-with-diffusion-and-roi-with-llms/" target="_blank">Generating text with diffusion (and ROI with LLMs)</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-02-03 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/muzmatch/afrointroductions-an-honest-look-at-one-of-the-top-african-dating-apps-37ll" target="_blank">AfroIntroductions: An Honest Look at One of the Top African Dating Apps</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-03 07:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,39 +206,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/02/mongodb-embedding-reranking-api/en/headerimage/generatedHeaderImage-1769104698538.jpg" alt="MongoDB Introduces Embedding and Reranking API on Atlas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/mongodb-embedding-reranking-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MongoDB Introduces Embedding and Reranking API on Atlas</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-03 04:53</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://krzysztofjankowski.com/floppinux/floppinux-2025.html" target="_blank">Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-03 04:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/techstratos/practical-developer-wisdom-you-cannot-google-easily-1ibp" target="_blank">Practical Developer Wisdom You Cannot Google Easily</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-03 03:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://alignment.anthropic.com/2026/hot-mess-of-ai/" target="_blank">How does misalignment scale with model intelligence and task complexity?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-03 00:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rust-Coreutils-0.6" target="_blank">Rust Coreutils 0.6 Brings Increased Compatibility, Removing Some Unsafe Code &amp; More Perf</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-02 22:30</span>
             </div>
         </div>
 </div>
@@ -336,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 106 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 06:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 07:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
