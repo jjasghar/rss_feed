@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 07:15:30 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-02-03 08:06:49 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 07:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 08:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/3/record-breaking-snow-blankets-japan-killing-at-least-30-people?traffic_source=rss" target="_blank">Record-breaking snow blankets Japan, killing at least 30 people</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-03 07:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +96,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/clintons-agree-give-depositions-house-oversight-committee-epstein/story?id=129785193" target="_blank">Comer reconsiders contempt resolutions after Clintons agree to sit for depositions</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-03 02:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/3/ex-us-president-bill-clinton-hillary-clinton-to-testify-in-epstein-probe?traffic_source=rss" target="_blank">Ex-US President Bill Clinton, Hillary Clinton to testify in Epstein probe</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-03 02:20</span>
             </div>
         </div>
 </div>
@@ -179,6 +172,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F79o8fvbwrj94nx84ua70.png" alt="Why Your Browser Benchmark is Lying to You About AI Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hoshiwarpsjs/why-your-browser-benchmark-is-lying-to-you-about-ai-performance-5gn2" target="_blank">Why Your Browser Benchmark is Lying to You About AI Performance</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-03 07:58</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -212,15 +214,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/02/mongodb-embedding-reranking-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MongoDB Introduces Embedding and Reranking API on Atlas</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-02-03 04:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://krzysztofjankowski.com/floppinux/floppinux-2025.html" target="_blank">Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-03 04:33</span>
             </div>
         </div>
 </div>
@@ -328,22 +321,13 @@
                 <span class="time">2026-02-02 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/02/02/constructivism" target="_blank">Constructivism</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-02-02 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 07:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 08:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
