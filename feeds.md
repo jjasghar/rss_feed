@@ -1,26 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 11:10:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-03 12:05:33 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Generated 6 new posts out of 18 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 11:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 12:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/planet-money/2026/02/03/g-s1-107994/5-papers-from-the-super-bowl-of-economics" target="_blank">5 papers from the Super Bowl of Economics</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-03 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,20 +103,20 @@
                 <span class="time">2026-02-03 07:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/2/3/jobs-cash-loans-can-bangladeshs-parties-deliver-on-election-promises?traffic_source=rss" target="_blank">Jobs, cash, loans: Can Bangladesh’s parties deliver on election promises?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-03 05:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/872783/tear-gas-children-portland-ice-labor" target="_blank">How to tear gas children</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-03 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69811e4636e7791aeebe1521/master/pass/zwMELANIA-HIRES06.jpg" alt="‘She Has a Presence’: The ‘Melania’ Superfans Who Turned Up for Opening Weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,20 +162,29 @@
                 <span class="time">2026-02-03 00:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/02/fintech-ceo-and-forbes-30-under-30-alum-has-been-charged-for-alleged-fraud/" target="_blank">Fintech CEO and Forbes 30 Under 30 alum has been charged for alleged fraud</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-03 00:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18862923&w=600" alt="How Global Payment Processors like Stripe and PayPal Use Apache Kafka and Flink to Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-global-payment-processors-use-apache" target="_blank">How Global Payment Processors like Stripe and PayPal Use Apache Kafka and Flink to Scale</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-03 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/etleap-iceberg-pipeline-platform/en/headerimage/generatedHeaderImage-1770029461372.jpg" alt="Etleap Launches Iceberg Pipeline Platform to Simplify Enterprise Adoption of Apache Iceberg" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/etleap-iceberg-pipeline-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Etleap Launches Iceberg Pipeline Platform to Simplify Enterprise Adoption of Apache Iceberg</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-03 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,24 +221,6 @@
                 <span class="time">2026-02-03 08:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F79o8fvbwrj94nx84ua70.png" alt="Why Your Browser Benchmark is Lying to You About AI Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hoshiwarpsjs/why-your-browser-benchmark-is-lying-to-you-about-ai-performance-5gn2" target="_blank">Why Your Browser Benchmark is Lying to You About AI Performance</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-03 07:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/muzmatch/afrointroductions-an-honest-look-at-one-of-the-top-african-dating-apps-37ll" target="_blank">AfroIntroductions: An Honest Look at One of the Top African Dating Apps</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-03 07:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -222,20 +235,20 @@
                 <span class="time">2026-02-02 16:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/ai-coding-assistants-secretly-copying-all-code-to-china.html" target="_blank">AI Coding Assistants Secretly Copying All Code to China</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-02 12:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/GoodOmens_NeilGaiman-1280x853.jpg" alt="Neil Gaiman Denies the Allegations Against Him (Again) While Announcing a New Book" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/neil-gaiman-allegations-new-book-2000716936" target="_blank">Neil Gaiman Denies the Allegations Against Him (Again) While Announcing a New Book</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-03 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/2026-02-03-to-the-life.jpeg?fit=1200%2C1404&amp;quality=60&amp;ssl=1" alt="One of the earliest-born humans ever to be photographed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +294,6 @@
                 <span class="time">2026-02-02 23:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Amazon_Ring_Lost_dogs-1280x854.jpg" alt="Amazon’s Ring Wants to Wash Away Your Surveillance Concerns With Lost Puppies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ring-wants-to-wash-away-your-surveillance-concerns-with-lost-puppies-2000716802" target="_blank">Amazon’s Ring Wants to Wash Away Your Surveillance Concerns With Lost Puppies</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-02 22:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 11:10 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 12:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
