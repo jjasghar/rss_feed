@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 09:09:40 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-03 10:10:04 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 09:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 10:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/3/why-is-benzemas-al-hilal-transfer-linked-to-ronaldo?traffic_source=rss" target="_blank">Why is Benzema’s Al Hilal transfer linked to Ronaldo?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-03 09:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/3/moscow-confirms-russian-forces-helped-repel-isil-attack-on-niger-airport?traffic_source=rss" target="_blank">Moscow confirms Russian forces helped repel ISIL attack on Niger airport</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-03 04:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/clinton-gty-er-260202_1770068709274_hpMain_4x3t_384.jpg" alt="Comer reconsiders contempt resolutions after Clintons agree to sit for depositions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/clintons-agree-give-depositions-house-oversight-committee-epstein/story?id=129785193" target="_blank">Comer reconsiders contempt resolutions after Clintons agree to sit for depositions</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-03 02:25</span>
             </div>
         </div>
 </div>
@@ -164,6 +159,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/aws-iot-greengrass-comes-to-ubuntu-core" target="_blank">AWS IoT Greengrass comes to Ubuntu Core</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-02-03 09:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/" target="_blank">What&#x27;s up with all those equals signs anyway?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-03 09:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/articles/skeleton-architecture/en/headerimage/skeleton-architecture-header-1769508521191.jpg" alt="Article: Working with Code Assistants: The Skeleton Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -197,24 +210,6 @@
                 <span class="title"><a href="https://dev.to/muzmatch/afrointroductions-an-honest-look-at-one-of-the-top-african-dating-apps-37ll" target="_blank">AfroIntroductions: An Honest Look at One of the Top African Dating Apps</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-03 07:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/draexx/de-php-a-la-ia-tres-estrategias-para-modernizar-sistemas-legacy-sin-morir-en-el-intento-3l3g" target="_blank">De PHP a la IA: Tres Estrategias para Modernizar Sistemas Legacy Sin Morir en el Intento</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-03 06:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flz6wumc4n5xxgzt3ojng.jpg" alt="Beyond Chatbots: Building Task-Driven Agentic Interfaces in Google Workspace with A2UI and Gemini" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gde/beyond-chatbots-building-task-driven-agentic-interfaces-in-google-workspace-with-a2ui-and-gemini-c2d" target="_blank">Beyond Chatbots: Building Task-Driven Agentic Interfaces in Google Workspace with A2UI and Gemini</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-03 05:07</span>
             </div>
         </div>
 </div>
@@ -327,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 09:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 10:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
