@@ -1,38 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 22:05:25 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-03 23:05:40 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 22:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 23:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/3/who-was-libyas-saif-al-islam-gaddafi?traffic_source=rss" target="_blank">Who was Libya’s Saif al-Islam Gaddafi?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-03 22:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +107,29 @@
                 <span class="time">2026-02-03 19:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-putin-epstein_7154740.jpg?20260203183022" alt="&#x27;I still would like to meet Putin&#x27;: Epstein&#x27;s unrequited love for Russian leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/i-still-would-like-to-meet-putin-epsteins-unrequited-love-for-russian-leader-13502862" target="_blank">&#x27;I still would like to meet Putin&#x27;: Epstein&#x27;s unrequited love for Russian leader</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-03 19:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/monarch1-500x500.jpg" alt="Meet the new tentacled Titan X in Monarch: Legacy of Monsters S2 trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/02/meet-the-new-tentacled-titan-x-in-monarch-legacy-of-monsters-s2-trailer/" target="_blank">Meet the new tentacled Titan X in Monarch: Legacy of Monsters S2 trailer</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-03 22:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/03/minnesota-tech-community-founders-investors-ice-response/" target="_blank">The Minneapolis tech community holds strong during ‘tense and difficult time’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-03 22:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +166,29 @@
                 <span class="time">2026-02-03 21:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/02/Elon-Musk-X-500x500.jpg" alt="X office raided in France&#x27;s Grok probe; Elon Musk summoned for questioning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/x-office-raided-in-frances-grok-probe-elon-musk-summoned-for-questioning/" target="_blank">X office raided in France&#x27;s Grok probe; Elon Musk summoned for questioning</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-03 20:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing" target="_blank">Microsoft says it’s building an app store for AI content licensing</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-03 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/luciano_brito_289ca39d287/simple-nodejs-project-structure-for-beginners-3bg7" target="_blank">Simple Node.js Project Structure for Beginners</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-03 22:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://dl.acm.org/doi/10.1145/3774934.3786425" target="_blank">FlashAttention-T: Towards Tensorized Attention</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-03 21:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +225,6 @@
                 <span class="time">2026-02-03 18:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/notepad-plus-plus-compromised/" target="_blank">Oh Dear! Notepad++ Was Quietly Compromised for Six Months (But Don&amp;#x27;t Panic Just Yet)</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-03 17:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!djLn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F980b797a-3d2d-43f2-9a0d-2c20069a9f94_1504x530.png" alt="Deepdive: How 10 tech companies choose the next generation of dev tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/measuring-ai-dev-tools" target="_blank">Deepdive: How 10 tech companies choose the next generation of dev tools</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-02-03 17:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Headway-Premium.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Learn on the go with Headway Premium, now $60 for lifetime access!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/03/learn-on-the-go-with-headway-premium-now-60-for-lifetime-access.html" target="_blank">Learn on the go with Headway Premium, now $60 for lifetime access!</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-03 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/shutterstock_2681902813-e1761777398744-1280x852.jpg" alt="All the Messy Drama Between OpenAI and Nvidia, Explained" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +298,6 @@
                 <span class="time">2026-02-03 20:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGJ0A1C2SPDD65H38A3EZ4RG/hero-image.png" alt="That AT&amp;T &#x27;Rewards&#x27; Text Is a Scam" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/that-att-rewards-text-is-a-scam?utm_medium=RSS" target="_blank">That AT&amp;T &#x27;Rewards&#x27; Text Is a Scam</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-03 20:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 22:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 23:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
