@@ -1,43 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 19:16:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-03 20:06:58 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 34 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 19:17 UTC</div>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 20:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/captiol-1-ap-gmh-260130_1769804588122_hpMain_4x3t_384.jpg" alt="House passes funding package to end partial government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/house-hold-votes-funding-end-partial-government-shutdown/story?id=129813498" target="_blank">House passes funding package to end partial government shutdown</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-03 19:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-putin-epstein_7154740.jpg?20260203183022" alt="&#x27;I still would like to meet Putin&#x27;: Epstein&#x27;s unrequited love for Russian leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/i-still-would-like-to-meet-putin-epsteins-unrequited-love-for-russian-leader-13502862" target="_blank">&#x27;I still would like to meet Putin&#x27;: Epstein&#x27;s unrequited love for Russian leader</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-03 19:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,29 +98,29 @@
                 <span class="time">2026-02-03 15:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/03/nx-s1-5696376/lindsey-vonn-will-compete-olympics" target="_blank">Despite a &#x27;ruptured&#x27; knee ligament, Lindsey Vonn says she will compete in the Olympics</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-03 15:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5c4/live/211248f0-00f5-11f1-8067-e14d6844f3f6.jpg" alt="Thousands of Epstein documents taken down after victims identified" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn0k65pnxjxo?at_medium=RSS&at_campaign=rss" target="_blank">Thousands of Epstein documents taken down after victims identified</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-03 15:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing" target="_blank">Microsoft says it’s building an app store for AI content licensing</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-03 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/697ce535e97ad4a83ab638db/master/pass/sec-roundup-lobster-120377151.jpg" alt="I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren&#x27;t Allowed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/i-infiltrated-moltbook-ai-only-social-network/" target="_blank">I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren&#x27;t Allowed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-03 19:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/Xcode-500x500-1770141251.png" alt="Xcode 26.3 adds support for Claude, Codex, and other agentic tools via MCP" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,29 +157,29 @@
                 <span class="time">2026-02-03 14:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/872972/disney-ceo-bob-iger-replacement-josh-damaro" target="_blank">Disney says Josh D&amp;#8217;Amaro will replace Bob Iger as CEO</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-03 14:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/openai-logo-500x500-1741196880.jpg" alt="Senior staff departing OpenAI as firm prioritizes ChatGPT development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/02/senior-staff-departing-openai-as-firm-prioritizes-chatgpt-development/" target="_blank">Senior staff departing OpenAI as firm prioritizes ChatGPT development</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-03 14:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/maureenmuthonihue/ridge-regression-vs-lasso-regression-108c" target="_blank">Ridge Regression vs Lasso Regression</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-03 20:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18878050&w=600" alt="Building a 300 Channel Video Encoding Server" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-a-300-channel-video-encoding-server" target="_blank">Building a 300 Channel Video Encoding Server</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-03 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,24 +216,6 @@
                 <span class="time">2026-02-03 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/octoverse/what-the-fastest-growing-tools-reveal-about-how-software-is-being-built/" target="_blank">What the fastest-growing tools reveal about how software is being built</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-02-03 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://qwen.ai/blog?id=qwen3-coder-next" target="_blank">Qwen3-Coder-Next</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-03 16:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGJB6RQ6TPPSJEGST9HXN22Y/hero-image.png" alt="The Newest Apple Watch Is $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-watch-series-11-sale-february-2026?utm_medium=RSS" target="_blank">The Newest Apple Watch Is $100 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-03 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KGJ9PVE3CB3HF0F0B0PVE9D6/hero-image.png" alt="The Fast-Charging Pixel Watch 4 Is on Sale for $300" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +289,6 @@
                 <span class="time">2026-02-03 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Get-2-Dozen-Farmer.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Get 24 long-stem roses at 75% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/03/get-24-long-stem-roses-at-75-off.html" target="_blank">Get 24 long-stem roses at 75% off</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-03 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 19:17 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 20:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
