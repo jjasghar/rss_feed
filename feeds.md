@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 17:16:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-03 18:13:47 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 17:16 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 18:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +103,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/Xcode-500x500-1770141251.png" alt="Xcode 26.3 adds support for Claude, Codex, and other agentic tools via MCP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/apple/2026/02/xcode-26-3-adds-support-for-claude-codex-and-other-agentic-tools-via-mcp/" target="_blank">Xcode 26.3 adds support for Claude, Codex, and other agentic tools via MCP</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-03 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/03/agentic-coding-comes-to-apples-xcode-26-3-with-agents-from-anthropic-and-openai/" target="_blank">Agentic coding comes to Apple’s Xcode with agents from Anthropic and OpenAI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-03 18:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -141,29 +156,20 @@
                 <span class="time">2026-02-03 14:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6980fd8d992a1d55349a44e4/master/pass/A%20Continuous%20Glucose%20Monitor%20Really%20Can%20Help%20You%20Lose%20Weight.png" alt="A Continuous Glucose Monitor Might Help You Lose Weight (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cgms-really-can-help-you-lose-weight/" target="_blank">A Continuous Glucose Monitor Might Help You Lose Weight (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-03 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/03/indias-supreme-court-to-whatsapp-you-cannot-play-with-the-right-to-privacy/" target="_blank">India’s Supreme Court to WhatsApp: ‘You cannot play with the right to privacy’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-03 12:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-50-Remote-Desktop-HiDPI" target="_blank">GNOME 50 Lands Virtual Monitor / Remote Desktop Improvements - Including HiDPI</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-03 17:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18863702&w=600" alt="Rapid Prototyping for Multimodal AI Agents in Enterprise Collaboration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -171,6 +177,24 @@
                 <span class="title"><a href="https://dzone.com/articles/rapid-prototyping-multimodal-ai-agents-enterprise" target="_blank">Rapid Prototyping for Multimodal AI Agents in Enterprise Collaboration</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-03 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/octoverse/what-the-fastest-growing-tools-reveal-about-how-software-is-being-built/" target="_blank">What the fastest-growing tools reveal about how software is being built</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-02-03 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://qwen.ai/blog?id=qwen3-coder-next" target="_blank">Qwen3-Coder-Next</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-03 16:01</span>
             </div>
         </div>
 <div class="story">
@@ -189,33 +213,6 @@
                 <span class="title"><a href="https://www.djangoproject.com/weblog/2026/feb/03/security-releases/" target="_blank">Django security releases issued: 6.0.2, 5.2.11, and 4.2.28</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-02-03 14:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://agentskills.io/home" target="_blank">Agent Skills</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-03 14:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/codex-agent-loop/en/headerimage/generatedHeaderImage-1769968642754.jpg" alt="OpenAI Begins Article Series on Codex CLI Internals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/codex-agent-loop/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Begins Article Series on Codex CLI Internals</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-03 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/gnu-hurd-progress-report/" target="_blank">36 Years in Making, GNU&amp;#x27;s Very Own Kernel Project Hurd is Anything But Dead</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-03 13:21</span>
             </div>
         </div>
 </div>
@@ -237,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGFF94NBV03CK5FDFS0M095X/hero-image.jpg" alt="15 Shows Like &#x27;The Night Manager&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-shows-like-the-night-manager?utm_medium=RSS" target="_blank">15 Shows Like &#x27;The Night Manager&#x27; You Should Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-03 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Tdiner-e1753471820584.jpg?fit=600%2C340&amp;quality=60&amp;ssl=1" alt="When will Tesla give up on cars?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +288,6 @@
                 <span class="time">2026-02-03 15:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGHYRXHEH8N341QPD56J3HBV/hero-image.png" alt="This Roku Streaming Stick Is a Simple Upgrade, and It’s on Sale for $16 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/roku-streaming-stick-sale-february-2026?utm_medium=RSS" target="_blank">This Roku Streaming Stick Is a Simple Upgrade, and It’s on Sale for $16 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-03 14:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 17:16 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 18:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
