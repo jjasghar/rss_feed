@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 03:46:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-03 04:31:19 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 03:46 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 04:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/3/moscow-confirms-russian-forces-helped-repel-isil-attack-on-niger-airport?traffic_source=rss" target="_blank">Moscow confirms Russian forces helped repel ISIL attack on Niger airport</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-03 04:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cgm4rkn7x7po?at_medium=RSS&at_campaign=rss" target="_blank">Police review misconduct claims after files suggest Mandelson sent government information to Epstein</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-02 22:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260202-tulsi-gabbard-ew-520p-e675b9.jpg" alt="Tulsi Gabbard accused of trying to &#x27;bury&#x27; whistleblower complaint" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/tulsi-gabbard-accused-trying-bury-whistleblower-complaint-rcna257096" target="_blank">Tulsi Gabbard accused of trying to &#x27;bury&#x27; whistleblower complaint</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-02 22:01</span>
             </div>
         </div>
 </div>
@@ -258,6 +258,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/ice-sign.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="ICE claims man in custody shattered his own skull. Sure." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/02/ice-claims-man-in-custody-shattered-his-own-skull-sure.html" target="_blank">ICE claims man in custody shattered his own skull. Sure.</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-03 00:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/shutterstock_1895928394-scaled-e1745938629828.jpg?fit=768%2C535&amp;quality=60&amp;ssl=1" alt="Normalizing surveillance under the banner of helping lost pets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -282,15 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/star-wars-galactic-racer-racing-game-podracing-confirmed-2000665131" target="_blank">Podracing Confirmed For 2026’s Coolest-Looking Star Wars Game</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-02 21:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/elon-musk-nov-19-2025-1280x853.jpg" alt="Elon Musk Is Convinced He Can Turn Low-Earth Orbit Into a Gigantic Data Center" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musk-is-convinced-he-can-turn-low-earth-orbit-into-a-gigantic-data-center-2000716711" target="_blank">Elon Musk Is Convinced He Can Turn Low-Earth Orbit Into a Gigantic Data Center</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-02 17:45</span>
             </div>
         </div>
 </div>
@@ -339,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 03:46 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 04:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
