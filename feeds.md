@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 04:31:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-03 05:21:27 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 04:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 05:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,9 +45,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/3/musk-merges-spacex-and-xai-firms-plans-for-space-based-ai-data-centres?traffic_source=rss" target="_blank">Musk merges SpaceX and xAI firms, plans for space-based AI data centres</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-03 04:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/3/moscow-confirms-russian-forces-helped-repel-isil-attack-on-niger-airport?traffic_source=rss" target="_blank">Moscow confirms Russian forces helped repel ISIL attack on Niger airport</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-03 04:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/clinton-gty-er-260202_1770068709274_hpMain_4x3t_384.jpg" alt="Comer reconsiders contempt resolutions after Clintons agree to sit for depositions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/clintons-agree-give-depositions-house-oversight-committee-epstein/story?id=129785193" target="_blank">Comer reconsiders contempt resolutions after Clintons agree to sit for depositions</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-03 02:25</span>
             </div>
         </div>
 <div class="story">
@@ -82,24 +93,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/congress/clintons-agree-testify-house-epstein-probe-ahead-contempt-vote-rcna257143" target="_blank">Bill and Hillary Clinton agree to testify in House Epstein probe ahead of contempt vote</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-02 23:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/02/israel-agrees-to-limited-reopening-of-rafah-border-crossing-in-gaza" target="_blank">Handful of sick and wounded Palestinians allowed through Rafah crossing on first day</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-02 23:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2173/live/952c7d50-005f-11f1-9972-d3f265c101c6.jpg" alt="Police review misconduct claims after files suggest Mandelson sent government information to Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgm4rkn7x7po?at_medium=RSS&at_campaign=rss" target="_blank">Police review misconduct claims after files suggest Mandelson sent government information to Epstein</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-02 22:25</span>
             </div>
         </div>
 </div>
@@ -167,6 +160,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flz6wumc4n5xxgzt3ojng.jpg" alt="Beyond Chatbots: Building Task-Driven Agentic Interfaces in Google Workspace with A2UI and Gemini" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gde/beyond-chatbots-building-task-driven-agentic-interfaces-in-google-workspace-with-a2ui-and-gemini-c2d" target="_blank">Beyond Chatbots: Building Task-Driven Agentic Interfaces in Google Workspace with A2UI and Gemini</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-03 05:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://krzysztofjankowski.com/floppinux/floppinux-2025.html" target="_blank">Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-03 04:33</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,24 +211,6 @@
                 <span class="title"><a href="https://www.spacex.com/updates#xai-joins-spacex" target="_blank">xAI joins SpaceX</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-02 21:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18861902&w=600" alt="Agentic Commerce: A Developer&#x27;s Guide to Google&#x27;s Universal Commerce Protocol (UCP)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/agentic-commerce-arrives-a-developers-guide-to-goo" target="_blank">Agentic Commerce: A Developer&#x27;s Guide to Google&#x27;s Universal Commerce Protocol (UCP)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-02 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="http://github.com/stelviodev/stelvio" target="_blank">Stelvio: ship Python to AWS</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-02-02 19:56</span>
             </div>
         </div>
 </div>
@@ -325,22 +318,13 @@
                 <span class="time">2026-02-02 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/groundhog_day_meaning.png" alt="Groundhog Day Meaning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3202/" target="_blank">Groundhog Day Meaning</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-02-02 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 04:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 05:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
