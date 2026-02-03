@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 16:14:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-03 17:16:34 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 16:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 17:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +108,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/873142/french-police-raid-x-investigation" target="_blank">French police raid X&amp;#8217;s Paris office as UK investigation continues</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-03 17:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/02/03/peak-xv-says-internal-disagreement-led-to-partner-exits-as-it-doubles-down-on-ai/" target="_blank">Peak XV says internal disagreement led to partner exits as it doubles down on AI</a></span>
                 <span class="feed">TechCrunch</span>
@@ -149,20 +159,20 @@
                 <span class="time">2026-02-03 12:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/moltbook-chest-burster-500x500.jpg" alt="The rise of Moltbook suggests viral AI prompts may be the next big security threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/" target="_blank">The rise of Moltbook suggests viral AI prompts may be the next big security threat</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-03 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18863702&w=600" alt="Rapid Prototyping for Multimodal AI Agents in Enterprise Collaboration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/rapid-prototyping-multimodal-ai-agents-enterprise" target="_blank">Rapid Prototyping for Multimodal AI Agents in Enterprise Collaboration</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-03 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbn8zgdplqu4i065ib9r7.png" alt="What is “Build In Process”?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +218,6 @@
                 <span class="time">2026-02-03 13:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Reverting-SMC-TCP-ULP" target="_blank">Linux Dropping SMC TCP ULP Support For Being &quot;Fundamentally Broken&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-03 13:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,20 +232,29 @@
                 <span class="time">2026-02-03 12:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/" target="_blank">Please Don’t Feed the Scattered Lapsus ShinyHunters</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-02-02 16:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Tdiner-e1753471820584.jpg?fit=600%2C340&amp;quality=60&amp;ssl=1" alt="When will Tesla give up on cars?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/03/when-will-tesla-give-up-on-cars.html" target="_blank">When will Tesla give up on cars?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-03 16:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGGN6JEV2YFTA2NHF8A38B5K/hero-image.png" alt="What People Are Getting Wrong This Week: Will the Midterm Elections Be Canceled?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/will-the-midterm-elections-be-canceled?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: Will the Midterm Elections Be Canceled?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-03 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Get-2-Dozen-Farmer.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Get 24 long-stem roses at 75% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,29 +291,20 @@
                 <span class="time">2026-02-03 14:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/star-wars-the-acolyte-plagueis-1280x853.jpg" alt="One of ‘Star Wars’ Biggest Recent Reveals Was Inspired by ‘Lord of the Rings’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/one-of-star-wars-biggest-recent-reveals-was-inspired-by-lord-of-the-rings-2000717041" target="_blank">One of ‘Star Wars’ Biggest Recent Reveals Was Inspired by ‘Lord of the Rings’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-03 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/GoodOmens_NeilGaiman-1280x853.jpg" alt="Neil Gaiman Denies the Allegations Against Him (Again) While Announcing a New Book" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/neil-gaiman-allegations-new-book-2000716936" target="_blank">Neil Gaiman Denies the Allegations Against Him (Again) While Announcing a New Book</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-03 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1770084952-20260203.png" alt="Saturday Morning Breakfast Cereal - Waste" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/waste" target="_blank">Saturday Morning Breakfast Cereal - Waste</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-02-03 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -313,22 +314,13 @@
                 <span class="time">2026-02-02 21:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1769907157-20260202.png" alt="Saturday Morning Breakfast Cereal - Private" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/private" target="_blank">Saturday Morning Breakfast Cereal - Private</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-02-02 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 16:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 17:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
