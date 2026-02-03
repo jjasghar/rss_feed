@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 15:13:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-03 16:14:15 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 15:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 16:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/captiol-1-ap-gmh-260130_1769804588122_hpMain_4x3t_384.jpg" alt="House to hold votes on funding package to end partial government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/house-hold-votes-funding-end-partial-government-shutdown/story?id=129813498" target="_blank">House to hold votes on funding package to end partial government shutdown</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-03 15:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/03/nx-s1-5696376/lindsey-vonn-will-compete-olympics" target="_blank">Despite a &#x27;ruptured&#x27; knee ligament, Lindsey Vonn says she will compete in the Olympics</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-03 15:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5c4/live/211248f0-00f5-11f1-8067-e14d6844f3f6.jpg" alt="Thousands of Epstein documents taken down after victims identified" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn0k65pnxjxo?at_medium=RSS&at_campaign=rss" target="_blank">Thousands of Epstein documents taken down after victims identified</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-03 15:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,33 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/3/russia-welcomes-infantinos-comments-on-lifting-ban-ukraine-furious?traffic_source=rss" target="_blank">Russia welcomes Infantino’s comments on lifting ban; Ukraine furious</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-03 14:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260203-Josh-DAmaro-rs-6a7fbe.jpg" alt="Disney names parks chief Josh D&#x27;Amaro as its next CEO" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/media/disney-names-parks-chief-josh-damaro-ceo-rcna252573" target="_blank">Disney names parks chief Josh D&#x27;Amaro as its next CEO</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-03 13:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/3/huge-fire-breaks-out-at-tehran-market?traffic_source=rss" target="_blank">Huge fire breaks out at Tehran market</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-03 13:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/03/g-s1-108485/up-first-newsletter-jeffrey-epstein-steve-witkoff-iran-savannah-guthrie-partial-government-shutdown" target="_blank">Takeaways from the latest Epstein files. And, police search for Savannah Guthrie&#x27;s mom</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-03 12:46</span>
             </div>
         </div>
 </div>
@@ -192,6 +191,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/02/codex-agent-loop/en/headerimage/generatedHeaderImage-1769968642754.jpg" alt="OpenAI Begins Article Series on Codex CLI Internals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/codex-agent-loop/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Begins Article Series on Codex CLI Internals</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-03 14:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -207,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Reverting-SMC-TCP-ULP" target="_blank">Linux Dropping SMC TCP ULP Support For Being &quot;Fundamentally Broken&quot;</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-03 13:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1cp0gx91v5yrwrgf09lo.png" alt="The Essence of DDD: A Complete Guide from Philosophy to Mathematics to Engineering Practice—The Theory Part" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/canonical/the-essence-of-ddd-a-complete-guide-from-philosophy-to-mathematics-to-engineering-practice-the-4jfa" target="_blank">The Essence of DDD: A Complete Guide from Philosophy to Mathematics to Engineering Practice—The Theory Part</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-03 13:07</span>
             </div>
         </div>
 </div>
@@ -246,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Get-2-Dozen-Farmer.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Get 24 long-stem roses at 75% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/03/get-24-long-stem-roses-at-75-off.html" target="_blank">Get 24 long-stem roses at 75% off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-03 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/PDPRiffmaster-1280x853.jpg" alt="This RIFFMASTER Wireless Guitar Controller for Xbox Drops to All-Time Low, Officially Licensed by Microsoft" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +299,6 @@
                 <span class="time">2026-02-03 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/2026-02-03-to-the-life.jpeg?fit=1200%2C1404&amp;quality=60&amp;ssl=1" alt="One of the earliest-born humans ever to be photographed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/03/one-of-the-earliest-born-humans-ever-to-be-photographed.html" target="_blank">One of the earliest-born humans ever to be photographed</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-03 08:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 15:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 16:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
