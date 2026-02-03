@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 05:21:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-03 06:13:46 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 05:21 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, February 03, 2026 - 06:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/2/3/jobs-cash-loans-can-bangladeshs-parties-deliver-on-election-promises?traffic_source=rss" target="_blank">Jobs, cash, loans: Can Bangladesh’s parties deliver on election promises?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-03 05:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,21 +91,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/epstein_thumbnail-xq8qc8.jpg" alt="Clintons agree to testify in Epstein investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8334/live/3e863430-00b1-11f1-9972-d3f265c101c6.jpg" alt="Clintons agree to testify on Epstein as vote looms to hold them in contempt of Congress" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/clintons-agree-to-testify-in-epstein-investigation-257043013623" target="_blank">Clintons agree to testify in Epstein investigation</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-03 01:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260202-bill-hillary-clinton-ew-643p-f8d0f8.jpg" alt="Bill and Hillary Clinton agree to testify in House Epstein probe ahead of contempt vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/clintons-agree-testify-house-epstein-probe-ahead-contempt-vote-rcna257143" target="_blank">Bill and Hillary Clinton agree to testify in House Epstein probe ahead of contempt vote</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-02 23:49</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c14r685mne4o?at_medium=RSS&at_campaign=rss" target="_blank">Clintons agree to testify on Epstein as vote looms to hold them in contempt of Congress</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-03 01:27</span>
             </div>
         </div>
 </div>
@@ -160,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/draexx/de-php-a-la-ia-tres-estrategias-para-modernizar-sistemas-legacy-sin-morir-en-el-intento-3l3g" target="_blank">De PHP a la IA: Tres Estrategias para Modernizar Sistemas Legacy Sin Morir en el Intento</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-03 06:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flz6wumc4n5xxgzt3ojng.jpg" alt="Beyond Chatbots: Building Task-Driven Agentic Interfaces in Google Workspace with A2UI and Gemini" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,20 +217,20 @@
                 <span class="time">2026-02-02 22:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.spacex.com/updates#xai-joins-spacex" target="_blank">xAI joins SpaceX</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-02 21:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/" target="_blank">Please Don’t Feed the Scattered Lapsus ShinyHunters</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-02-02 16:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -323,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 05:21 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 106 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 06:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
