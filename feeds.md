@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-04 06:12:21 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-04 07:16:06 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, February 04, 2026 - 06:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, February 04, 2026 - 07:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/4/live-israeli-forces-kill-10-palestinians-in-overnight-attacks-across-gaza?traffic_source=rss" target="_blank">LIVE: Israeli attacks kill 10 Palestinians; restrictions at Rafah crossing</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-04 05:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/ryan-routh-1_1770175267151_hpMain_4x3t_384.jpg" alt="Attempted Trump assassin Ryan Routh to be sentenced Wednesday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,6 +77,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f750/live/7644db30-010e-11f1-bdfd-ed3f5ca8b7fe.jpg" alt="Chris Mason: Mandelson revelations a scandal on another level" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce8erj6z8x5o?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: Mandelson revelations a scandal on another level</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-04 02:14</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
@@ -78,24 +101,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-doubles-suggesting-federal-government-involved-state-elections/story?id=129826521" target="_blank">Trump doubles down on suggesting federal government &#x27;get involved&#x27; in state elections</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-03 23:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/03/nx-s1-5698224/china-electric-car-door-handles" target="_blank">China bans hidden car door handles, which can trap people after crashes</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-03 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/3/collision-between-greek-coast-guard-vessel-migrant-boat-kills-at-least-14?traffic_source=rss" target="_blank">Collision between Greek coastguard vessel, migrant boat kills at least 14</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-03 22:40</span>
             </div>
         </div>
 </div>
@@ -163,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimages.pexels.com%2Fphotos%2F1181675%2Fpexels-photo-1181675.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26w%3D800" alt="Zero-Downtime Deployments: Blue-Green vs Canary Strategies in Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jinpyo181/zero-downtime-deployments-blue-green-vs-canary-strategies-in-production-3e65" target="_blank">Zero-Downtime Deployments: Blue-Green vs Canary Strategies in Production</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-04 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj2vso7uvx6b7t318w28x.png" alt="NotebookLM Enhancer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -175,9 +189,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany" target="_blank">Petition for Recognition of Work on Open-Source as Volunteering in Germany</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-04 04:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.jernesto.com/articles/thinking_hard" target="_blank">I miss thinking hard</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-04 03:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://davidism.com/python-args/" target="_blank">What arguments was Python called with?</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-02-04 03:49</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +219,6 @@
                 <span class="title"><a href="https://dev.to/jubinsoni/aws-bedrock-vs-sagemaker-choosing-the-right-genai-stack-in-2026-k1" target="_blank">AWS Bedrock vs. SageMaker: Choosing the Right GenAI Stack in 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-04 03:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/firefox-ai-features-toggle/" target="_blank">Finally! Firefox Is Getting a Kill Switch for Its (Unwanted) AI Features</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-04 03:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-shadow-name-16j7" target="_blank">The Secret Life of Python: The Shadow Name</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-04 02:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/urunc-For-BSD-Apps-On-Linux" target="_blank">Leveraging urunc For Efficiently Running BSD Applications In Linux Environments</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-04 01:21</span>
             </div>
         </div>
 </div>
@@ -317,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 06:12 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 07:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
