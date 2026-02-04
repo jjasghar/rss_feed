@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-04 10:11:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-04 11:10:06 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, February 04, 2026 - 10:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, February 04, 2026 - 11:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/04/nx-s1-5698264/trump-wyden-van-hollen-tariffs-politically-connected-companies" target="_blank">Trump grants tariff breaks to &#x27;politically connected&#x27; companies, Senate Dems say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-04 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/gorton-and-denton-by-election-tests-labours-grip-on-heartland-voters?traffic_source=rss" target="_blank">Gorton and Denton by-election tests Labour’s grip on heartland voters</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-04 10:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260130-science-protest-aa-1100-eeab67.jpg" alt="Trump tried to gut science research funding. Courts and Congress have rebuffed him." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,39 +87,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63b8/live/57b68600-01a4-11f1-a8b8-bdd2c5f9bcad.jpg" alt="Andrew moves out of Royal Lodge home early after latest Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8e5zgprgn1o?at_medium=RSS&at_campaign=rss" target="_blank">Andrew moves out of Royal Lodge home early after latest Epstein files</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-04 08:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63b8/live/57b68600-01a4-11f1-a8b8-bdd2c5f9bcad.jpg" alt="Andrew moves out of Royal Lodge home after latest Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c8e5zgprgn1o?at_medium=RSS&at_campaign=rss" target="_blank">Andrew moves out of Royal Lodge home after latest Epstein files</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-04 08:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/the-cold-hungry-reality-of-displacement-in-war-torn-sudans-tawila?traffic_source=rss" target="_blank">The cold, hungry reality of displacement in war-torn Sudan’s Tawila</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-04 08:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee26/live/3ec09de0-019d-11f1-a8b8-bdd2c5f9bcad.jpg" alt="Russian attacks on Ukraine energy sites &#x27;particularly depraved&#x27;, UK PM Starmer says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crley6x0dgzo?at_medium=RSS&at_campaign=rss" target="_blank">Russian attacks on Ukraine energy sites &#x27;particularly depraved&#x27;, UK PM Starmer says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-04 08:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/04/nx-s1-5699240/penny-the-doberman-pinscher-wins-the-150th-westminster-dog-show" target="_blank">Penny the Doberman pinscher wins the 150th Westminster dog show</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-04 06:34</span>
             </div>
         </div>
 </div>
@@ -167,6 +169,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi" target="_blank">Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-04 11:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/vercel-agent-skills/en/headerimage/generatedHeaderImage-1770150957298.jpg" alt="Vercel Introduces Skills.sh, an Open Ecosystem for Agent Commands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/vercel-agent-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vercel Introduces Skills.sh, an Open Ecosystem for Agent Commands</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-04 10:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvha5zqc91k5ipjxgnng6.png" alt="SpaceX + xAI: Are We Moving Toward a New Era of AI Infrastructure?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,24 +220,6 @@
                 <span class="title"><a href="https://itsfoss.com/news/vscode-snap-disk-space-issue/" target="_blank">Microsoft&amp;#x27;s VS Code in Ubuntu&amp;#x27;s Snap Format Eats Up Disk Space Like Bloatware Even After Removal</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-02-04 09:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/agent-assisted-intelligent-observability/en/headerimage/header-agent-assisted-intelligent-1769595476571.jpg" alt="Article: From Alert Fatigue to Agent-Assisted Intelligent Observability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/agent-assisted-intelligent-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: From Alert Fatigue to Agent-Assisted Intelligent Observability</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-04 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fethknjkjhitvw928shez.jpg" alt="Securing Sensitive S3 Data: The Problem &amp; The Solution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nghidanh2005/securing-sensitive-s3-data-the-problem-the-solution-1ief" target="_blank">Securing Sensitive S3 Data: The Problem &amp; The Solution</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-04 07:56</span>
             </div>
         </div>
 </div>
@@ -330,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 10:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 11:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
