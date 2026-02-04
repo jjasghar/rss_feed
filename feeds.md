@@ -1,43 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-03 23:05:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-04 00:06:19 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 35 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, February 03, 2026 - 23:05 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, February 04, 2026 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/03/nx-s1-5698224/china-electric-car-door-handles" target="_blank">China bans hidden car door handles, which can trap people after crashes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-03 22:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/3/collision-between-greek-coast-guard-vessel-migrant-boat-kills-at-least-14?traffic_source=rss" target="_blank">Collision between Greek coastguard vessel, migrant boat kills at least 14</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-03 22:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,24 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cre2yqyex4zo?at_medium=RSS&at_campaign=rss" target="_blank">Police investigate Mandelson over claims he leaked information to Epstein</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-03 20:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770146783973_now_daily_b_house_ends_shutdown_260103_1920x1080-c6p2w0.jpg" alt="House votes to end partial government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/house-votes-to-end-partial-government-shutdown-257087045976" target="_blank">House votes to end partial government shutdown</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-03 19:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/captiol-1-ap-gmh-260130_1769804588122_hpMain_4x3t_384.jpg" alt="House passes funding package to end partial government shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/house-hold-votes-funding-end-partial-government-shutdown/story?id=129813498" target="_blank">House passes funding package to end partial government shutdown</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-03 19:24</span>
             </div>
         </div>
 </div>
@@ -193,6 +183,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-DLSS-Blender" target="_blank">NVIDIA DLSS For Blender Under Review But Licensing Concerns Persist</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-03 21:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Fedora-44-Dank-MiracleWM" target="_blank">Dank Fedora MiracleWM &amp; Other Fedora 44 Changes Approved</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-03 20:15</span>
@@ -216,15 +215,6 @@
                 <span class="time">2026-02-03 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alexdesi/63-qas-from-watching-karpathys-llm-tutorial-twice-1pcl" target="_blank">63 Q&amp;As from Watching Karpathy&#x27;s LLM Tutorial Twice</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-03 18:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/spacex-mars-colony-1280x853.jpg" alt="We’re Nowhere Near Ready to Make Babies in Space, Experts Warn" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/were-nowhere-near-ready-to-make-babies-in-space-experts-warn-2000717455" target="_blank">We’re Nowhere Near Ready to Make Babies in Space, Experts Warn</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-04 00:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Headway-Premium.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Learn on the go with Headway Premium, now $60 for lifetime access!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +288,6 @@
                 <span class="time">2026-02-03 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/fortnite-chappell-roan-1280x720.jpg" alt="Chappell Roan Stuns In New Fortnite Skins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/chappell-roan-fortnite-festival-skins-songs-pink-pony-2000665444" target="_blank">Chappell Roan Stuns In New Fortnite Skins</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-03 20:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 23:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
