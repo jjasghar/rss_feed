@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-04 16:12:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-04 17:14:48 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 12 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, February 04, 2026 - 16:12 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, February 04, 2026 - 17:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/04/nx-s1-5699399/savannah-guthrie-mother-nancy-missing-search" target="_blank">Search for Nancy Guthrie, mother of &#x27;Today&#x27; show host Savannah Guthrie, enters 4th day</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-04 16:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/tom-homan-1-gty-gmh-260204_1770214993293_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Feds to &#x27;draw down&#x27; 700 agents, Homan says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,20 +99,29 @@
                 <span class="time">2026-02-04 14:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770215365719_now_brk_homan_drawdown_260204_1920x1080-6w9xu2.jpg" alt="Homan announces withdrawal of 700 immigration agents in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/homan-announces-withdrawal-of-700-immigration-agents-in-minneapolis-257137221963" target="_blank">Homan announces withdrawal of 700 immigration agents in Minneapolis</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-04 14:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/" target="_blank">Roblox’s 4D creation feature is now available in open beta</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-04 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6982c324e10b630c8c03b4a7/master/pass/Review-%20Cozey%20Neptune%20Sofa%20Bed.png" alt="Cozey Neptune Sofa Bed Review: Firm but Flexible" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/cozey-neptune-sofa-bed/" target="_blank">Cozey Neptune Sofa Bed Review: Firm but Flexible</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-04 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/intelstat-500x500.jpg" alt="Russian spy satellites have intercepted EU communications satellites" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +158,47 @@
                 <span class="time">2026-02-04 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/873686/anthropic-claude-ai-ad-free-super-bowl-advert-chatgpt" target="_blank">Anthropic says ‘Claude will remain ad-free,’ unlike ChatGPT</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-04 13:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688d84b8d9571932899b1ffe/master/pass/The%20Best%20Outdoor%20Security%20Cameras.png" alt="9 Best Outdoor Security Cameras (2026): Battery-Powered, LTE, No Subscription" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-outdoor-security-cameras/" target="_blank">9 Best Outdoor Security Cameras (2026): Battery-Powered, LTE, No Subscription</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-04 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/planetargon/ruby-40-and-ruby-box-what-changed-and-how-to-upgrade-safely-24en" target="_blank">Ruby 4.0 and Ruby Box: What Changed and How to Upgrade Safely</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-04 17:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/" target="_blank">Pick your agent: Use Claude and Codex on Agent HQ</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-02-04 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18865767&w=600" alt="Running Granite 4.0-1B Locally on Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/running-granite-40-1b-locally-on-android" target="_blank">Running Granite 4.0-1B Locally on Android</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-04 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/INTELLIJ-IDEA.jpg?resize=406%2C232&amp;ssl=1" alt="JetBrains to Enable Wayland Support in IntelliJ 2026.1" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/intellij-native-wayland-support-2026-1" target="_blank">JetBrains to Enable Wayland Support in IntelliJ 2026.1</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-02-04 16:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18864785&w=600" alt="Semantic Contracts: The Missing Layer Between Good Data and Reliable AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -177,48 +209,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Folwvqdzn2tou6w5vpwsh.png" alt="CLI tool for pulling historical Binance OHLCV data for backtesting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ksi/cli-tool-for-pulling-historical-binance-ohlcv-data-for-backtesting-4oi5" target="_blank">CLI tool for pulling historical Binance OHLCV data for backtesting</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-04 15:04</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/02/04/code-smells-for-ai-agents-q-and-a-with-eno-reyes-of-factory/" target="_blank">Code smells for AI agents: Q&amp;A with Eno Reyes of Factory</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-02-04 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Vulkan-Video-Disable-New" target="_blank">Intel Driver Disabling Vulkan Video Encode On Newer Hardware Due To Insufficient Testing</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-04 14:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/bigquery-data-challenges/en/mediumimage/sarah-usher-medium-1769588023724.jpeg" alt="Presentation: Beyond the Warehouse: Why BigQuery Alone Won’t Solve Your Data Problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/bigquery-data-challenges/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Beyond the Warehouse: Why BigQuery Alone Won’t Solve Your Data Problems</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-04 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/sql-server-2025-on-ubuntu" target="_blank">AI meets SQL Server 2025 on Ubuntu</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-02-04 14:34</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mistral.ai/news/voxtral-transcribe-2" target="_blank">Voxtral Transcribe 2</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-04 15:08</span>
             </div>
         </div>
 </div>
@@ -240,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/texas-chainsaw-massacre-1280x853.jpg" alt="A24 Will Revive ‘Texas Chainsaw Massacre’ With a TV Show and Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a24-will-revive-texas-chainsaw-massacre-with-a-tv-show-and-movie-2000717875" target="_blank">A24 Will Revive ‘Texas Chainsaw Massacre’ With a TV Show and Movie</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-04 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/11/melania-beschizza.jpg?fit=1786%2C1195&amp;quality=60&amp;ssl=1" alt="Amazon pulls rights to Melania film after theater mocks it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/04/amazon-pulls-rights-to-melania-film-after-theater-mocks-it.html" target="_blank">Amazon pulls rights to Melania film after theater mocks it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-04 16:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/XboxGamePassUltimate-1280x853.jpg" alt="Xbox Game Pass Ultimate Sees a Price Cut, Moving Closer to Its Pre-Surge Pricing After Last Year’s 50% Increase" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,29 +290,20 @@
                 <span class="time">2026-02-04 14:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/The-Devil-Wears-Prada-2.jpg?fit=1080%2C618&amp;quality=60&amp;ssl=1" alt="The Devil Wears Prada 2 trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/04/the-devil-wears-prada-2.html" target="_blank">The Devil Wears Prada 2 trailer</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-04 13:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/yachts-1280x853.jpg" alt="Yacht Havers Are Losing Access to Teak Because it Funded Myanmar’s Junta" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/yacht-havers-are-losing-access-to-teak-because-it-funded-myanmars-junta-2000717510" target="_blank">Yacht Havers Are Losing Access to Teak Because it Funded Myanmar’s Junta</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-04 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1770084994-20260204.png" alt="Saturday Morning Breakfast Cereal - Socrates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/socrates" target="_blank">Saturday Morning Breakfast Cereal - Socrates</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-02-04 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -317,22 +322,13 @@
                 <span class="time">2026-02-04 01:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1770084952-20260203.png" alt="Saturday Morning Breakfast Cereal - Waste" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/waste" target="_blank">Saturday Morning Breakfast Cereal - Waste</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-02-03 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 16:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 17:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
