@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-04 22:02:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-04 23:03:36 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
 <!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, February 04, 2026 - 22:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, February 04, 2026 - 23:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/us-supreme-court-rejects-challenge-to-california-redistricting-bid?traffic_source=rss" target="_blank">US Supreme Court rejects challenge to California redistricting effort</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-04 22:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b666/live/8f9fd430-01b9-11f1-8162-915dd1b9ab69.png" alt="MPs back plan to release Mandelson files after Labour anger forces climbdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyw0050p99o?at_medium=RSS&at_campaign=rss" target="_blank">MPs back plan to release Mandelson files after Labour anger forces climbdown</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-04 22:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/04/nx-s1-5699462/judges-accountability-abuse-clerks-judge-mark-wolf" target="_blank">Newly released court records reveal misconduct inquiry into federal judge</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-04 22:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +99,20 @@
                 <span class="time">2026-02-04 20:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/russias-putin-holds-video-call-with-chinas-xi?traffic_source=rss" target="_blank">Russia’s Putin holds video call with China’s Xi</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-04 18:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a32e/live/03c49b20-c092-11f0-ae46-bd64331f0fd4.jpg" alt="Email appears to confirm Andrew and Virginia Giuffre photo is real" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgp2xx7gxjo?at_medium=RSS&at_campaign=rss" target="_blank">Email appears to confirm Andrew and Virginia Giuffre photo is real</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-04 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/04/nx-s1-5691890/supreme-court-california-redistricting-map" target="_blank">The Supreme Court lets California use its new, Democratic-friendly congressional map</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-04 18:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/" target="_blank">Google’s Gemini app has surpassed 750M monthly active users</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-04 22:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -123,6 +132,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/698395e087ec5034b0c0037c/master/pass/Measles-Cases-Leading-to-Encephalitis-Science-1339206252.jpg" alt="Measles Is Causing Brain Swelling in Children in South Carolina" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/measles-is-causing-brain-swelling-in-children-in-south-carolina/" target="_blank">Measles Is Causing Brain Swelling in Children in South Carolina</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-04 21:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -138,24 +156,6 @@
                 <span class="title"><a href="https://arstechnica.com/space/2026/02/us-house-takes-first-step-toward-creating-commercial-deep-space-program/" target="_blank">US House takes first step toward creating &quot;commercial&quot; deep space program</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-02-04 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/2022/6/14/23167853/overwatch-2-activision-blizzard-news" target="_blank">Overwatch: all the news about Blizzard’s hit hero shooter</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-04 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698379d26a7d100f86400338/master/pass/sec-notepad-china-hack-1370233320.jpg" alt="Notepad++ Users, You May Have Been Hacked by China" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/notepad-plus-plus-china-hackers-update-infrastructure/" target="_blank">Notepad++ Users, You May Have Been Hacked by China</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-04 19:52</span>
             </div>
         </div>
 </div>
@@ -246,6 +246,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGN4QAFV887NN8RRT1J7CG7F/hero-image.png" alt="Everyone Can Now Use Alexa+, but the Full Experience Might Cost You" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-much-amazon-alexa-plus-costs?utm_medium=RSS" target="_blank">Everyone Can Now Use Alexa+, but the Full Experience Might Cost You</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-04 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/Anran-1280x720.jpg" alt="Why Blizzard Says It’s Been Making Overwatch Heroes Hotter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/overwatch-heroes-characters-hotter-young-skins-collab-2000665796" target="_blank">Why Blizzard Says It’s Been Making Overwatch Heroes Hotter</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-04 21:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/02/neil-gaiman-shutterstock_1197364363.jpg?fit=1200%2C715&amp;quality=60&amp;ssl=1" alt="Neil Gaiman breaks year-long silence, calls sexual misconduct accusations &quot;completely untrue&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -270,24 +288,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/how-to-avoid-paying-crunchyrolls-recent-price-increase?utm_medium=RSS" target="_blank">How to Avoid Paying Crunchyroll&#x27;s Recent Price Increase</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-04 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/shutterstock_2519492239.jpeg?fit=1080%2C608&amp;quality=60&amp;ssl=1" alt="Israeli cease-fire still involves killing women and children" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/04/israeli-cease-fire-still-involves-killing-women-and-children.html" target="_blank">Israeli cease-fire still involves killing women and children</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-04 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/scarydinoes-1-1280x720.jpg" alt="The Best Jurassic Park Sequel In A Decade Is This Creepy YouTube Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/best-jurassic-park-sequel-in-a-decade-is-this-creepy-youtube-series-jurassic-world-muldoon-2000665737" target="_blank">The Best Jurassic Park Sequel In A Decade Is This Creepy YouTube Series</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-04 19:51</span>
             </div>
         </div>
 </div>
@@ -327,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 41 | 📸 With Images: 270 |
+        🔄 Last Updated: 23:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
