@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-04 11:10:06 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-02-04 12:05:03 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, February 04, 2026 - 11:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, February 04, 2026 - 12:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/gunmen-kill-more-than-30-people-in-nigerias-kwara-state-authorities?traffic_source=rss" target="_blank">Gunmen kill more than 30 people in Nigeria’s Kwara State: Authorities</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-04 11:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +97,20 @@
                 <span class="time">2026-02-04 08:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63b8/live/57b68600-01a4-11f1-a8b8-bdd2c5f9bcad.jpg" alt="Andrew moves out of Royal Lodge home after latest Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8e5zgprgn1o?at_medium=RSS&at_campaign=rss" target="_blank">Andrew moves out of Royal Lodge home after latest Epstein files</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-04 08:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/697a40f01edf527365b8451b/master/pass/012726_Winter-Olympics-Ryan-Cochran-Siegle-SP.jpg" alt="Alpine Skier Ryan Cochran-Siegle’s Starter Pack: Winter Olympics 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ryan-cochran-siegles-starter-pack/" target="_blank">Alpine Skier Ryan Cochran-Siegle’s Starter Pack: Winter Olympics 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-04 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/697d1d239268c2127fc4632b/master/pass/sci-vax-rfkjr-2255115344.jpg" alt="HHS Is Making an AI Tool to Create Hypotheses About Vaccine Injury Claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +156,29 @@
                 <span class="time">2026-02-03 23:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/monarch1-500x500.jpg" alt="Meet the new tentacled Titan X in Monarch: Legacy of Monsters S2 trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/02/meet-the-new-tentacled-titan-x-in-monarch-legacy-of-monsters-s2-trailer/" target="_blank">Meet the new tentacled Titan X in Monarch: Legacy of Monsters S2 trailer</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-03 22:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/micronink/seo-is-dead-long-live-seo-aeo-and-geo-gp9" target="_blank">Exploring the Future of SEO: Insights into AEO and GEO</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-04 11:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LibreOffice-26.2-Released" target="_blank">LibreOffice 26.2 Released With Many Refinements To This Open-Source Office Suite</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-04 11:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +213,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/02/agent-trace-cursor/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Agent Trace: Cursor Proposes an Open Specification for AI Code Attribution</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-02-04 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lilyevesinclair/i-made-my-ai-agent-hire-another-ai-agent-heres-the-code-3ld6" target="_blank">I Made My AI Agent Hire Another AI Agent (Here&#x27;s the Code)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-04 09:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/vscode-snap-disk-space-issue/" target="_blank">Microsoft&amp;#x27;s VS Code in Ubuntu&amp;#x27;s Snap Format Eats Up Disk Space Like Bloatware Even After Removal</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-04 09:04</span>
             </div>
         </div>
 </div>
@@ -332,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 11:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 12:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
