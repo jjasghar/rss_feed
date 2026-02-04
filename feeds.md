@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-04 14:13:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-04 15:12:28 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Generated 14 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, February 04, 2026 - 14:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, February 04, 2026 - 15:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/tom-homan-1-gty-gmh-260204_1770214993293_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Feds to &#x27;draw down&#x27; 700 agents, but 2,000 remain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-alex-pretti-shooting-death-immigration/?id=129787621" target="_blank">Minneapolis live updates: Feds to &#x27;draw down&#x27; 700 agents, but 2,000 remain</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-04 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/libyas-top-prosecutor-launches-probe-into-saif-al-islam-gaddafis-killing?traffic_source=rss" target="_blank">Libya’s top prosecutor launches probe into Saif al-Islam Gaddafi’s killing</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-04 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/04/g-s1-108433/ukraine-kyiv-blackout-russia-energy-attacks-power-outages" target="_blank">Greetings from Kyiv, where candles are the last option during wartime blackouts</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-04 14:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770215365719_now_brk_homan_drawdown_260204_1920x1080-6w9xu2.jpg" alt="Homan announces withdrawal of 700 immigration agents in Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/homan-announces-withdrawal-of-700-immigration-agents-in-minneapolis-257137221963" target="_blank">Homan announces withdrawal of 700 immigration agents in Minneapolis</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-04 14:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Border czar Tom Homan holds news conference in Minneapolis: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -59,42 +102,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/02/04/nx-s1-5698120/westminster-dog-show-penny-doberman-photos" target="_blank">Photos: Scenes from the 150th Westminster Dog Show</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-04 13:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee26/live/3ec09de0-019d-11f1-a8b8-bdd2c5f9bcad.jpg" alt="Thousands without power in freezing Ukraine as renewed Russian strikes continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crley6x0dgzo?at_medium=RSS&at_campaign=rss" target="_blank">Thousands without power in freezing Ukraine as renewed Russian strikes continue</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-04 13:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/digidocs/2026/2/4/aje-onl-digidocs_citizensofnowhere-040226?traffic_source=rss" target="_blank">Citizens of Nowhere: What It Means to Be Stateless in the US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-04 12:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross" target="_blank">Gunmen have killed at least 162 people in west Nigeria attack, says Red Cross</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-04 12:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/gunmen-kill-more-than-30-people-in-nigerias-kwara-state-authorities?traffic_source=rss" target="_blank">Gunmen kill more than 30 people in Nigeria’s Kwara State: Authorities</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-04 11:21</span>
             </div>
         </div>
 </div>
@@ -162,57 +169,57 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm6d6len6fugq7lu2ehkc.png" alt="Build Your Own ChatGPT App (Run It Locally)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Folwvqdzn2tou6w5vpwsh.png" alt="CLI tool for pulling historical Binance OHLCV data for backtesting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/javz/build-your-own-chatgpt-app-run-it-locally-2ehp" target="_blank">Build Your Own ChatGPT App (Run It Locally)</a></span>
+                <span class="title"><a href="https://dev.to/ksi/cli-tool-for-pulling-historical-binance-ohlcv-data-for-backtesting-4oi5" target="_blank">CLI tool for pulling historical Binance OHLCV data for backtesting</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-02-04 14:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18864720&w=600" alt="I Built AIBrowser With Claude Code: A Desktop Version of Manus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-browser-desktop-claude-code" target="_blank">I Built AIBrowser With Claude Code: A Desktop Version of Manus</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-04 13:00</span>
+                <span class="time">2026-02-04 15:04</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/micronink/seo-is-dead-long-live-seo-aeo-and-geo-gp9" target="_blank">Exploring the Future of SEO: Insights into AEO and GEO</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-04 11:53</span>
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/02/04/code-smells-for-ai-agents-q-and-a-with-eno-reyes-of-factory/" target="_blank">Code smells for AI agents: Q&amp;A with Eno Reyes of Factory</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-02-04 15:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LibreOffice-26.2-Released" target="_blank">LibreOffice 26.2 Released With Many Refinements To This Open-Source Office Suite</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Vulkan-Video-Disable-New" target="_blank">Intel Driver Disabling Vulkan Video Encode On Newer Hardware Due To Insufficient Testing</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-02-04 11:15</span>
+                <span class="time">2026-02-04 14:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/bigquery-data-challenges/en/mediumimage/sarah-usher-medium-1769588023724.jpeg" alt="Presentation: Beyond the Warehouse: Why BigQuery Alone Won’t Solve Your Data Problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/bigquery-data-challenges/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Beyond the Warehouse: Why BigQuery Alone Won’t Solve Your Data Problems</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-04 14:48</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi" target="_blank">Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-04 11:05</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/" target="_blank">FBI couldn&#x27;t get into WaPo reporter&#x27;s iPhone because Lockdown Mode enabled</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-04 14:31</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2026/02/vercel-agent-skills/en/headerimage/generatedHeaderImage-1770150957298.jpg" alt="Vercel Introduces Skills.sh, an Open Ecosystem for Agent Commands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm6d6len6fugq7lu2ehkc.png" alt="Build Your Own ChatGPT App (Run It Locally)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/vercel-agent-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vercel Introduces Skills.sh, an Open Ecosystem for Agent Commands</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-04 10:28</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/javz/build-your-own-chatgpt-app-run-it-locally-2ehp" target="_blank">Build Your Own ChatGPT App (Run It Locally)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-04 14:07</span>
             </div>
         </div>
 </div>
@@ -235,12 +242,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/kpop-demon-hunters-rumi-zoey-mira-1280x853.jpg" alt="‘KPop Demon Hunters’ Adds Lego Sets to Its Pop Culture Takeover" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lego-kpop-demon-hunters-teaser-release-date-2000717836" target="_blank">‘KPop Demon Hunters’ Adds Lego Sets to Its Pop Culture Takeover</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-04 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/07/11c603a86bfc568abcfc05e64f986cec-1280x720.jpg" alt="There’s A New Nintendo Direct Just In Time For Switch 2’s Momentum To Snowball" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/nintendo-direct-showcase-february-date-when-where-watch-2000665691" target="_blank">There’s A New Nintendo Direct Just In Time For Switch 2’s Momentum To Snowball</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-04 14:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/The-Devil-Wears-Prada-2.jpg?fit=1080%2C618&amp;quality=60&amp;ssl=1" alt="The Devil Wears Prada 2 trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/04/the-devil-wears-prada-2.html" target="_blank">The Devil Wears Prada 2 trailer</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-04 13:11</span>
             </div>
         </div>
 <div class="story">
@@ -268,24 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/not-so-fast-google-that-lenient-monopoly-ruling-from-last-year-is-being-appealed-2000717092" target="_blank">Not So Fast, Google: That Lenient Monopoly Ruling from Last Year Is Being Appealed</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-04 00:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/ashes-of-creation-1280x729.jpg" alt="Ashes Of Creation Dev Details $3.2 Million Kickstarter Studio’s Shocking Collapse: ‘None Of Us Are Receiving Our Final Paychecks’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ashes-creation-steam-layoff-refund-mmo-intrepid-2000665498" target="_blank">Ashes Of Creation Dev Details $3.2 Million Kickstarter Studio’s Shocking Collapse: ‘None Of Us Are Receiving Our Final Paychecks’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-04 00:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/spacex-mars-colony-1280x853.jpg" alt="We’re Nowhere Near Ready to Make Babies in Space, Experts Warn" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/were-nowhere-near-ready-to-make-babies-in-space-experts-warn-2000717455" target="_blank">We’re Nowhere Near Ready to Make Babies in Space, Experts Warn</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-04 00:01</span>
             </div>
         </div>
 </div>
@@ -325,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 14:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 15:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
