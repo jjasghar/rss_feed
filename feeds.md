@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-04 15:12:28 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-04 16:12:21 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 31 feeds processed -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, February 04, 2026 - 15:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, February 04, 2026 - 16:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/tom-homan-1-gty-gmh-260204_1770214993293_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Feds to &#x27;draw down&#x27; 700 agents, Homan says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-alex-pretti-shooting-death-immigration/?id=129787621" target="_blank">Minneapolis live updates: Feds to &#x27;draw down&#x27; 700 agents, Homan says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-04 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross" target="_blank">Gunmen have killed 162 people in west Nigeria attack, says Red Cross official</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-04 15:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/tom-homan-1-gty-gmh-260204_1770214993293_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Feds to &#x27;draw down&#x27; 700 agents, but 2,000 remain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,29 +103,20 @@
                 <span class="time">2026-02-04 14:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Border czar Tom Homan holds news conference in Minneapolis: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Border czar Tom Homan holds news conference in Minneapolis: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-04 13:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/02/04/nx-s1-5698120/westminster-dog-show-penny-doberman-photos" target="_blank">Photos: Scenes from the 150th Westminster Dog Show</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-04 13:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/intelstat-500x500.jpg" alt="Russian spy satellites have intercepted EU communications satellites" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/02/russian-spy-satellites-have-intercepted-eu-communications-satellites/" target="_blank">Russian spy satellites have intercepted EU communications satellites</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-04 15:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6982abeb87bf0631ca97ab41/master/pass/lg-ms-microsite-2026-ces-micro-rgb-evo-04-rgb-primary-color-ultra-d.jpeg" alt="What Is RGB LED TV? Everything You Need to Know About This Next-Gen TV Tech In 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +162,20 @@
                 <span class="time">2026-02-04 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/lee-romance-violence-anything-500x500.jpg" alt="So yeah, I vibe-coded a log colorizer—and I feel good about it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/" target="_blank">So yeah, I vibe-coded a log colorizer—and I feel good about it</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-04 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18864785&w=600" alt="Semantic Contracts: The Missing Layer Between Good Data and Reliable AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/semantic-contracts-the-missing-layer-between-good" target="_blank">Semantic Contracts: The Missing Layer Between Good Data and Reliable AI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-04 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Folwvqdzn2tou6w5vpwsh.png" alt="CLI tool for pulling historical Binance OHLCV data for backtesting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,19 +215,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/" target="_blank">FBI couldn&#x27;t get into WaPo reporter&#x27;s iPhone because Lockdown Mode enabled</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-04 14:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm6d6len6fugq7lu2ehkc.png" alt="Build Your Own ChatGPT App (Run It Locally)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/javz/build-your-own-chatgpt-app-run-it-locally-2ehp" target="_blank">Build Your Own ChatGPT App (Run It Locally)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-04 14:07</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/sql-server-2025-on-ubuntu" target="_blank">AI meets SQL Server 2025 on Ubuntu</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-02-04 14:34</span>
             </div>
         </div>
 </div>
@@ -241,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/XboxGamePassUltimate-1280x853.jpg" alt="Xbox Game Pass Ultimate Sees a Price Cut, Moving Closer to Its Pre-Surge Pricing After Last Year’s 50% Increase" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-game-pass-ultimate-sees-a-price-cut-moving-closer-to-its-pre-surge-pricing-after-last-years-50-increase-2000665433" target="_blank">Xbox Game Pass Ultimate Sees a Price Cut, Moving Closer to Its Pre-Surge Pricing After Last Year’s 50% Increase</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-04 16:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGMHRV4JNQKD2BTMKQC6CXFM/hero-image.png" alt="These Bowers &amp; Wilkins Bluetooth Headphones Are on Sale for $99" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/bowers-and-wilkins-px7-s2-bluetooth-headphones-sale-february-2026?utm_medium=RSS" target="_blank">These Bowers &amp; Wilkins Bluetooth Headphones Are on Sale for $99</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-04 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/kpop-demon-hunters-rumi-zoey-mira-1280x853.jpg" alt="‘KPop Demon Hunters’ Adds Lego Sets to Its Pop Culture Takeover" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +292,6 @@
                 <span class="title"><a href="https://gizmodo.com/yacht-havers-are-losing-access-to-teak-because-it-funded-myanmars-junta-2000717510" target="_blank">Yacht Havers Are Losing Access to Teak Because it Funded Myanmar’s Junta</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-04 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/falllout-1280x720.jpg" alt="Fallout Season 2 Finale Teases New Location And Something Big" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fallout-season-2-finale-teases-new-location-and-something-big-liberty-prime-colorado-2000665525" target="_blank">Fallout Season 2 Finale Teases New Location And Something Big</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-04 04:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/sundar-1280x854.jpg" alt="Not So Fast, Google: That Lenient Monopoly Ruling from Last Year Is Being Appealed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/not-so-fast-google-that-lenient-monopoly-ruling-from-last-year-is-being-appealed-2000717092" target="_blank">Not So Fast, Google: That Lenient Monopoly Ruling from Last Year Is Being Appealed</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-04 00:59</span>
             </div>
         </div>
 </div>
@@ -332,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 15:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 16:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
