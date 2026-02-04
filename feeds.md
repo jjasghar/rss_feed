@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-04 07:16:06 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-04 08:07:20 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, February 04, 2026 - 07:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, February 04, 2026 - 08:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -127,6 +125,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2259767834-500x500.jpg" alt="Netflix says users can cancel service if HBO Max merger makes it too expensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/netflix-claims-subscribers-will-get-more-content-for-less-if-it-buys-hbo-max/" target="_blank">Netflix says users can cancel service if HBO Max merger makes it too expensive</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-03 23:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/monarch1-500x500.jpg" alt="Meet the new tentacled Titan X in Monarch: Legacy of Monsters S2 trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -153,20 +160,20 @@
                 <span class="time">2026-02-03 21:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697b9cb45e7ff27e27dc8abe/master/pass/Intimate-Animal-Book-Q-A-Culture-2155523412.jpg" alt="An ‘Intimacy Crisis’ Is Driving the Dating Divide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/justin-garcia-the-intimate-animal-sex-and-relationships/" target="_blank">An ‘Intimacy Crisis’ Is Driving the Dating Divide</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-03 21:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fethknjkjhitvw928shez.jpg" alt="Securing Sensitive S3 Data: The Problem &amp; The Solution" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nghidanh2005/securing-sensitive-s3-data-the-problem-the-solution-1ief" target="_blank">Securing Sensitive S3 Data: The Problem &amp; The Solution</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-04 07:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimages.pexels.com%2Fphotos%2F1181675%2Fpexels-photo-1181675.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26w%3D800" alt="Zero-Downtime Deployments: Blue-Green vs Canary Strategies in Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +217,6 @@
                 <span class="title"><a href="https://davidism.com/python-args/" target="_blank">What arguments was Python called with?</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-02-04 03:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu5jsohmoss14yldl349d.png" alt="AWS Bedrock vs. SageMaker: Choosing the Right GenAI Stack in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jubinsoni/aws-bedrock-vs-sagemaker-choosing-the-right-genai-stack-in-2026-k1" target="_blank">AWS Bedrock vs. SageMaker: Choosing the Right GenAI Stack in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-04 03:41</span>
             </div>
         </div>
 </div>
@@ -322,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 07:16 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 08:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
