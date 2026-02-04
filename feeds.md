@@ -1,33 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-02-04 00:06:19 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-04 01:30:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, February 04, 2026 - 00:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, February 04, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-6-ap-gmh-260203_1770155067321_hpMain_4x3t_384.jpg" alt="Trump doubles down on suggesting federal government &#x27;get involved&#x27; in state elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-doubles-suggesting-federal-government-involved-state-elections/story?id=129826521" target="_blank">Trump doubles down on suggesting federal government &#x27;get involved&#x27; in state elections</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-03 23:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +107,29 @@
                 <span class="time">2026-02-03 20:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63c2/live/8677c420-010b-11f1-87ac-6bcb44a3becd.jpg" alt="Police investigate Mandelson over claims he leaked information to Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cre2yqyex4zo?at_medium=RSS&at_campaign=rss" target="_blank">Police investigate Mandelson over claims he leaked information to Epstein</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-03 20:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/873621/adobe-animate-maintenance-mode-reverse-course" target="_blank">Adobe actually won’t discontinue Animate</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-04 01:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/03/epstein-linked-longevity-guru-peter-attia-leaves-david-protein-and-his-own-startup-wont-comment/" target="_blank">Epstein-linked longevity guru Peter Attia leaves David Protein, and his own startup ‘won’t comment’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-04 00:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/monarch1-500x500.jpg" alt="Meet the new tentacled Titan X in Monarch: Legacy of Monsters S2 trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,30 +158,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2211793949-500x500.jpg" alt="Newborn dies after mother drinks raw milk during pregnancy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media.wired.com/photos/697b9cb45e7ff27e27dc8abe/master/pass/Intimate-Animal-Book-Q-A-Culture-2155523412.jpg" alt="An ‘Intimacy Crisis’ Is Driving the Dating Divide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/02/newborns-death-spurs-raw-milk-warning-in-new-mexico/" target="_blank">Newborn dies after mother drinks raw milk during pregnancy</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-03 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/" target="_blank">Intel will start making GPUs, a market dominated by Nvidia</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-03 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/873203/elon-musk-spacex-xai-merge-data-centers-space-tesla-ipo" target="_blank">Elon Musk is merging SpaceX and xAI to build data centers in space — or so he says</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-03 21:01</span>
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/justin-garcia-the-intimate-animal-sex-and-relationships/" target="_blank">An ‘Intimacy Crisis’ Is Driving the Dating Divide</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-03 21:46</span>
             </div>
         </div>
 </div>
@@ -161,6 +171,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kphere/fluentvalidation-in-aspnet-core-why-one-validator-per-request-is-the-real-best-practice-18m4" target="_blank">FluentValidation in ASP.NET Core: Why One Validator per Request Is the Real Best Practice</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-04 01:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/02/gnome-papers-ink-text-annotations.webp?resize=406%2C232&amp;ssl=1" alt="Papers adds handwriting &amp; text annotations in latest Nightly builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/papers-gnome-app-annotations-signature" target="_blank">Papers adds handwriting &amp; text annotations in latest Nightly builds</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-02-04 00:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +225,6 @@
                 <span class="time">2026-02-03 20:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maureenmuthonihue/ridge-regression-vs-lasso-regression-108c" target="_blank">Ridge Regression vs Lasso Regression</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-03 20:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18878050&w=600" alt="Building a 300 Channel Video Encoding Server" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-a-300-channel-video-encoding-server" target="_blank">Building a 300 Channel Video Encoding Server</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-03 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,12 +245,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/sundar-1280x854.jpg" alt="Not So Fast, Google: That Lenient Monopoly Ruling from Last Year Is Being Appealed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/not-so-fast-google-that-lenient-monopoly-ruling-from-last-year-is-being-appealed-2000717092" target="_blank">Not So Fast, Google: That Lenient Monopoly Ruling from Last Year Is Being Appealed</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-04 00:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/ashes-of-creation-1280x729.jpg" alt="Ashes Of Creation Dev Details $3.2 Million Kickstarter Studio’s Shocking Collapse: ‘None Of Us Are Receiving Our Final Paychecks’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ashes-creation-steam-layoff-refund-mmo-intrepid-2000665498" target="_blank">Ashes Of Creation Dev Details $3.2 Million Kickstarter Studio’s Shocking Collapse: ‘None Of Us Are Receiving Our Final Paychecks’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-04 00:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/spacex-mars-colony-1280x853.jpg" alt="We’re Nowhere Near Ready to Make Babies in Space, Experts Warn" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/were-nowhere-near-ready-to-make-babies-in-space-experts-warn-2000717455" target="_blank">We’re Nowhere Near Ready to Make Babies in Space, Experts Warn</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-04 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-03 23:57</span>
             </div>
         </div>
 <div class="story">
@@ -261,38 +298,20 @@
                 <span class="time">2026-02-03 21:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGJJJB0HWW2DESVY1W0NB3BQ/hero-image.png" alt="YouTube Just Blocked This Popular Hack for Free Background Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/youtube-just-blocked-this-popular-hack-for-background-play?utm_medium=RSS" target="_blank">YouTube Just Blocked This Popular Hack for Free Background Play</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-03 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Melinda-Gates-on-NPR.jpg?fit=1080%2C556&amp;quality=60&amp;ssl=1" alt="Melinda Gates ended marriage with Bill Gates over Epstein allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/03/melinda-gates-ended-marriage-with-bill-gates-over-epstein-allegations.html" target="_blank">Melinda Gates ended marriage with Bill Gates over Epstein allegations</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-03 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1280x853.jpg" alt="Sam Altman Expects to Get What He Wants" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sam-altman-expects-to-get-what-he-wants-2000717277" target="_blank">Sam Altman Expects to Get What He Wants</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-03 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5757.png" alt="Comics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5757" target="_blank">Comics</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-02-04 01:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1770084952-20260203.png" alt="Saturday Morning Breakfast Cereal - Waste" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -307,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 00:06 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
