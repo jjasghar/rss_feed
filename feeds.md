@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-04 09:11:52 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-04 10:11:30 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, February 04, 2026 - 09:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, February 04, 2026 - 10:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260130-science-protest-aa-1100-eeab67.jpg" alt="Trump tried to gut science research funding. Courts and Congress have rebuffed him." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/science/science-news/trump-science-research-funding-cuts-congress-rebuffed-rcna256793" target="_blank">Trump tried to gut science research funding. Courts and Congress have rebuffed him.</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-04 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/04/nx-s1-5689900/2026-winter-olympics-how-to-watch" target="_blank">The Winter Olympics are upon us. Here&#x27;s how to follow along</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-04 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63b8/live/57b68600-01a4-11f1-a8b8-bdd2c5f9bcad.jpg" alt="Andrew moves out of Royal Lodge home after latest Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8e5zgprgn1o?at_medium=RSS&at_campaign=rss" target="_blank">Andrew moves out of Royal Lodge home after latest Epstein files</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-04 08:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +102,20 @@
                 <span class="time">2026-02-04 06:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/4/live-israeli-forces-kill-10-palestinians-in-overnight-attacks-across-gaza?traffic_source=rss" target="_blank">LIVE: Israeli attacks kill 10 Palestinians; restrictions at Rafah crossing</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-04 05:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/ryan-routh-1_1770175267151_hpMain_4x3t_384.jpg" alt="Attempted Trump assassin Ryan Routh to be sentenced Wednesday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/attempted-trump-assassin-ryan-routh-sentenced-wednesday/story?id=129836439" target="_blank">Attempted Trump assassin Ryan Routh to be sentenced Wednesday</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-04 05:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/bus-crashes-in-brazils-alagoas-state-killing-at-least-16-people?traffic_source=rss" target="_blank">Bus crashes in Brazil’s Alagoas state, killing at least 16 people</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-04 02:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/697d1d239268c2127fc4632b/master/pass/sci-vax-rfkjr-2255115344.jpg" alt="HHS Is Making an AI Tool to Create Hypotheses About Vaccine Injury Claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hhs-is-making-an-ai-tool-to-create-hypotheses-about-vaccine-injury-claims/" target="_blank">HHS Is Making an AI Tool to Create Hypotheses About Vaccine Injury Claims</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-04 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +161,29 @@
                 <span class="time">2026-02-03 22:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/03/minnesota-tech-community-founders-investors-ice-response/" target="_blank">The Minneapolis tech community holds strong during ‘tense and difficult time’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-03 22:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvha5zqc91k5ipjxgnng6.png" alt="SpaceX + xAI: Are We Moving Toward a New Era of AI Infrastructure?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/simran_sinha/spacex-xai-are-we-moving-toward-a-new-era-of-ai-infrastructure-3h90" target="_blank">SpaceX + xAI: Are We Moving Toward a New Era of AI Infrastructure?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-04 10:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/agent-trace-cursor/en/headerimage/generatedHeaderImage-1770057033303.jpg" alt="Agent Trace: Cursor Proposes an Open Specification for AI Code Attribution" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/agent-trace-cursor/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Agent Trace: Cursor Proposes an Open Specification for AI Code Attribution</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-04 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -173,6 +191,15 @@
                 <span class="title"><a href="https://dev.to/lilyevesinclair/i-made-my-ai-agent-hire-another-ai-agent-heres-the-code-3ld6" target="_blank">I Made My AI Agent Hire Another AI Agent (Here&#x27;s the Code)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-04 09:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/vscode-snap-disk-space-issue/" target="_blank">Microsoft&amp;#x27;s VS Code in Ubuntu&amp;#x27;s Snap Format Eats Up Disk Space Like Bloatware Even After Removal</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-04 09:04</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +218,6 @@
                 <span class="title"><a href="https://dev.to/nghidanh2005/securing-sensitive-s3-data-the-problem-the-solution-1ief" target="_blank">Securing Sensitive S3 Data: The Problem &amp; The Solution</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-04 07:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-skull"></span>
-                <span class="title"><a href="https://blog.codinghorror.com/launching-the-rural-guaranteed-minimum-income-initiative/" target="_blank">Launching The Rural Guaranteed Minimum Income Initiative</a></span>
-                <span class="feed">Coding Horror</span>
-                <span class="time">2026-02-04 07:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimages.pexels.com%2Fphotos%2F1181675%2Fpexels-photo-1181675.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26w%3D800" alt="Zero-Downtime Deployments: Blue-Green vs Canary Strategies in Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jinpyo181/zero-downtime-deployments-blue-green-vs-canary-strategies-in-production-3e65" target="_blank">Zero-Downtime Deployments: Blue-Green vs Canary Strategies in Production</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-04 07:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj2vso7uvx6b7t318w28x.png" alt="NotebookLM Enhancer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cgcm070/notebooklm-enhancer-2pdb" target="_blank">NotebookLM Enhancer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-04 05:09</span>
             </div>
         </div>
 </div>
@@ -239,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/yachts-1280x853.jpg" alt="Yacht Havers Are Losing Access to Teak Because it Funded Myanmar’s Junta" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/yacht-havers-are-losing-access-to-teak-because-it-funded-myanmars-junta-2000717510" target="_blank">Yacht Havers Are Losing Access to Teak Because it Funded Myanmar’s Junta</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-04 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/falllout-1280x720.jpg" alt="Fallout Season 2 Finale Teases New Location And Something Big" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,20 +293,20 @@
                 <span class="time">2026-02-03 23:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Headway-Premium.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Learn on the go with Headway Premium, now $60 for lifetime access!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/03/learn-on-the-go-with-headway-premium-now-60-for-lifetime-access.html" target="_blank">Learn on the go with Headway Premium, now $60 for lifetime access!</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-03 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/02/04/liver-me-timbers" target="_blank">Liver Me Timbers</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-02-04 08:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5757.png" alt="Comics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -321,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 09:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 10:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
