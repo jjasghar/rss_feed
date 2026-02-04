@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-04 18:11:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-04 19:14:32 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, February 04, 2026 - 18:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, February 04, 2026 - 19:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/russias-putin-holds-video-call-with-chinas-xi?traffic_source=rss" target="_blank">Russia’s Putin holds video call with China’s Xi</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-04 18:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a32e/live/03c49b20-c092-11f0-ae46-bd64331f0fd4.jpg" alt="Email appears to confirm Andrew and Virginia Giuffre photo is real" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgp2xx7gxjo?at_medium=RSS&at_campaign=rss" target="_blank">Email appears to confirm Andrew and Virginia Giuffre photo is real</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-04 18:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +96,20 @@
                 <span class="time">2026-02-04 15:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/tom-homan-1-gty-gmh-260204_1770214993293_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Feds to &#x27;draw down&#x27; 700 agents, but 2,000 remain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-alex-pretti-shooting-death-immigration/?id=129787621" target="_blank">Minneapolis live updates: Feds to &#x27;draw down&#x27; 700 agents, but 2,000 remain</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-04 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/libyas-top-prosecutor-launches-probe-into-saif-al-islam-gaddafis-killing?traffic_source=rss" target="_blank">Libya’s top prosecutor launches probe into Saif al-Islam Gaddafi’s killing</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-04 14:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/edward-markey-500x500.jpg" alt="&quot;Capture it all&quot;: ICE urged to explain memo about collecting info on protesters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/capture-it-all-ice-urged-to-explain-memo-about-collecting-info-on-protesters/" target="_blank">&quot;Capture it all&quot;: ICE urged to explain memo about collecting info on protesters</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-04 18:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +155,29 @@
                 <span class="time">2026-02-04 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/04/snak-venture-partners-raises-50m-fund-to-back-digitizing-marketplaces/" target="_blank">SNAK Venture Partners raises $50M fund to back vertical marketplaces</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-04 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj889xg312xb6lvxhpnju.png" alt="Introducing gdpr-safe-rag: Build GDPR-Compliant RAG Systems in Minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/charles_nwankpa/introducing-gdpr-safe-rag-build-gdpr-compliant-rag-systems-in-minutes-4ap4" target="_blank">Introducing gdpr-safe-rag: Build GDPR-Compliant RAG Systems in Minutes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-04 19:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18866202&w=600" alt="UX Research in the Age of AI: From Validation to Anticipation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ux-research-in-the-age-of-ai-from-validation-to-an" target="_blank">UX Research in the Age of AI: From Validation to Anticipation</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-04 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +214,6 @@
                 <span class="time">2026-02-04 17:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/" target="_blank">Pick your agent: Use Claude and Codex on Agent HQ</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-02-04 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18865767&w=600" alt="Running Granite 4.0-1B Locally on Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/running-granite-40-1b-locally-on-android" target="_blank">Running Granite 4.0-1B Locally on Android</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-04 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/musk4-e1770231193875.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="For some reason Elon Musk confuses child safety laws with personal persecution" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/04/for-some-reason-elon-musk-confuses-child-safety-laws-with-personal-persecution.html" target="_blank">For some reason Elon Musk confuses child safety laws with personal persecution</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-04 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGMMPVEZFM7DKTTJKMN87BJ9/hero-image.png" alt="Samsung Has Killed Software Support for Most of the Galaxy S21 Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-has-killed-software-support-for-the-galaxy-s21-series?utm_medium=RSS" target="_blank">Samsung Has Killed Software Support for Most of the Galaxy S21 Series</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-04 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/rock-blobs-gravity-1280x853.jpg" alt="Enormous Pair of Deep-Earth Hot ‘Blobs’ Shape Earth’s Magnetic Field, Scientists Say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +285,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/04/amazon-pulls-rights-to-melania-film-after-theater-mocks-it.html" target="_blank">Amazon pulls rights to Melania film after theater mocks it</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-04 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/XboxGamePassUltimate-1280x853.jpg" alt="Xbox Game Pass Ultimate Sees a Price Cut, Moving Closer to Its Pre-Surge Pricing After Last Year’s 50% Increase" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-game-pass-ultimate-sees-a-price-cut-moving-closer-to-its-pre-surge-pricing-after-last-years-50-increase-2000665433" target="_blank">Xbox Game Pass Ultimate Sees a Price Cut, Moving Closer to Its Pre-Surge Pricing After Last Year’s 50% Increase</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-04 16:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGMHRV4JNQKD2BTMKQC6CXFM/hero-image.png" alt="These Bowers &amp; Wilkins Bluetooth Headphones Are on Sale for $99" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/bowers-and-wilkins-px7-s2-bluetooth-headphones-sale-february-2026?utm_medium=RSS" target="_blank">These Bowers &amp; Wilkins Bluetooth Headphones Are on Sale for $99</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-04 15:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 18:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 19:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
