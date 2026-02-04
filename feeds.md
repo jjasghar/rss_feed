@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-04 21:06:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-04 22:02:24 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, February 04, 2026 - 21:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, February 04, 2026 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/2/4/return-through-rafah-palestinian-women-describe-israeli-interrogation?traffic_source=rss" target="_blank">Return through Rafah: Palestinian women recount Israeli interrogation</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-04 21:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/04/nx-s1-5697392/moltbook-social-media-ai-agents" target="_blank">Moltbook is the newest social media platform — but it&#x27;s just for AI bots</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-04 21:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-9-ap-gmh-260130_1769795314689_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Trump says admin could use a &#x27;softer touch&#x27; on immigration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +99,29 @@
                 <span class="time">2026-02-04 18:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/tm-sot1-minn-yqpb2s.jpg" alt="Trump says he learned from Minneapolis: ‘Maybe we can use a little bit of a softer touch’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-says-he-learned-from-minneapolis-maybe-we-can-use-a-little-bit-of-a-softer-touch-257155141995" target="_blank">Trump says he learned from Minneapolis: ‘Maybe we can use a little bit of a softer touch’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-04 18:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/trump-hails-excellent-phone-call-with-chinas-xi-amid-trade-tensions?traffic_source=rss" target="_blank">Trump hails ‘excellent’ phone call with China’s Xi amid trade tensions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-04 17:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/04/elon-musks-spacex-company-town-is-getting-a-police-department/" target="_blank">Elon Musk’s SpaceX company town is getting a police department</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-04 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/873755/nintendo-switch-virtual-boy-impressions" target="_blank">Nintendo’s new Virtual Boy is more fun to look at than to play</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-04 21:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/notepad-plus-plus-china-hackers-update-infrastructure/" target="_blank">Notepad++ Users, You May Have Been Hacked by China</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-04 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/edward-markey-500x500.jpg" alt="&quot;Capture it all&quot;: ICE urged to explain memo about collecting info on protesters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/capture-it-all-ice-urged-to-explain-memo-about-collecting-info-on-protesters/" target="_blank">&quot;Capture it all&quot;: ICE urged to explain memo about collecting info on protesters</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-04 18:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/" target="_blank">Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-04 18:08</span>
             </div>
         </div>
 </div>
@@ -238,11 +237,38 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/blood-of-heroes-retro-1280x853.jpg" alt="Somehow, I’d Never Heard of This Post-Apocalyptic Football Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/somehow-id-never-heard-of-this-post-apocalyptic-football-movie-2000716983" target="_blank">Somehow, I’d Never Heard of This Post-Apocalyptic Football Movie</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-04 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/02/neil-gaiman-shutterstock_1197364363.jpg?fit=1200%2C715&amp;quality=60&amp;ssl=1" alt="Neil Gaiman breaks year-long silence, calls sexual misconduct accusations &quot;completely untrue&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/04/neil-gaiman-breaks-year-long-silence-calls-sexual-misconduct-accusations-completely-untrue.html" target="_blank">Neil Gaiman breaks year-long silence, calls sexual misconduct accusations &quot;completely untrue&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-04 21:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/overwatch-2-mizuki-1280x853.jpg" alt="‘Overwatch 2’ Rebrands, and Its Messy Arc Is Complete" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/overwatch-2-rebrands-and-its-messy-arc-is-complete-2000717981" target="_blank">‘Overwatch 2’ Rebrands, and Its Messy Arc Is Complete</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-04 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGN5P4G0PAEEDJNP61768PSA/hero-image.png" alt="How to Avoid Paying Crunchyroll&#x27;s Recent Price Increase" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/how-to-avoid-paying-crunchyrolls-recent-price-increase?utm_medium=RSS" target="_blank">How to Avoid Paying Crunchyroll&#x27;s Recent Price Increase</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-04 21:00</span>
             </div>
         </div>
@@ -262,33 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/best-jurassic-park-sequel-in-a-decade-is-this-creepy-youtube-series-jurassic-world-muldoon-2000665737" target="_blank">The Best Jurassic Park Sequel In A Decade Is This Creepy YouTube Series</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-04 19:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/musk4-e1770231193875.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="For some reason Elon Musk confuses child safety laws with personal persecution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/04/for-some-reason-elon-musk-confuses-child-safety-laws-with-personal-persecution.html" target="_blank">For some reason Elon Musk confuses child safety laws with personal persecution</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-04 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGMMPVEZFM7DKTTJKMN87BJ9/hero-image.png" alt="Samsung Has Killed Software Support for Most of the Galaxy S21 Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-has-killed-software-support-for-the-galaxy-s21-series?utm_medium=RSS" target="_blank">Samsung Has Killed Software Support for Most of the Galaxy S21 Series</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-04 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/rock-blobs-gravity-1280x853.jpg" alt="Enormous Pair of Deep-Earth Hot ‘Blobs’ Shape Earth’s Magnetic Field, Scientists Say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/enormous-pair-of-deep-earth-hot-blobs-shape-earths-magnetic-field-scientists-say-2000717926" target="_blank">Enormous Pair of Deep-Earth Hot ‘Blobs’ Shape Earth’s Magnetic Field, Scientists Say</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-04 18:05</span>
             </div>
         </div>
 </div>
@@ -328,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 21:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
