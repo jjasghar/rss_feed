@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-04 03:45:05 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-04 04:29:52 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, February 04, 2026 - 03:45 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, February 04, 2026 - 04:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/bus-crashes-in-brazils-alagoas-state-killing-at-least-16-people?traffic_source=rss" target="_blank">Bus crashes in Brazil’s Alagoas state, killing at least 16 people</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-04 02:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch" target="_blank">Trump-led abuses amid ‘democratic recession’ put human rights in peril, HRW report says</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-04 00:01</span>
             </div>
         </div>
 <div class="story">
@@ -84,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/3/who-was-libyas-saif-al-islam-gaddafi?traffic_source=rss" target="_blank">Who was Libya’s Saif al-Islam Gaddafi?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-03 22:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/03/nx-s1-5697839/disney-damaro-ceo" target="_blank">Disney names Josh D&#x27;Amaro as its new CEO</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-03 21:36</span>
             </div>
         </div>
 </div>
@@ -171,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/firefox-ai-features-toggle/" target="_blank">Finally! Firefox Is Getting a Kill Switch for Its (Unwanted) AI Features</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-04 03:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-shadow-name-16j7" target="_blank">The Secret Life of Python: The Shadow Name</a></span>
                 <span class="feed">DEV Community</span>
@@ -204,15 +215,6 @@
                 <span class="time">2026-02-03 22:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dl.acm.org/doi/10.1145/3774934.3786425" target="_blank">FlashAttention-T: Towards Tensorized Attention</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-03 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/falllout-1280x720.jpg" alt="Fallout Season 2 Finale Teases New Location And Something Big" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fallout-season-2-finale-teases-new-location-and-something-big-liberty-prime-colorado-2000665525" target="_blank">Fallout Season 2 Finale Teases New Location And Something Big</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-04 04:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/sundar-1280x854.jpg" alt="Not So Fast, Google: That Lenient Monopoly Ruling from Last Year Is Being Appealed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +288,6 @@
                 <span class="time">2026-02-03 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/shutterstock_2681902813-e1761777398744-1280x852.jpg" alt="All the Messy Drama Between OpenAI and Nvidia, Explained" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/all-the-messy-drama-between-openai-and-nvidia-explained-2000717226" target="_blank">All the Messy Drama Between OpenAI and Nvidia, Explained</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-03 21:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 03:45 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 04:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
