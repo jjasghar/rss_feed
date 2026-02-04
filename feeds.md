@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-04 20:05:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-04 21:06:45 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, February 04, 2026 - 20:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, February 04, 2026 - 21:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -73,28 +76,28 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/trump-hails-excellent-phone-call-with-chinas-xi-amid-trade-tensions?traffic_source=rss" target="_blank">Trump hails ‘excellent’ phone call with China’s Xi amid trade tensions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-04 17:56</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/04/nx-s1-5691890/supreme-court-california-redistricting-map" target="_blank">The Supreme Court lets California use its new, Democratic-friendly congressional map</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-04 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/tm-sot1-minn-yqpb2s.jpg" alt="Trump says he learned from Minneapolis: ‘Maybe we can use a little bit of a softer touch’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-says-he-learned-from-minneapolis-maybe-we-can-use-a-little-bit-of-a-softer-touch-257155141995" target="_blank">Trump says he learned from Minneapolis: ‘Maybe we can use a little bit of a softer touch’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-04 18:35</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/04/nx-s1-5699399/savannah-guthrie-mother-nancy-missing-search" target="_blank">Search for Nancy Guthrie, mother of &#x27;Today&#x27; show host Savannah Guthrie, enters 4th day</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-04 16:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/tom-homan-1-gty-gmh-260204_1770214993293_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Feds to &#x27;draw down&#x27; 700 agents, Homan says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-alex-pretti-shooting-death-immigration/?id=129787621" target="_blank">Minneapolis live updates: Feds to &#x27;draw down&#x27; 700 agents, Homan says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-04 15:53</span>
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/trump-hails-excellent-phone-call-with-chinas-xi-amid-trade-tensions?traffic_source=rss" target="_blank">Trump hails ‘excellent’ phone call with China’s Xi amid trade tensions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-04 17:56</span>
             </div>
         </div>
 </div>
@@ -102,6 +105,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/874084/ai-chatgpt-claude-super-bowl-ads-openai-anthropic" target="_blank">Sam Altman responds to Anthropic’s ‘funny’ Super Bowl ads</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-04 21:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_0060-1-500x500.jpg" alt="US House takes first step toward creating &quot;commercial&quot; deep space program" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/02/us-house-takes-first-step-toward-creating-commercial-deep-space-program/" target="_blank">US House takes first step toward creating &quot;commercial&quot; deep space program</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-04 21:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +159,20 @@
                 <span class="time">2026-02-04 18:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/" target="_blank">Roblox’s 4D creation feature is now available in open beta</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-04 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6982c324e10b630c8c03b4a7/master/pass/Review-%20Cozey%20Neptune%20Sofa%20Bed.png" alt="Cozey Neptune Sofa Bed Review: Firm but Flexible" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/cozey-neptune-sofa-bed/" target="_blank">Cozey Neptune Sofa Bed Review: Firm but Flexible</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-04 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18867259&w=600" alt="Context Engineering: The Missing Layer for Enterprise-Grade AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/context-engineering-the-missing-layer-for-enterpri" target="_blank">Context Engineering: The Missing Layer for Enterprise-Grade AI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-04 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj889xg312xb6lvxhpnju.png" alt="Introducing gdpr-safe-rag: Build GDPR-Compliant RAG Systems in Minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +218,6 @@
                 <span class="time">2026-02-04 18:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18865770&w=600" alt="Rate Limiting Beyond “N Requests/sec”: Adaptive Throttling for Spiky Workloads (Spring Cloud Gateway)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/adaptive-rate-limiting-spring-cloud-gateway" target="_blank">Rate Limiting Beyond “N Requests/sec”: Adaptive Throttling for Spiky Workloads (Spring Cloud Gateway)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-04 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/overwatch-2-mizuki-1280x853.jpg" alt="‘Overwatch 2’ Rebrands, and Its Messy Arc Is Complete" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/overwatch-2-rebrands-and-its-messy-arc-is-complete-2000717981" target="_blank">‘Overwatch 2’ Rebrands, and Its Messy Arc Is Complete</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-04 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/shutterstock_2519492239.jpeg?fit=1080%2C608&amp;quality=60&amp;ssl=1" alt="Israeli cease-fire still involves killing women and children" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/04/israeli-cease-fire-still-involves-killing-women-and-children.html" target="_blank">Israeli cease-fire still involves killing women and children</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-04 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/scarydinoes-1-1280x720.jpg" alt="The Best Jurassic Park Sequel In A Decade Is This Creepy YouTube Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/enormous-pair-of-deep-earth-hot-blobs-shape-earths-magnetic-field-scientists-say-2000717926" target="_blank">Enormous Pair of Deep-Earth Hot ‘Blobs’ Shape Earth’s Magnetic Field, Scientists Say</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-04 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/texas-chainsaw-massacre-1280x853.jpg" alt="A24 Will Revive ‘Texas Chainsaw Massacre’ With a TV Show and Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a24-will-revive-texas-chainsaw-massacre-with-a-tv-show-and-movie-2000717875" target="_blank">A24 Will Revive ‘Texas Chainsaw Massacre’ With a TV Show and Movie</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-04 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGMK82ZS681VVA1ABK538XP9/hero-image.png" alt="Messenger Apps Are Compressing Your Files, but There&#x27;s a Workaround" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/your-messenger-apps-are-compressing-your-files-but-there-is-a-workaround?utm_medium=RSS" target="_blank">Messenger Apps Are Compressing Your Files, but There&#x27;s a Workaround</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-04 17:00</span>
             </div>
         </div>
 </div>
@@ -325,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 20:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 41 | 📸 With Images: 271 |
+        🔄 Last Updated: 21:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
