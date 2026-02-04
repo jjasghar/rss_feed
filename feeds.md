@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-04 12:05:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-04 13:24:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, February 04, 2026 - 12:05 UTC</div>
+    <div class="newspaper-date">Wednesday, February 04, 2026 - 13:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee26/live/3ec09de0-019d-11f1-a8b8-bdd2c5f9bcad.jpg" alt="Thousands without power in freezing Ukraine as renewed Russian strikes continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crley6x0dgzo?at_medium=RSS&at_campaign=rss" target="_blank">Thousands without power in freezing Ukraine as renewed Russian strikes continue</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-04 13:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/digidocs/2026/2/4/aje-onl-digidocs_citizensofnowhere-040226?traffic_source=rss" target="_blank">Citizens of Nowhere: What It Means to Be Stateless in the US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-04 12:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross" target="_blank">Gunmen have killed at least 162 people in west Nigeria attack, says Red Cross</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-04 12:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,38 +101,38 @@
                 <span class="time">2026-02-04 10:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260130-science-protest-aa-1100-eeab67.jpg" alt="Trump tried to gut science research funding. Courts and Congress have rebuffed him." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/science/science-news/trump-science-research-funding-cuts-congress-rebuffed-rcna256793" target="_blank">Trump tried to gut science research funding. Courts and Congress have rebuffed him.</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-04 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/04/nx-s1-5689900/2026-winter-olympics-how-to-watch" target="_blank">The Winter Olympics are upon us. Here&#x27;s how to follow along</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-04 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63b8/live/57b68600-01a4-11f1-a8b8-bdd2c5f9bcad.jpg" alt="Andrew moves out of Royal Lodge home early after latest Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8e5zgprgn1o?at_medium=RSS&at_campaign=rss" target="_blank">Andrew moves out of Royal Lodge home early after latest Epstein files</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-04 08:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/873686/anthropic-claude-ai-ad-free-super-bowl-advert-chatgpt" target="_blank">Anthropic says ‘Claude will remain ad-free,’ unlike ChatGPT</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-04 13:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/688d84b8d9571932899b1ffe/master/pass/The%20Best%20Outdoor%20Security%20Cameras.png" alt="9 Best Outdoor Security Cameras (2026): Battery-Powered, LTE, No Subscription" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-outdoor-security-cameras/" target="_blank">9 Best Outdoor Security Cameras (2026): Battery-Powered, LTE, No Subscription</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-04 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/lee-romance-violence-anything-500x500.jpg" alt="So yeah, I vibe-coded a log colorizer—and I feel good about it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/" target="_blank">So yeah, I vibe-coded a log colorizer—and I feel good about it</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-04 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/697a40f01edf527365b8451b/master/pass/012726_Winter-Olympics-Ryan-Cochran-Siegle-SP.jpg" alt="Alpine Skier Ryan Cochran-Siegle’s Starter Pack: Winter Olympics 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -129,38 +160,20 @@
                 <span class="time">2026-02-04 08:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/873621/adobe-animate-maintenance-mode-reverse-course" target="_blank">Adobe actually won’t discontinue Animate</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-04 01:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/03/epstein-linked-longevity-guru-peter-attia-leaves-david-protein-and-his-own-startup-wont-comment/" target="_blank">Epstein-linked longevity guru Peter Attia leaves David Protein, and his own startup ‘won’t comment’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-04 00:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2259767834-500x500.jpg" alt="Netflix says users can cancel service if HBO Max merger makes it too expensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/netflix-claims-subscribers-will-get-more-content-for-less-if-it-buys-hbo-max/" target="_blank">Netflix says users can cancel service if HBO Max merger makes it too expensive</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-03 23:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18864720&w=600" alt="I Built AIBrowser With Claude Code: A Desktop Version of Manus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-browser-desktop-claude-code" target="_blank">I Built AIBrowser With Claude Code: A Desktop Version of Manus</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-04 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,29 +217,6 @@
                 <span class="title"><a href="https://dev.to/simran_sinha/spacex-xai-are-we-moving-toward-a-new-era-of-ai-infrastructure-3h90" target="_blank">SpaceX + xAI: Are We Moving Toward a New Era of AI Infrastructure?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-04 10:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/agent-trace-cursor/en/headerimage/generatedHeaderImage-1770057033303.jpg" alt="Agent Trace: Cursor Proposes an Open Specification for AI Code Attribution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/agent-trace-cursor/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Agent Trace: Cursor Proposes an Open Specification for AI Code Attribution</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-04 10:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/microsoft-is-giving-the-fbi-bitlocker-keys.html" target="_blank">Microsoft is Giving the FBI BitLocker Keys</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-03 12:05</span>
             </div>
         </div>
 </div>
@@ -325,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 12:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 13:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
