@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-04 19:14:32 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-04 20:05:50 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, February 04, 2026 - 19:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, February 04, 2026 - 20:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-9-ap-gmh-260130_1769795314689_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Trump says admin could use a &#x27;softer touch&#x27; on immigration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-alex-pretti-shooting-death-immigration/?id=129787621" target="_blank">Minneapolis live updates: Trump says admin could use a &#x27;softer touch&#x27; on immigration</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-04 20:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +97,29 @@
                 <span class="time">2026-02-04 15:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross" target="_blank">Gunmen have killed 162 people in west Nigeria attack, says Red Cross official</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-04 15:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/2022/6/14/23167853/overwatch-2-activision-blizzard-news" target="_blank">Overwatch: all the news about Blizzard’s hit hero shooter</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-04 19:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/698379d26a7d100f86400338/master/pass/sec-notepad-china-hack-1370233320.jpg" alt="Notepad++ Users, You May Have Been Hacked by China" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/notepad-plus-plus-china-hackers-update-infrastructure/" target="_blank">Notepad++ Users, You May Have Been Hacked by China</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-04 19:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/edward-markey-500x500.jpg" alt="&quot;Capture it all&quot;: ICE urged to explain memo about collecting info on protesters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -108,6 +127,15 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/capture-it-all-ice-urged-to-explain-memo-about-collecting-info-on-protesters/" target="_blank">&quot;Capture it all&quot;: ICE urged to explain memo about collecting info on protesters</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-02-04 18:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/" target="_blank">Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-04 18:08</span>
             </div>
         </div>
 <div class="story">
@@ -128,33 +156,6 @@
                 <span class="time">2026-02-04 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/intelstat-500x500.jpg" alt="Russian spy satellites have intercepted EU communications satellites" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/02/russian-spy-satellites-have-intercepted-eu-communications-satellites/" target="_blank">Russian spy satellites have intercepted EU communications satellites</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-04 15:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6982abeb87bf0631ca97ab41/master/pass/lg-ms-microsite-2026-ces-micro-rgb-evo-04-rgb-primary-color-ultra-d.jpeg" alt="What Is RGB LED TV? Everything You Need to Know About This Next-Gen TV Tech In 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/what-is-rgb-led-tv/" target="_blank">What Is RGB LED TV? Everything You Need to Know About This Next-Gen TV Tech In 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-04 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/873702/amazon-alexa-plus-ai-assistant-now-available" target="_blank">Amazon rolls out Alexa Plus nationwide and launches a new free tier</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-04 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,12 +171,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe3P-LPG-Nova-Lake-P" target="_blank">Intel Sends Out Initial Linux Patches For Xe3P_LPG Graphics With Nova Lake P</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-04 19:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18866202&w=600" alt="UX Research in the Age of AI: From Validation to Anticipation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/ux-research-in-the-age-of-ai-from-validation-to-an" target="_blank">UX Research in the Age of AI: From Validation to Anticipation</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-04 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-third-golden-age-of-software" target="_blank">The third golden age of software engineering – thanks to AI, with Grady Booch</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-02-04 18:42</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +213,6 @@
                 <span class="title"><a href="https://dzone.com/articles/adaptive-rate-limiting-spring-cloud-gateway" target="_blank">Rate Limiting Beyond “N Requests/sec”: Adaptive Throttling for Spiky Workloads (Spring Cloud Gateway)</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-04 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-No-Build-LTO" target="_blank">Mesa Will Now Prevent Compiling With LTO Due To &quot;Random Impossible-To-Debug Bugs&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-04 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/planetargon/ruby-40-and-ruby-box-what-changed-and-how-to-upgrade-safely-24en" target="_blank">Ruby 4.0 and Ruby Box: What Changed and How to Upgrade Safely</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-04 17:04</span>
             </div>
         </div>
 </div>
@@ -233,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/scarydinoes-1-1280x720.jpg" alt="The Best Jurassic Park Sequel In A Decade Is This Creepy YouTube Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/best-jurassic-park-sequel-in-a-decade-is-this-creepy-youtube-series-jurassic-world-muldoon-2000665737" target="_blank">The Best Jurassic Park Sequel In A Decade Is This Creepy YouTube Series</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-04 19:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/musk4-e1770231193875.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="For some reason Elon Musk confuses child safety laws with personal persecution" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +288,6 @@
                 <span class="time">2026-02-04 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/11/melania-beschizza.jpg?fit=1786%2C1195&amp;quality=60&amp;ssl=1" alt="Amazon pulls rights to Melania film after theater mocks it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/04/amazon-pulls-rights-to-melania-film-after-theater-mocks-it.html" target="_blank">Amazon pulls rights to Melania film after theater mocks it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-04 16:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 19:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 20:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
