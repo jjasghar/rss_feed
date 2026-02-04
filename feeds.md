@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-04 08:07:20 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-04 09:11:52 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, February 04, 2026 - 08:07 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, February 04, 2026 - 09:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/the-cold-hungry-reality-of-displacement-in-war-torn-sudans-tawila?traffic_source=rss" target="_blank">The cold, hungry reality of displacement in war-torn Sudan’s Tawila</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-04 08:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee26/live/3ec09de0-019d-11f1-a8b8-bdd2c5f9bcad.jpg" alt="Russian attacks on Ukraine energy sites &#x27;particularly depraved&#x27;, UK PM Starmer says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crley6x0dgzo?at_medium=RSS&at_campaign=rss" target="_blank">Russian attacks on Ukraine energy sites &#x27;particularly depraved&#x27;, UK PM Starmer says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-04 08:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/04/nx-s1-5699240/penny-the-doberman-pinscher-wins-the-150th-westminster-dog-show" target="_blank">Penny the Doberman pinscher wins the 150th Westminster dog show</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-04 06:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +102,20 @@
                 <span class="time">2026-02-04 02:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f750/live/7644db30-010e-11f1-bdfd-ed3f5ca8b7fe.jpg" alt="Chris Mason: Mandelson revelations a scandal on another level" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce8erj6z8x5o?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: Mandelson revelations a scandal on another level</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-04 02:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch" target="_blank">Trump-led abuses amid ‘democratic recession’ put human rights in peril, HRW report says</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-04 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-6-ap-gmh-260203_1770155067321_hpMain_4x3t_384.jpg" alt="Trump doubles down on suggesting federal government &#x27;get involved&#x27; in state elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-doubles-suggesting-federal-government-involved-state-elections/story?id=129826521" target="_blank">Trump doubles down on suggesting federal government &#x27;get involved&#x27; in state elections</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-03 23:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/" target="_blank">Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-04 08:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +161,29 @@
                 <span class="time">2026-02-03 22:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/873409/borderlands-4-nintendo-switch-2-development-pause" target="_blank">Borderlands 4 for Switch 2 is on ‘pause’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-03 21:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lilyevesinclair/i-made-my-ai-agent-hire-another-ai-agent-heres-the-code-3ld6" target="_blank">I Made My AI Agent Hire Another AI Agent (Here&#x27;s the Code)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-04 09:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/agent-assisted-intelligent-observability/en/headerimage/header-agent-assisted-intelligent-1769595476571.jpg" alt="Article: From Alert Fatigue to Agent-Assisted Intelligent Observability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/agent-assisted-intelligent-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: From Alert Fatigue to Agent-Assisted Intelligent Observability</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-04 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fethknjkjhitvw928shez.jpg" alt="Securing Sensitive S3 Data: The Problem &amp; The Solution" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -172,6 +191,15 @@
                 <span class="title"><a href="https://dev.to/nghidanh2005/securing-sensitive-s3-data-the-problem-the-solution-1ief" target="_blank">Securing Sensitive S3 Data: The Problem &amp; The Solution</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-04 07:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-skull"></span>
+                <span class="title"><a href="https://blog.codinghorror.com/launching-the-rural-guaranteed-minimum-income-initiative/" target="_blank">Launching The Rural Guaranteed Minimum Income Initiative</a></span>
+                <span class="feed">Coding Horror</span>
+                <span class="time">2026-02-04 07:43</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +218,6 @@
                 <span class="title"><a href="https://dev.to/cgcm070/notebooklm-enhancer-2pdb" target="_blank">NotebookLM Enhancer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-04 05:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany" target="_blank">Petition for Recognition of Work on Open-Source as Volunteering in Germany</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-04 04:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.jernesto.com/articles/thinking_hard" target="_blank">I miss thinking hard</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-04 03:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://davidism.com/python-args/" target="_blank">What arguments was Python called with?</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-02-04 03:49</span>
             </div>
         </div>
 </div>
@@ -320,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 08:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 09:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
