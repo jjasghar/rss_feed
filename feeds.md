@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-04 13:24:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-04 14:13:53 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, February 04, 2026 - 13:24 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, February 04, 2026 - 14:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Border czar Tom Homan holds news conference in Minneapolis: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Border czar Tom Homan holds news conference in Minneapolis: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-04 13:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/02/04/nx-s1-5698120/westminster-dog-show-penny-doberman-photos" target="_blank">Photos: Scenes from the 150th Westminster Dog Show</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-04 13:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee26/live/3ec09de0-019d-11f1-a8b8-bdd2c5f9bcad.jpg" alt="Thousands without power in freezing Ukraine as renewed Russian strikes continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +97,38 @@
                 <span class="time">2026-02-04 11:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/04/nx-s1-5698264/trump-wyden-van-hollen-tariffs-politically-connected-companies" target="_blank">Trump grants tariff breaks to &#x27;politically connected&#x27; companies, Senate Dems say</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-04 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/gorton-and-denton-by-election-tests-labours-grip-on-heartland-voters?traffic_source=rss" target="_blank">Gorton and Denton by-election tests Labour’s grip on heartland voters</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-04 10:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6982abeb87bf0631ca97ab41/master/pass/lg-ms-microsite-2026-ces-micro-rgb-evo-04-rgb-primary-color-ultra-d.jpeg" alt="What Is RGB LED TV? Everything You Need to Know About This Next-Gen TV Tech In 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/what-is-rgb-led-tv/" target="_blank">What Is RGB LED TV? Everything You Need to Know About This Next-Gen TV Tech In 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-04 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/873702/amazon-alexa-plus-ai-assistant-now-available" target="_blank">Amazon rolls out Alexa Plus nationwide and launches a new free tier</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-04 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/04/snak-venture-partners-raises-50m-fund-to-back-digitizing-marketplaces/" target="_blank">SNAK Venture Partners raises $50M fund to back vertical marketplaces</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-04 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,38 +156,20 @@
                 <span class="time">2026-02-04 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697a40f01edf527365b8451b/master/pass/012726_Winter-Olympics-Ryan-Cochran-Siegle-SP.jpg" alt="Alpine Skier Ryan Cochran-Siegle’s Starter Pack: Winter Olympics 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ryan-cochran-siegles-starter-pack/" target="_blank">Alpine Skier Ryan Cochran-Siegle’s Starter Pack: Winter Olympics 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-04 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/697d1d239268c2127fc4632b/master/pass/sci-vax-rfkjr-2255115344.jpg" alt="HHS Is Making an AI Tool to Create Hypotheses About Vaccine Injury Claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hhs-is-making-an-ai-tool-to-create-hypotheses-about-vaccine-injury-claims/" target="_blank">HHS Is Making an AI Tool to Create Hypotheses About Vaccine Injury Claims</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-04 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/" target="_blank">Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-04 08:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm6d6len6fugq7lu2ehkc.png" alt="Build Your Own ChatGPT App (Run It Locally)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/javz/build-your-own-chatgpt-app-run-it-locally-2ehp" target="_blank">Build Your Own ChatGPT App (Run It Locally)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-04 14:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18864720&w=600" alt="I Built AIBrowser With Claude Code: A Desktop Version of Manus" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,13 +215,18 @@
                 <span class="time">2026-02-04 10:28</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvha5zqc91k5ipjxgnng6.png" alt="SpaceX + xAI: Are We Moving Toward a New Era of AI Infrastructure?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/simran_sinha/spacex-xai-are-we-moving-toward-a-new-era-of-ai-infrastructure-3h90" target="_blank">SpaceX + xAI: Are We Moving Toward a New Era of AI Infrastructure?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-04 10:04</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/us-declassifies-information-on-jumpseat-spy-satellites.html" target="_blank">US Declassifies Information on JUMPSEAT Spy Satellites</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-02-04 12:02</span>
             </div>
         </div>
 </div>
@@ -224,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/07/11c603a86bfc568abcfc05e64f986cec-1280x720.jpg" alt="There’s A New Nintendo Direct Just In Time For Switch 2’s Momentum To Snowball" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-direct-showcase-february-date-when-where-watch-2000665691" target="_blank">There’s A New Nintendo Direct Just In Time For Switch 2’s Momentum To Snowball</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-04 14:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/yachts-1280x853.jpg" alt="Yacht Havers Are Losing Access to Teak Because it Funded Myanmar’s Junta" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +288,6 @@
                 <span class="time">2026-02-04 00:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-03 23:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 13:24 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 14:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
