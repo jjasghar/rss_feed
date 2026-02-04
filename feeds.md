@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-04 17:14:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-04 18:11:41 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, February 04, 2026 - 17:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, February 04, 2026 - 18:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/trump-hails-excellent-phone-call-with-chinas-xi-amid-trade-tensions?traffic_source=rss" target="_blank">Trump hails ‘excellent’ phone call with China’s Xi amid trade tensions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-04 17:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/libyas-top-prosecutor-launches-probe-into-saif-al-islam-gaddafis-killing?traffic_source=rss" target="_blank">Libya’s top prosecutor launches probe into Saif al-Islam Gaddafi’s killing</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-04 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/04/g-s1-108433/ukraine-kyiv-blackout-russia-energy-attacks-power-outages" target="_blank">Greetings from Kyiv, where candles are the last option during wartime blackouts</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-04 14:41</span>
             </div>
         </div>
 </div>
@@ -167,6 +168,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jairo-dev-jr/defer-vs-immediate-reactive-flow-creation-and-why-your-circuit-breaker-can-decide-too-early-3bll" target="_blank">Defer vs Immediate Reactive Flow Creation (and why your Circuit Breaker can “decide too early”)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-04 18:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18865770&w=600" alt="Rate Limiting Beyond “N Requests/sec”: Adaptive Throttling for Spiky Workloads (Spring Cloud Gateway)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/adaptive-rate-limiting-spring-cloud-gateway" target="_blank">Rate Limiting Beyond “N Requests/sec”: Adaptive Throttling for Spiky Workloads (Spring Cloud Gateway)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-04 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-No-Build-LTO" target="_blank">Mesa Will Now Prevent Compiling With LTO Due To &quot;Random Impossible-To-Debug Bugs&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-04 17:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/planetargon/ruby-40-and-ruby-box-what-changed-and-how-to-upgrade-safely-24en" target="_blank">Ruby 4.0 and Ruby Box: What Changed and How to Upgrade Safely</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-04 17:04</span>
@@ -190,33 +218,6 @@
                 <span class="time">2026-02-04 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/INTELLIJ-IDEA.jpg?resize=406%2C232&amp;ssl=1" alt="JetBrains to Enable Wayland Support in IntelliJ 2026.1" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/intellij-native-wayland-support-2026-1" target="_blank">JetBrains to Enable Wayland Support in IntelliJ 2026.1</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-04 16:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18864785&w=600" alt="Semantic Contracts: The Missing Layer Between Good Data and Reliable AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/semantic-contracts-the-missing-layer-between-good" target="_blank">Semantic Contracts: The Missing Layer Between Good Data and Reliable AI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-04 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mistral.ai/news/voxtral-transcribe-2" target="_blank">Voxtral Transcribe 2</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-04 15:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,11 +238,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/rock-blobs-gravity-1280x853.jpg" alt="Enormous Pair of Deep-Earth Hot ‘Blobs’ Shape Earth’s Magnetic Field, Scientists Say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/enormous-pair-of-deep-earth-hot-blobs-shape-earths-magnetic-field-scientists-say-2000717926" target="_blank">Enormous Pair of Deep-Earth Hot ‘Blobs’ Shape Earth’s Magnetic Field, Scientists Say</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-04 18:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/texas-chainsaw-massacre-1280x853.jpg" alt="A24 Will Revive ‘Texas Chainsaw Massacre’ With a TV Show and Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/a24-will-revive-texas-chainsaw-massacre-with-a-tv-show-and-movie-2000717875" target="_blank">A24 Will Revive ‘Texas Chainsaw Massacre’ With a TV Show and Movie</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-04 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGMK82ZS681VVA1ABK538XP9/hero-image.png" alt="Messenger Apps Are Compressing Your Files, but There&#x27;s a Workaround" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/your-messenger-apps-are-compressing-your-files-but-there-is-a-workaround?utm_medium=RSS" target="_blank">Messenger Apps Are Compressing Your Files, but There&#x27;s a Workaround</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-04 17:00</span>
             </div>
         </div>
@@ -270,24 +289,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/bowers-and-wilkins-px7-s2-bluetooth-headphones-sale-february-2026?utm_medium=RSS" target="_blank">These Bowers &amp; Wilkins Bluetooth Headphones Are on Sale for $99</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-04 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/kpop-demon-hunters-rumi-zoey-mira-1280x853.jpg" alt="‘KPop Demon Hunters’ Adds Lego Sets to Its Pop Culture Takeover" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/lego-kpop-demon-hunters-teaser-release-date-2000717836" target="_blank">‘KPop Demon Hunters’ Adds Lego Sets to Its Pop Culture Takeover</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-04 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/11c603a86bfc568abcfc05e64f986cec-1280x720.jpg" alt="There’s A New Nintendo Direct Just In Time For Switch 2’s Momentum To Snowball" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nintendo-direct-showcase-february-date-when-where-watch-2000665691" target="_blank">There’s A New Nintendo Direct Just In Time For Switch 2’s Momentum To Snowball</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-04 14:11</span>
             </div>
         </div>
 </div>
@@ -327,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 17:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 18:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
