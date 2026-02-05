@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 12:06:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-05 13:25:45 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 12:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 13:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dd0/live/a1904870-f09b-11f0-997f-878467f84f6b.jpg" alt="Captain jailed over North Sea tanker crash death" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c801zgpm3meo?at_medium=RSS&at_campaign=rss" target="_blank">Captain jailed over North Sea tanker crash death</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-05 13:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/5/israeli-air-attacks-on-lebanon-reach-highest-level-since-ceasefire-report?traffic_source=rss" target="_blank">Israeli air attacks on Lebanon reach highest level since ceasefire: Report</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-05 12:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +104,20 @@
                 <span class="time">2026-02-05 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/5/gunmen-kill-nearly-200-people-in-nigeria?traffic_source=rss" target="_blank">Gunmen kill nearly 200 people in Nigeria</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-05 09:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afe4/live/494b2a50-022e-11f1-8566-473996904d56.jpg" alt="US must be prudent when supplying arms to Taiwan, Xi tells Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62wpjd3j1zo?at_medium=RSS&at_campaign=rss" target="_blank">US must be prudent when supplying arms to Taiwan, Xi tells Trump</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-05 08:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/05/googles-subscriptions-rise-in-q4-as-youtube-pulls-60b-in-yearly-revenue/" target="_blank">Google’s subscriptions rise in Q4 as YouTube pulls $60B in yearly revenue</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-05 12:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +163,38 @@
                 <span class="time">2026-02-05 06:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/embalm2-500x500-1770223261.jpg" alt="Museums incorporate &quot;scent of the afterlife&quot; into Egyptian exhibits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/02/museums-incorporate-scent-of-the-afterlife-into-egyptian-exhibits/" target="_blank">Museums incorporate &quot;scent of the afterlife&quot; into Egyptian exhibits</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-05 05:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nadiakacem/the-hard-parts-of-software-localization-50ad" target="_blank">The Hard Parts of Software Localization</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-05 13:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/TrueNAS-26-Plans" target="_blank">TrueNAS 26 Looks Toward OpenZFS 2.4, Linux 6.18 LTS &amp; LXC Container Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-05 13:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18869273&w=600" alt="AI RAG Architectures: Comprehensive Definitions and Real-World Examples" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/rag-architectures-definitions-and-examples" target="_blank">AI RAG Architectures: Comprehensive Definitions and Real-World Examples</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-05 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/02/opencode-coding-agent/en/headerimage/agent2agent-linux-foundation-1770292096035.jpeg" alt="OpenCode: an Open-source AI Coding Agent Competing with Claude Code and Copilot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -188,33 +222,6 @@
                 <span class="time">2026-02-05 11:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Krita-6.0-Beta" target="_blank">Krita 6.0 Beta Released - Using Qt6 &amp; Wayland Color Management Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-05 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/libreoffice-26-2-release/" target="_blank">LibreOffice 26.2 is a Maintenance Release That Feels Like a Stable One</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-05 10:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-ISPC-1.30-Released" target="_blank">Intel ISPC 1.30 Released With AMX Support Added To The Standard Library</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-05 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/lego-star-wars-1280x853.jpg" alt="LEGO Goes All-In on Star Wars, The Dark Millennium Falcon Drops Back to Record Low With 6 Minifigures Included" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lego-goes-all-in-on-star-wars-the-dark-millennium-falcon-drops-back-to-record-low-with-6-minifigures-included-2000665839" target="_blank">LEGO Goes All-In on Star Wars, The Dark Millennium Falcon Drops Back to Record Low With 6 Minifigures Included</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-05 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/eragoncover-2-1280x853.jpg" alt="The ‘Eragon’ Dragon Fantasy Series Is Still Alive at Disney+" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/eragon-disney-plus-tv-update-2000718189" target="_blank">The ‘Eragon’ Dragon Fantasy Series Is Still Alive at Disney+</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-05 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/dario-amodei-1280x853.jpg" alt="Wall Street Apparently Believes the Future Involves Making Your Software Instead of Buying It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +293,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/04/yawning-has-an-unexpected-influence-on-the-fluid-inside-your-brain.html" target="_blank">Yawning has an unexpected influence on the fluid inside your brain</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-05 01:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/blood-of-heroes-retro-1280x853.jpg" alt="Somehow, I’d Never Heard of This Post-Apocalyptic Football Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/somehow-id-never-heard-of-this-post-apocalyptic-football-movie-2000716983" target="_blank">Somehow, I’d Never Heard of This Post-Apocalyptic Football Movie</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-04 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGN4QAFV887NN8RRT1J7CG7F/hero-image.png" alt="Everyone Can Now Use Alexa+, but the Full Experience Might Cost You" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-much-amazon-alexa-plus-costs?utm_medium=RSS" target="_blank">Everyone Can Now Use Alexa+, but the Full Experience Might Cost You</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-04 22:00</span>
             </div>
         </div>
 </div>
@@ -325,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 12:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 13:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
