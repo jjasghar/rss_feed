@@ -1,35 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 19:14:20 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-05 20:04:55 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 19:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 20:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +38,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/nancy-guthrie_1770125728074_hpMain_4x3t_384.jpg" alt="Arrest for &#x27;imposter&#x27; ransom demand made in connection with Nancy Guthrie case: FBI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/search-missing-mother-today-show-host-savannah-guthrie/story?id=129863954" target="_blank">Arrest for &#x27;imposter&#x27; ransom demand made in connection with Nancy Guthrie case: FBI</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-05 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/5/gaza-flotilla-organisers-in-south-africa-warn-against-israeli-interception?traffic_source=rss" target="_blank">Gaza flotilla organisers in South Africa warn against Israeli interception</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-05 19:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Latest on search for Nancy Guthrie: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +92,38 @@
                 <span class="time">2026-02-05 17:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b55/live/a209eac0-02ae-11f1-83b0-21555a6f44a1.png" alt="Russia and Ukraine exchange prisoners as peace talks end without breakthrough" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62np09q7l1o?at_medium=RSS&at_campaign=rss" target="_blank">Russia and Ukraine exchange prisoners as peace talks end without breakthrough</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-05 17:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5584085/census-citizenship-question" target="_blank">Trump officials propose testing a citizenship question amid a push to alter the census</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-05 16:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/" target="_blank">OpenAI launches new agentic coding model only minutes after Anthropic drops its own</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-05 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/neo-cities-500x500.jpg" alt="Neocities founder stuck in chatbot hell after Bing blocked 1.5 million sites" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/neocities-founder-stuck-in-chatbot-hell-after-bing-blocked-1-5m-sites/" target="_blank">Neocities founder stuck in chatbot hell after Bing blocked 1.5 million sites</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-05 19:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/874176/meta-zuckerberg-new-mexico-email-teen-girls-research" target="_blank">Zuckerberg considered changing how Meta studies social issues after research got it in trouble</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-05 19:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6984d2fca4fe848b819c567d/master/pass/9%20Great%20Valentine's%20Day%20Deals%20for%20Your%20Lover%20(Or%20Yourself).png" alt="9 Great Deals on WIRED-Approved Valentine&#x27;s Day Gifts (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,38 +151,20 @@
                 <span class="time">2026-02-05 18:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/874138/tv-manufacturer-technology-2026" target="_blank">Who’s who and what’s what in TVs in 2026</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-05 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/BH-TDE-500x500-1770139330.jpg" alt="This black hole &quot;burps&quot; with Death Star energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/02/this-black-hole-burps-with-death-star-energy/" target="_blank">This black hole &quot;burps&quot; with Death Star energy</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-05 16:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/05/trumps-critical-mineral-reserve-is-an-admission-that-the-future-is-electric/" target="_blank">Trump’s critical mineral reserve is an admission that the future is electric</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-05 15:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ardour-9.0-DAW" target="_blank">Ardour 9.0 Audio Workstation Released With Multi-Touch GUI, Many New Features</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-05 19:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +210,6 @@
                 <span class="time">2026-02-05 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/02/raspberry-pi-4-revision-1-5.webp?resize=406%2C232&amp;ssl=1" alt="New Raspberry Pi 4 models splits RAM across dual chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/raspberry-pi-4-rev-1-5-dual-ram" target="_blank">New Raspberry Pi 4 models splits RAM across dual chips</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-05 16:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +229,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/CleanShot-2026-02-05-at-11.20.52%402x-scaled.jpg?fit=2560%2C1440&amp;quality=60&amp;ssl=1" alt="LaMonte McLemore, founding member of the 5th Dimension, RIP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/05/lamonte-mclemore-founding-member-of-the-5th-dimension-rip.html" target="_blank">LaMonte McLemore, founding member of the 5th Dimension, RIP</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-05 19:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/sony-1280x720.jpg" alt="Sony’s New Live Service Game Is Coming At Just The Worst Possible Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +283,6 @@
                 <span class="time">2026-02-05 16:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/anker-hub-1280x853.jpg" alt="Anker’s 8-in-1 USB-C Docking Station Crashes to an All-Time Low, Barely Any Margin Left at This Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ankers-8-in-1-usb-c-docking-station-crashes-to-an-all-time-low-barely-any-margin-left-at-this-price-2000665542" target="_blank">Anker’s 8-in-1 USB-C Docking Station Crashes to an All-Time Low, Barely Any Margin Left at This Price</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-05 16:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 19:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 20:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
