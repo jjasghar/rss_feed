@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 22:03:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-05 23:04:14 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 22:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 23:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5590091/a-jane-doe-in-the-r-kelly-trials-is-ready-to-share-her-real-name-and-her-story" target="_blank">A &quot;Jane Doe&quot; in the R. Kelly trials is ready to share her real name. And her story.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-05 21:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +98,20 @@
                 <span class="time">2026-02-05 19:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Latest on search for Nancy Guthrie: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Latest on search for Nancy Guthrie: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-05 19:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/" target="_blank">Amazon and Google are winning the AI capex race — but what’s the prize?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-05 22:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +157,20 @@
                 <span class="time">2026-02-05 20:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/" target="_blank">OpenAI launches new agentic coding model only minutes after Anthropic drops its own</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-05 20:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/brunoborges/copilot-sdk-for-java-107-session-lifecycle-hooks-and-enhanced-observability-4kmi" target="_blank">Copilot SDK for Java 1.0.7: Session Lifecycle Hooks and Enhanced Observability</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-05 22:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +216,6 @@
                 <span class="time">2026-02-05 17:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/news/claude-opus-4-6" target="_blank">Claude Opus 4.6</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-05 17:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,12 +245,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGQVTD95WMW6WFPZME34FYEX/hero-image.png" alt="This One-Day Pass Is the Best Way to Catch a Major Sporting Event Without Cable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/use-a-sing-1-day-pass-to-watch-live-sports?utm_medium=RSS" target="_blank">This One-Day Pass Is the Best Way to Catch a Major Sporting Event Without Cable</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-05 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/download-1280x720.jpg" alt="Overwatch’s New Jetpack-Using Cat Hero Is An Agent Of Pure Chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/overwatch-jetpack-cat-tether-bob-dva-ultimate-flight-2000666163" target="_blank">Overwatch’s New Jetpack-Using Cat Hero Is An Agent Of Pure Chaos</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-05 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/trump.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Trump announces May 17 ceremony to &quot;rededicate&quot; America to God" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/05/trump-announces-may-17-ceremony-to-rededicate-america-to-god.html" target="_blank">Trump announces May 17 ceremony to &quot;rededicate&quot; America to God</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-05 21:40</span>
             </div>
         </div>
 <div class="story">
@@ -267,24 +287,6 @@
                 <span class="title"><a href="https://kotaku.com/winter-olympics-injecting-penis-acid-skiing-real-men-ski-jumping-cheating-2000666137" target="_blank">The Winter Olympics Will Make Sure Nobody Cheats By Injecting Their Penis With Acid</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-05 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/CleanShot-2026-02-05-at-11.20.52%402x-scaled.jpg?fit=2560%2C1440&amp;quality=60&amp;ssl=1" alt="LaMonte McLemore, founding member of the 5th Dimension, RIP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/05/lamonte-mclemore-founding-member-of-the-5th-dimension-rip.html" target="_blank">LaMonte McLemore, founding member of the 5th Dimension, RIP</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-05 19:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/sony-1280x720.jpg" alt="Sony’s New Live Service Game Is Coming At Just The Worst Possible Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sonys-new-live-service-game-is-coming-at-just-the-worst-possible-time-2000666078" target="_blank">Sony’s New Live Service Game Is Coming At Just The Worst Possible Time</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-05 18:54</span>
             </div>
         </div>
 </div>
@@ -310,22 +312,13 @@
                 <span class="time">2026-02-05 01:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/04/liver-me-timbers" target="_blank">Liver Me Timbers</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-02-04 22:52</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 22:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 23:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
