@@ -1,28 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 20:04:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-05 21:06:10 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 20 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 20:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 21:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +47,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters" target="_blank">‘They killed my sons’: chief of Nigerian village where jihadists massacred hundreds recounts night of terror</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-05 20:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/nancy-guthrie_1770125728074_hpMain_4x3t_384.jpg" alt="Arrest for &#x27;imposter&#x27; ransom demand made in connection with Nancy Guthrie case: FBI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -54,6 +71,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/5/gaza-flotilla-organisers-in-south-africa-warn-against-israeli-interception?traffic_source=rss" target="_blank">Gaza flotilla organisers in South Africa warn against Israeli interception</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-05 19:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5701337/nj-primary-election-democrats-sherrill" target="_blank">What a crowded congressional primary in N.J. says about the state of Democrats</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-05 19:13</span>
             </div>
         </div>
 <div class="story">
@@ -74,29 +100,29 @@
                 <span class="time">2026-02-05 18:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5691780/iranian-film-sundance-award" target="_blank">Their film was shot in secret and smuggled out of Iran. It won an award at Sundance</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-05 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2026/2/5/aje-onl-ukr_winterenergy_av_v2-050226?traffic_source=rss" target="_blank">How the US left Ukraine exposed to Russia’s winter war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-05 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/874500/iron-lung-theater-box-office-markiplier" target="_blank">Iron Lung’s path to theaters was unique, even if the movie isn’t</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-05 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/ice-500x500-1770323474.jpg" alt="&quot;ICE Out of Our Faces Act&quot; would ban ICE and CBP use of facial recognition" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/ice-out-of-our-faces-act-would-ban-ice-and-cbp-use-of-facial-recognition/" target="_blank">&quot;ICE Out of Our Faces Act&quot; would ban ICE and CBP use of facial recognition</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-05 20:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,24 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/story/valentines-day-deals-2026/" target="_blank">9 Great Deals on WIRED-Approved Valentine&#x27;s Day Gifts (2026)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-05 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/" target="_blank">OpenAI launches a way for enterprises to build and manage AI agents</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-05 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-13-500x500.jpg" alt="Google hints at big AirDrop expansion for Android &quot;very soon&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/google-hints-at-big-airdrop-expansion-for-android-very-soon/" target="_blank">Google hints at big AirDrop expansion for Android &quot;very soon&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-05 18:06</span>
             </div>
         </div>
 </div>
@@ -230,6 +238,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/penis-shot-1280x720.jpg" alt="The Winter Olympics Will Make Sure Nobody Cheats By Injecting Their Penis With Acid" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/winter-olympics-injecting-penis-acid-skiing-real-men-ski-jumping-cheating-2000666137" target="_blank">The Winter Olympics Will Make Sure Nobody Cheats By Injecting Their Penis With Acid</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-05 20:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/CleanShot-2026-02-05-at-11.20.52%402x-scaled.jpg?fit=2560%2C1440&amp;quality=60&amp;ssl=1" alt="LaMonte McLemore, founding member of the 5th Dimension, RIP" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -274,15 +291,6 @@
                 <span class="time">2026-02-05 17:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Steam-Machine.png?fit=1133%2C491&amp;quality=55&amp;ssl=1" alt="Valve&#x27;s Steam Machine delayed after part prices soar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/05/steammachine.html" target="_blank">Valve&#x27;s Steam Machine delayed after part prices soar</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-05 16:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 20:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 21:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
