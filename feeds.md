@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 17:15:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-05 18:13:27 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 13 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 17:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 18:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5691780/iranian-film-sundance-award" target="_blank">Their film was shot in secret and smuggled out of Iran. It won an award at Sundance</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-05 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2026/2/5/aje-onl-ukr_winterenergy_av_v2-050226?traffic_source=rss" target="_blank">How the US left Ukraine exposed to Russia’s winter war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-05 17:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b55/live/a209eac0-02ae-11f1-83b0-21555a6f44a1.png" alt="Russia and Ukraine exchange prisoners as peace talks end without breakthrough" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62np09q7l1o?at_medium=RSS&at_campaign=rss" target="_blank">Russia and Ukraine exchange prisoners as peace talks end without breakthrough</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-05 17:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +99,38 @@
                 <span class="time">2026-02-05 14:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5699392/my-undesirable-friends-russia-julia-loktev" target="_blank">&#x27;More relevant every day&#x27; in the U.S.: A filmmaker documented Russia&#x27;s journalists</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-05 14:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/nancy-guthrie_1770125728074_hpMain_4x3t_384.jpg" alt="Search intensifies for Savannah Guthrie&#x27;s missing mom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/search-missing-mother-today-show-host-savannah-guthrie/story?id=129863954" target="_blank">Search intensifies for Savannah Guthrie&#x27;s missing mom</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-05 14:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-dublin-buss-bus_7156516.jpg?20260205141951" alt="One dead, three injured after Dublin bus crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/one-dead-three-injured-after-dublin-bus-crash-13503674" target="_blank">One dead, three injured after Dublin bus crash</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-05 13:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/" target="_blank">OpenAI launches a way for enterprises to build and manage AI agents</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-05 18:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-13-500x500.jpg" alt="Google hints at big AirDrop expansion for Android &quot;very soon&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/google-hints-at-big-airdrop-expansion-for-android-very-soon/" target="_blank">Google hints at big AirDrop expansion for Android &quot;very soon&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-05 18:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/874138/tv-manufacturer-technology-2026" target="_blank">Who’s who and what’s what in TVs in 2026</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-05 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/BH-TDE-500x500-1770139330.jpg" alt="This black hole &quot;burps&quot; with Death Star energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,38 +158,47 @@
                 <span class="time">2026-02-05 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6983b010fe339af0a405c6cf/master/pass/IMG_0074.JPG" alt="Motorola Moto Watch Review: Polar-Powered" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/motorola-moto-watch/" target="_blank">Motorola Moto Watch Review: Polar-Powered</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-05 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/valve-steam-machine-desktop-500x500-1770298750.jpeg" alt="Steam Machine and Steam Frame delays are the latest product of the RAM crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/ram-shortage-delays-valves-steam-machine-desktop-and-steam-frame-headset/" target="_blank">Steam Machine and Steam Frame delays are the latest product of the RAM crisis</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-05 14:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/05/googles-subscriptions-rise-in-q4-as-youtube-pulls-60b-in-yearly-revenue/" target="_blank">Google’s subscriptions rise in Q4 as YouTube pulls $60B in yearly revenue</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-05 12:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Battlemage-D3cold-Again" target="_blank">Intel Xe Linux Driver Will No Longer Block D3cold For All Battlemage GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-05 18:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/url-to-screenshot" alt="GoPlan: AI-Powered Task Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aman_asmuei/goplan-ai-powered-task-management-5bgo" target="_blank">GoPlan: AI-Powered Task Management</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-05 17:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.anthropic.com/news/claude-opus-4-6" target="_blank">Claude Opus 4.6</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-05 17:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/continuous-ai-in-practice-what-developers-can-automate-today-with-agentic-ci/" target="_blank">Continuous AI in practice: What developers can automate today with agentic CI</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-02-05 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/02/raspberry-pi-4-revision-1-5.webp?resize=406%2C232&amp;ssl=1" alt="New Raspberry Pi 4 models splits RAM across dual chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -178,42 +215,6 @@
                 <span class="title"><a href="https://dev.to/jamespatterson25/i-built-financial-habits-that-were-easy-to-abandon-2kg" target="_blank">I Built Financial Habits That Were Easy to Abandon</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-05 15:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-arc-b390-panther-lake-linux" target="_blank">Intel Arc B390 Graphics Performance On Linux With Panther Lake</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-05 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nadiakacem/the-hard-parts-of-software-localization-50ad" target="_blank">The Hard Parts of Software Localization</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-05 13:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/TrueNAS-26-Plans" target="_blank">TrueNAS 26 Looks Toward OpenZFS 2.4, Linux 6.18 LTS &amp; LXC Container Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-05 13:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18869273&w=600" alt="AI RAG Architectures: Comprehensive Definitions and Real-World Examples" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/rag-architectures-definitions-and-examples" target="_blank">AI RAG Architectures: Comprehensive Definitions and Real-World Examples</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-05 13:00</span>
             </div>
         </div>
 </div>
@@ -235,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/09/thwaites-doomsday-glacier-report-1024x683.jpg" alt="Scientists Tried Drilling Into Antarctica’s ‘Doomsday Glacier,’ But the Ice Had Other Plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/scientists-tried-drilling-into-the-doomsday-glacier-but-the-ice-had-other-plans-2000718421" target="_blank">Scientists Tried Drilling Into Antarctica’s ‘Doomsday Glacier,’ But the Ice Had Other Plans</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-05 18:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/10/df66cfdccbbdde23357f27eb16349197-1024x575.jpg" alt="Adafruit Warns New Ghost Gun Laws Could Have Unintended Consequences for 3D Printers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,20 +290,20 @@
                 <span class="time">2026-02-05 15:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGQ3V0TARZ8VAEYAF6AV0VPA/hero-image.png" alt="This JBL Party Speaker Is on Sale for $600 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/jbl-partybox-520-speaker-sale-february-2026?utm_medium=RSS" target="_blank">This JBL Party Speaker Is on Sale for $600 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-05 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1770264180-20260205_edit.png" alt="Saturday Morning Breakfast Cereal - Ha" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/ha-2" target="_blank">Saturday Morning Breakfast Cereal - Ha</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-02-05 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5759.png" alt="The Horror Of Hormones" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -317,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 17:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 18:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
