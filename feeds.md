@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 08:08:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-05 09:13:12 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 08:09 UTC</div>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 09:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6983ab1c5fa1799f5baf1edb/master/pass/I%20Didn't%20Care%20for%20Dildos%20Until%20I%20Tried%20This%20One%20From%20Lelo.png" alt="I Didn&#x27;t Care for Dildos Until I Tried This One From Lelo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/i-didnt-care-for-dildos-until-i-tried-this-one-from-lelo/" target="_blank">I Didn&#x27;t Care for Dildos Until I Tried This One From Lelo</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-05 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" alt="Paramount Plus Coupon Codes and Deals: 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -146,20 +157,20 @@
                 <span class="time">2026-02-05 00:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6983cf43b985567c3631b969/master/pass/Best%20TVs%20Deals%20Before%20the%20Big%20Game.png" alt="The Best Super Bowl TV Deals (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/super-bowl-tv-deals-2026/" target="_blank">The Best Super Bowl TV Deals (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-04 23:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy1iyi6nbbxtbq4ievj0j.png" alt="Feedback on checked exceptions and lambdas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nfrankel/feedback-on-checked-exceptions-and-lambdas-pap" target="_blank">Feedback on checked exceptions and lambdas</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-05 09:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -167,6 +178,15 @@
                 <span class="title"><a href="https://dev.to/emmimal_alexander_3be8cc7/i-implemented-every-sorting-algorithm-in-python-and-pythons-built-in-sort-crushed-them-all-2o25" target="_blank">I Implemented Every Sorting Algorithm in Python — And Python&#x27;s Built-in Sort Crushed Them All</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-05 06:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.comma.ai/datacenter/" target="_blank">Don&#x27;t rent the cloud, own instead</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-05 05:50</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/alpha018/minecraft-docker-my-personal-config-to-stop-suffering-with-java-35a7" target="_blank">🐳 Minecraft + Docker: My personal config to stop suffering with Java</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-05 04:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rupinder_kaur_6730d267d5f/how-to-use-code-metrics-in-net-to-refactor-complex-api-controllers-lle" target="_blank">How to Use Code Metrics in .NET to Refactor Complex API Controllers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-05 03:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/05/noble-upgrade.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 24.04.4 LTS HWE update is now available" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/ubuntu-24-04-4-lts-hwe-now-available" target="_blank">Ubuntu 24.04.4 LTS HWE update is now available</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-05 02:16</span>
             </div>
         </div>
 </div>
@@ -324,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 08:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 09:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
