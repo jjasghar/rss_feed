@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 14:15:00 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-02-05 15:12:49 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 12 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 14:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 15:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters" target="_blank">Nigeria sends troops to villages attacked by jihadist fighters</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-05 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5699392/my-undesirable-friends-russia-julia-loktev" target="_blank">&#x27;More relevant every day&#x27; in the U.S.: A filmmaker documented Russia&#x27;s journalists</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-05 14:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-dublin-buss-bus_7156516.jpg?20260205141951" alt="One dead, three injured after Dublin bus crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/one-dead-three-injured-after-dublin-bus-crash-13503674" target="_blank">One dead, three injured after Dublin bus crash</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-05 13:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +101,38 @@
                 <span class="time">2026-02-05 12:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/5/algerian-boxer-khelif-open-to-genetic-testing-by-ioc-for-2028-olympics?traffic_source=rss" target="_blank">Algerian boxer Khelif open to genetic testing by IOC for 2028 Olympics</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-05 11:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5693856/crocodile-farm-bones-dinosaur-growth-mystery" target="_blank">Searching for dinosaur secrets in crocodile bones</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-05 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/5/in-pakistan-gold-price-rollercoaster-pushes-buyers-to-silver?traffic_source=rss" target="_blank">In Pakistan, gold price rollercoaster pushes buyers to silver</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-05 10:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/" target="_blank">Fundamental raises $255 million Series A with a new take on big data analysis</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-05 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6983b010fe339af0a405c6cf/master/pass/IMG_0074.JPG" alt="Motorola Moto Watch Review: Polar-Powered" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/motorola-moto-watch/" target="_blank">Motorola Moto Watch Review: Polar-Powered</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-05 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/valve-steam-machine-desktop-500x500-1770298750.jpeg" alt="Steam Machine and Steam Frame delays are the latest product of the RAM crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/ram-shortage-delays-valves-steam-machine-desktop-and-steam-frame-headset/" target="_blank">Steam Machine and Steam Frame delays are the latest product of the RAM crisis</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-05 14:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,38 +160,29 @@
                 <span class="time">2026-02-05 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/874255/substack-data-breach-user-emails-phone-numbers" target="_blank">Substack data breach exposed users’ emails and phone numbers</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-05 10:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6983ab1c5fa1799f5baf1edb/master/pass/I%20Didn't%20Care%20for%20Dildos%20Until%20I%20Tried%20This%20One%20From%20Lelo.png" alt="I Didn&#x27;t Care for Dildos Until I Tried This One From Lelo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/i-didnt-care-for-dildos-until-i-tried-this-one-from-lelo/" target="_blank">I Didn&#x27;t Care for Dildos Until I Tried This One From Lelo</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-05 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" alt="Paramount Plus Coupon Codes and Deals: 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/paramount-plus-coupon-code/" target="_blank">Paramount Plus Coupon Codes and Deals: 50% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-05 06:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jamespatterson25/i-built-financial-habits-that-were-easy-to-abandon-2kg" target="_blank">I Built Financial Habits That Were Easy to Abandon</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-05 15:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-arc-b390-panther-lake-linux" target="_blank">Intel Arc B390 Graphics Performance On Linux With Panther Lake</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-05 14:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,30 +211,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2026/02/opencode-coding-agent/en/headerimage/agent2agent-linux-foundation-1770292096035.jpeg" alt="OpenCode: an Open-source AI Coding Agent Competing with Claude Code and Copilot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/opencode-coding-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenCode: an Open-source AI Coding Agent Competing with Claude Code and Copilot</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-05 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The Retail AI Illusion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rawveg/the-retail-ai-illusion-27c2" target="_blank">The Retail AI Illusion</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-05 12:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-26-06/" target="_blank">FOSS Weekly #26.06: Bash Manual in Epstein Files, Linux after Linus, Nano like Editors, France Takes on Big Tech and More</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-05 11:34</span>
+                <span class="title"><a href="https://ubuntu.com//blog/spacemit-announces-availability-of-ubuntu-on-k3-k1-series" target="_blank">SpacemiT announces the availability of  Ubuntu on K3/K1 series RISC-V AI computing platforms</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-02-05 12:00</span>
             </div>
         </div>
 </div>
@@ -236,6 +238,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/GooglePixel10a-nocamerabump2-1280x853.jpg" alt="Google Shows Off Pixel 10a With No Camera Bump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/google-shows-off-pixel-10a-with-no-camera-bump-2000718416" target="_blank">Google Shows Off Pixel 10a With No Camera Bump</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-05 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/Untitled-1-1280x720.jpg" alt="The Next Horizon Game Is A Colorful Three Player Co-Op Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/horizon-hunters-gathering-colorful-three-player-co-op-game-ps5-pc-trailer-2000666041" target="_blank">The Next Horizon Game Is A Colorful Three Player Co-Op Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-05 15:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Bill-Gates-on-PBS-News-Hour-in-2021.jpg?fit=1080%2C698&amp;quality=60&amp;ssl=1" alt="Bill Gates explains the lesson of Jeffrey Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/05/the-lesson.html" target="_blank">Bill Gates explains the lesson of Jeffrey Epstein</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-05 14:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/MS-0205-pirates-of-the-caribbean-1280x853.jpg" alt="Disney’s New Era Could Bring Back ‘Pirates of the Caribbean’ in a Major Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,33 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/how-exercise-snacking-can-get-you-into-working-out?utm_medium=RSS" target="_blank">How &#x27;Exercise Snacking&#x27; Can Get You Into Working Out</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-05 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/eragoncover-2-1280x853.jpg" alt="The ‘Eragon’ Dragon Fantasy Series Is Still Alive at Disney+" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/eragon-disney-plus-tv-update-2000718189" target="_blank">The ‘Eragon’ Dragon Fantasy Series Is Still Alive at Disney+</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-05 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/dario-amodei-1280x853.jpg" alt="Wall Street Apparently Believes the Future Involves Making Your Software Instead of Buying It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/wall-street-apparently-believes-the-future-involves-making-your-software-instead-of-buying-it-2000718250" target="_blank">Wall Street Apparently Believes the Future Involves Making Your Software Instead of Buying It</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-05 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/shutterstock_2673775993-1280x853.jpg" alt="Google’s Gemini 3 Release Won Over More Than 100 Million New Active Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/googles-gemini-3-release-won-over-more-than-100-million-new-active-users-2000718156" target="_blank">Google’s Gemini 3 Release Won Over More Than 100 Million New Active Users</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-05 01:25</span>
             </div>
         </div>
 </div>
@@ -327,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 14:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 15:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
