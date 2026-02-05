@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 02:54:29 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-05 03:45:52 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 02:54 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 03:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/5/australia-charges-teen-over-online-threat-as-israeli-president-due-to-visit?traffic_source=rss" target="_blank">Australia charges teen over online threat as Israeli president due to visit</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-05 03:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/us-supreme-court-rejects-challenge-to-california-redistricting-bid?traffic_source=rss" target="_blank">US Supreme Court rejects challenge to California redistricting effort</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-04 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b666/live/8f9fd430-01b9-11f1-8162-915dd1b9ab69.png" alt="MPs back plan to release Mandelson files after Labour anger forces climbdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyw0050p99o?at_medium=RSS&at_campaign=rss" target="_blank">MPs back plan to release Mandelson files after Labour anger forces climbdown</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-04 22:15</span>
             </div>
         </div>
 </div>
@@ -165,6 +169,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rupinder_kaur_6730d267d5f/how-to-use-code-metrics-in-net-to-refactor-complex-api-controllers-lle" target="_blank">How to Use Code Metrics in .NET to Refactor Complex API Controllers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-05 03:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/COSMIC-Desktop-Features-Coming" target="_blank">System76&#x27;s COSMIC Desktop Planning Vulkan Renderer, Improved Gaming Experience</a></span>
                 <span class="feed">Phoronix</span>
@@ -205,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/om_shree_0709/beginner-friendly-guide-trionic-array-ii-problem-3640-c-python-javascript-52nh" target="_blank">🛩 Beginner-Friendly Guide &#x27;Trionic Array II&#x27; - Problem 3640 (C++, Python, JavaScript)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-04 23:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18867259&w=600" alt="Context Engineering: The Missing Layer for Enterprise-Grade AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/context-engineering-the-missing-layer-for-enterpri" target="_blank">Context Engineering: The Missing Layer for Enterprise-Grade AI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-04 20:00</span>
             </div>
         </div>
 </div>
@@ -295,6 +299,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5759.png" alt="The Horror Of Hormones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5759" target="_blank">The Horror Of Hormones</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-02-05 01:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -326,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 02:54 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 03:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
