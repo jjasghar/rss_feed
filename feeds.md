@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 21:06:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-05 22:03:46 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 21:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 22:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/5/trump-tempers-criticism-of-uks-chagos-islands-deal-after-talk-with-starmer?traffic_source=rss" target="_blank">Trump tempers criticism of UK’s Chagos Islands deal after talk with Starmer</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-05 21:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +96,38 @@
                 <span class="time">2026-02-05 19:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260405-nancy-guthrie-home-ew-142p-817765.jpg" alt="Authorities provide timeline of the night Nancy Guthrie disappeared" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/authorities-provide-timeline-night-nancy-guthrie-disappeared-rcna257590" target="_blank">Authorities provide timeline of the night Nancy Guthrie disappeared</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-05 18:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/streaming/874655/netflix-warner-bros-republican-culture-war-ted-sarandos-hearing" target="_blank">Republicans attack &amp;#8216;woke&amp;#8217; Netflix — and ignore YouTube</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-05 21:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/05/the-washington-post-is-retreating-from-silicon-valley-when-it-matters-most/" target="_blank">The Washington Post is retreating from Silicon Valley when it matters most</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-05 21:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/698250c5268bf1196c8083f9/master/pass/Model-Behavior-Loyalty-is-Dead-Silicon-Valley-Business.jpg" alt="Loyalty Is Dead in Silicon Valley" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/model-behavior-loyalty-is-dead-in-silicon-valley/" target="_blank">Loyalty Is Dead in Silicon Valley</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-05 21:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,38 +155,20 @@
                 <span class="time">2026-02-05 20:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/neo-cities-500x500.jpg" alt="Neocities founder stuck in chatbot hell after Bing blocked 1.5 million sites" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/neocities-founder-stuck-in-chatbot-hell-after-bing-blocked-1-5m-sites/" target="_blank">Neocities founder stuck in chatbot hell after Bing blocked 1.5 million sites</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-05 19:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/874176/meta-zuckerberg-new-mexico-email-teen-girls-research" target="_blank">Zuckerberg considered changing how Meta studies social issues after research got it in trouble</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-05 19:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6984d2fca4fe848b819c567d/master/pass/9%20Great%20Valentine's%20Day%20Deals%20for%20Your%20Lover%20(Or%20Yourself).png" alt="9 Great Deals on WIRED-Approved Valentine&#x27;s Day Gifts (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/valentines-day-deals-2026/" target="_blank">9 Great Deals on WIRED-Approved Valentine&#x27;s Day Gifts (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-05 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://adamj.eu/tech/2026/01/29/django-profile-memray/" target="_blank">Django: profile memory usage with Memray</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-02-05 21:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +214,6 @@
                 <span class="time">2026-02-05 17:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/continuous-ai-in-practice-what-developers-can-automate-today-with-agentic-ci/" target="_blank">Continuous AI in practice: What developers can automate today with agentic CI</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-02-05 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +233,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/darwin-incident-io9-template-circle-light-dark-1280x853.jpg" alt="The Plot of ‘The Darwin Incident’ Is Bananas, But I’ve Gotta See What This Monkey Does Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-plot-of-the-darwin-incident-is-bananas-but-ive-gotta-see-what-this-monkey-does-next-2000718445" target="_blank">The Plot of ‘The Darwin Incident’ Is Bananas, But I’ve Gotta See What This Monkey Does Next</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-05 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/download-1280x720.jpg" alt="Overwatch’s New Jetpack-Using Cat Hero Is An Agent Of Pure Chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/overwatch-jetpack-cat-tether-bob-dva-ultimate-flight-2000666163" target="_blank">Overwatch’s New Jetpack-Using Cat Hero Is An Agent Of Pure Chaos</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-05 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGQNEWSTZPJM7HY91D8X1ZP8/hero-image.png" alt="Car Icons Are Disappearing From Google Maps in Android Auto (but You Might Be Able to Fix It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/what-to-do-if-your-car-icon-disappears-from-google-maps-in-android-auto?utm_medium=RSS" target="_blank">Car Icons Are Disappearing From Google Maps in Android Auto (but You Might Be Able to Fix It)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-05 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/penis-shot-1280x720.jpg" alt="The Winter Olympics Will Make Sure Nobody Cheats By Injecting Their Penis With Acid" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,33 +285,6 @@
                 <span class="title"><a href="https://kotaku.com/sonys-new-live-service-game-is-coming-at-just-the-worst-possible-time-2000666078" target="_blank">Sony’s New Live Service Game Is Coming At Just The Worst Possible Time</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-05 18:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/09/thwaites-doomsday-glacier-report-1024x683.jpg" alt="Scientists Tried Drilling Into Antarctica’s ‘Doomsday Glacier,’ But the Ice Had Other Plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/scientists-tried-drilling-into-the-doomsday-glacier-but-the-ice-had-other-plans-2000718421" target="_blank">Scientists Tried Drilling Into Antarctica’s ‘Doomsday Glacier,’ But the Ice Had Other Plans</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-05 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGQCWZKHFXRJHPKXY1DMA6G4/hero-image.png" alt="This Owala Water Bottle Is My Health Upgrade of the Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/owala-water-bottle-is-my-health-upgrade-of-the-week?utm_medium=RSS" target="_blank">This Owala Water Bottle Is My Health Upgrade of the Week</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-05 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/10/df66cfdccbbdde23357f27eb16349197-1024x575.jpg" alt="Adafruit Warns New Ghost Gun Laws Could Have Unintended Consequences for 3D Printers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/adafruit-warns-new-ghost-gun-laws-could-have-unintended-consequences-for-3d-printers-2000718532" target="_blank">Adafruit Warns New Ghost Gun Laws Could Have Unintended Consequences for 3D Printers</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-05 17:05</span>
             </div>
         </div>
 </div>
@@ -328,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 21:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 22:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
