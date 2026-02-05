@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 13:25:45 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-05 14:15:00 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 13:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 14:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5698522/measles-south-carolina-ice-detention-facilities" target="_blank">Measles continues to spread in the US, but with some letup</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-05 13:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dd0/live/a1904870-f09b-11f0-997f-878467f84f6b.jpg" alt="Captain jailed over North Sea tanker crash death" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/5/in-pakistan-gold-price-rollercoaster-pushes-buyers-to-silver?traffic_source=rss" target="_blank">In Pakistan, gold price rollercoaster pushes buyers to silver</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-05 10:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5693908/police-mental-health-calls-988-911-mobile-crisis-teams" target="_blank">They help police with mental health calls. So why are &#x27;mobile crisis&#x27; teams in crisis?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-05 10:00</span>
             </div>
         </div>
 </div>
@@ -216,10 +211,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pratik098/currying-in-javascript-jhd" target="_blank">Currying in JavaScript</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-05 11:07</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-26-06/" target="_blank">FOSS Weekly #26.06: Bash Manual in Epstein Files, Linux after Linus, Nano like Editors, France Takes on Big Tech and More</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-05 11:34</span>
             </div>
         </div>
 </div>
@@ -242,12 +237,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/MS-0205-pirates-of-the-caribbean-1280x853.jpg" alt="Disney’s New Era Could Bring Back ‘Pirates of the Caribbean’ in a Major Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/pirates-of-the-caribbean-reboot-disney-josh-damaro-margot-robbie-2000718094" target="_blank">Disney’s New Era Could Bring Back ‘Pirates of the Caribbean’ in a Major Way</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-05 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/lego-star-wars-1280x853.jpg" alt="LEGO Goes All-In on Star Wars, The Dark Millennium Falcon Drops Back to Record Low With 6 Minifigures Included" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/lego-goes-all-in-on-star-wars-the-dark-millennium-falcon-drops-back-to-record-low-with-6-minifigures-included-2000665839" target="_blank">LEGO Goes All-In on Star Wars, The Dark Millennium Falcon Drops Back to Record Low With 6 Minifigures Included</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-05 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGMYK5Z721QQ1SJ6QYSYGBR4/hero-image.jpg" alt="How &#x27;Exercise Snacking&#x27; Can Get You Into Working Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/how-exercise-snacking-can-get-you-into-working-out?utm_medium=RSS" target="_blank">How &#x27;Exercise Snacking&#x27; Can Get You Into Working Out</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-05 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -275,24 +288,6 @@
                 <span class="title"><a href="https://gizmodo.com/googles-gemini-3-release-won-over-more-than-100-million-new-active-users-2000718156" target="_blank">Google’s Gemini 3 Release Won Over More Than 100 Million New Active Users</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-05 01:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/Stema-Machine.jpg" alt="Valve Says Its New Console Plays The ‘Majority’ Of Steam Games At 4K 60FPS With FSR" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/steam-machine-resolution-framerate-specs-2000665807" target="_blank">Valve Says Its New Console Plays The ‘Majority’ Of Steam Games At 4K 60FPS With FSR</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-05 01:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/yawn.jpeg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Yawning has an unexpected influence on the fluid inside your brain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/04/yawning-has-an-unexpected-influence-on-the-fluid-inside-your-brain.html" target="_blank">Yawning has an unexpected influence on the fluid inside your brain</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-05 01:12</span>
             </div>
         </div>
 </div>
@@ -332,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 13:25 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 14:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
