@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 07:19:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-05 08:08:50 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 07:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 08:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +49,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/5/south-sudan-hospital-hit-by-government-air-strike-msf-says?traffic_source=rss" target="_blank">South Sudan hospital hit by government air strike, MSF says</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-05 07:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/05/g-s1-108780/nike-federal-probe-discrimination-white-workers" target="_blank">Nike faces federal probe over allegations of discrimination against white workers</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-05 06:59</span>
             </div>
         </div>
 <div class="story">
@@ -92,15 +96,6 @@
                 <span class="time">2026-02-05 03:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/5/nike-probed-by-trump-appointee-over-claims-of-bias-against-white-workers?traffic_source=rss" target="_blank">Nike probed by Trump appointee over claims of bias against white workers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-05 02:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -113,6 +108,15 @@
                 <span class="title"><a href="https://www.wired.com/story/paramount-plus-coupon-code/" target="_blank">Paramount Plus Coupon Codes and Deals: 50% Off</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-05 06:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/embalm2-500x500-1770223261.jpg" alt="Museums incorporate &quot;scent of the afterlife&quot; into Egyptian exhibits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/02/museums-incorporate-scent-of-the-afterlife-into-egyptian-exhibits/" target="_blank">Museums incorporate &quot;scent of the afterlife&quot; into Egyptian exhibits</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-05 05:01</span>
             </div>
         </div>
 <div class="story">
@@ -149,15 +153,6 @@
                 <span class="title"><a href="https://www.wired.com/gallery/super-bowl-tv-deals-2026/" target="_blank">The Best Super Bowl TV Deals (2026)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-04 23:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/01/russia-state-hacking-500x500.jpg" alt="Microsoft releases urgent Office patch. Russian-state hackers pounce." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/" target="_blank">Microsoft releases urgent Office patch. Russian-state hackers pounce.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-04 23:08</span>
             </div>
         </div>
 </div>
@@ -324,22 +319,13 @@
                 <span class="time">2026-02-04 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/02/04/liver-me-timbers" target="_blank">Liver Me Timbers</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-02-04 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 07:19 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 08:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
