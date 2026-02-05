@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 15:12:49 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-05 16:12:11 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 29 feeds processed -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 15:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 16:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5584085/census-citizenship-question" target="_blank">Trump officials propose testing a citizenship question amid a push to alter the census</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-05 16:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81b8/live/dc0705f0-0290-11f1-9e0e-291cedfbaca5.jpg" alt="Starmer apologises to Epstein victims for believing Mandelson&#x27;s &#x27;lies&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp37v4kyv3eo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer apologises to Epstein victims for believing Mandelson&#x27;s &#x27;lies&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-05 15:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,6 +81,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/nancy-guthrie_1770125728074_hpMain_4x3t_384.jpg" alt="Search intensifies for Savannah Guthrie&#x27;s missing mom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/search-missing-mother-today-show-host-savannah-guthrie/story?id=129863954" target="_blank">Search intensifies for Savannah Guthrie&#x27;s missing mom</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-05 14:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/02/1920x1080/skynews-dublin-buss-bus_7156516.jpg?20260205141951" alt="One dead, three injured after Dublin bus crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -74,38 +98,29 @@
                 <span class="time">2026-02-05 13:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5698522/measles-south-carolina-ice-detention-facilities" target="_blank">Measles continues to spread in the US, but with some letup</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-05 13:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dd0/live/a1904870-f09b-11f0-997f-878467f84f6b.jpg" alt="Captain jailed over North Sea tanker crash death" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c801zgpm3meo?at_medium=RSS&at_campaign=rss" target="_blank">Captain jailed over North Sea tanker crash death</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-05 13:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/5/israeli-air-attacks-on-lebanon-reach-highest-level-since-ceasefire-report?traffic_source=rss" target="_blank">Israeli air attacks on Lebanon reach highest level since ceasefire: Report</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-05 12:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/BH-TDE-500x500-1770139330.jpg" alt="This black hole &quot;burps&quot; with Death Star energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/02/this-black-hole-burps-with-death-star-energy/" target="_blank">This black hole &quot;burps&quot; with Death Star energy</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-05 16:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/05/trumps-critical-mineral-reserve-is-an-admission-that-the-future-is-electric/" target="_blank">Trump’s critical mineral reserve is an admission that the future is electric</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-05 15:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,24 +155,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/05/googles-subscriptions-rise-in-q4-as-youtube-pulls-60b-in-yearly-revenue/" target="_blank">Google’s subscriptions rise in Q4 as YouTube pulls $60B in yearly revenue</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-05 12:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/874134/spotify-page-match-audiobook-sync" target="_blank">Spotify’s Page Match syncs your audiobooks and your physical ones</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-05 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/05/spotify-ventures-into-physical-book-sales-adds-new-audiobook-features/" target="_blank">Spotify ventures into physical book sales, adds new audiobook features</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-05 12:00</span>
             </div>
         </div>
 </div>
@@ -257,6 +254,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGQ3V0TARZ8VAEYAF6AV0VPA/hero-image.png" alt="This JBL Party Speaker Is on Sale for $600 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/jbl-partybox-520-speaker-sale-february-2026?utm_medium=RSS" target="_blank">This JBL Party Speaker Is on Sale for $600 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-05 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Bill-Gates-on-PBS-News-Hour-in-2021.jpg?fit=1080%2C698&amp;quality=60&amp;ssl=1" alt="Bill Gates explains the lesson of Jeffrey Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -281,15 +287,6 @@
                 <span class="title"><a href="https://kotaku.com/lego-goes-all-in-on-star-wars-the-dark-millennium-falcon-drops-back-to-record-low-with-6-minifigures-included-2000665839" target="_blank">LEGO Goes All-In on Star Wars, The Dark Millennium Falcon Drops Back to Record Low With 6 Minifigures Included</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-05 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGMYK5Z721QQ1SJ6QYSYGBR4/hero-image.jpg" alt="How &#x27;Exercise Snacking&#x27; Can Get You Into Working Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/how-exercise-snacking-can-get-you-into-working-out?utm_medium=RSS" target="_blank">How &#x27;Exercise Snacking&#x27; Can Get You Into Working Out</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-05 13:00</span>
             </div>
         </div>
 </div>
@@ -329,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 15:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 16:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
