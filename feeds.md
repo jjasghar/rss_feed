@@ -1,37 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 04:31:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-05 05:23:12 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 04:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 05:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5699511/epa-trump-enforcement" target="_blank">Trump&#x27;s EPA issues record low legal actions against polluters, watchdog group finds</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-05 05:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/5/un-warns-of-humanitarian-collapse-in-cuba-as-us-seeks-to-block-oil-supplies?traffic_source=rss" target="_blank">UN warns of humanitarian collapse in Cuba as US seeks to block oil supplies</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-05 04:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +91,6 @@
                 <span class="title"><a href="https://news.sky.com/story/winter-olympics-show-respect-rather-than-jeer-the-americans-says-ioc-boss-13503461" target="_blank">Don&#x27;t boo the Americans, Olympics boss tells spectators</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-02-05 01:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/04/nx-s1-5701409/tiktok-censorship-report-epstein" target="_blank">Researchers say no evidence of TikTok censorship, but they remain wary</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-04 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/ukraine-says-first-day-of-peace-talks-with-russia?traffic_source=rss" target="_blank">Ukraine says first day of peace talks with Russia ‘productive’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-04 22:52</span>
             </div>
         </div>
 </div>
@@ -168,6 +160,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-To-Fix-Nouveau-Large" target="_blank">Linux 7.0 Should Fix Nouveau For The Large Pages Support For Better NVK Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-05 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/alpha018/minecraft-docker-my-personal-config-to-stop-suffering-with-java-35a7" target="_blank">🐳 Minecraft + Docker: My personal config to stop suffering with Java</a></span>
                 <span class="feed">DEV Community</span>
@@ -181,6 +182,15 @@
                 <span class="title"><a href="https://dev.to/rupinder_kaur_6730d267d5f/how-to-use-code-metrics-in-net-to-refactor-complex-api-controllers-lle" target="_blank">How to Use Code Metrics in .NET to Refactor Complex API Controllers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-05 03:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="LinkedIn Re-Architects Service Discovery: Replacing Zookeeper with Kafka and xDS at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/linkedin-service-discovery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">LinkedIn Re-Architects Service Discovery: Replacing Zookeeper with Kafka and xDS at Scale</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-05 01:21</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +209,6 @@
                 <span class="title"><a href="https://www.djangoproject.com/weblog/2026/feb/04/recent-trends-security-team/" target="_blank">Recent trends in the work of the Django Security Team</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-02-05 01:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ujja/i-know-this-will-upset-some-devs-but-tailwind-shadcnui-shadow-dom-pain-44l7" target="_blank">I Know This Will Upset Some Devs, but Tailwind + Shadcn/ui + Shadow DOM = Pain</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-05 00:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been" target="_blank">OpenClaw Is What Apple Intelligence Should Have Been</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-05 00:28</span>
             </div>
         </div>
 </div>
@@ -338,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 04:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 05:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
