@@ -1,43 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 00:08:02 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-05 01:30:55 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 34 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 00:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -113,6 +106,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69838ba1bb077e4491edcd6c/master/pass/Netflix-Says-Users-Can-Cancel-Service-if-HBO-Merger-Makes-It-Too-Expensive-Culture-2259276121.jpg" alt="Netflix Says if the HBO Merger Makes It Too Expensive, You Can Always Cancel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/netflix-says-users-can-cancel-service-if-hbo-merger-too-expensive/" target="_blank">Netflix Says if the HBO Merger Makes It Too Expensive, You Can Always Cancel</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-05 00:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/" target="_blank">Sam Altman got exceptionally testy over Claude Super Bowl ads</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-05 00:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6983cf43b985567c3631b969/master/pass/Best%20TVs%20Deals%20Before%20the%20Big%20Game.png" alt="The Best Super Bowl TV Deals (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -148,29 +159,38 @@
                 <span class="time">2026-02-04 22:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/04/elon-musks-spacex-company-town-is-getting-a-police-department/" target="_blank">Elon Musk’s SpaceX company town is getting a police department</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-04 21:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/873755/nintendo-switch-virtual-boy-impressions" target="_blank">Nintendo’s new Virtual Boy is more fun to look at than to play</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-04 21:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.djangoproject.com/weblog/2026/feb/04/recent-trends-security-team/" target="_blank">Recent trends in the work of the Django Security Team</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-02-05 01:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ujja/i-know-this-will-upset-some-devs-but-tailwind-shadcnui-shadow-dom-pain-44l7" target="_blank">I Know This Will Upset Some Devs, but Tailwind + Shadcn/ui + Shadow DOM = Pain</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-05 00:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been" target="_blank">OpenClaw Is What Apple Intelligence Should Have Been</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-05 00:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,33 +218,6 @@
                 <span class="time">2026-02-04 19:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe3P-LPG-Nova-Lake-P" target="_blank">Intel Sends Out Initial Linux Patches For Xe3P_LPG Graphics With Nova Lake P</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-04 19:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18866202&w=600" alt="UX Research in the Age of AI: From Validation to Anticipation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ux-research-in-the-age-of-ai-from-validation-to-an" target="_blank">UX Research in the Age of AI: From Validation to Anticipation</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-04 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-third-golden-age-of-software" target="_blank">The third golden age of software engineering – thanks to AI, with Grady Booch</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-02-04 18:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/shutterstock_2673775993-1280x853.jpg" alt="Google’s Gemini 3 Release Won Over More Than 100 Million New Active Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/googles-gemini-3-release-won-over-more-than-100-million-new-active-users-2000718156" target="_blank">Google’s Gemini 3 Release Won Over More Than 100 Million New Active Users</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-05 01:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/blood-of-heroes-retro-1280x853.jpg" alt="Somehow, I’d Never Heard of This Post-Apocalyptic Football Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +291,6 @@
                 <span class="time">2026-02-04 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGN5P4G0PAEEDJNP61768PSA/hero-image.png" alt="How to Avoid Paying Crunchyroll&#x27;s Recent Price Increase" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/how-to-avoid-paying-crunchyrolls-recent-price-increase?utm_medium=RSS" target="_blank">How to Avoid Paying Crunchyroll&#x27;s Recent Price Increase</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-04 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,22 +323,13 @@
                 <span class="time">2026-02-04 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5757.png" alt="Comics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5757" target="_blank">Comics</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-02-04 01:04</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 00:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
