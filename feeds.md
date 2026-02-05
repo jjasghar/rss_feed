@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 18:13:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-05 19:14:20 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 18:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 19:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Latest on search for Nancy Guthrie: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Latest on search for Nancy Guthrie: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-05 19:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260405-nancy-guthrie-home-ew-142p-817765.jpg" alt="Authorities provide timeline of the night Nancy Guthrie disappeared" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/authorities-provide-timeline-night-nancy-guthrie-disappeared-rcna257590" target="_blank">Authorities provide timeline of the night Nancy Guthrie disappeared</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-05 18:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +99,20 @@
                 <span class="time">2026-02-05 16:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81b8/live/dc0705f0-0290-11f1-9e0e-291cedfbaca5.jpg" alt="Starmer apologises to Epstein victims for believing Mandelson&#x27;s &#x27;lies&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp37v4kyv3eo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer apologises to Epstein victims for believing Mandelson&#x27;s &#x27;lies&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-05 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters" target="_blank">Nigeria sends troops to villages attacked by jihadist fighters</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-05 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6984d2fca4fe848b819c567d/master/pass/9%20Great%20Valentine's%20Day%20Deals%20for%20Your%20Lover%20(Or%20Yourself).png" alt="9 Great Deals on WIRED-Approved Valentine&#x27;s Day Gifts (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/valentines-day-deals-2026/" target="_blank">9 Great Deals on WIRED-Approved Valentine&#x27;s Day Gifts (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-05 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +158,6 @@
                 <span class="time">2026-02-05 15:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/" target="_blank">Fundamental raises $255 million Series A with a new take on big data analysis</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-05 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +170,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Battlemage-D3cold-Again" target="_blank">Intel Xe Linux Driver Will No Longer Block D3cold For All Battlemage GPUs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-05 18:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18869294&w=600" alt="When Your Cloud Bill Becomes an Outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/when-your-cloud-bill-becomes-an-outage" target="_blank">When Your Cloud Bill Becomes an Outage</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-05 18:00</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +217,6 @@
                 <span class="time">2026-02-05 16:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jamespatterson25/i-built-financial-habits-that-were-easy-to-abandon-2kg" target="_blank">I Built Financial Habits That Were Easy to Abandon</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-05 15:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,12 +237,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/sony-1280x720.jpg" alt="Sony’s New Live Service Game Is Coming At Just The Worst Possible Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sonys-new-live-service-game-is-coming-at-just-the-worst-possible-time-2000666078" target="_blank">Sony’s New Live Service Game Is Coming At Just The Worst Possible Time</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-05 18:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/09/thwaites-doomsday-glacier-report-1024x683.jpg" alt="Scientists Tried Drilling Into Antarctica’s ‘Doomsday Glacier,’ But the Ice Had Other Plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/scientists-tried-drilling-into-the-doomsday-glacier-but-the-ice-had-other-plans-2000718421" target="_blank">Scientists Tried Drilling Into Antarctica’s ‘Doomsday Glacier,’ But the Ice Had Other Plans</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-05 18:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGQCWZKHFXRJHPKXY1DMA6G4/hero-image.png" alt="This Owala Water Bottle Is My Health Upgrade of the Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/owala-water-bottle-is-my-health-upgrade-of-the-week?utm_medium=RSS" target="_blank">This Owala Water Bottle Is My Health Upgrade of the Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-05 17:30</span>
             </div>
         </div>
 <div class="story">
@@ -270,24 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/ankers-8-in-1-usb-c-docking-station-crashes-to-an-all-time-low-barely-any-margin-left-at-this-price-2000665542" target="_blank">Anker’s 8-in-1 USB-C Docking Station Crashes to an All-Time Low, Barely Any Margin Left at This Price</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-05 16:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/GooglePixel10a-nocamerabump2-1280x853.jpg" alt="Google Shows Off Pixel 10a With No Camera Bump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/google-shows-off-pixel-10a-with-no-camera-bump-2000718416" target="_blank">Google Shows Off Pixel 10a With No Camera Bump</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-05 15:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/Untitled-1-1280x720.jpg" alt="The Next Horizon Game Is A Colorful Three Player Co-Op Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/horizon-hunters-gathering-colorful-three-player-co-op-game-ps5-pc-trailer-2000666041" target="_blank">The Next Horizon Game Is A Colorful Three Player Co-Op Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-05 15:09</span>
             </div>
         </div>
 </div>
@@ -327,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 18:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 19:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
