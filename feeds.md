@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 01:30:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-05 02:54:29 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 02:54 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/5/nike-probed-by-trump-appointee-over-claims-of-bias-against-white-workers?traffic_source=rss" target="_blank">Nike probed by Trump appointee over claims of bias against white workers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-05 02:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770256229591_nn_llamas_trump_interview_260204_1920x1080-cunvrv.jpg" alt="President Trump talks Minneapolis, Joe Rogan, the Fed, AI and 2028 in a wide-ranging interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/president-trump-talks-minneapolis-joe-rogan-the-fed-ai-and-2028-in-a-wide-ranging-interview-257181765849" target="_blank">President Trump talks Minneapolis, Joe Rogan, the Fed, AI and 2028 in a wide-ranging interview</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-05 01:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/04/nx-s1-5701409/tiktok-censorship-report-epstein" target="_blank">Researchers say no evidence of TikTok censorship, but they remain wary</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-04 23:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,33 +98,6 @@
                 <span class="time">2026-02-04 22:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/04/nx-s1-5699462/judges-accountability-abuse-clerks-judge-mark-wolf" target="_blank">Newly released court records reveal misconduct inquiry into federal judge</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-04 22:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eadf/live/1c9247c0-01f5-11f1-b5e2-dd58fc65f0f6.jpg" alt="Fearing Russia will seize her town, war widow moves husband&#x27;s grave to Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgr25e2lj5o?at_medium=RSS&at_campaign=rss" target="_blank">Fearing Russia will seize her town, war widow moves husband&#x27;s grave to Kyiv</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-04 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/2/4/return-through-rafah-palestinian-women-describe-israeli-interrogation?traffic_source=rss" target="_blank">Return through Rafah: Palestinian women recount Israeli interrogation</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-04 21:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -121,6 +119,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/" target="_blank">Sam Altman got exceptionally testy over Claude Super Bowl ads</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-05 00:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis" target="_blank">Valve’s Steam Machine has been delayed, and the RAM crisis will impact pricing</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-05 00:12</span>
             </div>
         </div>
 <div class="story">
@@ -150,20 +157,20 @@
                 <span class="time">2026-02-04 22:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/874161/google-400-billion-revenue-q4-2025-earnings" target="_blank">Google&amp;#8217;s annual revenue tops $400 billion for the first time</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-04 22:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/COSMIC-Desktop-Features-Coming" target="_blank">System76&#x27;s COSMIC Desktop Planning Vulkan Renderer, Improved Gaming Experience</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-05 01:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +216,6 @@
                 <span class="time">2026-02-04 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj889xg312xb6lvxhpnju.png" alt="Introducing gdpr-safe-rag: Build GDPR-Compliant RAG Systems in Minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/charles_nwankpa/introducing-gdpr-safe-rag-build-gdpr-compliant-rag-systems-in-minutes-4ap4" target="_blank">Introducing gdpr-safe-rag: Build GDPR-Compliant RAG Systems in Minutes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-04 19:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +245,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/Stema-Machine.jpg" alt="Valve Says Its New Console Plays The ‘Majority’ Of Steam Games At 4K 60FPS With FSR" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/steam-machine-resolution-framerate-specs-2000665807" target="_blank">Valve Says Its New Console Plays The ‘Majority’ Of Steam Games At 4K 60FPS With FSR</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-05 01:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/yawn.jpeg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Yawning has an unexpected influence on the fluid inside your brain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/04/yawning-has-an-unexpected-influence-on-the-fluid-inside-your-brain.html" target="_blank">Yawning has an unexpected influence on the fluid inside your brain</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-05 01:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/blood-of-heroes-retro-1280x853.jpg" alt="Somehow, I’d Never Heard of This Post-Apocalyptic Football Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -271,24 +287,6 @@
                 <span class="title"><a href="https://kotaku.com/overwatch-heroes-characters-hotter-young-skins-collab-2000665796" target="_blank">Why Blizzard Says It’s Been Making Overwatch Heroes Hotter</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-04 21:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/02/neil-gaiman-shutterstock_1197364363.jpg?fit=1200%2C715&amp;quality=60&amp;ssl=1" alt="Neil Gaiman breaks year-long silence, calls sexual misconduct accusations &quot;completely untrue&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/04/neil-gaiman-breaks-year-long-silence-calls-sexual-misconduct-accusations-completely-untrue.html" target="_blank">Neil Gaiman breaks year-long silence, calls sexual misconduct accusations &quot;completely untrue&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-04 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/overwatch-2-mizuki-1280x853.jpg" alt="‘Overwatch 2’ Rebrands, and Its Messy Arc Is Complete" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/overwatch-2-rebrands-and-its-messy-arc-is-complete-2000717981" target="_blank">‘Overwatch 2’ Rebrands, and Its Messy Arc Is Complete</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-04 21:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 02:54 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
