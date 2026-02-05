@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 11:11:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-05 12:06:22 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 11:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 12:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/5/algerian-boxer-khelif-open-to-genetic-testing-by-ioc-for-2028-olympics?traffic_source=rss" target="_blank">Algerian boxer Khelif open to genetic testing by IOC for 2028 Olympics</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-05 11:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +97,29 @@
                 <span class="time">2026-02-05 08:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/5/south-sudan-hospital-hit-by-government-air-strike-msf-says?traffic_source=rss" target="_blank">South Sudan hospital hit by government air strike, MSF says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-05 07:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/874134/spotify-page-match-audiobook-sync" target="_blank">Spotify’s Page Match syncs your audiobooks and your physical ones</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-05 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/05/spotify-ventures-into-physical-book-sales-adds-new-audiobook-features/" target="_blank">Spotify ventures into physical book sales, adds new audiobook features</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-05 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +156,29 @@
                 <span class="time">2026-02-05 05:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69838ba1bb077e4491edcd6c/master/pass/Netflix-Says-Users-Can-Cancel-Service-if-HBO-Merger-Makes-It-Too-Expensive-Culture-2259276121.jpg" alt="Netflix Says if the HBO Merger Makes It Too Expensive, You Can Always Cancel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/netflix-says-users-can-cancel-service-if-hbo-merger-too-expensive/" target="_blank">Netflix Says if the HBO Merger Makes It Too Expensive, You Can Always Cancel</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-05 00:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/" target="_blank">Sam Altman got exceptionally testy over Claude Super Bowl ads</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-05 00:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/opencode-coding-agent/en/headerimage/agent2agent-linux-foundation-1770292096035.jpeg" alt="OpenCode: an Open-source AI Coding Agent Competing with Claude Code and Copilot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/opencode-coding-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenCode: an Open-source AI Coding Agent Competing with Claude Code and Copilot</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-05 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The Retail AI Illusion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rawveg/the-retail-ai-illusion-27c2" target="_blank">The Retail AI Illusion</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-05 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +215,6 @@
                 <span class="time">2026-02-05 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy1iyi6nbbxtbq4ievj0j.png" alt="Feedback on checked exceptions and lambdas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nfrankel/feedback-on-checked-exceptions-and-lambdas-pap" target="_blank">Feedback on checked exceptions and lambdas</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-05 09:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/emmimal_alexander_3be8cc7/i-implemented-every-sorting-algorithm-in-python-and-pythons-built-in-sort-crushed-them-all-2o25" target="_blank">I Implemented Every Sorting Algorithm in Python — And Python&#x27;s Built-in Sort Crushed Them All</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-05 06:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,9 +224,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/us-declassifies-information-on-jumpseat-spy-satellites.html" target="_blank">US Declassifies Information on JUMPSEAT Spy Satellites</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/backdoor-in-notepad.html" target="_blank">Backdoor in Notepad++</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-04 12:02</span>
+                <span class="time">2026-02-05 12:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 11:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 12:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
