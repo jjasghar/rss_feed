@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 10:12:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-05 11:11:39 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DZone -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 10:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 11:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5693856/crocodile-farm-bones-dinosaur-growth-mystery" target="_blank">Searching for dinosaur secrets in crocodile bones</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-05 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/5/in-pakistan-gold-price-rollercoaster-pushes-buyers-to-silver?traffic_source=rss" target="_blank">In Pakistan, gold price rollercoaster pushes buyers to silver</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-05 10:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5693908/police-mental-health-calls-988-911-mobile-crisis-teams" target="_blank">They help police with mental health calls. So why are &#x27;mobile crisis&#x27; teams in crisis?</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-05 10:00</span>
@@ -61,6 +83,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afe4/live/494b2a50-022e-11f1-8566-473996904d56.jpg" alt="US must be prudent when supplying arms to Taiwan, Xi tells Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62wpjd3j1zo?at_medium=RSS&at_campaign=rss" target="_blank">US must be prudent when supplying arms to Taiwan, Xi tells Trump</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-05 08:36</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -69,38 +100,20 @@
                 <span class="time">2026-02-05 07:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/05/g-s1-108780/nike-federal-probe-discrimination-white-workers" target="_blank">Nike faces federal probe over allegations of discrimination against white workers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-05 06:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/5/live-after-barrage-of-threats-us-and-iran-set-to-hold-talks-on-friday?traffic_source=rss" target="_blank">LIVE: After barrage of threats, US and Iran set to hold talks on Friday</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-05 05:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/capitol-1-ap-er-260204_1770239544266_hpMain_4x3t_384.jpg" alt="What to know about the congressional fight over ICE restrictions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/congressional-fight-ice-restrictions-government-shutdown/story?id=129856318" target="_blank">What to know about the congressional fight over ICE restrictions</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-05 05:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/874255/substack-data-breach-user-emails-phone-numbers" target="_blank">Substack data breach exposed users’ emails and phone numbers</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-05 10:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6983ab1c5fa1799f5baf1edb/master/pass/I%20Didn't%20Care%20for%20Dildos%20Until%20I%20Tried%20This%20One%20From%20Lelo.png" alt="I Didn&#x27;t Care for Dildos Until I Tried This One From Lelo" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +159,38 @@
                 <span class="time">2026-02-05 00:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis" target="_blank">Valve’s Steam Machine has been delayed, and the RAM crisis will impact pricing</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-05 00:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pratik098/currying-in-javascript-jhd" target="_blank">Currying in JavaScript</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-05 11:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Krita-6.0-Beta" target="_blank">Krita 6.0 Beta Released - Using Qt6 &amp; Wayland Color Management Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-05 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/libreoffice-26-2-release/" target="_blank">LibreOffice 26.2 is a Maintenance Release That Feels Like a Stable One</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-05 10:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,33 +216,6 @@
                 <span class="title"><a href="https://dev.to/emmimal_alexander_3be8cc7/i-implemented-every-sorting-algorithm-in-python-and-pythons-built-in-sort-crushed-them-all-2o25" target="_blank">I Implemented Every Sorting Algorithm in Python — And Python&#x27;s Built-in Sort Crushed Them All</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-05 06:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.comma.ai/datacenter/" target="_blank">Don&#x27;t rent the cloud, own instead</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-05 05:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://rachelbythebay.com/w/2026/02/03/badnas/" target="_blank">When internal hostnames are leaked to the clown</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-05 05:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-To-Fix-Nouveau-Large" target="_blank">Linux 7.0 Should Fix Nouveau For The Large Pages Support For Better NVK Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-05 05:00</span>
             </div>
         </div>
 </div>
@@ -324,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 10:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 11:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
