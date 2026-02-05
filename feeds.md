@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 16:12:11 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-05 17:15:40 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 16:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 17:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -163,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/02/raspberry-pi-4-revision-1-5.webp?resize=406%2C232&amp;ssl=1" alt="New Raspberry Pi 4 models splits RAM across dual chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/raspberry-pi-4-rev-1-5-dual-ram" target="_blank">New Raspberry Pi 4 models splits RAM across dual chips</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-02-05 16:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +216,6 @@
                 <span class="time">2026-02-05 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/spacemit-announces-availability-of-ubuntu-on-k3-k1-series" target="_blank">SpacemiT announces the availability of  Ubuntu on K3/K1 series RISC-V AI computing platforms</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-02-05 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +235,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/10/df66cfdccbbdde23357f27eb16349197-1024x575.jpg" alt="Adafruit Warns New Ghost Gun Laws Could Have Unintended Consequences for 3D Printers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/adafruit-warns-new-ghost-gun-laws-could-have-unintended-consequences-for-3d-printers-2000718532" target="_blank">Adafruit Warns New Ghost Gun Laws Could Have Unintended Consequences for 3D Printers</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-05 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Steam-Machine.png?fit=1133%2C491&amp;quality=55&amp;ssl=1" alt="Valve&#x27;s Steam Machine delayed after part prices soar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/05/steammachine.html" target="_blank">Valve&#x27;s Steam Machine delayed after part prices soar</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-05 16:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/anker-hub-1280x853.jpg" alt="Anker’s 8-in-1 USB-C Docking Station Crashes to an All-Time Low, Barely Any Margin Left at This Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ankers-8-in-1-usb-c-docking-station-crashes-to-an-all-time-low-barely-any-margin-left-at-this-price-2000665542" target="_blank">Anker’s 8-in-1 USB-C Docking Station Crashes to an All-Time Low, Barely Any Margin Left at This Price</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-05 16:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/GooglePixel10a-nocamerabump2-1280x853.jpg" alt="Google Shows Off Pixel 10a With No Camera Bump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,33 +289,6 @@
                 <span class="time">2026-02-05 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Bill-Gates-on-PBS-News-Hour-in-2021.jpg?fit=1080%2C698&amp;quality=60&amp;ssl=1" alt="Bill Gates explains the lesson of Jeffrey Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/05/the-lesson.html" target="_blank">Bill Gates explains the lesson of Jeffrey Epstein</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-05 14:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/MS-0205-pirates-of-the-caribbean-1280x853.jpg" alt="Disney’s New Era Could Bring Back ‘Pirates of the Caribbean’ in a Major Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/pirates-of-the-caribbean-reboot-disney-josh-damaro-margot-robbie-2000718094" target="_blank">Disney’s New Era Could Bring Back ‘Pirates of the Caribbean’ in a Major Way</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-05 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/lego-star-wars-1280x853.jpg" alt="LEGO Goes All-In on Star Wars, The Dark Millennium Falcon Drops Back to Record Low With 6 Minifigures Included" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lego-goes-all-in-on-star-wars-the-dark-millennium-falcon-drops-back-to-record-low-with-6-minifigures-included-2000665839" target="_blank">LEGO Goes All-In on Star Wars, The Dark Millennium Falcon Drops Back to Record Low With 6 Minifigures Included</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-05 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,22 +312,13 @@
                 <span class="time">2026-02-04 22:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1770084994-20260204.png" alt="Saturday Morning Breakfast Cereal - Socrates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/socrates" target="_blank">Saturday Morning Breakfast Cereal - Socrates</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-02-04 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 16:12 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 17:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
