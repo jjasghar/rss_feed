@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 03:45:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-05 04:31:34 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 03:46 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 04:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -76,6 +75,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-milan-ice-protest_7151369.jpg?20260131165627" alt="Don&#x27;t boo the Americans, Olympics boss tells spectators" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/winter-olympics-show-respect-rather-than-jeer-the-americans-says-ioc-boss-13503461" target="_blank">Don&#x27;t boo the Americans, Olympics boss tells spectators</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-05 01:31</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -91,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/ukraine-says-first-day-of-peace-talks-with-russia?traffic_source=rss" target="_blank">Ukraine says first day of peace talks with Russia ‘productive’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-04 22:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/us-supreme-court-rejects-challenge-to-california-redistricting-bid?traffic_source=rss" target="_blank">US Supreme Court rejects challenge to California redistricting effort</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-04 22:26</span>
             </div>
         </div>
 </div>
@@ -170,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alpha018/minecraft-docker-my-personal-config-to-stop-suffering-with-java-35a7" target="_blank">🐳 Minecraft + Docker: My personal config to stop suffering with Java</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-05 04:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rupinder_kaur_6730d267d5f/how-to-use-code-metrics-in-net-to-refactor-complex-api-controllers-lle" target="_blank">How to Use Code Metrics in .NET to Refactor Complex API Controllers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-05 03:37</span>
@@ -209,15 +217,6 @@
                 <span class="title"><a href="https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been" target="_blank">OpenClaw Is What Apple Intelligence Should Have Been</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-05 00:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/om_shree_0709/beginner-friendly-guide-trionic-array-ii-problem-3640-c-python-javascript-52nh" target="_blank">🛩 Beginner-Friendly Guide &#x27;Trionic Array II&#x27; - Problem 3640 (C++, Python, JavaScript)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-04 23:42</span>
             </div>
         </div>
 </div>
@@ -339,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 03:46 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 04:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
