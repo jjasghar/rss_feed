@@ -1,35 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-02-04 23:03:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-05 00:08:02 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, February 04, 2026 - 23:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 00:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/4/ukraine-says-first-day-of-peace-talks-with-russia?traffic_source=rss" target="_blank">Ukraine says first day of peace talks with Russia ‘productive’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-04 22:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,6 +90,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eadf/live/1c9247c0-01f5-11f1-b5e2-dd58fc65f0f6.jpg" alt="Fearing Russia will seize her town, war widow moves husband&#x27;s grave to Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgr25e2lj5o?at_medium=RSS&at_campaign=rss" target="_blank">Fearing Russia will seize her town, war widow moves husband&#x27;s grave to Kyiv</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-04 21:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -81,29 +107,29 @@
                 <span class="time">2026-02-04 21:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/04/nx-s1-5697392/moltbook-social-media-ai-agents" target="_blank">Moltbook is the newest social media platform — but it&#x27;s just for AI bots</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-04 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-9-ap-gmh-260130_1769795314689_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Trump says admin could use a &#x27;softer touch&#x27; on immigration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-alex-pretti-shooting-death-immigration/?id=129787621" target="_blank">Minneapolis live updates: Trump says admin could use a &#x27;softer touch&#x27; on immigration</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-04 20:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6983cf43b985567c3631b969/master/pass/Best%20TVs%20Deals%20Before%20the%20Big%20Game.png" alt="The Best Super Bowl TV Deals (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/super-bowl-tv-deals-2026/" target="_blank">The Best Super Bowl TV Deals (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-04 23:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/01/russia-state-hacking-500x500.jpg" alt="Microsoft releases urgent Office patch. Russian-state hackers pounce." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/" target="_blank">Microsoft releases urgent Office patch. Russian-state hackers pounce.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-04 23:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -111,6 +137,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/" target="_blank">Google’s Gemini app has surpassed 750M monthly active users</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-04 22:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/874161/google-400-billion-revenue-q4-2025-earnings" target="_blank">Google&amp;#8217;s annual revenue tops $400 billion for the first time</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-04 22:41</span>
             </div>
         </div>
 <div class="story">
@@ -131,38 +166,20 @@
                 <span class="time">2026-02-04 21:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698395e087ec5034b0c0037c/master/pass/Measles-Cases-Leading-to-Encephalitis-Science-1339206252.jpg" alt="Measles Is Causing Brain Swelling in Children in South Carolina" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/measles-is-causing-brain-swelling-in-children-in-south-carolina/" target="_blank">Measles Is Causing Brain Swelling in Children in South Carolina</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-04 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/874084/ai-chatgpt-claude-super-bowl-ads-openai-anthropic" target="_blank">Sam Altman responds to Anthropic’s ‘funny’ Super Bowl ads</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-04 21:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_0060-1-500x500.jpg" alt="US House takes first step toward creating &quot;commercial&quot; deep space program" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/02/us-house-takes-first-step-toward-creating-commercial-deep-space-program/" target="_blank">US House takes first step toward creating &quot;commercial&quot; deep space program</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-04 21:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/om_shree_0709/beginner-friendly-guide-trionic-array-ii-problem-3640-c-python-javascript-52nh" target="_blank">🛩 Beginner-Friendly Guide &#x27;Trionic Array II&#x27; - Problem 3640 (C++, Python, JavaScript)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-04 23:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18867259&w=600" alt="Context Engineering: The Missing Layer for Enterprise-Grade AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +223,6 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-third-golden-age-of-software" target="_blank">The third golden age of software engineering – thanks to AI, with Grady Booch</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2026-02-04 18:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jairo-dev-jr/defer-vs-immediate-reactive-flow-creation-and-why-your-circuit-breaker-can-decide-too-early-3bll" target="_blank">Defer vs Immediate Reactive Flow Creation (and why your Circuit Breaker can “decide too early”)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-04 18:04</span>
             </div>
         </div>
 </div>
@@ -296,6 +304,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/04/liver-me-timbers" target="_blank">Liver Me Timbers</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-02-04 22:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1770084994-20260204.png" alt="Saturday Morning Breakfast Cereal - Socrates" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -327,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 41 | 📸 With Images: 270 |
-        🔄 Last Updated: 23:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 00:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
