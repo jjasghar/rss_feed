@@ -1,29 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 06:16:25 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-02-05 07:19:25 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 06:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 07:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/5/south-sudan-hospital-hit-by-government-air-strike-msf-says?traffic_source=rss" target="_blank">South Sudan hospital hit by government air strike, MSF says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-05 07:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/5/nike-probed-by-trump-appointee-over-claims-of-bias-against-white-workers?traffic_source=rss" target="_blank">Nike probed by Trump appointee over claims of bias against white workers</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-05 02:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770256229591_nn_llamas_trump_interview_260204_1920x1080-cunvrv.jpg" alt="President Trump talks Minneapolis, Joe Rogan, the Fed, AI and 2028 in a wide-ranging interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/president-trump-talks-minneapolis-joe-rogan-the-fed-ai-and-2028-in-a-wide-ranging-interview-257181765849" target="_blank">President Trump talks Minneapolis, Joe Rogan, the Fed, AI and 2028 in a wide-ranging interview</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-05 01:50</span>
             </div>
         </div>
 </div>
@@ -169,6 +177,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://rachelbythebay.com/w/2026/02/03/badnas/" target="_blank">When internal hostnames are leaked to the clown</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-05 05:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-To-Fix-Nouveau-Large" target="_blank">Linux 7.0 Should Fix Nouveau For The Large Pages Support For Better NVK Performance</a></span>
                 <span class="feed">Phoronix</span>
@@ -194,21 +211,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="LinkedIn Re-Architects Service Discovery: Replacing Zookeeper with Kafka and xDS at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/05/noble-upgrade.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 24.04.4 LTS HWE update is now available" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/linkedin-service-discovery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">LinkedIn Re-Architects Service Discovery: Replacing Zookeeper with Kafka and xDS at Scale</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-05 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/COSMIC-Desktop-Features-Coming" target="_blank">System76&#x27;s COSMIC Desktop Planning Vulkan Renderer, Improved Gaming Experience</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-05 01:13</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/ubuntu-24-04-4-lts-hwe-now-available" target="_blank">Ubuntu 24.04.4 LTS HWE update is now available</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-02-05 02:16</span>
             </div>
         </div>
 </div>
@@ -330,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 06:16 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 07:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
