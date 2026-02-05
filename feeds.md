@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 09:13:12 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-05 10:12:02 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 09:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, February 05, 2026 - 10:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5693908/police-mental-health-calls-988-911-mobile-crisis-teams" target="_blank">They help police with mental health calls. So why are &#x27;mobile crisis&#x27; teams in crisis?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-05 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/5/gunmen-kill-nearly-200-people-in-nigeria?traffic_source=rss" target="_blank">Gunmen kill nearly 200 people in Nigeria</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-05 09:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,30 +88,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://s.abcnews.com/images/Politics/capitol-1-ap-er-260204_1770239544266_hpMain_4x3t_384.jpg" alt="What to know about the congressional fight over ICE restrictions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5699511/epa-trump-enforcement" target="_blank">Trump&#x27;s EPA issues record low legal actions against polluters, watchdog group finds</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-05 05:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/5/un-warns-of-humanitarian-collapse-in-cuba-as-us-seeks-to-block-oil-supplies?traffic_source=rss" target="_blank">UN warns of humanitarian collapse in Cuba as US seeks to block oil supplies</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-05 04:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/5/australia-charges-teen-over-online-threat-as-israeli-president-due-to-visit?traffic_source=rss" target="_blank">Australia charges teen over online threat as Israeli president due to visit</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-05 03:18</span>
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/congressional-fight-ice-restrictions-government-shutdown/story?id=129856318" target="_blank">What to know about the congressional fight over ICE restrictions</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-05 05:39</span>
             </div>
         </div>
 </div>
@@ -163,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-ISPC-1.30-Released" target="_blank">Intel ISPC 1.30 Released With AMX Support Added To The Standard Library</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-05 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy1iyi6nbbxtbq4ievj0j.png" alt="Feedback on checked exceptions and lambdas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +214,6 @@
                 <span class="time">2026-02-05 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alpha018/minecraft-docker-my-personal-config-to-stop-suffering-with-java-35a7" target="_blank">🐳 Minecraft + Docker: My personal config to stop suffering with Java</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-05 04:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/dario-amodei-1280x853.jpg" alt="Wall Street Apparently Believes the Future Involves Making Your Software Instead of Buying It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/wall-street-apparently-believes-the-future-involves-making-your-software-instead-of-buying-it-2000718250" target="_blank">Wall Street Apparently Believes the Future Involves Making Your Software Instead of Buying It</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-05 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/shutterstock_2673775993-1280x853.jpg" alt="Google’s Gemini 3 Release Won Over More Than 100 Million New Active Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +287,6 @@
                 <span class="time">2026-02-04 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/Anran-1280x720.jpg" alt="Why Blizzard Says It’s Been Making Overwatch Heroes Hotter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/overwatch-heroes-characters-hotter-young-skins-collab-2000665796" target="_blank">Why Blizzard Says It’s Been Making Overwatch Heroes Hotter</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-04 21:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 09:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 10:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
