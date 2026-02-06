@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-06 06:14:04 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-06 07:17:01 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, February 06, 2026 - 06:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, February 06, 2026 - 07:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/06/nx-s1-5704104/argentina-us-trade-deal" target="_blank">Argentina and US sign a major trade deal to slash tariffs and boost political alliance</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-06 07:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-iran-us_7156991.jpg?20260206053604" alt="Iran and US to begin high-stakes talks amid fears of conflict" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/iran-and-us-to-begin-high-stakes-talks-amid-fears-of-conflict-13503914" target="_blank">Iran and US to begin high-stakes talks amid fears of conflict</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-06 05:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5702493/trumprx-drug-prices-discounts" target="_blank">White House unveils TrumpRx website for medication discounts</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-06 03:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/05/g-s1-108605/up-first-winter-games-videos" target="_blank">What to watch at the 2026 Olympics</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-06 01:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/6/trump-rejects-call-from-russias-putin-to-extend-cap-on-nuclear-deployments?traffic_source=rss" target="_blank">Trump rejects call from Russia’s Putin to extend cap on nuclear deployments</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-06 01:07</span>
             </div>
         </div>
 </div>
@@ -175,6 +171,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/02/conductor-quantum-coda/en/headerimage/generatedHeaderImage-1770196279507.jpg" alt="Conductor Quantum Introduces Coda, a Natural Language Interface for Quantum Computing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/conductor-quantum-coda/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Conductor Quantum Introduces Coda, a Natural Language Interface for Quantum Computing</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-06 06:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yghys70jxlt9e7iwqmn.png" alt="Your DevRel is Your Biggest Bottleneck" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/devpicon/ios-cocoapods-cheatsheet-3j5b" target="_blank">[iOS] CocoaPods cheatsheet</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-06 02:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffqn01cg5y8kcad8mc7ln.png" alt="Microsoft Teams: como fazer bom uso para o dia a dia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vitoriazzp/microsoft-teams-como-fazer-bom-uso-para-o-dia-a-dia-3e77" target="_blank">Microsoft Teams: como fazer bom uso para o dia a dia</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-06 01:25</span>
             </div>
         </div>
 </div>
@@ -320,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 06:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 07:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
