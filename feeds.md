@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-06 18:10:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-06 19:13:59 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, February 06, 2026 - 18:10 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, February 06, 2026 - 19:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,10 +49,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/6/republicans-condemn-racist-trump-video-post-depicting-obamas-as-apes?traffic_source=rss" target="_blank">Republicans condemn racist Trump video post depicting Obamas as apes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-06 18:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35cf/live/3f374500-0380-11f1-b5e2-dd58fc65f0f6.jpg" alt="Police search properties linked to Mandelson over Epstein investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c99k9yzzvm4o?at_medium=RSS&at_campaign=rss" target="_blank">Police search properties linked to Mandelson over Epstein investigation</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-06 18:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/02/06/nx-s1-5704281/trump-posts-racist-meme-of-the-obamas-then-deletes-it" target="_blank">Trump posts racist meme of the Obamas — then deletes it</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-06 17:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbbc/live/8c424470-0331-11f1-bb5c-eb75deabbf98.jpg" alt="Russian general shot several times in Moscow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3686nzexp3o?at_medium=RSS&at_campaign=rss" target="_blank">Russian general shot several times in Moscow</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-06 16:39</span>
             </div>
         </div>
 <div class="story">
@@ -73,38 +100,20 @@
                 <span class="time">2026-02-06 15:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770388359729_now_mnn_ice_facial_tech_260206_1920x1080-w4j851.jpg" alt="How ICE agents are using facial recognition to bring surveillance to the streets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/how-ice-agents-are-using-facial-recognition-to-bring-surveillance-to-the-streets-257273413563" target="_blank">How ICE agents are using facial recognition to bring surveillance to the streets</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-06 14:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/6/crypto-winter-why-is-bitcoin-crashing-despite-trumps-support?traffic_source=rss" target="_blank">‘Crypto winter’: Why is Bitcoin crashing despite Trump’s support?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-06 13:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-russia-alexeyev-assasination_7157416.jpg?20260206133713" alt="This Russian general fought and meddled for Putin around the world, now he&#x27;s fighting for his own life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/this-russian-general-fought-and-meddled-for-vladimir-putin-around-the-world-now-hes-fighting-for-his-own-life-13504073" target="_blank">This Russian general fought and meddled for Putin around the world, now he&#x27;s fighting for his own life</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-06 13:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/875014/jeffrey-epstein-fortnite-account-fake" target="_blank">The Jeffrey Epstein Fortnite account is fake</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-06 19:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +159,20 @@
                 <span class="time">2026-02-06 16:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6983d17e27e294ea7eb1b76f/master/pass/Backchannel-Constitution-of-Claude-Business-2191761606.jpg" alt="The Only Thing Standing Between Humanity and AI Apocalypse Is … Claude?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-only-thing-standing-between-humanity-and-ai-apocalypse-is-claude/" target="_blank">The Only Thing Standing Between Humanity and AI Apocalypse Is … Claude?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-06 16:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18869018&w=600" alt="Building Modern Full-Stack Python Applications: MVC Architecture Meets Enterprise-Ready Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-modern-full-stack-python-applications-mvc" target="_blank">Building Modern Full-Stack Python Applications: MVC Architecture Meets Enterprise-Ready Python</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-06 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,21 +210,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1paemsm78j1s0jykr14g.png" alt="Context Rot: From Agent Loop to Agent Swarm — Solving Context Persistence in AI-Assisted Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/simone_callegari_1f56a902/context-rot-from-agent-loop-to-agent-swarm-solving-context-persistence-in-ai-assisted-development-3ada" target="_blank">Context Rot: From Agent Loop to Agent Swarm — Solving Context Persistence in AI-Assisted Development</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-06 15:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18869730&w=600" alt="Hybrid Vector Graph with AI Agents for Software Test Case Creation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/hybrid-vector-graph-with-ai-agents-for-software-te" target="_blank">Hybrid Vector Graph with AI Agents for Software Test Case Creation</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-06 15:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation" target="_blank">The Waymo World Model: A New Frontier for Autonomous Driving Simulation</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-06 16:20</span>
             </div>
         </div>
 </div>
@@ -299,6 +299,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/tell-you-something/" target="_blank">Tell You Something</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-02-06 16:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1770264297-20260206.png" alt="Saturday Morning Breakfast Cereal - Curse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/curse-2" target="_blank">Saturday Morning Breakfast Cereal - Curse</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-02-06 16:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/comic/2026/02/06/dropping-the-deuce" target="_blank">Dropping The Deuce</a></span>
                 <span class="feed">Penny Arcade</span>
@@ -319,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 270 |
-        🔄 Last Updated: 18:10 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 271 |
+        🔄 Last Updated: 19:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
