@@ -1,28 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-06 09:12:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-06 10:11:03 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 20 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, February 06, 2026 - 09:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, February 06, 2026 - 10:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/06/g-s1-108803/olympics-melania-westminster-dog-groundhog" target="_blank">What does the CIA not want you to know? The quiz has the secret</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-06 10:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/6/thailand-election-2026-what-are-the-main-parties-what-do-polls-suggest?traffic_source=rss" target="_blank">Thailand election 2026: What are the main parties? What do polls suggest?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-06 05:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8e3/live/e02efcf0-030d-11f1-9ffd-279f7a8c86da.jpg" alt="Top government figures to hand over private messages with Mandelson" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0q4jk5pnl9o?at_medium=RSS&at_campaign=rss" target="_blank">Top government figures to hand over private messages with Mandelson</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-06 04:35</span>
             </div>
         </div>
 </div>
@@ -157,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fspq36obcb05kfwyl00ho.png" alt="When Enterprises Vibe Code On A Grand Scale and Its a Rare W!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/theonemohitsharma/when-enterprises-vibe-code-on-a-grand-scale-and-its-a-rare-w-4gjo" target="_blank">When Enterprises Vibe Code On A Grand Scale and Its a Rare W!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-06 09:56</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
@@ -199,15 +214,6 @@
                 <span class="title"><a href="https://itsfoss.com/news/di-day-celebration/" target="_blank">DI.DAY is a Movement to Encourage People to Ditch Big Tech</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-02-06 05:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/harsh_a45dbc191edc27e4b96/-modern-malwares-anti-forensics-n8h" target="_blank">💀 Modern Malware’s Anti-Forensics</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-06 05:07</span>
             </div>
         </div>
 </div>
@@ -289,6 +295,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/02/06/dropping-the-deuce" target="_blank">Dropping The Deuce</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-02-06 08:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5760.png" alt="Come To My Window" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -311,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 09:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 10:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
