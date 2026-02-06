@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-06 21:05:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-06 22:01:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: The Verge -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, February 06, 2026 - 21:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, February 06, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -66,6 +64,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-4-rt-gmh-260204_1770216095541_hpMain_4x3t_384.jpg" alt="White House takes down racist video shared by Trump about Obamas after backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-shares-video-includes-racist-depiction-obamas-sparking/story?id=129918626" target="_blank">White House takes down racist video shared by Trump about Obamas after backlash</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-06 18:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35cf/live/3f374500-0380-11f1-b5e2-dd58fc65f0f6.jpg" alt="Police search properties linked to Mandelson over Epstein investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -92,20 +99,20 @@
                 <span class="time">2026-02-06 16:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/6/what-barak-epstein-audio-says-about-israeli-controlling-demographics?traffic_source=rss" target="_blank">What Barak-Epstein audio says about Israeli controlling demographics</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-06 15:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor" target="_blank">Apple might let you use ChatGPT from CarPlay</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-06 21:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/09/new-glenn_gs2-hotfire-500x500.webp" alt="To reuse or not reuse—the eternal debate of New Glenn&#x27;s second stage reignites" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +158,20 @@
                 <span class="time">2026-02-06 17:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/874945/spotify-about-the-song-ai-liner-notes" target="_blank">Spotify’s About the Song offers context and trivia about your favorite tracks</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-06 17:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.2-Released" target="_blank">Wine 11.2 Released With More Improvements &amp; 32 Bug Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-06 21:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,20 +217,20 @@
                 <span class="time">2026-02-06 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/ubuntu-logo-riscv.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 is coming to SpacemiT’s K3 (RISC-V RVA23 SoC)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/spacemit-k3-rva23-ubuntu-26-04-lts" target="_blank">Ubuntu 26.04 is coming to SpacemiT’s K3 (RISC-V RVA23 SoC)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-06 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-tips.html" target="_blank">Friday Squid Blogging: Squid Fishing Tips</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-02-06 22:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -247,6 +254,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/Screenshot-2026-02-06-163830.jpg" alt="The Analogue 3D Is Giving These Unreleased N64 Colors A Second Chance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/analogue-3d-n64-colors-new-prototype-2000666525" target="_blank">The Analogue 3D Is Giving These Unreleased N64 Colors A Second Chance</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-06 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGJMNHHRGEWT36MDWZ1BZDNM/hero-image.jpg" alt="Is Virtual Reality Really Dead?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/is-virtual-reality-dead?utm_medium=RSS" target="_blank">Is Virtual Reality Really Dead?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-06 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/skeletor-masters-of-the-universe-revelations-1280x853.jpg" alt="Travis Knight Insisted Skeletor Had His Skull Face for ‘Masters of the Universe’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +306,6 @@
                 <span class="title"><a href="https://kotaku.com/mindseye-cyber-boi-youtuber-leak-lawsuit-2000666474" target="_blank">Report: MindsEye Boss Claims $1 Million Media Conspiracy To Ruin His Game In Leaked Video</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-06 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/super-movies-superman-super-troopers-super-ex-girlfriend-1280x853.jpg" alt="15 Super Movies for Super Bowl Sunday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/15-super-movies-for-super-bowl-sunday-2000716733" target="_blank">15 Super Movies for Super Bowl Sunday</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-06 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Gboard.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="I love my Pixel Fold but hate its on-screen keyboard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/06/i-love-my-pixel-fold-but-hate-its-on-screen-keyboard.html" target="_blank">I love my Pixel Fold but hate its on-screen keyboard</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-06 16:55</span>
             </div>
         </div>
 </div>
@@ -356,8 +363,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 21:06 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
