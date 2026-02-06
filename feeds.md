@@ -1,29 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-06 16:09:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-06 17:13:28 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 20 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, February 06, 2026 - 16:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, February 06, 2026 - 17:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -99,6 +106,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/06/kindle-scribe-colorsoft-review-e-ink-color-tablet/" target="_blank">The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-06 16:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6983d17e27e294ea7eb1b76f/master/pass/Backchannel-Constitution-of-Claude-Business-2191761606.jpg" alt="The Only Thing Standing Between Humanity and AI Apocalypse Is … Claude?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-only-thing-standing-between-humanity-and-ai-apocalypse-is-claude/" target="_blank">The Only Thing Standing Between Humanity and AI Apocalypse Is … Claude?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-06 16:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2210397222-500x500-1770392087.jpg" alt="Stellantis swallows $26 billion costs as it rethinks its EV strategy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -134,29 +159,29 @@
                 <span class="time">2026-02-06 14:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/874551/geely-volvo-china-cars-us-software-restrictions" target="_blank">Can China’s No. 2 automaker make it in America?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-06 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/HAGSSN-X0AAwd5a-500x500.jpg" alt="Rocket Report: SpaceX probes upper stage malfunction; Starship testing resumes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/02/rocket-report-spacex-probes-upper-stage-malfunction-starship-testing-resumes/" target="_blank">Rocket Report: SpaceX probes upper stage malfunction; Starship testing resumes</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-06 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/beyondmachines/line-tv-partner-choco-media-entertainment-reports-data-breach-5f52" target="_blank">Line TV Partner Choco Media Entertainment Reports Data Breach</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-06 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18869763&w=600" alt="The Real Cost of DevOps Backup Scripts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/the-real-cost-of-devops-backup-scripts" target="_blank">The Real Cost of DevOps Backup Scripts</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-06 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1paemsm78j1s0jykr14g.png" alt="Context Rot: From Agent Loop to Agent Swarm — Solving Context Persistence in AI-Assisted Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,24 +218,6 @@
                 <span class="time">2026-02-06 13:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8byt4kmganswwv9xe70d.jpg" alt="Next.js App Router - Loyiha Strukturasi (Project Structure) To&#x27;liq Qo&#x27;llanma" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/matkarimov099/nextjs-app-router-loyiha-strukturasi-project-structure-toliq-qollanma-3f47" target="_blank">Next.js App Router - Loyiha Strukturasi (Project Structure) To&#x27;liq Qo&#x27;llanma</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-06 13:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://maxhalford.github.io/blog/text-classification-zstd/" target="_blank">Text classification with Python 3.14&#x27;s zstd module</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-02-06 13:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Gboard.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="I love my Pixel Fold but hate its on-screen keyboard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/06/i-love-my-pixel-fold-but-hate-its-on-screen-keyboard.html" target="_blank">I love my Pixel Fold but hate its on-screen keyboard</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-06 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGSTD1SZQ3KGA0KRYY8YS9BH/hero-image.jpg" alt="Spotify Will Now Use AI to Tell You the Meaning Behind Your Favorite Songs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/spotifys-about-the-song-feature-summarizes-the-meaning-of-songs?utm_medium=RSS" target="_blank">Spotify Will Now Use AI to Tell You the Meaning Behind Your Favorite Songs</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-06 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/HP-Business-Laptop-1280x853.jpg" alt="HP 15.6-Inch Laptop (2026 Edition) Falls to 55% Off After Its Second Price Cut in a Month on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +291,6 @@
                 <span class="time">2026-02-06 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/JBL-Flip-7-1280x853.jpg" alt="JBL Flip 7 Quietly Crashes to Its Lowest Price as Amazon Pushes Portable Bluetooth Speaker Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/jbl-flip-7-quietly-crashes-to-its-lowest-price-as-amazon-pushes-portable-bluetooth-speaker-deals-2000666204" target="_blank">JBL Flip 7 Quietly Crashes to Its Lowest Price as Amazon Pushes Portable Bluetooth Speaker Deals</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-06 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/wyden.jpg?fit=1980%2C1423&amp;quality=60&amp;ssl=1" alt="Alarming letter from Senator Ron Wyden draws attention to whatever the CIA is up to" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/06/wyden.html" target="_blank">Alarming letter from Senator Ron Wyden draws attention to whatever the CIA is up to</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-06 13:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -307,22 +314,13 @@
                 <span class="time">2026-02-06 01:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1770264180-20260205_edit.png" alt="Saturday Morning Breakfast Cereal - Ha" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/ha-2" target="_blank">Saturday Morning Breakfast Cereal - Ha</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-02-05 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 16:10 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 17:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
