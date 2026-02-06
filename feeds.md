@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-06 10:11:03 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-06 11:10:44 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, February 06, 2026 - 10:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, February 06, 2026 - 11:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/06/nx-s1-5703603/court-records-chicago-immigration-raid-was-about-squatters-not-venezuelan-gangs" target="_blank">Court records: Chicago immigration raid was about squatters, not Venezuelan gangs</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-06 10:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +98,20 @@
                 <span class="time">2026-02-06 05:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/6/thailand-election-2026-what-are-the-main-parties-what-do-polls-suggest?traffic_source=rss" target="_blank">Thailand election 2026: What are the main parties? What do polls suggest?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-06 05:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/874736/android-quick-share-apple-airdrop-support-expansion" target="_blank">Google is expanding AirDrop support to more Android devices ‘very soon’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-06 10:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +157,20 @@
                 <span class="time">2026-02-05 22:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/streaming/874655/netflix-warner-bros-republican-culture-war-ted-sarandos-hearing" target="_blank">Republicans attack &amp;#8216;woke&amp;#8217; Netflix — and ignore YouTube</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-05 21:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/swift-apps-services/en/mediumimage/cory-benfield-medium-1769589232042.jpg" alt="Presentation: Expanding Swift from Apps to Services" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/swift-apps-services/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Expanding Swift from Apps to Services</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-06 10:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fspq36obcb05kfwyl00ho.png" alt="When Enterprises Vibe Code On A Grand Scale and Its a Rare W!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -181,6 +190,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/qwen-code-sysadmin-tasks/" target="_blank">I Ditched Claude Code and Now Using Open Source Qwen AI for Real Sysadmin Work</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-06 08:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/02/baseui-v1-accessible/en/headerimage/generatedHeaderImage-1770233177777.jpg" alt="MUI Releases Base UI 1 with 35 Accessible Components" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -196,24 +214,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/02/conductor-quantum-coda/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Conductor Quantum Introduces Coda, a Natural Language Interface for Quantum Computing</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-02-06 06:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yghys70jxlt9e7iwqmn.png" alt="Your DevRel is Your Biggest Bottleneck" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dorahacks/your-devrel-is-your-biggest-bottleneck-12c0" target="_blank">Your DevRel is Your Biggest Bottleneck</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-06 05:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/di-day-celebration/" target="_blank">DI.DAY is a Movement to Encourage People to Ditch Big Tech</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-06 05:33</span>
             </div>
         </div>
 </div>
@@ -326,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 10:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 11:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
