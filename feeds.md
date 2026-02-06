@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-02-06 15:11:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-06 16:09:55 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, February 06, 2026 - 15:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, February 06, 2026 - 16:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/6/what-barak-epstein-audio-says-about-israeli-controlling-demographics?traffic_source=rss" target="_blank">What Barak-Epstein audio says about Israeli controlling demographics</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-06 15:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/06/nx-s1-5692947/super-bowl-lx-patriots-fans" target="_blank">Hate them or not, Patriots fans want the glory back in Super Bowl LX</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-06 15:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +93,29 @@
                 <span class="time">2026-02-06 12:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/102a/live/9c16c540-0324-11f1-9972-d3f265c101c6.jpg" alt="US and Iran hold talks as fears of direct conflict continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr57g1y8286o?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran hold talks as fears of direct conflict continue</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-06 11:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd22/live/6b5737d0-0349-11f1-a423-8bf34c43c5e3.jpg" alt="More than 30 killed in blast at Pakistan mosque, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cg7y7gz2835o?at_medium=RSS&at_campaign=rss" target="_blank">More than 30 killed in blast at Pakistan mosque, officials say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-06 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2210397222-500x500-1770392087.jpg" alt="Stellantis swallows $26 billion costs as it rethinks its EV strategy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/02/stellantis-swallows-26-billion-costs-as-it-rethinks-its-ev-strategy/" target="_blank">Stellantis swallows $26 billion costs as it rethinks its EV strategy</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-06 15:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/06/chinas-salt-typhoon-hackers-broke-into-norwegian-companies/" target="_blank">China’s Salt Typhoon hackers broke into Norwegian companies</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-06 15:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/685f456cde3ddb7f4c50fa01/master/pass/Update-%20The%20Best%203-in-1%20Apple%20Wireless%20Chargers.png" alt="The Best 3-in-1 Apple Charging Stations (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +152,29 @@
                 <span class="time">2026-02-06 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6973aa74436287e7ad118027/master/pass/gear-waymo-dc-2223991463.jpg" alt="Waymo Hits a Rough Patch In Washington, DC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/waymo-hits-a-rough-patch-in-washington-dc/" target="_blank">Waymo Hits a Rough Patch In Washington, DC</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-06 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/874736/android-quick-share-apple-airdrop-support-expansion" target="_blank">Google is expanding AirDrop support to more Android devices ‘very soon’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-06 10:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1paemsm78j1s0jykr14g.png" alt="Context Rot: From Agent Loop to Agent Swarm — Solving Context Persistence in AI-Assisted Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/simone_callegari_1f56a902/context-rot-from-agent-loop-to-agent-swarm-solving-context-persistence-in-ai-assisted-development-3ada" target="_blank">Context Rot: From Agent Loop to Agent Swarm — Solving Context Persistence in AI-Assisted Development</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-06 15:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18869730&w=600" alt="Hybrid Vector Graph with AI Agents for Software Test Case Creation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/hybrid-vector-graph-with-ai-agents-for-software-te" target="_blank">Hybrid Vector Graph with AI Agents for Software Test Case Creation</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-06 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/02/linkedin-redesigns-sast-pipeline/en/headerimage/generatedHeaderImage-1769573261709.jpg" alt="LinkedIn Leverages GitHub Actions, CodeQL, and Semgrep for Code Scanning" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,24 +211,6 @@
                 <span class="time">2026-02-06 13:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/" target="_blank">I now assume that all ads on Apple news are scams</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-06 12:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/robin-ivi/laravel-eloquent-tips-tricks-every-pro-developer-should-know-4f86" target="_blank">Laravel Eloquent Tips &amp; Tricks Every Pro Developer Should Know</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-06 11:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +230,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/HP-Business-Laptop-1280x853.jpg" alt="HP 15.6-Inch Laptop (2026 Edition) Falls to 55% Off After Its Second Price Cut in a Month on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hp-15-6-inch-laptop-2026-edition-falls-to-55-off-after-its-second-price-cut-in-a-month-on-amazon-2000666207" target="_blank">HP 15.6-Inch Laptop (2026 Edition) Falls to 55% Off After Its Second Price Cut in a Month on Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-06 15:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/cyclist-1280x853.jpg" alt="Researchers Asked Drivers to Interpret Cyclist Signals. It Didn’t Go Well" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +284,6 @@
                 <span class="time">2026-02-06 13:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HN3S83XW1VRJP7THNSSWMSCA/hero-image.png" alt="How to Stream Super Bowl LX Without Cable" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/how-to-watch-super-bowl-lx-without-cable-2026?utm_medium=RSS" target="_blank">How to Stream Super Bowl LX Without Cable</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-06 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 15:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 16:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
