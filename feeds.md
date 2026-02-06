@@ -1,31 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-06 02:54:17 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-06 03:45:51 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, February 06, 2026 - 02:54 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, February 06, 2026 - 03:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5702493/trumprx-drug-prices-discounts" target="_blank">White House unveils TrumpRx website for medication discounts</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-06 03:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +104,6 @@
                 <span class="time">2026-02-05 23:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5590091/a-jane-doe-in-the-r-kelly-trials-is-ready-to-share-her-real-name-and-her-story" target="_blank">A &quot;Jane Doe&quot; in the R. Kelly trials is ready to share her real name. And her story.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-05 21:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -107,6 +116,15 @@
                 <span class="title"><a href="https://www.theverge.com/entertainment/874682/hbo-baldurs-gate-3-tv-show-craig-mazin" target="_blank">HBO is turning Baldur’s Gate into a TV show</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-06 00:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/698514546f54668694781045/master/pass/sci-earth-magneticfield-1349223076.jpg" alt="Two Titanic Structures Hidden Deep Within the Earth Have Altered the Magnetic Field for Millions of Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/titanic-structures-earth-magnetic-field-millions-of-years/" target="_blank">Two Titanic Structures Hidden Deep Within the Earth Have Altered the Magnetic Field for Millions of Years</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-05 23:58</span>
             </div>
         </div>
 <div class="story">
@@ -143,15 +161,6 @@
                 <span class="title"><a href="https://www.theverge.com/streaming/874655/netflix-warner-bros-republican-culture-war-ted-sarandos-hearing" target="_blank">Republicans attack &amp;#8216;woke&amp;#8217; Netflix — and ignore YouTube</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-05 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/05/the-washington-post-is-retreating-from-silicon-valley-when-it-matters-most/" target="_blank">The Washington Post is retreating from Silicon Valley when it matters most</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-05 21:36</span>
             </div>
         </div>
 </div>
@@ -314,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 02:54 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 03:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
