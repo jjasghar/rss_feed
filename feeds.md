@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-06 20:04:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-06 21:05:44 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 33 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, February 06, 2026 - 20:04 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, February 06, 2026 - 21:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/6/oil-and-us-oversight-how-is-venezuelas-interim-government-surviving?traffic_source=rss" target="_blank">Oil and US oversight: How is Venezuela’s interim government surviving?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-06 20:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/6/what-barak-epstein-audio-says-about-israeli-controlling-demographics?traffic_source=rss" target="_blank">What Barak-Epstein audio says about Israeli controlling demographics</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-06 15:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/06/nx-s1-5692947/super-bowl-lx-patriots-fans" target="_blank">Hate them or not, Patriots fans want the glory back in Super Bowl LX</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-06 15:43</span>
             </div>
         </div>
 </div>
@@ -172,6 +168,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/paperium/hello-edge-keyword-spotting-on-microcontrollers-3f6k" target="_blank">Hello Edge: Keyword Spotting on Microcontrollers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-06 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18871705&w=600" alt="Understanding AI Agent Types:Guide to 8 Modern AI Architectures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/understanding-ai-agent-types-ai-architectures" target="_blank">Understanding AI Agent Types:Guide to 8 Modern AI Architectures</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-06 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-ML-LIB-RFC" target="_blank">ML-LIB: Machine Learning Library Proposed For The Linux Kernel</a></span>
                 <span class="feed">Phoronix</span>
@@ -205,29 +219,20 @@
                 <span class="time">2026-02-06 17:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fluorite-Toyota-Game-Engine" target="_blank">Toyota Developing A Console-Grade, Open-Source Game Engine - Using Flutter &amp; Dart</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-06 17:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.mostlypython.com/anatomy-of-a-python-function/" target="_blank">Anatomy of a Python Function</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-02-06 17:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/i-am-in-the-epstein-files.html" target="_blank">I Am in the Epstein Files</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-02-06 20:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -249,6 +254,15 @@
                 <span class="title"><a href="https://gizmodo.com/travis-knight-insisted-skeletor-had-his-skull-face-for-masters-of-the-universe-2000719056" target="_blank">Travis Knight Insisted Skeletor Had His Skull Face for ‘Masters of the Universe’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-06 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Jeffrey-Epstein-left-and-Brett-Ratner-right-.jpg?fit=1080%2C718&amp;quality=60&amp;ssl=1" alt="How sleuths are recovering hidden Epstein documents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/06/how-sleuths-are-recovering-hidden-epstein-documents.html" target="_blank">How sleuths are recovering hidden Epstein documents</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-06 19:50</span>
             </div>
         </div>
 <div class="story">
@@ -285,15 +299,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/06/i-love-my-pixel-fold-but-hate-its-on-screen-keyboard.html" target="_blank">I love my Pixel Fold but hate its on-screen keyboard</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-06 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGSTD1SZQ3KGA0KRYY8YS9BH/hero-image.jpg" alt="Spotify Will Now Use AI to Tell You the Meaning Behind Your Favorite Songs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/spotifys-about-the-song-feature-summarizes-the-meaning-of-songs?utm_medium=RSS" target="_blank">Spotify Will Now Use AI to Tell You the Meaning Behind Your Favorite Songs</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-06 16:30</span>
             </div>
         </div>
 </div>
@@ -351,8 +356,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 20:04 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 21:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
