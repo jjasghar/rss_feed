@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-06 05:21:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-06 06:14:04 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, February 06, 2026 - 05:21 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, February 06, 2026 - 06:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/6/thailand-election-2026-what-are-the-main-parties-what-do-polls-suggest?traffic_source=rss" target="_blank">Thailand election 2026: What are the main parties? What do polls suggest?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-06 05:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8e3/live/e02efcf0-030d-11f1-9ffd-279f7a8c86da.jpg" alt="Top government figures to hand over private messages with Mandelson" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/6/trump-rejects-call-from-russias-putin-to-extend-cap-on-nuclear-deployments?traffic_source=rss" target="_blank">Trump rejects call from Russia’s Putin to extend cap on nuclear deployments</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-06 01:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="Guthrie family issues message to potential kidnappers: &#x27;We want to talk to you&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/search-missing-mother-today-show-host-savannah-guthrie/story?id=129863954" target="_blank">Guthrie family issues message to potential kidnappers: &#x27;We want to talk to you&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-06 01:05</span>
             </div>
         </div>
 </div>
@@ -172,6 +175,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yghys70jxlt9e7iwqmn.png" alt="Your DevRel is Your Biggest Bottleneck" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dorahacks/your-devrel-is-your-biggest-bottleneck-12c0" target="_blank">Your DevRel is Your Biggest Bottleneck</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-06 05:58</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/vitoriazzp/microsoft-teams-como-fazer-bom-uso-para-o-dia-a-dia-3e77" target="_blank">Microsoft Teams: como fazer bom uso para o dia a dia</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-06 01:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/3mdeb-FOSDEM-2026-Firmware" target="_blank">3mdeb Talks Up AMD openSIL &amp; Open-Source Firmware Efforts For Confidential Compute</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-06 00:58</span>
             </div>
         </div>
 </div>
@@ -317,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 05:21 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 06:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
