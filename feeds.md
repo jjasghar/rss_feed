@@ -1,4 +1,4 @@
-<!-- Processing 54 RSS feeds at 2026-02-06 19:13:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-06 20:04:18 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
@@ -9,28 +9,33 @@
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, February 06, 2026 - 19:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, February 06, 2026 - 20:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,12 +111,30 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/09/new-glenn_gs2-hotfire-500x500.webp" alt="To reuse or not reuse—the eternal debate of New Glenn&#x27;s second stage reignites" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/02/to-reuse-or-not-reuse-the-eternal-debate-of-new-glenns-second-stage-reignites/" target="_blank">To reuse or not reuse—the eternal debate of New Glenn&#x27;s second stage reignites</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-06 19:31</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/875014/jeffrey-epstein-fortnite-account-fake" target="_blank">The Jeffrey Epstein Fortnite account is fake</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-06 19:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/video/how-elon-musk-is-rewriting-the-rules-on-founder-power/" target="_blank">How Elon Musk is rewriting the rules on founder power</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-06 18:46</span>
             </div>
         </div>
 <div class="story">
@@ -141,29 +164,29 @@
                 <span class="time">2026-02-06 17:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69854ee17a47974a42b79a18/master/pass/The%20Best%20Food%20Gifts%20You%20Can%20Buy%20Online%20for%20Friends,%20Family,%20or%20Yourself_2.png" alt="19 Best Food Gifts to Buy Online, as Tested by Our Tastebuds (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-food-gifts/" target="_blank">19 Best Food Gifts to Buy Online, as Tested by Our Tastebuds (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-06 17:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/06/kindle-scribe-colorsoft-review-e-ink-color-tablet/" target="_blank">The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-06 16:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-ML-LIB-RFC" target="_blank">ML-LIB: Machine Learning Library Proposed For The Linux Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-06 19:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/google-gemini-agentic-vision/en/headerimage/gemini-agentic-vision-1770402717807.jpg" alt="Google Supercharges Gemini 3 Flash with Agentic Vision" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/google-gemini-agentic-vision/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Supercharges Gemini 3 Flash with Agentic Vision</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-06 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18869018&w=600" alt="Building Modern Full-Stack Python Applications: MVC Architecture Meets Enterprise-Ready Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -171,6 +194,15 @@
                 <span class="title"><a href="https://dzone.com/articles/building-modern-full-stack-python-applications-mvc" target="_blank">Building Modern Full-Stack Python Applications: MVC Architecture Meets Enterprise-Ready Python</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-06 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/ubuntu-logo-riscv.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 is coming to SpacemiT’s K3 (RISC-V RVA23 SoC)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/spacemit-k3-rva23-ubuntu-26-04-lts" target="_blank">Ubuntu 26.04 is coming to SpacemiT’s K3 (RISC-V RVA23 SoC)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-02-06 17:45</span>
             </div>
         </div>
 <div class="story">
@@ -189,33 +221,6 @@
                 <span class="title"><a href="https://www.mostlypython.com/anatomy-of-a-python-function/" target="_blank">Anatomy of a Python Function</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-02-06 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/beyondmachines/line-tv-partner-choco-media-entertainment-reports-data-breach-5f52" target="_blank">Line TV Partner Choco Media Entertainment Reports Data Breach</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-06 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18869763&w=600" alt="The Real Cost of DevOps Backup Scripts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/the-real-cost-of-devops-backup-scripts" target="_blank">The Real Cost of DevOps Backup Scripts</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-06 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation" target="_blank">The Waymo World Model: A New Frontier for Autonomous Driving Simulation</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-06 16:20</span>
             </div>
         </div>
 </div>
@@ -237,6 +242,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/skeletor-masters-of-the-universe-revelations-1280x853.jpg" alt="Travis Knight Insisted Skeletor Had His Skull Face for ‘Masters of the Universe’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/travis-knight-insisted-skeletor-had-his-skull-face-for-masters-of-the-universe-2000719056" target="_blank">Travis Knight Insisted Skeletor Had His Skull Face for ‘Masters of the Universe’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-06 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/Antique_Valentine_1909_01-e1676574898865.jpg?fit=717%2C477&amp;quality=60&amp;ssl=1" alt="Victorian valentines hid love notes inside intricate paper sculptures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/06/victorian-valentines-hid-love-notes-inside-intricate-paper-sculptures.html" target="_blank">Victorian valentines hid love notes inside intricate paper sculptures</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-06 19:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/minds-1280x720.jpg" alt="Report: MindsEye Boss Claims $1 Million Media Conspiracy To Ruin His Game In Leaked Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mindseye-cyber-boi-youtuber-leak-lawsuit-2000666474" target="_blank">Report: MindsEye Boss Claims $1 Million Media Conspiracy To Ruin His Game In Leaked Video</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-06 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/super-movies-superman-super-troopers-super-ex-girlfriend-1280x853.jpg" alt="15 Super Movies for Super Bowl Sunday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,33 +294,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/spotifys-about-the-song-feature-summarizes-the-meaning-of-songs?utm_medium=RSS" target="_blank">Spotify Will Now Use AI to Tell You the Meaning Behind Your Favorite Songs</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-06 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/HP-Business-Laptop-1280x853.jpg" alt="HP 15.6-Inch Laptop (2026 Edition) Falls to 55% Off After Its Second Price Cut in a Month on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hp-15-6-inch-laptop-2026-edition-falls-to-55-off-after-its-second-price-cut-in-a-month-on-amazon-2000666207" target="_blank">HP 15.6-Inch Laptop (2026 Edition) Falls to 55% Off After Its Second Price Cut in a Month on Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-06 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/cyclist-1280x853.jpg" alt="Researchers Asked Drivers to Interpret Cyclist Signals. It Didn’t Go Well" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/researchers-asked-drivers-to-interpret-cyclist-signals-it-didnt-go-well-2000718776" target="_blank">Researchers Asked Drivers to Interpret Cyclist Signals. It Didn’t Go Well</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-06 15:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGSJ8K8YYSPM82BZDG46DYXW/hero-image.png" alt="I Tried Malwarebytes&#x27; ChatGPT App, and It&#x27;s Actually Good at Detecting Scams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/malwarebytes-chatgpt-app-impressions?utm_medium=RSS" target="_blank">I Tried Malwarebytes&#x27; ChatGPT App, and It&#x27;s Actually Good at Detecting Scams</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-06 15:00</span>
             </div>
         </div>
 </div>
@@ -324,6 +329,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png" alt="Dinosaurs And Non-Dinosaurs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3204/" target="_blank">Dinosaurs And Non-Dinosaurs</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-02-06 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5760.png" alt="Come To My Window" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -337,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 19:14 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 20:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
