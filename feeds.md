@@ -1,30 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-02-06 12:05:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-06 13:24:03 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, February 06, 2026 - 12:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, February 06, 2026 - 13:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/06/g-s1-108965/up-first-newsletter-us-iran-nuclear-talks-dhs-demands-nancy-guthrie-virginia-democrats" target="_blank">U.S., Iran to hold nuclear program talks. And, Dems unveil new list of DHS demands</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-06 12:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/102a/live/9c16c540-0324-11f1-9972-d3f265c101c6.jpg" alt="US and Iran hold talks as fears of direct conflict continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,15 +103,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/06/g-s1-108954/ronald-hicks-to-be-installed-as-11th-archbishop-of-new-york" target="_blank">Ronald Hicks to be installed as 11th archbishop of New York</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-06 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/6/new-zealand-deputy-pm-heckled-day-after-saying-colonisation-good-for-maori?traffic_source=rss" target="_blank">New Zealand deputy PM heckled day after saying colonisation good for Maori</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-06 07:47</span>
             </div>
         </div>
 </div>
@@ -159,6 +170,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8byt4kmganswwv9xe70d.jpg" alt="Next.js App Router - Loyiha Strukturasi (Project Structure) To&#x27;liq Qo&#x27;llanma" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/matkarimov099/nextjs-app-router-loyiha-strukturasi-project-structure-toliq-qollanma-3f47" target="_blank">Next.js App Router - Loyiha Strukturasi (Project Structure) To&#x27;liq Qo&#x27;llanma</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-06 13:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://maxhalford.github.io/blog/text-classification-zstd/" target="_blank">Text classification with Python 3.14&#x27;s zstd module</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-02-06 13:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -194,22 +223,18 @@
                 <span class="time">2026-02-06 09:56</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/02/06/ai-attention-span-so-good-it-shouldn-t-be-legal/" target="_blank">AI attention span so good it shouldn’t be legal</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-02-06 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/qwen-code-sysadmin-tasks/" target="_blank">I Ditched Claude Code and Now Using Open Source Qwen AI for Real Sysadmin Work</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-06 08:28</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/iphone-lockdown-mode-protects-washington-post-reporter.html" target="_blank">iPhone Lockdown Mode Protects Washington Post Reporter</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-02-06 12:00</span>
             </div>
         </div>
 </div>
@@ -217,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/US-Mobile-1280x853.jpg" alt="US Mobile’s Super Bowl Week Promotion Delivers Multi-Network Coverage at Lower Prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/us-mobiles-super-bowl-week-promotion-delivers-multi-network-coverage-at-lower-prices-2000718782" target="_blank">US Mobile’s Super Bowl Week Promotion Delivers Multi-Network Coverage at Lower Prices</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-06 13:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Batman-1_Heritage-Auctions.jpg?fit=756%2C1200&amp;quality=60&amp;ssl=1" alt="&quot;The summit of scarcity&quot; — Batman No. 1 and Superman No. 1 sell for $13 million" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/06/batman-no-1-and-superman-no-1-sell-for-13-million.html" target="_blank">&quot;The summit of scarcity&quot; — Batman No. 1 and Superman No. 1 sell for $13 million</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-06 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/magic-the-gathering-secret-lair-dungeons-and-dragons-superdrop-bundle-1280x853.jpg" alt="Wizards of the Coast Explains Why ‘Magic’ Secret Lairs Will Stay Frustratingly Hard to Get" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -251,24 +294,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/tcl-qm5k-qled-tv-deal-february-2026?utm_medium=RSS" target="_blank">This QLED TV Was Already Affordable, and Now It&#x27;s an Extra $450 Off</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-05 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/darwin-incident-io9-template-circle-light-dark-1280x853.jpg" alt="The Plot of ‘The Darwin Incident’ Is Bananas, But I’ve Gotta See What This Monkey Does Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-plot-of-the-darwin-incident-is-bananas-but-ive-gotta-see-what-this-monkey-does-next-2000718445" target="_blank">The Plot of ‘The Darwin Incident’ Is Bananas, But I’ve Gotta See What This Monkey Does Next</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-05 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGQVTD95WMW6WFPZME34FYEX/hero-image.png" alt="This One-Day Pass Is the Best Way to Catch a Major Sporting Event Without Cable" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/use-a-sing-1-day-pass-to-watch-live-sports?utm_medium=RSS" target="_blank">This One-Day Pass Is the Best Way to Catch a Major Sporting Event Without Cable</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-05 22:00</span>
             </div>
         </div>
 </div>
@@ -308,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 12:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 13:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
