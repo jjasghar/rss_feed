@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-06 07:17:01 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-06 08:08:15 UTC -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, February 06, 2026 - 07:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, February 06, 2026 - 08:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/06/g-s1-108954/ronald-hicks-to-be-installed-as-11th-archbishop-of-new-york" target="_blank">Ronald Hicks to be installed as 11th archbishop of New York</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-06 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/6/new-zealand-deputy-pm-heckled-day-after-saying-colonisation-good-for-maori?traffic_source=rss" target="_blank">New Zealand deputy PM heckled day after saying colonisation good for Maori</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-06 07:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +102,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c0q4jk5pnl9o?at_medium=RSS&at_campaign=rss" target="_blank">Top government figures to hand over private messages with Mandelson</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-06 04:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/6/us-iran-talks-live-critical-negotiations-set-to-begin-in-oman?traffic_source=rss" target="_blank">US-Iran talks live: Critical talks to begin in Oman in push to prevent war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-06 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5702493/trumprx-drug-prices-discounts" target="_blank">White House unveils TrumpRx website for medication discounts</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-06 03:43</span>
             </div>
         </div>
 </div>
@@ -171,6 +178,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/02/baseui-v1-accessible/en/headerimage/generatedHeaderImage-1770233177777.jpg" alt="MUI Releases Base UI 1 with 35 Accessible Components" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/baseui-v1-accessible/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MUI Releases Base UI 1 with 35 Accessible Components</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-06 08:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/02/conductor-quantum-coda/en/headerimage/generatedHeaderImage-1770196279507.jpg" alt="Conductor Quantum Introduces Coda, a Natural Language Interface for Quantum Computing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -191,28 +207,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/di-day-celebration/" target="_blank">DI.DAY is a Movement to Encourage People to Ditch Big Tech</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-06 05:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/harsh_a45dbc191edc27e4b96/-modern-malwares-anti-forensics-n8h" target="_blank">💀 Modern Malware’s Anti-Forensics</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-06 05:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/franklibao/hands-on-pytorch-tutorial-from-zero-to-hero-chinese-fkm" target="_blank">🔥 PyTorch Tutorial 1.1: Tensor Basics - From Zero to Hero</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-06 04:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devpicon/ios-cocoapods-cheatsheet-3j5b" target="_blank">[iOS] CocoaPods cheatsheet</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-06 02:37</span>
             </div>
         </div>
 </div>
@@ -316,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 07:17 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 08:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
