@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-05 23:04:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-06 00:05:21 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, February 05, 2026 - 23:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, February 06, 2026 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +105,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/lazy_workers-1-500x500.jpg" alt="AI companies want you to stop chatting with bots and start managing them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/" target="_blank">AI companies want you to stop chatting with bots and start managing them</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-05 22:47</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -148,20 +158,20 @@
                 <span class="time">2026-02-05 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/ice-500x500-1770323474.jpg" alt="&quot;ICE Out of Our Faces Act&quot; would ban ICE and CBP use of facial recognition" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/ice-out-of-our-faces-act-would-ban-ice-and-cbp-use-of-facial-recognition/" target="_blank">&quot;ICE Out of Our Faces Act&quot; would ban ICE and CBP use of facial recognition</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-05 20:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sebastienlato/swiftui-build-cicd-architecture-ship-fast-without-breaking-things-knf" target="_blank">SwiftUI Build &amp; CI/CD Architecture (Ship Fast Without Breaking Things)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-05 23:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,6 +191,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18869288&w=600" alt="Architecting Immutable Data Integrity with Amazon QLDB and Blockchain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/immutable-data-integrity-with-qldb-and-blockchain" target="_blank">Architecting Immutable Data Integrity with Amazon QLDB and Blockchain</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-05 20:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -196,24 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Battlemage-D3cold-Again" target="_blank">Intel Xe Linux Driver Will No Longer Block D3cold For All Battlemage GPUs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-05 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18869294&w=600" alt="When Your Cloud Bill Becomes an Outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/when-your-cloud-bill-becomes-an-outage" target="_blank">When Your Cloud Bill Becomes an Outage</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-05 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/url-to-screenshot" alt="GoPlan: AI-Powered Task Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aman_asmuei/goplan-ai-powered-task-management-5bgo" target="_blank">GoPlan: AI-Powered Task Management</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-05 17:56</span>
             </div>
         </div>
 </div>
@@ -235,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGQVR9P3ZVVP99FVFPWG9BYB/hero-image.png" alt="This QLED TV Was Already Affordable, and Now It&#x27;s an Extra $450 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/tcl-qm5k-qled-tv-deal-february-2026?utm_medium=RSS" target="_blank">This QLED TV Was Already Affordable, and Now It&#x27;s an Extra $450 Off</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-05 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/darwin-incident-io9-template-circle-light-dark-1280x853.jpg" alt="The Plot of ‘The Darwin Incident’ Is Bananas, But I’ve Gotta See What This Monkey Does Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +290,6 @@
                 <span class="time">2026-02-05 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/penis-shot-1280x720.jpg" alt="The Winter Olympics Will Make Sure Nobody Cheats By Injecting Their Penis With Acid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/winter-olympics-injecting-penis-acid-skiing-real-men-ski-jumping-cheating-2000666137" target="_blank">The Winter Olympics Will Make Sure Nobody Cheats By Injecting Their Penis With Acid</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-05 20:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 23:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
