@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-02-06 11:10:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-06 12:05:41 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, February 06, 2026 - 11:10 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, February 06, 2026 - 12:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/102a/live/9c16c540-0324-11f1-9972-d3f265c101c6.jpg" alt="US and Iran hold talks as fears of direct conflict continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr57g1y8286o?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran hold talks as fears of direct conflict continue</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-06 11:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/environment/2026/feb/06/weather-tracker-storm-leonardo-europe-portugal-spain-northern-africa" target="_blank">Weather tracker: Storm Leonardo continues to batter Europe and northern Africa</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-06 11:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +94,20 @@
                 <span class="time">2026-02-06 07:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/06/nx-s1-5704104/argentina-us-trade-deal" target="_blank">Argentina and US sign a major trade deal to slash tariffs and boost political alliance</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-06 07:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-iran-us_7156991.jpg?20260206053604" alt="Iran and US to begin high-stakes talks amid fears of conflict" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/iran-and-us-to-begin-high-stakes-talks-amid-fears-of-conflict-13503914" target="_blank">Iran and US to begin high-stakes talks amid fears of conflict</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-06 05:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6973aa74436287e7ad118027/master/pass/gear-waymo-dc-2223991463.jpg" alt="Waymo Hits a Rough Patch In Washington, DC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/waymo-hits-a-rough-patch-in-washington-dc/" target="_blank">Waymo Hits a Rough Patch In Washington, DC</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-06 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +153,29 @@
                 <span class="time">2026-02-05 22:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/" target="_blank">Amazon and Google are winning the AI capex race — but what’s the prize?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-05 22:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/robin-ivi/laravel-eloquent-tips-tricks-every-pro-developer-should-know-4f86" target="_blank">Laravel Eloquent Tips &amp; Tricks Every Pro Developer Should Know</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-06 11:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-DHEI-RFC" target="_blank">&quot;DHEI&quot; Proposed For Linux To Help Cloud-Native Orchestrators &amp; High Frequency Traders</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-06 11:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/swift-apps-services/en/mediumimage/cory-benfield-medium-1769589232042.jpg" alt="Presentation: Expanding Swift from Apps to Services" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,43 +212,20 @@
                 <span class="time">2026-02-06 08:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/baseui-v1-accessible/en/headerimage/generatedHeaderImage-1770233177777.jpg" alt="MUI Releases Base UI 1 with 35 Accessible Components" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/baseui-v1-accessible/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MUI Releases Base UI 1 with 35 Accessible Components</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-06 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/conductor-quantum-coda/en/headerimage/generatedHeaderImage-1770196279507.jpg" alt="Conductor Quantum Introduces Coda, a Natural Language Interface for Quantum Computing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/conductor-quantum-coda/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Conductor Quantum Introduces Coda, a Natural Language Interface for Quantum Computing</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-06 06:07</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/backdoor-in-notepad.html" target="_blank">Backdoor in Notepad++</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-05 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/magic-the-gathering-secret-lair-dungeons-and-dragons-superdrop-bundle-1280x853.jpg" alt="Wizards of the Coast Explains Why ‘Magic’ Secret Lairs Will Stay Frustratingly Hard to Get" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/magic-the-gathering-secret-lair-print-on-demand-limited-run-wotc-2000718689" target="_blank">Wizards of the Coast Explains Why ‘Magic’ Secret Lairs Will Stay Frustratingly Hard to Get</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-06 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2023/08/9a6e2607ac869f5b212e27f742ac224f-1280x720.jpg" alt="A Baldur’s Gate TV Show Is Happening In The Worst Way Possible" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +271,6 @@
                 <span class="time">2026-02-05 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/download-1280x720.jpg" alt="Overwatch’s New Jetpack-Using Cat Hero Is An Agent Of Pure Chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/overwatch-jetpack-cat-tether-bob-dva-ultimate-flight-2000666163" target="_blank">Overwatch’s New Jetpack-Using Cat Hero Is An Agent Of Pure Chaos</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-05 21:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 11:10 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 12:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
