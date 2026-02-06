@@ -1,35 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-02-06 22:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-06 23:03:25 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, February 06, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, February 06, 2026 - 23:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +53,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="Authorities &#x27;aware of new message regarding Nancy Guthrie&#x27;: Sheriff" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/authorities-aware-new-message-nancy-guthrie-sheriff/story?id=129934478" target="_blank">Authorities &#x27;aware of new message regarding Nancy Guthrie&#x27;: Sheriff</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-06 22:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/6/what-t20-world-cup-expulsion-means-for-bangladesh-and-regional-relations?traffic_source=rss" target="_blank">For cricket-mad Bangladesh, T20 World Cup expulsion means heartbreak</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-06 22:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +107,38 @@
                 <span class="time">2026-02-06 18:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/06/nx-s1-5704281/trump-posts-racist-meme-of-the-obamas-then-deletes-it" target="_blank">Trump posts racist meme of the Obamas — then deletes it</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-06 17:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbbc/live/8c424470-0331-11f1-bb5c-eb75deabbf98.jpg" alt="Russian general shot several times in Moscow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3686nzexp3o?at_medium=RSS&at_campaign=rss" target="_blank">Russian general shot several times in Moscow</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-06 16:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/873589/valentines-day-gifts-aura-aspen-amazfit-active-2-deal-sale" target="_blank">We found 20 Verge-approved gifts on sale ahead of Valentine’s Day</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-06 22:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2252952774-500x500-1770412743.jpg" alt="Lawyer sets new standard for abuse of AI; judge tosses case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/randomly-quoting-ray-bradbury-did-not-save-lawyer-from-losing-case-over-ai-errors/" target="_blank">Lawyer sets new standard for abuse of AI; judge tosses case</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-06 22:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/698625ce5354ec116d77d85c/master/pass/Jonathan-Ross-Dragging-Case-May-Help-Expose-Evidence-in-Renee-Good-Shooting-Security-2259440193.jpg" alt="ICE Agent’s ‘Dragging’ Case May Help Expose Evidence in Renee Good Shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/jonathan-ross-renee-good-roberto-carlos-munoz-guatemala/" target="_blank">ICE Agent’s ‘Dragging’ Case May Help Expose Evidence in Renee Good Shooting</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-06 22:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,38 +166,29 @@
                 <span class="time">2026-02-06 19:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/video/how-elon-musk-is-rewriting-the-rules-on-founder-power/" target="_blank">How Elon Musk is rewriting the rules on founder power</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-06 18:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/06/senator-who-has-repeatedly-warned-about-secret-u-s-government-surveillance-sounds-new-alarm-over-cia-activities/" target="_blank">Senator, who has repeatedly warned about secret U.S. government surveillance, sounds new alarm over ‘CIA activities’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-06 18:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/10-2026-Lamborghini-Temerario-500x500-1770395101.jpg" alt="Driven: The 2026 Lamborghini Temerario raises the bar for supercars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/02/driven-the-2026-lamborghini-temerario-raises-the-bar-for-supercars/" target="_blank">Driven: The 2026 Lamborghini Temerario raises the bar for supercars</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-06 17:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffvojqcn9s7xur5n9lt1w.png" alt="Self-hosting de LLMs: controle sobre dados e infraestrutura" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/glukas/self-hosting-de-llms-controle-sobre-dados-e-infraestrutura-4cdo" target="_blank">Self-hosting de LLMs: controle sobre dados e infraestrutura</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-06 22:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openciv3.org/" target="_blank">OpenCiv3: Open-source, cross-platform reimagining of Civilization III</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-06 21:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +223,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-ML-LIB-RFC" target="_blank">ML-LIB: Machine Learning Library Proposed For The Linux Kernel</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-06 19:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/google-gemini-agentic-vision/en/headerimage/gemini-agentic-vision-1770402717807.jpg" alt="Google Supercharges Gemini 3 Flash with Agentic Vision" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/google-gemini-agentic-vision/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Supercharges Gemini 3 Flash with Agentic Vision</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-06 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18869018&w=600" alt="Building Modern Full-Stack Python Applications: MVC Architecture Meets Enterprise-Ready Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-modern-full-stack-python-applications-mvc" target="_blank">Building Modern Full-Stack Python Applications: MVC Architecture Meets Enterprise-Ready Python</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-06 19:00</span>
             </div>
         </div>
 </div>
@@ -255,12 +263,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/scream-7-trailer-ghostface-1280x853.jpg" alt="As ‘Scream 7’ Arrives, Its Studios Fight to Own Ghostface’s… Uh, Face" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/as-scream-7-arrives-its-studios-fight-to-own-ghostfaces-uh-face-2000719059" target="_blank">As ‘Scream 7’ Arrives, Its Studios Fight to Own Ghostface’s… Uh, Face</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-06 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/Screenshot-2026-02-06-163830.jpg" alt="The Analogue 3D Is Giving These Unreleased N64 Colors A Second Chance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/analogue-3d-n64-colors-new-prototype-2000666525" target="_blank">The Analogue 3D Is Giving These Unreleased N64 Colors A Second Chance</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-06 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGTA9NMNS8YPHC0HHV57657D/hero-image.jpg" alt="10 Fitness Hacks Every Apple Watch User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/fitness-hacks-every-apple-watch-user-should-know?utm_medium=RSS" target="_blank">10 Fitness Hacks Every Apple Watch User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-06 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Apple-MacBook-Air-2.jpg?fit=1200%2C901&amp;quality=60&amp;ssl=1" alt="Never pay full price for Apple products again with this hack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/06/never-pay-full-price-for-apple-products-again-with-this-hack.html" target="_blank">Never pay full price for Apple products again with this hack</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-06 22:00</span>
             </div>
         </div>
 <div class="story">
@@ -279,33 +314,6 @@
                 <span class="title"><a href="https://gizmodo.com/travis-knight-insisted-skeletor-had-his-skull-face-for-masters-of-the-universe-2000719056" target="_blank">Travis Knight Insisted Skeletor Had His Skull Face for ‘Masters of the Universe’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-06 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Jeffrey-Epstein-left-and-Brett-Ratner-right-.jpg?fit=1080%2C718&amp;quality=60&amp;ssl=1" alt="How sleuths are recovering hidden Epstein documents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/06/how-sleuths-are-recovering-hidden-epstein-documents.html" target="_blank">How sleuths are recovering hidden Epstein documents</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-06 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/Antique_Valentine_1909_01-e1676574898865.jpg?fit=717%2C477&amp;quality=60&amp;ssl=1" alt="Victorian valentines hid love notes inside intricate paper sculptures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/06/victorian-valentines-hid-love-notes-inside-intricate-paper-sculptures.html" target="_blank">Victorian valentines hid love notes inside intricate paper sculptures</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-06 19:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/minds-1280x720.jpg" alt="Report: MindsEye Boss Claims $1 Million Media Conspiracy To Ruin His Game In Leaked Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mindseye-cyber-boi-youtuber-leak-lawsuit-2000666474" target="_blank">Report: MindsEye Boss Claims $1 Million Media Conspiracy To Ruin His Game In Leaked Video</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-06 19:30</span>
             </div>
         </div>
 </div>
@@ -363,8 +371,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 23:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
