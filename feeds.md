@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-06 03:45:51 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-06 04:31:22 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 32 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, February 06, 2026 - 03:46 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, February 06, 2026 - 04:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/6/us-iran-talks-live-critical-negotiations-set-to-begin-in-oman?traffic_source=rss" target="_blank">US-Iran talks live: Critical talks to begin in Oman in push to prevent war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-06 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cr57g1y8286o?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran talks to begin as fears of direct conflict continue</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-06 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770342571165_nn_lkr_nancyguthrienewdetailsthurs_260205_1920x1080-2uydnc.jpg" alt="New details in disappearance of Nancy Guthrie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-details-in-disappearance-of-nancy-guthrie-257244229702" target="_blank">New details in disappearance of Nancy Guthrie</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-05 23:56</span>
             </div>
         </div>
 </div>
@@ -172,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/franklibao/hands-on-pytorch-tutorial-from-zero-to-hero-chinese-fkm" target="_blank">🔥 PyTorch Tutorial 1.1: Tensor Basics - From Zero to Hero</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-06 04:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/devpicon/ios-cocoapods-cheatsheet-3j5b" target="_blank">[iOS] CocoaPods cheatsheet</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-06 02:37</span>
@@ -189,37 +197,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/3mdeb-FOSDEM-2026-Firmware" target="_blank">3mdeb Talks Up AMD openSIL &amp; Open-Source Firmware Efforts For Confidential Compute</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-06 00:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-february-6-2026-red-hat" target="_blank">Friday Five — February 6, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-02-06 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sebastienlato/swiftui-build-cicd-architecture-ship-fast-without-breaking-things-knf" target="_blank">SwiftUI Build &amp; CI/CD Architecture (Ship Fast Without Breaking Things)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-05 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/brunoborges/copilot-sdk-for-java-107-session-lifecycle-hooks-and-enhanced-observability-4kmi" target="_blank">Copilot SDK for Java 1.0.7: Session Lifecycle Hooks and Enhanced Observability</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-05 22:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://adamj.eu/tech/2026/01/29/django-profile-memray/" target="_blank">Django: profile memory usage with Memray</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-02-05 21:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18869288&w=600" alt="Architecting Immutable Data Integrity with Amazon QLDB and Blockchain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/immutable-data-integrity-with-qldb-and-blockchain" target="_blank">Architecting Immutable Data Integrity with Amazon QLDB and Blockchain</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-05 20:00</span>
             </div>
         </div>
 </div>
@@ -323,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 03:46 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 04:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
