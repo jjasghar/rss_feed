@@ -1,31 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-06 01:30:50 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-06 02:54:17 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, February 06, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, February 06, 2026 - 02:54 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -78,21 +78,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770342571165_nn_lkr_nancyguthrienewdetailsthurs_260205_1920x1080-2uydnc.jpg" alt="New details in disappearance of Nancy Guthrie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-details-in-disappearance-of-nancy-guthrie-257244229702" target="_blank">New details in disappearance of Nancy Guthrie</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-05 23:56</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5590091/a-jane-doe-in-the-r-kelly-trials-is-ready-to-share-her-real-name-and-her-story" target="_blank">A &quot;Jane Doe&quot; in the R. Kelly trials is ready to share her real name. And her story.</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-05 21:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/5/trump-tempers-criticism-of-uks-chagos-islands-deal-after-talk-with-starmer?traffic_source=rss" target="_blank">Trump tempers criticism of UK’s Chagos Islands deal after talk with Starmer</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-05 21:40</span>
             </div>
         </div>
 </div>
@@ -160,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devpicon/ios-cocoapods-cheatsheet-3j5b" target="_blank">[iOS] CocoaPods cheatsheet</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-06 02:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffqn01cg5y8kcad8mc7ln.png" alt="Microsoft Teams: como fazer bom uso para o dia a dia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,15 +213,6 @@
                 <span class="time">2026-02-05 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ardour-9.0-DAW" target="_blank">Ardour 9.0 Audio Workstation Released With Multi-Touch GUI, Many New Features</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-05 19:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +239,15 @@
                 <span class="title"><a href="https://kotaku.com/baldurs-gate-3-hbo-show-craig-mazin-last-of-us-2000666189" target="_blank">A Baldur’s Gate TV Show Is Happening In The Worst Way Possible</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-06 00:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/baldurs-gate-3-epilogue-shadowheart-halsin-dragonborn-1280x853.jpg" alt="HBO Is Making a ‘Baldur’s Gate’ TV Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/baldurs-gate-tv-show-hbo-craig-mazin-bg3-2000718726" target="_blank">HBO Is Making a ‘Baldur’s Gate’ TV Show</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-05 23:58</span>
             </div>
         </div>
 <div class="story">
@@ -277,20 +286,20 @@
                 <span class="time">2026-02-05 21:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/trump.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Trump announces May 17 ceremony to &quot;rededicate&quot; America to God" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/05/trump-announces-may-17-ceremony-to-rededicate-america-to-god.html" target="_blank">Trump announces May 17 ceremony to &quot;rededicate&quot; America to God</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-05 21:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5760.png" alt="Come To My Window" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5760" target="_blank">Come To My Window</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-02-06 01:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1770264180-20260205_edit.png" alt="Saturday Morning Breakfast Cereal - Ha" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -300,22 +309,13 @@
                 <span class="time">2026-02-05 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5759.png" alt="The Horror Of Hormones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5759" target="_blank">The Horror Of Hormones</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-02-05 01:50</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 02:54 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
