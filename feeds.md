@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-06 04:31:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-06 05:21:46 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, February 06, 2026 - 04:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, February 06, 2026 - 05:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8e3/live/e02efcf0-030d-11f1-9ffd-279f7a8c86da.jpg" alt="Top government figures to hand over private messages with Mandelson" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0q4jk5pnl9o?at_medium=RSS&at_campaign=rss" target="_blank">Top government figures to hand over private messages with Mandelson</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-06 04:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +96,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/search-missing-mother-today-show-host-savannah-guthrie/story?id=129863954" target="_blank">Guthrie family issues message to potential kidnappers: &#x27;We want to talk to you&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-06 01:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ecc/live/7bcb22d0-02c1-11f1-b65a-f71a35b8a90a.jpg" alt="US and Iran talks to begin as fears of direct conflict continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr57g1y8286o?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran talks to begin as fears of direct conflict continue</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-06 00:15</span>
             </div>
         </div>
 </div>
@@ -170,6 +165,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/02/06/ai-attention-span-so-good-it-shouldn-t-be-legal/" target="_blank">AI attention span so good it shouldn’t be legal</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-02-06 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/harsh_a45dbc191edc27e4b96/-modern-malwares-anti-forensics-n8h" target="_blank">💀 Modern Malware’s Anti-Forensics</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-06 05:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/franklibao/hands-on-pytorch-tutorial-from-zero-to-hero-chinese-fkm" target="_blank">🔥 PyTorch Tutorial 1.1: Tensor Basics - From Zero to Hero</a></span>
                 <span class="feed">DEV Community</span>
@@ -201,24 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/3mdeb-FOSDEM-2026-Firmware" target="_blank">3mdeb Talks Up AMD openSIL &amp; Open-Source Firmware Efforts For Confidential Compute</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-06 00:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-february-6-2026-red-hat" target="_blank">Friday Five — February 6, 2026</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-02-06 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sebastienlato/swiftui-build-cicd-architecture-ship-fast-without-breaking-things-knf" target="_blank">SwiftUI Build &amp; CI/CD Architecture (Ship Fast Without Breaking Things)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-05 23:45</span>
             </div>
         </div>
 </div>
@@ -322,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 04:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 05:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
