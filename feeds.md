@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-06 00:05:21 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-06 01:30:50 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, February 06, 2026 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, February 06, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/05/g-s1-108605/up-first-winter-games-videos" target="_blank">What to watch at the 2026 Olympics</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-06 01:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/6/trump-rejects-call-from-russias-putin-to-extend-cap-on-nuclear-deployments?traffic_source=rss" target="_blank">Trump rejects call from Russia’s Putin to extend cap on nuclear deployments</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-06 01:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="Guthrie family issues message to potential kidnappers: &#x27;We want to talk to you&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/search-missing-mother-today-show-host-savannah-guthrie/story?id=129863954" target="_blank">Guthrie family issues message to potential kidnappers: &#x27;We want to talk to you&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-06 01:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ecc/live/7bcb22d0-02c1-11f1-b65a-f71a35b8a90a.jpg" alt="US and Iran talks to begin as fears of direct conflict continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr57g1y8286o?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran talks to begin as fears of direct conflict continue</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-06 00:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5590091/a-jane-doe-in-the-r-kelly-trials-is-ready-to-share-her-real-name-and-her-story" target="_blank">A &quot;Jane Doe&quot; in the R. Kelly trials is ready to share her real name. And her story.</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-05 21:41</span>
@@ -63,47 +95,29 @@
                 <span class="time">2026-02-05 21:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters" target="_blank">‘They killed my sons’: chief of Nigerian village where jihadists massacred hundreds recounts night of terror</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-05 20:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/nancy-guthrie_1770125728074_hpMain_4x3t_384.jpg" alt="Arrest for &#x27;imposter&#x27; ransom demand made in connection with Nancy Guthrie case: FBI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/search-missing-mother-today-show-host-savannah-guthrie/story?id=129863954" target="_blank">Arrest for &#x27;imposter&#x27; ransom demand made in connection with Nancy Guthrie case: FBI</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-05 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/5/gaza-flotilla-organisers-in-south-africa-warn-against-israeli-interception?traffic_source=rss" target="_blank">Gaza flotilla organisers in South Africa warn against Israeli interception</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-05 19:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/05/nx-s1-5701337/nj-primary-election-democrats-sherrill" target="_blank">What a crowded congressional primary in N.J. says about the state of Democrats</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-05 19:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/874682/hbo-baldurs-gate-3-tv-show-craig-mazin" target="_blank">HBO is turning Baldur’s Gate into a TV show</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-06 00:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/" target="_blank">Sapiom raises $15M to help AI agents buy their own tech tools</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-05 23:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/lazy_workers-1-500x500.jpg" alt="AI companies want you to stop chatting with bots and start managing them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +154,20 @@
                 <span class="time">2026-02-05 21:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698250c5268bf1196c8083f9/master/pass/Model-Behavior-Loyalty-is-Dead-Silicon-Valley-Business.jpg" alt="Loyalty Is Dead in Silicon Valley" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/model-behavior-loyalty-is-dead-in-silicon-valley/" target="_blank">Loyalty Is Dead in Silicon Valley</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-05 21:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/874500/iron-lung-theater-box-office-markiplier" target="_blank">Iron Lung’s path to theaters was unique, even if the movie isn’t</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-05 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffqn01cg5y8kcad8mc7ln.png" alt="Microsoft Teams: como fazer bom uso para o dia a dia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vitoriazzp/microsoft-teams-como-fazer-bom-uso-para-o-dia-a-dia-3e77" target="_blank">Microsoft Teams: como fazer bom uso para o dia a dia</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-06 01:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +213,6 @@
                 <span class="time">2026-02-05 19:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Battlemage-D3cold-Again" target="_blank">Intel Xe Linux Driver Will No Longer Block D3cold For All Battlemage GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-05 18:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/08/9a6e2607ac869f5b212e27f742ac224f-1280x720.jpg" alt="A Baldur’s Gate TV Show Is Happening In The Worst Way Possible" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/baldurs-gate-3-hbo-show-craig-mazin-last-of-us-2000666189" target="_blank">A Baldur’s Gate TV Show Is Happening In The Worst Way Possible</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-06 00:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KGQVR9P3ZVVP99FVFPWG9BYB/hero-image.png" alt="This QLED TV Was Already Affordable, and Now It&#x27;s an Extra $450 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +286,6 @@
                 <span class="time">2026-02-05 21:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGQNEWSTZPJM7HY91D8X1ZP8/hero-image.png" alt="Car Icons Are Disappearing From Google Maps in Android Auto (but You Might Be Able to Fix It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/what-to-do-if-your-car-icon-disappears-from-google-maps-in-android-auto?utm_medium=RSS" target="_blank">Car Icons Are Disappearing From Google Maps in Android Auto (but You Might Be Able to Fix It)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-05 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
