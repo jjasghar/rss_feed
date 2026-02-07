@@ -1,28 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-07 05:15:36 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-07 06:08:54 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 19 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, February 07, 2026 - 05:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, February 07, 2026 - 06:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +111,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/" target="_blank">Benchmark raises $225M in special funds to double down on Cerebras</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-07 05:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/" target="_blank">An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-07 01:00</span>
@@ -142,20 +161,29 @@
                 <span class="time">2026-02-06 22:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor" target="_blank">Apple might let you use ChatGPT from CarPlay</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-06 21:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz7oazk9duk0o7i91jb39.png" alt="Web APIs That Replace Entire Libraries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/web_dev-usman/web-apis-that-replace-entire-libraries-2ia8" target="_blank">Web APIs That Replace Entire Libraries</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-07 06:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.3.5-Released" target="_blank">Mesa 25.3.5 Brings Vulkan Driver Fixes &amp; Other Minor Changes -- Even For Old The R600g</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-07 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/scholarjoiner/i-built-a-privacy-first-citation-generator-because-chegg-is-too-expensive-1266" target="_blank">I built a privacy-first citation generator because Chegg is too expensive</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-07 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffvojqcn9s7xur5n9lt1w.png" alt="Self-hosting de LLMs: controle sobre dados e infraestrutura" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/glukas/self-hosting-de-llms-controle-sobre-dados-e-infraestrutura-4cdo" target="_blank">Self-hosting de LLMs: controle sobre dados e infraestrutura</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-06 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openciv3.org/" target="_blank">OpenCiv3: Open-source, cross-platform reimagining of Civilization III</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-06 21:51</span>
             </div>
         </div>
 </div>
@@ -347,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 05:15 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 06:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
