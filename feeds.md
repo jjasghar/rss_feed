@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-02-07 10:02:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-07 11:02:58 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Error processing https://ubuntu.com/blog/feed: The read operation timed out -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, February 07, 2026 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, February 07, 2026 - 11:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/7/deadly-islamabad-bombing-sharpens-focus-on-cross-border-attacks-in-pakistan?traffic_source=rss" target="_blank">Deadly Islamabad bombing sharpens focus on cross-border attacks in Pakistan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-07 10:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,6 +88,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-winter-olympics-olympic-games_7157991.jpg?20260207031739" alt="Winter Olympics crowd ignored plea not to boo - and opening ceremony became outlet for rage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/maybe-you-didnt-hear-the-boos-at-home-but-the-winter-olympics-opening-ceremony-became-an-outlet-for-rage-13504325" target="_blank">Winter Olympics crowd ignored plea not to boo - and opening ceremony became outlet for rage</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-07 02:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/02/1920x1080/skynews-winter-olympics-olympic-games_7157991.jpg?20260207031739" alt="Maybe you didn&#x27;t hear the boos, but the Winter Olympics opening ceremony became an outlet for rage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -83,29 +105,20 @@
                 <span class="time">2026-02-07 02:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/7/who-says-fatal-case-of-nipah-virus-confirmed-in-bangladesh?traffic_source=rss" target="_blank">WHO says fatal case of Nipah virus confirmed in Bangladesh</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-07 02:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f7/live/cd988f30-03d9-11f1-9972-d3f265c101c6.jpg" alt="Trump says he &#x27;didn&#x27;t see&#x27; part of video with racist clip depicting Obamas as apes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce8r8y78g10o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he &#x27;didn&#x27;t see&#x27; part of video with racist clip depicting Obamas as apes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-07 01:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69865e797cbb83907b42dad9/master/pass/Gear%20News%20of%20the%20Week-%20Google's%20Pixel%2010a%20Arrives%20Soon,%20and%20Valve%20Delays%20Its%20Steam%20Hardware.png" alt="Gear News of the Week: Google&#x27;s Pixel 10a Arrives Soon, and Valve Delays Its Steam Hardware" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/gear-news-of-the-week-googles-pixel-10a-arrives-soon-and-valve-delays-its-steam-hardware/" target="_blank">Gear News of the Week: Google&#x27;s Pixel 10a Arrives Soon, and Valve Delays Its Steam Hardware</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-07 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6986124e619933b7c326492a/master/pass/gear-personal-finances-98154619.jpg" alt="7 Steps to Better Financial Health You Can Take Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +164,20 @@
                 <span class="time">2026-02-06 22:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2252952774-500x500-1770412743.jpg" alt="Lawyer sets new standard for abuse of AI; judge tosses case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/randomly-quoting-ray-bradbury-did-not-save-lawyer-from-losing-case-over-ai-errors/" target="_blank">Lawyer sets new standard for abuse of AI; judge tosses case</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-06 22:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/corbado/how-to-measure-passkey-adoption-funnels-activation-and-device-insights-1fb9" target="_blank">How to Measure Passkey Adoption: Funnels, Activation, and Device Insights</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-07 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1770311427284%2Fe63d5d11-e815-41e2-88c5-50c9ac969098.jpeg" alt="Quincy Larson’s freeCodeCamp updates are invaluable. This week: Harvard CS50 2026, a free CS course, now on their YouTube channel:" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,7 +209,7 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.3.5-Released" target="_blank">Mesa 25.3.5 Brings Vulkan Driver Fixes &amp; Other Minor Changes -- Even For Old The R600g</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.3.5-Released" target="_blank">Mesa 25.3.5 Brings Vulkan Driver Fixes &amp; Other Minor Changes -- Even For The Old R600g</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-07 05:00</span>
             </div>
@@ -204,19 +217,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/suhas_mallesh/your-docker-registry-has-500-unused-images-costing-you-every-month-126m" target="_blank">Your Docker Registry Has 500 Unused Images Costing You Every Month 🐳</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-07 04:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv297f5qj3pewt6mc1oyc.png" alt="Debugging the Technical Debt of Everyday Living" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/humble_engineer_ac3add409/debugging-the-technical-debt-of-everyday-living-1omf" target="_blank">Debugging the Technical Debt of Everyday Living</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-07 03:35</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.3.5-Released" target="_blank">Mesa 25.3.5 Brings Vulkan Driver Fixes &amp; Other Minor Changes -- Even For Old The R600g</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-07 05:00</span>
             </div>
         </div>
 </div>
@@ -347,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 11:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
