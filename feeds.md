@@ -1,40 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-02-07 04:29:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-07 05:15:36 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 2 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, February 07, 2026 - 04:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, February 07, 2026 - 05:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/7/bangladesh-election-who-are-the-key-players-and-parties?traffic_source=rss" target="_blank">Bangladesh election: Who are the key players and parties?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-07 04:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/02/1920x1080/skynews-winter-olympics-olympic-games_7157991.jpg?20260207031739" alt="Maybe you didn&#x27;t hear the boos, but the Winter Olympics opening ceremony became an outlet for rage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,15 +90,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/investigators-analyzing-new-message-regarding-nancy-guthrie-as-search-enters-sixth-day-257308741701" target="_blank">Investigators analyzing new message regarding Nancy Guthrie as search enters sixth day</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-07 00:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="Authorities &#x27;aware of new message regarding Nancy Guthrie&#x27;: Sheriff" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/authorities-aware-new-message-nancy-guthrie-sheriff/story?id=129934478" target="_blank">Authorities &#x27;aware of new message regarding Nancy Guthrie&#x27;: Sheriff</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-06 22:56</span>
             </div>
         </div>
 </div>
@@ -354,22 +342,13 @@
                 <span class="time">2026-02-06 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png" alt="Dinosaurs And Non-Dinosaurs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3204/" target="_blank">Dinosaurs And Non-Dinosaurs</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-02-06 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 04:29 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 05:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
