@@ -1,29 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-02-07 19:06:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-07 20:01:41 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, February 07, 2026 - 19:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, February 07, 2026 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -161,6 +173,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yurii_lozinskyi/explainability-in-ai-is-not-a-feature-its-a-survival-mechanism-5al7" target="_blank">Explainability in AI Is Not a Feature. It’s a Survival Mechanism.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-07 19:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://nolanlawson.com/2026/02/07/we-mourn-our-craft/" target="_blank">We Mourn Our Craft</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-07 18:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/micronink/how-i-built-a-system-to-automatically-sell-access-to-a-private-github-repo-2dnm" target="_blank">How I Built a System to Automatically Sell Access to a Private GitHub Repo</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-07 17:43</span>
@@ -193,24 +223,6 @@
                 <span class="time">2026-02-07 15:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/programmerkr/why-i-started-building-proxpl-rethinking-programming-for-the-ai-era-472a" target="_blank">Why I Started Building ProXPL — Rethinking Programming for the AI Era</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-07 14:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NetBSD-11.0-RC1" target="_blank">NetBSD 11.0-RC1 Available For Testing With Enhanced Linux Emulation</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-07 14:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +251,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/charli-xcx-moment-1280x853.jpg" alt="Charli XCX Is a Demonic Brat in Takashi Miike’s ‘Untitled Tokyo’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/charli-xcx-is-a-demonic-brat-in-takashi-miikes-untitled-tokyo-2000719231" target="_blank">Charli XCX Is a Demonic Brat in Takashi Miike’s ‘Untitled Tokyo’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-07 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Barack_Obama_guests_on_The_View.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="FCC opens investigation into &quot;The View&quot; over a Democrat&#x27;s appearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/07/fcc-opens-investigation-into-the-view-over-a-democrats-appearance.html" target="_blank">FCC opens investigation into &quot;The View&quot; over a Democrat&#x27;s appearance</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-07 19:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/ghostbusters-logo-1280x853.jpg" alt="Netflix’s Animated ‘Ghostbusters’ Movie Shows Signs of Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +305,6 @@
                 <span class="time">2026-02-07 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/pirate-yakuza.jpg" alt="Weekend Guide: 6 Games To Play During The Super Bowl" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/super-bowl-free-game-demos-madden-game-pass-2000666527" target="_blank">Weekend Guide: 6 Games To Play During The Super Bowl</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-06 23:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/scream-7-trailer-ghostface-1280x853.jpg" alt="As ‘Scream 7’ Arrives, Its Studios Fight to Own Ghostface’s… Uh, Face" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/as-scream-7-arrives-its-studios-fight-to-own-ghostfaces-uh-face-2000719059" target="_blank">As ‘Scream 7’ Arrives, Its Studios Fight to Own Ghostface’s… Uh, Face</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-06 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 19:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
