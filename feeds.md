@@ -1,36 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-02-07 00:07:34 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-07 01:30:29 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, February 07, 2026 - 00:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, February 07, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770423279712_nn_lkr_guthrie_search_250206_1920x1080-31k1ao.jpg" alt="Investigators analyzing new message regarding Nancy Guthrie as search enters sixth day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/investigators-analyzing-new-message-regarding-nancy-guthrie-as-search-enters-sixth-day-257308741701" target="_blank">Investigators analyzing new message regarding Nancy Guthrie as search enters sixth day</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-07 00:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="Authorities &#x27;aware of new message regarding Nancy Guthrie&#x27;: Sheriff" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +92,20 @@
                 <span class="time">2026-02-06 18:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-4-rt-gmh-260204_1770216095541_hpMain_4x3t_384.jpg" alt="White House takes down racist video shared by Trump about Obamas after backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-shares-video-includes-racist-depiction-obamas-sparking/story?id=129918626" target="_blank">White House takes down racist video shared by Trump about Obamas after backlash</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-06 18:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-500x500.jpg" alt="Sixteen Claude AI agents working together created a new C compiler" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/" target="_blank">Sixteen Claude AI agents working together created a new C compiler</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-06 23:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +151,20 @@
                 <span class="time">2026-02-06 19:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/875014/jeffrey-epstein-fortnite-account-fake" target="_blank">The Jeffrey Epstein Fortnite account is fake</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-06 19:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Plasma-6.6-Fingerprint-Fixes" target="_blank">KDE Plasma 6.6 Fixing Significant Issues With Fingerprint Authentication</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-07 01:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +210,6 @@
                 <span class="time">2026-02-06 20:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18871705&w=600" alt="Understanding AI Agent Types:Guide to 8 Modern AI Architectures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/understanding-ai-agent-types-ai-architectures" target="_blank">Understanding AI Agent Types:Guide to 8 Modern AI Architectures</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-06 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -255,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/pirate-yakuza.jpg" alt="Weekend Guide: 6 Games To Play During The Super Bowl" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/super-bowl-free-game-demos-madden-game-pass-2000666527" target="_blank">Weekend Guide: 6 Games To Play During The Super Bowl</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-06 23:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/scream-7-trailer-ghostface-1280x853.jpg" alt="As ‘Scream 7’ Arrives, Its Studios Fight to Own Ghostface’s… Uh, Face" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -300,20 +301,20 @@
                 <span class="time">2026-02-06 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGJMNHHRGEWT36MDWZ1BZDNM/hero-image.jpg" alt="Is Virtual Reality Really Dead?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/is-virtual-reality-dead?utm_medium=RSS" target="_blank">Is Virtual Reality Really Dead?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-06 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/06/dropping-the-deuce" target="_blank">Dropping The Deuce</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-02-06 23:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -364,8 +365,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 00:07 UTC
+        📊 Displayed: 33 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
