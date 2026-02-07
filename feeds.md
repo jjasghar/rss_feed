@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-07 16:02:51 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing 54 RSS feeds at 2026-02-07 17:05:17 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, February 07, 2026 - 16:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, February 07, 2026 - 17:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/874585/lg-c5-tv-anker-power-bank-deal-sale-super-bowl" target="_blank">LG’s C5 TV and Anker’s powerful power bank are this week’s best deals</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-07 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6986615f5841b2ac3d4d7a88/master/pass/Target%20Darts%20Omni%20Auto%20Scoring%20System%201%20SOURCE%20Simon%20Hill.png" alt="Target Darts Omni Auto Scoring System Hits the Mark" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -149,20 +156,20 @@
                 <span class="time">2026-02-07 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698655d97cbb83907b42da12/master/pass/Technologies-Changing-How-Youll-Watch-Winter-Olympic-Games-Gear-2259908698.jpg" alt="The Technologies Changing How You’ll Watch the 2026 Winter Olympic Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-technologies-changing-how-youll-watch-the-2026-winter-olympic-games/" target="_blank">The Technologies Changing How You’ll Watch the 2026 Winter Olympic Games</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-07 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzwbcmr7i6t48w6rayuwx.webp" alt="From Quiet Researcher to Programming Pioneer: Dennis Ritchie’s Lasting Legacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/homayounmmdy/from-quiet-researcher-to-programming-pioneer-dennis-ritchies-lasting-legacy-pc0" target="_blank">From Quiet Researcher to Programming Pioneer: Dennis Ritchie’s Lasting Legacy</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-07 16:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +215,6 @@
                 <span class="time">2026-02-07 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Zen-6-znver6-LLVM-Clang" target="_blank">Initial AMD Zen 6 &quot;znver6&quot; Support Merged For LLVM/Clang</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-07 11:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/Super-Bowl-LX-2026-how-to-watch-1280x853.jpg" alt="Super Bowl LX 2026: How to Watch and What to Know About Sunday’s Broadcast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/super-bowl-lx-2026-how-to-watch-and-what-to-know-about-sundays-broadcast-2000666368" target="_blank">Super Bowl LX 2026: How to Watch and What to Know About Sunday’s Broadcast</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-07 16:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Apple-iPad-11.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Get this refurbished iPad 11 with cellular for $370 instead of $499" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/07/get-this-refurbished-ipad-11-with-cellular-for-370-instead-of-499.html" target="_blank">Get this refurbished iPad 11 with cellular for $370 instead of $499</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-07 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/whitetablets-1280x853.jpg" alt="What RFK Jr.’s Unproven Autism Treatment Could Mean for Autistic Patients and Their Families" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,29 +297,20 @@
                 <span class="time">2026-02-06 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/Screenshot-2026-02-06-163830.jpg" alt="The Analogue 3D Is Giving These Unreleased N64 Colors A Second Chance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/analogue-3d-n64-colors-new-prototype-2000666525" target="_blank">The Analogue 3D Is Giving These Unreleased N64 Colors A Second Chance</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-06 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KGTA9NMNS8YPHC0HHV57657D/hero-image.jpg" alt="10 Fitness Hacks Every Apple Watch User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/fitness-hacks-every-apple-watch-user-should-know?utm_medium=RSS" target="_blank">10 Fitness Hacks Every Apple Watch User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-06 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1770345992-20260207.png" alt="Saturday Morning Breakfast Cereal - Moneychanger" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/moneychanger" target="_blank">Saturday Morning Breakfast Cereal - Moneychanger</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-02-07 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -313,31 +320,13 @@
                 <span class="time">2026-02-06 23:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/tell-you-something/" target="_blank">Tell You Something</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-02-06 16:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1770264297-20260206.png" alt="Saturday Morning Breakfast Cereal - Curse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/curse-2" target="_blank">Saturday Morning Breakfast Cereal - Curse</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-02-06 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 16:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 17:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
