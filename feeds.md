@@ -1,43 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-06 23:03:25 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-07 00:07:34 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 34 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, February 06, 2026 - 23:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, February 07, 2026 - 00:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -74,6 +67,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/06/nx-s1-5697026/trumps-harsh-immigration-tactics-are-taking-a-political-hit" target="_blank">Trump&#x27;s harsh immigration tactics are taking a political hit</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-06 20:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/6/oil-and-us-oversight-how-is-venezuelas-interim-government-surviving?traffic_source=rss" target="_blank">Oil and US oversight: How is Venezuela’s interim government surviving?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -96,15 +98,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-shares-video-includes-racist-depiction-obamas-sparking/story?id=129918626" target="_blank">White House takes down racist video shared by Trump about Obamas after backlash</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-06 18:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35cf/live/3f374500-0380-11f1-b5e2-dd58fc65f0f6.jpg" alt="Police search properties linked to Mandelson over Epstein investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c99k9yzzvm4o?at_medium=RSS&at_campaign=rss" target="_blank">Police search properties linked to Mandelson over Epstein investigation</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-06 18:05</span>
             </div>
         </div>
 </div>
@@ -172,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/scholarjoiner/i-built-a-privacy-first-citation-generator-because-chegg-is-too-expensive-1266" target="_blank">I built a privacy-first citation generator because Chegg is too expensive</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-07 00:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffvojqcn9s7xur5n9lt1w.png" alt="Self-hosting de LLMs: controle sobre dados e infraestrutura" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -214,15 +216,6 @@
                 <span class="title"><a href="https://dzone.com/articles/understanding-ai-agent-types-ai-architectures" target="_blank">Understanding AI Agent Types:Guide to 8 Modern AI Architectures</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-06 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-ML-LIB-RFC" target="_blank">ML-LIB: Machine Learning Library Proposed For The Linux Kernel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-06 19:31</span>
             </div>
         </div>
 </div>
@@ -272,6 +265,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGT255NYNVZZGPVYGET4RKSK/hero-image.jpg" alt="How EU Regulators Might Change TikTok" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/eu-regulators-might-change-tiktok?utm_medium=RSS" target="_blank">How EU Regulators Might Change TikTok</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-06 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/Screenshot-2026-02-06-163830.jpg" alt="The Analogue 3D Is Giving These Unreleased N64 Colors A Second Chance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -305,15 +307,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/is-virtual-reality-dead?utm_medium=RSS" target="_blank">Is Virtual Reality Really Dead?</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-06 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/skeletor-masters-of-the-universe-revelations-1280x853.jpg" alt="Travis Knight Insisted Skeletor Had His Skull Face for ‘Masters of the Universe’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/travis-knight-insisted-skeletor-had-his-skull-face-for-masters-of-the-universe-2000719056" target="_blank">Travis Knight Insisted Skeletor Had His Skull Face for ‘Masters of the Universe’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-06 20:00</span>
             </div>
         </div>
 </div>
@@ -371,8 +364,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 23:03 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 00:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
