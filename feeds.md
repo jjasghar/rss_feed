@@ -1,36 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-02-07 18:02:45 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-02-07 19:06:00 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, February 07, 2026 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, February 07, 2026 - 19:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260207-Francesca-Lollobrigid-ch-1125-048a1c.jpg" alt="Italian speedskater Francesca Lollobrigida wins gold at home on 35th birthday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/sports/olympics/italian-speedskater-francesca-lollobrigida-wins-gold-home-35th-birthda-rcna257911" target="_blank">Italian speedskater Francesca Lollobrigida wins gold at home on 35th birthday</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-07 18:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +93,20 @@
                 <span class="time">2026-02-07 13:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/07/nx-s1-5695142/opinion-alternate-endings-for-modern-attention-spans" target="_blank">Opinion: Alternate endings for modern attention spans</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-07 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/" target="_blank">New York lawmakers propose a three-year pause on new data centers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-07 18:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +152,6 @@
                 <span class="time">2026-02-07 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2258531111-500x500.jpg" alt="Under Trump, EPA’s enforcement of environmental laws collapses, report finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/02/under-trump-epas-enforcement-of-environmental-laws-collapses-report-finds/" target="_blank">Under Trump, EPA’s enforcement of environmental laws collapses, report finds</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-07 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -185,6 +178,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/" target="_blank">Al Lowe on model trains, funny deaths and working with Disney</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-07 15:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/cicirello/what-web-hosts-do-you-recommend-for-building-a-site-you-intend-to-sell-with-a-domain-nj3" target="_blank">What web host(s) do you recommend for building a site you intend to sell with a domain?</a></span>
                 <span class="feed">DEV Community</span>
@@ -203,19 +205,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/suitenumerique" target="_blank">France&#x27;s homegrown open source online office suite</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-07 13:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/fizzy-self-hostable-kanban-solution/" target="_blank">We Ditched Clickup for Fizzy: An (Open Source) Kanban Board App</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-07 13:31</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NetBSD-11.0-RC1" target="_blank">NetBSD 11.0-RC1 Available For Testing With Enhanced Linux Emulation</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-07 14:10</span>
             </div>
         </div>
 </div>
@@ -328,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 19:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
