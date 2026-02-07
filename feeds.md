@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-07 14:04:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-02-07 15:03:44 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, February 07, 2026 - 14:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, February 07, 2026 - 15:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,12 +105,30 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6986615f5841b2ac3d4d7a88/master/pass/Target%20Darts%20Omni%20Auto%20Scoring%20System%201%20SOURCE%20Simon%20Hill.png" alt="Target Darts Omni Auto Scoring System Hits the Mark" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/target-darts-omni-auto-scoring-system-rave/" target="_blank">Target Darts Omni Auto Scoring System Hits the Mark</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-07 14:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/games/874914/cairn-review-pc-playstation-5" target="_blank">Cairn is a climbing journey about perseverance and obsession</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-07 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/875154/how-to-watch-olympics-nintendo-muppets-installer" target="_blank">The best way to watch the Olympics</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-07 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -145,29 +158,29 @@
                 <span class="time">2026-02-07 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69865e797cbb83907b42dad9/master/pass/Gear%20News%20of%20the%20Week-%20Google's%20Pixel%2010a%20Arrives%20Soon,%20and%20Valve%20Delays%20Its%20Steam%20Hardware.png" alt="Gear News of the Week: Google&#x27;s Pixel 10a Arrives Soon, and Valve Delays Its Steam Hardware" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gear-news-of-the-week-googles-pixel-10a-arrives-soon-and-valve-delays-its-steam-hardware/" target="_blank">Gear News of the Week: Google&#x27;s Pixel 10a Arrives Soon, and Valve Delays Its Steam Hardware</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-07 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6986124e619933b7c326492a/master/pass/gear-personal-finances-98154619.jpg" alt="7 Steps to Better Financial Health You Can Take Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/your-annual-personal-finance-checklist/" target="_blank">7 Steps to Better Financial Health You Can Take Right Now</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-07 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/programmerkr/why-i-started-building-proxpl-rethinking-programming-for-the-ai-era-472a" target="_blank">Why I Started Building ProXPL — Rethinking Programming for the AI Era</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-07 14:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/suitenumerique" target="_blank">France&#x27;s homegrown open source online office suite</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-07 13:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +215,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/02/cname-rfc-cloudflare-outage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How CNAME Ordering in RFC Specs Caused Cloudflare 1.1.1.1 Outage</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-02-07 11:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/corbado/how-to-measure-passkey-adoption-funnels-activation-and-device-insights-1fb9" target="_blank">How to Measure Passkey Adoption: Funnels, Activation, and Device Insights</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-07 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1770311427284%2Fe63d5d11-e815-41e2-88c5-50c9ac969098.jpeg" alt="Quincy Larson’s freeCodeCamp updates are invaluable. This week: Harvard CS50 2026, a free CS course, now on their YouTube channel:" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/richardpascoe/quincy-larsons-freecodecamp-updates-are-invaluable-this-week-harvard-cs50-2026-a-free-cs-4ca0" target="_blank">Quincy Larson’s freeCodeCamp updates are invaluable. This week: Harvard CS50 2026, a free CS course, now on their YouTube channel:</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-07 09:56</span>
             </div>
         </div>
 </div>
@@ -341,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 14:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 15:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
