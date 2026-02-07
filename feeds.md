@@ -1,46 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-07 12:02:39 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-07 13:16:02 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 37 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, February 07, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, February 07, 2026 - 13:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0223/live/a3873ed0-0415-11f1-9154-2f1cc68521d4.jpg" alt="US wants Russia and Ukraine to end war by June, says Zelensky" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd0y0y9z231o?at_medium=RSS&at_campaign=rss" target="_blank">US wants Russia and Ukraine to end war by June, says Zelensky</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-07 13:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/07/nx-s1-5695142/opinion-alternate-endings-for-modern-attention-spans" target="_blank">Opinion: Alternate endings for modern attention spans</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-07 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/761e/live/de23e4a0-0413-11f1-9154-2f1cc68521d4.png" alt="Brown says Mandelson scandal is &#x27;serious&#x27; for Starmer but PM is &#x27;man of integrity&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,6 +85,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260206-sam-darnold-lr-9bf27a.jpg" alt="How Seattle&#x27;s Sam Darnold went from NFL castoff to Super Bowl QB" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/sports/football/seattles-sam-darnold-went-nfl-castoff-super-bowl-qb-rcna256053" target="_blank">How Seattle&#x27;s Sam Darnold went from NFL castoff to Super Bowl QB</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-07 11:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -83,38 +102,29 @@
                 <span class="time">2026-02-07 10:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/7/ashraf-leads-pakistan-to-nervy-win-over-netherlands-as-t20-world-cup-begins?traffic_source=rss" target="_blank">Faheem leads Pakistan to nervy win over Netherlands in T20 World Cup opener</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-07 09:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/205e/live/42be2b60-038c-11f1-9972-d3f265c101c6.jpg" alt="Mandelson suggested holiday home for &#x27;privacy&#x27; of Epstein &#x27;guests&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0mkd29lk08o?at_medium=RSS&at_campaign=rss" target="_blank">Mandelson suggested holiday home for &#x27;privacy&#x27; of Epstein &#x27;guests&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-07 06:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/7/bangladesh-election-who-are-the-key-players-and-parties?traffic_source=rss" target="_blank">Bangladesh election: Who are the key players and parties?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-07 04:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68e80dcb34a4e22944e3d3d0/master/pass/Squarespce-source-Squarespace.jpg" alt="4 Best Website Builders (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-website-builders/" target="_blank">4 Best Website Builders (2026), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-07 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2258531111-500x500.jpg" alt="Under Trump, EPA’s enforcement of environmental laws collapses, report finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/02/under-trump-epas-enforcement-of-environmental-laws-collapses-report-finds/" target="_blank">Under Trump, EPA’s enforcement of environmental laws collapses, report finds</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-07 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/698655d97cbb83907b42da12/master/pass/Technologies-Changing-How-Youll-Watch-Winter-Olympic-Games-Gear-2259908698.jpg" alt="The Technologies Changing How You’ll Watch the 2026 Winter Olympic Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,29 +161,20 @@
                 <span class="time">2026-02-07 05:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/" target="_blank">An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-07 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-500x500.jpg" alt="Sixteen Claude AI agents working together created a new C compiler" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/" target="_blank">Sixteen Claude AI agents working together created a new C compiler</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-06 23:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiexcu4e78o3bojcpnxx0.png" alt="The Portfolio Challenge by Google AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gde/the-portfolio-challenge-by-google-ai-47gh" target="_blank">The Portfolio Challenge by Google AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-07 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -217,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/daisukeyoda/from-cli-to-github-bot-building-a-code-management-ai-for-python-7nk" target="_blank">From CLI to GitHub Bot: Building a Code Management AI for Python</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-07 06:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz7oazk9duk0o7i91jb39.png" alt="Web APIs That Replace Entire Libraries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/web_dev-usman/web-apis-that-replace-entire-libraries-2ia8" target="_blank">Web APIs That Replace Entire Libraries</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-07 06:06</span>
             </div>
         </div>
 </div>
@@ -347,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 13:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
