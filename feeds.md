@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-07 09:04:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-07 10:02:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, February 07, 2026 - 09:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, February 07, 2026 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/7/ashraf-leads-pakistan-to-nervy-win-over-netherlands-as-t20-world-cup-begins?traffic_source=rss" target="_blank">Faheem leads Pakistan to nervy win over Netherlands in T20 World Cup opener</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-07 09:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/205e/live/42be2b60-038c-11f1-9972-d3f265c101c6.jpg" alt="Mandelson suggested holiday home for &#x27;privacy&#x27; of Epstein &#x27;guests&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +101,20 @@
                 <span class="time">2026-02-07 01:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/06/nx-s1-5704823/winter-olympics-opening-ceremony-highlights" target="_blank">Mariah Carey, coffee makers and other highlights from the Olympic opening ceremony</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-07 01:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6986124e619933b7c326492a/master/pass/gear-personal-finances-98154619.jpg" alt="7 Steps to Better Financial Health You Can Take Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/your-annual-personal-finance-checklist/" target="_blank">7 Steps to Better Financial Health You Can Take Right Now</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-07 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +160,20 @@
                 <span class="time">2026-02-06 22:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698625ce5354ec116d77d85c/master/pass/Jonathan-Ross-Dragging-Case-May-Help-Expose-Evidence-in-Renee-Good-Shooting-Security-2259440193.jpg" alt="ICE Agent’s ‘Dragging’ Case May Help Expose Evidence in Renee Good Shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/jonathan-ross-renee-good-roberto-carlos-munoz-guatemala/" target="_blank">ICE Agent’s ‘Dragging’ Case May Help Expose Evidence in Renee Good Shooting</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-06 22:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1770311427284%2Fe63d5d11-e815-41e2-88c5-50c9ac969098.jpeg" alt="Quincy Larson’s freeCodeCamp updates are invaluable. This week: Harvard CS50 2026, a free CS course, now on their YouTube channel:" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/richardpascoe/quincy-larsons-freecodecamp-updates-are-invaluable-this-week-harvard-cs50-2026-a-free-cs-4ca0" target="_blank">Quincy Larson’s freeCodeCamp updates are invaluable. This week: Harvard CS50 2026, a free CS course, now on their YouTube channel:</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-07 09:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/humble_engineer_ac3add409/debugging-the-technical-debt-of-everyday-living-1omf" target="_blank">Debugging the Technical Debt of Everyday Living</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-07 03:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Plasma-6.6-Fingerprint-Fixes" target="_blank">KDE Plasma 6.6 Fixing Significant Issues With Fingerprint Authentication</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-07 01:09</span>
             </div>
         </div>
 </div>
@@ -342,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 09:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
