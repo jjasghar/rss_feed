@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-07 21:04:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-07 22:02:10 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, February 07, 2026 - 21:04 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, February 07, 2026 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/2/7/is-nigerias-security-situation-worsening-or-is-there-progress?traffic_source=rss" target="_blank">Is Nigeria’s security situation worsening, or is there progress?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-07 21:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/250207-ilia-malinin-ch-1558-df7850.jpg" alt="Ilia Malinin makes Olympic debut with strong second-place performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/sports/olympics/ilia-malinin-winter-olympics-2026-rcna257948" target="_blank">Ilia Malinin makes Olympic debut with strong second-place performance</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-07 21:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +98,20 @@
                 <span class="time">2026-02-07 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/761e/live/de23e4a0-0413-11f1-9154-2f1cc68521d4.png" alt="Mandelson scandal is &#x27;serious&#x27; for Starmer but PM is &#x27;man of integrity&#x27;, Brown says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg1g83zvlyo?at_medium=RSS&at_campaign=rss" target="_blank">Mandelson scandal is &#x27;serious&#x27; for Starmer but PM is &#x27;man of integrity&#x27;, Brown says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-07 13:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/07/nx-s1-5704342/after-the-fall-how-olympic-figure-skaters-soar-after-stumbling-on-the-ice" target="_blank">After the Fall: How Olympic figure skaters soar after stumbling on the ice</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-07 13:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/07/nba-star-giannis-antetokounmpo-joins-kalshi-as-an-investor/" target="_blank">NBA star Giannis Antetokounmpo joins Kalshi as an investor</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-07 21:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +157,20 @@
                 <span class="time">2026-02-07 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/875154/how-to-watch-olympics-nintendo-muppets-installer" target="_blank">The best way to watch the Olympics</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-07 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/franckpachot/normal-forms-and-the-document-model-mongodb-19f9" target="_blank">Normal Forms and MongoDB</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-07 21:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,34 +216,29 @@
                 <span class="time">2026-02-07 16:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/" target="_blank">Al Lowe on model trains, funny deaths and working with Disney</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-07 15:52</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-tips.html" target="_blank">Friday Squid Blogging: Squid Fishing Tips</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-06 22:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/shutterstock_1031640172-scaled-e1770499854690.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Bland NorCal doesn&#x27;t really have its own accent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/07/bland-norcal-doesnt-really-have-its-own-accent.html" target="_blank">Bland NorCal doesn&#x27;t really have its own accent</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-07 21:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/supergirl-trailer-breakdown-1280x853.jpg" alt="‘Supergirl’ May Get a Last-Minute Musical Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/supergirl-may-get-a-last-minute-musical-change-2000719178" target="_blank">‘Supergirl’ May Get a Last-Minute Musical Change</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-07 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/charli-xcx-moment-1280x853.jpg" alt="Charli XCX Is a Demonic Brat in Takashi Miike’s ‘Untitled Tokyo’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +275,6 @@
                 <span class="time">2026-02-07 16:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Apple-iPad-11.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Get this refurbished iPad 11 with cellular for $370 instead of $499" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/07/get-this-refurbished-ipad-11-with-cellular-for-370-instead-of-499.html" target="_blank">Get this refurbished iPad 11 with cellular for $370 instead of $499</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-07 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/whitetablets-1280x853.jpg" alt="What RFK Jr.’s Unproven Autism Treatment Could Mean for Autistic Patients and Their Families" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/what-rfk-jr-s-unproven-autism-treatment-could-mean-for-autistic-patients-and-their-families-2000717516" target="_blank">What RFK Jr.’s Unproven Autism Treatment Could Mean for Autistic Patients and Their Families</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-07 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 21:04 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
