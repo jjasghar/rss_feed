@@ -1,30 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-07 03:43:19 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-02-07 04:29:00 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, February 07, 2026 - 03:43 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, February 07, 2026 - 04:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-winter-olympics-olympic-games_7157991.jpg?20260207031739" alt="Maybe you didn&#x27;t hear the boos, but the Winter Olympics opening ceremony became an outlet for rage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/maybe-you-didnt-hear-the-boos-at-home-but-the-winter-olympics-opening-ceremony-became-an-outlet-for-rage-13504325" target="_blank">Maybe you didn&#x27;t hear the boos, but the Winter Olympics opening ceremony became an outlet for rage</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-07 02:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,15 +102,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/authorities-aware-new-message-nancy-guthrie-sheriff/story?id=129934478" target="_blank">Authorities &#x27;aware of new message regarding Nancy Guthrie&#x27;: Sheriff</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-06 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/6/what-t20-world-cup-expulsion-means-for-bangladesh-and-regional-relations?traffic_source=rss" target="_blank">For cricket-mad Bangladesh, T20 World Cup expulsion means heartbreak</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-06 22:52</span>
             </div>
         </div>
 </div>
@@ -159,6 +169,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/suhas_mallesh/your-docker-registry-has-500-unused-images-costing-you-every-month-126m" target="_blank">Your Docker Registry Has 500 Unused Images Costing You Every Month 🐳</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-07 04:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv297f5qj3pewt6mc1oyc.png" alt="Debugging the Technical Debt of Everyday Living" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,15 +220,6 @@
                 <span class="title"><a href="https://openciv3.org/" target="_blank">OpenCiv3: Open-source, cross-platform reimagining of Civilization III</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-06 21:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.2-Released" target="_blank">Wine 11.2 Released With More Improvements &amp; 32 Bug Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-06 21:31</span>
             </div>
         </div>
 </div>
@@ -358,8 +368,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 03:43 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 04:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
