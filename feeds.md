@@ -1,41 +1,46 @@
-<!-- Processing 54 RSS feeds at 2026-02-07 11:02:58 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-07 12:02:39 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Error processing https://ubuntu.com/blog/feed: The read operation timed out -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 37 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, February 07, 2026 - 11:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, February 07, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +56,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/761e/live/de23e4a0-0413-11f1-9154-2f1cc68521d4.png" alt="Brown says Mandelson scandal is &#x27;serious&#x27; for Starmer but PM is &#x27;man of integrity&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg1g83zvlyo?at_medium=RSS&at_campaign=rss" target="_blank">Brown says Mandelson scandal is &#x27;serious&#x27; for Starmer but PM is &#x27;man of integrity&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-07 11:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/07/nx-s1-5702223/lindsey-vonn-ski-the-olympic-downhill-torn-acl" target="_blank">Lindsey Vonn is set to ski the Olympic downhill race with a torn ACL. How?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-07 11:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +110,20 @@
                 <span class="time">2026-02-07 04:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-winter-olympics-olympic-games_7157991.jpg?20260207031739" alt="Winter Olympics crowd ignored plea not to boo - and opening ceremony became outlet for rage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/maybe-you-didnt-hear-the-boos-at-home-but-the-winter-olympics-opening-ceremony-became-an-outlet-for-rage-13504325" target="_blank">Winter Olympics crowd ignored plea not to boo - and opening ceremony became outlet for rage</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-07 02:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-winter-olympics-olympic-games_7157991.jpg?20260207031739" alt="Maybe you didn&#x27;t hear the boos, but the Winter Olympics opening ceremony became an outlet for rage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/maybe-you-didnt-hear-the-boos-at-home-but-the-winter-olympics-opening-ceremony-became-an-outlet-for-rage-13504325" target="_blank">Maybe you didn&#x27;t hear the boos, but the Winter Olympics opening ceremony became an outlet for rage</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-07 02:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/698655d97cbb83907b42da12/master/pass/Technologies-Changing-How-Youll-Watch-Winter-Olympic-Games-Gear-2259908698.jpg" alt="The Technologies Changing How You’ll Watch the 2026 Winter Olympic Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-technologies-changing-how-youll-watch-the-2026-winter-olympic-games/" target="_blank">The Technologies Changing How You’ll Watch the 2026 Winter Olympic Games</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-07 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69865e797cbb83907b42dad9/master/pass/Gear%20News%20of%20the%20Week-%20Google's%20Pixel%2010a%20Arrives%20Soon,%20and%20Valve%20Delays%20Its%20Steam%20Hardware.png" alt="Gear News of the Week: Google&#x27;s Pixel 10a Arrives Soon, and Valve Delays Its Steam Hardware" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,20 +169,29 @@
                 <span class="time">2026-02-06 23:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/873589/valentines-day-gifts-aura-aspen-amazfit-active-2-deal-sale" target="_blank">We found 20 Verge-approved gifts on sale ahead of Valentine’s Day</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-06 22:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Zen-6-znver6-LLVM-Clang" target="_blank">Initial AMD Zen 6 &quot;znver6&quot; Support Merged For LLVM/Clang</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-07 11:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/cname-rfc-cloudflare-outage/en/headerimage/generatedHeaderImage-1769435290840.jpg" alt="How CNAME Ordering in RFC Specs Caused Cloudflare 1.1.1.1 Outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/cname-rfc-cloudflare-outage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How CNAME Ordering in RFC Specs Caused Cloudflare 1.1.1.1 Outage</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-07 11:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,24 +228,6 @@
                 <span class="time">2026-02-07 06:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.3.5-Released" target="_blank">Mesa 25.3.5 Brings Vulkan Driver Fixes &amp; Other Minor Changes -- Even For The Old R600g</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-07 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.3.5-Released" target="_blank">Mesa 25.3.5 Brings Vulkan Driver Fixes &amp; Other Minor Changes -- Even For Old The R600g</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-07 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,20 +251,20 @@
                 <span class="time">2026-02-06 20:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/iphone-lockdown-mode-protects-washington-post-reporter.html" target="_blank">iPhone Lockdown Mode Protects Washington Post Reporter</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-06 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/whitetablets-1280x853.jpg" alt="What RFK Jr.’s Unproven Autism Treatment Could Mean for Autistic Patients and Their Families" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/what-rfk-jr-s-unproven-autism-treatment-could-mean-for-autistic-patients-and-their-families-2000717516" target="_blank">What RFK Jr.’s Unproven Autism Treatment Could Mean for Autistic Patients and Their Families</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-07 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/pirate-yakuza.jpg" alt="Weekend Guide: 6 Games To Play During The Super Bowl" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -305,15 +310,6 @@
                 <span class="time">2026-02-06 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Apple-MacBook-Air-2.jpg?fit=1200%2C901&amp;quality=60&amp;ssl=1" alt="Never pay full price for Apple products again with this hack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/06/never-pay-full-price-for-apple-products-again-with-this-hack.html" target="_blank">Never pay full price for Apple products again with this hack</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-06 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -351,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 11:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
