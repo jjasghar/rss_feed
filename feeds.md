@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-07 22:02:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-07 23:04:54 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, February 07, 2026 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, February 07, 2026 - 23:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-af1-feb-6_1770441350936_hpMain_4x3t_384.jpg" alt="&#x27;Indefensible&#x27;: Black Trump allies grapple with fallout from racist video of Obamas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/indefensible-black-trump-allies-grapple-fallout-racist-video/story?id=129940924" target="_blank">&#x27;Indefensible&#x27;: Black Trump allies grapple with fallout from racist video of Obamas</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-07 22:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260206-osu-womens-hockey-lr-5d472b.jpg" alt="Ohio State isn&#x27;t just a football powerhouse. It&#x27;s also fueling Olympic hockey." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/sports/olympics/ohio-state-iolympics-hockey-rcna257761" target="_blank">Ohio State isn&#x27;t just a football powerhouse. It&#x27;s also fueling Olympic hockey.</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-07 21:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/07/nx-s1-5705280/nancy-guthrie-case-latest" target="_blank">One week since Nancy Guthrie was last seen, here&#x27;s what we know</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-07 21:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,33 +96,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2026/feb/07/sudan-rsf-drone-attack-rahad-kills-displaced-people" target="_blank">RSF drone attack kills 24 people fleeing fighting in central Sudan, says doctors group</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-02-07 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260207-Francesca-Lollobrigid-ch-1125-048a1c.jpg" alt="Italian speedskater Francesca Lollobrigida wins gold at home on 35th birthday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/sports/olympics/italian-speedskater-francesca-lollobrigida-wins-gold-home-35th-birthda-rcna257911" target="_blank">Italian speedskater Francesca Lollobrigida wins gold at home on 35th birthday</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-07 18:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/7/super-bowl-drives-economic-boon-ahead-of-game?traffic_source=rss" target="_blank">Super Bowl drives economic boon in the US ahead of game</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-07 16:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/7/spain-portugal-brace-for-new-storm-after-floods-kill-2-displace-11000?traffic_source=rss" target="_blank">Spain, Portugal brace for new storm after floods kill 2, displace 11,000</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-07 13:30</span>
             </div>
         </div>
 </div>
@@ -163,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8giqcdpfk6fc0bv33rt1.png" alt="[AWS] Parallel execution of tasks using Kiro&#x27;s custom subagents [Kiro]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/aws-parallel-execution-of-tasks-using-kiros-custom-subagents-kiro-n77" target="_blank">[AWS] Parallel execution of tasks using Kiro&#x27;s custom subagents [Kiro]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-07 22:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,20 +216,20 @@
                 <span class="time">2026-02-07 17:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzwbcmr7i6t48w6rayuwx.webp" alt="From Quiet Researcher to Programming Pioneer: Dennis Ritchie’s Lasting Legacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/homayounmmdy/from-quiet-researcher-to-programming-pioneer-dennis-ritchies-lasting-legacy-pc0" target="_blank">From Quiet Researcher to Programming Pioneer: Dennis Ritchie’s Lasting Legacy</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-07 16:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Image-ifiStudio-Shutterstock.jpg?fit=1080%2C432&amp;quality=60&amp;ssl=1" alt="BMW patents logo-shaped screw to block DIY repairs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/07/bmw-patents-logo-shaped-screw-to-block-diy-repairs.html" target="_blank">BMW patents logo-shaped screw to block DIY repairs</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-07 22:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/shutterstock_1031640172-scaled-e1770499854690.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Bland NorCal doesn&#x27;t really have its own accent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +275,6 @@
                 <span class="time">2026-02-07 17:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/Super-Bowl-LX-2026-how-to-watch-1280x853.jpg" alt="Super Bowl LX 2026: How to Watch and What to Know About Sunday’s Broadcast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/super-bowl-lx-2026-how-to-watch-and-what-to-know-about-sundays-broadcast-2000666368" target="_blank">Super Bowl LX 2026: How to Watch and What to Know About Sunday’s Broadcast</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-07 16:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 23:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
