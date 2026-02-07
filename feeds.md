@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-07 15:03:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-07 16:02:51 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, February 07, 2026 - 15:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, February 07, 2026 - 16:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -91,12 +91,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/761e/live/de23e4a0-0413-11f1-9154-2f1cc68521d4.png" alt="Brown says Mandelson scandal is &#x27;serious&#x27; for Starmer but PM is &#x27;man of integrity&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg1g83zvlyo?at_medium=RSS&at_campaign=rss" target="_blank">Brown says Mandelson scandal is &#x27;serious&#x27; for Starmer but PM is &#x27;man of integrity&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-07 11:56</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/feb/07/businesses-close-protest-malawi-tax-changes-electronic-invoicing-system" target="_blank">Thousands of Malawi businesses close in protest over tax changes</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-07 12:00</span>
             </div>
         </div>
 </div>
@@ -167,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cicirello/what-web-hosts-do-you-recommend-for-building-a-site-you-intend-to-sell-with-a-domain-nj3" target="_blank">What web host(s) do you recommend for building a site you intend to sell with a domain?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-07 15:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/programmerkr/why-i-started-building-proxpl-rethinking-programming-for-the-ai-era-472a" target="_blank">Why I Started Building ProXPL — Rethinking Programming for the AI Era</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-07 14:41</span>
@@ -206,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-Zen-6-znver6-LLVM-Clang" target="_blank">Initial AMD Zen 6 &quot;znver6&quot; Support Merged For LLVM/Clang</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-07 11:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/cname-rfc-cloudflare-outage/en/headerimage/generatedHeaderImage-1769435290840.jpg" alt="How CNAME Ordering in RFC Specs Caused Cloudflare 1.1.1.1 Outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/cname-rfc-cloudflare-outage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How CNAME Ordering in RFC Specs Caused Cloudflare 1.1.1.1 Outage</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-07 11:32</span>
             </div>
         </div>
 </div>
@@ -336,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 15:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 16:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
