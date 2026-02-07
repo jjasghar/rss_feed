@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-07 07:11:18 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-07 08:03:07 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, February 07, 2026 - 07:11 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, February 07, 2026 - 08:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/205e/live/42be2b60-038c-11f1-9972-d3f265c101c6.jpg" alt="Mandelson suggested holiday home for &#x27;privacy&#x27; of Epstein &#x27;guests&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0mkd29lk08o?at_medium=RSS&at_campaign=rss" target="_blank">Mandelson suggested holiday home for &#x27;privacy&#x27; of Epstein &#x27;guests&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-07 06:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,30 +82,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f7/live/cd988f30-03d9-11f1-9972-d3f265c101c6.jpg" alt="Trump says he &#x27;didn&#x27;t see&#x27; part of video with racist clip depicting Obamas as apes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce8r8y78g10o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he &#x27;didn&#x27;t see&#x27; part of video with racist clip depicting Obamas as apes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-07 01:36</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/02/06/nx-s1-5704823/winter-olympics-opening-ceremony-highlights" target="_blank">Mariah Carey, coffee makers and other highlights from the Olympic opening ceremony</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-07 01:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ea0/live/6c5339b0-03ba-11f1-b7e1-afb6d0884c18.jpg" alt="Trump signs executive order threatening tariffs for countries trading with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4glgz2l83vo?at_medium=RSS&at_campaign=rss" target="_blank">Trump signs executive order threatening tariffs for countries trading with Iran</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-07 01:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770423279712_nn_lkr_guthrie_search_250206_1920x1080-31k1ao.jpg" alt="Investigators analyzing new message regarding Nancy Guthrie as search enters sixth day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/investigators-analyzing-new-message-regarding-nancy-guthrie-as-search-enters-sixth-day-257308741701" target="_blank">Investigators analyzing new message regarding Nancy Guthrie as search enters sixth day</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-07 00:14</span>
             </div>
         </div>
 </div>
@@ -336,22 +340,13 @@
                 <span class="time">2026-02-06 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/02/06/dropping-the-deuce" target="_blank">Dropping The Deuce</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-02-06 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 07:11 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 08:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
