@@ -1,38 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-02-07 02:51:22 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-07 03:43:19 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, February 07, 2026 - 02:51 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, February 07, 2026 - 03:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +47,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/7/who-says-fatal-case-of-nipah-virus-confirmed-in-bangladesh?traffic_source=rss" target="_blank">WHO says fatal case of Nipah virus confirmed in Bangladesh</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-07 02:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/06/nx-s1-5704823/winter-olympics-opening-ceremony-highlights" target="_blank">Mariah Carey, coffee makers and other highlights from the Olympic opening ceremony</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-07 01:33</span>
             </div>
         </div>
 <div class="story">
@@ -93,20 +94,20 @@
                 <span class="time">2026-02-06 22:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/06/nx-s1-5697026/trumps-harsh-immigration-tactics-are-taking-a-political-hit" target="_blank">Trump&#x27;s harsh immigration tactics are taking a political hit</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-06 20:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/" target="_blank">An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-07 01:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-500x500.jpg" alt="Sixteen Claude AI agents working together created a new C compiler" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +153,20 @@
                 <span class="time">2026-02-06 21:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/09/new-glenn_gs2-hotfire-500x500.webp" alt="To reuse or not reuse—the eternal debate of New Glenn&#x27;s second stage reignites" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/02/to-reuse-or-not-reuse-the-eternal-debate-of-new-glenns-second-stage-reignites/" target="_blank">To reuse or not reuse—the eternal debate of New Glenn&#x27;s second stage reignites</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-06 19:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv297f5qj3pewt6mc1oyc.png" alt="Debugging the Technical Debt of Everyday Living" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/humble_engineer_ac3add409/debugging-the-technical-debt-of-everyday-living-1omf" target="_blank">Debugging the Technical Debt of Everyday Living</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-07 03:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +210,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Wine-11.2-Released" target="_blank">Wine 11.2 Released With More Improvements &amp; 32 Bug Fixes</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-06 21:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/paperium/hello-edge-keyword-spotting-on-microcontrollers-3f6k" target="_blank">Hello Edge: Keyword Spotting on Microcontrollers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-06 20:50</span>
             </div>
         </div>
 </div>
@@ -366,8 +358,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 02:51 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 03:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
