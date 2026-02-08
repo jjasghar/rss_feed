@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-08 06:14:05 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-08 07:13:37 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, February 08, 2026 - 06:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, February 08, 2026 - 07:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/suraj_khaitan_f893c243958/we-deleted-our-login-code-alb-oidc-for-serverless-frontends-aok" target="_blank">🔥 We Deleted Our Login Code: ALB OIDC for Serverless Frontends</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-08 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/emacs-the-ux-ideal/" target="_blank">In the Age of AI Writing Tools, I Picked Emacs for My Sci-Fi Novel</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-08 06:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FZmxvd2NoYXJ0IFRCCiAgICBzdWJncmFwaCBCeXRlTlVDWyJCeXRlTlVDICgkMjAwIMK3IDZHQiBSQU0gwrcgMlRCKSJdCiAgICAgICAgc3ViZ3JhcGggVGFsb3NbIlRhbG9zIExpbnV4IChpbW11dGFibGUpIl0KICAgICAgICAgICAgc3ViZ3JhcGggSzhzWyJLdWJlcm5ldGVzIl0KICAgICAgICAgICAgICAgIE5TMVsiYWFwbGEtbWFoaXRpc2F0aGE8YnIvPk5lbzRqIl0KICAgICAgICAgICAgICAgIE5TMlsiYWFwbGEtZGhhbjxici8-RmluYW5jZSAoR28pIl0KICAgICAgICAgICAgICAgIE5TM1siYWFwbGEtaHVzaGFyPGJyLz5MTE0gKFB5dGhvbiArIE9sbGFtYSkiXQogICAgICAgICAgICAgICAgTlM0WyJnaGFyYXNhdGhpLXdlYjxici8-UmVhY3QiXQogICAgICAgICAgICAgICAgTlM1WyJzdG9yYWdlPGJyLz5NaW5JTyJdCiAgICAgICAgICAgIGVuZAogICAgICAgIGVuZAogICAgZW5kCiAgICBQaG9uZVsiaVBob25lIl0gLS0-fCJMQU4gb25seSJ8IEs4cwogICAgTGFwdG9wWyJCcm93c2VyIl0gLS0-fCJMQU4gb25seSJ8IEs4cw%3D%3D" alt="Why Your AI Assistant Should Run at Home — Lessons from OpenClaw" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/zxbers/how-i-built-a-29mo-managed-ai-agent-service-on-open-source-5boc" target="_blank">How I Built a $29/mo Managed AI Agent Service on Open Source</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-08 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yousef_elmaghrabi/how-computers-show-graphics-under-the-hood-3mfm" target="_blank">How computers show graphics under the hood.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-08 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8giqcdpfk6fc0bv33rt1.png" alt="[AWS] Parallel execution of tasks using Kiro&#x27;s custom subagents [Kiro]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/aws-parallel-execution-of-tasks-using-kiros-custom-subagents-kiro-n77" target="_blank">[AWS] Parallel execution of tasks using Kiro&#x27;s custom subagents [Kiro]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-07 22:54</span>
             </div>
         </div>
 </div>
@@ -298,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 06:14 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 07:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
