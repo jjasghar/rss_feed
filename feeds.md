@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-08 22:02:49 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-02-08 23:04:57 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, February 08, 2026 - 22:03 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, February 08, 2026 - 23:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/8/israel-security-cabinet-approves-rules-to-increase-control-over-west-bank?traffic_source=rss" target="_blank">Israel security cabinet approves rules to increase control over West Bank</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-08 22:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/08/nx-s1-5705939/breezy-johnson-wins-gold-while-lindsey-vonn-crash-ends-comeback-quest" target="_blank">Breezy Johnson wins gold, while Lindsey Vonn crash ends comeback quest</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-08 21:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e228/live/f972c650-052a-11f1-a823-cb41fdf55da7.jpg" alt="PM&#x27;s chief aide McSweeney quits over Mandelson row" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,24 +93,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/08/nx-s1-5705967/u-s-gave-ukraine-and-russia-june-deadline-to-reach-peace-agreement-zelenskyy-says" target="_blank">U.S. gave Ukraine and Russia June deadline to reach peace agreement, Zelenskyy says</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-08 18:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-3-gty-gmh-260206_1770384952363_hpMain_4x3t_384.jpg" alt="GOP Rep. Lawler says image posted by Trump mocking Obamas was &#x27;racist&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/gop-rep-lawler-image-posted-trump-mocking-obamas/story?id=129964153" target="_blank">GOP Rep. Lawler says image posted by Trump mocking Obamas was &#x27;racist&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-08 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3183/live/8a040f50-0515-11f1-b7e1-afb6d0884c18.jpg" alt="Japan&#x27;s governing party on course for landslide election win" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss" target="_blank">Japan&#x27;s governing party on course for landslide election win</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-08 16:52</span>
             </div>
         </div>
 </div>
@@ -163,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/blashnikov_pro/i-built-a-vercel-for-landing-pages-with-a-cli-and-an-mcp-server-1e8a" target="_blank">I Built a Vercel for Landing Pages — With a CLI and an MCP Server</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-08 22:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2699809%2Fec349deb-7bed-45dc-83a6-1c064a8742fc.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,20 +213,20 @@
                 <span class="time">2026-02-08 16:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/em3s/actionbase-one-database-for-likes-views-and-follows-2od8" target="_blank">Actionbase: One Database for Likes, Views, and Follows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-08 15:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/SwifDoo-PDF-Pro.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="If PDFs keep eating your day, SwifDoo PDF Pro for $34.99 is the best way to fight back" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/08/if-pdfs-keep-eating-your-day-swifdoo-pdf-pro-for-34-99-is-the-best-way-to-fight-back.html" target="_blank">If PDFs keep eating your day, SwifDoo PDF Pro for $34.99 is the best way to fight back</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-08 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/bioshock-hed-1280x853.jpg" alt="Sounds Like Gore Verbinksi’s ‘BioShock’ Movie Would’ve Been For the Sickos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +272,6 @@
                 <span class="time">2026-02-08 18:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/tim-cook-donald-trump-oct-28-2025-1280x853.jpg" alt="Tim Cook Reportedly Reassures Apple Employees That He Doesn’t Want His Friend Trump to Deport Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tim-cook-trump-immigration-disagreement-lobbying-2000718266" target="_blank">Tim Cook Reportedly Reassures Apple Employees That He Doesn’t Want His Friend Trump to Deport Them</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-08 17:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 22:03 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 23:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
