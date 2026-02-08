@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-08 17:05:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-08 18:03:43 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, February 08, 2026 - 17:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, February 08, 2026 - 18:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +50,15 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/gop-rep-lawler-image-posted-trump-mocking-obamas/story?id=129964153" target="_blank">GOP Rep. Lawler says image posted by Trump mocking Obamas was &#x27;racist&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-08 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3183/live/8a040f50-0515-11f1-b7e1-afb6d0884c18.jpg" alt="Japan&#x27;s governing party on course for landslide election win" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss" target="_blank">Japan&#x27;s governing party on course for landslide election win</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-08 16:52</span>
             </div>
         </div>
 <div class="story">
@@ -89,20 +97,20 @@
                 <span class="time">2026-02-08 14:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/8/understanding-the-value-of-gold-prices-global-reserves-and-market-trends?traffic_source=rss" target="_blank">Understanding the value of gold: Prices, global reserves, and market trends</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-08 14:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/875469/mandy-indiana-urgh-review" target="_blank">You need to listen to the new Mandy, Indiana record: URGH</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-08 17:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +156,20 @@
                 <span class="time">2026-02-08 03:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/875433/tumblr-jeff-donofrio-ceo-washington-post-layoffs" target="_blank">Former Tumblr head Jeff D’Onofrio steps in as acting CEO at the Washington Post</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-07 23:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F69ljfw80s1vp6yjf4982.png" alt="QuizMaster – Learn, Create, and Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sagar_saini_68981754459a0/quizmaster-learn-create-and-play-41jg" target="_blank">QuizMaster – Learn, Create, and Play</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-08 17:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flux5vekcqyk41r0z8hdb.jpg" alt="How I Built an 8-Agent AI Team That Ships Code Autonomously" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,20 +215,20 @@
                 <span class="time">2026-02-08 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-On-Demand-SDSi-Sunset" target="_blank">Intel Appears To Have Quietly Sunset &quot;On Demand&quot; Software Defined Silicon</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-08 12:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/tim-cook-donald-trump-oct-28-2025-1280x853.jpg" alt="Tim Cook Reportedly Reassures Apple Employees That He Doesn’t Want His Friend Trump to Deport Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tim-cook-trump-immigration-disagreement-lobbying-2000718266" target="_blank">Tim Cook Reportedly Reassures Apple Employees That He Doesn’t Want His Friend Trump to Deport Them</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-08 17:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/steve-bannon.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Epstein was a superconcierge for the elite: helicopters, Hermès bags, internships, and &quot;tall, Swedish blondes&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,22 +274,13 @@
                 <span class="time">2026-02-07 22:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/shutterstock_1031640172-scaled-e1770499854690.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Bland NorCal doesn&#x27;t really have its own accent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/07/bland-norcal-doesnt-really-have-its-own-accent.html" target="_blank">Bland NorCal doesn&#x27;t really have its own accent</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-07 21:32</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 17:05 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 18:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
