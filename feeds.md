@@ -1,34 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-02-07 23:04:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-08 00:10:26 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, February 07, 2026 - 23:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, February 08, 2026 - 00:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +53,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/SavannahGuthrieMomMissing_1770504265720_hpMain_4x3t_384.jpg" alt="Savannah Guthrie in new video pleads for mother&#x27;s return: &#x27;We will pay&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/savannah-guthrie-new-video-pleads-mothers-return-pay/story?id=129957144" target="_blank">Savannah Guthrie in new video pleads for mother&#x27;s return: &#x27;We will pay&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-08 00:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/230228-savannah-guthrie-mb-251d47.jpg" alt="Savannah Guthrie tells mother&#x27;s possible kidnapper &#x27;we will pay&#x27; in new video" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/savannah-guthrie-new-video-to-mother-possible-kidnapper-rcna257970" target="_blank">Savannah Guthrie tells mother&#x27;s possible kidnapper &#x27;we will pay&#x27; in new video</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-07 23:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/07/g-s1-109213/pentagon-says-its-cutting-ties-with-woke-harvard-ending-military-training" target="_blank">Pentagon says it&#x27;s cutting ties with &#x27;woke&#x27; Harvard, ending military training</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-07 23:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/7/haitis-transitional-council-hands-power-to-us-backed-pm?traffic_source=rss" target="_blank">Haiti’s transitional council hands power to US-backed prime minister</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-07 23:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-af1-feb-6_1770441350936_hpMain_4x3t_384.jpg" alt="&#x27;Indefensible&#x27;: Black Trump allies grapple with fallout from racist video of Obamas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -60,42 +104,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/sports/olympics/ohio-state-iolympics-hockey-rcna257761" target="_blank">Ohio State isn&#x27;t just a football powerhouse. It&#x27;s also fueling Olympic hockey.</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-07 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/07/nx-s1-5705280/nancy-guthrie-case-latest" target="_blank">One week since Nancy Guthrie was last seen, here&#x27;s what we know</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-07 21:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/2/7/is-nigerias-security-situation-worsening-or-is-there-progress?traffic_source=rss" target="_blank">Is Nigeria’s security situation worsening, or is there progress?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-07 21:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/250207-ilia-malinin-ch-1558-df7850.jpg" alt="Ilia Malinin makes Olympic debut with strong second-place performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/sports/olympics/ilia-malinin-winter-olympics-2026-rcna257948" target="_blank">Ilia Malinin makes Olympic debut with strong second-place performance</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-07 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/07/sudan-rsf-drone-attack-rahad-kills-displaced-people" target="_blank">RSF drone attack kills 24 people fleeing fighting in central Sudan, says doctors group</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-07 20:03</span>
             </div>
         </div>
 </div>
@@ -163,6 +171,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yousef_elmaghrabi/how-computers-show-graphics-under-the-hood-3mfm" target="_blank">How computers show graphics under the hood.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8giqcdpfk6fc0bv33rt1.png" alt="[AWS] Parallel execution of tasks using Kiro&#x27;s custom subagents [Kiro]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -183,37 +200,28 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yurii_lozinskyi/explainability-in-ai-is-not-a-feature-its-a-survival-mechanism-5al7" target="_blank">Explainability in AI Is Not a Feature. It’s a Survival Mechanism.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-07 19:54</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://bellard.org/tcc/" target="_blank">Tiny C Compiler</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-07 21:45</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/" target="_blank">Brookhaven Lab&#x27;s RHIC Concludes 25-Year Run with Final Collisions</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-07 19:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://nolanlawson.com/2026/02/07/we-mourn-our-craft/" target="_blank">We Mourn Our Craft</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-07 18:32</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Best-Feature-Changes" target="_blank">Linux 6.19 Features Include Many Benefits For Intel &amp; AMD Users</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-07 21:38</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/micronink/how-i-built-a-system-to-automatically-sell-access-to-a-private-github-repo-2dnm" target="_blank">How I Built a System to Automatically Sell Access to a Private GitHub Repo</a></span>
+                <span class="title"><a href="https://dev.to/yurii_lozinskyi/explainability-in-ai-is-not-a-feature-its-a-survival-mechanism-5al7" target="_blank">Explainability in AI Is Not a Feature. It’s a Survival Mechanism.</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-02-07 17:43</span>
+                <span class="time">2026-02-07 19:54</span>
             </div>
         </div>
 </div>
@@ -221,6 +229,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/i-want-to-believe-melania.jpg?fit=2176%2C1362&amp;quality=60&amp;ssl=1" alt="U.S. troops say they were pressured to buy &quot;Melania&quot; tickets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/07/u-s-troops-say-they-were-pressured-to-buy-melania-tickets.html" target="_blank">U.S. troops say they were pressured to buy &quot;Melania&quot; tickets</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-07 23:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Image-ifiStudio-Shutterstock.jpg?fit=1080%2C432&amp;quality=60&amp;ssl=1" alt="BMW patents logo-shaped screw to block DIY repairs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +283,6 @@
                 <span class="time">2026-02-07 19:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/ghostbusters-logo-1280x853.jpg" alt="Netflix’s Animated ‘Ghostbusters’ Movie Shows Signs of Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/netflixs-animated-ghostbusters-movie-shows-signs-of-life-2000719265" target="_blank">Netflix’s Animated ‘Ghostbusters’ Movie Shows Signs of Life</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-07 17:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -289,22 +297,13 @@
                 <span class="time">2026-02-07 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/06/dropping-the-deuce" target="_blank">Dropping The Deuce</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-02-06 23:50</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 23:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 00:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
