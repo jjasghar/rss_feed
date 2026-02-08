@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-08 13:16:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-08 14:06:09 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, February 08, 2026 - 13:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, February 08, 2026 - 14:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,10 +50,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/2/8/live-liverpool-vs-manchester-city-premier-league?traffic_source=rss" target="_blank">LIVE: Liverpool vs Manchester City – Premier League</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-08 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/02/08/nx-s1-5705898/breezy-johnsons-downhill-gold-is-americas-first-medal-of-2026-winter-olympics" target="_blank">Breezy Johnson&#x27;s downhill gold is America&#x27;s first medal of 2026 Winter Olympics</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-08 13:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad57/live/14a1cdd0-04eb-11f1-8bb6-81a84917ac9a.jpg" alt="Don&#x27;t drop PM over Mandelson, minister urges Labour MPs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy03nd2yxzdo?at_medium=RSS&at_campaign=rss" target="_blank">Don&#x27;t drop PM over Mandelson, minister urges Labour MPs</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-08 12:38</span>
             </div>
         </div>
 <div class="story">
@@ -80,24 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cz9v9d0xj8qo?at_medium=RSS&at_campaign=rss" target="_blank">Foreign Office to review Mandelson&#x27;s US ambassador pay-off</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-08 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/8/polls-open-in-second-round-of-portugal-presidential-election?traffic_source=rss" target="_blank">Polls open in second round of Portugal presidential election</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-08 09:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/8/families-inconsolable-in-gaza-as-israel-returns-more-unidentified-bodies?traffic_source=rss" target="_blank">Families ‘inconsolable’ in Gaza as Israel returns more unidentified bodies</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-08 08:15</span>
             </div>
         </div>
 </div>
@@ -165,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kirill_tolmachev/the-unwritten-rules-of-slack-etiquette-for-devs-7dn" target="_blank">The Unwritten Rules of Slack Etiquette for Devs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-08 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-On-Demand-SDSi-Sunset" target="_blank">Intel Appears To Have Quietly Sunset &quot;On Demand&quot; Software Defined Silicon</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-08 12:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjtm81rby0jd0anx2hor9.png" alt="I built a Streamlit alternative because I hated &quot;Full-Script Reruns&quot; (Introducing Violit) 🚀" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/murimikelvin/translating-messy-data-into-action-using-power-bi-3a02" target="_blank">Translating Messy Data into Action Using Power BI.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-08 10:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgkvgkswks60icxp02h11.png" alt="Stop Writing Boilerplate: How I Built a Code Generator to Automate NestJS Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/inno0317/stop-writing-boilerplate-how-i-built-a-code-generator-to-automate-nestjs-development-1jk2" target="_blank">Stop Writing Boilerplate: How I Built a Code Generator to Automate NestJS Development</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-08 08:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://donotnotify.com/opensource.html" target="_blank">DoNotNotify is now Open Source</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-08 07:39</span>
             </div>
         </div>
 </div>
@@ -296,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 13:16 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 14:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
