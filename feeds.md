@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-08 14:06:09 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-08 15:03:25 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, February 08, 2026 - 14:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, February 08, 2026 - 15:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/08/nx-s1-5705304/transgender-minors-gender-affirming-care-plastic-surgery" target="_blank">Trump administration lauds plastic surgeons&#x27; statement on trans surgery for minors</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-08 14:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/8/understanding-the-value-of-gold-prices-global-reserves-and-market-trends?traffic_source=rss" target="_blank">Understanding the value of gold: Prices, global reserves, and market trends</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-08 14:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +104,20 @@
                 <span class="time">2026-02-08 12:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-takaichi-japan_7157766.jpg?20260206194849" alt="Japanese PM&#x27;s election gamble set to pay off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/japans-ultra-conservative-prime-minister-set-to-seize-more-power-exit-poll-shows-13504853" target="_blank">Japanese PM&#x27;s election gamble set to pay off</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-08 11:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5036/live/5f84f020-04dc-11f1-b8f8-d167dab78416.jpg" alt="Foreign Office to review Mandelson&#x27;s US ambassador pay-off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz9v9d0xj8qo?at_medium=RSS&at_campaign=rss" target="_blank">Foreign Office to review Mandelson&#x27;s US ambassador pay-off</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-08 09:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69866b7687d616d0d134feab/master/pass/Update-%20The%20Best%20Wireless%20Earbuds%20We've%20Tested.png" alt="Best Wireless Earbuds (2026): Apple, Sony, Bose, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-wirefree-earbuds/" target="_blank">Best Wireless Earbuds (2026): Apple, Sony, Bose, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-08 13:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6987bace169b47a250342742/master/pass/I%20Have%20Fallen%20in%20Love%20With%20Open%20Earbuds%20(and%20You%20Should%20Too).png" alt="I Have Fallen in Love With Open Earbuds (and You Should Too)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +163,29 @@
                 <span class="time">2026-02-07 21:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/875425/gog-native-linux-support" target="_blank">GOG is already working on native Linux support</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-07 20:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://siddhantkhare.com/writing/ai-fatigue-is-real" target="_blank">AI fatigue Is real and nobody talks about it</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-08 14:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Feature-Preview" target="_blank">A Lot Of Exciting Changes To Look Forward To With Linux 6.20 -- Or Linux 7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-08 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-QATlib-26.02" target="_blank">Intel Releases QATlib 26.02 With New APIs For Zero-Copy DMA</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-08 11:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/" target="_blank">Why E cores make Apple silicon fast</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-08 11:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0qk8zrz8lv72fjnodwcg.png" alt="Translating Messy Data into Action Using Power BI." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/murimikelvin/translating-messy-data-into-action-using-power-bi-3a02" target="_blank">Translating Messy Data into Action Using Power BI.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-08 10:58</span>
             </div>
         </div>
 </div>
@@ -297,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 14:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 15:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
