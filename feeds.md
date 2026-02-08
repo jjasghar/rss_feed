@@ -1,40 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-08 15:03:25 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-08 16:03:14 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, February 08, 2026 - 15:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, February 08, 2026 - 16:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/8/pm-sanae-takaichis-party-set-for-majority-in-japan-parliamentary-elections?traffic_source=rss" target="_blank">PM Sanae Takaichi’s party set for majority in Japan parliamentary elections</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-08 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/08/nx-s1-5705924/uk-prime-minister-chief-of-staff-quits-epstein-friend-us-ambassador" target="_blank">U.K. leader&#x27;s chief of staff quits over hiring of Epstein friend as U.S. ambassador</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-08 15:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +93,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/08/nx-s1-5705898/breezy-johnsons-downhill-gold-is-americas-first-medal-of-2026-winter-olympics" target="_blank">Breezy Johnson&#x27;s downhill gold is America&#x27;s first medal of 2026 Winter Olympics</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-08 13:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad57/live/14a1cdd0-04eb-11f1-8bb6-81a84917ac9a.jpg" alt="Don&#x27;t drop PM over Mandelson, minister urges Labour MPs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy03nd2yxzdo?at_medium=RSS&at_campaign=rss" target="_blank">Don&#x27;t drop PM over Mandelson, minister urges Labour MPs</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-08 12:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c933/live/25340710-04e3-11f1-b8f8-d167dab78416.jpg" alt="Japan&#x27;s governing party projected to win snap election majority" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss" target="_blank">Japan&#x27;s governing party projected to win snap election majority</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-08 12:33</span>
             </div>
         </div>
 </div>
@@ -171,6 +162,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/em3s/actionbase-one-database-for-likes-views-and-follows-2od8" target="_blank">Actionbase: One Database for Likes, Views, and Follows</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-08 15:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://siddhantkhare.com/writing/ai-fatigue-is-real" target="_blank">AI fatigue Is real and nobody talks about it</a></span>
                 <span class="feed">Hacker News</span>
@@ -213,20 +213,20 @@
                 <span class="time">2026-02-08 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-QATlib-26.02" target="_blank">Intel Releases QATlib 26.02 With New APIs For Zero-Copy DMA</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-08 11:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Hyte-X50-PC-RX-9060-XT-4-1280x853.jpg" alt="Building a Budget Gaming PC in 2026 Is a Pain in the Ass" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/building-a-budget-gaming-pc-in-2026-is-a-pain-in-the-ass-2000719095" target="_blank">Building a Budget Gaming PC in 2026 Is a Pain in the Ass</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-08 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/satellites--1280x853.jpg" alt="What’s the Difference Between SpaceX’s Starlink, Amazon Leo, and Blue Origin’s TeraWave?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +272,6 @@
                 <span class="time">2026-02-07 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/charli-xcx-moment-1280x853.jpg" alt="Charli XCX Is a Demonic Brat in Takashi Miike’s ‘Untitled Tokyo’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/charli-xcx-is-a-demonic-brat-in-takashi-miikes-untitled-tokyo-2000719231" target="_blank">Charli XCX Is a Demonic Brat in Takashi Miike’s ‘Untitled Tokyo’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-07 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,7 +292,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 15:03 UTC
+        🔄 Last Updated: 16:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
