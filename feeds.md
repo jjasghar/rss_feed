@@ -1,36 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-02-08 11:03:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-08 12:02:38 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, February 08, 2026 - 11:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, February 08, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +113,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6987bace169b47a250342742/master/pass/I%20Have%20Fallen%20in%20Love%20With%20Open%20Earbuds%20(and%20You%20Should%20Too).png" alt="I Have Fallen in Love With Open Earbuds (and You Should Too)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/why-open-earbuds-are-my-favorite-new-category/" target="_blank">I Have Fallen in Love With Open Earbuds (and You Should Too)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-08 11:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/698093a5fc89418254fc4e19/master/pass/013026_GEAR-TIME-Collection-Top-Art.jpg" alt="For $4,550, Would You Buy a Single Premium Watch or a Swarm of Affordable Ones?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -150,20 +166,29 @@
                 <span class="time">2026-02-07 20:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/" target="_blank">New York lawmakers propose a three-year pause on new data centers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-07 18:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjtm81rby0jd0anx2hor9.png" alt="I built a Streamlit alternative because I hated &quot;Full-Script Reruns&quot; (Introducing Violit) 🚀" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dope_flamingo/i-built-a-streamlit-alternative-because-i-hated-full-script-reruns-introducing-violit-1eg0" target="_blank">I built a Streamlit alternative because I hated &quot;Full-Script Reruns&quot; (Introducing Violit) 🚀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-08 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-QATlib-26.02" target="_blank">Intel Releases QATlib 26.02 With New APIs For Zero-Copy DMA</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-08 11:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0qk8zrz8lv72fjnodwcg.png" alt="Translating Messy Data into Action Using Power BI." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,29 +225,20 @@
                 <span class="time">2026-02-08 07:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/emacs-the-ux-ideal/" target="_blank">In the Age of AI Writing Tools, I Picked Emacs for My Sci-Fi Novel</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-08 06:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FZmxvd2NoYXJ0IFRCCiAgICBzdWJncmFwaCBCeXRlTlVDWyJCeXRlTlVDICgkMjAwIMK3IDZHQiBSQU0gwrcgMlRCKSJdCiAgICAgICAgc3ViZ3JhcGggVGFsb3NbIlRhbG9zIExpbnV4IChpbW11dGFibGUpIl0KICAgICAgICAgICAgc3ViZ3JhcGggSzhzWyJLdWJlcm5ldGVzIl0KICAgICAgICAgICAgICAgIE5TMVsiYWFwbGEtbWFoaXRpc2F0aGE8YnIvPk5lbzRqIl0KICAgICAgICAgICAgICAgIE5TMlsiYWFwbGEtZGhhbjxici8-RmluYW5jZSAoR28pIl0KICAgICAgICAgICAgICAgIE5TM1siYWFwbGEtaHVzaGFyPGJyLz5MTE0gKFB5dGhvbiArIE9sbGFtYSkiXQogICAgICAgICAgICAgICAgTlM0WyJnaGFyYXNhdGhpLXdlYjxici8-UmVhY3QiXQogICAgICAgICAgICAgICAgTlM1WyJzdG9yYWdlPGJyLz5NaW5JTyJdCiAgICAgICAgICAgIGVuZAogICAgICAgIGVuZAogICAgZW5kCiAgICBQaG9uZVsiaVBob25lIl0gLS0-fCJMQU4gb25seSJ8IEs4cwogICAgTGFwdG9wWyJCcm93c2VyIl0gLS0-fCJMQU4gb25seSJ8IEs4cw%3D%3D" alt="Why Your AI Assistant Should Run at Home — Lessons from OpenClaw" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/koustubh/why-your-ai-assistant-should-run-at-home-lessons-from-openclaw-2o1n" target="_blank">Why Your AI Assistant Should Run at Home — Lessons from OpenClaw</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-08 03:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/satellites--1280x853.jpg" alt="What’s the Difference Between SpaceX’s Starlink, Amazon Leo, and Blue Origin’s TeraWave?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/whats-the-difference-between-spacexs-starlink-amazon-leo-and-blue-origins-terawave-2000719162" target="_blank">What’s the Difference Between SpaceX’s Starlink, Amazon Leo, and Blue Origin’s TeraWave?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-08 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/i-want-to-believe-melania.jpg?fit=2176%2C1362&amp;quality=60&amp;ssl=1" alt="U.S. troops say they were pressured to buy &quot;Melania&quot; tickets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +284,6 @@
                 <span class="time">2026-02-07 19:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Barack_Obama_guests_on_The_View.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="FCC opens investigation into &quot;The View&quot; over a Democrat&#x27;s appearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/07/fcc-opens-investigation-into-the-view-over-a-democrats-appearance.html" target="_blank">FCC opens investigation into &quot;The View&quot; over a Democrat&#x27;s appearance</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-07 19:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 11:03 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
