@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-08 04:04:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-08 05:28:07 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, February 08, 2026 - 04:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, February 08, 2026 - 05:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/8/somalias-mohamud-slams-israels-interference-rejects-base-on-somaliland?traffic_source=rss" target="_blank">Somalia’s Mohamud slams Israel’s interference, rejects base on Somaliland</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-08 05:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/08/nx-s1-5689990/for-many-us-olympic-athletes-italy-feels-like-home-turf" target="_blank">For many U.S. Olympic athletes, Italy feels like home turf</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-08 05:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca98/live/a23d25a0-04a4-11f1-a81c-112ebee512f6.jpg" alt="Japanese people brave snow to vote in snap election" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss" target="_blank">Japanese people brave snow to vote in snap election</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-08 04:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,33 +102,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/savannah-guthrie-new-video-pleads-mothers-return-pay/story?id=129957144" target="_blank">Savannah Guthrie in new video pleads for mother&#x27;s return: &#x27;We will pay&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-08 00:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/230228-savannah-guthrie-mb-251d47.jpg" alt="Savannah Guthrie tells mother&#x27;s possible kidnapper &#x27;we will pay&#x27; in new video" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/savannah-guthrie-new-video-to-mother-possible-kidnapper-rcna257970" target="_blank">Savannah Guthrie tells mother&#x27;s possible kidnapper &#x27;we will pay&#x27; in new video</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-07 23:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/07/g-s1-109213/pentagon-says-its-cutting-ties-with-woke-harvard-ending-military-training" target="_blank">Pentagon says it&#x27;s cutting ties with &#x27;woke&#x27; Harvard, ending military training</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-07 23:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/7/haitis-transitional-council-hands-power-to-us-backed-pm?traffic_source=rss" target="_blank">Haiti’s transitional council hands power to US-backed prime minister</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-07 23:08</span>
             </div>
         </div>
 </div>
@@ -295,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 04:04 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 05:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
