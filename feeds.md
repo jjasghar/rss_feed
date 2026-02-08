@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-08 05:28:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-08 06:14:05 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, February 08, 2026 - 05:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, February 08, 2026 - 06:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/8/timeline-of-past-bangladesh-elections-and-the-countrys-leaders?traffic_source=rss" target="_blank">Timeline of past Bangladesh elections and the country’s leaders</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-08 05:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/special-report-savannah-guthrie-releases-new-video-directed-to-mother-s-possible-kidnapper-257340997556" target="_blank">Special report: Savannah Guthrie releases new video directed to mother&#x27;s possible kidnapper</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-08 01:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/SavannahGuthrieMomMissing_1770504265720_hpMain_4x3t_384.jpg" alt="Savannah Guthrie in new video pleads for mother&#x27;s return: &#x27;We will pay&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/savannah-guthrie-new-video-pleads-mothers-return-pay/story?id=129957144" target="_blank">Savannah Guthrie in new video pleads for mother&#x27;s return: &#x27;We will pay&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-08 00:06</span>
             </div>
         </div>
 </div>
@@ -189,6 +187,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/localgpt-app/localgpt" target="_blank">Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-08 01:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/zxbers/how-i-built-a-29mo-managed-ai-agent-service-on-open-source-5boc" target="_blank">How I Built a $29/mo Managed AI Agent Service on Open Source</a></span>
                 <span class="feed">DEV Community</span>
@@ -211,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/aws-builders/aws-parallel-execution-of-tasks-using-kiros-custom-subagents-kiro-n77" target="_blank">[AWS] Parallel execution of tasks using Kiro&#x27;s custom subagents [Kiro]</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-07 22:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/franckpachot/normal-forms-and-the-document-model-mongodb-19f9" target="_blank">Normal Forms and MongoDB</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-07 21:53</span>
             </div>
         </div>
 </div>
@@ -301,7 +299,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 05:28 UTC
+        🔄 Last Updated: 06:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
