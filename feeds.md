@@ -1,42 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-08 00:10:26 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-08 01:31:51 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, February 08, 2026 - 00:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, February 08, 2026 - 01:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770512471244_nbc_spec_full_savannah_guthrie_mother_video_260207_1920x1080-mt1e2i.jpg" alt="Special report: Savannah Guthrie releases new video directed to mother&#x27;s possible kidnapper" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/special-report-savannah-guthrie-releases-new-video-directed-to-mother-s-possible-kidnapper-257340997556" target="_blank">Special report: Savannah Guthrie releases new video directed to mother&#x27;s possible kidnapper</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-08 01:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/SavannahGuthrieMomMissing_1770504265720_hpMain_4x3t_384.jpg" alt="Savannah Guthrie in new video pleads for mother&#x27;s return: &#x27;We will pay&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,15 +96,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/indefensible-black-trump-allies-grapple-fallout-racist-video/story?id=129940924" target="_blank">&#x27;Indefensible&#x27;: Black Trump allies grapple with fallout from racist video of Obamas</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-07 22:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260206-osu-womens-hockey-lr-5d472b.jpg" alt="Ohio State isn&#x27;t just a football powerhouse. It&#x27;s also fueling Olympic hockey." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/sports/olympics/ohio-state-iolympics-hockey-rcna257761" target="_blank">Ohio State isn&#x27;t just a football powerhouse. It&#x27;s also fueling Olympic hockey.</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-07 21:36</span>
             </div>
         </div>
 </div>
@@ -174,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zxbers/how-i-built-a-29mo-managed-ai-agent-service-on-open-source-5boc" target="_blank">How I Built a $29/mo Managed AI Agent Service on Open Source</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-08 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yousef_elmaghrabi/how-computers-show-graphics-under-the-hood-3mfm" target="_blank">How computers show graphics under the hood.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-08 00:00</span>
@@ -213,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Best-Feature-Changes" target="_blank">Linux 6.19 Features Include Many Benefits For Intel &amp; AMD Users</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-07 21:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yurii_lozinskyi/explainability-in-ai-is-not-a-feature-its-a-survival-mechanism-5al7" target="_blank">Explainability in AI Is Not a Feature. It’s a Survival Mechanism.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-07 19:54</span>
             </div>
         </div>
 </div>
@@ -302,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 00:10 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 01:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
