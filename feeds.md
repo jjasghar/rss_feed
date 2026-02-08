@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-08 02:59:01 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-02-08 04:04:13 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, February 08, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, February 08, 2026 - 04:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +107,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/07/india-has-changed-its-startup-rules-for-deep-tech/" target="_blank">India has changed its startup rules for deep tech</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-08 03:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/875433/tumblr-jeff-donofrio-ceo-washington-post-layoffs" target="_blank">Former Tumblr head Jeff D’Onofrio steps in as acting CEO at the Washington Post</a></span>
                 <span class="feed">The Verge</span>
@@ -149,20 +158,20 @@
                 <span class="time">2026-02-07 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6986615f5841b2ac3d4d7a88/master/pass/Target%20Darts%20Omni%20Auto%20Scoring%20System%201%20SOURCE%20Simon%20Hill.png" alt="Target Darts Omni Auto Scoring System Hits the Mark" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/target-darts-omni-auto-scoring-system-rave/" target="_blank">Target Darts Omni Auto Scoring System Hits the Mark</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-07 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FZmxvd2NoYXJ0IFRCCiAgICBzdWJncmFwaCBCeXRlTlVDWyJCeXRlTlVDICgkMjAwIMK3IDZHQiBSQU0gwrcgMlRCKSJdCiAgICAgICAgc3ViZ3JhcGggVGFsb3NbIlRhbG9zIExpbnV4IChpbW11dGFibGUpIl0KICAgICAgICAgICAgc3ViZ3JhcGggSzhzWyJLdWJlcm5ldGVzIl0KICAgICAgICAgICAgICAgIE5TMVsiYWFwbGEtbWFoaXRpc2F0aGE8YnIvPk5lbzRqIl0KICAgICAgICAgICAgICAgIE5TMlsiYWFwbGEtZGhhbjxici8-RmluYW5jZSAoR28pIl0KICAgICAgICAgICAgICAgIE5TM1siYWFwbGEtaHVzaGFyPGJyLz5MTE0gKFB5dGhvbiArIE9sbGFtYSkiXQogICAgICAgICAgICAgICAgTlM0WyJnaGFyYXNhdGhpLXdlYjxici8-UmVhY3QiXQogICAgICAgICAgICAgICAgTlM1WyJzdG9yYWdlPGJyLz5NaW5JTyJdCiAgICAgICAgICAgIGVuZAogICAgICAgIGVuZAogICAgZW5kCiAgICBQaG9uZVsiaVBob25lIl0gLS0-fCJMQU4gb25seSJ8IEs4cwogICAgTGFwdG9wWyJCcm93c2VyIl0gLS0-fCJMQU4gb25seSJ8IEs4cw%3D%3D" alt="Why Your AI Assistant Should Run at Home — Lessons from OpenClaw" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/koustubh/why-your-ai-assistant-should-run-at-home-lessons-from-openclaw-2o1n" target="_blank">Why Your AI Assistant Should Run at Home — Lessons from OpenClaw</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-08 03:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzx86d4p87utxg7u45lm.png" alt="I built codex-monitor so I could ship code while I slept" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/franckpachot/normal-forms-and-the-document-model-mongodb-19f9" target="_blank">Normal Forms and MongoDB</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-07 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://bellard.org/tcc/" target="_blank">Tiny C Compiler</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-07 21:45</span>
             </div>
         </div>
 </div>
@@ -295,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 04:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
