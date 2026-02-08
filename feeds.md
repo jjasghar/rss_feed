@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-08 18:03:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-08 19:06:34 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, February 08, 2026 - 18:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, February 08, 2026 - 19:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/8/ethiopia-demands-eritrea-immediately-withdraw-troops-from-its-territory?traffic_source=rss" target="_blank">Ethiopia demands Eritrea ‘immediately withdraw’ troops from its territory</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-08 18:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/08/nx-s1-5705967/u-s-gave-ukraine-and-russia-june-deadline-to-reach-peace-agreement-zelenskyy-says" target="_blank">U.S. gave Ukraine and Russia June deadline to reach peace agreement, Zelenskyy says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-08 18:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-3-gty-gmh-260206_1770384952363_hpMain_4x3t_384.jpg" alt="GOP Rep. Lawler says image posted by Trump mocking Obamas was &#x27;racist&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,30 +91,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b900/live/de61c530-c0ad-11f0-8456-eff94716b162.jpg" alt="Who is Starmer&#x27;s former chief of staff Morgan McSweeney?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/8/pm-sanae-takaichis-party-set-for-majority-in-japan-parliamentary-elections?traffic_source=rss" target="_blank">PM Sanae Takaichi’s party set for majority in Japan parliamentary elections</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-08 15:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/08/nx-s1-5705924/uk-prime-minister-chief-of-staff-quits-epstein-friend-us-ambassador" target="_blank">U.K. leader&#x27;s chief of staff quits over hiring of Epstein friend as U.S. ambassador</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-08 15:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/08/nx-s1-5705304/transgender-minors-gender-affirming-care-plastic-surgery" target="_blank">Trump administration lauds plastic surgeons&#x27; statement on trans surgery for minors</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-08 14:28</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy0l9z7qv0lo?at_medium=RSS&at_campaign=rss" target="_blank">Who is Starmer&#x27;s former chief of staff Morgan McSweeney?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-08 15:48</span>
             </div>
         </div>
 </div>
@@ -162,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kuria_dd8316139db3dea9c85/how-analysts-turn-messy-data-dax-and-dashboards-into-action-with-power-bi-1ggd" target="_blank">How Analysts Turn Messy Data, DAX, and Dashboards into Action with Power BI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-08 18:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F69ljfw80s1vp6yjf4982.png" alt="QuizMaster – Learn, Create, and Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,20 +217,29 @@
                 <span class="time">2026-02-08 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kirill_tolmachev/the-unwritten-rules-of-slack-etiquette-for-devs-7dn" target="_blank">The Unwritten Rules of Slack Etiquette for Devs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-08 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/Stream-Super-Bowl-LX-in-Canada-1280x853.jpg" alt="Stream Super Bowl 2026 in Canada: How to Watch the Show Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/stream-super-bowl-lx-in-canada-how-to-watch-the-show-today-2000666377" target="_blank">Stream Super Bowl 2026 in Canada: How to Watch the Show Today</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-08 18:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/duct-tape-wrists-1280x931.jpg" alt="‘Black Mirror’ Episode Comes to Life in Alleged $66 Million Crypto Theft Attempt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/black-mirror-episode-comes-to-life-in-alleged-66-million-crypto-theft-attempt-2000719314" target="_blank">‘Black Mirror’ Episode Comes to Life in Alleged $66 Million Crypto Theft Attempt</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-08 18:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/tim-cook-donald-trump-oct-28-2025-1280x853.jpg" alt="Tim Cook Reportedly Reassures Apple Employees That He Doesn’t Want His Friend Trump to Deport Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,22 +276,18 @@
                 <span class="time">2026-02-08 12:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/i-want-to-believe-melania.jpg?fit=2176%2C1362&amp;quality=60&amp;ssl=1" alt="U.S. troops say they were pressured to buy &quot;Melania&quot; tickets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1770346044-20260208.png" alt="Saturday Morning Breakfast Cereal - Ardent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/07/u-s-troops-say-they-were-pressured-to-buy-melania-tickets.html" target="_blank">U.S. troops say they were pressured to buy &quot;Melania&quot; tickets</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-07 23:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Image-ifiStudio-Shutterstock.jpg?fit=1080%2C432&amp;quality=60&amp;ssl=1" alt="BMW patents logo-shaped screw to block DIY repairs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/07/bmw-patents-logo-shaped-screw-to-block-diy-repairs.html" target="_blank">BMW patents logo-shaped screw to block DIY repairs</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-07 22:18</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/ardent" target="_blank">Saturday Morning Breakfast Cereal - Ardent</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-02-08 16:20</span>
             </div>
         </div>
 </div>
@@ -279,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 18:03 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 19:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
