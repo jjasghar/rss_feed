@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-08 08:03:31 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-08 09:05:25 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, February 08, 2026 - 08:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, February 08, 2026 - 09:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/8/families-inconsolable-in-gaza-as-israel-returns-more-unidentified-bodies?traffic_source=rss" target="_blank">Families ‘inconsolable’ in Gaza as Israel returns more unidentified bodies</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-08 08:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/8/polls-open-in-thailand-with-three-main-parties-vying-for-power?traffic_source=rss" target="_blank">Polls open in Thailand with three main parties vying for power</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-08 01:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770512471244_nbc_spec_full_savannah_guthrie_mother_video_260207_1920x1080-mt1e2i.jpg" alt="Special report: Savannah Guthrie releases new video directed to mother&#x27;s possible kidnapper" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/special-report-savannah-guthrie-releases-new-video-directed-to-mother-s-possible-kidnapper-257340997556" target="_blank">Special report: Savannah Guthrie releases new video directed to mother&#x27;s possible kidnapper</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-08 01:01</span>
             </div>
         </div>
 </div>
@@ -163,6 +165,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgkvgkswks60icxp02h11.png" alt="Stop Writing Boilerplate: How I Built a Code Generator to Automate NestJS Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/inno0317/stop-writing-boilerplate-how-i-built-a-code-generator-to-automate-nestjs-development-1jk2" target="_blank">Stop Writing Boilerplate: How I Built a Code Generator to Automate NestJS Development</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-08 08:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://donotnotify.com/opensource.html" target="_blank">DoNotNotify is now Open Source</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-08 07:39</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/jaeko44/i-built-codex-monitor-so-i-could-ship-code-while-i-slept-58in" target="_blank">I built codex-monitor so I could ship code while I slept</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-08 02:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/localgpt-app/localgpt" target="_blank">Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-08 01:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zxbers/how-i-built-a-29mo-managed-ai-agent-service-on-open-source-5boc" target="_blank">How I Built a $29/mo Managed AI Agent Service on Open Source</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-08 01:20</span>
             </div>
         </div>
 </div>
@@ -294,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 08:03 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 09:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
