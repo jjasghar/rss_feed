@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-09 06:20:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-09 07:21:55 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, February 09, 2026 - 06:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, February 09, 2026 - 07:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/09/g-s1-109279/socialist-candidate-wins-over-populist-portugal" target="_blank">Center-left Socialist candidate wins over populist in Portugal&#x27;s presidential runoff</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-09 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/9/japans-takaichi-vows-to-deliver-on-tax-cuts-after-ldps-historic-win?traffic_source=rss" target="_blank">Japan’s Takaichi vows to deliver on tax cuts after LDP’s ‘historic’ win</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-09 06:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/266b/live/4496bd60-0578-11f1-9972-d3f265c101c6.jpg" alt="Japanese stocks surge as Takaichi secures historic election victory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cjd9k852zdjo?at_medium=RSS&at_campaign=rss" target="_blank">Japanese stocks surge as Takaichi secures historic election victory</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-09 05:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,39 +92,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/Sports/wirestory_24ad67503a342a7e24348e66986250ab_4x3_384.jpg" alt="Seahawks ride their defense to a Super Bowl title, pounding the Patriots 29-13" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/SB-2-dfisc4.jpg" alt="Watch highlights from the 2026 Super Bowl" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Sports/wireStory/seahawks-ride-dark-side-defense-super-bowl-title-129967493" target="_blank">Seahawks ride their defense to a Super Bowl title, pounding the Patriots 29-13</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-09 03:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/bad-bunny-3-gty-gmh-260208_1770600515401_hpMain_4x3t_384.jpg" alt="Super Bowl 2026: Bad Bunny brings Puerto Rican culture to halftime show stage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/GMA/Culture/super-bowl-2026-bad-bunny-halftime-show/story?id=129787954" target="_blank">Super Bowl 2026: Bad Bunny brings Puerto Rican culture to halftime show stage</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-09 02:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/9/hong-kong-media-mogul-jimmy-lai-faces-sentencing-in-national-security-trial?traffic_source=rss" target="_blank">Hong Kong media mogul Jimmy Lai sentenced to 20 years in prison</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-09 02:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/08/nx-s1-5705972/measles-march-for-life-dc-reagan-national-union-station-metro" target="_blank">March for Life attendees may have been exposed to measles, DC Health warns</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-09 00:06</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/watch-highlights-from-the-2026-super-bowl-257364549767" target="_blank">Watch highlights from the 2026 Super Bowl</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-09 03:55</span>
             </div>
         </div>
 </div>
@@ -106,6 +105,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69895bf47705d705abd39dd4/master/pass/Super-Bowl-Tailgate-260208_RY_WIRED_SuperBowl_Tailgate_000134.jpg" alt="Super Bowl Tailgate Photo Essay: Bad Bunny, Big Tech, and the Big Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/super-bowl-lx-tailgate-photo-essay/" target="_blank">Super Bowl Tailgate Photo Essay: Bad Bunny, Big Tech, and the Big Game</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-09 06:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/875615/openai-super-bowl-ai-hardware-leak-hoax-fake" target="_blank">OpenAI’s supposedly ‘leaked’ Super Bowl ad with ear buds and a shiny orb was a hoax</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-09 04:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6988f08cccae190ad1328f33/master/pass/Review-MAGA-Halftime-Culture-2161994971.jpg" alt="Turning Point USA’s Halftime Show Was Exactly What You’d Expect" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,24 +159,6 @@
                 <span class="time">2026-02-08 23:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/08/amazons-melania-documentary-stumbles-in-second-weekend/" target="_blank">Amazon’s ‘Melania’ documentary stumbles in second weekend</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-08 22:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl/" target="_blank">Crypto.com places $70M bet on AI.com domain ahead of Super Bowl</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-08 20:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -193,6 +192,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://harshanu.space/en/tech/ccc-vs-gcc/" target="_blank">Claude’s C Compiler vs. GCC</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-09 04:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjmz0utgqdugcfec4sy4s.JPG" alt="How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,15 +216,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/02/java-news-roundup-feb02-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: GlassFish 8.0, OpenHai 1.0, LangChain4j, Infinispan, Hibernate, JobRunr</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-02-09 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rakesh1002/5-ai-coding-patterns-that-actually-work-2026-edition-13m5" target="_blank">5 AI Coding Patterns That Actually Work (2026 Edition)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-09 01:25</span>
             </div>
         </div>
 </div>
@@ -306,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 06:20 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 07:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
