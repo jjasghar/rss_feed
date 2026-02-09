@@ -1,30 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-02-09 08:10:41 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-09 09:15:50 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, February 09, 2026 - 08:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, February 09, 2026 - 09:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-listening-post/2026/2/9/the-anatomy-of-the-epstein-network?traffic_source=rss" target="_blank">The anatomy of the Epstein network</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-09 08:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,15 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/2/9/tool-of-siege-israels-punishing-control-of-gaza-movement?traffic_source=rss" target="_blank">‘Tool of siege’: Israel’s punishing control of Gaza movement</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-09 05:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/08/g-s1-109268/seahawks-super-bowl-title" target="_blank">Seahawks win Super Bowl title, pounding the Patriots 29-13</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-09 04:29</span>
             </div>
         </div>
 </div>
@@ -159,6 +159,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/group-office-26-0-release/" target="_blank">This Lesser Known Nextcloud Alternative&amp;#x27;s Latest Release Makes it More Suitable for Small Businesses</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-09 09:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/camptocamp-geo/multi-line-editing-in-edittrack-work-with-multiple-routes-simultaneously-5hk2" target="_blank">Multi-Line Editing in edittrack: Work with Multiple Routes Simultaneously</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-09 09:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/02/agent-definition-language/en/headerimage/generatedHeaderImage-1770285721503.jpg" alt="Next Moca Releases Agent Definition Language as an Open Source Specification" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -192,24 +210,6 @@
                 <span class="title"><a href="https://itsfoss.com/news/kernel-6-19-release/" target="_blank">Linux Kernel 6.19 Arrives! You Get Intel, AMD Improvements, and ASUS Armoury Support</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-02-09 04:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://harshanu.space/en/tech/ccc-vs-gcc/" target="_blank">Claude’s C Compiler vs. GCC</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-09 04:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjmz0utgqdugcfec4sy4s.JPG" alt="How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kihoro_codes_c959f8c68a9c/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-1b6f" target="_blank">How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-09 02:39</span>
             </div>
         </div>
 </div>
@@ -277,6 +277,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/02/09/home-azone" target="_blank">Home Azone</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-02-09 08:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5761.png" alt="SitRep" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -299,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 08:10 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 09:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
