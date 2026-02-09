@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-08 23:04:57 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-02-09 00:08:02 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, February 08, 2026 - 23:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, February 09, 2026 - 00:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3183/live/8a040f50-0515-11f1-b7e1-afb6d0884c18.jpg" alt="Japan&#x27;s PM Takaichi on course to win snap election by landslide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss" target="_blank">Japan&#x27;s PM Takaichi on course to win snap election by landslide</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-08 23:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +98,38 @@
                 <span class="time">2026-02-08 18:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/08/nx-s1-5705967/u-s-gave-ukraine-and-russia-june-deadline-to-reach-peace-agreement-zelenskyy-says" target="_blank">U.S. gave Ukraine and Russia June deadline to reach peace agreement, Zelenskyy says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-08 18:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game" target="_blank">Super Bowl LX ads: all AI everything</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-08 23:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/hailmary1-500x500-1770592187.jpg" alt="A Project Hail Mary final trailer? Yes please" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/02/a-project-hail-mary-final-trailer-yes-please/" target="_blank">A Project Hail Mary final trailer? Yes please</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-08 23:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/08/amazons-melania-documentary-stumbles-in-second-weekend/" target="_blank">Amazon’s ‘Melania’ documentary stumbles in second weekend</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-08 22:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -125,33 +155,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/08/san-franciscos-pro-billionaire-march-draws-dozens/" target="_blank">San Francisco’s pro-billionaire march draws dozens</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-08 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69866b7687d616d0d134feab/master/pass/Update-%20The%20Best%20Wireless%20Earbuds%20We've%20Tested.png" alt="Best Wireless Earbuds (2026): Apple, Sony, Bose, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-wirefree-earbuds/" target="_blank">Best Wireless Earbuds (2026): Apple, Sony, Bose, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-08 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6987bace169b47a250342742/master/pass/I%20Have%20Fallen%20in%20Love%20With%20Open%20Earbuds%20(and%20You%20Should%20Too).png" alt="I Have Fallen in Love With Open Earbuds (and You Should Too)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/why-open-earbuds-are-my-favorite-new-category/" target="_blank">I Have Fallen in Love With Open Earbuds (and You Should Too)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-08 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698093a5fc89418254fc4e19/master/pass/013026_GEAR-TIME-Collection-Top-Art.jpg" alt="For $4,550, Would You Buy a Single Premium Watch or a Swarm of Affordable Ones?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/for-4550-would-you-buy-single-premium-watch-or-swarm-of-affordable-ones/" target="_blank">For $4,550, Would You Buy a Single Premium Watch or a Swarm of Affordable Ones?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-08 11:00</span>
             </div>
         </div>
 </div>
@@ -291,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 23:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 00:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
