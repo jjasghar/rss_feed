@@ -1,38 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-02-09 20:09:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-09 21:10:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, February 09, 2026 - 20:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, February 09, 2026 - 21:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,9 +57,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/9/deadly-drone-attacks-on-civilians-continue-in-sudans-kordofan-un-says?traffic_source=rss" target="_blank">Deadly drone attacks on civilians continue in Sudan’s Kordofan, UN says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-09 20:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6298/live/d9724e40-05e6-11f1-b7e1-afb6d0884c18.jpg" alt="King&#x27;s &#x27;profound concern&#x27; as police consider Andrew claims over Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cqlgv3z79klo?at_medium=RSS&at_campaign=rss" target="_blank">King&#x27;s &#x27;profound concern&#x27; as police consider Andrew claims over Epstein</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-09 20:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/9/us-congress-seeks-answers-maxwell-invokes-fifth-amid-epstein-case-tensions?traffic_source=rss" target="_blank">US Congress seeks answers, Maxwell invokes Fifth amid Epstein case tensions</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-09 19:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/09/nx-s1-5706646/nancy-guthrie-case-update-what-we-know" target="_blank">Nancy Guthrie search enters its second week as a purported deadline looms</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-09 18:09</span>
             </div>
         </div>
 <div class="story">
@@ -75,38 +107,20 @@
                 <span class="time">2026-02-09 16:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/9/israel-tightens-grip-on-occupied-west-bank-with-governance-changes?traffic_source=rss" target="_blank">Israel tightens grip on occupied West Bank with governance changes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-09 16:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/09/nx-s1-5705380/figure-skating-backflip-malinin" target="_blank">Ilia Malinin&#x27;s Olympic backflip made history. But he&#x27;s not the first to do it</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-09 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/2-7-25-guthrie-video_1770513204374_hpMain_4x3t_384.jpg" alt="Latest on Nancy Guthrie abduction as mysterious case reaches 9th day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/search-nancy-guthrie-continues-9th-day-after-family/story?id=129986241" target="_blank">Latest on Nancy Guthrie abduction as mysterious case reaches 9th day</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-09 16:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/" target="_blank">Anthropic’s India expansion collides with a local company that already had the name</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-09 21:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +166,20 @@
                 <span class="time">2026-02-09 17:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/disclosure1-500x500.jpg" alt="Disclosure Day Super Bowl trailer: Could it be... aliens?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/02/disclosure-day-super-bowl-trailer-could-it-be-aliens/" target="_blank">Disclosure Day Super Bowl trailer: Could it be... aliens?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-09 17:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18875327&w=600" alt="The New Testing Pattern: Standardizing Regression for Cloud Migrations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/new-testing-pattern-standardizing-regression-cloud" target="_blank">The New Testing Pattern: Standardizing Regression for Cloud Migrations</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-09 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +225,6 @@
                 <span class="time">2026-02-09 16:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18871840&w=600" alt="Agentic DataOps With Guardrails: MCP and MWAA for Pipeline Incident Response" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/agentic-dataops-with-guardrails-mcp-mwaa" target="_blank">Agentic DataOps With Guardrails: MCP and MWAA for Pipeline Incident Response</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-09 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +245,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/drone-shotsa-1280x720.jpg" alt="The Best Thing About The Winter Olympics Are The Drone Cameras" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-best-thing-about-the-winter-olympics-are-the-drone-cameras-2000666958" target="_blank">The Best Thing About The Winter Olympics Are The Drone Cameras</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-09 20:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/HS-Cataclysm-Key-Art.jpg" alt="Trading Card Games Are Booming, So Here’s Why Blizzard Isn’t Making Hearthstone Cards (Yet)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -258,39 +272,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KH1Y33RZNJJK1NXJPPWZEY6E/hero-image.png" alt="YouTube TV Will Soon Offer a Cheaper, Sports-Only Plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/youtube-tv-sports-only-plan?utm_medium=RSS" target="_blank">YouTube TV Will Soon Offer a Cheaper, Sports-Only Plan</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-09 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/22NO-ICE22-sticker-spotted-in-Tempe2C-AZ.-photo-Je.jpg?fit=1080%2C1056&amp;quality=60&amp;ssl=1" alt="Valid papers, no crime, indefinite detention: ICE&#x27;s American promise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/09/valid-papers-no-crime-indefinite-detention-ices-american-promise.html" target="_blank">Valid papers, no crime, indefinite detention: ICE&#x27;s American promise</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-09 19:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/DoctorWhoNcuti-1280x853.jpg" alt="The BBC’s Not Saying How It’ll Fund ‘Doctor Who’ After Its Disney Breakup" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/doctor-who-future-bbc-budget-disney-2000719740" target="_blank">The BBC’s Not Saying How It’ll Fund ‘Doctor Who’ After Its Disney Breakup</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-09 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/01/welcome-to-florida-e1770663317455.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Florida says it found Roundup&#x27;s active ingredient in widely sold breads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/09/florida-says-it-found-roundups-active-ingredient-in-widely-sold-breads.html" target="_blank">Florida says it found Roundup&#x27;s active ingredient in widely sold breads</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-09 18:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/maxwell.jpeg?fit=1200%2C898&amp;quality=60&amp;ssl=1" alt="Maxwell pleads the Fifth at Epstein deposition, then her lawyer asks Trump for clemency" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/09/maxwell-pleads-the-fifth-at-epstein-deposition-then-her-lawyer-asks-trump-for-clemency.html" target="_blank">Maxwell pleads the Fifth at Epstein deposition, then her lawyer asks Trump for clemency</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-09 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KH1H3HD75QSN2STSNZZCSXSS/hero-image.jpg" alt="Discord Is About to Force You to Prove Your Age" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/discord-is-about-to-force-you-to-prove-your-age?utm_medium=RSS" target="_blank">Discord Is About to Force You to Prove Your Age</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-09 17:30</span>
             </div>
         </div>
 </div>
@@ -330,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 20:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 21:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
