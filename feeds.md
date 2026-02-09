@@ -1,43 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-02-09 21:10:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-09 22:08:39 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 34 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, February 09, 2026 - 21:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, February 09, 2026 - 22:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/9/united-nations-presses-for-answers-on-us-funding-commitments?traffic_source=rss" target="_blank">United Nations presses for answers on US funding commitments</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-09 21:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -98,20 +105,20 @@
                 <span class="time">2026-02-09 17:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb71/live/b3539cd0-05ca-11f1-a351-bb43301b14c5.jpg" alt="Cabinet ministers rally round PM as Sarwar calls for him to quit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c89kwj8kjy9o?at_medium=RSS&at_campaign=rss" target="_blank">Cabinet ministers rally round PM as Sarwar calls for him to quit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-09 16:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/moltmining-500x500.jpeg" alt="No humans allowed: This new space-based MMO is designed exclusively for AI agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/02/after-moltbook-ai-agents-can-now-hang-out-in-their-own-space-faring-mmo/" target="_blank">No humans allowed: This new space-based MMO is designed exclusively for AI agents</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-09 21:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -157,20 +164,20 @@
                 <span class="time">2026-02-09 18:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/875886/super-bowl-2026-ai-generated-ads-were-terrible" target="_blank">AI-generated ads dropped the ball at this year&amp;#8217;s Super Bowl</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-09 17:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.noleary.com/blog/posts/1" target="_blank">America has a tungsten problem</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-09 20:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18875327&w=600" alt="The New Testing Pattern: Standardizing Regression for Cloud Migrations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -178,6 +185,15 @@
                 <span class="title"><a href="https://dzone.com/articles/new-testing-pattern-standardizing-regression-cloud" target="_blank">The New Testing Pattern: Standardizing Regression for Cloud Migrations</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-09 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-January-2026" target="_blank">Redox OS Gets Cargo &amp; The Rust Compiler Running On This Open-Source OS</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-09 19:55</span>
             </div>
         </div>
 <div class="story">
@@ -207,24 +223,6 @@
                 <span class="time">2026-02-09 17:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/windows-linux-panther-lake" target="_blank">Windows 11 vs. Ubuntu Linux Performance For Intel Core Ultra X7 Panther Lake</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-09 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock" target="_blank">Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-09 16:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/2XKO-alt-1280x745.jpg" alt="Riot’s New Fighting Game Is Already Imploding As It Lays Off 80 Developers Less Than a Month After Coming To Console" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/2xko-layoffs-league-legends-riot-update-2000666998" target="_blank">Riot’s New Fighting Game Is Already Imploding As It Lays Off 80 Developers Less Than a Month After Coming To Console</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-09 21:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KH1ZP1WQYWD4BJTGVVV5KH2C/hero-image.jpg" alt="Your Browser&#x27;s Extensions May Be Reading Your Passwords" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/browser-extensions-passwords-in-plain-text?utm_medium=RSS" target="_blank">Your Browser&#x27;s Extensions May Be Reading Your Passwords</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-09 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/drone-shotsa-1280x720.jpg" alt="The Best Thing About The Winter Olympics Are The Drone Cameras" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,29 +296,20 @@
                 <span class="time">2026-02-09 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/22NO-ICE22-sticker-spotted-in-Tempe2C-AZ.-photo-Je.jpg?fit=1080%2C1056&amp;quality=60&amp;ssl=1" alt="Valid papers, no crime, indefinite detention: ICE&#x27;s American promise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/09/valid-papers-no-crime-indefinite-detention-ices-american-promise.html" target="_blank">Valid papers, no crime, indefinite detention: ICE&#x27;s American promise</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-09 19:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/DoctorWhoNcuti-1280x853.jpg" alt="The BBC’s Not Saying How It’ll Fund ‘Doctor Who’ After Its Disney Breakup" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/doctor-who-future-bbc-budget-disney-2000719740" target="_blank">The BBC’s Not Saying How It’ll Fund ‘Doctor Who’ After Its Disney Breakup</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-09 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/09/get-the-mh-stories-3-demo" target="_blank">Get the MH Stories 3 Demo!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-02-09 20:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1770346084-20260209.png" alt="Saturday Morning Breakfast Cereal - Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -335,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 21:11 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 22:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
