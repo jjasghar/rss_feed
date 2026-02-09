@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-09 15:16:30 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-02-09 16:17:26 UTC -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 12 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, February 09, 2026 - 15:16 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, February 09, 2026 - 16:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/2-7-25-guthrie-video_1770513204374_hpMain_4x3t_384.jpg" alt="Latest on Nancy Guthrie abduction as mysterious case reaches 9th day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/search-nancy-guthrie-continues-9th-day-after-family/story?id=129986241" target="_blank">Latest on Nancy Guthrie abduction as mysterious case reaches 9th day</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-09 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb71/live/b3539cd0-05ca-11f1-a351-bb43301b14c5.jpg" alt="Scottish Labour leader Anas Sarwar calls on PM to step down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c89kwj8kjy9o?at_medium=RSS&at_campaign=rss" target="_blank">Scottish Labour leader Anas Sarwar calls on PM to step down</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-09 15:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +99,29 @@
                 <span class="time">2026-02-09 13:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92d6/live/cb1d3dc0-0580-11f1-a753-9525d46c4e23.jpg" alt="Hong Kong court jails media tycoon and British citizen Jimmy Lai for 20 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8d5pl34vv0o?at_medium=RSS&at_campaign=rss" target="_blank">Hong Kong court jails media tycoon and British citizen Jimmy Lai for 20 years</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-09 12:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b065/live/3de096a0-0599-11f1-b5e2-dd58fc65f0f6.jpg" alt="William and Catherine say they are &#x27;deeply concerned&#x27; in first statement on Epstein revelations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj4zxknd7evo?at_medium=RSS&at_campaign=rss" target="_blank">William and Catherine say they are &#x27;deeply concerned&#x27; in first statement on Epstein revelations</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-09 12:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/875782/sony-wf-1000xm6-earbuds-spec-leak" target="_blank">Leaked specs for Sony’s next flagship wireless earbuds reveal ANC upgrades</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-09 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/FERRARI-LUCE_DRIVER_VIEW_HERO_sRGB_6K_72DPI_16X9_4ec077b1-e0cc-4347-98a0-3035e64fb55d-500x500.jpg" alt="Ive and Newson bring old-school charm to Ferrari&#x27;s first EV interior" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/02/ive-and-newson-bring-old-school-charm-to-ferraris-first-ev-interior/" target="_blank">Ive and Newson bring old-school charm to Ferrari&#x27;s first EV interior</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-09 15:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +158,20 @@
                 <span class="time">2026-02-09 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698814e1693fac26919c8855/master/pass/Review-%20Soundcore%20Aerofit%202%20Pro%20Open%20Earbuds.png" alt="Soundcore Aerofit 2 Pro Review: Open Earbuds With ANC?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/anker-soundcore-aerofit-2-pro/" target="_blank">Soundcore Aerofit 2 Pro Review: Open Earbuds With ANC?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-09 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6984e52e530225167cc61c47/master/pass/gear-olympic-curling-2259858605.jpg" alt="How Curling Became the Winter Olympics’ Favorite Fixation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/everything-you-need-to-know-curling/" target="_blank">How Curling Became the Winter Olympics’ Favorite Fixation</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-09 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18871840&w=600" alt="Agentic DataOps With Guardrails: MCP and MWAA for Pipeline Incident Response" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/agentic-dataops-with-guardrails-mcp-mwaa" target="_blank">Agentic DataOps With Guardrails: MCP and MWAA for Pipeline Incident Response</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-09 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18872730&w=600" alt="An AI-Driven Architecture for Autonomous Network Operations (NetOps)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -172,6 +179,15 @@
                 <span class="title"><a href="https://dzone.com/articles/ai-driven-architecture-for-autonomous-network-operations" target="_blank">An AI-Driven Architecture for Autonomous Network Operations (NetOps)</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-09 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://codeberg.org/smnx/promethee" target="_blank">UEFI Bindings for JavaScript</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-09 14:07</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +217,6 @@
                 <span class="time">2026-02-09 13:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The AI Value Paradox" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rawveg/the-ai-value-paradox-3ehf" target="_blank">The AI Value Paradox</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-09 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Peak-Tops-Limiter-AMDGPU" target="_blank">AMD Linux Driver Readying Peak Tops Limiter &quot;PTL&quot; Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-09 11:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +236,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/cyborgs.jpg" alt="Helldivers 2 Adds Millennials As Its Newest Enemy Faction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/helldivers-2-cyborg-update-automaton-faction-trailer-2000666908" target="_blank">Helldivers 2 Adds Millennials As Its Newest Enemy Faction</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-09 16:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/MagTag-Ultra-Slim-Tracker-Card.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Ditch bulky AirTags for this sleek wallet-friendly tracker, now 60% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/09/ditch-bulky-airtags-for-this-sleek-wallet-friendly-tracker-now-60-off.html" target="_blank">Ditch bulky AirTags for this sleek wallet-friendly tracker, now 60% off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-09 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KH0F0DCSGGX7YXWDCMW41CCN/hero-image.png" alt="This Study&#x27;s List of the Most Invasive AI Browser Extensions Includes a Few You Probably Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/invasive-ai-browser-extensions-study-grammarly?utm_medium=RSS" target="_blank">This Study&#x27;s List of the Most Invasive AI Browser Extensions Includes a Few You Probably Use</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-09 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/Discord1-1280x720.jpg" alt="Discord Will Force You To Scan Your Face Or ID To Unlock All Of Its Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,33 +288,6 @@
                 <span class="title"><a href="https://gizmodo.com/two-friday-the-13th-movies-return-to-theaters-this-week-2000719435" target="_blank">Two ‘Friday the 13th’ Movies Return to Theaters This Week</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-09 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/02/iPhone-16e_review-8-1280x853.jpg" alt="The Launch of the iPhone 17e Is Reportedly Imminent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-launch-of-the-iphone-17e-is-reportedly-imminent-2000719375" target="_blank">The Launch of the iPhone 17e Is Reportedly Imminent</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-09 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/super-mario-galaxy-yoshi-1-1280x853.jpg" alt="‘The Super Mario Galaxy Movie’ Levels Up With a Super Bowl Spot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-super-mario-galaxy-movie-levels-up-with-a-super-bowl-spot-2000716842" target="_blank">‘The Super Mario Galaxy Movie’ Levels Up With a Super Bowl Spot</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-09 00:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/nfl-livestream-super-bowl-1280x853.jpg" alt="How to Catch Super Bowl LX in the US? Patriots vs Seahawks Free Streams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/how-to-catch-super-bowl-lx-in-the-us-patriots-vs-seahawks-free-streams-2000666759" target="_blank">How to Catch Super Bowl LX in the US? Patriots vs Seahawks Free Streams</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-08 22:15</span>
             </div>
         </div>
 </div>
@@ -329,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 15:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 16:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
