@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-02-09 07:21:55 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-09 08:10:41 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, February 09, 2026 - 07:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, February 09, 2026 - 08:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/09/nx-s1-5706515/china-media-tycoon-jimmy-lai-sentenced-20-years-hong-kong" target="_blank">China critic and former media tycoon Jimmy Lai is sentenced to 20 years in a Hong Kong security case</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-09 07:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +92,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/08/g-s1-109268/seahawks-super-bowl-title" target="_blank">Seahawks win Super Bowl title, pounding the Patriots 29-13</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-09 04:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/SB-2-dfisc4.jpg" alt="Watch highlights from the 2026 Super Bowl" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/watch-highlights-from-the-2026-super-bowl-257364549767" target="_blank">Watch highlights from the 2026 Super Bowl</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-09 03:55</span>
             </div>
         </div>
 </div>
@@ -165,6 +159,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/02/agent-definition-language/en/headerimage/generatedHeaderImage-1770285721503.jpg" alt="Next Moca Releases Agent Definition Language as an Open Source Specification" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/agent-definition-language/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Next Moca Releases Agent Definition Language as an Open Source Specification</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-09 06:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +210,6 @@
                 <span class="title"><a href="https://dev.to/kihoro_codes_c959f8c68a9c/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-1b6f" target="_blank">How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-09 02:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/java-news-roundup-feb02-2026/en/headerimage/java-istock-image-01-1770587279960.jpg" alt="Java News Roundup: GlassFish 8.0, OpenHai 1.0, LangChain4j, Infinispan, Hibernate, JobRunr" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/java-news-roundup-feb02-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: GlassFish 8.0, OpenHai 1.0, LangChain4j, Infinispan, Hibernate, JobRunr</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-09 02:30</span>
             </div>
         </div>
 </div>
@@ -305,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 07:22 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 08:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
