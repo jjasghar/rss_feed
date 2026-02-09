@@ -1,44 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-02-09 11:15:15 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-09 12:09:48 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 36 feeds processed -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, February 09, 2026 - 11:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, February 09, 2026 - 12:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b065/live/3de096a0-0599-11f1-b5e2-dd58fc65f0f6.jpg" alt="William and Catherine say they are &#x27;deeply concerned&#x27; in first statement on Epstein revelations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj4zxknd7evo?at_medium=RSS&at_campaign=rss" target="_blank">William and Catherine say they are &#x27;deeply concerned&#x27; in first statement on Epstein revelations</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-09 12:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -99,20 +94,20 @@
                 <span class="time">2026-02-09 06:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/266b/live/4496bd60-0578-11f1-9972-d3f265c101c6.jpg" alt="Japanese stocks surge as Takaichi secures historic election victory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cjd9k852zdjo?at_medium=RSS&at_campaign=rss" target="_blank">Japanese stocks surge as Takaichi secures historic election victory</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-09 05:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/698814e1693fac26919c8855/master/pass/Review-%20Soundcore%20Aerofit%202%20Pro%20Open%20Earbuds.png" alt="Soundcore Aerofit 2 Pro Review: Open Earbuds With ANC?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/anker-soundcore-aerofit-2-pro/" target="_blank">Soundcore Aerofit 2 Pro Review: Open Earbuds With ANC?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-09 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6984e52e530225167cc61c47/master/pass/gear-olympic-curling-2259858605.jpg" alt="How Curling Became the Winter Olympics’ Favorite Fixation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -158,20 +153,20 @@
                 <span class="time">2026-02-09 02:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game" target="_blank">Super Bowl LX ads: all AI everything</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-08 23:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The AI Value Paradox" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rawveg/the-ai-value-paradox-3ehf" target="_blank">The AI Value Paradox</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-09 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/02/xcode-26-3-agentic-coding/en/headerimage/xcode-26-3-agentic-coding-1770633530970.jpeg" alt="Xcode 26.3 Brings Integrated Agentic Coding for Anthropic Claude Agent and OpenAI Codex" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,28 +197,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://alltheviews.world" target="_blank">Show HN: Algorithmically Finding the Longest Line of Sight on Earth</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-09 10:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/news/group-office-26-0-release/" target="_blank">This Lesser-Known Nextcloud Alternative&amp;#x27;s Latest Release Makes it More Suitable for Small Businesses</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-02-09 09:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/group-office-26-0-release/" target="_blank">This Lesser Known Nextcloud Alternative&amp;#x27;s Latest Release Makes it More Suitable for Small Businesses</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-09 09:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/camptocamp-geo/multi-line-editing-in-edittrack-work-with-multiple-routes-simultaneously-5hk2" target="_blank">Multi-Line Editing in edittrack: Work with Multiple Routes Simultaneously</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-09 09:05</span>
             </div>
         </div>
 </div>
@@ -322,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 11:15 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 12:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
