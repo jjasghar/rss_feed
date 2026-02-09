@@ -1,30 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-02-09 09:15:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-09 11:15:15 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Generated 8 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, February 09, 2026 - 09:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, February 09, 2026 - 11:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/09/nx-s1-5706525/four-top-u-s-speedskaters-to-watch-at-the-olympics" target="_blank">Four top U.S. speedskaters to watch at the Olympics</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-09 10:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +108,20 @@
                 <span class="time">2026-02-09 05:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/2/9/tool-of-siege-israels-punishing-control-of-gaza-movement?traffic_source=rss" target="_blank">‘Tool of siege’: Israel’s punishing control of Gaza movement</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-09 05:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6984e52e530225167cc61c47/master/pass/gear-olympic-curling-2259858605.jpg" alt="How Curling Became the Winter Olympics’ Favorite Fixation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/everything-you-need-to-know-curling/" target="_blank">How Curling Became the Winter Olympics’ Favorite Fixation</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-09 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69895bf47705d705abd39dd4/master/pass/Super-Bowl-Tailgate-260208_RY_WIRED_SuperBowl_Tailgate_000134.jpg" alt="Super Bowl Tailgate Photo Essay: Bad Bunny, Big Tech, and the Big Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +167,47 @@
                 <span class="time">2026-02-08 23:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/hailmary1-500x500-1770592187.jpg" alt="A Project Hail Mary final trailer? Yes please" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/02/a-project-hail-mary-final-trailer-yes-please/" target="_blank">A Project Hail Mary final trailer? Yes please</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-08 23:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/xcode-26-3-agentic-coding/en/headerimage/xcode-26-3-agentic-coding-1770633530970.jpeg" alt="Xcode 26.3 Brings Integrated Agentic Coding for Anthropic Claude Agent and OpenAI Codex" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/xcode-26-3-agentic-coding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Xcode 26.3 Brings Integrated Agentic Coding for Anthropic Claude Agent and OpenAI Codex</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-09 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/corbado/how-passkeys-improve-retention-why-keychains-keep-users-coming-back-2bgm" target="_blank">How Passkeys Improve Retention: Why Keychains Keep Users Coming Back</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-09 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Rust" target="_blank">Linux 7.0 Officially Concluding The Rust Experiment</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-09 10:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/group-office-26-0-release/" target="_blank">This Lesser-Known Nextcloud Alternative&amp;#x27;s Latest Release Makes it More Suitable for Small Businesses</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-09 09:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -176,47 +226,20 @@
                 <span class="time">2026-02-09 09:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/agent-definition-language/en/headerimage/generatedHeaderImage-1770285721503.jpg" alt="Next Moca Releases Agent Definition Language as an Open Source Specification" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/agent-definition-language/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Next Moca Releases Agent Definition Language as an Open Source Specification</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-09 06:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ajayr18/javascript-basic-array-methods-3l90" target="_blank">JavaScript Basic Array Methods</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-09 05:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mitulshah1/from-it-just-works-to-building-a-reverse-tunnel-final-59fk" target="_blank">From “It Just Works” to Building a Reverse Tunnel</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-09 04:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/kernel-6-19-release/" target="_blank">Linux Kernel 6.19 Arrives! You Get Intel, AMD Improvements, and ASUS Armoury Support</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-09 04:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/02/iPhone-16e_review-8-1280x853.jpg" alt="The Launch of the iPhone 17e Is Reportedly Imminent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-launch-of-the-iphone-17e-is-reportedly-imminent-2000719375" target="_blank">The Launch of the iPhone 17e Is Reportedly Imminent</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-09 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/super-mario-galaxy-yoshi-1-1280x853.jpg" alt="‘The Super Mario Galaxy Movie’ Levels Up With a Super Bowl Spot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,15 +285,6 @@
                 <span class="time">2026-02-08 20:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Project-Hail-Mary-planet-1280x853.jpg" alt="We Would Die for This Final ‘Project Hail Mary’ Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/we-would-die-for-this-final-project-hail-mary-trailer-2000718941" target="_blank">We Would Die for This Final ‘Project Hail Mary’ Trailer</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-08 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 09:15 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 11:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
