@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-09 19:27:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-09 20:09:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, February 09, 2026 - 19:28 UTC</div>
+    <div class="newspaper-date">Monday, February 09, 2026 - 20:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/9/us-congress-seeks-answers-maxwell-invokes-fifth-amid-epstein-case-tensions?traffic_source=rss" target="_blank">US Congress seeks answers, Maxwell invokes Fifth amid Epstein case tensions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-09 19:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +102,6 @@
                 <span class="time">2026-02-09 16:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb71/live/b3539cd0-05ca-11f1-a351-bb43301b14c5.jpg" alt="Scottish Labour leader Anas Sarwar calls on PM to step down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c89kwj8kjy9o?at_medium=RSS&at_campaign=rss" target="_blank">Scottish Labour leader Anas Sarwar calls on PM to step down</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-09 15:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -104,10 +110,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/09/lidar-maker-ouster-buys-vision-company-stereolabs-as-sensor-consolidation-continues/" target="_blank">Lidar-maker Ouster buys vision company StereoLabs as sensor consolidation continues</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-09 20:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2225503659-500x500.jpg" alt="Discord faces backlash over age checks after data breach exposed 70,000 IDs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/" target="_blank">Discord faces backlash over age checks after data breach exposed 70,000 IDs</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-09 19:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/875859/apple-is-killing-the-old-homekit-tomorrow" target="_blank">Apple is killing the old HomeKit tomorrow</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-09 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/698a2bedb4076fd75d0d8981/master/pass/Save%20$100%20On%20Our%20Favorite%20Home%20Printer.png" alt="Save $100 On Our Favorite Home Printer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/epson-et-2980-deal-226/" target="_blank">Save $100 On Our Favorite Home Printer</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-09 18:52</span>
             </div>
         </div>
 <div class="story">
@@ -126,33 +159,6 @@
                 <span class="title"><a href="https://arstechnica.com/culture/2026/02/disclosure-day-super-bowl-trailer-could-it-be-aliens/" target="_blank">Disclosure Day Super Bowl trailer: Could it be... aliens?</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-02-09 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/09/ex-googlers-are-building-infrastructure-to-help-companies-understand-their-video-data/" target="_blank">Ex-Googlers are building infrastructure to help companies understand their video data</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-09 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/875782/sony-wf-1000xm6-earbuds-spec-leak" target="_blank">Leaked specs for Sony’s next flagship wireless earbuds reveal ANC upgrades</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-09 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/FERRARI-LUCE_DRIVER_VIEW_HERO_sRGB_6K_72DPI_16X9_4ec077b1-e0cc-4347-98a0-3035e64fb55d-500x500.jpg" alt="Ive and Newson bring old-school charm to Ferrari&#x27;s first EV interior" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/02/ive-and-newson-bring-old-school-charm-to-ferraris-first-ev-interior/" target="_blank">Ive and Newson bring old-school charm to Ferrari&#x27;s first EV interior</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-09 15:44</span>
             </div>
         </div>
 </div>
@@ -234,6 +240,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/HS-Cataclysm-Key-Art.jpg" alt="Trading Card Games Are Booming, So Here’s Why Blizzard Isn’t Making Hearthstone Cards (Yet)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hearthstone-real-cards-tcg-blizzard-magic-pokemon-2000666974" target="_blank">Trading Card Games Are Booming, So Here’s Why Blizzard Isn’t Making Hearthstone Cards (Yet)</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-09 20:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/knight-of-the-seven-kingdoms-dunk-trial-of-seven-1280x853.jpg" alt="The History Behind the Trial of Seven in ‘A Knight of the Seven Kingdoms’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/knight-of-the-seven-kingdoms-trial-of-seven-explained-game-of-thrones-2000719744" target="_blank">The History Behind the Trial of Seven in ‘A Knight of the Seven Kingdoms’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-09 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/DoctorWhoNcuti-1280x853.jpg" alt="The BBC’s Not Saying How It’ll Fund ‘Doctor Who’ After Its Disney Breakup" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -267,24 +291,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/discord-is-about-to-force-you-to-prove-your-age?utm_medium=RSS" target="_blank">Discord Is About to Force You to Prove Your Age</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-09 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/ising-model-machine-1280x853.jpg" alt="Not Quantum, Not Classical: This Light-Based Computer Is Something Else Entirely" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/not-quantum-not-classical-this-light-based-computer-is-something-else-entirely-2000719687" target="_blank">Not Quantum, Not Classical: This Light-Based Computer Is Something Else Entirely</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-09 17:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/11/602da15cd944e4cce580e2f4c24195d9.jpg" alt="Fan Tribute To League Of Legends And Arcane Slammed As ‘Soulless And Deeply Disrespectful’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/arcane-league-of-legends-ai-trailer-vi-jinx-ekko-warwick-2000666921" target="_blank">Fan Tribute To League Of Legends And Arcane Slammed As ‘Soulless And Deeply Disrespectful’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-09 16:32</span>
             </div>
         </div>
 </div>
@@ -324,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 19:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 20:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
