@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-09 05:28:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-09 06:20:08 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, February 09, 2026 - 05:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, February 09, 2026 - 06:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +54,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/2/9/tool-of-siege-israels-punishing-control-of-gaza-movement?traffic_source=rss" target="_blank">‘Tool of siege’: Israel’s punishing control of Gaza movement</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-09 05:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/08/g-s1-109268/seahawks-super-bowl-title" target="_blank">Seahawks win Super Bowl title, pounding the Patriots 29-13</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-09 04:29</span>
             </div>
         </div>
 <div class="story">
@@ -84,15 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/08/nx-s1-5705972/measles-march-for-life-dc-reagan-national-union-station-metro" target="_blank">March for Life attendees may have been exposed to measles, DC Health warns</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-09 00:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3183/live/8a040f50-0515-11f1-b7e1-afb6d0884c18.jpg" alt="Japan&#x27;s PM Takaichi on course to win snap election by landslide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss" target="_blank">Japan&#x27;s PM Takaichi on course to win snap election by landslide</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-08 23:43</span>
             </div>
         </div>
 </div>
@@ -301,7 +307,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 05:28 UTC
+        🔄 Last Updated: 06:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
