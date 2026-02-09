@@ -1,41 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-09 22:08:39 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-09 23:10:02 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, February 09, 2026 - 22:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, February 09, 2026 - 23:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,6 +52,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/9/united-nations-presses-for-answers-on-us-funding-commitments?traffic_source=rss" target="_blank">United Nations presses for answers on US funding commitments</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-09 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770671272552_now_daily_b_odonnell_guthrie_help_260209_1920x1080-85hei1.jpg" alt="Savannah Guthrie posts new video amid search for mother: &#x27;Hour of desperation&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/savannah-guthrie-posts-new-video-amid-search-for-mother-hour-of-desperation-257403461734" target="_blank">Savannah Guthrie posts new video amid search for mother: &#x27;Hour of desperation&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-09 21:08</span>
             </div>
         </div>
 <div class="story">
@@ -96,20 +99,20 @@
                 <span class="time">2026-02-09 18:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/09/nx-s1-5707217/somali-asylum-cases-rescheduled" target="_blank">Immigration courts fast-track hearings for Somali asylum claims</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-09 17:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/ayaneonext-500x500-1770675957.jpeg" alt="Just look at Ayaneo&#x27;s absolute unit of a Windows gaming &quot;handheld&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/02/just-look-at-ayaneos-absolute-unit-of-a-windows-gaming-handheld/" target="_blank">Just look at Ayaneo&#x27;s absolute unit of a Windows gaming &quot;handheld&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-09 22:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/moltmining-500x500.jpeg" alt="No humans allowed: This new space-based MMO is designed exclusively for AI agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,20 +158,20 @@
                 <span class="time">2026-02-09 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698a2bedb4076fd75d0d8981/master/pass/Save%20$100%20On%20Our%20Favorite%20Home%20Printer.png" alt="Save $100 On Our Favorite Home Printer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/epson-et-2980-deal-226/" target="_blank">Save $100 On Our Favorite Home Printer</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-09 18:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc4dn58z8ro0kluegw5ga.png" alt="How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/grace_muthonimwangi_9281/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-34pk" target="_blank">How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-09 22:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -214,15 +217,6 @@
                 <span class="time">2026-02-09 17:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/holasoymalva/dear-vibe-coder-your-app-works-your-code-is-the-problem-5fdc" target="_blank">Dear Vibe Coder: Your App Works. Your Code Is the Problem.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-09 17:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +236,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/chatgpt-on-smartphone-1280x848.jpg" alt="OpenAI Responds to Critical Super Bowl Commercials by Putting Ads in ChatGPT" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/openai-responds-to-critical-super-bowl-commercials-by-putting-ads-in-chatgpt-2000719875" target="_blank">OpenAI Responds to Critical Super Bowl Commercials by Putting Ads in ChatGPT</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-09 23:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/bpordlaer4-1280x720.jpg" alt="Borderlands 4 Got Verified For Steam Deck Even Though It Still Runs Like Crap" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/borderlands-4-steam-deck-verified-bad-mess-performance-fps-settings-2000667017" target="_blank">Borderlands 4 Got Verified For Steam Deck Even Though It Still Runs Like Crap</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-09 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Microsoft-Office-Professional-2021-for-Windows-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Breathe new life into your PC with this $35 Microsoft Office license" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/09/breathe-new-life-into-your-pc-with-this-35-microsoft-office-license.html" target="_blank">Breathe new life into your PC with this $35 Microsoft Office license</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-09 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/2XKO-alt-1280x745.jpg" alt="Riot’s New Fighting Game Is Already Imploding As It Lays Off 80 Developers Less Than a Month After Coming To Console" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,33 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/the-best-thing-about-the-winter-olympics-are-the-drone-cameras-2000666958" target="_blank">The Best Thing About The Winter Olympics Are The Drone Cameras</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-09 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/HS-Cataclysm-Key-Art.jpg" alt="Trading Card Games Are Booming, So Here’s Why Blizzard Isn’t Making Hearthstone Cards (Yet)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hearthstone-real-cards-tcg-blizzard-magic-pokemon-2000666974" target="_blank">Trading Card Games Are Booming, So Here’s Why Blizzard Isn’t Making Hearthstone Cards (Yet)</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-09 20:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/knight-of-the-seven-kingdoms-dunk-trial-of-seven-1280x853.jpg" alt="The History Behind the Trial of Seven in ‘A Knight of the Seven Kingdoms’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/knight-of-the-seven-kingdoms-trial-of-seven-explained-game-of-thrones-2000719744" target="_blank">The History Behind the Trial of Seven in ‘A Knight of the Seven Kingdoms’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-09 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KH1Y33RZNJJK1NXJPPWZEY6E/hero-image.png" alt="YouTube TV Will Soon Offer a Cheaper, Sports-Only Plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/youtube-tv-sports-only-plan?utm_medium=RSS" target="_blank">YouTube TV Will Soon Offer a Cheaper, Sports-Only Plan</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-09 20:00</span>
             </div>
         </div>
 </div>
@@ -342,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 22:08 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 23:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
