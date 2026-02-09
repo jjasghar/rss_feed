@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-09 12:09:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-09 13:28:05 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, February 09, 2026 - 12:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, February 09, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,12 +45,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92d6/live/cb1d3dc0-0580-11f1-a753-9525d46c4e23.jpg" alt="Hong Kong court jails media tycoon and British citizen Jimmy Lai for 20 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8d5pl34vv0o?at_medium=RSS&at_campaign=rss" target="_blank">Hong Kong court jails media tycoon and British citizen Jimmy Lai for 20 years</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-09 12:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b065/live/3de096a0-0599-11f1-b5e2-dd58fc65f0f6.jpg" alt="William and Catherine say they are &#x27;deeply concerned&#x27; in first statement on Epstein revelations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cj4zxknd7evo?at_medium=RSS&at_campaign=rss" target="_blank">William and Catherine say they are &#x27;deeply concerned&#x27; in first statement on Epstein revelations</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-09 12:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya" target="_blank">53 dead or missing after migrant boat capsizes in Mediterranean</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-09 11:17</span>
             </div>
         </div>
 <div class="story">
@@ -74,24 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/09/nx-s1-5706515/china-media-tycoon-jimmy-lai-sentenced-20-years-hong-kong" target="_blank">China critic and former media tycoon Jimmy Lai is sentenced to 20 years in a Hong Kong security case</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-09 07:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/09/g-s1-109279/socialist-candidate-wins-over-populist-portugal" target="_blank">Center-left Socialist candidate wins over populist in Portugal&#x27;s presidential runoff</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-09 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/9/japans-takaichi-vows-to-deliver-on-tax-cuts-after-ldps-historic-win?traffic_source=rss" target="_blank">Japan’s Takaichi vows to deliver on tax cuts after LDP’s ‘historic’ win</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-09 06:23</span>
             </div>
         </div>
 </div>
@@ -159,12 +163,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fic3sfog9a1sgtfdyb1zw.png" alt="How Analysts translate messy Data, DAX &amp; Dashboards into Action using POWER BI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/menda_mukomi_/how-analysts-translate-messy-data-dax-dashboards-into-action-using-power-bi-56c2" target="_blank">How Analysts translate messy Data, DAX &amp; Dashboards into Action using POWER BI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-09 13:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The AI Value Paradox" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rawveg/the-ai-value-paradox-3ehf" target="_blank">The AI Value Paradox</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-09 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Peak-Tops-Limiter-AMDGPU" target="_blank">AMD Linux Driver Readying Peak Tops Limiter &quot;PTL&quot; Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-09 11:15</span>
             </div>
         </div>
 <div class="story">
@@ -194,29 +216,29 @@
                 <span class="time">2026-02-09 10:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://alltheviews.world" target="_blank">Show HN: Algorithmically Finding the Longest Line of Sight on Earth</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-09 10:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/group-office-26-0-release/" target="_blank">This Lesser-Known Nextcloud Alternative&amp;#x27;s Latest Release Makes it More Suitable for Small Businesses</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-09 09:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/01/c00c0f69c36bb3d58146a55288c98310.jpg" alt="Sony Announces The Big PlayStation 5 Showcase Fans Are Waiting For And It’s a Long One" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ps5-showcase-sony-marvel-wolverine-release-date-2000666866" target="_blank">Sony Announces The Big PlayStation 5 Showcase Fans Are Waiting For And It’s a Long One</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-09 13:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/friday-the-13th-jason-1280x853.jpg" alt="Two ‘Friday the 13th’ Movies Return to Theaters This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/two-friday-the-13th-movies-return-to-theaters-this-week-2000719435" target="_blank">Two ‘Friday the 13th’ Movies Return to Theaters This Week</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-09 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/02/iPhone-16e_review-8-1280x853.jpg" alt="The Launch of the iPhone 17e Is Reportedly Imminent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -251,24 +273,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/08/if-pdfs-keep-eating-your-day-swifdoo-pdf-pro-for-34-99-is-the-best-way-to-fight-back.html" target="_blank">If PDFs keep eating your day, SwifDoo PDF Pro for $34.99 is the best way to fight back</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-08 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/bioshock-hed-1280x853.jpg" alt="Sounds Like Gore Verbinksi’s ‘BioShock’ Movie Would’ve Been For the Sickos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sounds-like-gore-verbinksis-bioshock-movie-wouldve-been-for-the-sickos-2000719315" target="_blank">Sounds Like Gore Verbinksi’s ‘BioShock’ Movie Would’ve Been For the Sickos</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-08 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_2461243261-1280x853.jpg" alt="Countries Across Europe Take Action to Ban Social Media for Minors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/countries-across-europe-take-action-to-ban-social-media-for-minors-2000719321" target="_blank">Countries Across Europe Take Action to Ban Social Media for Minors</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-08 20:18</span>
             </div>
         </div>
 </div>
@@ -308,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 12:09 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
