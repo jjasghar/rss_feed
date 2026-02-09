@@ -1,35 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-02-09 01:31:11 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-09 02:57:58 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, February 09, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, February 09, 2026 - 02:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +53,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/bad-bunny-3-gty-gmh-260208_1770600515401_hpMain_4x3t_384.jpg" alt="Super Bowl 2026: Bad Bunny brings Puerto Rican culture to halftime show stage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/GMA/Culture/super-bowl-2026-bad-bunny-halftime-show/story?id=129787954" target="_blank">Super Bowl 2026: Bad Bunny brings Puerto Rican culture to halftime show stage</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-09 02:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/9/hong-kong-media-mogul-jimmy-lai-faces-sentencing-in-national-security-trial?traffic_source=rss" target="_blank">Hong Kong media mogul Jimmy Lai sentenced to 20 years in prison</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-09 02:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/08/nx-s1-5705972/measles-march-for-life-dc-reagan-national-union-station-metro" target="_blank">March for Life attendees may have been exposed to measles, DC Health warns</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-09 00:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3183/live/8a040f50-0515-11f1-b7e1-afb6d0884c18.jpg" alt="Japan&#x27;s PM Takaichi on course to win snap election by landslide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,33 +105,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/08/nx-s1-5705939/breezy-johnson-wins-gold-while-lindsey-vonn-crash-ends-comeback-quest" target="_blank">Breezy Johnson wins gold, while Lindsey Vonn crash ends comeback quest</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-08 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e228/live/f972c650-052a-11f1-a823-cb41fdf55da7.jpg" alt="PM&#x27;s chief aide McSweeney quits over Mandelson row" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8r1xp7j533o?at_medium=RSS&at_campaign=rss" target="_blank">PM&#x27;s chief aide McSweeney quits over Mandelson row</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-08 21:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/8/building-collapse-in-northern-lebanon-kills-at-least-six?traffic_source=rss" target="_blank">Building collapse in northern Lebanon kills at least six people</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-08 19:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/8/ethiopia-demands-eritrea-immediately-withdraw-troops-from-its-territory?traffic_source=rss" target="_blank">Ethiopia demands Eritrea ‘immediately withdraw’ troops from its territory</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-08 18:42</span>
             </div>
         </div>
 </div>
@@ -164,6 +172,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjmz0utgqdugcfec4sy4s.JPG" alt="How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kihoro_codes_c959f8c68a9c/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-1b6f" target="_blank">How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-09 02:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/java-news-roundup-feb02-2026/en/headerimage/java-istock-image-01-1770587279960.jpg" alt="Java News Roundup: GlassFish 8.0, OpenHai 1.0, LangChain4j, Infinispan, Hibernate, JobRunr" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/java-news-roundup-feb02-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: GlassFish 8.0, OpenHai 1.0, LangChain4j, Infinispan, Hibernate, JobRunr</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-09 02:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -194,27 +220,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-OSS-Projects-Ended-2025" target="_blank">Intel Recently Shelved Numerous Open-Source Projects</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Is-Next" target="_blank">Linus Torvalds Confirms The Next Kernel Is Linux 7.0</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-02-08 19:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kuria_dd8316139db3dea9c85/how-analysts-turn-messy-data-dax-and-dashboards-into-action-with-power-bi-1ggd" target="_blank">How Analysts Turn Messy Data, DAX, and Dashboards into Action with Power BI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-08 18:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F69ljfw80s1vp6yjf4982.png" alt="QuizMaster – Learn, Create, and Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sagar_saini_68981754459a0/quizmaster-learn-create-and-play-41jg" target="_blank">QuizMaster – Learn, Create, and Play</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-08 17:49</span>
+                <span class="time">2026-02-08 21:25</span>
             </div>
         </div>
 </div>
@@ -229,6 +237,15 @@
                 <span class="title"><a href="https://gizmodo.com/the-super-mario-galaxy-movie-levels-up-with-a-super-bowl-spot-2000716842" target="_blank">‘The Super Mario Galaxy Movie’ Levels Up With a Super Bowl Spot</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-09 00:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/nfl-livestream-super-bowl-1280x853.jpg" alt="How to Catch Super Bowl LX in the US? Patriots vs Seahawks Free Streams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/how-to-catch-super-bowl-lx-in-the-us-patriots-vs-seahawks-free-streams-2000666759" target="_blank">How to Catch Super Bowl LX in the US? Patriots vs Seahawks Free Streams</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-08 22:15</span>
             </div>
         </div>
 <div class="story">
@@ -267,15 +284,6 @@
                 <span class="time">2026-02-08 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/Stream-Super-Bowl-LX-in-Canada-1280x853.jpg" alt="Stream Super Bowl 2026 in Canada: How to Watch the Show Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/stream-super-bowl-lx-in-canada-how-to-watch-the-show-today-2000666377" target="_blank">Stream Super Bowl 2026 in Canada: How to Watch the Show Today</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-08 18:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 02:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
