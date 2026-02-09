@@ -1,43 +1,26 @@
-<!-- Processing 54 RSS feeds at 2026-02-09 02:57:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-09 03:56:53 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 35 feeds processed -->
+<!-- Generated 2 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, February 09, 2026 - 02:58 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, February 09, 2026 - 03:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +36,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Sports/wirestory_24ad67503a342a7e24348e66986250ab_4x3_384.jpg" alt="Seahawks ride their defense to a Super Bowl title, pounding the Patriots 29-13" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Sports/wireStory/seahawks-ride-dark-side-defense-super-bowl-title-129967493" target="_blank">Seahawks ride their defense to a Super Bowl title, pounding the Patriots 29-13</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-09 03:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/bad-bunny-3-gty-gmh-260208_1770600515401_hpMain_4x3t_384.jpg" alt="Super Bowl 2026: Bad Bunny brings Puerto Rican culture to halftime show stage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -98,20 +90,20 @@
                 <span class="time">2026-02-08 22:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/08/nx-s1-5705939/breezy-johnson-wins-gold-while-lindsey-vonn-crash-ends-comeback-quest" target="_blank">Breezy Johnson wins gold, while Lindsey Vonn crash ends comeback quest</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-08 21:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69894088ec23bbb290a0e1f1/master/pass/Bad-Bunny-Super-Bowl-Culture.jpg" alt="Inside Bad Bunny’s Historic Super Bowl Halftime Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/bad-bunny-super-bowl-halftime-show-behind-the-scenes/" target="_blank">Inside Bad Bunny’s Historic Super Bowl Halftime Show</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-09 02:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,15 +147,6 @@
                 <span class="title"><a href="https://www.theverge.com/entertainment/875469/mandy-indiana-urgh-review" target="_blank">You need to listen to the new Mandy, Indiana record: URGH</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-08 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/08/san-franciscos-pro-billionaire-march-draws-dozens/" target="_blank">San Francisco’s pro-billionaire march draws dozens</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-08 16:49</span>
             </div>
         </div>
 </div>
@@ -303,8 +286,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 02:58 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 03:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
