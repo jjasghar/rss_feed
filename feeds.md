@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-09 14:20:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-09 15:16:30 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, February 09, 2026 - 14:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, February 09, 2026 - 15:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/pinch-point/2026/2/9/aje-onl-pp-iran-power-090226?traffic_source=rss" target="_blank">Has Iran rigged the game against itself? | Pinch Point</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-09 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya" target="_blank">53 people dead or missing after migrant boat capsizes in Mediterranean</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-09 14:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +101,47 @@
                 <span class="time">2026-02-09 12:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya" target="_blank">53 dead or missing after migrant boat capsizes in Mediterranean</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-09 11:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/09/nx-s1-5706525/four-top-u-s-speedskaters-to-watch-at-the-olympics" target="_blank">Four top U.S. speedskaters to watch at the Olympics</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-09 10:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/09/uber-to-buy-delivery-arm-of-turkeys-getir/" target="_blank">Uber to buy delivery arm of Turkey’s Getir</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-09 15:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/875233/siemens-ceo-roland-busch-ai-automation-digital-twins-nato-tariffs" target="_blank">Siemens CEO Roland Busch’s mission to automate everything</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-09 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2214317436-500x500.jpg" alt="Why would Elon Musk pivot from Mars to the Moon all of a sudden?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/02/has-elon-musk-given-up-on-mars/" target="_blank">Why would Elon Musk pivot from Mars to the Moon all of a sudden?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-09 14:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69865ffa4c11ee35ce5538e7/master/pass/FERRARI-LUCE_DRIVER_VIEW_HERO_sRGB_6K_72DPI_5X4_1024x768%20(1).jpg" alt="Ferrari’s New Jony Ive–Designed EV Is Swathed in Glass and Aluminum" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ferrari-ev-jony-ive-design/" target="_blank">Ferrari’s New Jony Ive–Designed EV Is Swathed in Glass and Aluminum</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-09 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/698814e1693fac26919c8855/master/pass/Review-%20Soundcore%20Aerofit%202%20Pro%20Open%20Earbuds.png" alt="Soundcore Aerofit 2 Pro Review: Open Earbuds With ANC?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -121,47 +160,20 @@
                 <span class="time">2026-02-09 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69895bf47705d705abd39dd4/master/pass/Super-Bowl-Tailgate-260208_RY_WIRED_SuperBowl_Tailgate_000134.jpg" alt="Super Bowl Tailgate Photo Essay: Bad Bunny, Big Tech, and the Big Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/super-bowl-lx-tailgate-photo-essay/" target="_blank">Super Bowl Tailgate Photo Essay: Bad Bunny, Big Tech, and the Big Game</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-09 06:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/875615/openai-super-bowl-ai-hardware-leak-hoax-fake" target="_blank">OpenAI’s supposedly ‘leaked’ Super Bowl ad with ear buds and a shiny orb was a hoax</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-09 04:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6988f08cccae190ad1328f33/master/pass/Review-MAGA-Halftime-Culture-2161994971.jpg" alt="Turning Point USA’s Halftime Show Was Exactly What You’d Expect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/turning-point-usas-halftime-show-was-exactly-what-youd-expect/" target="_blank">Turning Point USA’s Halftime Show Was Exactly What You’d Expect</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-09 04:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69894088ec23bbb290a0e1f1/master/pass/Bad-Bunny-Super-Bowl-Culture.jpg" alt="Inside Bad Bunny’s Historic Super Bowl Halftime Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/bad-bunny-super-bowl-halftime-show-behind-the-scenes/" target="_blank">Inside Bad Bunny’s Historic Super Bowl Halftime Show</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-09 02:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18872730&w=600" alt="An AI-Driven Architecture for Autonomous Network Operations (NetOps)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-driven-architecture-for-autonomous-network-operations" target="_blank">An AI-Driven Architecture for Autonomous Network Operations (NetOps)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-09 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18871762&w=600" alt="Next-Level Persistence in Jakarta EE: How We Got Here and Why It Matters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +219,6 @@
                 <span class="time">2026-02-09 11:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/xcode-26-3-agentic-coding/en/headerimage/xcode-26-3-agentic-coding-1770633530970.jpeg" alt="Xcode 26.3 Brings Integrated Agentic Coding for Anthropic Claude Agent and OpenAI Codex" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/xcode-26-3-agentic-coding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Xcode 26.3 Brings Integrated Agentic Coding for Anthropic Claude Agent and OpenAI Codex</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-09 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Discord1-1280x720.jpg" alt="Discord Will Force You To Scan Your Face Or ID To Unlock All Of Its Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/discord-will-force-you-to-scan-your-face-or-id-to-unlock-all-of-its-features-2000666884" target="_blank">Discord Will Force You To Scan Your Face Or ID To Unlock All Of Its Features</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-09 15:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/01/c00c0f69c36bb3d58146a55288c98310.jpg" alt="Sony Announces The Big PlayStation 5 Showcase Fans Are Waiting For And It’s a Long One" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +292,6 @@
                 <span class="time">2026-02-08 22:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/SwifDoo-PDF-Pro.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="If PDFs keep eating your day, SwifDoo PDF Pro for $34.99 is the best way to fight back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/08/if-pdfs-keep-eating-your-day-swifdoo-pdf-pro-for-34-99-is-the-best-way-to-fight-back.html" target="_blank">If PDFs keep eating your day, SwifDoo PDF Pro for $34.99 is the best way to fight back</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-08 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 14:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 15:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
