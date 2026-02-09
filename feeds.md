@@ -1,25 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-09 04:43:58 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-09 05:28:44 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Generated 4 new posts out of 17 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, February 09, 2026 - 04:44 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, February 09, 2026 - 05:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -35,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/2/9/tool-of-siege-israels-punishing-control-of-gaza-movement?traffic_source=rss" target="_blank">‘Tool of siege’: Israel’s punishing control of Gaza movement</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-09 05:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Sports/wirestory_24ad67503a342a7e24348e66986250ab_4x3_384.jpg" alt="Seahawks ride their defense to a Super Bowl title, pounding the Patriots 29-13" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,15 +93,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss" target="_blank">Japan&#x27;s PM Takaichi on course to win snap election by landslide</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-08 23:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/8/israel-security-cabinet-approves-rules-to-increase-control-over-west-bank?traffic_source=rss" target="_blank">Israel security cabinet approves rules to increase control over West Bank</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-08 22:36</span>
             </div>
         </div>
 </div>
@@ -157,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ajayr18/javascript-basic-array-methods-3l90" target="_blank">JavaScript Basic Array Methods</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-09 05:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mitulshah1/from-it-just-works-to-building-a-reverse-tunnel-final-59fk" target="_blank">From “It Just Works” to Building a Reverse Tunnel</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-09 04:42</span>
@@ -196,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/rakesh1002/5-ai-coding-patterns-that-actually-work-2026-edition-13m5" target="_blank">5 AI Coding Patterns That Actually Work (2026 Edition)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-09 01:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/blashnikov_pro/i-built-a-vercel-for-landing-pages-with-a-cli-and-an-mcp-server-1e8a" target="_blank">I Built a Vercel for Landing Pages — With a CLI and an MCP Server</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-08 22:46</span>
             </div>
         </div>
 </div>
@@ -272,6 +278,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5761.png" alt="SitRep" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5761" target="_blank">SitRep</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-02-09 01:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1770346044-20260208.png" alt="Saturday Morning Breakfast Cereal - Ardent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -285,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 04:44 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 05:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
