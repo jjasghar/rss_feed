@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-09 16:17:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-09 17:16:30 UTC -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 12 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, February 09, 2026 - 16:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, February 09, 2026 - 17:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/9/israel-tightens-grip-on-occupied-west-bank-with-governance-changes?traffic_source=rss" target="_blank">Israel tightens grip on occupied West Bank with governance changes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-09 16:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/09/nx-s1-5705380/figure-skating-backflip-malinin" target="_blank">Ilia Malinin&#x27;s Olympic backflip made history. But he&#x27;s not the first to do it</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-09 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/2-7-25-guthrie-video_1770513204374_hpMain_4x3t_384.jpg" alt="Latest on Nancy Guthrie abduction as mysterious case reaches 9th day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +97,20 @@
                 <span class="time">2026-02-09 14:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/2/9/sydney-police-use-pepper-spray-on-protesters-during-herzog-visit?traffic_source=rss" target="_blank">‘War criminal not welcome’: Australians rally against Israeli president</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-09 13:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/09/nx-s1-5706602/japan-takaichi-conservative-agenda-election-landslide" target="_blank">Japan&#x27;s Takaichi to pursue conservative agenda after election landslide</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-09 13:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/09/ex-googlers-are-building-infrastructure-to-help-companies-understand-their-video-data/" target="_blank">Ex-Googlers are building infrastructure to help companies understand their video data</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-09 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +156,38 @@
                 <span class="time">2026-02-09 14:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69865ffa4c11ee35ce5538e7/master/pass/FERRARI-LUCE_DRIVER_VIEW_HERO_sRGB_6K_72DPI_5X4_1024x768%20(1).jpg" alt="Ferrari’s New Jony Ive–Designed EV Is Swathed in Glass and Aluminum" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ferrari-ev-jony-ive-design/" target="_blank">Ferrari’s New Jony Ive–Designed EV Is Swathed in Glass and Aluminum</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-09 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/holasoymalva/dear-vibe-coder-your-app-works-your-code-is-the-problem-5fdc" target="_blank">Dear Vibe Coder: Your App Works. Your Code Is the Problem.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-09 17:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/windows-linux-panther-lake" target="_blank">Windows 11 vs. Ubuntu Linux Performance For Intel Core Ultra X7 Panther Lake</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-09 16:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock" target="_blank">Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-09 16:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18871840&w=600" alt="Agentic DataOps With Guardrails: MCP and MWAA for Pipeline Incident Response" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -190,33 +215,6 @@
                 <span class="time">2026-02-09 14:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18871762&w=600" alt="Next-Level Persistence in Jakarta EE: How We Got Here and Why It Matters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/next-level-persistence-jakarta-ee" target="_blank">Next-Level Persistence in Jakarta EE: How We Got Here and Why It Matters</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-09 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNU-Linux-Libre-6.19" target="_blank">GNU Linux-Libre 6.19 Deals With More Firmware Blobs In Intel Xe, IWLWIFI &amp; NVIDIA Nova</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-09 13:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fic3sfog9a1sgtfdyb1zw.png" alt="How Analysts translate messy Data, DAX &amp; Dashboards into Action using POWER BI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/menda_mukomi_/how-analysts-translate-messy-data-dax-dashboards-into-action-using-power-bi-56c2" target="_blank">How Analysts translate messy Data, DAX &amp; Dashboards into Action using POWER BI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-09 13:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/ising-model-machine-1280x853.jpg" alt="Not Quantum, Not Classical: This Light-Based Computer Is Something Else Entirely" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/not-quantum-not-classical-this-light-based-computer-is-something-else-entirely-2000719687" target="_blank">Not Quantum, Not Classical: This Light-Based Computer Is Something Else Entirely</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-09 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/11/602da15cd944e4cce580e2f4c24195d9.jpg" alt="Fan Tribute To League Of Legends And Arcane Slammed As ‘Soulless And Deeply Disrespectful’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/arcane-league-of-legends-ai-trailer-vi-jinx-ekko-warwick-2000666921" target="_blank">Fan Tribute To League Of Legends And Arcane Slammed As ‘Soulless And Deeply Disrespectful’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-09 16:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/cyborgs.jpg" alt="Helldivers 2 Adds Millennials As Its Newest Enemy Faction" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +288,6 @@
                 <span class="time">2026-02-09 15:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/01/c00c0f69c36bb3d58146a55288c98310.jpg" alt="Sony Announces The Big PlayStation 5 Showcase Fans Are Waiting For And It’s a Long One" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ps5-showcase-sony-marvel-wolverine-release-date-2000666866" target="_blank">Sony Announces The Big PlayStation 5 Showcase Fans Are Waiting For And It’s a Long One</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-09 13:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/friday-the-13th-jason-1280x853.jpg" alt="Two ‘Friday the 13th’ Movies Return to Theaters This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/two-friday-the-13th-movies-return-to-theaters-this-week-2000719435" target="_blank">Two ‘Friday the 13th’ Movies Return to Theaters This Week</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-09 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,22 +311,13 @@
                 <span class="time">2026-02-09 01:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1770346044-20260208.png" alt="Saturday Morning Breakfast Cereal - Ardent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/ardent" target="_blank">Saturday Morning Breakfast Cereal - Ardent</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-02-08 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 16:17 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 17:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
