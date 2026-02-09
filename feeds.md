@@ -1,26 +1,25 @@
-<!-- Processing 54 RSS feeds at 2026-02-09 03:56:53 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-09 04:43:58 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 18 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Generated 4 new posts out of 17 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, February 09, 2026 - 03:56 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, February 09, 2026 - 04:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -96,6 +95,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6988f08cccae190ad1328f33/master/pass/Review-MAGA-Halftime-Culture-2161994971.jpg" alt="Turning Point USA’s Halftime Show Was Exactly What You’d Expect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/turning-point-usas-halftime-show-was-exactly-what-youd-expect/" target="_blank">Turning Point USA’s Halftime Show Was Exactly What You’d Expect</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-09 04:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69894088ec23bbb290a0e1f1/master/pass/Bad-Bunny-Super-Bowl-Culture.jpg" alt="Inside Bad Bunny’s Historic Super Bowl Halftime Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -140,20 +148,29 @@
                 <span class="time">2026-02-08 20:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/875469/mandy-indiana-urgh-review" target="_blank">You need to listen to the new Mandy, Indiana record: URGH</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-08 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mitulshah1/from-it-just-works-to-building-a-reverse-tunnel-final-59fk" target="_blank">From “It Just Works” to Building a Reverse Tunnel</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-09 04:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/kernel-6-19-release/" target="_blank">Linux Kernel 6.19 Arrives! You Get Intel, AMD Improvements, and ASUS Armoury Support</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-09 04:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjmz0utgqdugcfec4sy4s.JPG" alt="How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -188,24 +205,6 @@
                 <span class="title"><a href="https://dev.to/blashnikov_pro/i-built-a-vercel-for-landing-pages-with-a-cli-and-an-mcp-server-1e8a" target="_blank">I Built a Vercel for Landing Pages — With a CLI and an MCP Server</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-08 22:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2699809%2Fec349deb-7bed-45dc-83a6-1c064a8742fc.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/beleke_ian/-3i0o" target="_blank">[Boost]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-08 21:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Is-Next" target="_blank">Linus Torvalds Confirms The Next Kernel Is Linux 7.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-08 21:25</span>
             </div>
         </div>
 </div>
@@ -286,8 +285,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 03:56 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 04:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
