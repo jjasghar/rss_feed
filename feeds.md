@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-10 11:16:38 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-10 12:11:40 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, February 10, 2026 - 11:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, February 10, 2026 - 12:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,9 +48,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/10/nx-s1-5707560/apes-imagination-research-bonobos-cognition" target="_blank">An ape, a tea party — and the ability to imagine</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-10 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/02/10/nx-s1-5544181/extreme-weather-warnings-international" target="_blank">&#x27;Please inform your friends&#x27;: The quest to make weather warnings universal</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-10 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f465/live/b3a50700-0660-11f1-b7e1-afb6d0884c18.jpg" alt="&#x27;Blocked&#x27; weather pattern to blame for UK&#x27;s endless downpours" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/weather/articles/cn9el029173o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Blocked&#x27; weather pattern to blame for UK&#x27;s endless downpours</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-10 10:45</span>
             </div>
         </div>
 <div class="story">
@@ -74,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/gallery/2026/2/10/severe-drought-leaves-over-two-million-kenyans-hungry-and-desperate?traffic_source=rss" target="_blank">More than two million people face hunger as drought grips Kenya</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-10 09:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/10/un-spokesman-pressed-on-de-facto-annexation-of-occupied-west-bank?traffic_source=rss" target="_blank">UN spokesman pressed on ‘de facto annexation’ of occupied West Bank</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-10 07:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/10/g-s1-109416/buddhist-monks-finish-walk-for-peace" target="_blank">Buddhist monks head to DC to finish a &#x27;Walk for Peace&#x27; that captivated millions</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-10 06:56</span>
             </div>
         </div>
 </div>
@@ -159,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18871808&w=600" alt="Jakarta Query: Unifying Queries in a Polyglot Persistence World, the News on Jakarta EE 12 M2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/jakarta-query-jakarta-ee-12" target="_blank">Jakarta Query: Unifying Queries in a Polyglot Persistence World, the News on Jakarta EE 12 M2</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-10 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Azure-Linux-3.0.20260204" target="_blank">Microsoft&#x27;s Azure Linux Adds 6.12 HWE Kernel, ARM64 Kernel Tuning For More Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-10 11:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/02/windsurf-arena-mode/en/headerimage/generatedHeaderImage-1770651989189.jpg" alt="Windsurf Introduces Arena Mode to Compare AI Models During Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -194,24 +216,6 @@
                 <span class="time">2026-02-10 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/02/10/the-logos-ethos-and-pathos-of-your-llms/" target="_blank">The logos, ethos, and pathos of your LLMs</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-02-10 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/charmpic/avx2-simd-optimization-for-12-bit-jpeg-decoding-in-libjpeg-turbo-pair-programming-with-copilot-cli-363n" target="_blank">AVX2 SIMD Optimization for 12-bit JPEG Decoding in libjpeg-turbo — Pair Programming with Copilot CLI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-10 08:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -221,9 +225,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/llms-are-getting-a-lot-better-and-faster-at-finding-and-exploiting-zero-days.html" target="_blank">LLMs are Getting a Lot Better and Faster at Finding and Exploiting Zero-Days</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/the-ai-generated-text-arms-race.html" target="_blank">AI-Generated Text and the Detection Arms Race</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-09 12:04</span>
+                <span class="time">2026-02-10 12:03</span>
             </div>
         </div>
 </div>
@@ -331,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 11:16 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 12:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
