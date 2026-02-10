@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-10 13:28:46 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-10 14:25:11 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, February 10, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, February 10, 2026 - 14:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,12 +104,48 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/10/spotify-hits-a-record-751m-monthly-users-thanks-to-wrapped-new-free-features/" target="_blank">Spotify hits a record 751M monthly users thanks to Wrapped, new free features</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-10 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/683104b3e6043309df61481d/master/pass/The%20Best%20TVs%20(and%20Helpful%20Buying%20Tips).png" alt="The Best TVs We’ve Reviewed in 2026: Sony, Samsung, LG, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-tvs/" target="_blank">The Best TVs We’ve Reviewed in 2026: Sony, Samsung, LG, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-10 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/875986/nintendo-switch-2-release-schedule-mario-tennis-fever" target="_blank">Nintendo keeps filling in the gaps</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-10 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6843d25f93d1ae9631e55a37/master/pass/Best%20gaming%20laptops%202025%20update_.png" alt="6 Best Gaming Laptops (2026): Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
                 <span class="title"><a href="https://www.wired.com/gallery/best-gaming-laptops/" target="_blank">6 Best Gaming Laptops (2026): Tested and Reviewed</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-10 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2252202870-500x500.jpg" alt="After Republican complaints, judicial body pulls climate advice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/02/us-court-agency-pulls-climate-change-from-science-advisory-document/" target="_blank">After Republican complaints, judicial body pulls climate advice</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-10 12:15</span>
             </div>
         </div>
 <div class="story">
@@ -125,47 +157,20 @@
                 <span class="time">2026-02-10 10:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/" target="_blank">The first signs of burnout are coming from the people who embrace AI the most</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-10 06:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="KitchenAid Promo Codes and Discounts: Save Up to $500" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/exclusive-kitchenaid-promo-code/" target="_blank">KitchenAid Promo Codes and Discounts: Save Up to $500</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-10 06:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/09/tem-raises-75m-to-remake-electricity-markets-using-ai/" target="_blank">Tem raises $75M to remake electricity markets using AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-10 03:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/876168/new-mexico-attorney-general-meta-child-predator-social-media-addiction-trial" target="_blank">New Mexico goes to trial to accuse Meta of facilitating child predators</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-10 01:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Block-Changes" target="_blank">Linux 7.0 Block Changes Land, Bounce Buffer DIO For Stable Pages</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-10 14:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F847m8n2yz3iatzp1holz.gif" alt="Top 5 MCP Gateways for 2025: Production-Ready Solutions Compared" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +214,6 @@
                 <span class="title"><a href="https://utcc.utoronto.ca/~cks/space/blog/python/PythonCircularImportPuzzle" target="_blank">A fun Python puzzle with circular imports</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-02-10 11:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Azure-Linux-3.0.20260204" target="_blank">Microsoft&#x27;s Azure Linux Adds 6.12 HWE Kernel, ARM64 Kernel Tuning For More Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-10 11:15</span>
             </div>
         </div>
 </div>
@@ -339,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 14:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
