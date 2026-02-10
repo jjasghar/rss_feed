@@ -1,28 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-10 01:31:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-10 02:58:54 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 20 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, February 10, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, February 10, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -98,6 +110,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/876168/new-mexico-attorney-general-meta-child-predator-social-media-addiction-trial" target="_blank">New Mexico goes to trial to accuse Meta of facilitating child predators</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-10 01:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/698a33745d41364caf4502da/master/pass/Whats-At-Stake-Meta-Trial-Business-2243569637.jpg" alt="Meta Goes to Trial in a New Mexico Child Safety Case. Here’s What’s at Stake" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/meta-child-safety-trial-new-mexico-attorney-general/" target="_blank">Meta Goes to Trial in a New Mexico Child Safety Case. Here’s What’s at Stake</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-09 23:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/09/waymo-is-testing-driverless-robotaxis-in-nashville/" target="_blank">Waymo is testing driverless robotaxis in Nashville</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-09 22:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/ayaneonext-500x500-1770675957.jpeg" alt="Just look at Ayaneo&#x27;s absolute unit of a Windows gaming &quot;handheld&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -124,38 +163,29 @@
                 <span class="time">2026-02-09 21:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/" target="_blank">Anthropic’s India expansion collides with a local company that already had the name</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-09 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/09/lidar-maker-ouster-buys-vision-company-stereolabs-as-sensor-consolidation-continues/" target="_blank">Lidar-maker Ouster buys vision company StereoLabs as sensor consolidation continues</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-09 20:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2225503659-500x500.jpg" alt="Discord faces backlash over age checks after data breach exposed 70,000 IDs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/" target="_blank">Discord faces backlash over age checks after data breach exposed 70,000 IDs</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-09 19:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aivideotool/git-worktrees-explained-the-secret-to-conflict-free-parallel-development-1mep" target="_blank">Git Worktrees Explained: The Secret to Conflict-Free Parallel Development</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-10 02:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-NULLFS-Namespace" target="_blank">NULLFS &amp; OPEN_TREE_NAMESPACE Features Merged For Linux 7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-10 01:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc4dn58z8ro0kluegw5ga.png" alt="How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,24 +222,6 @@
                 <span class="time">2026-02-09 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-January-2026" target="_blank">Redox OS Gets Cargo &amp; The Rust Compiler Running On This Open-Source OS</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-09 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/music_youtube/colors-hillari-im-still-a-colors-show-44ii" target="_blank">COLORS: HILLARI - I&#x27;m Still | A COLORS SHOW</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-09 18:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,12 +242,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/stressed-worker-1280x853.jpg" alt="Researchers Studied Work Habits in a Heavily AI-Pilled Workplace. They Sound Hellish" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/researchers-studied-work-habits-in-a-heavily-ai-pilled-workplace-they-sound-hellish-2000719424" target="_blank">Researchers Studied Work Habits in a Heavily AI-Pilled Workplace. They Sound Hellish</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-10 01:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/ancient-roman-game-1280x853.jpg" alt="Dueling AIs Reconstruct Rules of Mysterious Roman-Era Board Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/dueling-ais-reconstruct-rules-of-mysterious-roman-era-board-game-2000719655" target="_blank">Dueling AIs Reconstruct Rules of Mysterious Roman-Era Board Game</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-10 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2020/12/800px-All_Gizah_Pyramids.jpg?fit=800%2C532&amp;quality=60&amp;ssl=1" alt="How subtraction, not addition, may have been the secret to Egypt&#x27;s pyramids" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/09/how-subraction-not-addition-may-have-been-the-secret-to-egypts-pyramids.html" target="_blank">How subtraction, not addition, may have been the secret to Egypt&#x27;s pyramids</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-09 23:52</span>
             </div>
         </div>
 <div class="story">
@@ -265,29 +295,20 @@
                 <span class="time">2026-02-09 23:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/bpordlaer4-1280x720.jpg" alt="Borderlands 4 Got Verified For Steam Deck Even Though It Still Runs Like Crap" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/borderlands-4-steam-deck-verified-bad-mess-performance-fps-settings-2000667017" target="_blank">Borderlands 4 Got Verified For Steam Deck Even Though It Still Runs Like Crap</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-09 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Microsoft-Office-Professional-2021-for-Windows-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Breathe new life into your PC with this $35 Microsoft Office license" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/09/breathe-new-life-into-your-pc-with-this-35-microsoft-office-license.html" target="_blank">Breathe new life into your PC with this $35 Microsoft Office license</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-09 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/10/home-azone" target="_blank">Home Azone</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-02-10 01:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -315,22 +336,13 @@
                 <span class="time">2026-02-09 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5761.png" alt="SitRep" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5761" target="_blank">SitRep</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-02-09 01:35</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
