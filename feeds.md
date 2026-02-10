@@ -1,27 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-10 07:22:38 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-10 08:10:54 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 19 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, February 10, 2026 - 07:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, February 10, 2026 - 08:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/10/un-spokesman-pressed-on-de-facto-annexation-of-occupied-west-bank?traffic_source=rss" target="_blank">UN spokesman pressed on ‘de facto annexation’ of occupied West Bank</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-10 07:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/10/g-s1-109416/buddhist-monks-finish-walk-for-peace" target="_blank">Buddhist monks head to DC to finish a &#x27;Walk for Peace&#x27; that captivated millions</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-10 06:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,24 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/10/us-kills-two-people-in-attack-on-boat-in-eastern-pacific-one-survivor?traffic_source=rss" target="_blank">US kills two people in attack on boat in eastern Pacific, one survivor</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-10 03:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-jimmy-lai-court-of-final-appeal_7159679.jpg?20260209002717" alt="Hong Kong leader celebrates Jimmy Lai&#x27;s sentence - as plan to enhance security law published" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/hong-kong-leader-celebrates-jimmy-lais-sentence-as-plan-to-enhance-security-law-published-13505520" target="_blank">Hong Kong leader celebrates Jimmy Lai&#x27;s sentence - as plan to enhance security law published</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-10 03:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260209-minneapolis-ICE-agents-ew-145p-74f7dc.jpg" alt="Backlash to Trump emboldens Democrats on DHS and ICE as partial shutdown looms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/backlash-trump-emboldens-democrats-dhs-ice-partial-shutdown-looms-rcna258206" target="_blank">Backlash to Trump emboldens Democrats on DHS and ICE as partial shutdown looms</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-10 01:36</span>
             </div>
         </div>
 </div>
@@ -168,6 +180,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/charmpic/avx2-simd-optimization-for-12-bit-jpeg-decoding-in-libjpeg-turbo-pair-programming-with-copilot-cli-363n" target="_blank">AVX2 SIMD Optimization for 12-bit JPEG Decoding in libjpeg-turbo — Pair Programming with Copilot CLI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-10 08:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sanikolaev/manticore-search-1751-cbj" target="_blank">Manticore Search 17.5.1</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-10 06:03</span>
@@ -198,15 +219,6 @@
                 <span class="title"><a href="https://arxiv.org/abs/2512.20798" target="_blank">Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-10 03:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aivideotool/git-worktrees-explained-the-secret-to-conflict-free-parallel-development-1mep" target="_blank">Git Worktrees Explained: The Secret to Conflict-Free Parallel Development</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-10 02:38</span>
             </div>
         </div>
 </div>
@@ -323,22 +335,13 @@
                 <span class="time">2026-02-09 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/02/09/home-azone" target="_blank">Home Azone</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-02-09 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 07:22 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 08:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
