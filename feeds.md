@@ -1,41 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-02-10 19:23:32 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-10 20:10:59 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 33 feeds processed -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, February 10, 2026 - 19:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, February 10, 2026 - 20:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +40,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/10/g-s1-107945/pakistan-afghanistan-border-closed-trade-taliban" target="_blank">Pakistan-Afghanistan border closures paralyze trade along a key route</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-10 19:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/guthrie-5-ht-gmh-260210_1770746275878_hpMain_4x3t_384.jpg" alt="Nancy Guthrie case: Kash Patel releases images, video of &#x27;armed individual&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/nancy-guthrie-disappearance-law-enforcement-release-image-alleged/story?id=130027495" target="_blank">Nancy Guthrie case: Kash Patel releases images, video of &#x27;armed individual&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-10 19:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6def/live/a79545d0-06ae-11f1-b7e1-afb6d0884c18.jpg" alt="FBI releases images of masked person in hunt for Savannah Guthrie&#x27;s mother" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy4wdgxr081o?at_medium=RSS&at_campaign=rss" target="_blank">FBI releases images of masked person in hunt for Savannah Guthrie&#x27;s mother</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-10 19:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96bf/live/88293a10-06b0-11f1-9a46-37f4a626eabd.jpg" alt="Teen in attempted murder arrest after boys stabbed at school" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,38 +94,20 @@
                 <span class="time">2026-02-10 18:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260210-16x9-nancy-guthrie-security-cam-ew-1253p-6db27b.jpg" alt="FBI releases surveillance photos and videos of potential subject in Nancy Guthrie case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/authorities-release-surveillance-photo-potential-subject-nancy-guthrie-rcna258356" target="_blank">FBI releases surveillance photos and videos of potential subject in Nancy Guthrie case</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-10 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260210-nacy-guthrie-security-cam-ew-1253p-fe7747.jpg" alt="FBI releases surveillance photos of potential subject in Nancy Guthrie case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/authorities-release-surveillance-photo-potential-subject-nancy-guthrie-rcna258356" target="_blank">FBI releases surveillance photos of potential subject in Nancy Guthrie case</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-10 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/thune-20260209-gty-jh_1770686399643_hpMain_4x3t_384.jpg" alt="Democrats reject GOP counterproposal on ICE changes as shutdown deadline nears" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/democrats-reject-gop-counterproposal-ice-shutdown-deadline-nears/story?id=130009931" target="_blank">Democrats reject GOP counterproposal on ICE changes as shutdown deadline nears</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-10 16:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/wikipedia-500x500-1754933545.jpg" alt="Archive.today CAPTCHA page executes DDoS; Wikipedia considers banning site" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/wikipedia-might-blacklist-archive-today-after-site-maintainer-ddosed-a-blog/" target="_blank">Archive.today CAPTCHA page executes DDoS; Wikipedia considers banning site</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-10 19:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/xai-grok-500x500-1752596846.jpg" alt="Yet another co-founder departs Elon Musk&#x27;s xAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,20 +153,20 @@
                 <span class="time">2026-02-10 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6986655d619933b7c3265278/master/pass/politics_ice_offices_sprawl.jpg" alt="ICE Is Expanding Across the US at Breakneck Speed. Here’s Where It’s Going Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ice-expansion-across-us-at-heres-where-its-going-next/" target="_blank">ICE Is Expanding Across the US at Breakneck Speed. Here’s Where It’s Going Next</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-10 16:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/douglasmakey/osdev-bare-bones-with-rust-cross-compilation-and-freestanding-598b" target="_blank">OSDev Bare Bones with Rust - Cross-Compilation and Freestanding</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-10 20:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,6 +186,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-20260210-Microcode" target="_blank">Intel CPU Microcode 20260210 Brings Security Updates &amp; Functional Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-10 18:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flx8a0bpkrnjwunewpg0i.png" alt="Insert Operation: How a B+-Tree Grows Without Losing Order" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,24 +210,6 @@
                 <span class="title"><a href="https://dzone.com/articles/a-pattern-for-intelligent-ticket-routing-in-itsm" target="_blank">A Pattern for Intelligent Ticket Routing in ITSM</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-10 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/appmanager/" target="_blank">This Application Brings macOS Styled Installer for AppImages on Linux</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-10 16:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5iy9gvqmbo6q0wp3xtq5.png" alt="Sandboxing Untrusted Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mohameddiallo/sandboxing-untrusted-python-4mfk" target="_blank">Sandboxing Untrusted Python</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-10 16:11</span>
             </div>
         </div>
 </div>
@@ -342,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 19:23 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 40 | 📸 With Images: 276 |
+        🔄 Last Updated: 20:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
