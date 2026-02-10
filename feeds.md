@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-10 14:25:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-10 15:22:48 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, February 10, 2026 - 14:25 UTC</div>
+    <div class="newspaper-date">Tuesday, February 10, 2026 - 15:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +55,24 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/10/nx-s1-5708670/american-ben-ogden-wins-silver-breaking-50-year-medal-drought-for-u-s-mens-cross-country-skiing" target="_blank">American Ben Ogden wins silver, breaking 50 year medal drought for U.S. men&#x27;s cross-country skiing</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-10 13:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0898/live/0ff04f60-067a-11f1-9794-9f23a318f722.jpg" alt="Ministers told to not publish their own Mandelson messages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm28yzxwp2vo?at_medium=RSS&at_campaign=rss" target="_blank">Ministers told to not publish their own Mandelson messages</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-10 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/capitol-main_1770706958550_hpMain_4x3t_384.jpg" alt="&#x27;Democrats are on offense&#x27;: House Dems&#x27; campaign arm adds 5 seats to target list" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/democrats-offense-house-dems-campaign-arm-adds-5/story?id=130016139" target="_blank">&#x27;Democrats are on offense&#x27;: House Dems&#x27; campaign arm adds 5 seats to target list</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-10 12:15</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +102,29 @@
                 <span class="time">2026-02-10 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f465/live/b3a50700-0660-11f1-b7e1-afb6d0884c18.jpg" alt="&#x27;Blocked&#x27; weather pattern to blame for UK&#x27;s endless downpours" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/weather/articles/cn9el029173o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Blocked&#x27; weather pattern to blame for UK&#x27;s endless downpours</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-10 10:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Belgorod-blackouts-DB-260210_1770714671942_hpMain_4x3t_384.jpg" alt="Russian border regions face blackouts after Ukrainian strikes, governors say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/russian-border-regions-face-blackouts-after-ukrainian-strikes/story?id=130017695" target="_blank">Russian border regions face blackouts after Ukrainian strikes, governors say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-10 10:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/10/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/" target="_blank">YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-10 15:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/876251/romeo-is-a-dead-man-grasshopper-manufacture-ps5-xbox-steam" target="_blank">Romeo is a Dead Man is bizarre, bloody, and exactly what makes Grasshopper special</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-10 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +161,20 @@
                 <span class="time">2026-02-10 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2252202870-500x500.jpg" alt="After Republican complaints, judicial body pulls climate advice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/02/us-court-agency-pulls-climate-change-from-science-advisory-document/" target="_blank">After Republican complaints, judicial body pulls climate advice</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-10 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698a4225292b44e9587a91c4/master/pass/The%20Best%20Smart%20Sleep%20Pads%20to%20Boost%20Your%20Sleep%20Quality.png" alt="The Best Smart Sleep Pads for Your Most Efficient Sleep (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-smart-sleep-pads/" target="_blank">The Best Smart Sleep Pads for Your Most Efficient Sleep (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-10 10:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://oxide.computer/blog/our-200m-series-c" target="_blank">Oxide raises $200M Series C</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-10 14:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +220,6 @@
                 <span class="time">2026-02-10 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://utcc.utoronto.ca/~cks/space/blog/python/PythonCircularImportPuzzle" target="_blank">A fun Python puzzle with circular imports</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-02-10 11:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +240,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/03/f6fda20e280a71842ae6801305798cf7.jpg" alt="Split Fiction Studio Already Working On Its Next Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/split-fiction-next-game-hazelight-studio-josef-fares-2000667263" target="_blank">Split Fiction Studio Already Working On Its Next Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-10 15:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/MS-0210-jessica-jones-purple-man-1280x853.jpg" alt="Could David Tennant Return to the MCU?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/david-tennant-marvel-daredevil-born-again-jessica-jones-2000719923" target="_blank">Could David Tennant Return to the MCU?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-10 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Vamoose.jpg?fit=1080%2C705&amp;quality=60&amp;ssl=1" alt="Thus spake whippersnapper: kids using old-timey terms again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/10/thus-spake-whippersnapper-kids-using-old-timey-terms-again.html" target="_blank">Thus spake whippersnapper: kids using old-timey terms again</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-10 14:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KH27C4ZZ1PTDF491RFHTWZ7P/hero-image.jpg" alt="Google Is Rolling Out Two New Ways to Remove Your Sensitive Data From Search" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-is-rolling-out-two-ways-to-remove-sensitive-data-from-search?utm_medium=RSS" target="_blank">Google Is Rolling Out Two New Ways to Remove Your Sensitive Data From Search</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-10 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/new-chiton-1280x853.jpg" alt="New Deep-Sea Mollusk Has an Iron Tongue and Hitchhiking Worms That Eat Its Poo" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -251,42 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/black-myth-wukong-sequel-zhong-kui-trailer-new-year-2000667231" target="_blank">Black Myth: Wukong Sequel Releases Six-Minute Short Film To Celebrate Year Of The Horse</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-10 13:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/kimbal-musk-1280x928.jpg" alt="‘He Was Subscribed to a Newsletter I Sent Out’: Kimbal Musk Posts His Explanation for All Those Epstein Emails" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/he-was-subscribed-to-a-newsletter-i-sent-out-kimbal-musk-posts-his-explanation-about-all-those-epstein-emails-2000719953" target="_blank">‘He Was Subscribed to a Newsletter I Sent Out’: Kimbal Musk Posts His Explanation for All Those Epstein Emails</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-10 04:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/stressed-worker-1280x853.jpg" alt="Researchers Studied Work Habits in a Heavily AI-Pilled Workplace. They Sound Hellish" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/researchers-studied-work-habits-in-a-heavily-ai-pilled-workplace-they-sound-hellish-2000719424" target="_blank">Researchers Studied Work Habits in a Heavily AI-Pilled Workplace. They Sound Hellish</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-10 01:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/ancient-roman-game-1280x853.jpg" alt="Dueling AIs Reconstruct Rules of Mysterious Roman-Era Board Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dueling-ais-reconstruct-rules-of-mysterious-roman-era-board-game-2000719655" target="_blank">Dueling AIs Reconstruct Rules of Mysterious Roman-Era Board Game</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-10 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2020/12/800px-All_Gizah_Pyramids.jpg?fit=800%2C532&amp;quality=60&amp;ssl=1" alt="How subtraction, not addition, may have been the secret to Egypt&#x27;s pyramids" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/09/how-subraction-not-addition-may-have-been-the-secret-to-egypts-pyramids.html" target="_blank">How subtraction, not addition, may have been the secret to Egypt&#x27;s pyramids</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-09 23:52</span>
             </div>
         </div>
 </div>
@@ -335,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 14:25 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 15:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
