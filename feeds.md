@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-10 09:16:40 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-10 10:16:08 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, February 10, 2026 - 09:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, February 10, 2026 - 10:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/10/nx-s1-5704792/health-care-price-transparency-data" target="_blank">Hospitals are posting prices for patients. It&#x27;s mostly industry using the data</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-10 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/2/10/severe-drought-leaves-over-two-million-kenyans-hungry-and-desperate?traffic_source=rss" target="_blank">More than two million people face hunger as drought grips Kenya</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-10 09:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +95,20 @@
                 <span class="time">2026-02-10 05:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/epstein-trump-2-ht-gmh-251212_1765567512666_hpMain_2_4x3t_384.jpg" alt="Ex-police chief says Trump told him &#x27;thank goodness you&#x27;re stopping&#x27; Epstein in 2000s" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/police-chief-trump-told-goodness-stopping-epstein-2006/story?id=130010254" target="_blank">Ex-police chief says Trump told him &#x27;thank goodness you&#x27;re stopping&#x27; Epstein in 2000s</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-10 03:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/10/us-kills-two-people-in-attack-on-boat-in-eastern-pacific-one-survivor?traffic_source=rss" target="_blank">US kills two people in attack on boat in eastern Pacific, one survivor</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-10 03:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/698a4225292b44e9587a91c4/master/pass/The%20Best%20Smart%20Sleep%20Pads%20to%20Boost%20Your%20Sleep%20Quality.png" alt="The Best Smart Sleep Pads for Your Most Efficient Sleep (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-smart-sleep-pads/" target="_blank">The Best Smart Sleep Pads for Your Most Efficient Sleep (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-10 10:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +154,20 @@
                 <span class="time">2026-02-09 23:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/09/waymo-is-testing-driverless-robotaxis-in-nashville/" target="_blank">Waymo is testing driverless robotaxis in Nashville</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-09 22:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/idodav/python-typing-vs-typescript-5bhp" target="_blank">Python Typing vs. TypeScript</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-10 10:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffeqw60r41v730ixg4zrc.png" alt="155. Min Stack | LeetCode | Top Interview 150 | Coding Questions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/sanikolaev/manticore-search-1751-cbj" target="_blank">Manticore Search 17.5.1</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-10 06:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/02/ubuntu-dropping-software-and-updates-gtk-tool.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu Drops the ‘Software &amp; Updates’ Tool from New Installs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/ubuntu-26-04-drops-software-and-updates-gui" target="_blank">Ubuntu Drops the ‘Software &amp; Updates’ Tool from New Installs</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-10 05:34</span>
             </div>
         </div>
 </div>
@@ -340,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 09:16 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 10:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
