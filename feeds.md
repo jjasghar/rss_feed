@@ -1,30 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-02-10 20:10:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-10 21:13:18 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, February 10, 2026 - 20:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, February 10, 2026 - 21:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,9 +42,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/10/nx-s1-5709001/chloe-kim-olympics-halfpipe-snowboard" target="_blank">Snowboarder Chloe Kim is chasing an Olympic gold three-peat with a torn labrum</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-10 21:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/10/will-any-countries-take-action-to-stop-israels-west-bank-annexation?traffic_source=rss" target="_blank">Will any countries take action to stop Israel’s West Bank annexation?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-10 20:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/02/10/g-s1-107945/pakistan-afghanistan-border-closed-trade-taliban" target="_blank">Pakistan-Afghanistan border closures paralyze trade along a key route</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-10 19:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96bf/live/88293a10-06b0-11f1-9a46-37f4a626eabd.jpg" alt="Boy arrested for attempted murder after two pupils stabbed at school" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cge8yxpj7e1o?at_medium=RSS&at_campaign=rss" target="_blank">Boy arrested for attempted murder after two pupils stabbed at school</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-10 19:53</span>
             </div>
         </div>
 <div class="story">
@@ -67,38 +92,20 @@
                 <span class="time">2026-02-10 19:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96bf/live/88293a10-06b0-11f1-9a46-37f4a626eabd.jpg" alt="Teen in attempted murder arrest after boys stabbed at school" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cge8yxpj7e1o?at_medium=RSS&at_campaign=rss" target="_blank">Teen in attempted murder arrest after boys stabbed at school</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-10 18:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/10/eu-votes-to-allow-deportation-of-migrants-to-safe-third-countries?traffic_source=rss" target="_blank">EU votes to allow deportation of migrants to ‘safe’ third countries</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-10 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/10/nx-s1-5703636/nj-primary-election-mejia-malinowski" target="_blank">Malinowski concedes to Mejia in Democratic House special primary in New Jersey</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-10 18:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/698b3cd3746dbeb7faca18ab/master/pass/2260607114" alt="The Physics Behind the Quadruple Axel, the Most Difficult Jump in Figure Skating" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/2026-winter-olympics-figure-skating-quadruple-axel-science/" target="_blank">The Physics Behind the Quadruple Axel, the Most Difficult Jump in Figure Skating</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-10 20:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/wikipedia-500x500-1754933545.jpg" alt="Archive.today CAPTCHA page executes DDoS; Wikipedia considers banning site" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,15 +151,6 @@
                 <span class="time">2026-02-10 16:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/10/former-tesla-product-manager-wants-to-make-luxury-goods-impossible-to-fake-starting-with-a-chip/" target="_blank">Former Tesla product manager wants to make luxury goods impossible to fake, starting with a chip</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-10 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -161,10 +159,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://charlesleifer.com/blog/cysqlite---a-new-sqlite-driver/" target="_blank">cysqlite - a new sqlite driver</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-02-10 21:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/douglasmakey/osdev-bare-bones-with-rust-cross-compilation-and-freestanding-598b" target="_blank">OSDev Bare Bones with Rust - Cross-Compilation and Freestanding</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-10 20:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/github-copilot-sdk/en/headerimage/github-copilot-sdk-1770752972453.jpeg" alt="GitHub Copilot SDK Lets Developers Integrate Copilot CLI&#x27;s Engine into Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/github-copilot-sdk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Copilot SDK Lets Developers Integrate Copilot CLI&#x27;s Engine into Apps</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-10 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +210,6 @@
                 <span class="time">2026-02-10 18:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flx8a0bpkrnjwunewpg0i.png" alt="Insert Operation: How a B+-Tree Grows Without Losing Order" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lovestaco/insert-operation-how-a-b-tree-grows-without-losing-order-40ao" target="_blank">Insert Operation: How a B+-Tree Grows Without Losing Order</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-10 18:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18873410&w=600" alt="A Pattern for Intelligent Ticket Routing in ITSM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/a-pattern-for-intelligent-ticket-routing-in-itsm" target="_blank">A Pattern for Intelligent Ticket Routing in ITSM</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-10 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +229,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/lutnick.jpg?fit=1200%2C680&amp;quality=60&amp;ssl=1" alt="Commerce secretary admitted to lying about Epstein island visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/10/commerce-secretary-admitted-to-lying-about-epstein-island-visit.html" target="_blank">Commerce secretary admitted to lying about Epstein island visit</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-10 20:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/image-15-1280x720.jpg" alt="Arc Raiders Item Duplication Epidemic Gets An Emergency Fix" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +283,6 @@
                 <span class="time">2026-02-10 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/AI-pivot-1280x853.jpg" alt="Major Bitcoin Miner Sells $305 Million Worth of Crypto to Fund Pivot to AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/major-bitcoin-miner-sells-305-million-worth-of-crypto-to-fund-pivot-to-ai-2000720078" target="_blank">Major Bitcoin Miner Sells $305 Million Worth of Crypto to Fund Pivot to AI</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-10 16:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,22 +315,13 @@
                 <span class="time">2026-02-10 01:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/09/get-the-mh-stories-3-demo" target="_blank">Get the MH Stories 3 Demo!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-02-09 20:19</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 40 | 📸 With Images: 276 |
-        🔄 Last Updated: 20:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 275 |
+        🔄 Last Updated: 21:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
