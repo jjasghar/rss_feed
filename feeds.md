@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-10 12:11:40 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-02-10 13:28:46 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, February 10, 2026 - 12:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, February 10, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/10/nx-s1-5708670/american-ben-ogden-wins-silver-breaking-50-year-medal-drought-for-u-s-mens-cross-country-skiing" target="_blank">American Ben Ogden wins silver, breaking 50 year medal drought for U.S. men&#x27;s cross-country skiing</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-10 13:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4540/live/fe1dd650-0673-11f1-b5e2-dd58fc65f0f6.jpg" alt="US lawmakers accuse justice department of &#x27;inappropriately&#x27; redacting Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn5gzepnw4lo?at_medium=RSS&at_campaign=rss" target="_blank">US lawmakers accuse justice department of &#x27;inappropriately&#x27; redacting Epstein files</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-10 12:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +102,20 @@
                 <span class="time">2026-02-10 10:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/10/nx-s1-5704792/health-care-price-transparency-data" target="_blank">Hospitals are posting prices for patients. It&#x27;s mostly industry using the data</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-10 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/2/10/severe-drought-leaves-over-two-million-kenyans-hungry-and-desperate?traffic_source=rss" target="_blank">More than two million people face hunger as drought grips Kenya</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-10 09:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6843d25f93d1ae9631e55a37/master/pass/Best%20gaming%20laptops%202025%20update_.png" alt="6 Best Gaming Laptops (2026): Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-gaming-laptops/" target="_blank">6 Best Gaming Laptops (2026): Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-10 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/698a4225292b44e9587a91c4/master/pass/The%20Best%20Smart%20Sleep%20Pads%20to%20Boost%20Your%20Sleep%20Quality.png" alt="The Best Smart Sleep Pads for Your Most Efficient Sleep (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +161,38 @@
                 <span class="time">2026-02-10 01:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698a33745d41364caf4502da/master/pass/Whats-At-Stake-Meta-Trial-Business-2243569637.jpg" alt="Meta Goes to Trial in a New Mexico Child Safety Case. Here’s What’s at Stake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/meta-child-safety-trial-new-mexico-attorney-general/" target="_blank">Meta Goes to Trial in a New Mexico Child Safety Case. Here’s What’s at Stake</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-09 23:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F847m8n2yz3iatzp1holz.gif" alt="Top 5 MCP Gateways for 2025: Production-Ready Solutions Compared" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pranay_batta/top-5-mcp-gateways-for-2025-production-ready-solutions-compared-4laj" target="_blank">Top 5 MCP Gateways for 2025: Production-Ready Solutions Compared</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-10 13:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18874392&w=600" alt="Jakarta Data in Jakarta EE 12 M2: From Repositories to a Unified Data Access Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/jakarta-data-ee-12-m2-unified-data-access" target="_blank">Jakarta Data in Jakarta EE 12 M2: From Repositories to a Unified Data Access Model</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-10 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/qcon-previews-20th-anniversary/en/headerimage/QCon-20th-anniversary-1770709102792.jpg" alt="QCon Previews 20th Anniversary Conferences: Production AI, Resilience, and Staff+ Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/qcon-previews-20th-anniversary/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon Previews 20th Anniversary Conferences: Production AI, Resilience, and Staff+ Engineering</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-10 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18871808&w=600" alt="Jakarta Query: Unifying Queries in a Polyglot Persistence World, the News on Jakarta EE 12 M2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -174,46 +205,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Azure-Linux-3.0.20260204" target="_blank">Microsoft&#x27;s Azure Linux Adds 6.12 HWE Kernel, ARM64 Kernel Tuning For More Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-10 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/windsurf-arena-mode/en/headerimage/generatedHeaderImage-1770651989189.jpg" alt="Windsurf Introduces Arena Mode to Compare AI Models During Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/windsurf-arena-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Windsurf Introduces Arena Mode to Compare AI Models During Development</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-10 10:35</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://utcc.utoronto.ca/~cks/space/blog/python/PythonCircularImportPuzzle" target="_blank">A fun Python puzzle with circular imports</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-02-10 11:28</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/idodav/python-typing-vs-typescript-5bhp" target="_blank">Python Typing vs. TypeScript</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-10 10:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffeqw60r41v730ixg4zrc.png" alt="155. Min Stack | LeetCode | Top Interview 150 | Coding Questions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/debeshpg90/155-min-stack-leetcode-top-interview-150-coding-questions-128b" target="_blank">155. Min Stack | LeetCode | Top Interview 150 | Coding Questions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-10 09:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/jakartaee-12-milestone-2/en/headerimage/jakartaee-12-milestone-2-header-1770367607817.jpg" alt="Article: Jakarta EE 12 Milestone 2: Advent of the Data Age Along with Consistency and Configuration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/jakartaee-12-milestone-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Jakarta EE 12 Milestone 2: Advent of the Data Age Along with Consistency and Configuration</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-10 09:00</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Azure-Linux-3.0.20260204" target="_blank">Microsoft&#x27;s Azure Linux Adds 6.12 HWE Kernel, ARM64 Kernel Tuning For More Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-10 11:15</span>
             </div>
         </div>
 </div>
@@ -235,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/new-chiton-1280x853.jpg" alt="New Deep-Sea Mollusk Has an Iron Tongue and Hitchhiking Worms That Eat Its Poo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/new-deep-sea-mollusk-has-an-iron-tongue-and-hitchhiking-worms-that-eat-its-poo-2000719955" target="_blank">New Deep-Sea Mollusk Has an Iron Tongue and Hitchhiking Worms That Eat Its Poo</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-10 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/blackmyth2-1280x720.jpg" alt="Black Myth: Wukong Sequel Releases Six-Minute Short Film To Celebrate Year Of The Horse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/black-myth-wukong-sequel-zhong-kui-trailer-new-year-2000667231" target="_blank">Black Myth: Wukong Sequel Releases Six-Minute Short Film To Celebrate Year Of The Horse</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-10 13:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/kimbal-musk-1280x928.jpg" alt="‘He Was Subscribed to a Newsletter I Sent Out’: Kimbal Musk Posts His Explanation for All Those Epstein Emails" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +291,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/09/how-subraction-not-addition-may-have-been-the-secret-to-egypts-pyramids.html" target="_blank">How subtraction, not addition, may have been the secret to Egypt&#x27;s pyramids</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-09 23:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/image-14-e1770677099243.jpg" alt="How A Shoulder Pad Landed FTL Meets Warhammer 40K In Steam DMCA Jail" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/void-war-ftl-warhammer-40k-steam-dmca-2000667016" target="_blank">How A Shoulder Pad Landed FTL Meets Warhammer 40K In Steam DMCA Jail</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-09 23:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/chatgpt-on-smartphone-1280x848.jpg" alt="OpenAI Responds to Critical Super Bowl Commercials by Putting Ads in ChatGPT" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/openai-responds-to-critical-super-bowl-commercials-by-putting-ads-in-chatgpt-2000719875" target="_blank">OpenAI Responds to Critical Super Bowl Commercials by Putting Ads in ChatGPT</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-09 23:04</span>
             </div>
         </div>
 </div>
@@ -335,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 12:11 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
