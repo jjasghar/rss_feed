@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-10 15:22:48 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-10 16:19:56 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, February 10, 2026 - 15:22 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, February 10, 2026 - 16:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/10/t20-world-cup-india-vs-pakistan-match-confirmation-delights-teams-fans?traffic_source=rss" target="_blank">T20 World Cup: India vs Pakistan match confirmation delights teams, fans</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-10 16:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +93,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/10/nx-s1-5707560/apes-imagination-research-bonobos-cognition" target="_blank">An ape, a tea party — and the ability to imagine</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-10 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/10/nx-s1-5544181/extreme-weather-warnings-international" target="_blank">&#x27;Please inform your friends&#x27;: The quest to make weather warnings universal</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-10 11:00</span>
             </div>
         </div>
 </div>
@@ -167,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5iy9gvqmbo6q0wp3xtq5.png" alt="Sandboxing Untrusted Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mohameddiallo/sandboxing-untrusted-python-4mfk" target="_blank">Sandboxing Untrusted Python</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-10 16:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -211,15 +213,6 @@
                 <span class="time">2026-02-10 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18871808&w=600" alt="Jakarta Query: Unifying Queries in a Polyglot Persistence World, the News on Jakarta EE 12 M2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/jakarta-query-jakarta-ee-12" target="_blank">Jakarta Query: Unifying Queries in a Polyglot Persistence World, the News on Jakarta EE 12 M2</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-10 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/AI-pivot-1280x853.jpg" alt="Major Bitcoin Miner Sells $305 Million Worth of Crypto to Fund Pivot to AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/major-bitcoin-miner-sells-305-million-worth-of-crypto-to-fund-pivot-to-ai-2000720078" target="_blank">Major Bitcoin Miner Sells $305 Million Worth of Crypto to Fund Pivot to AI</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-10 16:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KH3H3KXGGDCE0HQRD4FR7JKQ/hero-image.png" alt="This Eero Pro Mesh Wifi System Is $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/eero-pro-7-mesh-wi-fi-system-sale-february-2026?utm_medium=RSS" target="_blank">This Eero Pro Mesh Wifi System Is $100 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-10 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/03/f6fda20e280a71842ae6801305798cf7.jpg" alt="Split Fiction Studio Already Working On Its Next Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +286,6 @@
                 <span class="time">2026-02-10 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/new-chiton-1280x853.jpg" alt="New Deep-Sea Mollusk Has an Iron Tongue and Hitchhiking Worms That Eat Its Poo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/new-deep-sea-mollusk-has-an-iron-tongue-and-hitchhiking-worms-that-eat-its-poo-2000719955" target="_blank">New Deep-Sea Mollusk Has an Iron Tongue and Hitchhiking Worms That Eat Its Poo</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-10 13:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/blackmyth2-1280x720.jpg" alt="Black Myth: Wukong Sequel Releases Six-Minute Short Film To Celebrate Year Of The Horse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/black-myth-wukong-sequel-zhong-kui-trailer-new-year-2000667231" target="_blank">Black Myth: Wukong Sequel Releases Six-Minute Short Film To Celebrate Year Of The Horse</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-10 13:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,22 +318,13 @@
                 <span class="time">2026-02-09 20:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1770346084-20260209.png" alt="Saturday Morning Breakfast Cereal - Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/up-3" target="_blank">Saturday Morning Breakfast Cereal - Up</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-02-09 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 15:22 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 16:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
