@@ -1,41 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-10 17:20:29 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-10 18:17:41 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, February 10, 2026 - 17:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, February 10, 2026 - 18:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260210-nacy-guthrie-security-cam-ew-1253p-fe7747.jpg" alt="FBI releases surveillance photos of potential subject in Nancy Guthrie case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/authorities-release-surveillance-photo-potential-subject-nancy-guthrie-rcna258356" target="_blank">FBI releases surveillance photos of potential subject in Nancy Guthrie case</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-10 17:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/thune-20260209-gty-jh_1770686399643_hpMain_4x3t_384.jpg" alt="Democrats reject GOP counterproposal on ICE changes as shutdown deadline nears" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -96,20 +95,20 @@
                 <span class="time">2026-02-10 13:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0898/live/0ff04f60-067a-11f1-9794-9f23a318f722.jpg" alt="Ministers told to not publish their own Mandelson messages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm28yzxwp2vo?at_medium=RSS&at_campaign=rss" target="_blank">Ministers told to not publish their own Mandelson messages</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-10 13:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/02/win11-pc-2023-500x500.jpeg" alt="Microsoft sounds the alarm about Secure Boot certificates expiring later this year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/microsoft-sounds-the-alarm-about-secure-boot-certificates-expiring-later-this-year/" target="_blank">Microsoft sounds the alarm about Secure Boot certificates expiring later this year</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-10 18:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-500x500.jpg" alt="Upgraded Google safety tools can now find and remove more of your personal info" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -117,6 +116,15 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/upgraded-google-safety-tools-can-now-find-and-remove-more-of-your-personal-info/" target="_blank">Upgraded Google safety tools can now find and remove more of your personal info</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-02-10 16:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6986655d619933b7c3265278/master/pass/politics_ice_offices_sprawl.jpg" alt="ICE Is Expanding Across the US at Breakneck Speed. Here’s Where It’s Going Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ice-expansion-across-us-at-heres-where-its-going-next/" target="_blank">ICE Is Expanding Across the US at Breakneck Speed. Here’s Where It’s Going Next</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-10 16:05</span>
             </div>
         </div>
 <div class="story">
@@ -146,29 +154,20 @@
                 <span class="time">2026-02-10 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/683104b3e6043309df61481d/master/pass/The%20Best%20TVs%20(and%20Helpful%20Buying%20Tips).png" alt="The Best TVs We’ve Reviewed in 2026: Sony, Samsung, LG, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-tvs/" target="_blank">The Best TVs We’ve Reviewed in 2026: Sony, Samsung, LG, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-10 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/875986/nintendo-switch-2-release-schedule-mario-tennis-fever" target="_blank">Nintendo keeps filling in the gaps</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-10 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flx8a0bpkrnjwunewpg0i.png" alt="Insert Operation: How a B+-Tree Grows Without Losing Order" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lovestaco/insert-operation-how-a-b-tree-grows-without-losing-order-40ao" target="_blank">Insert Operation: How a B+-Tree Grows Without Losing Order</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-10 18:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18873410&w=600" alt="A Pattern for Intelligent Ticket Routing in ITSM" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -214,15 +213,6 @@
                 <span class="time">2026-02-10 14:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://oxide.computer/blog/our-200m-series-c" target="_blank">Oxide raises $200M Series C</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-10 14:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/03/2e8d0da2e764ea651e72b75c400361a2-1280x628.jpg" alt="Spider-Man 2 Reportedly Leads February’s PlayStation Plus Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/spider-man-2-insomniac-playstation-5-ps5-plus-february-2000667322" target="_blank">Spider-Man 2 Reportedly Leads February’s PlayStation Plus Games</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-10 18:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KH466KDEZ830GZY3ZTZ4AMMF/hero-image.png" alt="This LG 77-Inch OLED TV Is Half Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/lg-77-inch-oled-tv-sale-february-2026?utm_medium=RSS" target="_blank">This LG 77-Inch OLED TV Is Half Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-10 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/AI-pivot-1280x853.jpg" alt="Major Bitcoin Miner Sells $305 Million Worth of Crypto to Fund Pivot to AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +284,6 @@
                 <span class="title"><a href="https://gizmodo.com/david-tennant-marvel-daredevil-born-again-jessica-jones-2000719923" target="_blank">Could David Tennant Return to the MCU?</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-10 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Vamoose.jpg?fit=1080%2C705&amp;quality=60&amp;ssl=1" alt="Thus spake whippersnapper: kids using old-timey terms again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/10/thus-spake-whippersnapper-kids-using-old-timey-terms-again.html" target="_blank">Thus spake whippersnapper: kids using old-timey terms again</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-10 14:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KH27C4ZZ1PTDF491RFHTWZ7P/hero-image.jpg" alt="Google Is Rolling Out Two New Ways to Remove Your Sensitive Data From Search" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-is-rolling-out-two-ways-to-remove-sensitive-data-from-search?utm_medium=RSS" target="_blank">Google Is Rolling Out Two New Ways to Remove Your Sensitive Data From Search</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-10 14:00</span>
             </div>
         </div>
 </div>
@@ -342,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 17:20 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 18:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
