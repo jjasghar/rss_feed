@@ -1,28 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-10 21:13:18 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-02-10 22:11:42 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 19 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, February 10, 2026 - 21:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, February 10, 2026 - 22:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2026/2/10/aje-onl-glb_epsteinisrael_av_v2-100226?traffic_source=rss" target="_blank">Jeffrey Epstein’s ‘one single cause’: Israel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-10 21:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/10/nx-s1-5708757/immigration-enforcement-oversight-house-takeaways" target="_blank">Top 5 takeaways from the House immigration oversight hearing</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-10 21:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,29 +104,29 @@
                 <span class="time">2026-02-10 19:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/guthrie-5-ht-gmh-260210_1770746275878_hpMain_4x3t_384.jpg" alt="Nancy Guthrie case: Kash Patel releases images, video of &#x27;armed individual&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/nancy-guthrie-disappearance-law-enforcement-release-image-alleged/story?id=130027495" target="_blank">Nancy Guthrie case: Kash Patel releases images, video of &#x27;armed individual&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-10 19:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6def/live/a79545d0-06ae-11f1-b7e1-afb6d0884c18.jpg" alt="FBI releases images of masked person in hunt for Savannah Guthrie&#x27;s mother" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy4wdgxr081o?at_medium=RSS&at_campaign=rss" target="_blank">FBI releases images of masked person in hunt for Savannah Guthrie&#x27;s mother</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-10 19:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/876692/fitbit-ai-health-coach-public-preview-ios" target="_blank">Fitbit expands access to its AI health coach</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-10 21:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/" target="_blank">Boston Dynamics CEO Robert Playter steps down after 30 years at the company</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-10 21:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/698b3cd3746dbeb7faca18ab/master/pass/2260607114" alt="The Physics Behind the Quadruple Axel, the Most Difficult Jump in Figure Skating" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,24 +163,6 @@
                 <span class="time">2026-02-10 18:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/02/win11-pc-2023-500x500.jpeg" alt="Microsoft sounds the alarm about Secure Boot certificates expiring later this year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/microsoft-sounds-the-alarm-about-secure-boot-certificates-expiring-later-this-year/" target="_blank">Microsoft sounds the alarm about Secure Boot certificates expiring later this year</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-10 18:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-500x500.jpg" alt="Upgraded Google safety tools can now find and remove more of your personal info" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/upgraded-google-safety-tools-can-now-find-and-remove-more-of-your-personal-info/" target="_blank">Upgraded Google safety tools can now find and remove more of your personal info</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-10 16:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -159,10 +171,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/uka-david/how-i-would-set-up-a-replica-set-in-mongodb-if-i-was-a-beginner-12nc" target="_blank">How I Would Set Up A Replica Set In MongoDB If I Was A Beginner.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-10 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://charlesleifer.com/blog/cysqlite---a-new-sqlite-driver/" target="_blank">cysqlite - a new sqlite driver</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-02-10 21:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Go-1.26-Released" target="_blank">Go 1.26 Introduces Two Language Changes, New Performance Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-10 20:20</span>
             </div>
         </div>
 <div class="story">
@@ -192,29 +222,20 @@
                 <span class="time">2026-02-10 19:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18868956&w=600" alt="OCI Images as Kubernetes Volumes: A New Era for Data Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/oci-images-as-kubernetes-volumes-a-new-era" target="_blank">OCI Images as Kubernetes Volumes: A New Era for Data Management</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-10 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-20260210-Microcode" target="_blank">Intel CPU Microcode 20260210 Brings Security Updates &amp; Functional Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-10 18:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/" target="_blank">Patch Tuesday, February 2026 Edition</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-02-10 21:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -229,6 +250,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/nakedgunmemediscord-1280x720.jpg" alt="Discord Goes Into Damage Control Mode Over New Age Verification Requirements, Promising There’s Nothing To See Here For ‘Vast Majority’ Of Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/discord-age-verification-ai-hack-nitro-boycott-2000667358" target="_blank">Discord Goes Into Damage Control Mode Over New Age Verification Requirements, Promising There’s Nothing To See Here For ‘Vast Majority’ Of Users</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-10 21:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KH1H3HD75QSN2STSNZZCSXSS/hero-image.jpg" alt="Discord Might Force You to Prove Your Age to Avoid Losing Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/discord-is-about-to-force-you-to-prove-your-age?utm_medium=RSS" target="_blank">Discord Might Force You to Prove Your Age to Avoid Losing Features</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-10 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/lutnick.jpg?fit=1200%2C680&amp;quality=60&amp;ssl=1" alt="Commerce secretary admitted to lying about Epstein island visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,24 +302,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/meta-quest-3s-bundle-deal-amazon?utm_medium=RSS" target="_blank">The &#x27;Batman: Arkham Shadow&#x27; Meta Quest 3S Bundle Is on Sale</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-10 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/03/2e8d0da2e764ea651e72b75c400361a2-1280x628.jpg" alt="Spider-Man 2 Reportedly Leads February’s PlayStation Plus Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/spider-man-2-insomniac-playstation-5-ps5-plus-february-2000667322" target="_blank">Spider-Man 2 Reportedly Leads February’s PlayStation Plus Games</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-10 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KH466KDEZ830GZY3ZTZ4AMMF/hero-image.png" alt="This LG 77-Inch OLED TV Is Half Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/lg-77-inch-oled-tv-sale-february-2026?utm_medium=RSS" target="_blank">This LG 77-Inch OLED TV Is Half Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-10 17:30</span>
             </div>
         </div>
 </div>
@@ -320,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 275 |
-        🔄 Last Updated: 21:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 22:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
