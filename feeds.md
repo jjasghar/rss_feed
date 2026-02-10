@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-10 22:11:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-10 23:11:40 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 31 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, February 10, 2026 - 22:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, February 10, 2026 - 23:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/2/10/will-israel-annex-the-occupied-west-bank?traffic_source=rss" target="_blank">Will Israel annex the occupied West Bank?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-10 22:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +99,20 @@
                 <span class="time">2026-02-10 19:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96bf/live/88293a10-06b0-11f1-9a46-37f4a626eabd.jpg" alt="Boy arrested for attempted murder after two pupils stabbed at school" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cge8yxpj7e1o?at_medium=RSS&at_campaign=rss" target="_blank">Boy arrested for attempted murder after two pupils stabbed at school</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-10 19:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer" target="_blank">ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-10 23:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,15 +158,6 @@
                 <span class="time">2026-02-10 18:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698b75a2dbf6cd0017b8e44e/master/pass/This%20GoPro%20and%20Lens%20Bundle%20Is%20$200%20Off.png" alt="This GoPro and Lens Bundle Is $200 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gopro-hero-lens-bundle-deal-226/" target="_blank">This GoPro and Lens Bundle Is $200 Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-10 18:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -205,21 +200,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18857746&w=600" alt="The AI Firewall: Using Local Small Language Models (SLMs) to Scrub PII Before Cloud Processing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/the-ai-firewall-using-local-small-language-models" target="_blank">The AI Firewall: Using Local Small Language Models (SLMs) to Scrub PII Before Cloud Processing</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-10 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/02/github-copilot-sdk/en/headerimage/github-copilot-sdk-1770752972453.jpeg" alt="GitHub Copilot SDK Lets Developers Integrate Copilot CLI&#x27;s Engine into Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/news/2026/02/github-copilot-sdk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Copilot SDK Lets Developers Integrate Copilot CLI&#x27;s Engine into Apps</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-02-10 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/schirrel/pare-de-executar-toda-a-sua-suite-de-testes-em-cada-commit-1b56" target="_blank">Pare de Executar Toda a Sua Suite de Testes em Cada Commit 🚫🧪</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-10 19:18</span>
             </div>
         </div>
 </div>
@@ -250,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/deadpools-hed-1280x853.jpg" alt="10 Years Ago, ‘Deadpool’ Made Wade Wilson the People’s Clown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/10-years-ago-deadpool-made-wade-wilson-the-peoples-clown-2000715001" target="_blank">10 Years Ago, ‘Deadpool’ Made Wade Wilson the People’s Clown</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-10 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/nakedgunmemediscord-1280x720.jpg" alt="Discord Goes Into Damage Control Mode Over New Age Verification Requirements, Promising There’s Nothing To See Here For ‘Vast Majority’ Of Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -295,15 +299,6 @@
                 <span class="time">2026-02-10 18:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JRX1KZXER8RWMCNN1BKGBXBW/hero-image.png" alt="The &#x27;Batman: Arkham Shadow&#x27; Meta Quest 3S Bundle Is on Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/meta-quest-3s-bundle-deal-amazon?utm_medium=RSS" target="_blank">The &#x27;Batman: Arkham Shadow&#x27; Meta Quest 3S Bundle Is on Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-10 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -341,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 22:12 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 23:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
