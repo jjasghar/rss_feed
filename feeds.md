@@ -1,9 +1,12 @@
-<!-- Processing 54 RSS feeds at 2026-02-10 02:58:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-10 04:02:32 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
@@ -14,27 +17,26 @@
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, February 10, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, February 10, 2026 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,12 +53,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/10/us-kills-two-people-in-attack-on-boat-in-eastern-pacific-one-survivor?traffic_source=rss" target="_blank">US kills two people in attack on boat in eastern Pacific, one survivor</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-10 03:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-jimmy-lai-court-of-final-appeal_7159679.jpg?20260209002717" alt="Hong Kong leader celebrates Jimmy Lai&#x27;s sentence - as plan to enhance security law published" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/hong-kong-leader-celebrates-jimmy-lais-sentence-as-plan-to-enhance-security-law-published-13505520" target="_blank">Hong Kong leader celebrates Jimmy Lai&#x27;s sentence - as plan to enhance security law published</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-10 03:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/guthrie-9-ht-gmh-260205_1770324065545_hpMain_4x3t_384.jpg" alt="As Nancy Guthrie ransom deadline nears, experts say too much doubt exists to pay it" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/US/nancy-guthrie-ransom-deadline-nears-investigators-uncertain-real/story?id=129991055" target="_blank">As Nancy Guthrie ransom deadline nears, experts say too much doubt exists to pay it</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-09 23:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/09/nx-s1-5707859/lindsey-vonn-crash-winter-olympics" target="_blank">Lindsey Vonn says she suffered &#x27;complex tibia fracture&#x27; in her Olympic downhill crash</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-09 23:00</span>
             </div>
         </div>
 <div class="story">
@@ -77,38 +106,20 @@
                 <span class="time">2026-02-09 21:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770671272552_now_daily_b_odonnell_guthrie_help_260209_1920x1080-85hei1.jpg" alt="Savannah Guthrie posts new video amid search for mother: &#x27;Hour of desperation&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/savannah-guthrie-posts-new-video-amid-search-for-mother-hour-of-desperation-257403461734" target="_blank">Savannah Guthrie posts new video amid search for mother: &#x27;Hour of desperation&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-09 21:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/9/deadly-drone-attacks-on-civilians-continue-in-sudans-kordofan-un-says?traffic_source=rss" target="_blank">Deadly drone attacks on civilians continue in Sudan’s Kordofan, UN says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-09 20:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6298/live/d9724e40-05e6-11f1-b7e1-afb6d0884c18.jpg" alt="King&#x27;s &#x27;profound concern&#x27; as police consider Andrew claims over Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cqlgv3z79klo?at_medium=RSS&at_campaign=rss" target="_blank">King&#x27;s &#x27;profound concern&#x27; as police consider Andrew claims over Epstein</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-09 20:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/09/tem-raises-75m-to-remake-electricity-markets-using-ai/" target="_blank">Tem raises $75M to remake electricity markets using AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-10 03:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +163,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/876080/mrbeast-step-mobile-banking-app" target="_blank">MrBeast just bought a banking app</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-09 22:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/moltmining-500x500.jpeg" alt="No humans allowed: This new space-based MMO is designed exclusively for AI agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/02/after-moltbook-ai-agents-can-now-hang-out-in-their-own-space-faring-mmo/" target="_blank">No humans allowed: This new space-based MMO is designed exclusively for AI agents</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-09 21:09</span>
             </div>
         </div>
 </div>
@@ -341,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
