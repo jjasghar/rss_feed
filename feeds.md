@@ -1,31 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-02-10 10:16:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-10 11:16:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, February 10, 2026 - 10:16 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, February 10, 2026 - 11:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/10/nx-s1-5544181/extreme-weather-warnings-international" target="_blank">&#x27;Please inform your friends&#x27;: The quest to make weather warnings universal</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-10 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Belgorod-blackouts-DB-260210_1770714671942_hpMain_4x3t_384.jpg" alt="Russian border regions face blackouts after Ukrainian strikes, governors say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/russian-border-regions-face-blackouts-after-ukrainian-strikes/story?id=130017695" target="_blank">Russian border regions face blackouts after Ukrainian strikes, governors say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-10 10:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +92,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/10/g-s1-109416/buddhist-monks-finish-walk-for-peace" target="_blank">Buddhist monks head to DC to finish a &#x27;Walk for Peace&#x27; that captivated millions</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-10 06:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/10/live-israeli-attack-on-gaza-building-kills-four-palestinians?traffic_source=rss" target="_blank">LIVE: Israeli attack on Gaza building kills four Palestinians</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-10 05:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/2/10/what-will-it-take-for-syrians-to-return-to-aleppo-after-years-of-war?traffic_source=rss" target="_blank">What will it take for Syrians to return to Aleppo after years of war?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-10 05:01</span>
             </div>
         </div>
 </div>
@@ -160,6 +159,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/02/windsurf-arena-mode/en/headerimage/generatedHeaderImage-1770651989189.jpg" alt="Windsurf Introduces Arena Mode to Compare AI Models During Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/windsurf-arena-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Windsurf Introduces Arena Mode to Compare AI Models During Development</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-10 10:35</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,15 +210,6 @@
                 <span class="title"><a href="https://dev.to/charmpic/avx2-simd-optimization-for-12-bit-jpeg-decoding-in-libjpeg-turbo-pair-programming-with-copilot-cli-363n" target="_blank">AVX2 SIMD Optimization for 12-bit JPEG Decoding in libjpeg-turbo — Pair Programming with Copilot CLI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-10 08:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sanikolaev/manticore-search-1751-cbj" target="_blank">Manticore Search 17.5.1</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-10 06:03</span>
             </div>
         </div>
 </div>
@@ -332,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 10:16 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 11:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
