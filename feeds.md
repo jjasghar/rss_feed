@@ -1,39 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-02-10 06:20:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-10 07:22:38 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, February 10, 2026 - 06:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, February 10, 2026 - 07:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +37,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/10/live-israeli-attack-on-gaza-building-kills-four-palestinians?traffic_source=rss" target="_blank">LIVE: Israeli attack on Gaza building kills four Palestinians</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-10 05:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +91,29 @@
                 <span class="time">2026-02-10 01:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a6/live/e9dde380-061c-11f1-b5e2-dd58fc65f0f6.jpg" alt="Maxwell refuses to answer questions about Epstein in congressional hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgv5yre39zo?at_medium=RSS&at_campaign=rss" target="_blank">Maxwell refuses to answer questions about Epstein in congressional hearing</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-10 01:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/" target="_blank">The first signs of burnout are coming from the people who embrace AI the most</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-10 06:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="KitchenAid Promo Codes and Discounts: Save Up to $500" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/exclusive-kitchenaid-promo-code/" target="_blank">KitchenAid Promo Codes and Discounts: Save Up to $500</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-10 06:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +150,20 @@
                 <span class="time">2026-02-09 22:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/ayaneonext-500x500-1770675957.jpeg" alt="Just look at Ayaneo&#x27;s absolute unit of a Windows gaming &quot;handheld&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/02/just-look-at-ayaneos-absolute-unit-of-a-windows-gaming-handheld/" target="_blank">Just look at Ayaneo&#x27;s absolute unit of a Windows gaming &quot;handheld&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-09 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/876080/mrbeast-step-mobile-banking-app" target="_blank">MrBeast just bought a banking app</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-09 22:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/02/10/the-logos-ethos-and-pathos-of-your-llms/" target="_blank">The logos, ethos, and pathos of your LLMs</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-02-10 08:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +207,6 @@
                 <span class="title"><a href="https://dev.to/aivideotool/git-worktrees-explained-the-secret-to-conflict-free-parallel-development-1mep" target="_blank">Git Worktrees Explained: The Secret to Conflict-Free Parallel Development</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-10 02:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-NULLFS-Namespace" target="_blank">NULLFS &amp; OPEN_TREE_NAMESPACE Features Merged For Linux 7.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-10 01:49</span>
             </div>
         </div>
 </div>
@@ -349,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 06:21 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 07:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
