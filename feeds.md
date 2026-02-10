@@ -1,12 +1,21 @@
-<!-- Processing 54 RSS feeds at 2026-02-10 18:17:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-10 19:23:32 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
@@ -14,18 +23,19 @@
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 13 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, February 10, 2026 - 18:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, February 10, 2026 - 19:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +51,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96bf/live/88293a10-06b0-11f1-9a46-37f4a626eabd.jpg" alt="Teen in attempted murder arrest after boys stabbed at school" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cge8yxpj7e1o?at_medium=RSS&at_campaign=rss" target="_blank">Teen in attempted murder arrest after boys stabbed at school</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-10 18:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/10/eu-votes-to-allow-deportation-of-migrants-to-safe-third-countries?traffic_source=rss" target="_blank">EU votes to allow deportation of migrants to ‘safe’ third countries</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-10 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/10/nx-s1-5703636/nj-primary-election-mejia-malinowski" target="_blank">Malinowski concedes to Mejia in Democratic House special primary in New Jersey</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-10 18:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260210-16x9-nancy-guthrie-security-cam-ew-1253p-6db27b.jpg" alt="FBI releases surveillance photos and videos of potential subject in Nancy Guthrie case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/authorities-release-surveillance-photo-potential-subject-nancy-guthrie-rcna258356" target="_blank">FBI releases surveillance photos and videos of potential subject in Nancy Guthrie case</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-10 17:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260210-nacy-guthrie-security-cam-ew-1253p-fe7747.jpg" alt="FBI releases surveillance photos of potential subject in Nancy Guthrie case" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -59,47 +105,29 @@
                 <span class="time">2026-02-10 16:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/10/what-happens-when-netanyahu-visits-trump-a-look-at-his-past-six-us-visits?traffic_source=rss" target="_blank">What happens when Netanyahu visits Trump? A look at his past six US visits</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-10 16:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19ed/live/8418ae20-06a0-11f1-8d5d-7d6caf00f484.png" alt="I will never walk away, says PM after facing pressure to quit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c20j65ldg9zo?at_medium=RSS&at_campaign=rss" target="_blank">I will never walk away, says PM after facing pressure to quit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-10 16:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/10/t20-world-cup-india-vs-pakistan-match-confirmation-delights-teams-fans?traffic_source=rss" target="_blank">T20 World Cup: India vs Pakistan match confirmation delights teams, fans</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-10 16:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/10/nx-s1-5708670/american-ben-ogden-wins-silver-breaking-50-year-medal-drought-for-u-s-mens-cross-country-skiing" target="_blank">American Ben Ogden wins silver, breaking 50 year medal drought for U.S. men&#x27;s cross-country skiing</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-10 13:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/xai-grok-500x500-1752596846.jpg" alt="Yet another co-founder departs Elon Musk&#x27;s xAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/02/grok-maker-xai-loses-another-co-founder/" target="_blank">Yet another co-founder departs Elon Musk&#x27;s xAI</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-10 18:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/698b75a2dbf6cd0017b8e44e/master/pass/This%20GoPro%20and%20Lens%20Bundle%20Is%20$200%20Off.png" alt="This GoPro and Lens Bundle Is $200 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/gopro-hero-lens-bundle-deal-226/" target="_blank">This GoPro and Lens Bundle Is $200 Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-10 18:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/02/win11-pc-2023-500x500.jpeg" alt="Microsoft sounds the alarm about Secure Boot certificates expiring later this year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -119,6 +147,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/10/former-tesla-product-manager-wants-to-make-luxury-goods-impossible-to-fake-starting-with-a-chip/" target="_blank">Former Tesla product manager wants to make luxury goods impossible to fake, starting with a chip</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-10 16:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6986655d619933b7c3265278/master/pass/politics_ice_offices_sprawl.jpg" alt="ICE Is Expanding Across the US at Breakneck Speed. Here’s Where It’s Going Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -127,38 +164,29 @@
                 <span class="time">2026-02-10 16:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/10/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/" target="_blank">YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-10 15:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/876251/romeo-is-a-dead-man-grasshopper-manufacture-ps5-xbox-steam" target="_blank">Romeo is a Dead Man is bizarre, bloody, and exactly what makes Grasshopper special</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-10 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/10/spotify-hits-a-record-751m-monthly-users-thanks-to-wrapped-new-free-features/" target="_blank">Spotify hits a record 751M monthly users thanks to Wrapped, new free features</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-10 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/schirrel/pare-de-executar-toda-a-sua-suite-de-testes-em-cada-commit-1b56" target="_blank">Pare de Executar Toda a Sua Suite de Testes em Cada Commit 🚫🧪</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-10 19:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18868956&w=600" alt="OCI Images as Kubernetes Volumes: A New Era for Data Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/oci-images-as-kubernetes-volumes-a-new-era" target="_blank">OCI Images as Kubernetes Volumes: A New Era for Data Management</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-10 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flx8a0bpkrnjwunewpg0i.png" alt="Insert Operation: How a B+-Tree Grows Without Losing Order" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,24 +223,6 @@
                 <span class="time">2026-02-10 16:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/CrossOver-26" target="_blank">CrossOver 26 Released - Powered By Wine 11.0 For Windows Apps/Games On Linux + macOS</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-10 16:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/" target="_blank">Parse, Don&#x27;t Validate (2019)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-10 14:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +242,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/image-15-1280x720.jpg" alt="Arc Raiders Item Duplication Epidemic Gets An Emergency Fix" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/arc-raiders-dup-glitch-hotfix-patch-1-15-2000667320" target="_blank">Arc Raiders Item Duplication Epidemic Gets An Emergency Fix</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-10 19:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/camden.jpg?fit=1200%2C817&amp;quality=60&amp;ssl=1" alt="This cyclist has gotten 36 London drivers banned" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/10/this-cyclist-has-gotten-36-london-drivers-banned.html" target="_blank">This cyclist has gotten 36 London drivers banned</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-10 18:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JRX1KZXER8RWMCNN1BKGBXBW/hero-image.png" alt="The &#x27;Batman: Arkham Shadow&#x27; Meta Quest 3S Bundle Is on Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/meta-quest-3s-bundle-deal-amazon?utm_medium=RSS" target="_blank">The &#x27;Batman: Arkham Shadow&#x27; Meta Quest 3S Bundle Is on Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-10 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2024/03/2e8d0da2e764ea651e72b75c400361a2-1280x628.jpg" alt="Spider-Man 2 Reportedly Leads February’s PlayStation Plus Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -257,33 +294,6 @@
                 <span class="title"><a href="https://gizmodo.com/major-bitcoin-miner-sells-305-million-worth-of-crypto-to-fund-pivot-to-ai-2000720078" target="_blank">Major Bitcoin Miner Sells $305 Million Worth of Crypto to Fund Pivot to AI</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-10 16:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KH3H3KXGGDCE0HQRD4FR7JKQ/hero-image.png" alt="This Eero Pro Mesh Wifi System Is $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/eero-pro-7-mesh-wi-fi-system-sale-february-2026?utm_medium=RSS" target="_blank">This Eero Pro Mesh Wifi System Is $100 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-10 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/03/f6fda20e280a71842ae6801305798cf7.jpg" alt="Split Fiction Studio Already Working On Its Next Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/split-fiction-next-game-hazelight-studio-josef-fares-2000667263" target="_blank">Split Fiction Studio Already Working On Its Next Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-10 15:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/MS-0210-jessica-jones-purple-man-1280x853.jpg" alt="Could David Tennant Return to the MCU?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/david-tennant-marvel-daredevil-born-again-jessica-jones-2000719923" target="_blank">Could David Tennant Return to the MCU?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-10 15:00</span>
             </div>
         </div>
 </div>
@@ -332,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 18:17 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 19:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
