@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-11 07:20:50 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-02-11 08:10:00 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, February 11, 2026 - 07:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, February 11, 2026 - 08:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96bf/live/88293a10-06b0-11f1-9a46-37f4a626eabd.jpg" alt="Boy, 13, questioned over double school stabbing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g0rnvpr1no?at_medium=RSS&at_campaign=rss" target="_blank">Boy, 13, questioned over double school stabbing</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-11 07:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51c5/live/7b03dca0-071e-11f1-811d-d70cdc846ab3.jpg" alt="Police search Arizona home of person detained in connection to Nancy Guthrie disappearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr5l4yy3ezmo?at_medium=RSS&at_campaign=rss" target="_blank">Police search Arizona home of person detained in connection to Nancy Guthrie disappearance</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-11 07:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/11/g-s1-109579/annual-governors-gathering" target="_blank">Annual governors&#x27; gathering with White House unraveling after Trump excludes Democrats</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-11 07:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,33 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/11/monstrous-cyclone-gezani-hits-madagascar-with-reports-of-severe-damage?traffic_source=rss" target="_blank">‘Monstrous’: Cyclone Gezani hits Madagascar, with reports of severe damage</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-11 02:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18cd/live/43a9ca30-06c9-11f1-9972-d3f265c101c6.jpg" alt="US lawmakers tell BBC Andrew should testify over Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2gmde0vjlo?at_medium=RSS&at_campaign=rss" target="_blank">US lawmakers tell BBC Andrew should testify over Epstein files</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-11 02:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="Person detained for questioning in Nancy Guthrie abduction: Official" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/nancy-guthrie-disappearance-law-enforcement-release-image-alleged/story?id=130027495" target="_blank">Person detained for questioning in Nancy Guthrie abduction: Official</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-11 02:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/11/us-sanctions-officials-from-marshall-islands-and-palau-citing-china-fears?traffic_source=rss" target="_blank">US sanctions officials from Marshall Islands and Palau, citing China fears</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-11 02:32</span>
             </div>
         </div>
 </div>
@@ -166,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Kubernetes Drives AI Expansion as Cultural Shift Becomes Critical" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/kubernetes-ai-culture-impact/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Kubernetes Drives AI Expansion as Cultural Shift Becomes Critical</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-11 08:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimage.pollinations.ai%2Fprompt%2Fcomplex%2Creactive%2Cprogramming%2Cflow%2Cchart%3Fwidth%3D800%26height%3D450%26nologo%3Dtrue" alt="Mastering Reactive Programming in Modern Mobile Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,15 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Chrome-145-Released" target="_blank">Google Chrome 145 Released With JPEG-XL Image Support</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-11 00:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/elanatframework/security-in-webforms-core-6df" target="_blank">Security in WebForms Core</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-11 00:01</span>
             </div>
         </div>
 </div>
@@ -329,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 07:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 08:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
