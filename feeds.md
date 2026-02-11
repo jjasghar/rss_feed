@@ -1,29 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-11 12:10:13 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-11 13:28:18 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, February 11, 2026 - 12:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, February 11, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/11/g-s1-109596/up-first-newsletter-nancy-guthrie-dhs-funding-pam-bondi-trump-netanyahu-meeting" target="_blank">Person detained in Nancy Guthrie case is released. And, Bondi testifies before House</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-11 11:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,6 +79,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/524d/live/9997db40-0745-11f1-9972-d3f265c101c6.png" alt="Tumbler Ridge mass shooting: What we know so far" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1e98w35qyjo?at_medium=RSS&at_campaign=rss" target="_blank">Tumbler Ridge mass shooting: What we know so far</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-11 10:18</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -75,29 +96,29 @@
                 <span class="time">2026-02-11 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/11/top-iranian-official-condemns-language-of?traffic_source=rss" target="_blank">Top Iranian official condemns ‘language of force’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-11 08:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51c5/live/7b03dca0-071e-11f1-811d-d70cdc846ab3.jpg" alt="Police release man detained in connection to Nancy Guthrie disappearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr5l4yy3ezmo?at_medium=RSS&at_campaign=rss" target="_blank">Police release man detained in connection to Nancy Guthrie disappearance</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-11 08:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2253661753-500x500.jpg" alt="FAA shuts down El Paso airspace for 10 days and won&#x27;t say why" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/02/faa-shuts-down-el-paso-airspace-for-10-days-and-wont-say-why/" target="_blank">FAA shuts down El Paso airspace for 10 days and won&#x27;t say why</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-11 13:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/877019/el-paso-airport-faa-flights-grounded-airspace-special-security" target="_blank">El Paso flights grounded 10 days for ‘special security reasons’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-11 13:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/698bea23a4a1ccc24a43a33d/master/pass/Review-%20Razer%20Huntsman%20V3%20Pro%208KHz.png" alt="Razer Huntsman V3 Pro 8KHz Review: A Keyboard for the Competitive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,29 +155,29 @@
                 <span class="time">2026-02-11 07:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/" target="_blank">With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-11 05:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/875906/toyota-highlander-ev-suv-range-specs" target="_blank">The Toyota Highlander is now a three-row electric SUV with 320 miles of range</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-11 02:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18873989&w=600" alt="Shift-Left QA With Octopus Deploy: Orchestrating Katalon Tests in Your Pipeline" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/shift-left-qa-octopus-deploy-katalon-pipeline" target="_blank">Shift-Left QA With Octopus Deploy: Orchestrating Katalon Tests in Your Pipeline</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-11 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.fabiomanganiello.com/article/webmentions-with-batteries-included" target="_blank">Webmentions with batteries included</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-02-11 12:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fut48pmujs4iiflocqzon.png" alt="[SUI] TabView (Pestañas)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -185,30 +206,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/podcasts/craft-software-architecture/en/smallimage/the-infoq-podcast-logo-thumbnail-1770210409494.jpg" alt="Podcast: [Video Podcast] The Craft of Software Architecture in the Age of AI Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/podcasts/craft-software-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: [Video Podcast] The Craft of Software Architecture in the Age of AI Tools</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-11 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wfgsss/scraping-chinese-e-commerce-sites-challenges-and-solutions-51bj" target="_blank">Scraping Chinese E-commerce Sites: Challenges and Solutions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-11 10:04</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/ubuntu-software-and-updates-removal/" target="_blank">Adios! Says Ubuntu to The Software and Updates Tool</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-11 09:48</span>
+                <span class="title"><a href="https://ubuntu.com//blog/what-is-rdma" target="_blank">What is RDMA?</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-02-11 11:07</span>
             </div>
         </div>
 </div>
@@ -216,6 +219,15 @@
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/prompt-injection-via-road-signs.html" target="_blank">Prompt Injection Via Road Signs</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-02-11 12:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -230,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/06/746ed16e11a5353c40e125696c63e2ab.jpg" alt="The Witcher 3 Gets An Unofficial Ciri Quest To Bridge The Gap With The Witcher 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/witcher-3-dlc-mod-ciri-quest-4-sequel-2000667006" target="_blank">The Witcher 3 Gets An Unofficial Ciri Quest To Bridge The Gap With The Witcher 4</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-11 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/openai-logo-1280x852.jpg" alt="OpenAI Safety VP Reportedly Fired for Sexual Discrimination Against Her Male Colleague" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +296,6 @@
                 <span class="time">2026-02-10 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/nakedgunmemediscord-1280x720.jpg" alt="Discord Goes Into Damage Control Mode Over New Age Verification Requirements, Promising There’s Nothing To See Here For ‘Vast Majority’ Of Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/discord-age-verification-ai-hack-nitro-boycott-2000667358" target="_blank">Discord Goes Into Damage Control Mode Over New Age Verification Requirements, Promising There’s Nothing To See Here For ‘Vast Majority’ Of Users</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-10 21:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 12:10 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
