@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-11 21:09:47 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-11 22:04:50 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, February 11, 2026 - 21:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, February 11, 2026 - 22:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/11/nx-s1-5711585/el-paso-airspace-drones-pentagon-faa" target="_blank">The airspace around El Paso is open again. Why it closed is in dispute</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-11 21:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/GMA/james-van-der-beek-2-gty-jef-260211_1770838625801_hpMain_4x3t_384.jpg" alt="&#x27;Dawson&#x27;s Creek&#x27; star James Van Der Beek dies at age 48" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +95,29 @@
                 <span class="time">2026-02-11 15:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Attorney General Bondi testifies before House Judiciary Committee" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Attorney General Bondi testifies before House Judiciary Committee</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-11 15:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/tinney_byte_hearder_2-500x500.jpg" alt="Byte magazine artist Robert Tinney, who illustrated the birth of PCs, dies at 78" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/" target="_blank">Byte magazine artist Robert Tinney, who illustrated the birth of PCs, dies at 78</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-11 21:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/698676b52cca1ecb252708b7/master/pass/security_immigration_court_crash.jpg" alt="ICE Is Crashing the US Court System in Minnesota" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ice-crashing-us-court-system-minnesota/" target="_blank">ICE Is Crashing the US Court System in Minnesota</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-11 21:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,24 +152,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/11/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/" target="_blank">How to get into a16z’s super-competitive Speedrun startup accelerator program</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-11 19:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698be55e6717ee1a5496802a/master/pass/politics_ice_gsa_expand.jpg" alt="The ICE Expansion Won&#x27;t Happen in the Dark" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ice-expansion-wont-happen-in-the-dark/" target="_blank">The ICE Expansion Won&#x27;t Happen in the Dark</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-11 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698b9f87637ddfa3960c874e/master/pass/AI-Lab-Chaotic-Fun-Clawdbot-Business.jpg" alt="I Loved My OpenClaw AI Agent—Until It Turned on Me" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/" target="_blank">I Loved My OpenClaw AI Agent—Until It Turned on Me</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-11 19:00</span>
             </div>
         </div>
 </div>
@@ -249,20 +245,20 @@
                 <span class="time">2026-02-11 12:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/" target="_blank">Patch Tuesday, February 2026 Edition</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-02-10 21:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KH6STYFZ484AKGSAGKF80HD6/hero-image.png" alt="TikTok&#x27;s First US-Exclusive Feature Is a Local Feed That Wants Your Location Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/tiktoks-first-us-exclusive-feature-is-a-local-feed-that-wants-your-gps?utm_medium=RSS" target="_blank">TikTok&#x27;s First US-Exclusive Feature Is a Local Feed That Wants Your Location Data</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-11 21:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/rabbids.jpg" alt="Ubisoft Devs Dance While Striking: ‘Yves Guillemot Has No Knowledge Or Understanding Of His Company’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -308,20 +304,20 @@
                 <span class="time">2026-02-11 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/helldivers-2-machinery-of-oppression-key-art-1280x853.jpg" alt="Jason Momoa Will Be a Starship Trooper in Sony’s ‘Helldivers’ Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/jason-momoa-helldivers-movie-sony-2000720666" target="_blank">Jason Momoa Will Be a Starship Trooper in Sony’s ‘Helldivers’ Movie</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-11 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/11/the-mark-of-donalds" target="_blank">The Mark Of Donalds</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-02-11 19:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1770666390-20260211.png" alt="Saturday Morning Breakfast Cereal - Grimm" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -354,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 21:09 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 22:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
