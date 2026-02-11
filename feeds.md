@@ -1,29 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-11 18:15:31 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-02-11 19:21:17 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 20 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, February 11, 2026 - 18:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, February 11, 2026 - 19:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -99,6 +102,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/698b9f87637ddfa3960c874e/master/pass/AI-Lab-Chaotic-Fun-Clawdbot-Business.jpg" alt="I Loved My OpenClaw AI Agent—Until It Turned on Me" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/" target="_blank">I Loved My OpenClaw AI Agent—Until It Turned on Me</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-11 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/877258/samsung-unpacked-preorder-galaxy-s26-plus-ultra-ai" target="_blank">Samsung’s offering up to $900 of trade-in credit toward its new phones</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-11 18:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/02/GettyImages-1246654852-500x500.jpg" alt="Smart home PSA: Apple&#x27;s &quot;new architecture&quot; for Home app becomes mandatory today" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/smart-home-psa-apples-new-architecture-for-home-app-becomes-mandatory-today/" target="_blank">Smart home PSA: Apple&#x27;s &quot;new architecture&quot; for Home app becomes mandatory today</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-11 18:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/698a4a78bfd944dc4166ed00/master/pass/Musk-Advisor-Asked-Epstein-For-Help-Taking-Tesla-Private-Culture-2247491895.jpg" alt="Jeffrey Epstein Advised an Elon Musk Associate on Taking Tesla Private" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -123,33 +153,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/" target="_blank">Former Founders Fund VC Sam Blond launches AI sales startup to upend Salesforce</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-11 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/coal-500x500.jpg" alt="What&#x27;s next after the Trump administration revokes key finding on climate change?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/02/whats-next-after-the-trump-administration-revokes-key-finding-on-climate-change/" target="_blank">What&#x27;s next after the Trump administration revokes key finding on climate change?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-11 15:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/876555/meta-data-center-winter-power-outages-storm-ice" target="_blank">How an ‘icepocalypse’ raises more questions about Meta’s biggest data center project</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-11 14:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/11/complyance-raises-20m-to-help-companies-manage-risk-and-compliance/" target="_blank">Complyance raises $20M to help companies manage risk and compliance</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-11 14:00</span>
             </div>
         </div>
 </div>
@@ -203,12 +206,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18874052&w=600" alt="How AI-Driven Software Automation Reduced Deployment Failures by 40%?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-driven-deployment-automation-reduces-failures" target="_blank">How AI-Driven Software Automation Reduced Deployment Failures by 40%?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-11 16:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://fluorite.game/" target="_blank">Toyota Fluorite: &quot;console-grade&quot; Flutter game engine</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-11 16:21</span>
             </div>
         </div>
 </div>
@@ -258,6 +261,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/credit-card.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Europe builds its own payment network, ditches Visa" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/11/europe-builds-its-own-payment-network-ditches-visa.html" target="_blank">Europe builds its own payment network, ditches Visa</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-11 19:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/relootedreview2-1280x720.jpg" alt="Relooted Is A Big Black Middle Finger To History Controlled By White People" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/relooted-review-heist-game-steam-game-pass-2000667754" target="_blank">Relooted Is A Big Black Middle Finger To History Controlled By White People</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-11 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01J53WQZ6AHETG57SB1YHG3VRT/hero-image.png" alt="This Budget-Friendly Asus Gaming Monitor Is 25% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/asus-rog-strix-xg27ucs-gaming-monitor-sale?utm_medium=RSS" target="_blank">This Budget-Friendly Asus Gaming Monitor Is 25% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-11 18:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/helldivers-2-machinery-of-oppression-key-art-1280x853.jpg" alt="Jason Momoa Will Be a Starship Trooper in Sony’s ‘Helldivers’ Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -282,33 +312,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/microsofts-february-patch-tuesday-update?utm_medium=RSS" target="_blank">Microsoft&#x27;s February Patch Tuesday Update Fixes Six Zero-Day Exploits</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-11 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Barge_Refrigerated_Large_-_1945_advertisement.jpg?fit=1200%2C1768&amp;quality=60&amp;ssl=1" alt="WWII&#x27;s strangest vessels were ice cream factories" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/11/wwiis-strangest-vessels-were-ice-cream-factories.html" target="_blank">WWII&#x27;s strangest vessels were ice cream factories</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-11 16:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KH6N41NQC10E1QB6PYD8M8K8/hero-image.png" alt="How to Get Access to T-Mobile’s Free Live Translation Beta" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/access-t-mobiles-free-live-translation-beta?utm_medium=RSS" target="_blank">How to Get Access to T-Mobile’s Free Live Translation Beta</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-11 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/reanimal-review-1280x720.jpg" alt="Reanimal: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/reanimal-review-little-nightmares-3-horror-adventure-2000667716" target="_blank">Reanimal: The Kotaku Review</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-11 16:03</span>
             </div>
         </div>
 </div>
@@ -348,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 146 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 18:15 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 19:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
