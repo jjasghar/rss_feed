@@ -1,31 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-11 08:10:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-11 09:14:28 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, February 11, 2026 - 08:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, February 11, 2026 - 09:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/11/top-iranian-official-condemns-language-of?traffic_source=rss" target="_blank">Top Iranian official condemns ‘language of force’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-11 08:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96bf/live/88293a10-06b0-11f1-9a46-37f4a626eabd.jpg" alt="Boy, 13, questioned over double school stabbing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,20 +104,20 @@
                 <span class="time">2026-02-11 03:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/11/monstrous-cyclone-gezani-hits-madagascar-with-reports-of-severe-damage?traffic_source=rss" target="_blank">‘Monstrous’: Cyclone Gezani hits Madagascar, with reports of severe damage</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-11 02:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/698b854c8953d9ba40ac483a/master/pass/The%20Best%20Accessible%20Sex%20Toys_.png" alt="Sex Toys for Every Type of Body and Ability (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-accessible-sex-toys/" target="_blank">Sex Toys for Every Type of Body and Ability (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-11 09:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +163,20 @@
                 <span class="time">2026-02-10 23:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/" target="_blank">Amazon may launch a marketplace where media sites can sell their content to AI companies</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-10 23:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/prompts-to-production-playbook-for-agentic-development/en/headerimage/prompts-to-production-playbook-header-1770374539263.jpg" alt="Article: From Prompts to Production: A Playbook for Agentic Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/prompts-to-production-playbook-for-agentic-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: From Prompts to Production: A Playbook for Agentic Development</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-11 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Kubernetes Drives AI Expansion as Cultural Shift Becomes Critical" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -180,6 +198,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.cve.org/CVERecord?id=CVE-2026-20841" target="_blank">Windows Notepad App Remote Code Execution Vulnerability</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-11 06:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/emmimal_alexander_3be8cc7/how-python-searches-data-linear-search-binary-search-and-hash-lookup-1nf2" target="_blank">How Python Searches Data: Linear Search, Binary Search, and Hash Lookup</a></span>
                 <span class="feed">DEV Community</span>
@@ -193,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/mahimairaja/envoic-a-cli-to-find-and-clean-python-virtual-environments-40f" target="_blank">envoic: A CLI to Find and Clean Python Virtual Environments</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-11 02:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dzima/idempotent-apis-in-nodejs-with-redis-5081" target="_blank">Idempotent APIs in Node.js with Redis</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-11 01:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Chrome-145-Released" target="_blank">Google Chrome 145 Released With JPEG-XL Image Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-11 00:26</span>
             </div>
         </div>
 </div>
@@ -323,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 08:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 09:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
