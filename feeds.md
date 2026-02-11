@@ -1,38 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-02-11 16:19:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-11 17:20:13 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, February 11, 2026 - 16:19 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, February 11, 2026 - 17:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +39,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/making-peace/2026/2/11/i-heal-you-you-heal-me-ep-1-rwanda?traffic_source=rss" target="_blank">I Heal You, You Heal Me | Ep 1 – Rwanda</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-11 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b098/live/39d86900-0753-11f1-9972-d3f265c101c6.jpg" alt="&#x27;It was terrifying&#x27;: Tumbler Ridge&#x27;s tight-knit community in shock after shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cddn078mnn5o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;It was terrifying&#x27;: Tumbler Ridge&#x27;s tight-knit community in shock after shooting</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-11 15:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4e4/live/e152d0d0-075d-11f1-9972-d3f265c101c6.jpg" alt="PM says peer did not give &#x27;full account&#x27; over links to sex offender" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2gne0rn4qo?at_medium=RSS&at_campaign=rss" target="_blank">PM says peer did not give &#x27;full account&#x27; over links to sex offender</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-11 15:19</span>
             </div>
         </div>
 <div class="story">
@@ -82,24 +90,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/crrnkpyqdzyo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Fear and alienation&#x27;: Senior Co-op staff complain of &#x27;toxic&#x27; culture at the top</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-11 14:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="Nancy Guthrie investigation live updates: Person detained and released" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie investigation live updates: Person detained and released</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-11 14:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/11/fbi-releases-images-of-suspect-in-guthrie-abduction?traffic_source=rss" target="_blank">FBI releases images of suspect in Guthrie abduction</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-11 13:58</span>
             </div>
         </div>
 </div>
@@ -169,6 +159,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/building-bridges-european-digital-sovereignty" target="_blank">Building bridges to European Digital Sovereignty</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-02-12 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/linux-mint-22.3-on-a-laptop.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint plans to make fewer releases a year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/linux-mint-plans-longer-development-cycle" target="_blank">Linux Mint plans to make fewer releases a year</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-02-11 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2026/02/11/is-anyone-using-ai-for-good/" target="_blank">Is anyone using AI for good?</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -185,39 +193,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://machielreyneke.com/blog/vampires-longevity/" target="_blank">Why Vampires Live Forever</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-11 15:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxol50y8ktpdrd55nuseo.png" alt="Architecting Durable AI Agents: Solving the Volatile State Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/anna_chaykovskaya_9ad7aea/architecting-durable-ai-agents-solving-the-volatile-state-problem-59b6" target="_blank">Architecting Durable AI Agents: Solving the Volatile State Problem</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-11 15:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/scaling-engineering-teams/en/mediumimage/thiago-ghisi-medium-1769589727635.jpg" alt="Presentation: Scaling to 100+ as a Director: Lessons From Growing Engineering Organizations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/scaling-engineering-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Scaling to 100+ as a Director: Lessons From Growing Engineering Organizations</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-11 14:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-TSX-Auto-Linux-7.0" target="_blank">Linux 7.0 Now Defaults To Intel TSX Auto Mode For Performance Benefits On Newer CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-11 14:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18875945&w=600" alt="Playwright Fixtures vs. Lazy Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/playwright-fixtures-vs-lazy-approach" target="_blank">Playwright Fixtures vs. Lazy Approach</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-11 14:00</span>
             </div>
         </div>
 </div>
@@ -258,6 +248,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/jpc3-1280x717.jpg" alt="Overwatch Is Roaring Back On Steam After Massive Season 1 Patch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/overwatch-new-heroes-story-sigma-dialogue-sombra-talon-2000667771" target="_blank">Overwatch Is Roaring Back On Steam After Massive Season 1 Patch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-11 17:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KH6N41NQC10E1QB6PYD8M8K8/hero-image.png" alt="How to Get Access to T-Mobile’s Free Live Translation Beta" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/access-t-mobiles-free-live-translation-beta?utm_medium=RSS" target="_blank">How to Get Access to T-Mobile’s Free Live Translation Beta</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-11 16:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/reanimal-review-1280x720.jpg" alt="Reanimal: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -293,29 +301,20 @@
                 <span class="time">2026-02-11 13:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KH5Z04CJFC9NQZK72FYMXXN5/hero-image.png" alt="These Nothing Headphones Are at Their Lowest Price Ever Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/nothing-headphones-1-sale-february-2026?utm_medium=RSS" target="_blank">These Nothing Headphones Are at Their Lowest Price Ever Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-11 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/06/746ed16e11a5353c40e125696c63e2ab.jpg" alt="The Witcher 3 Gets An Unofficial Ciri Quest To Bridge The Gap With The Witcher 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/witcher-3-dlc-mod-ciri-quest-4-sequel-2000667006" target="_blank">The Witcher 3 Gets An Unofficial Ciri Quest To Bridge The Gap With The Witcher 4</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-11 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1770666390-20260211.png" alt="Saturday Morning Breakfast Cereal - Grimm" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/grimm" target="_blank">Saturday Morning Breakfast Cereal - Grimm</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-02-11 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -334,22 +333,13 @@
                 <span class="time">2026-02-11 02:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1770666297-20260210.png" alt="Saturday Morning Breakfast Cereal - Full Dive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/full-dive" target="_blank">Saturday Morning Breakfast Cereal - Full Dive</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-02-10 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 16:19 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 17:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
