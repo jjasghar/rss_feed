@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-10 23:11:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-11 00:11:52 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, February 10, 2026 - 23:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, February 11, 2026 - 00:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/10/venezuelas-national-assembly-chief-rules-out-new-presidential-election?traffic_source=rss" target="_blank">Venezuela’s National Assembly chief rules out new presidential election</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-10 23:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +95,20 @@
                 <span class="time">2026-02-10 20:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/10/g-s1-107945/pakistan-afghanistan-border-closed-trade-taliban" target="_blank">Pakistan-Afghanistan border closures paralyze trade along a key route</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-10 19:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/b19proof1-500x500.jpg" alt="SpaceX&#x27;s next-gen Super Heavy booster aces four days of &quot;cryoproof&quot; testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/02/spacexs-starbase-is-coming-alive-again-after-a-lull-in-starship-testing/" target="_blank">SpaceX&#x27;s next-gen Super Heavy booster aces four days of &quot;cryoproof&quot; testing</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-10 23:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -111,6 +116,15 @@
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer" target="_blank">ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-10 23:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/698b9e303a2ff3469363c0cc/master/pass/biz-salesforce-2172254667.jpg" alt="Salesforce Workers Circulate Open Letter Urging CEO Marc Benioff to Denounce ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/letter-salesforce-employees-sent-after-marc-benioffs-ice-comments/" target="_blank">Salesforce Workers Circulate Open Letter Urging CEO Marc Benioff to Denounce ICE</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-10 22:25</span>
             </div>
         </div>
 <div class="story">
@@ -140,29 +154,38 @@
                 <span class="time">2026-02-10 20:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/wikipedia-500x500-1754933545.jpg" alt="Archive.today CAPTCHA page executes DDoS; Wikipedia considers banning site" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/wikipedia-might-blacklist-archive-today-after-site-maintainer-ddosed-a-blog/" target="_blank">Archive.today CAPTCHA page executes DDoS; Wikipedia considers banning site</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-10 19:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/xai-grok-500x500-1752596846.jpg" alt="Yet another co-founder departs Elon Musk&#x27;s xAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/02/grok-maker-xai-loses-another-co-founder/" target="_blank">Yet another co-founder departs Elon Musk&#x27;s xAI</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-10 18:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/elanatframework/security-in-webforms-core-6df" target="_blank">Security in WebForms Core</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-11 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Scheduler" target="_blank">Linux 7.0 Scheduler Updates Land Time Slice Extension, Performance &amp; Scalability Work</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-10 22:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!y0gL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb258ddb9-4482-44d1-a597-d8503cf89232_2048x1148.png" alt="Steve Yegge on AI Agents and the Future of Software Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the" target="_blank">Steve Yegge on AI Agents and the Future of Software Engineering</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-02-10 22:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,33 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Go-1.26-Released" target="_blank">Go 1.26 Introduces Two Language Changes, New Performance Improvements</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-10 20:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/douglasmakey/osdev-bare-bones-with-rust-cross-compilation-and-freestanding-598b" target="_blank">OSDev Bare Bones with Rust - Cross-Compilation and Freestanding</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-10 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18857746&w=600" alt="The AI Firewall: Using Local Small Language Models (SLMs) to Scrub PII Before Cloud Processing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/the-ai-firewall-using-local-small-language-models" target="_blank">The AI Firewall: Using Local Small Language Models (SLMs) to Scrub PII Before Cloud Processing</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-10 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/github-copilot-sdk/en/headerimage/github-copilot-sdk-1770752972453.jpeg" alt="GitHub Copilot SDK Lets Developers Integrate Copilot CLI&#x27;s Engine into Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/github-copilot-sdk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Copilot SDK Lets Developers Integrate Copilot CLI&#x27;s Engine into Apps</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-10 20:00</span>
             </div>
         </div>
 </div>
@@ -336,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 23:11 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 00:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
