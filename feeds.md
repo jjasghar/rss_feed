@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-11 15:17:57 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-11 16:19:35 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, February 11, 2026 - 15:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, February 11, 2026 - 16:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b098/live/39d86900-0753-11f1-9972-d3f265c101c6.jpg" alt="&#x27;It was terrifying&#x27;: Tumbler Ridge&#x27;s tight-knit community in shock after shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cddn078mnn5o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;It was terrifying&#x27;: Tumbler Ridge&#x27;s tight-knit community in shock after shooting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-11 15:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Attorney General Bondi testifies before House Judiciary Committee" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Attorney General Bondi testifies before House Judiciary Committee</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-11 15:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/11/cyclone-slams-into-madagascar-killing-at-least-20-people?traffic_source=rss" target="_blank">Cyclone slams into Madagascar, killing at least 20 people</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-11 15:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c13c/live/116e62a0-0724-11f1-b5e2-dd58fc65f0f6.jpg" alt="&#x27;Fear and alienation&#x27;: Senior Co-op staff complain of &#x27;toxic&#x27; culture at the top" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,38 +102,29 @@
                 <span class="time">2026-02-11 13:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/11/nx-s1-5708807/jobs-labor-unemployment-economy" target="_blank">U.S. unexpectedly adds 130,000 jobs in January after a weak 2025</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-11 13:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-tumbler-ridge-school_7162136.jpg?20260211132154" alt="People expect shootings in the US, but not Canada" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/people-expect-shootings-in-the-us-but-not-canada-13506233" target="_blank">People expect shootings in the US, but not Canada</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-11 12:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/11/g-s1-109596/up-first-newsletter-nancy-guthrie-dhs-funding-pam-bondi-trump-netanyahu-meeting" target="_blank">Person detained in Nancy Guthrie case is released. And, Bondi testifies before House</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-11 11:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/877148/openai-chatgpt-advertisers-target-adobe-audible" target="_blank">Here are the brands bringing ads to ChatGPT</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-11 16:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/" target="_blank">Former Founders Fund VC Sam Blond launches AI sales startup to upend Salesforce</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-11 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/coal-500x500.jpg" alt="What&#x27;s next after the Trump administration revokes key finding on climate change?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,24 +161,6 @@
                 <span class="time">2026-02-11 13:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/877019/el-paso-airport-faa-flights-grounded-airspace-special-security" target="_blank">El Paso flights grounded 10 days for ‘special security reasons’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-11 13:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698bea23a4a1ccc24a43a33d/master/pass/Review-%20Razer%20Huntsman%20V3%20Pro%208KHz.png" alt="Razer Huntsman V3 Pro 8KHz Review: A Keyboard for the Competitive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/razer-huntsman-v3-pro-8khz/" target="_blank">Razer Huntsman V3 Pro 8KHz Review: A Keyboard for the Competitive</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-11 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +173,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/02/11/is-anyone-using-ai-for-good/" target="_blank">Is anyone using AI for good?</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-02-11 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18874052&w=600" alt="How AI-Driven Software Automation Reduced Deployment Failures by 40%?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-driven-deployment-automation-reduces-failures" target="_blank">How AI-Driven Software Automation Reduced Deployment Failures by 40%?</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-11 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +218,6 @@
                 <span class="title"><a href="https://dzone.com/articles/playwright-fixtures-vs-lazy-approach" target="_blank">Playwright Fixtures vs. Lazy Approach</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-11 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18873989&w=600" alt="Shift-Left QA With Octopus Deploy: Orchestrating Katalon Tests in Your Pipeline" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/shift-left-qa-octopus-deploy-katalon-pipeline" target="_blank">Shift-Left QA With Octopus Deploy: Orchestrating Katalon Tests in Your Pipeline</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-11 13:00</span>
             </div>
         </div>
 </div>
@@ -257,6 +257,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/reanimal-review-1280x720.jpg" alt="Reanimal: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/reanimal-review-little-nightmares-3-horror-adventure-2000667716" target="_blank">Reanimal: The Kotaku Review</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-11 16:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JV5C7A284BR4Q698FBBHS8JJ/hero-image.jpg" alt="Claim Your Payout From the 23andMe Data Breach Before It&#x27;s Too Late" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -302,15 +311,6 @@
                 <span class="time">2026-02-11 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/openai-logo-1280x852.jpg" alt="OpenAI Safety VP Reportedly Fired for Sexual Discrimination Against Her Male Colleague" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/openai-safety-vp-reportedly-fired-for-sexual-discrimination-against-her-male-colleague-2000720468" target="_blank">OpenAI Safety VP Reportedly Fired for Sexual Discrimination Against Her Male Colleague</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-11 04:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -348,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 15:18 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 16:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
