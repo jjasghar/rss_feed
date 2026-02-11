@@ -1,29 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-11 01:31:46 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-11 02:58:47 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 9 new posts out of 21 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, February 11, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, February 11, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,12 +51,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="Person detained for questioning in Nancy Guthrie abduction: Official" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/nancy-guthrie-disappearance-law-enforcement-release-image-alleged/story?id=130027495" target="_blank">Person detained for questioning in Nancy Guthrie abduction: Official</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-11 02:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/11/us-sanctions-officials-from-marshall-islands-and-palau-citing-china-fears?traffic_source=rss" target="_blank">US sanctions officials from Marshall Islands and Palau, citing China fears</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-11 02:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/11/russia-ukraine-war-list-of-key-events-day-1448?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,448</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-11 00:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/10/nx-s1-5710649/fulton-county-2020-election-affidavit-fbi" target="_blank">The FBI seizure of Georgia 2020 election ballots relies on debunked claims</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-11 00:37</span>
             </div>
         </div>
 <div class="story">
@@ -64,33 +102,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/surveillance-video-reveals-clues-in-nancy-guthrie-case-257482309750" target="_blank">Surveillance video reveals clues in Nancy Guthrie case</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-11 00:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/10/venezuelas-national-assembly-chief-rules-out-new-presidential-election?traffic_source=rss" target="_blank">Venezuela’s National Assembly chief rules out new presidential election</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-10 23:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/2/10/will-israel-annex-the-occupied-west-bank?traffic_source=rss" target="_blank">Will Israel annex the occupied West Bank?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-10 22:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2026/2/10/aje-onl-glb_epsteinisrael_av_v2-100226?traffic_source=rss" target="_blank">Jeffrey Epstein’s ‘one single cause’: Israel</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-10 21:48</span>
             </div>
         </div>
 </div>
@@ -158,6 +169,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z95sqrm6nkanjf4j2uj.png" alt="envoic: A CLI to Find and Clean Python Virtual Environments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mahimairaja/envoic-a-cli-to-find-and-clean-python-virtual-environments-40f" target="_blank">envoic: A CLI to Find and Clean Python Virtual Environments</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-11 02:55</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,15 +222,6 @@
                 <span class="time">2026-02-10 22:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!y0gL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb258ddb9-4482-44d1-a597-d8503cf89232_2048x1148.png" alt="Steve Yegge on AI Agents and the Future of Software Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the" target="_blank">Steve Yegge on AI Agents and the Future of Software Engineering</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-02-10 22:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +250,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/ferrari.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="The world&#x27;s unluckiest Ferrari has now crashed twice in the same city" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/10/the-worlds-unluckiest-ferrari-has-now-crashed-twice-in-the-same-city.html" target="_blank">The world&#x27;s unluckiest Ferrari has now crashed twice in the same city</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-11 01:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/deadpools-hed-1280x853.jpg" alt="10 Years Ago, ‘Deadpool’ Made Wade Wilson the People’s Clown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,20 +304,20 @@
                 <span class="time">2026-02-10 20:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/image-15-1280x720.jpg" alt="Arc Raiders Item Duplication Epidemic Gets An Emergency Fix" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/arc-raiders-dup-glitch-hotfix-patch-1-15-2000667320" target="_blank">Arc Raiders Item Duplication Epidemic Gets An Emergency Fix</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-10 19:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5763.png" alt="The Price Of Progress" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5763" target="_blank">The Price Of Progress</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-02-11 02:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1770666297-20260210.png" alt="Saturday Morning Breakfast Cereal - Full Dive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -307,31 +327,13 @@
                 <span class="time">2026-02-10 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5762.png" alt="Ultra-Super-Mega" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5762" target="_blank">Ultra-Super-Mega</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-02-10 02:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/10/home-azone" target="_blank">Home Azone</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-02-10 01:45</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
