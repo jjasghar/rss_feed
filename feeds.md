@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-11 19:21:17 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-11 20:07:41 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 23 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, February 11, 2026 - 19:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, February 11, 2026 - 20:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/11/nx-s1-5711294/trump-jan-6-pardons-child-sex-abuse" target="_blank">A Jan. 6 rioter pardoned by Trump was convicted of sexually abusing children</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-11 19:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +102,38 @@
                 <span class="time">2026-02-11 15:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c13c/live/116e62a0-0724-11f1-b5e2-dd58fc65f0f6.jpg" alt="&#x27;Fear and alienation&#x27;: Senior Co-op staff complain of &#x27;toxic&#x27; culture at the top" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crrnkpyqdzyo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Fear and alienation&#x27;: Senior Co-op staff complain of &#x27;toxic&#x27; culture at the top</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-11 14:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/musk-and-trump-500x500-1770838082.jpg" alt="Victory for Elon Musk: US labor board abandons authority over SpaceX" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/" target="_blank">Victory for Elon Musk: US labor board abandons authority over SpaceX</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-11 20:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/11/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/" target="_blank">How to get into a16z’s super-competitive Speedrun startup accelerator program</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-11 19:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/698be55e6717ee1a5496802a/master/pass/politics_ice_gsa_expand.jpg" alt="The ICE Expansion Won&#x27;t Happen in the Dark" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ice-expansion-wont-happen-in-the-dark/" target="_blank">The ICE Expansion Won&#x27;t Happen in the Dark</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-11 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/698b9f87637ddfa3960c874e/master/pass/AI-Lab-Chaotic-Fun-Clawdbot-Business.jpg" alt="I Loved My OpenClaw AI Agent—Until It Turned on Me" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -128,33 +161,6 @@
                 <span class="time">2026-02-11 18:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698a4a78bfd944dc4166ed00/master/pass/Musk-Advisor-Asked-Epstein-For-Help-Taking-Tesla-Private-Culture-2247491895.jpg" alt="Jeffrey Epstein Advised an Elon Musk Associate on Taking Tesla Private" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/jeffrey-epstein-advised-an-elon-musk-associate-on-taking-tesla-private/" target="_blank">Jeffrey Epstein Advised an Elon Musk Associate on Taking Tesla Private</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-11 18:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/877148/openai-chatgpt-advertisers-target-adobe-audible" target="_blank">Here are the brands bringing ads to ChatGPT</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-11 16:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/" target="_blank">Former Founders Fund VC Sam Blond launches AI sales startup to upend Salesforce</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-11 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +173,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-bridges-european-digital-sovereignty" target="_blank">Building bridges to European Digital Sovereignty</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-02-12 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/programmingcentral/why-your-c-ai-agents-will-fail-in-production-and-how-to-fix-it-c3" target="_blank">Why Your C# AI Agents Will Fail in Production (And How to Fix It)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-11 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4" target="_blank">The risk of a hothouse Earth trajectory</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-11 19:25</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +218,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/02/11/is-anyone-using-ai-for-good/" target="_blank">Is anyone using AI for good?</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-02-11 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-gen9-xe3-b390-graphics" target="_blank">Intel Arc B390 Panther Lake Generational Performance Since The Gen9 Graphics Era</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-11 16:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://fluorite.game/" target="_blank">Toyota Fluorite: &quot;console-grade&quot; Flutter game engine</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-11 16:21</span>
             </div>
         </div>
 </div>
@@ -270,6 +276,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KH6WXXANC515RHZS40RVFH01/hero-image.jpg" alt="This Aggressive Spyware Is Targeting Both Android and iOS Devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/aggressive-spyware-targeting-android-ios-devices?utm_medium=RSS" target="_blank">This Aggressive Spyware Is Targeting Both Android and iOS Devices</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-11 19:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/relootedreview2-1280x720.jpg" alt="Relooted Is A Big Black Middle Finger To History Controlled By White People" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -303,15 +318,6 @@
                 <span class="title"><a href="https://kotaku.com/overwatch-new-heroes-story-sigma-dialogue-sombra-talon-2000667771" target="_blank">Overwatch Is Roaring Back On Steam After Massive Season 1 Patch</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-11 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KH5ESZQAD4AGMV8N9G6S3Y5P/hero-image.png" alt="Microsoft&#x27;s February Patch Tuesday Update Fixes Six Zero-Day Exploits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/microsofts-february-patch-tuesday-update?utm_medium=RSS" target="_blank">Microsoft&#x27;s February Patch Tuesday Update Fixes Six Zero-Day Exploits</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-11 17:00</span>
             </div>
         </div>
 </div>
@@ -351,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 19:21 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 20:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
