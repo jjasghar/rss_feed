@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-11 09:14:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-11 10:15:01 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, February 11, 2026 - 09:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, February 11, 2026 - 10:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,10 +47,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/11/nx-s1-5707280/pam-bondi-oversight-hearing-department-of-justice" target="_blank">Pam Bondi to face questions from House lawmakers about her helm of the DOJ</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-11 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/11/top-iranian-official-condemns-language-of?traffic_source=rss" target="_blank">Top Iranian official condemns ‘language of force’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-11 08:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51c5/live/7b03dca0-071e-11f1-811d-d70cdc846ab3.jpg" alt="Police release man detained in connection to Nancy Guthrie disappearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr5l4yy3ezmo?at_medium=RSS&at_campaign=rss" target="_blank">Police release man detained in connection to Nancy Guthrie disappearance</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-11 08:53</span>
             </div>
         </div>
 <div class="story">
@@ -84,24 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/11/g-s1-109579/annual-governors-gathering" target="_blank">Annual governors&#x27; gathering with White House unraveling after Trump excludes Democrats</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-11 07:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/11/west-ham-vs-man-united-ends-in-draw-as-spurs-lose-to-newcastle?traffic_source=rss" target="_blank">West Ham vs Man United ends in draw as Spurs lose to Newcastle</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-11 05:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770779829005_nbc_spec_detainment_nancy_guthrie_case_260210_1920x1080-ahwhvl.jpg" alt="What the detainment in the Guthrie case could mean for the investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/what-the-detainment-in-the-guthrie-case-could-mean-for-the-investigation-257493573838" target="_blank">What the detainment in the Guthrie case could mean for the investigation</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-11 03:17</span>
             </div>
         </div>
 </div>
@@ -169,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wfgsss/scraping-chinese-e-commerce-sites-challenges-and-solutions-51bj" target="_blank">Scraping Chinese E-commerce Sites: Challenges and Solutions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-11 10:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/ubuntu-software-and-updates-removal/" target="_blank">Adios! Says Ubuntu to The Software and Updates Tool</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-11 09:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/articles/prompts-to-production-playbook-for-agentic-development/en/headerimage/prompts-to-production-playbook-header-1770374539263.jpg" alt="Article: From Prompts to Production: A Playbook for Agentic Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -202,24 +214,6 @@
                 <span class="title"><a href="https://www.cve.org/CVERecord?id=CVE-2026-20841" target="_blank">Windows Notepad App Remote Code Execution Vulnerability</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-11 06:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/emmimal_alexander_3be8cc7/how-python-searches-data-linear-search-binary-search-and-hash-lookup-1nf2" target="_blank">How Python Searches Data: Linear Search, Binary Search, and Hash Lookup</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-11 03:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z95sqrm6nkanjf4j2uj.png" alt="envoic: A CLI to Find and Clean Python Virtual Environments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mahimairaja/envoic-a-cli-to-find-and-clean-python-virtual-environments-40f" target="_blank">envoic: A CLI to Find and Clean Python Virtual Environments</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-11 02:55</span>
             </div>
         </div>
 </div>
@@ -332,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 09:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 10:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
