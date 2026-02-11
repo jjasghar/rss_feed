@@ -1,40 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-02-11 02:58:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-11 04:00:59 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, February 11, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, February 11, 2026 - 04:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/11/monstrous-cyclone-gezani-hits-madagascar-with-reports-of-severe-damage?traffic_source=rss" target="_blank">‘Monstrous’: Cyclone Gezani hits Madagascar, with reports of severe damage</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-11 02:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="Person detained for questioning in Nancy Guthrie abduction: Official" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +106,20 @@
                 <span class="time">2026-02-11 00:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770768618249_nn_lkr_nancyguthriesurveillancevideo_260210_1920x1080-93q94y.jpg" alt="Surveillance video reveals clues in Nancy Guthrie case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/surveillance-video-reveals-clues-in-nancy-guthrie-case-257482309750" target="_blank">Surveillance video reveals clues in Nancy Guthrie case</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-11 00:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683-500x500.jpg" alt="FDA refuses to review Moderna&#x27;s mRNA flu vaccine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/02/fda-refuses-to-review-modernas-mrna-flu-vaccine/" target="_blank">FDA refuses to review Moderna&#x27;s mRNA flu vaccine</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-11 01:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/b19proof1-500x500.jpg" alt="SpaceX&#x27;s next-gen Super Heavy booster aces four days of &quot;cryoproof&quot; testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +165,20 @@
                 <span class="time">2026-02-10 21:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/" target="_blank">Boston Dynamics CEO Robert Playter steps down after 30 years at the company</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-10 21:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/emmimal_alexander_3be8cc7/how-python-searches-data-linear-search-binary-search-and-hash-lookup-1nf2" target="_blank">How Python Searches Data: Linear Search, Binary Search, and Hash Lookup</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-11 03:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z95sqrm6nkanjf4j2uj.png" alt="envoic: A CLI to Find and Clean Python Virtual Environments" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -213,15 +224,6 @@
                 <span class="time">2026-02-10 22:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/" target="_blank">The Day the Telnet Died</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-10 22:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -250,6 +252,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/nancy-guthrie-arizons-home-1280x853.jpg" alt="World’s Dumbest People Think They Can Solve the Nancy Guthrie Ransom Case With Grok" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/worlds-dumbest-people-think-they-can-solve-the-nancy-guthrie-ransom-case-with-grok-2000720373" target="_blank">World’s Dumbest People Think They Can Solve the Nancy Guthrie Ransom Case With Grok</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-11 02:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/ferrari.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="The world&#x27;s unluckiest Ferrari has now crashed twice in the same city" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -295,15 +306,6 @@
                 <span class="time">2026-02-10 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/lutnick.jpg?fit=1200%2C680&amp;quality=60&amp;ssl=1" alt="Commerce secretary admitted to lying about Epstein island visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/10/commerce-secretary-admitted-to-lying-about-epstein-island-visit.html" target="_blank">Commerce secretary admitted to lying about Epstein island visit</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-10 20:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 04:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
