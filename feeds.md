@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-11 20:07:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-11 21:09:47 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, February 11, 2026 - 20:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, February 11, 2026 - 21:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/james-van-der-beek-2-gty-jef-260211_1770838625801_hpMain_4x3t_384.jpg" alt="&#x27;Dawson&#x27;s Creek&#x27; star James Van Der Beek dies at age 48" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/GMA/News/dawsons-creek-star-james-van-der-beek-dies/story?id=116951587" target="_blank">&#x27;Dawson&#x27;s Creek&#x27; star James Van Der Beek dies at age 48</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-11 20:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +99,29 @@
                 <span class="time">2026-02-11 15:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/11/cyclone-slams-into-madagascar-killing-at-least-20-people?traffic_source=rss" target="_blank">Cyclone slams into Madagascar, killing at least 20 people</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-11 15:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/877494/apple-siri-ai-overhaul-ios-personalized" target="_blank">Apple keeps hitting bumps with its overhauled Siri</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-11 21:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/archimedes-engines-500x500.jpg" alt="Yes, Rocket Lab is blowing up engines. No, it&#x27;s not a big deal, CEO says." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/02/yes-rocket-lab-is-blowing-up-engines-no-its-not-a-big-deal-ceo-says/" target="_blank">Yes, Rocket Lab is blowing up engines. No, it&#x27;s not a big deal, CEO says.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-11 21:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/musk-and-trump-500x500-1770838082.jpg" alt="Victory for Elon Musk: US labor board abandons authority over SpaceX" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,24 +158,6 @@
                 <span class="time">2026-02-11 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/877258/samsung-unpacked-preorder-galaxy-s26-plus-ultra-ai" target="_blank">Samsung’s offering up to $900 of trade-in credit toward its new phones</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-11 18:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/02/GettyImages-1246654852-500x500.jpg" alt="Smart home PSA: Apple&#x27;s &quot;new architecture&quot; for Home app becomes mandatory today" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/smart-home-psa-apples-new-architecture-for-home-app-becomes-mandatory-today/" target="_blank">Smart home PSA: Apple&#x27;s &quot;new architecture&quot; for Home app becomes mandatory today</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-11 18:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +170,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-bridges-european-digital-sovereignty" target="_blank">Building bridges to European Digital Sovereignty</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-02-12 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/franciscojeg78/es-su-arquitectura-una-bomba-de-tiempo-el-mapa-secreto-para-el-exito-en-la-nube-con-aws-i2n" target="_blank">¿Es su arquitectura una bomba de tiempo? El Mapa Secreto para el Éxito en la Nube con AWS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-11 21:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18877591&w=600" alt="Jakarta EE 12 M2: Entering the Data Age of Enterprise Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/jakarta-ee-12-m2-enterprise-java-data" target="_blank">Jakarta EE 12 M2: Entering the Data Age of Enterprise Java</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-11 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/kokumubooker/getting-started-with-docker-2ai" target="_blank">Getting started with docker</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-11 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/linux-mint-22.3-on-a-laptop.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint plans to make fewer releases a year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/linux-mint-plans-longer-development-cycle" target="_blank">Linux Mint plans to make fewer releases a year</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-11 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/02/11/is-anyone-using-ai-for-good/" target="_blank">Is anyone using AI for good?</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-02-11 17:00</span>
             </div>
         </div>
 </div>
@@ -267,6 +264,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/rabbids.jpg" alt="Ubisoft Devs Dance While Striking: ‘Yves Guillemot Has No Knowledge Or Understanding Of His Company’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ubisoft-strike-assassins-creed-delay-cancel-rto-layoffs-2000667820" target="_blank">Ubisoft Devs Dance While Striking: ‘Yves Guillemot Has No Knowledge Or Understanding Of His Company’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-11 21:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/credit-card.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Europe builds its own payment network, ditches Visa" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -311,15 +317,6 @@
                 <span class="time">2026-02-11 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/jpc3-1280x717.jpg" alt="Overwatch Is Roaring Back On Steam After Massive Season 1 Patch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/overwatch-new-heroes-story-sigma-dialogue-sombra-talon-2000667771" target="_blank">Overwatch Is Roaring Back On Steam After Massive Season 1 Patch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-11 17:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -357,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 20:07 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 21:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
