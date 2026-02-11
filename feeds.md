@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-11 14:21:11 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-11 15:17:57 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, February 11, 2026 - 14:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, February 11, 2026 - 15:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c13c/live/116e62a0-0724-11f1-b5e2-dd58fc65f0f6.jpg" alt="&#x27;Fear and alienation&#x27;: Senior Co-op staff complain of &#x27;toxic&#x27; culture at the top" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crrnkpyqdzyo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Fear and alienation&#x27;: Senior Co-op staff complain of &#x27;toxic&#x27; culture at the top</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-11 14:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="Nancy Guthrie investigation live updates: Person detained and released" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -58,46 +69,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/11/fbi-releases-images-of-suspect-in-guthrie-abduction?traffic_source=rss" target="_blank">FBI releases images of suspect in Guthrie abduction</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-11 13:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/11/nx-s1-5708807/jobs-labor-unemployment-economy" target="_blank">U.S. unexpectedly adds 130,000 jobs in January after a weak 2025</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-11 13:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-tumbler-ridge-school_7162136.jpg?20260211132154" alt="People expect shootings in the US, but not Canada" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/people-expect-shootings-in-the-us-but-not-canada-13506233" target="_blank">People expect shootings in the US, but not Canada</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-11 12:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/02/11/g-s1-109596/up-first-newsletter-nancy-guthrie-dhs-funding-pam-bondi-trump-netanyahu-meeting" target="_blank">Person detained in Nancy Guthrie case is released. And, Bondi testifies before House</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-11 11:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/11/explosions-and-fireworks-at-albania-anti-government-protests?traffic_source=rss" target="_blank">Explosions and fireworks at Albania anti-government protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-11 11:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="Nancy Guthrie case: Person released as search for &#x27;armed individual&#x27; continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/nancy-guthrie-disappearance-law-enforcement-release-image-alleged/story?id=130027495" target="_blank">Nancy Guthrie case: Person released as search for &#x27;armed individual&#x27; continues</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-11 11:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260211-nbc-news-poll-trump-2x1-cs-0c6b44.jpg" alt="Trump&#x27;s ratings on immigration tumble as Americans lose confidence in his top issue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/poll-trumps-ratings-immigration-tumble-americans-lose-confidence-top-i-rcna258159" target="_blank">Trump&#x27;s ratings on immigration tumble as Americans lose confidence in his top issue</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-11 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/11/miller-south-africa-beat-afghanistan-in-second-super-over-at-t20-world-cup?traffic_source=rss" target="_blank">Miller, South Africa beat Afghanistan in second super over at T20 World Cup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-11 10:25</span>
             </div>
         </div>
 </div>
@@ -105,6 +107,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/coal-500x500.jpg" alt="What&#x27;s next after the Trump administration revokes key finding on climate change?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/02/whats-next-after-the-trump-administration-revokes-key-finding-on-climate-change/" target="_blank">What&#x27;s next after the Trump administration revokes key finding on climate change?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-11 15:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +161,6 @@
                 <span class="time">2026-02-11 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/876558/tech-workers-ice-resistance-google-microsoft-clear-abbott" target="_blank">‘Shut up and focus on the mission’: Tech workers are frustrated by their companies’ silence about ICE</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-11 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +173,33 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/02/11/is-anyone-using-ai-for-good/" target="_blank">Is anyone using AI for good?</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-02-11 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxol50y8ktpdrd55nuseo.png" alt="Architecting Durable AI Agents: Solving the Volatile State Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anna_chaykovskaya_9ad7aea/architecting-durable-ai-agents-solving-the-volatile-state-problem-59b6" target="_blank">Architecting Durable AI Agents: Solving the Volatile State Problem</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-11 15:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/scaling-engineering-teams/en/mediumimage/thiago-ghisi-medium-1769589727635.jpg" alt="Presentation: Scaling to 100+ as a Director: Lessons From Growing Engineering Organizations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/scaling-engineering-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Scaling to 100+ as a Director: Lessons From Growing Engineering Organizations</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-11 14:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-TSX-Auto-Linux-7.0" target="_blank">Linux 7.0 Now Defaults To Intel TSX Auto Mode For Performance Benefits On Newer CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-11 14:11</span>
             </div>
         </div>
 <div class="story">
@@ -191,38 +220,20 @@
                 <span class="time">2026-02-11 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://blog.fabiomanganiello.com/article/webmentions-with-batteries-included" target="_blank">Webmentions with batteries included</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-02-11 12:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fut48pmujs4iiflocqzon.png" alt="[SUI] TabView (Pestañas)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/david_goyes_a488f58a17a53/sui-21ob" target="_blank">[SUI] TabView (Pestañas)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-11 12:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Inline-UDP-Boost" target="_blank">Linux 7.0 Scores +12% In UDP Network Performance Test From Manually Inlining Function</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-11 11:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html" target="_blank">Rewiring Democracy Ebook is on Sale</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-02-11 14:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -246,6 +257,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JV5C7A284BR4Q698FBBHS8JJ/hero-image.jpg" alt="Claim Your Payout From the 23andMe Data Breach Before It&#x27;s Too Late" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/23andme-data-breach-payout?utm_medium=RSS" target="_blank">Claim Your Payout From the 23andMe Data Breach Before It&#x27;s Too Late</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-11 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/MS-0211-stargate-atlantis-1280x853.jpg" alt="The New ‘Stargate’ Is Adding a Familiar Face in a Surprising Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +311,6 @@
                 <span class="time">2026-02-11 04:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/nancy-guthrie-arizons-home-1280x853.jpg" alt="World’s Dumbest People Think They Can Solve the Nancy Guthrie Ransom Case With Grok" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/worlds-dumbest-people-think-they-can-solve-the-nancy-guthrie-ransom-case-with-grok-2000720373" target="_blank">World’s Dumbest People Think They Can Solve the Nancy Guthrie Ransom Case With Grok</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-11 02:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -337,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 14:21 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 15:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
