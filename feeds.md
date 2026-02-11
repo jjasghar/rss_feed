@@ -1,31 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-02-11 22:04:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-11 23:06:25 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, February 11, 2026 - 22:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, February 11, 2026 - 23:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +38,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/694d/live/d76b6120-079b-11f1-9972-d3f265c101c6.jpg" alt="PM tells Sir Jim Ratcliffe to apologise for saying &#x27;UK has been colonised&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckglv1n4dzeo?at_medium=RSS&at_campaign=rss" target="_blank">PM tells Sir Jim Ratcliffe to apologise for saying &#x27;UK has been colonised&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-11 22:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/11/struggling-to-get-by-behind-the-us-underemployment-crisis?traffic_source=rss" target="_blank">Struggling to get by: Behind the US underemployment crisis</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-11 21:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +92,29 @@
                 <span class="time">2026-02-11 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b098/live/39d86900-0753-11f1-9972-d3f265c101c6.jpg" alt="&#x27;It was terrifying&#x27;: Tumbler Ridge&#x27;s tight-knit community in shock after shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cddn078mnn5o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;It was terrifying&#x27;: Tumbler Ridge&#x27;s tight-knit community in shock after shooting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-11 15:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4e4/live/e152d0d0-075d-11f1-9972-d3f265c101c6.jpg" alt="PM says peer did not give &#x27;full account&#x27; over links to sex offender" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2gne0rn4qo?at_medium=RSS&at_campaign=rss" target="_blank">PM says peer did not give &#x27;full account&#x27; over links to sex offender</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-11 15:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge" target="_blank">Anthropic says it&amp;#8217;ll try to keep its data centers from raising electricity costs</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-11 22:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/698bcacf1cd27f239f17a259/master/pass/monje.jpg" alt="Study of Buddhist Monks Finds Meditation Alters Brain Activity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/study-of-buddhist-monks-finds-meditation-alters-brain-activity/" target="_blank">Study of Buddhist Monks Finds Meditation Alters Brain Activity</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-11 22:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/tinney_byte_hearder_2-500x500.jpg" alt="Byte magazine artist Robert Tinney, who illustrated the birth of PCs, dies at 78" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,24 +151,6 @@
                 <span class="time">2026-02-11 21:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/musk-and-trump-500x500-1770838082.jpg" alt="Victory for Elon Musk: US labor board abandons authority over SpaceX" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/" target="_blank">Victory for Elon Musk: US labor board abandons authority over SpaceX</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-11 20:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/11/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/" target="_blank">How to get into a16z’s super-competitive Speedrun startup accelerator program</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-11 19:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,6 +163,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-bridges-european-digital-sovereignty" target="_blank">Building bridges to European Digital Sovereignty</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-02-12 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0uf6tp1hyka54mihvdmn.png" alt="Conversational Development With Claude Code — Part 7: Designing Sub‑Agents for Planning (Meet **@architect**)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-7-designing-sub-agents-for-planning-meet-1nlk" target="_blank">Conversational Development With Claude Code — Part 7: Designing Sub‑Agents for Planning (Meet **@architect**)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-11 23:02</span>
             </div>
         </div>
 <div class="story">
@@ -202,15 +208,6 @@
                 <span class="title"><a href="https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4" target="_blank">The risk of a hothouse Earth trajectory</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-11 19:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kokumubooker/getting-started-with-docker-2ai" target="_blank">Getting started with docker</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-11 18:01</span>
             </div>
         </div>
 </div>
@@ -250,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KH7A5JFYZZTP9BVTRZ5KRK3A/hero-image.jpg" alt="The Telegram App Has a New Look, and a Weird New Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/telegram-has-a-new-look-and-some-new-features?utm_medium=RSS" target="_blank">The Telegram App Has a New Look, and a Weird New Feature</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-11 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KH6STYFZ484AKGSAGKF80HD6/hero-image.png" alt="TikTok&#x27;s First US-Exclusive Feature Is a Local Feed That Wants Your Location Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +298,6 @@
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/relooted-review-heist-game-steam-game-pass-2000667754" target="_blank">Relooted Is A Big Black Middle Finger To History Controlled By White People</a></span>
                 <span class="feed">Kotaku</span>
-                <span class="time">2026-02-11 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01J53WQZ6AHETG57SB1YHG3VRT/hero-image.png" alt="This Budget-Friendly Asus Gaming Monitor Is 25% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/asus-rog-strix-xg27ucs-gaming-monitor-sale?utm_medium=RSS" target="_blank">This Budget-Friendly Asus Gaming Monitor Is 25% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-11 18:30</span>
             </div>
         </div>
@@ -350,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 22:04 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 23:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
