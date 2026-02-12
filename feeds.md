@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-12 12:08:25 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-02-12 13:27:51 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, February 12, 2026 - 12:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, February 12, 2026 - 13:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/12/nx-s1-5711686/glp1-obesity-normal-weight-loss-bmi" target="_blank">Using GLP-1s to maintain a normal weight? There are benefits and risks</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-12 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/12/in-aleppo-art-bridges-syrias-war-divisions?traffic_source=rss" target="_blank">In Aleppo, art bridges Syria’s war divisions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-12 12:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +97,20 @@
                 <span class="time">2026-02-12 06:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/pam-bondi-9-gty-gmh-260211_1770825261636_hpMain_4x3t_384.jpg" alt="Bondi says Ghislaine Maxwell &#x27;will hopefully die in prison&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/bondi-ghislaine-maxwell-die-prison/story?id=130077267" target="_blank">Bondi says Ghislaine Maxwell &#x27;will hopefully die in prison&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-12 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/12/three-children-killed-in-drone-strike-on-mosque-in-central-sudan-doctors?traffic_source=rss" target="_blank">Three children killed in drone strike on mosque in central Sudan: Doctors</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-12 03:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/698bb44e3a2ff3469363c6f1/master/pass/sec-scam-1383525425.jpg" alt="Crypto-Funded Human Trafficking Is Exploding" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/crypto-funded-human-trafficking-is-exploding/" target="_blank">Crypto-Funded Human Trafficking Is Exploding</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-12 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/698d0b7ff7ce0778b7d1b836/master/pass/Review-%20Therabody%20JetBoots%20Pro%20Plus.png" alt="Therabody JetBoots Pro Plus Review: 3-in-1 Recovery Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +156,29 @@
                 <span class="time">2026-02-12 02:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/877674/highguard-wildlight-entertainment-layoffs" target="_blank">Highguard’s developer reportedly lays off ‘most’ of its staff just over two weeks after launch</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-12 00:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Perf-Events" target="_blank">Linux 7.0 Performance Events Prep For Intel Xeon Diamond Rapids</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-12 13:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/" target="_blank">The &quot;Crown of Nobles&quot; Noble Gas Tube Display</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-12 12:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +213,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/02/create-impactful-teams-diversity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Creating Impactful Teams through Diversity Using Session 0</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-02-12 11:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fon0z0cu3u06ytbz4rl8h.png" alt="GIT AND GITHUB 101" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mordecai_mokua_567625df0b/git-and-github-101-2dpd" target="_blank">GIT AND GITHUB 101</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-12 11:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/whatsapp-rust-media-malware/en/headerimage/generatedHeaderImage-1770384331851.jpg" alt="WhatsApp Deploys Rust-Based Media Parser to Block Malware on 3 Billion Devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/whatsapp-rust-media-malware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">WhatsApp Deploys Rust-Based Media Parser to Block Malware on 3 Billion Devices</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-12 10:24</span>
             </div>
         </div>
 </div>
@@ -259,6 +252,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/cristol-1280x720.jpg" alt="Crisol: Theater of Idols Is A Tremendously Spanish Affair, and A Halfway Decent Survival Horror Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/crisol-theater-idols-review-steam-horror-shooter-spanish-2000667876" target="_blank">Crisol: Theater of Idols Is A Tremendously Spanish Affair, and A Halfway Decent Survival Horror Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-12 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/predator-badlands-dek-thia-1280x853.jpg" alt="UK Ad Group Chides Disney for ‘Predator: Badlands’ Ad With Severed Robo-Body" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -304,15 +306,6 @@
                 <span class="time">2026-02-11 23:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/highguard-1280x720.jpg" alt="Highguard In Trouble After Most Of The Studio Laid Off Just Weeks After Launch [Update]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/highguard-studio-developer-layoffs-wildlight-entertainment-2000667841" target="_blank">Highguard In Trouble After Most Of The Studio Laid Off Just Weeks After Launch [Update]</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-11 23:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -341,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 12:08 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 13:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
