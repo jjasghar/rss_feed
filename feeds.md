@@ -1,44 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-12 15:14:55 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-12 16:15:45 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 35 feeds processed -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, February 12, 2026 - 15:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, February 12, 2026 - 16:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6e8/live/17a22a90-0822-11f1-b7e1-afb6d0884c18.jpg" alt="Minnesota immigration enforcement surge is ending, Trump border tsar says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2lr9w29zwyo?at_medium=RSS&at_campaign=rss" target="_blank">Minnesota immigration enforcement surge is ending, Trump border tsar says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-12 15:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/12/nx-s1-5712253/u-s-cross-country-star-jessie-diggins-claims-bronze-medaling-in-third-straight-olympics" target="_blank">U.S. cross-country star Jessie Diggins claims bronze, medaling in third straight Olympics</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-12 14:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/homan-main_1770885685619_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Minneapolis surge ending, Homan says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,29 +95,29 @@
                 <span class="time">2026-02-12 12:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770899404521_tdy_news_7a_welker_delcy_rodriguez_260212_1920x1080-1nbbcq.jpg" alt="Delcy Rodríguez Talks Future of Venezuela in NBC Interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/maduro-is-legitimate-president-of-venezuela-delcy-rodriguez-257574469686" target="_blank">Delcy Rodríguez Talks Future of Venezuela in NBC Interview</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-12 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/12/un-begins-clearing-massive-wartime-waste-dump-in-gaza-city?traffic_source=rss" target="_blank">UN begins clearing massive wartime waste dump in Gaza City</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-12 11:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2200759945-500x500.jpg" alt="US consumers, business pay 90% of tariff costs, says Federal Reserve" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/us-consumers-business-pay-90-of-tariff-costs-says-federal-reserve/" target="_blank">US consumers, business pay 90% of tariff costs, says Federal Reserve</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-12 15:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/12/apple-acquires-all-rights-to-severance-will-produce-future-seasons-in-house/" target="_blank">Apple acquires all rights to ‘Severance,’ will produce future seasons in-house</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-12 15:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -120,6 +125,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/12/us-ftc-airs-concerns-over-allegations-that-apple-suppresses-right-wing-content-on-apple-news/" target="_blank">US FTC airs concerns over allegations that Apple News suppresses right-wing content</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-12 14:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/698b604825bc2ca5f5fb4d53/master/pass/Elon-Double-Dipping-Iran-Support-Politics-2246892016.jpg" alt="Elon Musk&#x27;s X Appears to Be Violating US Sanctions by Selling Premium Accounts to Iranian Leaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/elon-musk-x-premium-accounts-iran/" target="_blank">Elon Musk&#x27;s X Appears to Be Violating US Sanctions by Selling Premium Accounts to Iranian Leaders</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-12 14:27</span>
             </div>
         </div>
 <div class="story">
@@ -140,33 +154,6 @@
                 <span class="time">2026-02-12 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/google-automate-windups-500x500.jpg" alt="We let Chrome&#x27;s Auto Browse agent surf the web for us—here&#x27;s what happened" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2026/02/tested-how-chromes-auto-browse-agent-handles-common-web-tasks/" target="_blank">We let Chrome&#x27;s Auto Browse agent surf the web for us—here&#x27;s what happened</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-12 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698d0b7ff7ce0778b7d1b836/master/pass/Review-%20Therabody%20JetBoots%20Pro%20Plus.png" alt="Therabody JetBoots Pro Plus Review: 3-in-1 Recovery Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/review-therabody-jetboots-pro-plus/" target="_blank">Therabody JetBoots Pro Plus Review: 3-in-1 Recovery Tech</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-12 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/877688/hp-zbook-ultra-g1a-laptop-amd-strix-halo-review" target="_blank">HP ZBook Ultra G1a review: a business-class workstation that’s got game</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-12 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -179,6 +166,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/02/12/how-everyone-and-anyone-can-use-ai-for-good/" target="_blank">How everyone and anyone can use AI for good</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-02-12 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/arch-linux-loongarch" target="_blank">Arch Linux Running Well On LoongArch - Loongson 3B6000 Benchmarks</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-12 16:05</span>
             </div>
         </div>
 <div class="story">
@@ -212,18 +208,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://atha.io/blog/2026-02-12-viva" target="_blank">Email is tough: Major European Payment Processor&#x27;s Emails aren&#x27;t RFC-Compliant</a></span>
+                <span class="title"><a href="https://atha.io/blog/2026-02-12-viva" target="_blank">Email is tough: Major European Payment Processor&#x27;s Emails rejected by GWorkspace</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-12 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pockit_tools/llm-structured-output-in-2026-stop-parsing-json-with-regex-and-do-it-right-34pk" target="_blank">LLM Structured Output in 2026: Stop Parsing JSON with Regex and Do It Right</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-12 14:10</span>
             </div>
         </div>
 </div>
@@ -238,15 +225,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/3d-printer-surveillance.html" target="_blank">3D Printer Surveillance</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-02-12 12:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/" target="_blank">Kimwolf Botnet Swamps Anonymity Network I2P</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-02-11 16:08</span>
             </div>
         </div>
 </div>
@@ -336,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 15:15 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 281 |
+        🔄 Last Updated: 16:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
