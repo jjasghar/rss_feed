@@ -1,28 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-11 23:06:25 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-12 00:06:37 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 20 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, February 11, 2026 - 23:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, February 12, 2026 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -75,6 +86,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="Nancy Guthrie case live updates: Man who was detained was under surveillance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie case live updates: Man who was detained was under surveillance</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-11 20:35</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -83,20 +103,38 @@
                 <span class="time">2026-02-11 19:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/making-peace/2026/2/11/i-heal-you-you-heal-me-ep-1-rwanda?traffic_source=rss" target="_blank">I Heal You, You Heal Me | Ep 1 – Rwanda</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-11 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1323776508-500x500.jpg" alt="Trump&#x27;s latest plan to revive coal power: Make the military buy it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/02/trumps-latest-plan-to-revive-coal-power-make-the-military-buy-it/" target="_blank">Trump&#x27;s latest plan to revive coal power: Make the military buy it</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-12 00:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/" target="_blank">xAI lays out interplanetary ambitions in public all-hands</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-11 23:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger" target="_blank">Two more xAI co-founders are among those leaving after the SpaceX merger</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-11 23:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -122,33 +160,6 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/" target="_blank">Byte magazine artist Robert Tinney, who illustrated the birth of PCs, dies at 78</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-02-11 21:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698676b52cca1ecb252708b7/master/pass/security_immigration_court_crash.jpg" alt="ICE Is Crashing the US Court System in Minnesota" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ice-crashing-us-court-system-minnesota/" target="_blank">ICE Is Crashing the US Court System in Minnesota</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-11 21:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/877494/apple-siri-ai-overhaul-ios-personalized" target="_blank">Apple keeps hitting bumps with its overhauled Siri</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-11 21:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/archimedes-engines-500x500.jpg" alt="Yes, Rocket Lab is blowing up engines. No, it&#x27;s not a big deal, CEO says." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/02/yes-rocket-lab-is-blowing-up-engines-no-its-not-a-big-deal-ceo-says/" target="_blank">Yes, Rocket Lab is blowing up engines. No, it&#x27;s not a big deal, CEO says.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-11 21:04</span>
             </div>
         </div>
 </div>
@@ -248,6 +259,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/oatly.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="UK Supreme Court: oat milk can&#x27;t be called milk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/11/uk-supreme-court-oat-milk-cant-be-called-milk.html" target="_blank">UK Supreme Court: oat milk can&#x27;t be called milk</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-11 23:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/highguard-1280x720.jpg" alt="Highguard Studio Hit With Layoffs Weeks After Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/highguard-studio-developer-layoffs-wildlight-entertainment-2000667841" target="_blank">Highguard Studio Hit With Layoffs Weeks After Launch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-11 23:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KH7A5JFYZZTP9BVTRZ5KRK3A/hero-image.jpg" alt="The Telegram App Has a New Look, and a Weird New Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -281,24 +310,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/11/europe-builds-its-own-payment-network-ditches-visa.html" target="_blank">Europe builds its own payment network, ditches Visa</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-11 19:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KH6WXXANC515RHZS40RVFH01/hero-image.jpg" alt="This Aggressive Spyware Is Targeting Both Android and iOS Devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/aggressive-spyware-targeting-android-ios-devices?utm_medium=RSS" target="_blank">This Aggressive Spyware Is Targeting Both Android and iOS Devices</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-11 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/relootedreview2-1280x720.jpg" alt="Relooted Is A Big Black Middle Finger To History Controlled By White People" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/relooted-review-heist-game-steam-game-pass-2000667754" target="_blank">Relooted Is A Big Black Middle Finger To History Controlled By White People</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-11 18:30</span>
             </div>
         </div>
 </div>
@@ -347,8 +358,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 23:06 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
