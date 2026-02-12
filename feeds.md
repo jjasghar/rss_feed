@@ -1,20 +1,17 @@
-<!-- Processing 54 RSS feeds at 2026-02-12 11:14:00 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-12 12:08:25 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
@@ -25,15 +22,19 @@
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, February 12, 2026 - 11:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, February 12, 2026 - 12:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/12/un-begins-clearing-massive-wartime-waste-dump-in-gaza-city?traffic_source=rss" target="_blank">UN begins clearing massive wartime waste dump in Gaza City</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-12 11:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-bangladesh-vote_7163054.jpg?20260212112909" alt="An era-defining election for the country where Gen Z toppled an autocrat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/an-era-defining-election-for-bangladesh-where-gen-z-toppled-an-autocrat-13506682" target="_blank">An era-defining election for the country where Gen Z toppled an autocrat</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-12 11:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +104,29 @@
                 <span class="time">2026-02-12 03:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770864711729_now_topstory_scott_hamilton_figure_skating_260211_1920x1080-h18zd2.jpg" alt="Former Olympian Scott Hamilton talks Team USA wins in skating" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/former-olympian-scott-hamilton-talks-team-usa-wins-in-skating-257560133509" target="_blank">Former Olympian Scott Hamilton talks Team USA wins in skating</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-12 02:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/12/russia-to-evacuate-tourists-from-cuba-amid-us-engineered-fuel-crisis?traffic_source=rss" target="_blank">Russia to evacuate tourists from Cuba amid US-engineered fuel crisis</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-12 02:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/698d0b7ff7ce0778b7d1b836/master/pass/Review-%20Therabody%20JetBoots%20Pro%20Plus.png" alt="Therabody JetBoots Pro Plus Review: 3-in-1 Recovery Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/review-therabody-jetboots-pro-plus/" target="_blank">Therabody JetBoots Pro Plus Review: 3-in-1 Recovery Tech</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-12 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/877688/hp-zbook-ultra-g1a-laptop-amd-strix-halo-review" target="_blank">HP ZBook Ultra G1a review: a business-class workstation that’s got game</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-12 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/698d02942cc0805afea11c19/master/pass/kindle-scribe-colorsoft-new-home-screen.jpg" alt="Alexa+ and Kindle Scribe Now Work Together With ‘Send to Alexa’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +163,47 @@
                 <span class="time">2026-02-12 00:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1323776508-500x500.jpg" alt="Trump orders the military to make agreements with coal power plants" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/02/trumps-latest-plan-to-revive-coal-power-make-the-military-buy-it/" target="_blank">Trump orders the military to make agreements with coal power plants</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-12 00:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1323776508-500x500.jpg" alt="Trump&#x27;s latest plan to revive coal power: Make the military buy it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/02/trumps-latest-plan-to-revive-coal-power-make-the-military-buy-it/" target="_blank">Trump&#x27;s latest plan to revive coal power: Make the military buy it</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-12 00:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sonu0702/use-copilot-cli-to-increase-developer-productivity-5207" target="_blank">Use Copilot CLI to increase developer productivity</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-12 12:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/matplotlib/matplotlib/pull/31132" target="_blank">AI agent opens a PR write a blogpost to shames the maintainer who closes it</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-12 11:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/linux-mint-longer-release-cycle/" target="_blank">Linux Mint Wants Fewer Releases Each Year (For Good Reasons)</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-12 11:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/create-impactful-teams-diversity/en/headerimage/generatedHeaderImage-1770636528408.jpg" alt="Creating Impactful Teams through Diversity Using Session 0" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/create-impactful-teams-diversity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Creating Impactful Teams through Diversity Using Session 0</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-12 11:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fon0z0cu3u06ytbz4rl8h.png" alt="GIT AND GITHUB 101" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -185,47 +222,20 @@
                 <span class="time">2026-02-12 10:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anandvikkath/linux-prompt-29i0" target="_blank">Linux Prompt</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-12 10:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zealchou/why-your-ai-doesnt-remember-you-and-why-that-matters-1450" target="_blank">Why Your AI Doesn&#x27;t Remember You — And Why That Matters</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-12 05:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/tonyyont/peon-ping" target="_blank">Warcraft III Peon Voice Notifications for Claude Code</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-12 05:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc1njl7xtkp7znffkhyr4.png" alt="Playwright Codegen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/inacio88/playwright-codegen-1jb3" target="_blank">Playwright Codegen</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-12 04:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/3d-printer-surveillance.html" target="_blank">3D Printer Surveillance</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-02-12 12:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -244,20 +254,20 @@
                 <span class="time">2026-02-11 14:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/prompt-injection-via-road-signs.html" target="_blank">Prompt Injection Via Road Signs</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-11 12:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/predator-badlands-dek-thia-1280x853.jpg" alt="UK Ad Group Chides Disney for ‘Predator: Badlands’ Ad With Severed Robo-Body" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/uk-ad-group-chides-disney-for-predator-badlands-ad-with-severed-robo-body-2000720654" target="_blank">UK Ad Group Chides Disney for ‘Predator: Badlands’ Ad With Severed Robo-Body</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-12 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/whatsapp-1280x853.jpg" alt="WhatsApp Basically Wiped from Russian Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -303,15 +313,6 @@
                 <span class="time">2026-02-11 23:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/highguard-1280x720.jpg" alt="Highguard Studio Hit With Layoffs Weeks After Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/highguard-studio-developer-layoffs-wildlight-entertainment-2000667841" target="_blank">Highguard Studio Hit With Layoffs Weeks After Launch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-11 23:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -340,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 11:14 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 12:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
