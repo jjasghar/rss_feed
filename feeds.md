@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-12 21:06:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-12 22:05:04 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, February 12, 2026 - 21:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, February 12, 2026 - 22:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/12/nx-s1-5712749/chloe-kim-snowboard-medal-gaon-choi-olympics" target="_blank">Winter Olympic shocker: American Chloe Kim falls short of halfpipe gold three-peat</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-12 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/12/us-urges-europe-to-take-the-lead-on-defence-in-nato?traffic_source=rss" target="_blank">US urges Europe to take the lead on defence in NATO</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-12 21:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb9f/live/604a8500-0848-11f1-b5e2-dd58fc65f0f6.jpg" alt="Trump revokes landmark ruling that greenhouse gases endanger public health" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,24 +95,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: Gloves among &#x27;several items of evidence&#x27; recovered</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-12 19:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/12/nx-s1-5712542/federal-judge-orders-return-of-venezuelan-migrants-deported-to-el-salvador-under-alien-enemies-act" target="_blank">Federal judge orders return of Venezuelan migrants deported to El Salvador under Alien Enemies Act</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-12 19:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2021-11/211101-louisiana-refinery-ew-640p-5155df.jpg" alt="EPA reverses long-standing climate change finding, stripping its own ability to regulate emissions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/science/climate-change/epa-reverses-endangerment-climate-change-finding-rcna258452" target="_blank">EPA reverses long-standing climate change finding, stripping its own ability to regulate emissions</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-12 18:45</span>
             </div>
         </div>
 </div>
@@ -168,12 +162,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwy0761clxp3oui065po4.png" alt="Built a Vibe Coded App where you can Style any Image you like! :D" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p" target="_blank">Built a Vibe Coded App where you can Style any Image you like! :D</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-12 21:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd3cuj46lv8shekqqp1er.png" alt="⏱️ The Weekend Speedrun: Building the &quot;Awesome Copilot Guide&quot; with my AI Terminal Sidekick" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mouadbourbian/the-weekend-speedrun-building-the-awesome-copilot-guide-with-my-ai-terminal-sidekick-39m0" target="_blank">⏱️ The Weekend Speedrun: Building the &quot;Awesome Copilot Guide&quot; with my AI Terminal Sidekick</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-12 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/maintainers/welcome-to-the-eternal-september-of-open-source-heres-what-we-plan-to-do-for-maintainers/" target="_blank">Welcome to the Eternal September of open source. Here’s what we plan to do for maintainers.</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-02-12 20:14</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +215,6 @@
                 <span class="time">2026-02-12 19:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-RadeonSI-RADV-Video-Unified" target="_blank">AMD Video Decode Now Unified Between RadeonSI &amp; RADV Vulkan Video</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-12 18:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openai.com/index/introducing-gpt-5-3-codex-spark/" target="_blank">GPT‑5.3‑Codex‑Spark</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-12 18:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/afflecktiredviralai-1280x720.jpg" alt="Viral Post Comparing Covid To AI Comes From Same Dude Pushing Ugly AI Game Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-viral-ai-slop-post-was-made-by-same-guy-from-the-viral-ai-slop-game-2000668276" target="_blank">Viral Post Comparing Covid To AI Comes From Same Dude Pushing Ugly AI Game Slop</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-12 21:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KBZW51YD9RTK9TT6NWP3RZ28/hero-image.png" alt="Apple and Google Just Made It Easier to Switch Between iPhone and Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +288,6 @@
                 <span class="time">2026-02-12 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/AST-Mobile-BlueBird-6-Array-1280x861.jpg" alt="AST SpaceMobile Unfolds the Largest Commercial Communications Array Antenna in Low Earth Orbit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ast-spacemobile-unfolds-the-largest-commercial-communications-array-antenna-in-low-earth-orbit-2000721010" target="_blank">AST SpaceMobile Unfolds the Largest Commercial Communications Array Antenna in Low Earth Orbit</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-12 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 281 |
-        🔄 Last Updated: 21:06 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 22:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
