@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-12 01:31:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-12 02:58:26 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, February 12, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, February 12, 2026 - 02:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/12/russia-to-evacuate-tourists-from-cuba-amid-us-engineered-fuel-crisis?traffic_source=rss" target="_blank">Russia to evacuate tourists from Cuba amid US-engineered fuel crisis</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-12 02:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +99,20 @@
                 <span class="time">2026-02-11 21:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/james-van-der-beek-2-gty-jef-260211_1770838625801_hpMain_4x3t_384.jpg" alt="&#x27;Dawson&#x27;s Creek&#x27; star James Van Der Beek dies at age 48" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/GMA/News/dawsons-creek-star-james-van-der-beek-dies/story?id=116951587" target="_blank">&#x27;Dawson&#x27;s Creek&#x27; star James Van Der Beek dies at age 48</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-11 20:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/877674/highguard-wildlight-entertainment-layoffs" target="_blank">Highguard’s developer reportedly lays off ‘most’ of its staff just over two weeks after launch</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-12 00:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1323776508-500x500.jpg" alt="Trump orders the military to make agreements with coal power plants" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +158,20 @@
                 <span class="time">2026-02-11 22:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698bcacf1cd27f239f17a259/master/pass/monje.jpg" alt="Study of Buddhist Monks Finds Meditation Alters Brain Activity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/study-of-buddhist-monks-finds-meditation-alters-brain-activity/" target="_blank">Study of Buddhist Monks Finds Meditation Alters Brain Activity</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-11 22:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Graphics-Drivers" target="_blank">Linux 7.0 Graphics Drivers See New AMD Hardware, Intel Xe SR-IOV + Multi-Device SVM</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-12 01:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +217,6 @@
                 <span class="time">2026-02-11 21:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18877591&w=600" alt="Jakarta EE 12 M2: Entering the Data Age of Enterprise Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/jakarta-ee-12-m2-enterprise-java-data" target="_blank">Jakarta EE 12 M2: Entering the Data Age of Enterprise Java</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-11 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -252,6 +254,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/pam_bondi.jpg?fit=1200%2C772&amp;quality=60&amp;ssl=1" alt="Congressperson tells Pam Bondi he believes she is lying to Congress" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/11/congressperson-tells-pam-bondi-he-believes-she-is-lying-to-congress.html" target="_blank">Congressperson tells Pam Bondi he believes she is lying to Congress</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-12 00:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/oatly.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="UK Supreme Court: oat milk can&#x27;t be called milk" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -297,15 +308,6 @@
                 <span class="time">2026-02-11 21:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/rabbids.jpg" alt="Ubisoft Devs Dance While Striking: ‘Yves Guillemot Has No Knowledge Or Understanding Of His Company’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ubisoft-strike-assassins-creed-delay-cancel-rto-layoffs-2000667820" target="_blank">Ubisoft Devs Dance While Striking: ‘Yves Guillemot Has No Knowledge Or Understanding Of His Company’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-11 21:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -339,12 +341,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="http://www.questionablecontent.net/comics/5763.png" alt="The Price Of Progress" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://imgs.xkcd.com/comics/installation.png" alt="Installation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5763" target="_blank">The Price Of Progress</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-02-11 02:02</span>
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3206/" target="_blank">Installation</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-02-11 05:00</span>
             </div>
         </div>
 </div>
@@ -352,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 02:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
