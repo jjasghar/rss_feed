@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-12 17:19:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-12 18:14:29 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, February 12, 2026 - 17:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, February 12, 2026 - 18:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/12/nx-s1-5707478/olympics-pain-exercise-joints" target="_blank">Olympic athletes push their bodies to the limit. Should we?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-12 17:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a03/live/13449f00-0831-11f1-9972-d3f265c101c6.jpg" alt="&#x27;Utterly wicked&#x27; nursery abuser jailed for 18 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crl4np670llo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Utterly wicked&#x27; nursery abuser jailed for 18 years</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-12 17:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/2/12/live-atletico-madrid-vs-barcelona-copa-del-rey-semifinal-first-leg?traffic_source=rss" target="_blank">LIVE: Atletico Madrid vs Barcelona – Copa del Rey, semifinal first leg</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-12 17:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,33 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c2lr9w29zwyo?at_medium=RSS&at_campaign=rss" target="_blank">Minnesota immigration enforcement surge is ending, Trump border tsar says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-12 15:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/12/nx-s1-5712253/u-s-cross-country-star-jessie-diggins-claims-bronze-medaling-in-third-straight-olympics" target="_blank">U.S. cross-country star Jessie Diggins claims bronze, medaling in third straight Olympics</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-12 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/homan-main_1770885685619_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Minneapolis surge ending, Homan says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-alex-pretti-shooting-death-immigration/?id=129787621" target="_blank">Minneapolis live updates: Minneapolis surge ending, Homan says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-12 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/12/syrian-army-takes-control-of-al-tanf-military-base-as-us-troops-pull-out?traffic_source=rss" target="_blank">Syrian army takes control of al-Tanf military base as US troops pull out</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-12 13:26</span>
             </div>
         </div>
 </div>
@@ -164,6 +168,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mrakdon/why-you-should-stop-using-ai-for-coding-5aci" target="_blank">Why You Should Stop Using AI for Coding</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-12 18:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-SPARC-Alpha-m68k" target="_blank">SPARC &amp; Alpha CPU Ports Still Seeing Activity In 2026 With Linux 7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-12 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2026/02/12/how-everyone-and-anyone-can-use-ai-for-good/" target="_blank">How everyone and anyone can use AI for good</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -197,24 +219,6 @@
                 <span class="time">2026-02-12 15:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/02/ubuntu-24044-released.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 24.04.4 LTS Released with Linux 6.17 + Mesa 25.2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/ubuntu-24-04-4-lts-released" target="_blank">Ubuntu 24.04.4 LTS Released with Linux 6.17 + Mesa 25.2</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-12 15:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.youtube.com/watch?v=H2yfXnUb1S4" target="_blank">Don&#x27;t Do This (2013)</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-02-12 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +238,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/rich-people-mansions-1280x720.jpg" alt="Rich People Are Turning Their Homes Into Hitman Levels With Armed Guards, Lasers, And Moats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/rich-people-are-turning-their-homes-into-hitman-levels-with-armed-guards-lasers-and-moats-2000668241" target="_blank">Rich People Are Turning Their Homes Into Hitman Levels With Armed Guards, Lasers, And Moats</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-12 18:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/quick.jpg?fit=1200%2C908&amp;quality=60&amp;ssl=1" alt="An AI agent published a hit piece on the developer who rejected it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/12/an-ai-agent-published-a-hit-piece-on-the-developer-who-rejected-it.html" target="_blank">An AI agent published a hit piece on the developer who rejected it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-12 17:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KH9965D6PKXGX3AGXWYMVRCJ/hero-image.jpg" alt="Apple&#x27;s Big AI Siri Plans Are Once Again Delayed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apples-big-ai-siri-plans-are-once-again-delayed?utm_medium=RSS" target="_blank">Apple&#x27;s Big AI Siri Plans Are Once Again Delayed</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-12 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/AST-Mobile-BlueBird-6-Array-1280x861.jpg" alt="AST SpaceMobile Unfolds the Largest Commercial Communications Array Antenna in Low Earth Orbit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,33 +292,6 @@
                 <span class="time">2026-02-12 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KH4VNDPMV1RN3JEVQ4YTSPXQ/hero-image.png" alt="AI Chatbots Are Even Worse at Giving Medical Advice Than We Thought" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/ai-chatbots-are-even-worse-at-medical-advice-than-we-thought?utm_medium=RSS" target="_blank">AI Chatbots Are Even Worse at Giving Medical Advice Than We Thought</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-12 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/MS-0212-spider-man-no-way-home-iron-spider-1280x853.jpg" alt="‘Spider-Man: Brand New Day’ Could Bring Back Even More Familiar Faces" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spider-man-brand-new-day-j-jonah-jameson-betty-brant-daily-bugle-2000720849" target="_blank">‘Spider-Man: Brand New Day’ Could Bring Back Even More Familiar Faces</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-12 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/cristol-1280x720.jpg" alt="Crisol: Theater of Idols Is A Tremendously Spanish Affair, and A Halfway Decent Survival Horror Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/crisol-theater-idols-review-steam-horror-shooter-spanish-2000667876" target="_blank">Crisol: Theater of Idols Is A Tremendously Spanish Affair, and A Halfway Decent Survival Horror Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-12 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -307,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 17:19 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 18:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
