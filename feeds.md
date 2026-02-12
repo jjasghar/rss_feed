@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-12 19:21:39 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-12 20:05:52 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, February 12, 2026 - 19:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, February 12, 2026 - 20:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/12/cctv-video-captures-moment-sinkhole-swallows-road-in-shanghai?traffic_source=rss" target="_blank">CCTV video captures moment sinkhole swallows road in Shanghai</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-12 19:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: Gloves among &#x27;several items of evidence&#x27; recovered" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +98,20 @@
                 <span class="time">2026-02-12 17:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/2/12/live-atletico-madrid-vs-barcelona-copa-del-rey-semifinal-first-leg?traffic_source=rss" target="_blank">LIVE: Atletico Madrid vs Barcelona – Copa del Rey, semifinal first leg</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-12 17:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/877371/trump-carbon-pollution-endangerment-finding-repeal-climate-change" target="_blank">In one swoop, Trump kills US greenhouse gas regulations</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-12 19:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +155,6 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/us-consumers-business-pay-90-of-tariff-costs-says-federal-reserve/" target="_blank">US consumers, business pay 90% of tariff costs, says Federal Reserve</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-02-12 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/12/apple-acquires-all-rights-to-severance-will-produce-future-seasons-in-house/" target="_blank">Apple acquires all rights to ‘Severance,’ will produce future seasons in-house</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-12 15:34</span>
             </div>
         </div>
 </div>
@@ -238,6 +236,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBZW51YD9RTK9TT6NWP3RZ28/hero-image.png" alt="Apple and Google Just Made It Easier to Switch Between iPhone and Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-and-google-just-made-it-easier-to-switch-between-iphone-and-android?utm_medium=RSS" target="_blank">Apple and Google Just Made It Easier to Switch Between iPhone and Android</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-12 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/rfk-jr.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Even Grok thinks RFK Jr.&#x27;s diet is a bad idea" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -282,15 +289,6 @@
                 <span class="time">2026-02-12 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/knight-of-the-seven-kingdoms-dunk-puppet-1280x853.jpg" alt="‘Knight of the Seven Kingdoms’ Cut the Best Line From the Book on Accident" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/knight-of-the-seven-kingdoms-game-of-thrones-best-line-cut-2000721061" target="_blank">‘Knight of the Seven Kingdoms’ Cut the Best Line From the Book on Accident</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-12 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,13 +303,22 @@
                 <span class="time">2026-02-12 16:44</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1770877498-20260212_edit.png" alt="Saturday Morning Breakfast Cereal - Wife" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/wife-2" target="_blank">Saturday Morning Breakfast Cereal - Wife</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-02-12 16:20</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 19:21 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 281 |
+        🔄 Last Updated: 20:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
