@@ -1,29 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-02-12 08:09:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-12 09:14:08 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 20 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 1 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, February 12, 2026 - 08:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, February 12, 2026 - 09:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eaa/live/17eb7b90-0751-11f1-b5e2-dd58fc65f0f6.png" alt="They met while pregnant but their babies never came home - maternity failings at NHS trust" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckg2n644l44o?at_medium=RSS&at_campaign=rss" target="_blank">They met while pregnant but their babies never came home - maternity failings at NHS trust</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-12 06:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/pam-bondi-9-gty-gmh-260211_1770825261636_hpMain_4x3t_384.jpg" alt="Bondi says Ghislaine Maxwell &#x27;will hopefully die in prison&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,15 +92,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/11/nx-s1-5711198/madison-chock-evan-bates-ice-dance-olympics-france" target="_blank">U.S. ice dancers Madison Chock and Evan Bates win Olympic silver, in a stunning upset</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-12 00:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1cf/live/5f7a6700-0788-11f1-b2b9-0593a020cf50.jpg" alt="Police identify 18-year-old as suspect in Tumbler Ridge shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce8w95knp55o?at_medium=RSS&at_campaign=rss" target="_blank">Police identify 18-year-old as suspect in Tumbler Ridge shooting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-11 23:04</span>
             </div>
         </div>
 </div>
@@ -330,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 08:09 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 09:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
