@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-12 10:13:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-12 11:14:00 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, February 12, 2026 - 10:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, February 12, 2026 - 11:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2026/2/12/can-the-us-challenge-chinas-dominance-in-critical-minerals?traffic_source=rss" target="_blank">Can the US challenge China’s dominance in critical minerals?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-12 10:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eaa/live/17eb7b90-0751-11f1-b5e2-dd58fc65f0f6.png" alt="They met while pregnant but their babies never came home - maternity failings at NHS trust" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +103,20 @@
                 <span class="time">2026-02-12 02:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/11/nx-s1-5711198/madison-chock-evan-bates-ice-dance-olympics-france" target="_blank">U.S. ice dancers Madison Chock and Evan Bates win Olympic silver, in a stunning upset</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-12 00:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/698d02942cc0805afea11c19/master/pass/kindle-scribe-colorsoft-new-home-screen.jpg" alt="Alexa+ and Kindle Scribe Now Work Together With ‘Send to Alexa’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/send-to-alexa-kindle-scribe/" target="_blank">Alexa+ and Kindle Scribe Now Work Together With ‘Send to Alexa’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-12 11:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68d433f6f60ab0ab6a5799dc/master/pass/The%20Best%20Bed%20Frames%20We%E2%80%99ve%20Slept%20On.png" alt="15 Best Bed Frames (2026), Tested in Our Homes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +162,29 @@
                 <span class="time">2026-02-12 00:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/" target="_blank">xAI lays out interplanetary ambitions in public all-hands</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-11 23:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fon0z0cu3u06ytbz4rl8h.png" alt="GIT AND GITHUB 101" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mordecai_mokua_567625df0b/git-and-github-101-2dpd" target="_blank">GIT AND GITHUB 101</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-12 11:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/whatsapp-rust-media-malware/en/headerimage/generatedHeaderImage-1770384331851.jpg" alt="WhatsApp Deploys Rust-Based Media Parser to Block Malware on 3 Billion Devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/whatsapp-rust-media-malware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">WhatsApp Deploys Rust-Based Media Parser to Block Malware on 3 Billion Devices</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-12 10:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/inacio88/playwright-codegen-1jb3" target="_blank">Playwright Codegen</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-12 04:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Graphics-Drivers" target="_blank">Linux 7.0 Graphics Drivers See New AMD Hardware, Intel Xe SR-IOV + Multi-Device SVM</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-12 01:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/building-bridges-european-digital-sovereignty" target="_blank">Building bridges to European Digital Sovereignty</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-02-12 00:00</span>
             </div>
         </div>
 </div>
@@ -255,6 +258,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/whatsapp-1280x853.jpg" alt="WhatsApp Basically Wiped from Russian Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/whatsapp-basically-wiped-from-russian-internet-2000720488" target="_blank">WhatsApp Basically Wiped from Russian Internet</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-12 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/siri-1280x823.jpg" alt="Long Delayed Siri Functions Are Reportedly Being Delayed Once Again Because They’re Slow and Inaccurate" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -300,15 +312,6 @@
                 <span class="time">2026-02-11 23:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KH7A5JFYZZTP9BVTRZ5KRK3A/hero-image.jpg" alt="The Telegram App Has a New Look, and a Weird New Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/telegram-has-a-new-look-and-some-new-features?utm_medium=RSS" target="_blank">The Telegram App Has a New Look, and a Weird New Feature</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-11 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -337,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 10:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 11:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
