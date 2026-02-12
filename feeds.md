@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-12 22:05:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-12 23:04:59 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, February 12, 2026 - 22:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, February 12, 2026 - 23:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/12/nx-s1-5712771/children-mental-health-diagnoses-often-incarcerated-treatment" target="_blank">Report finds children with mental health diagnoses often incarcerated instead of getting treatment</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-12 22:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +104,29 @@
                 <span class="time">2026-02-12 19:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: Gloves among &#x27;several items of evidence&#x27; recovered" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: Gloves among &#x27;several items of evidence&#x27; recovered</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-12 19:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2225076517_resize-500x500.jpg" alt="OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/" target="_blank">OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-12 22:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/698d17a4fbe49e3e4a648a71/master/pass/Uncanny-Valley-Ice-Expansion-2235818079.jpg" alt="‘Uncanny Valley’: ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-ice-expansion-palantir-workers-ethical-concerns-openclaw-ai-assistants/" target="_blank">‘Uncanny Valley’: ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-12 22:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/698e2530d6bc30e8fe7c7cd8/master/pass/gear-waymo-dc-2219855633.jpg" alt="Waymo Asks the DC Public to Pressure Their City Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,24 +161,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/02/can-modern-genetics-help-us-restore-the-appalachian-forests-of-the-1800s/" target="_blank">Bringing the &quot;functionally extinct&quot; American chestnut back from the dead</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-02-12 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698b7a2dfdd5c91c3b17ca7c/master/pass/Model-Behavior-Why-OpenAIs-Greg-Brockman-Went-All-In-on-Trump-Business.jpg" alt="OpenAI’s President Gave Millions to Trump. He Says It’s for Humanity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-president-greg-brockman-political-donations-trump-humanity/" target="_blank">OpenAI’s President Gave Millions to Trump. He Says It’s for Humanity</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-12 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Screen-Shot-2026-01-08-at-2.50.34-PM-500x500.png" alt="RFK Jr. food pyramid site links to Grok, which says you shouldn’t trust RFK Jr." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/02/rfk-jr-food-pyramid-site-links-to-grok-which-says-you-shouldnt-trust-rfk-jr/" target="_blank">RFK Jr. food pyramid site links to Grok, which says you shouldn’t trust RFK Jr.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-12 16:44</span>
             </div>
         </div>
 </div>
@@ -316,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 22:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 23:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
