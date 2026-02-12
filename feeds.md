@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-12 00:06:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-12 01:31:10 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, February 12, 2026 - 00:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, February 12, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/11/nx-s1-5711198/madison-chock-evan-bates-ice-dance-olympics-france" target="_blank">U.S. ice dancers Madison Chock and Evan Bates win Olympic silver, in a stunning upset</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-12 00:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1cf/live/5f7a6700-0788-11f1-b2b9-0593a020cf50.jpg" alt="Police identify 18-year-old as suspect in Tumbler Ridge shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce8w95knp55o?at_medium=RSS&at_campaign=rss" target="_blank">Police identify 18-year-old as suspect in Tumbler Ridge shooting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-11 23:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/694d/live/d76b6120-079b-11f1-9972-d3f265c101c6.jpg" alt="PM tells Sir Jim Ratcliffe to apologise for saying &#x27;UK has been colonised&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +97,20 @@
                 <span class="time">2026-02-11 20:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="Nancy Guthrie case live updates: Man who was detained was under surveillance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie case live updates: Man who was detained was under surveillance</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-11 20:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/11/nx-s1-5711294/trump-jan-6-pardons-child-sex-abuse" target="_blank">A Jan. 6 rioter pardoned by Trump was convicted of sexually abusing children</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-11 19:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1323776508-500x500.jpg" alt="Trump orders the military to make agreements with coal power plants" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/02/trumps-latest-plan-to-revive-coal-power-make-the-military-buy-it/" target="_blank">Trump orders the military to make agreements with coal power plants</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-12 00:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1323776508-500x500.jpg" alt="Trump&#x27;s latest plan to revive coal power: Make the military buy it" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,15 +156,6 @@
                 <span class="time">2026-02-11 22:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/tinney_byte_hearder_2-500x500.jpg" alt="Byte magazine artist Robert Tinney, who illustrated the birth of PCs, dies at 78" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/" target="_blank">Byte magazine artist Robert Tinney, who illustrated the birth of PCs, dies at 78</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-11 21:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -177,12 +171,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-january-2026/" target="_blank">GitHub availability report: January 2026</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-02-11 23:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0uf6tp1hyka54mihvdmn.png" alt="Conversational Development With Claude Code — Part 7: Designing Sub‑Agents for Planning (Meet **@architect**)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-7-designing-sub-agents-for-planning-meet-1nlk" target="_blank">Conversational Development With Claude Code — Part 7: Designing Sub‑Agents for Planning (Meet **@architect**)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-11 23:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-No-MMC-Changes" target="_blank">Linus Torvalds Rejects MMC Changes For Linux 7.0 Cycle: &quot;Complete Garbage&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-11 22:33</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +213,6 @@
                 <span class="title"><a href="https://dzone.com/articles/jakarta-ee-12-m2-enterprise-java-data" target="_blank">Jakarta EE 12 M2: Entering the Data Age of Enterprise Java</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-11 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/programmingcentral/why-your-c-ai-agents-will-fail-in-production-and-how-to-fix-it-c3" target="_blank">Why Your C# AI Agents Will Fail in Production (And How to Fix It)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-11 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4" target="_blank">The risk of a hothouse Earth trajectory</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-11 19:25</span>
             </div>
         </div>
 </div>
@@ -268,6 +262,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/highguard-1280x720.jpg" alt="Highguard In Trouble After Most Of The Studio Laid Off Just Weeks After Launch [Update]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/highguard-studio-developer-layoffs-wildlight-entertainment-2000667841" target="_blank">Highguard In Trouble After Most Of The Studio Laid Off Just Weeks After Launch [Update]</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-11 23:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/highguard-1280x720.jpg" alt="Highguard Studio Hit With Layoffs Weeks After Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -301,15 +304,6 @@
                 <span class="title"><a href="https://kotaku.com/ubisoft-strike-assassins-creed-delay-cancel-rto-layoffs-2000667820" target="_blank">Ubisoft Devs Dance While Striking: ‘Yves Guillemot Has No Knowledge Or Understanding Of His Company’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-11 21:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/credit-card.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Europe builds its own payment network, ditches Visa" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/11/europe-builds-its-own-payment-network-ditches-visa.html" target="_blank">Europe builds its own payment network, ditches Visa</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-11 19:09</span>
             </div>
         </div>
 </div>
@@ -358,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 00:06 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
