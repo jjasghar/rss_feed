@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-12 03:56:58 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-12 04:42:20 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, February 12, 2026 - 03:57 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, February 12, 2026 - 04:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/12/three-children-killed-in-drone-strike-on-mosque-in-central-sudan-doctors?traffic_source=rss" target="_blank">Three children killed in drone strike on mosque in central Sudan: Doctors</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-12 03:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770864711729_now_topstory_scott_hamilton_figure_skating_260211_1920x1080-h18zd2.jpg" alt="Former Olympian Scott Hamilton talks Team USA wins in skating" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/ckglv1n4dzeo?at_medium=RSS&at_campaign=rss" target="_blank">PM tells Sir Jim Ratcliffe to apologise for saying &#x27;UK has been colonised&#x27;</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-11 22:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/11/struggling-to-get-by-behind-the-us-underemployment-crisis?traffic_source=rss" target="_blank">Struggling to get by: Behind the US underemployment crisis</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-11 21:31</span>
             </div>
         </div>
 </div>
@@ -167,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc1njl7xtkp7znffkhyr4.png" alt="Playwright Codegen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/inacio88/playwright-codegen-1jb3" target="_blank">Playwright Codegen</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-12 04:27</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -209,15 +215,6 @@
                 <span class="title"><a href="https://age-verifier.kibty.town/" target="_blank">Discord/Twitch/Snapchat age verification bypass</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-11 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-No-MMC-Changes" target="_blank">Linus Torvalds Rejects MMC Changes For Linux 7.0 Cycle: &quot;Complete Garbage&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-11 22:33</span>
             </div>
         </div>
 </div>
@@ -357,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 03:57 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 04:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
