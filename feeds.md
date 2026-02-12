@@ -1,32 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-02-12 07:20:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-12 08:09:27 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 24 feeds processed -->
+<!-- Generated 2 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, February 12, 2026 - 07:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, February 12, 2026 - 08:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/pam-bondi-9-gty-gmh-260211_1770825261636_hpMain_4x3t_384.jpg" alt="Bondi says Ghislaine Maxwell &#x27;will hopefully die in prison&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/bondi-ghislaine-maxwell-die-prison/story?id=130077267" target="_blank">Bondi says Ghislaine Maxwell &#x27;will hopefully die in prison&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-12 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +91,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/ce8w95knp55o?at_medium=RSS&at_campaign=rss" target="_blank">Police identify 18-year-old as suspect in Tumbler Ridge shooting</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-11 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/694d/live/d76b6120-079b-11f1-9972-d3f265c101c6.jpg" alt="PM tells Sir Jim Ratcliffe to apologise for saying &#x27;UK has been colonised&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckglv1n4dzeo?at_medium=RSS&at_campaign=rss" target="_blank">PM tells Sir Jim Ratcliffe to apologise for saying &#x27;UK has been colonised&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-11 22:37</span>
             </div>
         </div>
 </div>
@@ -170,6 +167,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/tonyyont/peon-ping" target="_blank">Warcraft III Peon Voice Notifications for Claude Code</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-12 05:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc1njl7xtkp7znffkhyr4.png" alt="Playwright Codegen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +209,6 @@
                 <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-january-2026/" target="_blank">GitHub availability report: January 2026</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-02-11 23:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0uf6tp1hyka54mihvdmn.png" alt="Conversational Development With Claude Code — Part 7: Designing Sub‑Agents for Planning (Meet **@architect**)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-7-designing-sub-agents-for-planning-meet-1nlk" target="_blank">Conversational Development With Claude Code — Part 7: Designing Sub‑Agents for Planning (Meet **@architect**)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-11 23:02</span>
             </div>
         </div>
 </div>
@@ -328,22 +325,13 @@
                 <span class="time">2026-02-11 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/02/11/the-mark-of-donalds" target="_blank">The Mark Of Donalds</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-02-11 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 07:20 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 08:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
