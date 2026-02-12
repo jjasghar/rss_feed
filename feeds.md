@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-12 09:14:08 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-12 10:13:43 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 1 new posts out of 21 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, February 12, 2026 - 09:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, February 12, 2026 - 10:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -100,6 +106,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/68d433f6f60ab0ab6a5799dc/master/pass/The%20Best%20Bed%20Frames%20We%E2%80%99ve%20Slept%20On.png" alt="15 Best Bed Frames (2026), Tested in Our Homes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-bed-frames/" target="_blank">15 Best Bed Frames (2026), Tested in Our Homes</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-12 10:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/KSC-20211027-PH-SPX02_0003orig-500x500.jpg" alt="SpaceX takes down Dragon crew arm, giving Starship a leg up in Florida" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -144,20 +159,20 @@
                 <span class="time">2026-02-11 23:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger" target="_blank">Two more xAI co-founders are among those leaving after the SpaceX merger</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-11 23:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anandvikkath/linux-prompt-29i0" target="_blank">Linux Prompt</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-12 10:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,15 +216,6 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-bridges-european-digital-sovereignty" target="_blank">Building bridges to European Digital Sovereignty</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-02-12 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-january-2026/" target="_blank">GitHub availability report: January 2026</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-02-11 23:12</span>
             </div>
         </div>
 </div>
@@ -331,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 09:14 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 10:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
