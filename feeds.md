@@ -1,33 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-02-12 14:17:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-12 15:14:55 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 14 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, February 12, 2026 - 14:18 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, February 12, 2026 - 15:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/homan-main_1770885685619_hpMain_4x3t_384.jpg" alt="Minneapolis live updates: Minneapolis surge ending, Homan says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/minneapolis-alex-pretti-shooting-death-immigration/?id=129787621" target="_blank">Minneapolis live updates: Minneapolis surge ending, Homan says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-12 14:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,6 +91,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770899404521_tdy_news_7a_welker_delcy_rodriguez_260212_1920x1080-1nbbcq.jpg" alt="Delcy Rodríguez Talks Future of Venezuela in NBC Interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/maduro-is-legitimate-president-of-venezuela-delcy-rodriguez-257574469686" target="_blank">Delcy Rodríguez Talks Future of Venezuela in NBC Interview</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-12 12:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -79,29 +108,20 @@
                 <span class="time">2026-02-12 11:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-bangladesh-vote_7163054.jpg?20260212112909" alt="An era-defining election for the country where Gen Z toppled an autocrat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/an-era-defining-election-for-bangladesh-where-gen-z-toppled-an-autocrat-13506682" target="_blank">An era-defining election for the country where Gen Z toppled an autocrat</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-12 11:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2026/2/12/can-the-us-challenge-chinas-dominance-in-critical-minerals?traffic_source=rss" target="_blank">Can the US challenge China’s dominance in critical minerals?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-12 10:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/12/us-ftc-airs-concerns-over-allegations-that-apple-suppresses-right-wing-content-on-apple-news/" target="_blank">US FTC airs concerns over allegations that Apple News suppresses right-wing content</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-12 14:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6849a33ef3e19a5bab3da558/master/pass/Sony%20Bravia%208%20II%20OLED%20TV%20Review_.png" alt="How to Choose the Right TV in 2026 (and a Few We Like)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -118,6 +138,15 @@
                 <span class="title"><a href="https://www.wired.com/story/crypto-funded-human-trafficking-is-exploding/" target="_blank">Crypto-Funded Human Trafficking Is Exploding</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-12 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/google-automate-windups-500x500.jpg" alt="We let Chrome&#x27;s Auto Browse agent surf the web for us—here&#x27;s what happened" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2026/02/tested-how-chromes-auto-browse-agent-handles-common-web-tasks/" target="_blank">We let Chrome&#x27;s Auto Browse agent surf the web for us—here&#x27;s what happened</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-12 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -138,24 +167,6 @@
                 <span class="time">2026-02-12 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698d02942cc0805afea11c19/master/pass/kindle-scribe-colorsoft-new-home-screen.jpg" alt="Alexa+ and Kindle Scribe Now Work Together With ‘Send to Alexa’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/send-to-alexa-kindle-scribe/" target="_blank">Alexa+ and Kindle Scribe Now Work Together With ‘Send to Alexa’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-12 11:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d433f6f60ab0ab6a5799dc/master/pass/The%20Best%20Bed%20Frames%20We%E2%80%99ve%20Slept%20On.png" alt="15 Best Bed Frames (2026), Tested in Our Homes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-bed-frames/" target="_blank">15 Best Bed Frames (2026), Tested in Our Homes</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-12 10:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,46 +184,46 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pockit_tools/llm-structured-output-in-2026-stop-parsing-json-with-regex-and-do-it-right-34pk" target="_blank">LLM Structured Output in 2026: Stop Parsing JSON with Regex and Do It Right</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-12 14:10</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.youtube.com/watch?v=H2yfXnUb1S4" target="_blank">Don&#x27;t Do This (2013)</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-02-12 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="OpenAI Scales Single Primary Postgresql to Millions of Queries per Second for ChatGPT" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/openai-runs-chatgpt-postgres/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Scales Single Primary Postgresql to Millions of Queries per Second for ChatGPT</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-12 15:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/when-an-upstream-change-broke-smartcard-fips-authentication-and-how-we-fixed-it" target="_blank">When an upstream change broke smartcard FIPS authentication – and how we fixed it</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-02-12 13:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Perf-Events" target="_blank">Linux 7.0 Performance Events Prep For Intel Xeon Diamond Rapids</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-12 13:15</span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-26-07/" target="_blank">FOSS Weekly #26.07: Kernel 6.19, AI for Real Sysadmin Works, Arch Apps on Ubuntu and More Linux Stuff</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-12 14:59</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/" target="_blank">The &quot;Crown of Nobles&quot; Noble Gas Tube Display</a></span>
+                <span class="title"><a href="https://atha.io/blog/2026-02-12-viva" target="_blank">Email is tough: Major European Payment Processor&#x27;s Emails aren&#x27;t RFC-Compliant</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-02-12 12:23</span>
+                <span class="time">2026-02-12 14:24</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sonu0702/use-copilot-cli-to-increase-developer-productivity-5207" target="_blank">Use Copilot CLI to increase developer productivity</a></span>
+                <span class="title"><a href="https://dev.to/pockit_tools/llm-structured-output-in-2026-stop-parsing-json-with-regex-and-do-it-right-34pk" target="_blank">LLM Structured Output in 2026: Stop Parsing JSON with Regex and Do It Right</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-02-12 12:06</span>
+                <span class="time">2026-02-12 14:10</span>
             </div>
         </div>
 </div>
@@ -238,20 +249,38 @@
                 <span class="time">2026-02-11 16:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html" target="_blank">Rewiring Democracy Ebook is on Sale</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-11 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/knight-of-the-seven-kingdoms-dunk-puppet-1280x853.jpg" alt="‘Knight of the Seven Kingdoms’ Cut the Best Line From the Book on Accident" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/knight-of-the-seven-kingdoms-game-of-thrones-best-line-cut-2000721061" target="_blank">‘Knight of the Seven Kingdoms’ Cut the Best Line From the Book on Accident</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-12 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/Screenshot-2026-02-12-095014-1280x725.jpg" alt="Mewgenics Has Its Own Resetti Who Will Destroy Your Run If You Save Scum" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mewgenics-reset-save-scum-cheat-easter-egg-steven-resetti-binding-of-isaac-2000668196" target="_blank">Mewgenics Has Its Own Resetti Who Will Destroy Your Run If You Save Scum</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-12 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KH4VNDPMV1RN3JEVQ4YTSPXQ/hero-image.png" alt="AI Chatbots Are Even Worse at Giving Medical Advice Than We Thought" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/ai-chatbots-are-even-worse-at-medical-advice-than-we-thought?utm_medium=RSS" target="_blank">AI Chatbots Are Even Worse at Giving Medical Advice Than We Thought</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-12 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/MS-0212-spider-man-no-way-home-iron-spider-1280x853.jpg" alt="‘Spider-Man: Brand New Day’ Could Bring Back Even More Familiar Faces" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,33 +306,6 @@
                 <span class="title"><a href="https://gizmodo.com/uk-ad-group-chides-disney-for-predator-badlands-ad-with-severed-robo-body-2000720654" target="_blank">UK Ad Group Chides Disney for ‘Predator: Badlands’ Ad With Severed Robo-Body</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-12 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/whatsapp-1280x853.jpg" alt="WhatsApp Basically Wiped from Russian Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/whatsapp-basically-wiped-from-russian-internet-2000720488" target="_blank">WhatsApp Basically Wiped from Russian Internet</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-12 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/siri-1280x823.jpg" alt="Long Delayed Siri Functions Are Reportedly Being Delayed Once Again Because They’re Slow and Inaccurate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/long-delayed-siri-functions-are-reportedly-being-delayed-once-again-because-theyre-slow-and-inaccurate-2000720884" target="_blank">Long Delayed Siri Functions Are Reportedly Being Delayed Once Again Because They’re Slow and Inaccurate</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-12 02:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/pam_bondi.jpg?fit=1200%2C772&amp;quality=60&amp;ssl=1" alt="Congressperson tells Pam Bondi he believes she is lying to Congress" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/11/congressperson-tells-pam-bondi-he-believes-she-is-lying-to-congress.html" target="_blank">Congressperson tells Pam Bondi he believes she is lying to Congress</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-12 00:50</span>
             </div>
         </div>
 </div>
@@ -334,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 14:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 282 |
+        🔄 Last Updated: 15:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
