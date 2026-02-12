@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-12 20:05:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-12 21:06:44 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, February 12, 2026 - 20:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, February 12, 2026 - 21:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb9f/live/604a8500-0848-11f1-b5e2-dd58fc65f0f6.jpg" alt="Trump revokes landmark ruling that greenhouse gases endanger public health" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn0zdd7yl4vo?at_medium=RSS&at_campaign=rss" target="_blank">Trump revokes landmark ruling that greenhouse gases endanger public health</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-12 20:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/12/norwegian-police-search-former-pm-jaglands-properties-over-epstein-ties?traffic_source=rss" target="_blank">Norwegian police search former PM Jagland’s properties over Epstein ties</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-12 20:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +103,20 @@
                 <span class="time">2026-02-12 18:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/12/nx-s1-5707478/olympics-pain-exercise-joints" target="_blank">Olympic athletes push their bodies to the limit. Should we?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-12 17:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a03/live/13449f00-0831-11f1-9972-d3f265c101c6.jpg" alt="&#x27;Utterly wicked&#x27; nursery abuser jailed for 18 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crl4np670llo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Utterly wicked&#x27; nursery abuser jailed for 18 years</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-12 17:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/698e2530d6bc30e8fe7c7cd8/master/pass/gear-waymo-dc-2219855633.jpg" alt="Waymo Asks the DC Public to Pressure Their City Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/waymo-asks-the-dc-public-to-pressure-their-city-officials/" target="_blank">Waymo Asks the DC Public to Pressure Their City Officials</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-12 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +162,38 @@
                 <span class="time">2026-02-12 16:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2200759945-500x500.jpg" alt="US consumers, business pay 90% of tariff costs, says Federal Reserve" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/us-consumers-business-pay-90-of-tariff-costs-says-federal-reserve/" target="_blank">US consumers, business pay 90% of tariff costs, says Federal Reserve</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-12 15:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd3cuj46lv8shekqqp1er.png" alt="⏱️ The Weekend Speedrun: Building the &quot;Awesome Copilot Guide&quot; with my AI Terminal Sidekick" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mouadbourbian/the-weekend-speedrun-building-the-awesome-copilot-guide-with-my-ai-terminal-sidekick-39m0" target="_blank">⏱️ The Weekend Speedrun: Building the &quot;Awesome Copilot Guide&quot; with my AI Terminal Sidekick</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-12 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-programming-language-after-kotlin" target="_blank">The programming language after Kotlin – with the creator of Kotlin</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-02-12 20:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18877017&w=600" alt="A Developer-Centric Cloud Architecture Framework (DCAF) for Enterprise Platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/developer-centric-cloud-architecture-framework-dcaf" target="_blank">A Developer-Centric Cloud Architecture Framework (DCAF) for Enterprise Platforms</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-12 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,33 +219,6 @@
                 <span class="title"><a href="https://openai.com/index/introducing-gpt-5-3-codex-spark/" target="_blank">GPT‑5.3‑Codex‑Spark</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-12 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mrakdon/why-you-should-stop-using-ai-for-coding-5aci" target="_blank">Why You Should Stop Using AI for Coding</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-12 18:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-SPARC-Alpha-m68k" target="_blank">SPARC &amp; Alpha CPU Ports Still Seeing Activity In 2026 With Linux 7.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-12 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/02/12/how-everyone-and-anyone-can-use-ai-for-good/" target="_blank">How everyone and anyone can use AI for good</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-02-12 17:00</span>
             </div>
         </div>
 </div>
@@ -317,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 281 |
-        🔄 Last Updated: 20:06 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 281 |
+        🔄 Last Updated: 21:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
