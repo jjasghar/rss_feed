@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-12 02:58:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-12 03:56:58 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, February 12, 2026 - 02:58 UTC</div>
+    <div class="newspaper-date">Thursday, February 12, 2026 - 03:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770864711729_now_topstory_scott_hamilton_figure_skating_260211_1920x1080-h18zd2.jpg" alt="Former Olympian Scott Hamilton talks Team USA wins in skating" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/former-olympian-scott-hamilton-talks-team-usa-wins-in-skating-257560133509" target="_blank">Former Olympian Scott Hamilton talks Team USA wins in skating</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-12 02:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +102,20 @@
                 <span class="time">2026-02-11 21:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/11/nx-s1-5711585/el-paso-airspace-drones-pentagon-faa" target="_blank">The airspace around El Paso is open again. Why it closed is in dispute</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-11 21:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/KSC-20211027-PH-SPX02_0003orig-500x500.jpg" alt="SpaceX takes down Dragon crew arm, giving Starship a leg up in Florida" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/02/heres-why-americas-most-historic-launch-pad-is-getting-yet-another-facelift/" target="_blank">SpaceX takes down Dragon crew arm, giving Starship a leg up in Florida</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-12 02:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +159,6 @@
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger" target="_blank">Two more xAI co-founders are among those leaving after the SpaceX merger</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-11 23:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge" target="_blank">Anthropic says it&amp;#8217;ll try to keep its data centers from raising electricity costs</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-11 22:37</span>
             </div>
         </div>
 </div>
@@ -202,19 +205,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-No-MMC-Changes" target="_blank">Linus Torvalds Rejects MMC Changes For Linux 7.0 Cycle: &quot;Complete Garbage&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-11 22:33</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://age-verifier.kibty.town/" target="_blank">Discord/Twitch/Snapchat age verification bypass</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-11 22:56</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/franciscojeg78/es-su-arquitectura-una-bomba-de-tiempo-el-mapa-secreto-para-el-exito-en-la-nube-con-aws-i2n" target="_blank">¿Es su arquitectura una bomba de tiempo? El Mapa Secreto para el Éxito en la Nube con AWS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-11 21:06</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-No-MMC-Changes" target="_blank">Linus Torvalds Rejects MMC Changes For Linux 7.0 Cycle: &quot;Complete Garbage&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-11 22:33</span>
             </div>
         </div>
 </div>
@@ -254,6 +257,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/siri-1280x823.jpg" alt="Long Delayed Siri Functions Are Reportedly Being Delayed Once Again Because They’re Slow and Inaccurate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/long-delayed-siri-functions-are-reportedly-being-delayed-once-again-because-theyre-slow-and-inaccurate-2000720884" target="_blank">Long Delayed Siri Functions Are Reportedly Being Delayed Once Again Because They’re Slow and Inaccurate</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-12 02:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/pam_bondi.jpg?fit=1200%2C772&amp;quality=60&amp;ssl=1" alt="Congressperson tells Pam Bondi he believes she is lying to Congress" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -297,15 +309,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/telegram-has-a-new-look-and-some-new-features?utm_medium=RSS" target="_blank">The Telegram App Has a New Look, and a Weird New Feature</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-11 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KH6STYFZ484AKGSAGKF80HD6/hero-image.png" alt="TikTok&#x27;s First US-Exclusive Feature Is a Local Feed That Wants Your Location Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/tiktoks-first-us-exclusive-feature-is-a-local-feed-that-wants-your-gps?utm_medium=RSS" target="_blank">TikTok&#x27;s First US-Exclusive Feature Is a Local Feed That Wants Your Location Data</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-11 21:45</span>
             </div>
         </div>
 </div>
@@ -354,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 02:58 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 03:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
