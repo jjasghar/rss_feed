@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-12 18:14:29 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-12 19:21:39 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 13 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, February 12, 2026 - 18:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, February 12, 2026 - 19:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: Gloves among &#x27;several items of evidence&#x27; recovered" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: Gloves among &#x27;several items of evidence&#x27; recovered</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-12 19:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/12/nx-s1-5712542/federal-judge-orders-return-of-venezuelan-migrants-deported-to-el-salvador-under-alien-enemies-act" target="_blank">Federal judge orders return of Venezuelan migrants deported to El Salvador under Alien Enemies Act</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-12 19:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2021-11/211101-louisiana-refinery-ew-640p-5155df.jpg" alt="EPA reverses long-standing climate change finding, stripping its own ability to regulate emissions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/science/climate-change/epa-reverses-endangerment-climate-change-finding-rcna258452" target="_blank">EPA reverses long-standing climate change finding, stripping its own ability to regulate emissions</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-12 18:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +100,38 @@
                 <span class="time">2026-02-12 17:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/12/us-border-chief-says-ending-ice-deportation-surge-in-minnesota?traffic_source=rss" target="_blank">US border chief says ending ICE deportation surge in Minnesota</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-12 16:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: &#x27;We will never give up on her,&#x27; Savannah Guthrie says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: &#x27;We will never give up on her,&#x27; Savannah Guthrie says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-12 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6e8/live/17a22a90-0822-11f1-b7e1-afb6d0884c18.jpg" alt="Minnesota immigration enforcement surge is ending, Trump border tsar says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2lr9w29zwyo?at_medium=RSS&at_campaign=rss" target="_blank">Minnesota immigration enforcement surge is ending, Trump border tsar says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-12 15:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/12/hacker-linked-to-epstein-removed-from-black-hat-cyber-conference-website/" target="_blank">Hacker linked to Epstein removed from Black Hat cyber conference website</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-12 19:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-494590669-500x500.jpg" alt="Bringing the &quot;functionally extinct&quot; American chestnut back from the dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/02/can-modern-genetics-help-us-restore-the-appalachian-forests-of-the-1800s/" target="_blank">Bringing the &quot;functionally extinct&quot; American chestnut back from the dead</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-12 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/698b7a2dfdd5c91c3b17ca7c/master/pass/Model-Behavior-Why-OpenAIs-Greg-Brockman-Went-All-In-on-Trump-Business.jpg" alt="OpenAI’s President Gave Millions to Trump. He Says It’s for Humanity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-president-greg-brockman-political-donations-trump-humanity/" target="_blank">OpenAI’s President Gave Millions to Trump. He Says It’s for Humanity</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-12 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Screen-Shot-2026-01-08-at-2.50.34-PM-500x500.png" alt="RFK Jr. food pyramid site links to Grok, which says you shouldn’t trust RFK Jr." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,38 +159,38 @@
                 <span class="time">2026-02-12 15:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/12/us-ftc-airs-concerns-over-allegations-that-apple-suppresses-right-wing-content-on-apple-news/" target="_blank">US FTC airs concerns over allegations that Apple News suppresses right-wing content</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-12 14:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698b604825bc2ca5f5fb4d53/master/pass/Elon-Double-Dipping-Iran-Support-Politics-2246892016.jpg" alt="Elon Musk&#x27;s X Appears to Be Violating US Sanctions by Selling Premium Accounts to Iranian Leaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/elon-musk-x-premium-accounts-iran/" target="_blank">Elon Musk&#x27;s X Appears to Be Violating US Sanctions by Selling Premium Accounts to Iranian Leaders</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-12 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6849a33ef3e19a5bab3da558/master/pass/Sony%20Bravia%208%20II%20OLED%20TV%20Review_.png" alt="How to Choose the Right TV in 2026 (and a Few We Like)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-buy-the-right-tv/" target="_blank">How to Choose the Right TV in 2026 (and a Few We Like)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-12 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hellolukasz/i-built-an-mcp-server-for-my-translation-tool-heres-how-and-why-580o" target="_blank">I Built an MCP Server for My Translation Tool - Here&#x27;s How (and Why)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-12 19:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-RadeonSI-RADV-Video-Unified" target="_blank">AMD Video Decode Now Unified Between RadeonSI &amp; RADV Vulkan Video</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-12 18:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/introducing-gpt-5-3-codex-spark/" target="_blank">GPT‑5.3‑Codex‑Spark</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-12 18:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,33 +218,6 @@
                 <span class="time">2026-02-12 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/" target="_blank">An AI Agent Published a Hit Piece on Me</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-12 16:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/arch-linux-loongarch" target="_blank">Arch Linux Running Well On LoongArch - Loongson 3B6000 Benchmarks</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-12 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/mitchell-hashimoto-vouch/" target="_blank">Mitchell Hashimoto Launches &amp;#x27;Vouch&amp;#x27; to Fight AI Slop in Open Source Ecosystem</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-12 15:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/rfk-jr.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Even Grok thinks RFK Jr.&#x27;s diet is a bad idea" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/12/even-grok-thinks-rfk-jr-s-diet-is-a-bad-idea.html" target="_blank">Even Grok thinks RFK Jr.&#x27;s diet is a bad idea</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-12 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/rich-people-mansions-1280x720.jpg" alt="Rich People Are Turning Their Homes Into Hitman Levels With Armed Guards, Lasers, And Moats" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +291,6 @@
                 <span class="time">2026-02-12 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/Screenshot-2026-02-12-095014-1280x725.jpg" alt="Mewgenics Has Its Own Resetti Who Will Destroy Your Run If You Save Scum" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mewgenics-reset-save-scum-cheat-easter-egg-steven-resetti-binding-of-isaac-2000668196" target="_blank">Mewgenics Has Its Own Resetti Who Will Destroy Your Run If You Save Scum</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-12 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -300,10 +299,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/11/the-mark-of-donalds" target="_blank">The Mark Of Donalds</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-02-11 19:17</span>
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/your-job/" target="_blank">Your Job</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-02-12 16:44</span>
             </div>
         </div>
 </div>
@@ -311,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 18:14 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 19:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
