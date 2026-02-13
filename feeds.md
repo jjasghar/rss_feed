@@ -1,38 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-02-13 18:08:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-13 19:14:26 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, February 13, 2026 - 18:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, February 13, 2026 - 19:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/13/nx-s1-5713367/trump-vought-omb-hhs-cdc-budget-cuts" target="_blank">A familiar move with a new twist: Trump tries to cut CDC funds he just signed into law</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-13 18:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/guthrie-6-ht-gmh-260210_1770746685548_hpMain_4x3t_384.jpg" alt="Nancy Guthrie kidnapping suspect: What we know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,21 +99,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/13/uk-court-says-palestine-action-ban-unlawful-what-does-the-verdict-mean?traffic_source=rss" target="_blank">UK court says Palestine Action ban ‘unlawful’: What does the verdict mean?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-13 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b428/live/37b3eaf0-08ca-11f1-b7e1-afb6d0884c18.jpg" alt="Palestine Action ban ruled unlawful but group remains proscribed for now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda5/live/f21d4930-e026-11f0-b67b-690eb873de1b.jpg" alt="Two jailed over plot to attack Jewish community" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3wleezq73no?at_medium=RSS&at_campaign=rss" target="_blank">Palestine Action ban ruled unlawful but group remains proscribed for now</a></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq8gv2327y7o?at_medium=RSS&at_campaign=rss" target="_blank">Two jailed over plot to attack Jewish community</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-02-13 15:06</span>
+                <span class="time">2026-02-13 16:16</span>
             </div>
         </div>
 </div>
@@ -107,6 +112,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/698f6ac33a7663f8d16c9b96/master/pass/The%20Best%20Presidents'%20Day%20Deals%20on%20WIRED-Tested%20Gadgets%20and%20Gizmos.png" alt="20 Best Presidents&#x27; Day Deals on Gear Our Reviewers Actually Used (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/presidents-day-deals-2026/" target="_blank">20 Best Presidents&#x27; Day Deals on Gear Our Reviewers Actually Used (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-13 18:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/878920/steam-reviews-pc-specs-beta" target="_blank">Steam beta lets users add their PC specs to reviews</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-13 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/" target="_blank">OpenAI removes access to sycophancy-prone GPT-4o model</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-13 18:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,38 +166,29 @@
                 <span class="time">2026-02-13 16:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/unnamed-2-500x500.jpg" alt="What if riders don&#x27;t close a robotaxi door after a ride? Try DoorDash." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/02/what-if-riders-dont-close-a-robotaxi-door-after-a-ride-try-doordash/" target="_blank">What if riders don&#x27;t close a robotaxi door after a ride? Try DoorDash.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-13 15:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/878713/ice-minnesota-dhs-suburbs" target="_blank">ICE moves out to the suburbs</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-13 15:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/13/coheres-240m-year-sets-stage-for-ipo/" target="_blank">Cohere’s $240M year sets stage for IPO</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-13 15:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cseeman/why-your-github-actions-secrets-dont-work-in-reusable-workflow-inputs-462g" target="_blank">Why Your GitHub Actions Secrets Don&#x27;t Work in Reusable Workflow Inputs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-13 19:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Multi-Lane-SPI" target="_blank">Multi-Lane SPI Support Merged For Linux 7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-13 18:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,29 +225,20 @@
                 <span class="time">2026-02-13 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/02/13/even-your-voice-is-a-data-problem/" target="_blank">Even your voice is a data problem</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-02-13 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Crypto-ML-DSA" target="_blank">Linux 7.0 Lands ML-DSA Quantum-Resistant Signature Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-13 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KHC32Y3N8P0PB8SE657KB3E8/hero-image.png" alt="The Easiest (and Cheapest) Ways to Turn Your Attic Into Useful Storage Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/cheap-and-easy-upgrades-attic-storage?utm_medium=RSS" target="_blank">The Easiest (and Cheapest) Ways to Turn Your Attic Into Useful Storage Space</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-13 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/closedoor.jpg" alt="AI Taxi Company Has To Pay DoorDash Drivers To Go Shut The Car Doors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +284,6 @@
                 <span class="time">2026-02-13 16:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/post-1280x729.jpg" alt="Starsand Island Devs Beg Fans To Stop Using AI To Post Fake ‘Overly Positive’ Steam Reviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/starsand-island-ai-steam-reviews-rpg-life-sim-2000668666" target="_blank">Starsand Island Devs Beg Fans To Stop Using AI To Post Fake ‘Overly Positive’ Steam Reviews</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-13 15:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 18:09 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 19:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
