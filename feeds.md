@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-13 04:35:21 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-13 05:26:25 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 29 feeds processed -->
+<!-- Generated 2 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, February 13, 2026 - 04:35 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, February 13, 2026 - 05:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-bangladesh-election_7163718.jpg?20260213031425" alt="Bangladesh&#x27;s Nationalist Party claims majority victory in historic election" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/bangladeshs-nationalist-party-claims-victory-in-historic-election-13506956" target="_blank">Bangladesh&#x27;s Nationalist Party claims majority victory in historic election</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-13 02:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/02/1920x1080/skynews-bangladesh-election_7163718.jpg?20260213031425" alt="Bangladesh&#x27;s Nationalist Party claims victory in historic election" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/12/protesters-march-in-venezuela-as-national-assembly-weighs-amnesty-bill?traffic_source=rss" target="_blank">Protesters march in Venezuela as National Assembly weighs amnesty bill</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-12 23:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/12/nx-s1-5712771/children-mental-health-diagnoses-often-incarcerated-treatment" target="_blank">Report finds children with mental health diagnoses often incarcerated instead of getting treatment</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-12 22:37</span>
             </div>
         </div>
 </div>
@@ -204,19 +206,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-february-13-2026-red-hat" target="_blank">Friday Five — February 13, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-02-13 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/" target="_blank">Resizing windows on macOS Tahoe – the saga continues</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-12 23:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwy0761clxp3oui065po4.png" alt="Built a Vibe Coded App where you can Style any Image you like! :D" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p" target="_blank">Built a Vibe Coded App where you can Style any Image you like! :D</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-12 21:58</span>
             </div>
         </div>
 </div>
@@ -329,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 04:35 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 05:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
