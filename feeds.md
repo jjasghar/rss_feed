@@ -1,43 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-02-13 20:06:46 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-13 21:08:47 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 34 feeds processed -->
+<!-- Generated 12 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, February 13, 2026 - 20:07 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, February 13, 2026 - 21:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/13/trump-orders-second-aircraft-carrier-to-middle-east?traffic_source=rss" target="_blank">Trump orders second aircraft carrier to Middle East</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-13 20:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: Sheriff speaks to ABC News about DNA, gloves" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: Sheriff speaks to ABC News about DNA, gloves</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-13 20:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,6 +89,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260212-vladyslav-heraskevych-mn-1030-4dfab0.jpg" alt="Ukrainian athlete seeking to honor killed countrymen loses appeal to compete at Olympics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/sports/olympics/ukrainian-athlete-seeking-honor-killed-countrymen-loses-appeal-compete-rcna258899" target="_blank">Ukrainian athlete seeking to honor killed countrymen loses appeal to compete at Olympics</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-13 16:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/guthrie-6-ht-gmh-260210_1770746685548_hpMain_4x3t_384.jpg" alt="Nancy Guthrie kidnapping suspect: What we know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -80,38 +106,47 @@
                 <span class="time">2026-02-13 16:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/13/nx-s1-5708801/kitty-cats-cloud-hands-u-s-olympic-snowboarders" target="_blank">Kitty cats and cloud hands - how U.S. Olympic snowboarders keep calm in competition</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-13 16:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a0f/live/0cff21e0-08f6-11f1-b5e2-dd58fc65f0f6.jpg" alt="World&#x27;s rules-based order &#x27;no longer exists&#x27;, Germany&#x27;s Merz warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy4wpv0wx43o?at_medium=RSS&at_campaign=rss" target="_blank">World&#x27;s rules-based order &#x27;no longer exists&#x27;, Germany&#x27;s Merz warns</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-13 16:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/13/un-accuses-paramilitary-rsf-of-committing-war-crimes-in-sudans-el-fasher?traffic_source=rss" target="_blank">UN accuses paramilitary RSF of committing war crimes in Sudan’s el-Fasher</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-13 16:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/" target="_blank">Fintech lending giant Figure confirms data breach</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-13 21:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/879132/moot-4chan-jeffrey-epstein-meeting-pol" target="_blank">4chan’s creator says ‘Epstein had nothing to do’ with creating infamous far-right board /pol/</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-13 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-500x500-1749567268.jpg" alt="The first Android 17 beta is now available on Pixel devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/the-first-android-17-beta-is-now-available-on-pixel-devices/" target="_blank">The first Android 17 beta is now available on Pixel devices</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-13 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/698f6cec21b4b1d4108ce0be/master/pass/pol-ssa-2205675730.jpg" alt="Social Security Workers Are Being Told to Hand Over Appointment Details to ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/social-security-administration-appointment-details-ice/" target="_blank">Social Security Workers Are Being Told to Hand Over Appointment Details to ICE</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-13 20:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,42 +165,6 @@
                 <span class="time">2026-02-13 19:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698f6ac33a7663f8d16c9b96/master/pass/The%20Best%20Presidents'%20Day%20Deals%20on%20WIRED-Tested%20Gadgets%20and%20Gizmos.png" alt="20 Best Presidents&#x27; Day Deals on Gear Our Reviewers Actually Used (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/presidents-day-deals-2026/" target="_blank">20 Best Presidents&#x27; Day Deals on Gear Our Reviewers Actually Used (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-13 18:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/878920/steam-reviews-pc-specs-beta" target="_blank">Steam beta lets users add their PC specs to reviews</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-13 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/" target="_blank">OpenAI removes access to sycophancy-prone GPT-4o model</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-13 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/878761/mass-exodus-at-xai-grok-elon-musk-restructuring" target="_blank">What’s behind the mass exodus at xAI?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-13 17:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,6 +177,15 @@
                 <span class="title"><a href="https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0" target="_blank">Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-13 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Nouveau-GSP-NVIDIA-GA100" target="_blank">NVIDIA Posts Open-Source Nouveau GSP Driver Support For GA100</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-13 19:36</span>
             </div>
         </div>
 <div class="story">
@@ -216,20 +224,38 @@
                 <span class="time">2026-02-13 18:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/xbill/gde-article-publishing-4557" target="_blank">GDE Article Publishing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-13 18:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/controllerladybrain-1280x720.jpg" alt="Gamepad Controls Elden Ring Streamer IRL Using A Wild Balance Hack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/perri-karyal-galvanic-vestibular-stimulation-elden-ring-2000668749" target="_blank">Gamepad Controls Elden Ring Streamer IRL Using A Wild Balance Hack</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-13 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/10/GOP-Elephant-e1741108452603.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Republicans jet off as DHS runs out of money" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/13/republicans-jet-off-as-dhs-runs-out-of-money.html" target="_blank">Republicans jet off as DHS runs out of money</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-13 20:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2H01TJZAA9THGVYP59YQCM/hero-image.jpg" alt="No, a Sauna Isn&#x27;t a Substitute for Exercise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/why-a-sauna-is-not-a-substitute-for-exercise?utm_medium=RSS" target="_blank">No, a Sauna Isn&#x27;t a Substitute for Exercise</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-13 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/Sam-Altman-OpenAI-Snowflake-Summit-2025-1280x853.jpg" alt="OpenAI Users Launch Movement to Save Most Sycophantic Version of ChatGPT" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -255,33 +281,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/viture-luma-pro-ar-glasses-early-presidents-day-2026?utm_medium=RSS" target="_blank">These Viture Luma Pro Smart Glasses Are Cheaper Than Ever During Amazon&#x27;s Early Presidents Day Sale</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-13 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHC32Y3N8P0PB8SE657KB3E8/hero-image.png" alt="The Easiest (and Cheapest) Ways to Turn Your Attic Into Useful Storage Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/cheap-and-easy-upgrades-attic-storage?utm_medium=RSS" target="_blank">The Easiest (and Cheapest) Ways to Turn Your Attic Into Useful Storage Space</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-13 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/closedoor.jpg" alt="AI Taxi Company Has To Pay DoorDash Drivers To Go Shut The Car Doors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/waymo-ai-taxi-robocars-close-doors-pay-doordash-drivers-atlanta-real-2000668711" target="_blank">AI Taxi Company Has To Pay DoorDash Drivers To Go Shut The Car Doors</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-13 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Heart-Eyes-1280x853.jpg" alt="10 Romantically Spooky Horror Movies to Stream for Valentine’s Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/valentines-day-streaming-horror-movies-2000719886" target="_blank">10 Romantically Spooky Horror Movies to Stream for Valentine’s Day</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-13 18:00</span>
             </div>
         </div>
 </div>
@@ -321,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 20:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 21:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
