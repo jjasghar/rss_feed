@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-13 17:14:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-13 18:08:52 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 27 feeds processed -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, February 13, 2026 - 17:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, February 13, 2026 - 18:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,6 +170,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/xbill/gde-article-publishing-4557" target="_blank">GDE Article Publishing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-13 18:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/the-foundations-of-software-open-source-libraries-and-their-maintainers" target="_blank">The foundations of software: open source libraries and their maintainers</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-02-13 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ganesh_parella/why-do-we-need-databases-519n" target="_blank">Why do we need Databases?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-13 17:10</span>
@@ -199,29 +220,38 @@
                 <span class="time">2026-02-13 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7786oda7mswv3hmrgcpe.png" alt="AI Infra HPC — CPU" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bokai_gu/ai-infra-hpc-cpu-38h4" target="_blank">AI Infra HPC — CPU</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-13 16:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-9005-sev-snp" target="_blank">Evaluating The Performance Cost To AMD SEV-SNP On EPYC 9005 VMs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-13 15:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/closedoor.jpg" alt="AI Taxi Company Has To Pay DoorDash Drivers To Go Shut The Car Doors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/waymo-ai-taxi-robocars-close-doors-pay-doordash-drivers-atlanta-real-2000668711" target="_blank">AI Taxi Company Has To Pay DoorDash Drivers To Go Shut The Car Doors</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-13 18:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Heart-Eyes-1280x853.jpg" alt="10 Romantically Spooky Horror Movies to Stream for Valentine’s Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/valentines-day-streaming-horror-movies-2000719886" target="_blank">10 Romantically Spooky Horror Movies to Stream for Valentine’s Day</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-13 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/splayd.jpg?fit=1200%2C805&amp;quality=60&amp;ssl=1" alt="Meet the Splayd, the spork&#x27;s sharper Australian cousin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/13/meet-the-splayd-the-sporks-sharper-australian-cousin.html" target="_blank">Meet the Splayd, the spork&#x27;s sharper Australian cousin</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-13 17:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/GoodOmens-1280x853.jpg" alt="Now We Know When Prime Video Is Bringing ‘Good Omens’ to Its End" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -247,33 +277,6 @@
                 <span class="title"><a href="https://kotaku.com/starsand-island-ai-steam-reviews-rpg-life-sim-2000668666" target="_blank">Starsand Island Devs Beg Fans To Stop Using AI To Post Fake ‘Overly Positive’ Steam Reviews</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-13 15:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/cliar.jpg" alt="Metaphor Refantazio Director Praises Clair Obscur For New Steam Bundle: ‘I Am Genuinely Delighted To See Japanese-Style RPGs Being Born And Embraced’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/clair-obscur-jrpg-sale-metaphor-refantazio-steam-bundle-discount-2000668660" target="_blank">Metaphor Refantazio Director Praises Clair Obscur For New Steam Bundle: ‘I Am Genuinely Delighted To See Japanese-Style RPGs Being Born And Embraced’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-13 14:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KH9WBZB32S8QG90GGBESCX4N/hero-image.png" alt="Claude Has a Surprisingly Great Way to Add Multiple Appointments to Your Calendar at Once" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/use-claude-create-ical-files?utm_medium=RSS" target="_blank">Claude Has a Surprisingly Great Way to Add Multiple Appointments to Your Calendar at Once</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-13 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/nyu-time-crystal-eps-bead-cropped-1280x853.jpg" alt="Scientists Discover Time Crystals You Can Hold—and They Levitate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/scientists-discover-time-crystals-you-can-hold-and-they-levitate-2000721148" target="_blank">Scientists Discover Time Crystals You Can Hold—and They Levitate</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-13 11:00</span>
             </div>
         </div>
 </div>
@@ -313,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 17:15 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 18:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
