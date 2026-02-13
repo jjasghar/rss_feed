@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-13 02:58:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-13 03:54:43 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, February 13, 2026 - 02:58 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, February 13, 2026 - 03:54 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-bangladesh-election_7163718.jpg?20260213031425" alt="Bangladesh&#x27;s Nationalist Party claims victory in historic election" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/bangladeshs-nationalist-party-claims-victory-in-historic-election-13506956" target="_blank">Bangladesh&#x27;s Nationalist Party claims victory in historic election</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-13 02:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770946973285_nn_lkr_nany_guthrie_search_newimages_260212_1920x1080-znccgs.jpg" alt="Investigators search for clues in Nancy Guthrie abduction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/investigators-search-for-clues-in-nancy-guthrie-abduction-257626181549" target="_blank">Investigators search for clues in Nancy Guthrie abduction</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-13 01:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +101,6 @@
                 <span class="time">2026-02-12 22:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/12/nx-s1-5712749/chloe-kim-snowboard-medal-gaon-choi-olympics" target="_blank">Winter Olympic shocker: American Chloe Kim falls short of halfpipe gold three-peat</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-12 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/12/us-urges-europe-to-take-the-lead-on-defence-in-nato?traffic_source=rss" target="_blank">US urges Europe to take the lead on defence in NATO</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-12 21:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -113,6 +113,15 @@
                 <span class="title"><a href="https://arstechnica.com/space/2026/02/when-amazon-badly-needed-a-ride-europes-ariane-6-rocket-delivered/" target="_blank">When Amazon badly needed a ride, Europe&#x27;s Ariane 6 rocket delivered</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-02-13 00:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/12/for-1-million-you-can-pay-bryan-johnson-or-bryanai-to-teach-you-how-to-live-longer/" target="_blank">For $1M, you can pay Bryan Johnson (or BryanAI?) to teach you how to live longer</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-12 23:43</span>
             </div>
         </div>
 <div class="story">
@@ -151,20 +160,20 @@
                 <span class="time">2026-02-12 22:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698d17a4fbe49e3e4a648a71/master/pass/Uncanny-Valley-Ice-Expansion-2235818079.jpg" alt="‘Uncanny Valley’: ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-ice-expansion-palantir-workers-ethical-concerns-openclaw-ai-assistants/" target="_blank">‘Uncanny Valley’: ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-12 22:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-MM" target="_blank">Linux 7.0 MM Changes Bring Some Very Nice Performance Optimizations</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-13 01:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +219,6 @@
                 <span class="time">2026-02-12 21:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd3cuj46lv8shekqqp1er.png" alt="⏱️ The Weekend Speedrun: Building the &quot;Awesome Copilot Guide&quot; with my AI Terminal Sidekick" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mouadbourbian/the-weekend-speedrun-building-the-awesome-copilot-guide-with-my-ai-terminal-sidekick-39m0" target="_blank">⏱️ The Weekend Speedrun: Building the &quot;Awesome Copilot Guide&quot; with my AI Terminal Sidekick</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-12 20:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/donald-trump-e1764689813387.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains is bored and sleepy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/12/grandpa-pudding-brains-is-bored-and-sleepy.html" target="_blank">Grandpa Pudding Brains is bored and sleepy</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-13 02:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/highguard-1-1280x723.jpg" alt="Highguard Dev Who Just Lost His Job Calls Out Toxic Online Reaction" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +292,6 @@
                 <span class="time">2026-02-12 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/rfk-jr.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Even Grok thinks RFK Jr.&#x27;s diet is a bad idea" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/12/even-grok-thinks-rfk-jr-s-diet-is-a-bad-idea.html" target="_blank">Even Grok thinks RFK Jr.&#x27;s diet is a bad idea</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-12 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 02:58 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 03:54 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
