@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-13 13:24:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-13 14:13:47 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, February 13, 2026 - 13:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, February 13, 2026 - 14:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/13/bangladeshs-bnp-claims-landslide-win-in-first-election-since-2024-uprising?traffic_source=rss" target="_blank">Bangladesh’s BNP claims landslide win in first election since 2024 uprising</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-13 13:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/13/live-explosions-in-gaza-54-wounded-in-west-bank-settler-attacks?traffic_source=rss" target="_blank">LIVE: Explosions in Gaza, 54 wounded in West Bank settler attacks</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-13 12:54</span>
@@ -59,6 +69,15 @@
                 <span class="title"><a href="https://www.today.com/video/nancy-guthrie-case-fbi-raises-reward-gives-details-of-suspect-257642565521" target="_blank">Nancy Guthrie Case: FBI Raises Reward, Gives Details of Suspect</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-13 12:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-trump-israel_7146586.jpg?20260126180342" alt="There&#x27;s no hiding the schism that now lies between Trump and Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/theres-no-hiding-the-schism-that-now-lies-between-trump-and-israel-13507072" target="_blank">There&#x27;s no hiding the schism that now lies between Trump and Israel</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-13 12:06</span>
             </div>
         </div>
 <div class="story">
@@ -77,24 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c99jxryd9xko?at_medium=RSS&at_campaign=rss" target="_blank">Rubio warns Europe of new era in geopolitics before big Munich speech</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-13 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/13/uk-ban-on-palestine-action-was-unlawful-says-court?traffic_source=rss" target="_blank">UK ban on Palestine Action was unlawful, says court</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-13 11:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/13/nx-s1-5712808/nasa-spacex-crew-12-launch-iss" target="_blank">On their way! 4 people on NASA Crew-12 mission launch to International Space Station</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-13 10:25</span>
             </div>
         </div>
 </div>
@@ -174,6 +175,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/olivier-coreprose/feldman-v-affable-avenue-lessons-from-an-ai-hallucinated-default-judgment-in-federal-court-30pc" target="_blank">Feldman v Affable Avenue: Lessons from an AI-Hallucinated Default Judgment in Federal Court</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-13 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18878058&w=600" alt="Introducing Sierra Charts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/all-about-sierra-charts" target="_blank">Introducing Sierra Charts</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-13 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Drops-Old-440BX-EDAC" target="_blank">Linux Gets Rid Of Intel 440BX EDAC Driver For Old Pentium CPUs After Being Broken For 19+ Years</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-13 13:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/prashant_chouksey_28055f0/python-generators-deep-dive-part-1-lazy-evaluation-memory-optimization-4bk" target="_blank">Python Generators Deep Dive Part 1: Lazy Evaluation &amp; Memory Optimization🚀</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-13 13:11</span>
@@ -186,33 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Slab-Sheaves" target="_blank">Sheaves Ready To Play A Bigger Role In Linux 7.0</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-13 13:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://monosketch.io/" target="_blank">Monosketch</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-13 12:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Sound" target="_blank">Intel Nova Lake Sound Support In Linux 7.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-13 11:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/" target="_blank">WolfSSL Sucks Too, So Now What?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-13 10:18</span>
             </div>
         </div>
 </div>
@@ -320,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 13:24 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 14:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
