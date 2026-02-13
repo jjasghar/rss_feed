@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-13 10:11:38 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-13 11:10:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, February 13, 2026 - 10:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, February 13, 2026 - 11:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/13/nx-s1-5712808/nasa-spacex-crew-12-launch-iss" target="_blank">On their way! 4 people on NASA Crew-12 mission launch to International Space Station</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-13 10:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/canada-gty-er-260212_1770933387857_hpMain_4x3t_384.jpg" alt="What&#x27;s next after House rebukes Trump&#x27;s tariffs on Canada?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/after-house-rebukes-trumps-tariffs-canada/story?id=130106207" target="_blank">What&#x27;s next after House rebukes Trump&#x27;s tariffs on Canada?</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-13 10:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +104,20 @@
                 <span class="time">2026-02-13 02:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-bangladesh-election_7163718.jpg?20260213031425" alt="Bangladesh&#x27;s Nationalist Party claims majority victory in historic election" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/bangladeshs-nationalist-party-claims-victory-in-historic-election-13506956" target="_blank">Bangladesh&#x27;s Nationalist Party claims majority victory in historic election</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-13 02:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-bangladesh-election_7163718.jpg?20260213031425" alt="Bangladesh&#x27;s Nationalist Party claims victory in historic election" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/bangladeshs-nationalist-party-claims-victory-in-historic-election-13506956" target="_blank">Bangladesh&#x27;s Nationalist Party claims victory in historic election</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-13 02:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/698e80cecb3b4c303e7dda54/master/pass/I%20Tell%20Everyone%20the%20Best%20Soundbar%20Is%20Last%20Year's%20Samsung,%20and%20Here's%20Why.png" alt="Here&#x27;s Why I&#x27;d Buy the Last Samsung Soundbar First" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-best-soundbar-is-last-years-samsung/" target="_blank">Here&#x27;s Why I&#x27;d Buy the Last Samsung Soundbar First</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-13 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +163,6 @@
                 <span class="time">2026-02-12 23:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/12/for-1-million-you-can-pay-bryan-johnson-or-bryanai-to-teach-you-how-to-live-longer/" target="_blank">For $1 million, you can pay Bryan Johnson (or BryanAI?) to teach you how to live longer</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-12 23:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +180,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Sound" target="_blank">Intel Nova Lake Sound Support In Linux 7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-13 11:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/" target="_blank">WolfSSL Sucks Too, So Now What?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-13 10:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/allenbailey25/i-thought-more-tracking-would-calm-me-166" target="_blank">I Thought More Tracking Would Calm Me</a></span>
                 <span class="feed">DEV Community</span>
@@ -182,36 +208,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/from-inspiration-to-impact-design-students-from-regents-university-london-explore-open-design-for-their-dissertation-projects" target="_blank">From inspiration to impact: design students from Regent’s University London explore open design for their dissertation projects</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-02-13 09:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/news/session-co-founder-interview/" target="_blank">Session&amp;#x27;s Co-Founder Thinks You Don&amp;#x27;t Need to Ditch WhatsApp Completely</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-02-13 09:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/podcasts/beyond-code-engineers-evolve-ai-era/en/smallimage/the-infoq-podcast-logo-thumbnail-1770643319546.jpg" alt="Podcast: Beyond Code: How Engineers Need to Evolve in the AI Era" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/podcasts/beyond-code-engineers-evolve-ai-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Beyond Code: How Engineers Need to Evolve in the AI Era</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-13 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f" target="_blank">MinIO repository is no longer maintained</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-13 07:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bryanprimus/graceful-shutdown-in-go-2mlg" target="_blank">Graceful Shutdown in Go</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-13 05:43</span>
             </div>
         </div>
 </div>
@@ -233,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/nyu-time-crystal-eps-bead-cropped-1280x853.jpg" alt="Scientists Discover Time Crystals You Can Hold—and They Levitate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/scientists-discover-time-crystals-you-can-hold-and-they-levitate-2000721148" target="_blank">Scientists Discover Time Crystals You Can Hold—and They Levitate</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-13 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/donald-trump-e1764689813387.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains is bored and sleepy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +293,6 @@
                 <span class="title"><a href="https://kotaku.com/the-viral-ai-slop-post-was-made-by-same-guy-from-the-viral-ai-slop-game-2000668276" target="_blank">Viral Post Comparing Covid To AI Comes From Same Dude Pushing Ugly AI Game Slop</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-12 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBZW51YD9RTK9TT6NWP3RZ28/hero-image.png" alt="Apple and Google Just Made It Easier to Switch Between iPhone and Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-and-google-just-made-it-easier-to-switch-between-iphone-and-android?utm_medium=RSS" target="_blank">Apple and Google Just Made It Easier to Switch Between iPhone and Android</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-12 19:30</span>
             </div>
         </div>
 </div>
@@ -333,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 10:11 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 11:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
