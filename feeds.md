@@ -1,43 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-02-13 19:14:26 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-13 20:06:46 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 34 feeds processed -->
+<!-- Generated 10 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, February 13, 2026 - 19:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, February 13, 2026 - 20:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/13/nx-s1-5711630/virginia-court-allows-democrats-redistricting-vote-in-their-plan-to-counter-to-trump" target="_blank">Virginia court allows Democrats&#x27; redistricting vote in their plan to counter to Trump</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-13 19:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -98,20 +107,29 @@
                 <span class="time">2026-02-13 16:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda5/live/f21d4930-e026-11f0-b67b-690eb873de1b.jpg" alt="Two jailed over plot to attack Jewish community" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq8gv2327y7o?at_medium=RSS&at_campaign=rss" target="_blank">Two jailed over plot to attack Jewish community</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-13 16:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/878951/beats-studio-buds-plus-earbuds-presidents-day-sale-deal" target="_blank">The see-through Beats Studio Buds Plus are more than 40 percent off for Presidents Day</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-13 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/698f5a4f1855a1c6235b9d6a/master/pass/biz-schiff-2246915718.jpg" alt="Senators Urge Top Regulator to Stay Out of Prediction Market Lawsuits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/senators-urge-top-regulators-to-stay-out-of-prediction-market-lawsuits/" target="_blank">Senators Urge Top Regulator to Stay Out of Prediction Market Lawsuits</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-13 19:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/698f6ac33a7663f8d16c9b96/master/pass/The%20Best%20Presidents'%20Day%20Deals%20on%20WIRED-Tested%20Gadgets%20and%20Gizmos.png" alt="20 Best Presidents&#x27; Day Deals on Gear Our Reviewers Actually Used (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,29 +166,29 @@
                 <span class="time">2026-02-13 17:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698e6de5fb604500de64de72/master/pass/Backchannel-How-AI-Changed-Zillow-Business-85654719.jpg" alt="Zillow Has Gone Wild—for AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/backchannel-how-artificial-intelligence-changed-zillow/" target="_blank">Zillow Has Gone Wild—for AI</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-13 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/13/senior-engineers-including-co-founders-exit-xai-amid-controversy/" target="_blank">Elon Musk suggests spate of xAI exits have been push, not pull</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-13 16:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7tmojjx9odbuxpabs16h.png" alt="Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0" target="_blank">Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-13 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/new-result-theoretical-physics/" target="_blank">GPT-5.2 derives a new result in theoretical physics</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-13 19:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -178,6 +196,15 @@
                 <span class="title"><a href="https://dev.to/cseeman/why-your-github-actions-secrets-dont-work-in-reusable-workflow-inputs-462g" target="_blank">Why Your GitHub Actions Secrets Don&#x27;t Work in Reusable Workflow Inputs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-13 19:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18878127&w=600" alt="A Guide to Parallax and Scroll-Based Animations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/awesome-parallax-effect-with-css-only" target="_blank">A Guide to Parallax and Scroll-Based Animations</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-13 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -198,38 +225,38 @@
                 <span class="time">2026-02-13 18:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/the-foundations-of-software-open-source-libraries-and-their-maintainers" target="_blank">The foundations of software: open source libraries and their maintainers</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-02-13 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ganesh_parella/why-do-we-need-databases-519n" target="_blank">Why do we need Databases?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-13 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18878098&w=600" alt="How to Build an MCP Server" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-to-build-mcp-server" target="_blank">How to Build an MCP Server</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-13 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/Sam-Altman-OpenAI-Snowflake-Summit-2025-1280x853.jpg" alt="OpenAI Users Launch Movement to Save Most Sycophantic Version of ChatGPT" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/openai-users-launch-movement-to-save-most-sycophantic-version-of-chatgpt-2000721971" target="_blank">OpenAI Users Launch Movement to Save Most Sycophantic Version of ChatGPT</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-13 20:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/mewgenics01-1280x723.jpg" alt="Mewgenics Dev Responds To Criticism Of Its Voice Cameos: ‘If I Only Included People Who Share The Same Exact Opinions As Me, I’d Be The Only One Meowing’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mewgenics-voice-actor-credits-meows-ethan-hila-klein-2000668734" target="_blank">Mewgenics Dev Responds To Criticism Of Its Voice Cameos: ‘If I Only Included People Who Share The Same Exact Opinions As Me, I’d Be The Only One Meowing’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-13 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KHBZQXWW365QGQ545KR1E9TG/hero-image.png" alt="These Viture Luma Pro Smart Glasses Are Cheaper Than Ever During Amazon&#x27;s Early Presidents Day Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/viture-luma-pro-ar-glasses-early-presidents-day-2026?utm_medium=RSS" target="_blank">These Viture Luma Pro Smart Glasses Are Cheaper Than Ever During Amazon&#x27;s Early Presidents Day Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-13 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KHC32Y3N8P0PB8SE657KB3E8/hero-image.png" alt="The Easiest (and Cheapest) Ways to Turn Your Attic Into Useful Storage Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -255,33 +282,6 @@
                 <span class="title"><a href="https://gizmodo.com/valentines-day-streaming-horror-movies-2000719886" target="_blank">10 Romantically Spooky Horror Movies to Stream for Valentine’s Day</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-13 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/splayd.jpg?fit=1200%2C805&amp;quality=60&amp;ssl=1" alt="Meet the Splayd, the spork&#x27;s sharper Australian cousin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/13/meet-the-splayd-the-sporks-sharper-australian-cousin.html" target="_blank">Meet the Splayd, the spork&#x27;s sharper Australian cousin</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-13 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/GoodOmens-1280x853.jpg" alt="Now We Know When Prime Video Is Bringing ‘Good Omens’ to Its End" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/good-omens-finale-release-date-prime-video-neil-gaiman-2000721915" target="_blank">Now We Know When Prime Video Is Bringing ‘Good Omens’ to Its End</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-13 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Ian-Claughton-flamethrower-e1770994942683-1280x854.jpg" alt="‘Home Alone-Inspired’ Drug Dealer Who Rigged House With Booby Traps Gets 7 Years in Prison" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/home-alone-inspired-drug-dealer-who-rigged-house-with-booby-traps-gets-7-years-in-prison-2000721216" target="_blank">‘Home Alone-Inspired’ Drug Dealer Who Rigged House With Booby Traps Gets 7 Years in Prison</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-13 16:05</span>
             </div>
         </div>
 </div>
@@ -321,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 19:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 20:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
