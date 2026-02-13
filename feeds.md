@@ -1,39 +1,45 @@
-<!-- Processing 54 RSS feeds at 2026-02-13 05:26:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-13 06:17:35 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, February 13, 2026 - 05:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, February 13, 2026 - 06:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +56,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/13/top-goldman-sachs-lawyer-kathy-ruemmler-resigns-over-epstein-ties?traffic_source=rss" target="_blank">Top Goldman Sachs lawyer Kathy Ruemmler resigns over Epstein ties</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-13 05:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/02/1920x1080/skynews-bangladesh-election_7163718.jpg?20260213031425" alt="Bangladesh&#x27;s Nationalist Party claims majority victory in historic election" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -65,6 +80,15 @@
                 <span class="title"><a href="https://news.sky.com/story/bangladeshs-nationalist-party-claims-victory-in-historic-election-13506956" target="_blank">Bangladesh&#x27;s Nationalist Party claims victory in historic election</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-02-13 02:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/12/nx-s1-5712772/olympic-medals-milan-cortina-games" target="_blank">This year&#x27;s Olympic medals are generating chatter — for their defects and price</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-13 01:59</span>
             </div>
         </div>
 <div class="story">
@@ -85,29 +109,20 @@
                 <span class="time">2026-02-13 01:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: New details about suspect released" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: New details about suspect released</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-12 23:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/12/protesters-march-in-venezuela-as-national-assembly-weighs-amnesty-bill?traffic_source=rss" target="_blank">Protesters march in Venezuela as National Assembly weighs amnesty bill</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-12 23:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/12/waymo-is-asking-doordash-drivers-to-shut-the-doors-of-its-self-driving-cars/" target="_blank">Waymo is asking DoorDash drivers to shut the doors of its self-driving cars</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-13 04:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/HA-evg8WgAAY3tl-500x500.jpg" alt="When Amazon badly needed a ride, Europe&#x27;s Ariane 6 rocket delivered" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +168,29 @@
                 <span class="time">2026-02-12 23:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2225076517_resize-500x500.jpg" alt="OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/" target="_blank">OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-12 22:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/02/13/even-your-voice-is-a-data-problem/" target="_blank">Even your voice is a data problem</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-02-13 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bryanprimus/graceful-shutdown-in-go-2mlg" target="_blank">Graceful Shutdown in Go</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-13 05:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +225,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/XFS-Linux-7.0" target="_blank">XFS Introducing Autonomous Self-Healing Capabilities With Linux 7.0</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-13 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-february-13-2026-red-hat" target="_blank">Friday Five — February 13, 2026</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-02-13 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/" target="_blank">Resizing windows on macOS Tahoe – the saga continues</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-12 23:52</span>
             </div>
         </div>
 </div>
@@ -331,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 05:26 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 276 |
+        🔄 Last Updated: 06:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
