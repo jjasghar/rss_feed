@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-13 00:09:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-13 01:31:04 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, February 13, 2026 - 00:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, February 13, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/13/trump-is-the-elephant-in-the-room-as-the-african-union-holds-new-summit?traffic_source=rss" target="_blank">Trump is the ‘elephant in the room’ as the African Union holds new summit</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-13 01:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: New details about suspect released" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +104,20 @@
                 <span class="time">2026-02-12 21:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb9f/live/604a8500-0848-11f1-b5e2-dd58fc65f0f6.jpg" alt="Trump revokes landmark ruling that greenhouse gases endanger public health" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn0zdd7yl4vo?at_medium=RSS&at_campaign=rss" target="_blank">Trump revokes landmark ruling that greenhouse gases endanger public health</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-12 20:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/HA-evg8WgAAY3tl-500x500.jpg" alt="When Amazon badly needed a ride, Europe&#x27;s Ariane 6 rocket delivered" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/02/when-amazon-badly-needed-a-ride-europes-ariane-6-rocket-delivered/" target="_blank">When Amazon badly needed a ride, Europe&#x27;s Ariane 6 rocket delivered</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-13 00:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +163,38 @@
                 <span class="time">2026-02-12 22:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698e2530d6bc30e8fe7c7cd8/master/pass/gear-waymo-dc-2219855633.jpg" alt="Waymo Asks the DC Public to Pressure Their City Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/waymo-asks-the-dc-public-to-pressure-their-city-officials/" target="_blank">Waymo Asks the DC Public to Pressure Their City Officials</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-12 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/miracool/web-3-5eek" target="_blank">Web 3</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-13 01:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/XFS-Linux-7.0" target="_blank">XFS Introducing Autonomous Self-Healing Capabilities With Linux 7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-13 00:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/" target="_blank">Resizing windows on macOS Tahoe – the saga continues</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-12 23:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwy0761clxp3oui065po4.png" alt="Built a Vibe Coded App where you can Style any Image you like! :D" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,33 +222,6 @@
                 <span class="time">2026-02-12 20:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/maintainers/welcome-to-the-eternal-september-of-open-source-heres-what-we-plan-to-do-for-maintainers/" target="_blank">Welcome to the Eternal September of open source. Here’s what we plan to do for maintainers.</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-02-12 20:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-programming-language-after-kotlin" target="_blank">The programming language after Kotlin – with the creator of Kotlin</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-02-12 20:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18877017&w=600" alt="A Developer-Centric Cloud Architecture Framework (DCAF) for Enterprise Platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/developer-centric-cloud-architecture-framework-dcaf" target="_blank">A Developer-Centric Cloud Architecture Framework (DCAF) for Enterprise Platforms</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-12 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/highguard-1-1280x723.jpg" alt="Highguard Dev Who Just Lost His Job Calls Out Toxic Online Reaction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/highguard-dev-who-just-lost-his-job-calls-out-toxic-online-reaction-2000668306" target="_blank">Highguard Dev Who Just Lost His Job Calls Out Toxic Online Reaction</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-13 00:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/marth-1280x725.jpg" alt="Bungie’s Marathon Will Be Free To Try During A Server Slam Ahead Of Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +295,6 @@
                 <span class="time">2026-02-12 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/rich-people-mansions-1280x720.jpg" alt="Rich People Are Turning Their Homes Into Hitman Levels With Armed Guards, Lasers, And Moats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/rich-people-are-turning-their-homes-into-hitman-levels-with-armed-guards-lasers-and-moats-2000668241" target="_blank">Rich People Are Turning Their Homes Into Hitman Levels With Armed Guards, Lasers, And Moats</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-12 18:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 00:09 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
