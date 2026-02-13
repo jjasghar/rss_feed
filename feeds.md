@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-13 11:10:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-13 12:04:55 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, February 13, 2026 - 11:10 UTC</div>
+    <div class="newspaper-date">Friday, February 13, 2026 - 12:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea31/live/cfa82790-08b6-11f1-b197-d9b05591fdc1.jpg" alt="Rubio warns Europe of new era in geopolitics before big Munich speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c99jxryd9xko?at_medium=RSS&at_campaign=rss" target="_blank">Rubio warns Europe of new era in geopolitics before big Munich speech</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-13 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/13/uk-ban-on-palestine-action-was-unlawful-says-court?traffic_source=rss" target="_blank">UK ban on Palestine Action was unlawful, says court</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-13 11:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +98,29 @@
                 <span class="time">2026-02-13 07:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/13/top-goldman-sachs-lawyer-kathy-ruemmler-resigns-over-epstein-ties?traffic_source=rss" target="_blank">Top Goldman Sachs lawyer Kathy Ruemmler resigns over Epstein ties</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-13 05:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-bangladesh-election_7163718.jpg?20260213031425" alt="Bangladesh&#x27;s Nationalist Party wins majority in historic election" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/bangladeshs-nationalist-party-claims-victory-in-historic-election-13506956" target="_blank">Bangladesh&#x27;s Nationalist Party wins majority in historic election</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-13 02:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/ariane-64-500x500.jpg" alt="Rocket Report: Say cheerio to Orbex; China is getting good at booster landings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/02/rocket-report-say-cheerio-to-orbex-china-is-getting-good-at-booster-landings/" target="_blank">Rocket Report: Say cheerio to Orbex; China is getting good at booster landings</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-13 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/698e6f1b362c684d4c3d3064/master/pass/Winter-Olympics-Ilia-Quad-Axel-Culture-2260430523.jpg" alt="How Ilia Malinin Revolutionized Figure Skating with His Quadruple Axel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-ilia-malinin-revolutionized-figure-skating-with-his-quadruple-axel/" target="_blank">How Ilia Malinin Revolutionized Figure Skating with His Quadruple Axel</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-13 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/698e80cecb3b4c303e7dda54/master/pass/I%20Tell%20Everyone%20the%20Best%20Soundbar%20Is%20Last%20Year's%20Samsung,%20and%20Here's%20Why.png" alt="Here&#x27;s Why I&#x27;d Buy the Last Samsung Soundbar First" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,24 +155,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/12/waymo-is-asking-doordash-drivers-to-shut-the-doors-of-its-self-driving-cars/" target="_blank">Waymo is asking DoorDash drivers to shut the doors of its self-driving cars</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-13 04:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/HA-evg8WgAAY3tl-500x500.jpg" alt="When Amazon badly needed a ride, Europe&#x27;s Ariane 6 rocket delivered" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/02/when-amazon-badly-needed-a-ride-europes-ariane-6-rocket-delivered/" target="_blank">When Amazon badly needed a ride, Europe&#x27;s Ariane 6 rocket delivered</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-13 00:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/12/for-1-million-you-can-pay-bryan-johnson-or-bryanai-to-teach-you-how-to-live-longer/" target="_blank">For $1M, you can pay Bryan Johnson (or BryanAI?) to teach you how to live longer</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-12 23:43</span>
             </div>
         </div>
 </div>
@@ -220,20 +214,6 @@
                 <span class="title"><a href="https://itsfoss.com/news/session-co-founder-interview/" target="_blank">Session&amp;#x27;s Co-Founder Thinks You Don&amp;#x27;t Need to Ditch WhatsApp Completely</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-02-13 09:14</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/3d-printer-surveillance.html" target="_blank">3D Printer Surveillance</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-12 12:01</span>
             </div>
         </div>
 </div>
@@ -341,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 11:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 12:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
