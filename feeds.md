@@ -1,42 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-02-13 21:08:47 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-02-13 22:06:05 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 34 feeds processed -->
+<!-- Generated 5 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, February 13, 2026 - 21:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, February 13, 2026 - 22:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -171,6 +156,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-50-Beta" target="_blank">GNOME 50 Beta Released With Stable VRR, GDM Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-13 21:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7tmojjx9odbuxpabs16h.png" alt="Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -215,26 +209,35 @@
                 <span class="time">2026-02-13 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Multi-Lane-SPI" target="_blank">Multi-Lane SPI Support Merged For Linux 7.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-13 18:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/colortweakedyoshi.jpg" alt="Yoshi Mario Galaxy Popcorn Bucket Looks Like He Ate A Crazy Edible" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/super-mario-galaxy-movie-yoshi-popcorn-bucket-amc-regal-2000668765" target="_blank">Yoshi Mario Galaxy Popcorn Bucket Looks Like He Ate A Crazy Edible</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-13 21:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/controllerladybrain-1280x720.jpg" alt="Gamepad Controls Elden Ring Streamer IRL Using A Wild Balance Hack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/perri-karyal-galvanic-vestibular-stimulation-elden-ring-2000668749" target="_blank">Gamepad Controls Elden Ring Streamer IRL Using A Wild Balance Hack</a></span>
                 <span class="feed">Kotaku</span>
+                <span class="time">2026-02-13 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals During Early Presidents Day Sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals During Early Presidents Day Sales</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-13 21:00</span>
             </div>
         </div>
@@ -265,29 +268,20 @@
                 <span class="time">2026-02-13 20:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/mewgenics01-1280x723.jpg" alt="Mewgenics Dev Responds To Criticism Of Its Voice Cameos: ‘If I Only Included People Who Share The Same Exact Opinions As Me, I’d Be The Only One Meowing’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mewgenics-voice-actor-credits-meows-ethan-hila-klein-2000668734" target="_blank">Mewgenics Dev Responds To Criticism Of Its Voice Cameos: ‘If I Only Included People Who Share The Same Exact Opinions As Me, I’d Be The Only One Meowing’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-13 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHBZQXWW365QGQ545KR1E9TG/hero-image.png" alt="These Viture Luma Pro Smart Glasses Are Cheaper Than Ever During Amazon&#x27;s Early Presidents Day Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/viture-luma-pro-ar-glasses-early-presidents-day-2026?utm_medium=RSS" target="_blank">These Viture Luma Pro Smart Glasses Are Cheaper Than Ever During Amazon&#x27;s Early Presidents Day Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-13 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/13/i-have-three-mouths-and-i-must-chew-villains" target="_blank">I Have Three Mouths And I Must Chew Villains</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-02-13 20:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1770926895-20260213.png" alt="Saturday Morning Breakfast Cereal - Scripture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -320,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 21:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 22:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
