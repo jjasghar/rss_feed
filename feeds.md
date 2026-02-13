@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-12 23:04:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-13 00:09:12 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, February 12, 2026 - 23:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, February 13, 2026 - 00:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: New details about suspect released" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: New details about suspect released</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-12 23:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/12/protesters-march-in-venezuela-as-national-assembly-weighs-amnesty-bill?traffic_source=rss" target="_blank">Protesters march in Venezuela as National Assembly weighs amnesty bill</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-12 23:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +98,38 @@
                 <span class="time">2026-02-12 20:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/12/norwegian-police-search-former-pm-jaglands-properties-over-epstein-ties?traffic_source=rss" target="_blank">Norwegian police search former PM Jagland’s properties over Epstein ties</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-12 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/12/cctv-video-captures-moment-sinkhole-swallows-road-in-shanghai?traffic_source=rss" target="_blank">CCTV video captures moment sinkhole swallows road in Shanghai</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-12 19:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/12/for-1-million-you-can-pay-bryan-johnson-or-bryanai-to-teach-you-how-to-live-longer/" target="_blank">For $1 million, you can pay Bryan Johnson (or BryanAI?) to teach you how to live longer</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-12 23:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/878375/god-of-war-sons-of-sparta-trilogy-sony-playstation-ps5-release-date-trailer" target="_blank">A surprise God of War prequel is out on the PS5 right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-12 23:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/698e5f58e6079eaf3eb8e384/master/pass/This%20$500%20Price%20Cut%20Just%20Made%20the%20Prettiest%20Laptop%20of%20Last%20Year%20Worth%20Buying.png" alt="The Asus Zenbook S 16 Is $500 Off and Has Never Been This Cheap" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/asus-zenbook-s-16-presidents-day-sale/" target="_blank">The Asus Zenbook S 16 Is $500 Off and Has Never Been This Cheap</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-12 23:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2225076517_resize-500x500.jpg" alt="OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,33 +157,6 @@
                 <span class="time">2026-02-12 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/877371/trump-carbon-pollution-endangerment-finding-repeal-climate-change" target="_blank">In one swoop, Trump kills US greenhouse gas regulations</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-12 19:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/12/hacker-linked-to-epstein-removed-from-black-hat-cyber-conference-website/" target="_blank">Hacker linked to Epstein removed from Black Hat cyber conference website</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-12 19:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-494590669-500x500.jpg" alt="Bringing the &quot;functionally extinct&quot; American chestnut back from the dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/02/can-modern-genetics-help-us-restore-the-appalachian-forests-of-the-1800s/" target="_blank">Bringing the &quot;functionally extinct&quot; American chestnut back from the dead</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-12 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +169,15 @@
                 <span class="title"><a href="https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p" target="_blank">Built a Vibe Coded App where you can Style any Image you like! :D</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-12 21:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Cache-Aware-Scheduling-Linux-v3" target="_blank">Intel Posts 2026 Update For Cache Aware Scheduling On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-12 21:18</span>
             </div>
         </div>
 <div class="story">
@@ -213,15 +216,6 @@
                 <span class="time">2026-02-12 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hellolukasz/i-built-an-mcp-server-for-my-translation-tool-heres-how-and-why-580o" target="_blank">I Built an MCP Server for My Translation Tool - Here&#x27;s How (and Why)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-12 19:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/marth-1280x725.jpg" alt="Bungie’s Marathon Will Be Free To Try During A Server Slam Ahead Of Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marathon-free-demo-beta-weekend-server-slam-2000668383" target="_blank">Bungie’s Marathon Will Be Free To Try During A Server Slam Ahead Of Launch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-13 00:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/cassini-titan-saturn-1280x853.jpg" alt="Saturn’s Rings Came From a Two-Moon Collision About 100 Million Years Ago, Study Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/saturns-rings-came-from-a-two-moon-collision-about-100-million-years-ago-study-says-2000721450" target="_blank">Saturn’s Rings Came From a Two-Moon Collision About 100 Million Years Ago, Study Says</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-12 23:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/afflecktiredviralai-1280x720.jpg" alt="Viral Post Comparing Covid To AI Comes From Same Dude Pushing Ugly AI Game Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,24 +289,6 @@
                 <span class="time">2026-02-12 18:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/quick.jpg?fit=1200%2C908&amp;quality=60&amp;ssl=1" alt="An AI agent published a hit piece on the developer who rejected it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/12/an-ai-agent-published-a-hit-piece-on-the-developer-who-rejected-it.html" target="_blank">An AI agent published a hit piece on the developer who rejected it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-12 17:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KH9965D6PKXGX3AGXWYMVRCJ/hero-image.jpg" alt="Apple&#x27;s Big AI Siri Plans Are Once Again Delayed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apples-big-ai-siri-plans-are-once-again-delayed?utm_medium=RSS" target="_blank">Apple&#x27;s Big AI Siri Plans Are Once Again Delayed</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-12 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,7 +318,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 23:05 UTC
+        🔄 Last Updated: 00:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
