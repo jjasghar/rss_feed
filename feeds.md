@@ -1,27 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-02-13 22:06:05 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-13 23:06:35 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 19 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, February 13, 2026 - 22:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, February 13, 2026 - 23:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbc2/live/f9f8f810-0921-11f1-9972-d3f265c101c6.jpg" alt="Weston wins emphatic skeleton gold for first GB medal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/sport/articles/cgml91gx27go?at_medium=RSS&at_campaign=rss" target="_blank">Weston wins emphatic skeleton gold for first GB medal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-13 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,20 +95,20 @@
                 <span class="time">2026-02-13 16:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/guthrie-6-ht-gmh-260210_1770746685548_hpMain_4x3t_384.jpg" alt="Nancy Guthrie kidnapping suspect: What we know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/nancy-guthrie-kidnapping-suspect/story?id=130133800" target="_blank">Nancy Guthrie kidnapping suspect: What we know</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-13 16:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/" target="_blank">Airbnb says a third of its customer support is now handled by AI in the US and Canada</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-13 22:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,20 +154,20 @@
                 <span class="time">2026-02-13 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698f5a4f1855a1c6235b9d6a/master/pass/biz-schiff-2246915718.jpg" alt="Senators Urge Top Regulator to Stay Out of Prediction Market Lawsuits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/senators-urge-top-regulators-to-stay-out-of-prediction-market-lawsuits/" target="_blank">Senators Urge Top Regulator to Stay Out of Prediction Market Lawsuits</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-13 19:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lawrencedcodes/staying-market-volatility-resilient-as-a-dev-in-the-ai-era-52gc" target="_blank">Staying Market Volatility Resilient as a Dev in the AI Era</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-13 22:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,13 +213,18 @@
                 <span class="time">2026-02-13 19:04</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18878127&w=600" alt="A Guide to Parallax and Scroll-Based Animations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/awesome-parallax-effect-with-css-only" target="_blank">A Guide to Parallax and Scroll-Based Animations</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-13 19:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-do-squid-dream.html" target="_blank">Friday Squid Blogging: Do Squid Dream?</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-02-13 22:08</span>
             </div>
         </div>
 </div>
@@ -314,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 22:06 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 23:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
