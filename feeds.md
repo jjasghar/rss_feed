@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-13 09:13:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-13 10:11:38 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, February 13, 2026 - 09:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, February 13, 2026 - 10:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/13/g-s1-109818/bipartisan-effort-save-health-subsidies-failed-ice-reform-different" target="_blank">A bipartisan effort to save health subsidies failed. Will ICE reform be different?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-13 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +96,20 @@
                 <span class="time">2026-02-13 02:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/12/nx-s1-5712772/olympic-medals-milan-cortina-games" target="_blank">This year&#x27;s Olympic medals are generating chatter — for their defects and price</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-13 01:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/13/fusion-startup-helion-hits-blistering-temps-as-it-races-toward-2028-deadline/" target="_blank">Fusion startup Helion hits blistering temps as it races toward 2028 deadline</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-13 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +155,6 @@
                 <span class="time">2026-02-12 23:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/878375/god-of-war-sons-of-sparta-trilogy-sony-playstation-ps5-release-date-trailer" target="_blank">A surprise God of War prequel is out on the PS5 right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-12 23:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +170,24 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/allenbailey25/i-thought-more-tracking-would-calm-me-166" target="_blank">I Thought More Tracking Would Calm Me</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-13 10:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/session-co-founder-interview/" target="_blank">Session&amp;#x27;s Co-Founder Thinks You Don&amp;#x27;t Need to Ditch WhatsApp Completely</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-13 09:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/podcasts/beyond-code-engineers-evolve-ai-era/en/smallimage/the-infoq-podcast-logo-thumbnail-1770643319546.jpg" alt="Podcast: Beyond Code: How Engineers Need to Evolve in the AI Era" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -182,37 +199,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f" target="_blank">MinIO repository is no longer maintained</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-13 07:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/bryanprimus/graceful-shutdown-in-go-2mlg" target="_blank">Graceful Shutdown in Go</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-13 05:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-channels-1gii" target="_blank">The Secret Life of Go: Channels</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-13 04:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-MM" target="_blank">Linux 7.0 MM Changes Bring Some Very Nice Performance Optimizations</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-13 01:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/miracool/web-3-5eek" target="_blank">Web 3</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-13 01:29</span>
             </div>
         </div>
 </div>
@@ -334,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 09:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 10:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
