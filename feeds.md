@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-13 16:11:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-13 17:14:58 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 12 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, February 13, 2026 - 16:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, February 13, 2026 - 17:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/guthrie-6-ht-gmh-260210_1770746685548_hpMain_4x3t_384.jpg" alt="Nancy Guthrie kidnapping suspect: What we know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/nancy-guthrie-kidnapping-suspect/story?id=130133800" target="_blank">Nancy Guthrie kidnapping suspect: What we know</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-13 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/13/nx-s1-5708801/kitty-cats-cloud-hands-u-s-olympic-snowboarders" target="_blank">Kitty cats and cloud hands - how U.S. Olympic snowboarders keep calm in competition</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-13 16:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a0f/live/0cff21e0-08f6-11f1-b5e2-dd58fc65f0f6.jpg" alt="World&#x27;s rules-based order &#x27;no longer exists&#x27;, Germany&#x27;s Merz warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy4wpv0wx43o?at_medium=RSS&at_campaign=rss" target="_blank">World&#x27;s rules-based order &#x27;no longer exists&#x27;, Germany&#x27;s Merz warns</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-13 16:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/13/un-accuses-paramilitary-rsf-of-committing-war-crimes-in-sudans-el-fasher?traffic_source=rss" target="_blank">UN accuses paramilitary RSF of committing war crimes in Sudan’s el-Fasher</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-13 16:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,47 +99,29 @@
                 <span class="time">2026-02-13 15:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/13/us-and-europe-must-repair-and-revive-transatlantic-ties-germanys-merz?traffic_source=rss" target="_blank">US and Europe must ‘repair and revive transatlantic ties’: Germany’s Merz</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-13 14:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/grocery-1-rt-er-260212_1770936134200_hpMain_4x3t_384.jpg" alt="Inflation cooled in January, dropping to lowest level in 9 months" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/inflation-expected-cooled-january/story?id=130059514" target="_blank">Inflation cooled in January, dropping to lowest level in 9 months</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-13 13:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/13/bangladeshs-bnp-claims-landslide-win-in-first-election-since-2024-uprising?traffic_source=rss" target="_blank">Bangladesh’s BNP claims landslide win in first election since 2024 uprising</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-13 13:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/13/live-explosions-in-gaza-54-wounded-in-west-bank-settler-attacks?traffic_source=rss" target="_blank">LIVE: Explosions in Gaza, 54 wounded in West Bank settler attacks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-13 12:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/878761/mass-exodus-at-xai-grok-elon-musk-restructuring" target="_blank">What’s behind the mass exodus at xAI?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-13 17:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/698e6de5fb604500de64de72/master/pass/Backchannel-How-AI-Changed-Zillow-Business-85654719.jpg" alt="Zillow Has Gone Wild—for AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/backchannel-how-artificial-intelligence-changed-zillow/" target="_blank">Zillow Has Gone Wild—for AI</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-13 16:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,24 +158,6 @@
                 <span class="time">2026-02-13 15:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/inflatableman-500x500.jpg" alt="I spent two days gigging at RentAHuman and didn&#x27;t make a single cent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/02/i-spent-two-days-gigging-at-rentahuman-and-didnt-make-a-single-cent/" target="_blank">I spent two days gigging at RentAHuman and didn&#x27;t make a single cent</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-13 14:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698e0fccfa2d60a80c5d2e22/master/pass/Are%20Waterproof%20Running%20Shoes%20Worth%20It_.png" alt="Are Waterproof Sneakers Worth It? (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/waterproof-running-shoes-worth-it/" target="_blank">Are Waterproof Sneakers Worth It? (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-13 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,10 +166,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ganesh_parella/why-do-we-need-databases-519n" target="_blank">Why do we need Databases?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-13 17:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18878098&w=600" alt="How to Build an MCP Server" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-to-build-mcp-server" target="_blank">How to Build an MCP Server</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-13 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2026/02/13/even-your-voice-is-a-data-problem/" target="_blank">Even your voice is a data problem</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-02-13 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Crypto-ML-DSA" target="_blank">Linux 7.0 Lands ML-DSA Quantum-Resistant Signature Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-13 16:20</span>
             </div>
         </div>
 <div class="story">
@@ -192,38 +217,20 @@
                 <span class="time">2026-02-13 15:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kit2026/i-stopped-prompt-engineering-the-same-text-features-and-turned-them-into-9-api-endpoints-571m" target="_blank">I stopped prompt-engineering the same text features and turned them into 9 API endpoints</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-13 15:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/olivier-coreprose/feldman-v-affable-avenue-lessons-from-an-ai-hallucinated-default-judgment-in-federal-court-30pc" target="_blank">Feldman v Affable Avenue: Lessons from an AI-Hallucinated Default Judgment in Federal Court</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-13 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/zed-industries/zed/pull/46758" target="_blank">Zed editor switching graphics lib from blade to wgpu</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-13 14:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/GoodOmens-1280x853.jpg" alt="Now We Know When Prime Video Is Bringing ‘Good Omens’ to Its End" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/good-omens-finale-release-date-prime-video-neil-gaiman-2000721915" target="_blank">Now We Know When Prime Video Is Bringing ‘Good Omens’ to Its End</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-13 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/Ian-Claughton-flamethrower-e1770994942683-1280x854.jpg" alt="‘Home Alone-Inspired’ Drug Dealer Who Rigged House With Booby Traps Gets 7 Years in Prison" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,20 +276,20 @@
                 <span class="time">2026-02-13 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/donald-trump-e1764689813387.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Grandpa Pudding Brains is bored and sleepy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/12/grandpa-pudding-brains-is-bored-and-sleepy.html" target="_blank">Grandpa Pudding Brains is bored and sleepy</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-13 02:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1770926895-20260213.png" alt="Saturday Morning Breakfast Cereal - Scripture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/scripture" target="_blank">Saturday Morning Breakfast Cereal - Scripture</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-02-13 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -301,31 +308,13 @@
                 <span class="time">2026-02-13 01:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/your-job/" target="_blank">Your Job</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-02-12 16:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1770877498-20260212_edit.png" alt="Saturday Morning Breakfast Cereal - Wife" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/wife-2" target="_blank">Saturday Morning Breakfast Cereal - Wife</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-02-12 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 16:11 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 17:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
