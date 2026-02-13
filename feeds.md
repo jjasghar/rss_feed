@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-13 14:13:47 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-13 15:12:42 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, February 13, 2026 - 14:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, February 13, 2026 - 15:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/13/us-and-europe-must-repair-and-revive-transatlantic-ties-germanys-merz?traffic_source=rss" target="_blank">US and Europe must ‘repair and revive transatlantic ties’: Germany’s Merz</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-13 14:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/grocery-1-rt-er-260212_1770936134200_hpMain_4x3t_384.jpg" alt="Inflation cooled in January, dropping to lowest level in 9 months" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Business/inflation-expected-cooled-january/story?id=130059514" target="_blank">Inflation cooled in January, dropping to lowest level in 9 months</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-13 13:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +103,38 @@
                 <span class="time">2026-02-13 12:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/13/g-s1-109972/up-first-newsletter-minnesota-immigration-dhs-funding-2026-olympics-milan-cortina" target="_blank">Minnesota immigration crackdown will end, border czar says. And, DHS funding to expire</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-13 11:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea31/live/cfa82790-08b6-11f1-b197-d9b05591fdc1.jpg" alt="Rubio warns Europe of new era in geopolitics before big Munich speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c99jxryd9xko?at_medium=RSS&at_campaign=rss" target="_blank">Rubio warns Europe of new era in geopolitics before big Munich speech</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-13 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/878713/ice-minnesota-dhs-suburbs" target="_blank">ICE moves out to the suburbs</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-13 15:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/13/coheres-240m-year-sets-stage-for-ipo/" target="_blank">Cohere’s $240M year sets stage for IPO</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-13 15:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/inflatableman-500x500.jpg" alt="I spent two days gigging at RentAHuman and didn&#x27;t make a single cent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/02/i-spent-two-days-gigging-at-rentahuman-and-didnt-make-a-single-cent/" target="_blank">I spent two days gigging at RentAHuman and didn&#x27;t make a single cent</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-13 14:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/ariane-64-500x500.jpg" alt="Rocket Report: Say cheerio to Orbex; China is getting good at booster landings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,33 +162,6 @@
                 <span class="time">2026-02-13 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/13/fusion-startup-helion-hits-blistering-temps-as-it-races-toward-2028-deadline/" target="_blank">Fusion startup Helion hits blistering temps as it races toward 2028 deadline</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-13 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/877796/tenways-cgo-compact-e-bike-twists-folds-flat" target="_blank">Tenways’ compact e-bike twists and folds to go flat</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-13 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/12/waymo-is-asking-doordash-drivers-to-shut-the-doors-of-its-self-driving-cars/" target="_blank">Waymo is asking DoorDash drivers to shut the doors of its self-driving cars</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-13 04:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,9 +180,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kit2026/i-stopped-prompt-engineering-the-same-text-features-and-turned-them-into-9-api-endpoints-571m" target="_blank">I stopped prompt-engineering the same text features and turned them into 9 API endpoints</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-13 15:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/olivier-coreprose/feldman-v-affable-avenue-lessons-from-an-ai-hallucinated-default-judgment-in-federal-court-30pc" target="_blank">Feldman v Affable Avenue: Lessons from an AI-Hallucinated Default Judgment in Federal Court</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-13 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/zed-industries/zed/pull/46758" target="_blank">Zed editor switching graphics lib from blade to wgpu</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-13 14:03</span>
             </div>
         </div>
 <div class="story">
@@ -198,29 +221,29 @@
                 <span class="time">2026-02-13 13:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/prashant_chouksey_28055f0/python-generators-deep-dive-part-1-lazy-evaluation-memory-optimization-4bk" target="_blank">Python Generators Deep Dive Part 1: Lazy Evaluation &amp; Memory Optimization🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-13 13:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Slab-Sheaves" target="_blank">Sheaves Ready To Play A Bigger Role In Linux 7.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-13 13:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/cliar.jpg" alt="Metaphor Refantazio Director Praises Clair Obscur For New Steam Bundle: ‘I Am Genuinely Delighted To See Japanese-Style RPGs Being Born And Embraced’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/clair-obscur-jrpg-sale-metaphor-refantazio-steam-bundle-discount-2000668660" target="_blank">Metaphor Refantazio Director Praises Clair Obscur For New Steam Bundle: ‘I Am Genuinely Delighted To See Japanese-Style RPGs Being Born And Embraced’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-13 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KH9WBZB32S8QG90GGBESCX4N/hero-image.png" alt="Claude Has a Surprisingly Great Way to Add Multiple Appointments to Your Calendar at Once" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/use-claude-create-ical-files?utm_medium=RSS" target="_blank">Claude Has a Surprisingly Great Way to Add Multiple Appointments to Your Calendar at Once</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-13 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/nyu-time-crystal-eps-bead-cropped-1280x853.jpg" alt="Scientists Discover Time Crystals You Can Hold—and They Levitate" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -255,24 +278,6 @@
                 <span class="title"><a href="https://kotaku.com/marathon-free-demo-beta-weekend-server-slam-2000668383" target="_blank">Bungie’s Marathon Will Be Free To Try During A Server Slam Ahead Of Launch</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-02-13 00:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/cassini-titan-saturn-1280x853.jpg" alt="Saturn’s Rings Came From a Two-Moon Collision About 100 Million Years Ago, Study Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/saturns-rings-came-from-a-two-moon-collision-about-100-million-years-ago-study-says-2000721450" target="_blank">Saturn’s Rings Came From a Two-Moon Collision About 100 Million Years Ago, Study Says</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-12 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/afflecktiredviralai-1280x720.jpg" alt="Viral Post Comparing Covid To AI Comes From Same Dude Pushing Ugly AI Game Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-viral-ai-slop-post-was-made-by-same-guy-from-the-viral-ai-slop-game-2000668276" target="_blank">Viral Post Comparing Covid To AI Comes From Same Dude Pushing Ugly AI Game Slop</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-12 21:09</span>
             </div>
         </div>
 </div>
@@ -321,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 14:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 15:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
