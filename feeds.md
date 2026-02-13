@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-13 15:12:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-13 16:11:18 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, February 13, 2026 - 15:12 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, February 13, 2026 - 16:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/13/uk-court-says-palestine-action-ban-unlawful-what-does-the-verdict-mean?traffic_source=rss" target="_blank">UK court says Palestine Action ban ‘unlawful’: What does the verdict mean?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-13 15:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b428/live/37b3eaf0-08ca-11f1-b7e1-afb6d0884c18.jpg" alt="Palestine Action ban ruled unlawful but group remains proscribed for now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3wleezq73no?at_medium=RSS&at_campaign=rss" target="_blank">Palestine Action ban ruled unlawful but group remains proscribed for now</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-13 15:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +101,29 @@
                 <span class="time">2026-02-13 12:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770985475988_tdy_news_7a_kreutz_winter_nancy_guthrie_search_260213_1920x1080-y61rsu.jpg" alt="Nancy Guthrie Case: FBI Raises Reward, Gives Details of Suspect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/nancy-guthrie-case-fbi-raises-reward-gives-details-of-suspect-257642565521" target="_blank">Nancy Guthrie Case: FBI Raises Reward, Gives Details of Suspect</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-13 12:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-trump-israel_7146586.jpg?20260126180342" alt="There&#x27;s no hiding the schism that now lies between Trump and Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/theres-no-hiding-the-schism-that-now-lies-between-trump-and-israel-13507072" target="_blank">There&#x27;s no hiding the schism that now lies between Trump and Israel</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-13 12:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/13/senior-engineers-including-co-founders-exit-xai-amid-controversy/" target="_blank">Elon Musk suggests spate of xAI exits have been push, not pull</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-13 16:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/unnamed-2-500x500.jpg" alt="What if riders don&#x27;t close a robotaxi door after a ride? Try DoorDash." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/02/what-if-riders-dont-close-a-robotaxi-door-after-a-ride-try-doordash/" target="_blank">What if riders don&#x27;t close a robotaxi door after a ride? Try DoorDash.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-13 15:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,30 +152,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/ariane-64-500x500.jpg" alt="Rocket Report: Say cheerio to Orbex; China is getting good at booster landings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/02/rocket-report-say-cheerio-to-orbex-china-is-getting-good-at-booster-landings/" target="_blank">Rocket Report: Say cheerio to Orbex; China is getting good at booster landings</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-13 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698e6f1b362c684d4c3d3064/master/pass/Winter-Olympics-Ilia-Quad-Axel-Culture-2260430523.jpg" alt="How Ilia Malinin Revolutionized Figure Skating with His Quadruple Axel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media.wired.com/photos/698e0fccfa2d60a80c5d2e22/master/pass/Are%20Waterproof%20Running%20Shoes%20Worth%20It_.png" alt="Are Waterproof Sneakers Worth It? (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-ilia-malinin-revolutionized-figure-skating-with-his-quadruple-axel/" target="_blank">How Ilia Malinin Revolutionized Figure Skating with His Quadruple Axel</a></span>
+                <span class="title"><a href="https://www.wired.com/story/waterproof-running-shoes-worth-it/" target="_blank">Are Waterproof Sneakers Worth It? (2026)</a></span>
                 <span class="feed">WIRED</span>
-                <span class="time">2026-02-13 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698e80cecb3b4c303e7dda54/master/pass/I%20Tell%20Everyone%20the%20Best%20Soundbar%20Is%20Last%20Year's%20Samsung,%20and%20Here's%20Why.png" alt="Here&#x27;s Why I&#x27;d Buy the Last Samsung Soundbar First" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-best-soundbar-is-last-years-samsung/" target="_blank">Here&#x27;s Why I&#x27;d Buy the Last Samsung Soundbar First</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-13 11:00</span>
+                <span class="time">2026-02-13 13:00</span>
             </div>
         </div>
 </div>
@@ -174,6 +172,24 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/02/13/even-your-voice-is-a-data-problem/" target="_blank">Even your voice is a data problem</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-02-13 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7786oda7mswv3hmrgcpe.png" alt="AI Infra HPC — CPU" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bokai_gu/ai-infra-hpc-cpu-38h4" target="_blank">AI Infra HPC — CPU</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-13 16:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-9005-sev-snp" target="_blank">Evaluating The Performance Cost To AMD SEV-SNP On EPYC 9005 VMs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-13 15:17</span>
             </div>
         </div>
 <div class="story">
@@ -203,29 +219,29 @@
                 <span class="time">2026-02-13 14:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18878058&w=600" alt="Introducing Sierra Charts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/all-about-sierra-charts" target="_blank">Introducing Sierra Charts</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-13 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Drops-Old-440BX-EDAC" target="_blank">Linux Gets Rid Of Intel 440BX EDAC Driver For Old Pentium CPUs After Being Broken For 19+ Years</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-13 13:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Ian-Claughton-flamethrower-e1770994942683-1280x854.jpg" alt="‘Home Alone-Inspired’ Drug Dealer Who Rigged House With Booby Traps Gets 7 Years in Prison" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/home-alone-inspired-drug-dealer-who-rigged-house-with-booby-traps-gets-7-years-in-prison-2000721216" target="_blank">‘Home Alone-Inspired’ Drug Dealer Who Rigged House With Booby Traps Gets 7 Years in Prison</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-13 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/post-1280x729.jpg" alt="Starsand Island Devs Beg Fans To Stop Using AI To Post Fake ‘Overly Positive’ Steam Reviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/starsand-island-ai-steam-reviews-rpg-life-sim-2000668666" target="_blank">Starsand Island Devs Beg Fans To Stop Using AI To Post Fake ‘Overly Positive’ Steam Reviews</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-13 15:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/cliar.jpg" alt="Metaphor Refantazio Director Praises Clair Obscur For New Steam Bundle: ‘I Am Genuinely Delighted To See Japanese-Style RPGs Being Born And Embraced’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,24 +276,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/12/grandpa-pudding-brains-is-bored-and-sleepy.html" target="_blank">Grandpa Pudding Brains is bored and sleepy</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-13 02:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/highguard-1-1280x723.jpg" alt="Highguard Dev Who Just Lost His Job Calls Out Toxic Online Reaction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/highguard-dev-who-just-lost-his-job-calls-out-toxic-online-reaction-2000668306" target="_blank">Highguard Dev Who Just Lost His Job Calls Out Toxic Online Reaction</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-13 00:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/marth-1280x725.jpg" alt="Bungie’s Marathon Will Be Free To Try During A Server Slam Ahead Of Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marathon-free-demo-beta-weekend-server-slam-2000668383" target="_blank">Bungie’s Marathon Will Be Free To Try During A Server Slam Ahead Of Launch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-13 00:02</span>
             </div>
         </div>
 </div>
@@ -326,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 15:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 16:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
