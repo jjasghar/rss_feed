@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-13 12:04:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-13 13:24:43 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, February 13, 2026 - 12:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, February 13, 2026 - 13:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/13/live-explosions-in-gaza-54-wounded-in-west-bank-settler-attacks?traffic_source=rss" target="_blank">LIVE: Explosions in Gaza, 54 wounded in West Bank settler attacks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-13 12:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1770985475988_tdy_news_7a_kreutz_winter_nancy_guthrie_search_260213_1920x1080-y61rsu.jpg" alt="Nancy Guthrie Case: FBI Raises Reward, Gives Details of Suspect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/nancy-guthrie-case-fbi-raises-reward-gives-details-of-suspect-257642565521" target="_blank">Nancy Guthrie Case: FBI Raises Reward, Gives Details of Suspect</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-13 12:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/13/g-s1-109972/up-first-newsletter-minnesota-immigration-dhs-funding-2026-olympics-milan-cortina" target="_blank">Minnesota immigration crackdown will end, border czar says. And, DHS funding to expire</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-13 11:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea31/live/cfa82790-08b6-11f1-b197-d9b05591fdc1.jpg" alt="Rubio warns Europe of new era in geopolitics before big Munich speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,33 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/13/nx-s1-5712808/nasa-spacex-crew-12-launch-iss" target="_blank">On their way! 4 people on NASA Crew-12 mission launch to International Space Station</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-13 10:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/canada-gty-er-260212_1770933387857_hpMain_4x3t_384.jpg" alt="What&#x27;s next after House rebukes Trump&#x27;s tariffs on Canada?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/after-house-rebukes-trumps-tariffs-canada/story?id=130106207" target="_blank">What&#x27;s next after House rebukes Trump&#x27;s tariffs on Canada?</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-13 10:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/13/g-s1-109818/bipartisan-effort-save-health-subsidies-failed-ice-reform-different" target="_blank">A bipartisan effort to save health subsidies failed. Will ICE reform be different?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-13 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/13/bnp-leader-cheered-by-supporters-after-bangladesh-election?traffic_source=rss" target="_blank">BNP leader cheered by supporters after Bangladesh election</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-13 07:23</span>
             </div>
         </div>
 </div>
@@ -174,6 +173,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/prashant_chouksey_28055f0/python-generators-deep-dive-part-1-lazy-evaluation-memory-optimization-4bk" target="_blank">Python Generators Deep Dive Part 1: Lazy Evaluation &amp; Memory Optimization🚀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-13 13:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Slab-Sheaves" target="_blank">Sheaves Ready To Play A Bigger Role In Linux 7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-13 13:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://monosketch.io/" target="_blank">Monosketch</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-13 12:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Sound" target="_blank">Intel Nova Lake Sound Support In Linux 7.0</a></span>
                 <span class="feed">Phoronix</span>
@@ -187,33 +213,6 @@
                 <span class="title"><a href="https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/" target="_blank">WolfSSL Sucks Too, So Now What?</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-13 10:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/allenbailey25/i-thought-more-tracking-would-calm-me-166" target="_blank">I Thought More Tracking Would Calm Me</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-13 10:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/from-inspiration-to-impact-design-students-from-regents-university-london-explore-open-design-for-their-dissertation-projects" target="_blank">From inspiration to impact: design students from Regent’s University London explore open design for their dissertation projects</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-02-13 09:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/session-co-founder-interview/" target="_blank">Session&amp;#x27;s Co-Founder Thinks You Don&amp;#x27;t Need to Ditch WhatsApp Completely</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-13 09:14</span>
             </div>
         </div>
 </div>
@@ -321,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 12:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 13:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
