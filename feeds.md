@@ -1,31 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-02-14 19:05:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-14 20:01:40 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, February 14, 2026 - 19:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, February 14, 2026 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c2lrdq47149o?at_medium=RSS&at_campaign=rss" target="_blank">Rubio says US and Europe &#x27;belong together&#x27; despite tensions</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-14 18:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/14/assailants-kill-raids-northwest-nigeria-villages-residents-say" target="_blank">Assailants kill at least 30 in north-west Nigerian villages, residents say</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-14 18:02</span>
             </div>
         </div>
 <div class="story">
@@ -84,15 +91,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/14/rubio-at-munich-security-conference-us-wants-europe-to-be-strong?traffic_source=rss" target="_blank">Rubio at Munich Security Conference: US wants Europe to be ‘strong’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-14 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/14/deadly-drone-strikes-cloud-us-brokered-russia-ukraine-talks-in-geneva?traffic_source=rss" target="_blank">Deadly drone strikes cloud US-brokered Russia-Ukraine talks in Geneva</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-14 14:35</span>
             </div>
         </div>
 </div>
@@ -171,6 +169,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/" target="_blank">Internet Increasingly Becoming Unarchivable</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-14 18:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/victoor/building-a-privacy-first-finance-app-with-laravel-12-and-react-19-2j3d" target="_blank">Building a Privacy-First Finance App with Laravel 12 and React 19</a></span>
                 <span class="feed">DEV Community</span>
@@ -204,15 +211,6 @@
                 <span class="time">2026-02-14 13:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/claude-built-c-compiler/en/headerimage/claude-built-c-compiler-1771067001094.jpeg" alt="Sixteen Claude Agents Built a C Compiler Without Human Intervention... Almost" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/claude-built-c-compiler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Sixteen Claude Agents Built a C Compiler Without Human Intervention... Almost</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-14 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/mobile-legends.jpg" alt="Saudi Arabia Looks To Extend Death Grip Over Game Industry With New $6 Billion Acquisition" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/saudi-arabia-bytedance-moonton-acecraft-mobile-ea-2000668972" target="_blank">Saudi Arabia Looks To Extend Death Grip Over Game Industry With New $6 Billion Acquisition</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-14 19:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -286,15 +293,6 @@
                 <span class="time">2026-02-14 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/EVA-AI-1280x960.jpg" alt="I Went On a Dinner Date With an AI Chatbot. Here’s How It Went." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/i-went-on-a-date-with-an-ai-chatbot-heres-how-it-went-2000721484" target="_blank">I Went On a Dinner Date With an AI Chatbot. Here’s How It Went.</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-14 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 19:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
