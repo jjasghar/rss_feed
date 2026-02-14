@@ -1,29 +1,46 @@
-<!-- Processing 54 RSS feeds at 2026-02-14 20:01:40 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-14 21:02:57 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Generated 8 new posts out of 37 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, February 14, 2026 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, February 14, 2026 - 21:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +56,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/14/nx-s1-5714574/speedskater-jordan-stolz-win" target="_blank">American speedskater Jordan Stolz wins second Olympic gold with 500-meter race victory</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-14 19:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f567/live/80039470-09a8-11f1-b7e1-afb6d0884c18.jpg" alt="Rubio says US and Europe &#x27;belong together&#x27; despite tensions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,20 +110,20 @@
                 <span class="time">2026-02-14 15:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/14/rubio-at-munich-security-conference-us-wants-europe-to-be-strong?traffic_source=rss" target="_blank">Rubio at Munich Security Conference: US wants Europe to be ‘strong’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-14 15:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/14/stacy-brown-philpot-cherryrock-capital-vc/" target="_blank">In a changed VC landscape, this exec is doubling down on overlooked founders</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-14 20:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -120,6 +146,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/878927/ibuypower-gaming-desktop-pc-presidents-day-sale-deal" target="_blank">iBuyPower’s gaming desktops are discounted for Presidents Day</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-14 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/games/878121/relooted-review-xbox-steam" target="_blank">Returning stolen artifacts becomes a thrilling heist in Relooted</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-14 14:00</span>
@@ -134,24 +169,6 @@
                 <span class="time">2026-02-14 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/kuiper-500x500.jpg" alt="Astronomers are filling in the blanks of the Kuiper Belt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/02/astronomers-are-filling-in-the-blanks-of-the-kuiper-belt/" target="_blank">Astronomers are filling in the blanks of the Kuiper Belt</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-14 11:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698f769e1855a1c6235b9fef/master/pass/sec-flock-ring-2257248210.jpg" alt="Ring Kills Flock Safety Deal After Super Bowl Ad Uproar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/security-news-this-week-ring-kills-flock-safety-deal-after-super-bowl-ad-uproar/" target="_blank">Ring Kills Flock Safety Deal After Super Bowl Ad Uproar</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-14 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -161,9 +178,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dean0x/stop-your-coding-agent-from-stealing-production-secrets-4ogi" target="_blank">Stop Your Coding Agent From Stealing Production Secrets</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-14 20:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Vim-9.2-Released" target="_blank">Vim 9.2 Released With Experimental Wayland Support, Better HiDPI Display Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-14 20:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vigneshwaralingam/going-back-to-my-school-where-my-habits-goals-and-dreams-were-born-3e5b" target="_blank">Going Back to My School: Where My Habits, Goals, and Dreams Were Born</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-14 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/" target="_blank">News publishers limit Internet Archive access due to AI scraping concerns</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-14 18:46</span>
             </div>
         </div>
 <div class="story">
@@ -182,33 +226,6 @@
                 <span class="title"><a href="https://dev.to/victoor/building-a-privacy-first-finance-app-with-laravel-12-and-react-19-2j3d" target="_blank">Building a Privacy-First Finance App with Laravel 12 and React 19</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-14 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/" target="_blank">My smart sleep mask broadcasts users&#x27; brainwaves to an open MQTT broker</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-14 15:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Quantum-Passes-OSS-End" target="_blank">Intel Ends Work On Quantum Compiler Open-Source Bits</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-14 14:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ooh.directory/" target="_blank">Ooh.directory: a place to find good blogs that interest you</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-14 13:40</span>
             </div>
         </div>
 </div>
@@ -239,6 +256,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/knights-guinevere2-1280x853.jpg" alt="‘Knights of Guinevere’ Will Officially Return As a Full Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/knights-of-guinevere-will-officially-return-as-a-full-series-2000722194" target="_blank">‘Knights of Guinevere’ Will Officially Return As a Full Series</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-14 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/mobile-legends.jpg" alt="Saudi Arabia Looks To Extend Death Grip Over Game Industry With New $6 Billion Acquisition" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +310,6 @@
                 <span class="time">2026-02-14 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/TheMuppetShowSabrinaCarpenter-1280x853.jpg" alt="Hi-Yah! ‘The Muppet Show’ Was a Smash Hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/hi-yah-the-muppet-show-was-a-smash-hit-2000722178" target="_blank">Hi-Yah! ‘The Muppet Show’ Was a Smash Hit</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-14 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -307,22 +324,13 @@
                 <span class="time">2026-02-14 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/13/i-have-three-mouths-and-i-must-chew-villains" target="_blank">I Have Three Mouths And I Must Chew Villains</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-02-13 20:52</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 21:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
