@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-14 09:05:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-14 10:02:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, February 14, 2026 - 09:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, February 14, 2026 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/14/g-s1-110107/rubio-speech-munich" target="_blank">Rubio reassures trans-Atlantic ties with Europe at Munich Security Conference</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-14 09:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/14/in-munich-rubio-urges-transatlantic-unity-but-lashes-europe-on-migration?traffic_source=rss" target="_blank">In Munich, Rubio urges transatlantic unity but lashes Europe on migration</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-14 09:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2026/2/14/why-the-bnp-won-bangladeshs-post-uprising-election?traffic_source=rss" target="_blank">Why the BNP won Bangladesh’s post-uprising election</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-14 05:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/14/nx-s1-5713914/department-of-homeland-security-shutdown" target="_blank">5 things to know about the shutdown at the Department of Homeland Security</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-14 05:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/guthrie-search-feb-13_1771043769710_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: Law enforcement activity near Guthrie&#x27;s home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: Law enforcement activity near Guthrie&#x27;s home</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-14 05:04</span>
             </div>
         </div>
 </div>
@@ -164,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/skyriss/the-1-rule-how-much-should-you-risk-per-trade-28ok" target="_blank">The 1% Rule: How Much Should You Risk per Trade?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-14 09:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mop51ip2215a4hfxnjj.png" alt="Reimagining DevOps with AI: InfraCopilot + GitHub Copilot CLI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -182,6 +195,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ziglang.org/devlog/2026/#2026-02-13" target="_blank">Zig – io_uring and Grand Central Dispatch std.Io implementations landed</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-14 08:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fi.imgflip.com%2Fak3vbz.jpg" alt="I enjoy programming" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -197,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-loop-that-skipped-4g1b" target="_blank">The Secret Life of Python: The Loop That Skipped</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-14 05:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shimo4228/everything-claude-code-ecc-complete-cheatsheet-24ok" target="_blank">Everything Claude Code (ECC) Complete Cheatsheet</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-14 05:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/chronoyevsky/quick-start-for-libjwt3-2i4" target="_blank">Quick Start for libjwt3</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-14 04:26</span>
             </div>
         </div>
 </div>
@@ -318,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 09:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
