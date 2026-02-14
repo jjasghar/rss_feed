@@ -1,29 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-14 04:30:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-14 05:17:55 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, February 14, 2026 - 04:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, February 14, 2026 - 05:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/guthrie-search-feb-13_1771043769710_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: Law enforcement activity near Guthrie&#x27;s home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: Law enforcement activity near Guthrie&#x27;s home</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-14 05:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,15 +101,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/sheriff-defends-handling-of-evidence-in-search-for-nancy-guthrie-257677381996" target="_blank">Sheriff defends handling of evidence in search for Nancy Guthrie</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-13 23:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/13/nx-s1-5713991/ilia-malinin-mikhail-shaidorov-figure-skating-olympics" target="_blank">Ilia Malinin, U.S. figure skater favored for gold, finishes 8th</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-13 22:50</span>
             </div>
         </div>
 </div>
@@ -161,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shimo4228/everything-claude-code-ecc-complete-cheatsheet-24ok" target="_blank">Everything Claude Code (ECC) Complete Cheatsheet</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-14 05:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/chronoyevsky/quick-start-for-libjwt3-2i4" target="_blank">Quick Start for libjwt3</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-14 04:26</span>
@@ -200,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Godot-4.7-Dev-1-Vulkan-RT" target="_blank">Godot 4.7 Making Progress On Vulkan Ray-Tracing</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-14 01:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/" target="_blank">An AI Agent Published a Hit Piece on Me – More Things Have Happened</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-14 00:37</span>
             </div>
         </div>
 </div>
@@ -316,22 +326,13 @@
                 <span class="time">2026-02-13 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/bad_map_projection_zero_declination.png" alt="Bad Map Projection: Zero Declination" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3207/" target="_blank">Bad Map Projection: Zero Declination</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-02-13 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 04:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 05:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
