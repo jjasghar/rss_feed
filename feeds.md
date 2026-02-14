@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-14 08:03:21 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-02-14 09:05:48 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, February 14, 2026 - 08:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, February 14, 2026 - 09:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/14/two-philippine-senators-named-co-perpetrators-in-duterte-icc-case?traffic_source=rss" target="_blank">Two Philippine senators named ‘co-perpetrators’ in Duterte ICC case</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-14 08:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +99,20 @@
                 <span class="time">2026-02-14 05:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/14/danish-pm-says-more-greenland-talks-due-after-meeting-uss-marco-rubio?traffic_source=rss" target="_blank">Danish PM says more Greenland talks due after meeting US’s Marco Rubio</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-14 04:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/877012/dji-romo-review-robot-vacuum-drone-mop" target="_blank">DJI’s first robovac is an autonomous cleaning drone you can’t trust</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-14 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +158,29 @@
                 <span class="time">2026-02-13 22:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698e1b134e0cc71b0d6dee95/master/pass/OpenAI-Nuking-4o-Model-Business.jpg" alt="OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/" target="_blank">OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-13 21:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mop51ip2215a4hfxnjj.png" alt="Reimagining DevOps with AI: InfraCopilot + GitHub Copilot CLI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anas_kadambalath/reimagining-devops-with-ai-infracopilot-github-copilot-cli-4fmi" target="_blank">Reimagining DevOps with AI: InfraCopilot + GitHub Copilot CLI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-14 08:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/nuxt-studio-cms/en/headerimage/generatedHeaderImage-1770973104760.jpg" alt="Nuxt Studio Released: Open Source CMS for Content Editing in Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/nuxt-studio-cms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Nuxt Studio Released: Open Source CMS for Content Editing in Production</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-14 08:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fi.imgflip.com%2Fak3vbz.jpg" alt="I enjoy programming" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/chronoyevsky/quick-start-for-libjwt3-2i4" target="_blank">Quick Start for libjwt3</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-14 04:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/callstacktech/creating-custom-voice-experiences-in-hubspot-a-step-by-step-guide-to-voice-api-integration-8o4" target="_blank">Creating Custom Voice Experiences in HubSpot: A Step-by-Step Guide to Voice API Integration</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-14 03:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://npmx.dev" target="_blank">NPMX – a fast, modern browser for the NPM registry</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-14 02:14</span>
             </div>
         </div>
 </div>
@@ -317,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 08:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 09:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
