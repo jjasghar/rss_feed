@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-14 00:07:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-14 01:30:42 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, February 14, 2026 - 00:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, February 14, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/14/icc-t20-world-cup-india-vs-pakistan-cricket-fans-travel-colombo?traffic_source=rss" target="_blank">India vs Pakistan: Eager fans brave surge in travel costs for T20 World Cup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-14 01:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbc2/live/f9f8f810-0921-11f1-9972-d3f265c101c6.jpg" alt="Weston wins emphatic skeleton gold for first GB medal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +96,20 @@
                 <span class="time">2026-02-13 18:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260212-vladyslav-heraskevych-mn-1030-4dfab0.jpg" alt="Ukrainian athlete seeking to honor killed countrymen loses appeal to compete at Olympics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/sports/olympics/ukrainian-athlete-seeking-honor-killed-countrymen-loses-appeal-compete-rcna258899" target="_blank">Ukrainian athlete seeking to honor killed countrymen loses appeal to compete at Olympics</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-13 16:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-629400903-500x500.jpg" alt="WHO slams US-funded newborn vaccine trial as &quot;unethical&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/02/who-slams-us-funded-newborn-vaccine-trial-as-unethical/" target="_blank">WHO slams US-funded newborn vaccine trial as &quot;unethical&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-13 23:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +155,29 @@
                 <span class="time">2026-02-13 20:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698f6cec21b4b1d4108ce0be/master/pass/pol-ssa-2205675730.jpg" alt="Social Security Workers Are Being Told to Hand Over Appointment Details to ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/social-security-administration-appointment-details-ice/" target="_blank">Social Security Workers Are Being Told to Hand Over Appointment Details to ICE</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-13 20:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jds64/keeping-your-secrets-in-sync-environment-lifecycle-management-that-actually-works-24ga" target="_blank">Keeping Your Secrets in Sync: Environment Lifecycle Management That Actually Works</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-14 01:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Godot-4.7-Dev-1-Vulkan-RT" target="_blank">Godot 4.7 Making Progress On Vulkan Ray-Tracing</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-14 01:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Nouveau-GSP-NVIDIA-GA100" target="_blank">NVIDIA Posts Open-Source Nouveau GSP Driver Support For GA100</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-13 19:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openai.com/index/new-result-theoretical-physics/" target="_blank">GPT-5.2 derives a new result in theoretical physics</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-13 19:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cseeman/why-your-github-actions-secrets-dont-work-in-reusable-workflow-inputs-462g" target="_blank">Why Your GitHub Actions Secrets Don&#x27;t Work in Reusable Workflow Inputs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-13 19:04</span>
             </div>
         </div>
 </div>
@@ -334,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 00:08 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
