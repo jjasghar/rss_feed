@@ -1,28 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-14 14:05:25 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-14 15:03:34 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 19 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, February 14, 2026 - 14:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, February 14, 2026 - 15:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,12 +43,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/14/deadly-drone-strikes-cloud-us-brokered-russia-ukraine-talks-in-geneva?traffic_source=rss" target="_blank">Deadly drone strikes cloud US-brokered Russia-Ukraine talks in Geneva</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-14 14:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/268c/live/8e42e360-09a8-11f1-acb3-91fbf84be714.jpg" alt="Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cwyk4lz4e3eo?at_medium=RSS&at_campaign=rss" target="_blank">Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-14 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/14/nx-s1-5714517/eu-europe-russia-navalny" target="_blank">5 European nations say Alexei Navalny was poisoned and blame the Kremlin</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-14 13:54</span>
             </div>
         </div>
 <div class="story">
@@ -72,24 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/14/g-s1-110107/rubio-speech-munich" target="_blank">Rubio reassures trans-Atlantic ties with Europe at Munich Security Conference</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-14 09:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/14/in-munich-rubio-urges-transatlantic-unity-but-lashes-europe-on-migration?traffic_source=rss" target="_blank">In Munich, Rubio urges transatlantic unity but lashes Europe on migration</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-14 09:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3732/live/3ededfd0-08e6-11f1-9972-d3f265c101c6.jpg" alt="UK basks in sunshine ahead of snow and ice weather warnings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/weather/articles/cvgv6ede327o?at_medium=RSS&at_campaign=rss" target="_blank">UK basks in sunshine ahead of snow and ice weather warnings</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-14 09:11</span>
             </div>
         </div>
 </div>
@@ -157,6 +161,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Quantum-Passes-OSS-End" target="_blank">Intel Ends Work On Quantum Compiler Open-Source Bits</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-14 14:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ooh.directory/" target="_blank">Ooh.directory: a place to find good blogs that interest you</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-14 13:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/02/claude-built-c-compiler/en/headerimage/claude-built-c-compiler-1771067001094.jpeg" alt="Sixteen Claude Agents Built a C Compiler Without Human Intervention... Almost" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -192,24 +214,6 @@
                 <span class="time">2026-02-14 08:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/nuxt-studio-cms/en/headerimage/generatedHeaderImage-1770973104760.jpg" alt="Nuxt Studio Released: Open Source CMS for Content Editing in Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/nuxt-studio-cms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Nuxt Studio Released: Open Source CMS for Content Editing in Production</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-14 08:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ziglang.org/devlog/2026/#2026-02-13" target="_blank">Zig – io_uring and Grand Central Dispatch std.Io implementations landed</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-14 08:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/EVA-AI-1280x960.jpg" alt="I Went On a Dinner Date With an AI Chatbot. Here’s How It Went." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/i-went-on-a-date-with-an-ai-chatbot-heres-how-it-went-2000721484" target="_blank">I Went On a Dinner Date With an AI Chatbot. Here’s How It Went.</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-14 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/elon-musk-space_x1-1280x853.jpg" alt="Elon Musk Has Changed His Mission Statement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +287,6 @@
                 <span class="time">2026-02-13 21:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/controllerladybrain-1280x720.jpg" alt="Gamepad Controls Elden Ring Streamer IRL Using A Wild Balance Hack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/perri-karyal-galvanic-vestibular-stimulation-elden-ring-2000668749" target="_blank">Gamepad Controls Elden Ring Streamer IRL Using A Wild Balance Hack</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-13 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 14:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 15:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
