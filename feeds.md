@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-14 10:02:42 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-14 11:03:31 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, February 14, 2026 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, February 14, 2026 - 11:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/14/au-calls-for-end-to-extermination-of-palestinians-decries-african-wars?traffic_source=rss" target="_blank">AU calls for end to ‘extermination’ of Palestinians, decries African wars</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-14 10:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/14/g-s1-109711/pakistan-basant-kites-spring-festival-lahore" target="_blank">After a 2-decade ban, kites fill Lahore&#x27;s skies during a Pakistani springtime festival</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-14 10:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,39 +86,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3732/live/3ededfd0-08e6-11f1-9972-d3f265c101c6.jpg" alt="UK basks in sunshine ahead of snow and ice weather warnings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/weather/articles/cvgv6ede327o?at_medium=RSS&at_campaign=rss" target="_blank">UK basks in sunshine ahead of snow and ice weather warnings</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-14 09:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/14/two-philippine-senators-named-co-perpetrators-in-duterte-icc-case?traffic_source=rss" target="_blank">Two Philippine senators named ‘co-perpetrators’ in Duterte ICC case</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-14 08:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/14/indian-national-admits-role-in-us-sikh-leaders-assassination-plot?traffic_source=rss" target="_blank">Indian national admits role in plot to assassinate US Sikh leader</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-14 07:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/14/us-ends-temporary-protected-status-for-yemeni-refugees-asylum-seekers?traffic_source=rss" target="_blank">US ends temporary protected status for Yemeni refugees, asylum seekers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-14 06:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/2/14/why-the-bnp-won-bangladeshs-post-uprising-election?traffic_source=rss" target="_blank">Why the BNP won Bangladesh’s post-uprising election</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-14 05:56</span>
             </div>
         </div>
 </div>
@@ -171,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/olafur_aron/semantic-search-in-c-without-python-348m" target="_blank">Semantic Search in C# Without Python</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-14 10:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/skyriss/the-1-rule-how-much-should-you-risk-per-trade-28ok" target="_blank">The 1% Rule: How Much Should You Risk per Trade?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-14 09:46</span>
@@ -210,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/tamj0rd2/i-enjoy-programming-2jd5" target="_blank">I enjoy programming</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-14 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-loop-that-skipped-4g1b" target="_blank">The Secret Life of Python: The Loop That Skipped</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-14 05:57</span>
             </div>
         </div>
 </div>
@@ -322,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 11:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
