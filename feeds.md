@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-14 17:04:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-14 18:02:20 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, February 14, 2026 - 17:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, February 14, 2026 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +112,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/14/designer-kate-barton-teams-up-with-ibm-and-fiducia-ai-for-a-nyfw-presentation/" target="_blank">Designer Kate Barton teams up with IBM and Fiducia AI for a NYFW presentation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-14 17:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/games/878121/relooted-review-xbox-steam" target="_blank">Returning stolen artifacts becomes a thrilling heist in Relooted</a></span>
                 <span class="feed">The Verge</span>
@@ -147,15 +163,6 @@
                 <span class="time">2026-02-14 08:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/13/nothing-opens-its-first-retail-store-in-india/" target="_blank">Nothing opens its first retail store in India</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-14 06:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +175,15 @@
                 <span class="title"><a href="https://dev.to/victoor/building-a-privacy-first-finance-app-with-laravel-12-and-react-19-2j3d" target="_blank">Building a Privacy-First Finance App with Laravel 12 and React 19</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-14 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/" target="_blank">My smart sleep mask broadcasts users&#x27; brainwaves to an open MQTT broker</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-14 15:35</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +222,6 @@
                 <span class="time">2026-02-14 10:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/skyriss/the-1-rule-how-much-should-you-risk-per-trade-28ok" target="_blank">The 1% Rule: How Much Should You Risk per Trade?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-14 09:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +250,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-good-valentines-day-gift-for-these-nice-people-in-the-new-york-times-would-be-to-destroy-their-phones-2000720913" target="_blank">A Good Valentine’s Day Gift for These Nice People in the New York Times Would Be to Destroy Their Phones</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-14 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Discord1-1280x720.jpg" alt="Discord Distances Itself From Age Verification Firm After Ties To Palantir’s Peter Thiel Surface" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951" target="_blank">Discord Distances Itself From Age Verification Firm After Ties To Palantir’s Peter Thiel Surface</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-14 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/Discord1-1280x720.jpg" alt="Discord’s Controversial Age Verification Rollout Now Has Ties To Palantir’s Peter Thiel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +304,6 @@
                 <span class="time">2026-02-14 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/trump.jpg?fit=1215%2C800&amp;quality=60&amp;ssl=1" alt="Internet &quot;Forensically Analyzes&quot; Trump&#x27;s alleged &quot;Shartgate&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/13/internet-forensically-analyzes-trumps-alleged-shartgate.html" target="_blank">Internet &quot;Forensically Analyzes&quot; Trump&#x27;s alleged &quot;Shartgate&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-14 00:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/high-on-life-2-1280x720.jpg" alt="High On Life 2 Guide: 13 Tips To Know Before Playing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/high-on-life-2-tips-guide-tricks-things-to-know-before-playing-help-2000668776" target="_blank">High On Life 2 Guide: 13 Tips To Know Before Playing</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-13 23:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 17:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
