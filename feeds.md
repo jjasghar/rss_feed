@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-14 22:01:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-14 23:02:49 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: The Verge -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, February 14, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, February 14, 2026 - 23:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/14/nx-s1-5696542/a-london-beat-framed-by-colonial-history" target="_blank">A London beat framed by colonial history</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-14 22:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +97,29 @@
                 <span class="time">2026-02-14 18:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/14/nx-s1-5714552/us-islamic-state-syria" target="_blank">US military reports a series of airstrikes against Islamic State targets in Syria</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-14 16:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/879508/jikipedia-epstein-email-encyclopedia" target="_blank">Jikipedia turns Epstein’s emails into an encyclopedia of his powerful friends</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-14 22:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/14/homeland-security-reportedly-sent-hundreds-of-subpoenas-seeking-to-unmask-anti-ice-accounts/" target="_blank">Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-14 22:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,24 +154,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/14/designer-kate-barton-teams-up-with-ibm-and-fiducia-ai-for-a-nyfw-presentation/" target="_blank">Designer Kate Barton teams up with IBM and Fiducia AI for a NYFW presentation</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-14 17:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/878927/ibuypower-gaming-desktop-pc-presidents-day-sale-deal" target="_blank">iBuyPower’s gaming desktops are discounted for Presidents Day</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-14 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/878121/relooted-review-xbox-steam" target="_blank">Returning stolen artifacts becomes a thrilling heist in Relooted</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-14 14:00</span>
             </div>
         </div>
 </div>
@@ -235,20 +229,20 @@
                 <span class="time">2026-02-14 17:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-do-squid-dream.html" target="_blank">Friday Squid Blogging: Do Squid Dream?</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-13 22:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Noem-in-an-NBC-News-appearance.jpg?fit=1080%2C631&amp;quality=60&amp;ssl=1" alt="Noem&#x27;s &quot;Right people voting&quot; comment sparks concern over DHS role in elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/14/noems-right-people-voting-comment-sparks-concern-over-dhs-role-in-elections.html" target="_blank">Noem&#x27;s &quot;Right people voting&quot; comment sparks concern over DHS role in elections</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-14 22:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/batman-lego--1280x716.jpg" alt="Games Keeping Nerfing Their PC Requirements As RAM Prices Skyrocket" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,15 +288,6 @@
                 <span class="time">2026-02-14 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Discord1-1280x720.jpg" alt="Discord’s Controversial Age Verification Rollout Now Has Ties To Palantir’s Peter Thiel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951" target="_blank">Discord’s Controversial Age Verification Rollout Now Has Ties To Palantir’s Peter Thiel</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-14 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 23:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
