@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-13 23:06:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-14 00:07:52 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, February 13, 2026 - 23:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, February 14, 2026 - 00:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +112,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/698e1b134e0cc71b0d6dee95/master/pass/OpenAI-Nuking-4o-Model-Business.jpg" alt="OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/" target="_blank">OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-13 21:56</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -143,15 +154,6 @@
                 <span class="title"><a href="https://www.wired.com/story/social-security-administration-appointment-details-ice/" target="_blank">Social Security Workers Are Being Told to Hand Over Appointment Details to ICE</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-13 20:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/878951/beats-studio-buds-plus-earbuds-presidents-day-sale-deal" target="_blank">The see-through Beats Studio Buds Plus are more than 40 percent off for Presidents Day</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-13 20:00</span>
             </div>
         </div>
 </div>
@@ -233,6 +235,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/high-on-life-2-1280x720.jpg" alt="High On Life 2 Guide: 13 Tips To Know Before Playing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/high-on-life-2-tips-guide-tricks-things-to-know-before-playing-help-2000668776" target="_blank">High On Life 2 Guide: 13 Tips To Know Before Playing</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-13 23:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/cppm-km3net-optical-module-1280x853.jpg" alt="Dive Into the Elusive World of Particles With the Global Physics Photowalk Finalists" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dive-into-the-elusive-world-of-particles-with-the-global-physics-photowalk-finalists-2000721674" target="_blank">Dive Into the Elusive World of Particles With the Global Physics Photowalk Finalists</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-13 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/colortweakedyoshi.jpg" alt="Yoshi Mario Galaxy Popcorn Bucket Looks Like He Ate A Crazy Edible" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -266,24 +286,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/13/republicans-jet-off-as-dhs-runs-out-of-money.html" target="_blank">Republicans jet off as DHS runs out of money</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-13 20:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2H01TJZAA9THGVYP59YQCM/hero-image.jpg" alt="No, a Sauna Isn&#x27;t a Substitute for Exercise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/why-a-sauna-is-not-a-substitute-for-exercise?utm_medium=RSS" target="_blank">No, a Sauna Isn&#x27;t a Substitute for Exercise</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-13 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/Sam-Altman-OpenAI-Snowflake-Summit-2025-1280x853.jpg" alt="OpenAI Users Launch Movement to Save Most Sycophantic Version of ChatGPT" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/openai-users-launch-movement-to-save-most-sycophantic-version-of-chatgpt-2000721971" target="_blank">OpenAI Users Launch Movement to Save Most Sycophantic Version of ChatGPT</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-13 20:05</span>
             </div>
         </div>
 </div>
@@ -332,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 23:06 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 00:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
