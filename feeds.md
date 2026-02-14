@@ -1,20 +1,22 @@
-<!-- Processing 54 RSS feeds at 2026-02-14 15:03:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-14 16:02:50 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
@@ -23,10 +25,10 @@
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, February 14, 2026 - 15:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, February 14, 2026 - 16:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/guthrie-search-feb-13_1771043769710_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: 2nd man detained, released, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: 2nd man detained, released, sources say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-14 15:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/14/rubio-at-munich-security-conference-us-wants-europe-to-be-strong?traffic_source=rss" target="_blank">Rubio at Munich Security Conference: US wants Europe to be ‘strong’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-14 15:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/14/au-calls-for-end-to-extermination-of-palestinians-decries-african-wars?traffic_source=rss" target="_blank">AU calls for end to ‘extermination’ of Palestinians, decries African wars</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-14 10:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/14/g-s1-109711/pakistan-basant-kites-spring-festival-lahore" target="_blank">After a 2-decade ban, kites fill Lahore&#x27;s skies during a Pakistani springtime festival</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-14 10:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/14/g-s1-110107/rubio-speech-munich" target="_blank">Rubio reassures trans-Atlantic ties with Europe at Munich Security Conference</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-14 09:59</span>
             </div>
         </div>
 </div>
@@ -163,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/victoor/building-a-privacy-first-finance-app-with-laravel-12-and-react-19-2j3d" target="_blank">Building a Privacy-First Finance App with Laravel 12 and React 19</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-14 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Quantum-Passes-OSS-End" target="_blank">Intel Ends Work On Quantum Compiler Open-Source Bits</a></span>
                 <span class="feed">Phoronix</span>
@@ -205,15 +216,6 @@
                 <span class="time">2026-02-14 09:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mop51ip2215a4hfxnjj.png" alt="Reimagining DevOps with AI: InfraCopilot + GitHub Copilot CLI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anas_kadambalath/reimagining-devops-with-ai-infracopilot-github-copilot-cli-4fmi" target="_blank">Reimagining DevOps with AI: InfraCopilot + GitHub Copilot CLI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-14 08:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/TheMuppetShowSabrinaCarpenter-1280x853.jpg" alt="Hi-Yah! ‘The Muppet Show’ Was a Smash Hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/hi-yah-the-muppet-show-was-a-smash-hit-2000722178" target="_blank">Hi-Yah! ‘The Muppet Show’ Was a Smash Hit</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-14 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/EVA-AI-1280x960.jpg" alt="I Went On a Dinner Date With an AI Chatbot. Here’s How It Went." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +289,6 @@
                 <span class="time">2026-02-13 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/colortweakedyoshi.jpg" alt="Yoshi Mario Galaxy Popcorn Bucket Looks Like He Ate A Crazy Edible" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/super-mario-galaxy-movie-yoshi-popcorn-bucket-amc-regal-2000668765" target="_blank">Yoshi Mario Galaxy Popcorn Bucket Looks Like He Ate A Crazy Edible</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-13 21:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 15:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 16:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
