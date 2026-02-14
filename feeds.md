@@ -1,8 +1,7 @@
-<!-- Processing 54 RSS feeds at 2026-02-14 02:52:45 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-14 03:44:38 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
@@ -11,29 +10,34 @@
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, February 14, 2026 - 02:53 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, February 14, 2026 - 03:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +57,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/14/arundhati-roy-shocked-by-jurys-gaza-remarks-quits-berlin-film-festival?traffic_source=rss" target="_blank">Arundhati Roy ‘shocked’ by jury’s Gaza remarks, quits Berlin film festival</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-14 03:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/14/fire-at-havana-oil-refinery-as-cubas-fuel-crisis-deepens?traffic_source=rss" target="_blank">Fire at Havana oil refinery as Cuba’s fuel crisis deepens</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-14 02:14</span>
@@ -65,6 +78,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/14/icc-t20-world-cup-india-vs-pakistan-cricket-fans-travel-colombo?traffic_source=rss" target="_blank">India vs Pakistan: Eager fans brave surge in travel costs for T20 World Cup</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-14 01:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771026148321_nn_lkr_guthrie_sheriff_260213_1920x1080-q0fthx.jpg" alt="Sheriff defends handling of evidence in search for Nancy Guthrie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/sheriff-defends-handling-of-evidence-in-search-for-nancy-guthrie-257677381996" target="_blank">Sheriff defends handling of evidence in search for Nancy Guthrie</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-13 23:42</span>
             </div>
         </div>
 <div class="story">
@@ -85,29 +107,20 @@
                 <span class="time">2026-02-13 21:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/13/trump-orders-second-aircraft-carrier-to-middle-east?traffic_source=rss" target="_blank">Trump orders second aircraft carrier to Middle East</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-13 20:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: Sheriff speaks to ABC News about DNA, gloves" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: Sheriff speaks to ABC News about DNA, gloves</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-13 20:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/13/indias-major-pharmacy-chain-exposed-customer-data-and-internal-systems/" target="_blank">Indian pharmacy chain giant exposed customer data and internal systems</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-14 03:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-629400903-500x500.jpg" alt="WHO slams US-funded newborn vaccine trial as &quot;unethical&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +166,20 @@
                 <span class="time">2026-02-13 21:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-500x500-1749567268.jpg" alt="The first Android 17 beta is now available on Pixel devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/02/the-first-android-17-beta-is-now-available-on-pixel-devices/" target="_blank">The first Android 17 beta is now available on Pixel devices</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-13 20:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/callstacktech/creating-custom-voice-experiences-in-hubspot-a-step-by-step-guide-to-voice-api-integration-8o4" target="_blank">Creating Custom Voice Experiences in HubSpot: A Step-by-Step Guide to Voice API Integration</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-14 03:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,19 +219,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-50-Beta" target="_blank">GNOME 50 Beta Released With Stable VRR, GDM Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-13 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7tmojjx9odbuxpabs16h.png" alt="Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0" target="_blank">Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-13 20:01</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md" target="_blank">Show HN: Data Engineering Book – An open source, community-driven guide</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-13 21:35</span>
             </div>
         </div>
 </div>
@@ -240,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/trump.jpg?fit=1215%2C800&amp;quality=60&amp;ssl=1" alt="Internet &quot;Forensically Analyzes&quot; Trump&#x27;s alleged &quot;Shartgate&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/13/internet-forensically-analyzes-trumps-alleged-shartgate.html" target="_blank">Internet &quot;Forensically Analyzes&quot; Trump&#x27;s alleged &quot;Shartgate&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-14 00:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/high-on-life-2-1280x720.jpg" alt="High On Life 2 Guide: 13 Tips To Know Before Playing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +296,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals During Early Presidents Day Sales</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-02-13 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/10/GOP-Elephant-e1741108452603.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Republicans jet off as DHS runs out of money" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/13/republicans-jet-off-as-dhs-runs-out-of-money.html" target="_blank">Republicans jet off as DHS runs out of money</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-13 20:40</span>
             </div>
         </div>
 </div>
@@ -340,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 02:53 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 03:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
