@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-14 01:30:42 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-14 02:52:45 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, February 14, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, February 14, 2026 - 02:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,9 +53,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/14/fire-at-havana-oil-refinery-as-cubas-fuel-crisis-deepens?traffic_source=rss" target="_blank">Fire at Havana oil refinery as Cuba’s fuel crisis deepens</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-14 02:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/14/icc-t20-world-cup-india-vs-pakistan-cricket-fans-travel-colombo?traffic_source=rss" target="_blank">India vs Pakistan: Eager fans brave surge in travel costs for T20 World Cup</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-14 01:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/13/nx-s1-5713991/ilia-malinin-mikhail-shaidorov-figure-skating-olympics" target="_blank">Ilia Malinin, U.S. figure skater favored for gold, finishes 8th</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-13 22:50</span>
             </div>
         </div>
 <div class="story">
@@ -76,24 +101,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: Sheriff speaks to ABC News about DNA, gloves</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-13 20:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/13/nx-s1-5711630/virginia-court-allows-democrats-redistricting-vote-in-their-plan-to-counter-to-trump" target="_blank">Virginia court allows Democrats&#x27; redistricting vote in their plan to counter to Trump</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-13 19:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/13/nx-s1-5713367/trump-vought-omb-hhs-cdc-budget-cuts" target="_blank">A familiar move with a new twist: Trump tries to cut CDC funds he just signed into law</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-13 18:18</span>
             </div>
         </div>
 </div>
@@ -181,6 +188,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/" target="_blank">An AI Agent Published a Hit Piece on Me – More Things Have Happened</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-14 00:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/lawrencedcodes/staying-market-volatility-resilient-as-a-dev-in-the-ai-era-52gc" target="_blank">Staying Market Volatility Resilient as a Dev in the AI Era</a></span>
                 <span class="feed">DEV Community</span>
@@ -203,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0" target="_blank">Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-13 20:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Nouveau-GSP-NVIDIA-GA100" target="_blank">NVIDIA Posts Open-Source Nouveau GSP Driver Support For GA100</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-13 19:36</span>
             </div>
         </div>
 </div>
@@ -320,12 +327,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="http://www.questionablecontent.net/comics/5765.png" alt="Shorts In The Winter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://imgs.xkcd.com/comics/bad_map_projection_zero_declination.png" alt="Bad Map Projection: Zero Declination" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5765" target="_blank">Shorts In The Winter</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-02-13 01:47</span>
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3207/" target="_blank">Bad Map Projection: Zero Declination</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-02-13 05:00</span>
             </div>
         </div>
 </div>
@@ -333,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 02:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
