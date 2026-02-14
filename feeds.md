@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-14 16:02:50 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-14 17:04:54 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, February 14, 2026 - 16:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, February 14, 2026 - 17:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/14/nx-s1-5714552/us-islamic-state-syria" target="_blank">US military reports a series of airstrikes against Islamic State targets in Syria</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-14 16:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/guthrie-search-feb-13_1771043769710_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: 2nd man detained, released, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/14/nx-s1-5714517/eu-europe-russia-navalny" target="_blank">5 European nations say Alexei Navalny was poisoned and blame the Kremlin</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-14 13:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/14/au-calls-for-end-to-extermination-of-palestinians-decries-african-wars?traffic_source=rss" target="_blank">AU calls for end to ‘extermination’ of Palestinians, decries African wars</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-14 10:51</span>
             </div>
         </div>
 </div>
@@ -225,6 +224,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/upcoming-speaking-engagements-53.html" target="_blank">Upcoming Speaking Engagements</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-02-14 17:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-do-squid-dream.html" target="_blank">Friday Squid Blogging: Do Squid Dream?</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-02-13 22:08</span>
@@ -235,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Discord1-1280x720.jpg" alt="Discord’s Controversial Age Verification Rollout Now Has Ties To Palantir’s Peter Thiel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951" target="_blank">Discord’s Controversial Age Verification Rollout Now Has Ties To Palantir’s Peter Thiel</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-14 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/TheMuppetShowSabrinaCarpenter-1280x853.jpg" alt="Hi-Yah! ‘The Muppet Show’ Was a Smash Hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,20 +297,20 @@
                 <span class="time">2026-02-13 23:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/cppm-km3net-optical-module-1280x853.jpg" alt="Dive Into the Elusive World of Particles With the Global Physics Photowalk Finalists" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dive-into-the-elusive-world-of-particles-with-the-global-physics-photowalk-finalists-2000721674" target="_blank">Dive Into the Elusive World of Particles With the Global Physics Photowalk Finalists</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-13 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1771024286-20260214.png" alt="Saturday Morning Breakfast Cereal - Moral" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/moral" target="_blank">Saturday Morning Breakfast Cereal - Moral</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-02-14 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -303,22 +320,13 @@
                 <span class="time">2026-02-13 20:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1770926895-20260213.png" alt="Saturday Morning Breakfast Cereal - Scripture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/scripture" target="_blank">Saturday Morning Breakfast Cereal - Scripture</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-02-13 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 16:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 17:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
