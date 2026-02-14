@@ -1,20 +1,14 @@
-<!-- Processing 54 RSS feeds at 2026-02-14 03:44:38 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-02-14 04:30:10 UTC -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
@@ -22,22 +16,14 @@
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 34 feeds processed -->
+<!-- Generated 3 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, February 14, 2026 - 03:44 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, February 14, 2026 - 04:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/14/danish-pm-says-more-greenland-talks-due-after-meeting-uss-marco-rubio?traffic_source=rss" target="_blank">Danish PM says more Greenland talks due after meeting US’s Marco Rubio</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-14 04:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,15 +91,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/13/nx-s1-5713991/ilia-malinin-mikhail-shaidorov-figure-skating-olympics" target="_blank">Ilia Malinin, U.S. figure skater favored for gold, finishes 8th</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-13 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbc2/live/f9f8f810-0921-11f1-9972-d3f265c101c6.jpg" alt="Weston wins emphatic skeleton gold for first GB medal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/sport/articles/cgml91gx27go?at_medium=RSS&at_campaign=rss" target="_blank">Weston wins emphatic skeleton gold for first GB medal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-13 21:00</span>
             </div>
         </div>
 </div>
@@ -175,9 +161,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/chronoyevsky/quick-start-for-libjwt3-2i4" target="_blank">Quick Start for libjwt3</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-14 04:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/callstacktech/creating-custom-voice-experiences-in-hubspot-a-step-by-step-guide-to-voice-api-integration-8o4" target="_blank">Creating Custom Voice Experiences in HubSpot: A Step-by-Step Guide to Voice API Integration</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-14 03:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://npmx.dev" target="_blank">NPMX – a fast, modern browser for the NPM registry</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-14 02:14</span>
             </div>
         </div>
 <div class="story">
@@ -205,24 +209,6 @@
                 <span class="title"><a href="https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/" target="_blank">An AI Agent Published a Hit Piece on Me – More Things Have Happened</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-14 00:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lawrencedcodes/staying-market-volatility-resilient-as-a-dev-in-the-ai-era-52gc" target="_blank">Staying Market Volatility Resilient as a Dev in the AI Era</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-13 22:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md" target="_blank">Show HN: Data Engineering Book – An open source, community-driven guide</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-13 21:35</span>
             </div>
         </div>
 </div>
@@ -344,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 03:44 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 04:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
