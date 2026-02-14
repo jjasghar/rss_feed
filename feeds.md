@@ -1,26 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-14 12:02:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-14 13:16:16 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 18 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, February 14, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, February 14, 2026 - 13:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -82,12 +95,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-navalny-russia-frog_7164655.jpg?20260214094823" alt="Navalny died after being &#x27;poisoned with dart frog toxin&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/14/two-philippine-senators-named-co-perpetrators-in-duterte-icc-case?traffic_source=rss" target="_blank">Two Philippine senators named ‘co-perpetrators’ in Duterte ICC case</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-14 08:19</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/navalny-died-after-being-poisoned-with-dart-frog-toxin-13507402" target="_blank">Navalny died after being &#x27;poisoned with dart frog toxin&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-14 09:10</span>
             </div>
         </div>
 </div>
@@ -95,6 +108,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/698f8284d9a9634d320efa36/master/pass/Update-%20Best%20Apple%20Watch_.png" alt="Best Apple Watch (2026): Series 11, SE 3, and Ultra 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-apple-watch/" target="_blank">Best Apple Watch (2026): Series 11, SE 3, and Ultra 3</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-14 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/kuiper-500x500.jpg" alt="Astronomers are filling in the blanks of the Kuiper Belt" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,15 +160,6 @@
                 <span class="title"><a href="https://www.wired.com/story/sony-promo-code/" target="_blank">Sony Promo Codes and Discounts: 45% Off</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-14 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/13/indias-major-pharmacy-chain-exposed-customer-data-and-internal-systems/" target="_blank">Indian pharmacy chain giant exposed customer data and internal systems</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-14 03:30</span>
             </div>
         </div>
 </div>
@@ -228,6 +241,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/elon-musk-space_x1-1280x853.jpg" alt="Elon Musk Has Changed His Mission Statement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musk-has-changed-his-mission-statement-2000721530" target="_blank">Elon Musk Has Changed His Mission Statement</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-14 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/trump.jpg?fit=1215%2C800&amp;quality=60&amp;ssl=1" alt="Internet &quot;Forensically Analyzes&quot; Trump&#x27;s alleged &quot;Shartgate&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -272,15 +294,6 @@
                 <span class="time">2026-02-13 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals During Early Presidents Day Sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals During Early Presidents Day Sales</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-13 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 13:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
