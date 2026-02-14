@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-14 05:17:55 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-02-14 06:09:47 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, February 14, 2026 - 05:18 UTC</div>
+    <div class="newspaper-date">Saturday, February 14, 2026 - 06:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/2/14/why-the-bnp-won-bangladeshs-post-uprising-election?traffic_source=rss" target="_blank">Why the BNP won Bangladesh’s post-uprising election</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-14 05:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/14/nx-s1-5713914/department-of-homeland-security-shutdown" target="_blank">5 things to know about the shutdown at the Department of Homeland Security</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-14 05:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/guthrie-search-feb-13_1771043769710_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: Law enforcement activity near Guthrie&#x27;s home" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,24 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/14/fire-at-havana-oil-refinery-as-cubas-fuel-crisis-deepens?traffic_source=rss" target="_blank">Fire at Havana oil refinery as Cuba’s fuel crisis deepens</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-14 02:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/14/icc-t20-world-cup-india-vs-pakistan-cricket-fans-travel-colombo?traffic_source=rss" target="_blank">India vs Pakistan: Eager fans brave surge in travel costs for T20 World Cup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-14 01:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771026148321_nn_lkr_guthrie_sheriff_260213_1920x1080-q0fthx.jpg" alt="Sheriff defends handling of evidence in search for Nancy Guthrie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/sheriff-defends-handling-of-evidence-in-search-for-nancy-guthrie-257677381996" target="_blank">Sheriff defends handling of evidence in search for Nancy Guthrie</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-13 23:42</span>
             </div>
         </div>
 </div>
@@ -171,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-loop-that-skipped-4g1b" target="_blank">The Secret Life of Python: The Loop That Skipped</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-14 05:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shimo4228/everything-claude-code-ecc-complete-cheatsheet-24ok" target="_blank">Everything Claude Code (ECC) Complete Cheatsheet</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-14 05:10</span>
@@ -206,19 +211,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jds64/keeping-your-secrets-in-sync-environment-lifecycle-management-that-actually-works-24ga" target="_blank">Keeping Your Secrets in Sync: Environment Lifecycle Management That Actually Works</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-14 01:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Godot-4.7-Dev-1-Vulkan-RT" target="_blank">Godot 4.7 Making Progress On Vulkan Ray-Tracing</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.6-Next-Week" target="_blank">KDE Plasma 6.6 Sees Last Minute Fixes, Plasma 6.7 Aims For Painless Samba Shares</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-02-14 01:17</span>
+                <span class="time">2026-02-14 01:40</span>
             </div>
         </div>
 </div>
@@ -331,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 05:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 06:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
