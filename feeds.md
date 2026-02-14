@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-14 07:12:45 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-14 08:03:21 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, February 14, 2026 - 07:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, February 14, 2026 - 08:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/14/indian-national-admits-role-in-us-sikh-leaders-assassination-plot?traffic_source=rss" target="_blank">Indian national admits role in plot to assassinate US Sikh leader</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-14 07:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,15 +98,6 @@
                 <span class="time">2026-02-14 04:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/14/arundhati-roy-shocked-by-jurys-gaza-remarks-quits-berlin-film-festival?traffic_source=rss" target="_blank">Arundhati Roy ‘shocked’ by jury’s Gaza remarks, quits Berlin film festival</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-14 03:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -116,6 +110,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/13/nothing-opens-its-first-retail-store-in-india/" target="_blank">Nothing opens its first retail store in India</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-14 06:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" alt="Sony Promo Codes and Discounts: 45% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sony-promo-code/" target="_blank">Sony Promo Codes and Discounts: 45% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-14 06:00</span>
             </div>
         </div>
 <div class="story">
@@ -154,20 +157,20 @@
                 <span class="time">2026-02-13 21:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/" target="_blank">Fintech lending giant Figure confirms data breach</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-13 21:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fi.imgflip.com%2Fak3vbz.jpg" alt="I enjoy programming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tamj0rd2/i-enjoy-programming-2jd5" target="_blank">I enjoy programming</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-14 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +214,6 @@
                 <span class="title"><a href="https://npmx.dev" target="_blank">NPMX – a fast, modern browser for the NPM registry</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-14 02:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.6-Next-Week" target="_blank">KDE Plasma 6.6 Sees Last Minute Fixes, Plasma 6.7 Aims For Painless Samba Shares</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-14 01:40</span>
             </div>
         </div>
 </div>
@@ -318,22 +312,13 @@
                 <span class="time">2026-02-13 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/02/13/i-three-mouths-and-i-must-chew-villains" target="_blank">I Three Mouths And I Must Chew Villains</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-02-13 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 07:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 08:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
