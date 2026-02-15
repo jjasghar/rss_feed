@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-15 19:06:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-15 20:02:16 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, February 15, 2026 - 19:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, February 15, 2026 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a1/live/74b86510-0aa1-11f1-9972-d3f265c101c6.jpg" alt="Weston &amp; Stoecker win GB&#x27;s second gold of day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/sport/articles/cm2x7m17jydo?at_medium=RSS&at_campaign=rss" target="_blank">Weston &amp; Stoecker win GB&#x27;s second gold of day</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-15 19:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/15/nx-s1-5715154/6000-killed-during-rsf-attack-sudan-el-fasher-un" target="_blank">At least 6,000 killed over 3 days during RSF attack on Sudan&#x27;s el-Fasher, UN says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-15 18:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f435/live/6e0b03a0-0a90-11f1-b5e2-dd58fc65f0f6.jpg" alt="Andrew&#x27;s time as trade envoy should be investigated, says Vince Cable" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,39 +79,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/guthrie_update__489383-q14d8k.jpg" alt="Nancy Guthrie investigation moving away from man whose home was searched" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/dateline/video/nancy-guthrie-investigation-moving-away-from-man-whose-home-was-searched-257722437612" target="_blank">Nancy Guthrie investigation moving away from man whose home was searched</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-15 17:17</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/15/thousands-of-western-nationals-fought-israels-war-on-gaza-what-to-know?traffic_source=rss" target="_blank">Thousands of Western nationals fought Israel’s war on Gaza: What to know</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-15 15:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/15/g-s1-108326/flying-doctors-lesotho" target="_blank">Photos: The flying doctors of Lesotho won&#x27;t let their wings be clipped</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-15 15:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/2/15/as-sudanese-city-returns-to-life-after-two-year-siege-drone-threat-lingers?traffic_source=rss" target="_blank">As Sudanese city returns to life after two-year siege, drone threat lingers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-15 14:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/15/nx-s1-5714457/rockstar-athletes-like-ilia-malinin-often-get-the-yips-at-the-olympics-it-can-make-them-stronger" target="_blank">Rockstar athletes like Ilia Malinin often get &#x27;the yips&#x27; at the Olympics. It can make them stronger</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-15 14:27</span>
             </div>
         </div>
 </div>
@@ -297,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 253 |
-        🔄 Last Updated: 19:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 253 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
