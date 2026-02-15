@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-15 12:02:38 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-15 13:16:55 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, February 15, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, February 15, 2026 - 13:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c25b/live/f0cf0920-0a69-11f1-9972-d3f265c101c6.png" alt="UK wants action taken on Russia after Navalny frog poisoning, Cooper says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8r15e4ek2vo?at_medium=RSS&at_campaign=rss" target="_blank">UK wants action taken on Russia after Navalny frog poisoning, Cooper says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-15 12:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/15/gazas-nasser-hospital-slams-msfs-unsubstantiated-armed-men-allegation?traffic_source=rss" target="_blank">Gaza’s Nasser Hospital slams MSF’s ‘unsubstantiated’ armed men allegation</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-15 12:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +103,29 @@
                 <span class="time">2026-02-15 09:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/2/15/nigerias-argungu-fishing-contest-marks-return-after-years-of-pause?traffic_source=rss" target="_blank">Nigeria’s Argungu fishing contest returns after years of pause</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-15 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb1/live/14205ca0-0a2c-11f1-b5e2-dd58fc65f0f6.jpg" alt="Labour think tank commissioned firm to investigate journalist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0ljzzk62kyo?at_medium=RSS&at_campaign=rss" target="_blank">Labour think tank commissioned firm to investigate journalist</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-15 06:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/879016/epstein-files-emails-text-errors-encoding" target="_blank">Why are Epstein’s emails full of equals signs?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-15 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/698dbacfd6bc30e8fe7c79aa/master/pass/Zero%20Point%20Energy%20cr-TK-Default.jpg" alt="The Nothing That Has the Potential to Be Anything" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/" target="_blank">The Nothing That Has the Potential to Be Anything</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-15 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +162,6 @@
                 <span class="time">2026-02-14 21:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2249116473-500x500.jpg" alt="NASA has a new problem to fix before the next Artemis II countdown test" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/02/nasa-chief-vows-to-solve-sls-rocket-fueling-issues-before-artemis-iii/" target="_blank">NASA has a new problem to fix before the next Artemis II countdown test</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-14 21:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/14/stacy-brown-philpot-cherryrock-capital-vc/" target="_blank">In a changed VC landscape, this exec is doubling down on overlooked founders</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-14 20:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -180,6 +183,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Faster-Hibernation-Slow" target="_blank">Linux Kernel Improvement Can Make Hibernation Several Times Faster With Slow SSDs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-15 11:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://marler8997.github.io/blog/fixed-windows/" target="_blank">I Fixed Windows Native Development</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-15 11:25</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +221,6 @@
                 <span class="time">2026-02-15 07:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/localstack-aws-community/en/headerimage/generatedHeaderImage-1771139714377.jpg" alt="LocalStack for AWS Drops Community Edition Raising Developer Concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/localstack-aws-community/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">LocalStack for AWS Drops Community Edition Raising Developer Concerns</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-15 07:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/DHS-homeland-security-sign-1280x853.jpg" alt="Reddit, Meta, and Google Voluntarily Gave DHS Info of Anti-ICE Users, Report Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/reddit-meta-and-google-voluntarily-gave-dhs-info-of-anti-ice-users-report-says-2000722279" target="_blank">Reddit, Meta, and Google Voluntarily Gave DHS Info of Anti-ICE Users, Report Says</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-15 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/spider-vader-1280x853.jpg" alt="Disney Sends ByteDance an AI Trophy in the Form of a Cease and Desist Letter Over Seedance 2.0" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +294,6 @@
                 <span class="time">2026-02-14 19:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-good-valentines-day-gift-for-these-nice-people-in-the-new-york-times-would-be-to-destroy-their-phones-2000720913" target="_blank">A Good Valentine’s Day Gift for These Nice People in the New York Times Would Be to Destroy Their Phones</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-14 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 13:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
