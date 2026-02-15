@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-15 10:03:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-15 11:03:50 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, February 15, 2026 - 10:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, February 15, 2026 - 11:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/FBI-Guthrie--DB-260215_1771150263734_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: Search enters 3rd week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: Search enters 3rd week</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-15 10:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/15/very-hopeful-cautious-optimism-among-gen-z-bangladeshis-after-key-vote?traffic_source=rss" target="_blank">‘Very hopeful’: Cautious optimism among Gen Z Bangladeshis after key vote</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-15 10:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/clyz4y3zwz5o?at_medium=RSS&at_campaign=rss" target="_blank">Iran ready to discuss compromises to reach nuclear deal, minister tells BBC in Tehran</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-15 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/15/cyclone-gezani-kills-four-in-mozambique-as-madagascar-assesses-damage?traffic_source=rss" target="_blank">Cyclone Gezani kills four in Mozambique as Madagascar assesses damage</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-15 04:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/14/assailants-kill-raids-northwest-nigeria-villages-residents-say" target="_blank">Assailants kill at least 32 in north-west Nigerian villages, residents say</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-15 03:14</span>
             </div>
         </div>
 </div>
@@ -165,6 +167,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dishon_gatambiadd_31a1/hospital-pharmacy-data-analysis-4eoi" target="_blank">HOSPITAL &amp; PHARMACY DATA ANALYSIS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-15 10:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/emacs-the-ux-ideal-part-deux/" target="_blank">Why and How I am Using Emacs for Writing My Next Novel</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-15 10:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F9233%2Fe31b00c6-7c41-4819-bf12-5c7487dd881a.jpg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/focss/from-zero-to-ranked-building-a-high-performance-nba-player-randomizer-with-nextjs-14-cloudflare-5f1i" target="_blank">From Zero to Ranked: Building a High-Performance NBA Player Randomizer with Next.js 14 &amp; Cloudflare</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-15 02:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2021/01/linux-mint.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 23 adds home encryption option for new users" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/linux-mint-23-user-accounts-system-administration" target="_blank">Linux Mint 23 adds home encryption option for new users</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-15 01:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc4ss43lngn0w8y6t5r45.png" alt="I Built a Browser-Based Terminal with 102 Developer Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arthur_f_cdb8f042da2/i-built-a-browser-based-terminal-with-102-developer-tools-3n6n" target="_blank">I Built a Browser-Based Terminal with 102 Developer Tools</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-15 01:26</span>
             </div>
         </div>
 </div>
@@ -310,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 10:03 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 11:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
