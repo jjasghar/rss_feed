@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-15 16:02:30 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-02-15 17:04:32 UTC -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, February 15, 2026 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, February 15, 2026 - 17:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/15/thousands-of-western-nationals-fought-israels-war-on-gaza-what-to-know?traffic_source=rss" target="_blank">Thousands of Western nationals fought Israel’s war on Gaza: What to know</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-15 15:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +97,20 @@
                 <span class="time">2026-02-15 12:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/15/why-are-experts-sounding-the-alarm-on-ai-risks?traffic_source=rss" target="_blank">Why are experts sounding the alarm on AI risks?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-15 11:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/15/what-the-epstein-files-reveal-about-ev-startups-and-silicon-valley/" target="_blank">What the Epstein files reveal about EV startups and Silicon Valley</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-15 16:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/policy/879508/jikipedia-epstein-email-encyclopedia" target="_blank">Jikipedia turns Epstein’s emails into an encyclopedia of his powerful friends</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-14 22:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/14/homeland-security-reportedly-sent-hundreds-of-subpoenas-seeking-to-unmask-anti-ice-accounts/" target="_blank">Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-14 22:30</span>
             </div>
         </div>
 </div>
@@ -237,6 +235,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/poe.jpg" alt="Cult-Classic ’90s PC Game Comes To Steam Under A Bizarre New Name" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/edgar-allen-poe-cult-classic-horror-steam-pc-2000669201" target="_blank">Cult-Classic ’90s PC Game Comes To Steam Under A Bizarre New Name</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-15 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Koofr-Cloud-Storage.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="The cloud storage equivalent of finally quitting the gym" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/15/the-cloud-storage-equivalent-of-finally-quitting-the-gym.html" target="_blank">The cloud storage equivalent of finally quitting the gym</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-15 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/indieoftheweek-1280x720.jpg" alt="Balatro Meets Luck Be A Landlord In Chaotic Cooking Roguelike That Can’t Stop Winning New Fans" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -272,45 +288,13 @@
                 <span class="time">2026-02-14 22:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/batman-lego--1280x716.jpg" alt="Games Keeping Nerfing Their PC Requirements As RAM Prices Skyrocket" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lego-batman-recommended-pc-specs-ram-prices-2000668982" target="_blank">Games Keeping Nerfing Their PC Requirements As RAM Prices Skyrocket</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-14 21:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/knights-guinevere2-1280x853.jpg" alt="‘Knights of Guinevere’ Will Officially Return As a Full Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/knights-of-guinevere-will-officially-return-as-a-full-series-2000722194" target="_blank">‘Knights of Guinevere’ Will Officially Return As a Full Series</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-14 20:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1771024286-20260214.png" alt="Saturday Morning Breakfast Cereal - Moral" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/moral" target="_blank">Saturday Morning Breakfast Cereal - Moral</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-02-14 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 255 |
+        🔄 Last Updated: 17:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
