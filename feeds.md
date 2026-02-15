@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-15 11:03:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-15 12:02:38 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, February 15, 2026 - 11:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, February 15, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/15/why-are-experts-sounding-the-alarm-on-ai-risks?traffic_source=rss" target="_blank">Why are experts sounding the alarm on AI risks?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-15 11:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/FBI-Guthrie--DB-260215_1771150263734_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: Search enters 3rd week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c0ljzzk62kyo?at_medium=RSS&at_campaign=rss" target="_blank">Labour think tank commissioned firm to investigate journalist</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-15 06:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b307/live/c12f3310-0a0b-11f1-b5e2-dd58fc65f0f6.jpg" alt="Iran ready to discuss compromises to reach nuclear deal, minister tells BBC in Tehran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyz4y3zwz5o?at_medium=RSS&at_campaign=rss" target="_blank">Iran ready to discuss compromises to reach nuclear deal, minister tells BBC in Tehran</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-15 06:00</span>
             </div>
         </div>
 </div>
@@ -167,6 +165,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="When Machines Write" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rawveg/when-machines-write-3pl4" target="_blank">When Machines Write</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-15 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Faster-Hibernation-Slow" target="_blank">Linux Kernel Improvement Can Make Hibernation Several Times Faster With Slow SSDs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-15 11:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,24 +216,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/02/localstack-aws-community/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">LocalStack for AWS Drops Community Edition Raising Developer Concerns</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-02-15 07:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-55p6" target="_blank">8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-15 06:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/focss/from-zero-to-ranked-building-a-high-performance-nba-player-randomizer-with-nextjs-14-cloudflare-5f1i" target="_blank">From Zero to Ranked: Building a High-Performance NBA Player Randomizer with Next.js 14 &amp; Cloudflare</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-15 02:47</span>
             </div>
         </div>
 </div>
@@ -312,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 11:04 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
