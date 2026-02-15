@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-02-15 03:55:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-15 04:37:11 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 1 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, February 15, 2026 - 03:55 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, February 15, 2026 - 04:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -309,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 03:55 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 04:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
