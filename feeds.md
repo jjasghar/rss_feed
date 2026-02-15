@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-14 23:02:49 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-15 00:07:12 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, February 14, 2026 - 23:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, February 15, 2026 - 00:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/14/us-army-launches-retaliatory-strikes-on-dozens-of-isil-targets-in-syria?traffic_source=rss" target="_blank">US army launches retaliatory strikes on dozens of ISIL targets in Syria</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-14 23:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/14/nx-s1-5714609/epstein-europe-fallout" target="_blank">Epstein files fallout takes down elite figures in Europe, while U.S. reckoning is muted</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-14 23:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +102,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c2lrdq47149o?at_medium=RSS&at_campaign=rss" target="_blank">Rubio says US and Europe &#x27;belong together&#x27; despite tensions</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-14 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/14/assailants-kill-raids-northwest-nigeria-villages-residents-say" target="_blank">Assailants kill at least 30 in north-west Nigerian villages, residents say</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-14 18:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/14/assailants-kill-raids-northwest-nigeria-villages-residents-say" target="_blank">Assailants kill at least 30 in northwest Nigeria villages, residents say</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-14 18:02</span>
             </div>
         </div>
 </div>
@@ -165,6 +172,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/luke_bowers/time-zone-conversions-in-javascript-date-fns-date-fns-tz-a-practical-guide-lmk" target="_blank">Time Zone Conversions in JavaScript (date-fns + date-fns-tz): A Practical Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-15 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dean0x/stop-your-coding-agent-from-stealing-production-secrets-4ogi" target="_blank">Stop Your Coding Agent From Stealing Production Secrets</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-14 20:57</span>
@@ -204,15 +220,6 @@
                 <span class="title"><a href="https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/" target="_blank">Internet Increasingly Becoming Unarchivable</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-14 18:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/victoor/building-a-privacy-first-finance-app-with-laravel-12-and-react-19-2j3d" target="_blank">Building a Privacy-First Finance App with Laravel 12 and React 19</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-14 15:53</span>
             </div>
         </div>
 </div>
@@ -307,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 23:03 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 00:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
