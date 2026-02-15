@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-15 02:58:27 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-02-15 03:55:25 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, February 15, 2026 - 02:58 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, February 15, 2026 - 03:55 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/14/assailants-kill-raids-northwest-nigeria-villages-residents-say" target="_blank">Assailants kill at least 32 in north-west Nigerian villages, residents say</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-15 03:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/14/nx-s1-5714574/speedskater-jordan-stolz-win" target="_blank">American speedskater Jordan Stolz wins second Olympic gold with 500-meter race victory</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-14 19:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f567/live/80039470-09a8-11f1-b7e1-afb6d0884c18.jpg" alt="Rubio says US and Europe &#x27;belong together&#x27; despite tensions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2lrdq47149o?at_medium=RSS&at_campaign=rss" target="_blank">Rubio says US and Europe &#x27;belong together&#x27; despite tensions</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-14 18:44</span>
             </div>
         </div>
 </div>
@@ -172,6 +173,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2021/01/linux-mint.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 23 adds home encryption option for new users" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/linux-mint-23-user-accounts-system-administration" target="_blank">Linux Mint 23 adds home encryption option for new users</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-02-15 01:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc4ss43lngn0w8y6t5r45.png" alt="I Built a Browser-Based Terminal with 102 Developer Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -192,28 +202,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://newpipe.net/" target="_blank">NewPipe: YouTube client without vertical videos and algorithmic feed</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-15 01:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/luke_bowers/time-zone-conversions-in-javascript-date-fns-date-fns-tz-a-practical-guide-lmk" target="_blank">Time Zone Conversions in JavaScript (date-fns + date-fns-tz): A Practical Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-15 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/X.Org-Server-On-Main" target="_blank">X.Org Server&#x27;s &quot;Master&quot; Branch Now Closed With Cleaned Up State On &quot;Main&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-14 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dean0x/stop-your-coding-agent-from-stealing-production-secrets-4ogi" target="_blank">Stop Your Coding Agent From Stealing Production Secrets</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-14 20:57</span>
             </div>
         </div>
 </div>
@@ -309,7 +310,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 02:58 UTC
+        🔄 Last Updated: 03:55 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
