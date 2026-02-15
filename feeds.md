@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-15 20:02:16 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-15 21:03:25 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, February 15, 2026 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, February 15, 2026 - 21:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/2/15/gaza-mothers-grim-ordeal-a-search-for-missing-son-among-mutilated-bodies?traffic_source=rss" target="_blank">Gaza mother’s grim ordeal: A search for missing son among mutilated bodies</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-15 20:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771186451447_now_brk_guthrie_glove_250215_1920x1080-ng2lql.jpg" alt="FBI testing DNA found on glove consistent with type seen on Guthrie doorbell video" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/fbi-testing-dna-found-on-glove-consistent-with-type-seen-on-guthrie-doorbell-video-257722950000" target="_blank">FBI testing DNA found on glove consistent with type seen on Guthrie doorbell video</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-15 20:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a1/live/74b86510-0aa1-11f1-9972-d3f265c101c6.jpg" alt="Weston &amp; Stoecker win GB&#x27;s second gold of day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,29 +103,20 @@
                 <span class="time">2026-02-15 17:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/guthrie_update__489383-q14d8k.jpg" alt="Nancy Guthrie investigation moving away from man whose home was searched" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/dateline/video/nancy-guthrie-investigation-moving-away-from-man-whose-home-was-searched-257722437612" target="_blank">Nancy Guthrie investigation moving away from man whose home was searched</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-15 17:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/15/thousands-of-western-nationals-fought-israels-war-on-gaza-what-to-know?traffic_source=rss" target="_blank">Thousands of Western nationals fought Israel’s war on Gaza: What to know</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-15 15:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/marssurface-500x500.jpg" alt="Ancient Mars was warm and wet, not cold and icy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/02/ancient-mars-was-warm-and-wet-not-cold-and-icy/" target="_blank">Ancient Mars was warm and wet, not cold and icy</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-15 20:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/ars-logo-dark-background-500x500.jpg" alt="Editor’s Note: Retraction of article containing fabricated quotations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +162,29 @@
                 <span class="time">2026-02-15 16:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/877858/life-with-casio-moflin-robot-ai-pet" target="_blank">I hate my AI pet with every fiber of my being</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-15 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sourav_mahato_3900/shadcn-ai-give-me-superpower-p3k" target="_blank">shadcn &amp; ai give me superpower....</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-15 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/02/Ubuntu-2604-resolute-mascot-art.webp?resize=406%2C232&amp;ssl=1" alt="Official Ubuntu 26.04 ‘Resolute Raccoon’ mascot revealed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/ubuntu-26-04-resolute-raccoon-mascot-download" target="_blank">Official Ubuntu 26.04 ‘Resolute Raccoon’ mascot revealed</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-02-15 19:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,29 +221,20 @@
                 <span class="time">2026-02-15 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Faster-Hibernation-Slow" target="_blank">Linux Kernel Improvement Can Make Hibernation Several Times Faster With Slow SSDs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-15 11:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://marler8997.github.io/blog/fixed-windows/" target="_blank">I Fixed Windows Native Development</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-15 11:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/zatanna-hed-1280x853.jpg" alt="Emerald Fennell Dishes On Her ‘Really Dark’ Zatanna Script" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/emerald-fennell-dishes-on-her-really-dark-zatanna-script-2000722293" target="_blank">Emerald Fennell Dishes On Her ‘Really Dark’ Zatanna Script</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-15 19:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/image-20.jpg" alt="David Hayter Voices Metal Gear Solid’s Snake As He Bros Out With Splinter Cell’s Sam Fisher In Rainbow Six Siege Reveal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +280,6 @@
                 <span class="time">2026-02-15 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/spider-vader-1280x853.jpg" alt="Disney Sends ByteDance an AI Trophy in the Form of a Cease and Desist Letter Over Seedance 2.0" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/disney-sends-bytedance-an-ai-trophy-in-the-form-of-a-cease-and-desist-letter-over-seedance-2-0-2000722261" target="_blank">Disney Sends ByteDance an AI Trophy in the Form of a Cease and Desist Letter Over Seedance 2.0</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-14 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 253 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 254 |
+        🔄 Last Updated: 21:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
