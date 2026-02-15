@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-15 01:31:01 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-15 02:58:27 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, February 15, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, February 15, 2026 - 02:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -165,11 +163,29 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/focss/from-zero-to-ranked-building-a-high-performance-nba-player-randomizer-with-nextjs-14-cloudflare-5f1i" target="_blank">From Zero to Ranked: Building a High-Performance NBA Player Randomizer with Next.js 14 &amp; Cloudflare</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-15 02:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc4ss43lngn0w8y6t5r45.png" alt="I Built a Browser-Based Terminal with 102 Developer Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/arthur_f_cdb8f042da2/i-built-a-browser-based-terminal-with-102-developer-tools-3n6n" target="_blank">I Built a Browser-Based Terminal with 102 Developer Tools</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2026-02-15 01:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-F2FS" target="_blank">F2FS Delivers &quot;Several Key Performance Optimizations&quot; With Linux 7.0</a></span>
+                <span class="feed">Phoronix</span>
                 <span class="time">2026-02-15 01:26</span>
             </div>
         </div>
@@ -200,24 +216,6 @@
                 <span class="time">2026-02-14 20:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Vim-9.2-Released" target="_blank">Vim 9.2 Released With Experimental Wayland Support, Better HiDPI Display Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-14 20:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vigneshwaralingam/going-back-to-my-school-where-my-habits-goals-and-dreams-were-born-3e5b" target="_blank">Going Back to My School: Where My Habits, Goals, and Dreams Were Born</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-14 18:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/spider-vader-1280x853.jpg" alt="Disney Sends ByteDance an AI Trophy in the Form of a Cease and Desist Letter Over Seedance 2.0" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/disney-sends-bytedance-an-ai-trophy-in-the-form-of-a-cease-and-desist-letter-over-seedance-2-0-2000722261" target="_blank">Disney Sends ByteDance an AI Trophy in the Form of a Cease and Desist Letter Over Seedance 2.0</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-14 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Noem-in-an-NBC-News-appearance.jpg?fit=1080%2C631&amp;quality=60&amp;ssl=1" alt="Noem&#x27;s &quot;Right people voting&quot; comment sparks concern over DHS role in elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +289,6 @@
                 <span class="time">2026-02-14 17:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Discord1-1280x720.jpg" alt="Discord Distances Itself From Age Verification Firm After Ties To Palantir’s Peter Thiel Surface" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951" target="_blank">Discord Distances Itself From Age Verification Firm After Ties To Palantir’s Peter Thiel Surface</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-14 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 02:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
