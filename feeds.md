@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-15 18:02:54 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-15 19:06:32 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, February 15, 2026 - 18:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, February 15, 2026 - 19:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f435/live/6e0b03a0-0a90-11f1-b5e2-dd58fc65f0f6.jpg" alt="Andrew&#x27;s time as trade envoy should be investigated, says Vince Cable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp32j7v2dy5o?at_medium=RSS&at_campaign=rss" target="_blank">Andrew&#x27;s time as trade envoy should be investigated, says Vince Cable</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-15 18:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/15/syrian-army-takes-over-al-shaddadi-base-after-us-withdrawal?traffic_source=rss" target="_blank">Syrian army takes over al-Shaddadi base after US withdrawal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-15 17:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +101,20 @@
                 <span class="time">2026-02-15 14:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c25b/live/f0cf0920-0a69-11f1-9972-d3f265c101c6.png" alt="UK wants action taken on Russia after Navalny frog poisoning, Cooper says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8r15e4ek2vo?at_medium=RSS&at_campaign=rss" target="_blank">UK wants action taken on Russia after Navalny frog poisoning, Cooper says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-15 12:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/15/gazas-nasser-hospital-slams-msfs-unsubstantiated-armed-men-allegation?traffic_source=rss" target="_blank">Gaza’s Nasser Hospital slams MSF’s ‘unsubstantiated’ armed men allegation</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-15 12:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/ars-logo-dark-background-500x500.jpg" alt="Editor’s Note: Retraction of article containing fabricated quotations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/" target="_blank">Editor’s Note: Retraction of article containing fabricated quotations</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-15 18:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +160,29 @@
                 <span class="time">2026-02-15 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/879016/epstein-files-emails-text-errors-encoding" target="_blank">Why are Epstein’s emails full of equals signs?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-15 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nomad4tech/building-a-minimal-telegram-bot-library-for-java-handler-chain-pattern-3kmb" target="_blank">Building a Minimal Telegram Bot Library for Java - Handler Chain Pattern</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-15 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/TechPaula/LT6502" target="_blank">LT6502: A 6502-based homebrew laptop</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-15 17:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F40ja3r98c3rynw019ixz.jpg" alt="My AI Broke Out of Its Container — And I Let It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,29 +219,20 @@
                 <span class="time">2026-02-15 11:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dishon_gatambiadd_31a1/hospital-pharmacy-data-analysis-4eoi" target="_blank">HOSPITAL &amp; PHARMACY DATA ANALYSIS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-15 10:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/emacs-the-ux-ideal-part-deux/" target="_blank">Why and How I am Using Emacs for Writing My Next Novel</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-15 10:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/image-20.jpg" alt="David Hayter Voices Metal Gear Solid’s Snake As He Bros Out With Splinter Cell’s Sam Fisher In Rainbow Six Siege Reveal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/rainbow-six-siege-snake-david-hayter-voice-metal-gear-trailer-2000669204" target="_blank">David Hayter Voices Metal Gear Solid’s Snake As He Bros Out With Splinter Cell’s Sam Fisher In Rainbow Six Siege Reveal</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-15 17:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/poe.jpg" alt="Cult-Classic ’90s PC Game Comes To Steam Under A Bizarre New Name" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,13 +278,18 @@
                 <span class="time">2026-02-14 22:30</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Noem-in-an-NBC-News-appearance.jpg?fit=1080%2C631&amp;quality=60&amp;ssl=1" alt="Noem&#x27;s &quot;Right people voting&quot; comment sparks concern over DHS role in elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1771016552-20260215.png" alt="Saturday Morning Breakfast Cereal - Warrantless" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/14/noems-right-people-voting-comment-sparks-concern-over-dhs-role-in-elections.html" target="_blank">Noem&#x27;s &quot;Right people voting&quot; comment sparks concern over DHS role in elections</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-14 22:02</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/warrantless" target="_blank">Saturday Morning Breakfast Cereal - Warrantless</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-02-15 16:20</span>
             </div>
         </div>
 </div>
@@ -278,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 254 |
-        🔄 Last Updated: 18:03 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 253 |
+        🔄 Last Updated: 19:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
