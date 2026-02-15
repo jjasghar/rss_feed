@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-15 05:24:48 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-15 06:14:02 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, February 15, 2026 - 05:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, February 15, 2026 - 06:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b307/live/c12f3310-0a0b-11f1-b5e2-dd58fc65f0f6.jpg" alt="Iran ready to discuss compromises to reach nuclear deal, minister tells BBC in Tehran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyz4y3zwz5o?at_medium=RSS&at_campaign=rss" target="_blank">Iran ready to discuss compromises to reach nuclear deal, minister tells BBC in Tehran</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-15 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -64,6 +75,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-epsten-abuse-victim_7165385.jpg?20260215030826" alt="Epstein survivor says women who recruited her &#x27;laughed&#x27; as she was sexually assaulted on jet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/epstein-survivor-says-women-who-recruited-her-laughed-as-she-was-sexually-assaulted-on-private-jet-13507770" target="_blank">Epstein survivor says women who recruited her &#x27;laughed&#x27; as she was sexually assaulted on jet</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-15 02:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -79,24 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/14/nx-s1-5714609/epstein-europe-fallout" target="_blank">Epstein files fallout takes down elite figures in Europe, while U.S. reckoning is muted</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-14 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/14/nx-s1-5696542/a-london-beat-framed-by-colonial-history" target="_blank">A London beat framed by colonial history</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-14 22:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/14/nx-s1-5714583/nasa-spacex-crew-12-iss" target="_blank">Four people on NASA&#x27;S Crew-12 arrive at the International Space Station</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-14 21:10</span>
             </div>
         </div>
 </div>
@@ -167,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-55p6" target="_blank">8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-15 06:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/focss/from-zero-to-ranked-building-a-high-performance-nba-player-randomizer-with-nextjs-14-cloudflare-5f1i" target="_blank">From Zero to Ranked: Building a High-Performance NBA Player Randomizer with Next.js 14 &amp; Cloudflare</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-15 02:47</span>
@@ -206,15 +217,6 @@
                 <span class="title"><a href="https://newpipe.net/" target="_blank">NewPipe: YouTube client without vertical videos and algorithmic feed</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-15 01:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/" target="_blank">I love the work of the ArchWiki maintainers</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-15 01:20</span>
             </div>
         </div>
 </div>
@@ -309,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 05:24 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 06:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
