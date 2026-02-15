@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-15 09:05:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-15 10:03:05 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, February 15, 2026 - 09:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, February 15, 2026 - 10:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/15/west-indies-beat-nepal-become-first-team-into-t20-world-cup-super-eights?traffic_source=rss" target="_blank">West Indies beat Nepal, become first team into T20 World Cup Super Eights</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-15 09:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +100,20 @@
                 <span class="time">2026-02-15 03:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-epsten-abuse-victim_7165385.jpg?20260215030826" alt="Epstein survivor says women who recruited her &#x27;laughed&#x27; as she was sexually assaulted on jet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/epstein-survivor-says-women-who-recruited-her-laughed-as-she-was-sexually-assaulted-on-private-jet-13507770" target="_blank">Epstein survivor says women who recruited her &#x27;laughed&#x27; as she was sexually assaulted on jet</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-15 02:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/" target="_blank">The great computer science exodus (and where students are going instead)</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-15 08:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +157,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/14/stacy-brown-philpot-cherryrock-capital-vc/" target="_blank">In a changed VC landscape, this exec is doubling down on overlooked founders</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-14 20:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/14/clueless-inspired-app-alta-partners-with-brand-public-school-to-start-integrating-styling-tools-into-websites/" target="_blank">‘Clueless’ -inspired app Alta partners with brand Public School to start integrating styling tools into websites</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-14 19:00</span>
             </div>
         </div>
 </div>
@@ -313,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 09:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 10:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
