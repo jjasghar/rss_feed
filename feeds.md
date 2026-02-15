@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-15 22:01:47 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-15 23:03:35 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, February 15, 2026 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, February 15, 2026 - 23:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/15/nx-s1-5715151/minnesota-immigration-homan-security-force-stay" target="_blank">Trump&#x27;s border czar says a &#x27;small&#x27; security force will stay in Minnesota</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-15 21:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Nancy-guthrie-new-photo-ap-bh-260215_1771180604616_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: Male DNA lifted from glove found near Guthrie home" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +100,20 @@
                 <span class="time">2026-02-15 19:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/15/nx-s1-5715154/6000-killed-during-rsf-attack-sudan-el-fasher-un" target="_blank">At least 6,000 killed over 3 days during RSF attack on Sudan&#x27;s el-Fasher, UN says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-15 18:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/" target="_blank">OpenClaw creator Peter Steinberger joins OpenAI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-15 22:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/crew-12-500x500.jpg" alt="Space Station returns to a full crew complement after a month" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +159,20 @@
                 <span class="time">2026-02-15 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/879602/cult-classic-possession-1981-review-isabelle-adjani" target="_blank">You need to watch the intensely surreal cult classic Possession</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-15 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://steipete.me/posts/2026/openclaw" target="_blank">I’m joining OpenAI</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-15 21:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/yujisuzuki/my-ai-broke-out-of-its-container-and-i-let-it-4dkh" target="_blank">My AI Broke Out of Its Container — And I Let It</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-15 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="When Machines Write" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rawveg/when-machines-write-3pl4" target="_blank">When Machines Write</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-15 12:00</span>
             </div>
         </div>
 </div>
@@ -298,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 255 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 253 |
+        🔄 Last Updated: 23:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
