@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-15 17:04:32 UTC -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2026-02-15 18:02:54 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, February 15, 2026 - 17:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, February 15, 2026 - 18:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +105,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/" target="_blank">India has 100M weekly active ChatGPT users, Sam Altman says</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-15 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/879602/cult-classic-possession-1981-review-isabelle-adjani" target="_blank">You need to watch the intensely surreal cult classic Possession</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-15 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/bigfoot-1-500x500.jpg" alt="&quot;It ain&#x27;t no unicorn&quot;: These researchers have interviewed 130 Bigfoot hunters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/02/it-aint-no-unicorn-these-researchers-have-interviewed-130-bigfoot-hunters/" target="_blank">&quot;It ain&#x27;t no unicorn&quot;: These researchers have interviewed 130 Bigfoot hunters</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-15 17:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/02/15/what-the-epstein-files-reveal-about-ev-startups-and-silicon-valley/" target="_blank">What the Epstein files reveal about EV startups and Silicon Valley</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-15 16:54</span>
@@ -127,33 +153,6 @@
                 <span class="title"><a href="https://www.theverge.com/policy/879016/epstein-files-emails-text-errors-encoding" target="_blank">Why are Epstein’s emails full of equals signs?</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-02-15 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/698dbacfd6bc30e8fe7c79aa/master/pass/Zero%20Point%20Energy%20cr-TK-Default.jpg" alt="The Nothing That Has the Potential to Be Anything" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/" target="_blank">The Nothing That Has the Potential to Be Anything</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-15 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/" target="_blank">The great computer science exodus (and where students are going instead)</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-15 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/879508/jikipedia-epstein-email-encyclopedia" target="_blank">Jikipedia turns Epstein’s emails into an encyclopedia of his powerful friends</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-14 22:33</span>
             </div>
         </div>
 </div>
@@ -213,20 +212,6 @@
                 <span class="title"><a href="https://itsfoss.com/emacs-the-ux-ideal-part-deux/" target="_blank">Why and How I am Using Emacs for Writing My Next Novel</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-02-15 10:48</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/02/upcoming-speaking-engagements-53.html" target="_blank">Upcoming Speaking Engagements</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-02-14 17:04</span>
             </div>
         </div>
 </div>
@@ -293,8 +278,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 17:04 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 254 |
+        🔄 Last Updated: 18:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
