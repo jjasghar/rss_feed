@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-15 15:03:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-15 16:02:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, February 15, 2026 - 15:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, February 15, 2026 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/15/g-s1-108326/flying-doctors-lesotho" target="_blank">Photos: The flying doctors of Lesotho won&#x27;t let their wings be clipped</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-15 15:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/15/why-are-experts-sounding-the-alarm-on-ai-risks?traffic_source=rss" target="_blank">Why are experts sounding the alarm on AI risks?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-15 11:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/FBI-Guthrie--DB-260215_1771150263734_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: Search enters 3rd week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: Search enters 3rd week</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-15 10:24</span>
             </div>
         </div>
 </div>
@@ -165,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F40ja3r98c3rynw019ixz.jpg" alt="My AI Broke Out of Its Container — And I Let It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yujisuzuki/my-ai-broke-out-of-its-container-and-i-let-it-4dkh" target="_blank">My AI Broke Out of Its Container — And I Let It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-15 15:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="When Machines Write" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +215,6 @@
                 <span class="title"><a href="https://itsfoss.com/emacs-the-ux-ideal-part-deux/" target="_blank">Why and How I am Using Emacs for Writing My Next Novel</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-02-15 10:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F9233%2Fe31b00c6-7c41-4819-bf12-5c7487dd881a.jpg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nghihua/-4a5c" target="_blank">[Boost]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-15 07:50</span>
             </div>
         </div>
 </div>
@@ -310,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 15:03 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
