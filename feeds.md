@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-15 04:37:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-15 05:24:48 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 21 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, February 15, 2026 - 04:37 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, February 15, 2026 - 05:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/15/cyclone-gezani-kills-four-in-mozambique-as-madagascar-assesses-damage?traffic_source=rss" target="_blank">Cyclone Gezani kills four in Mozambique as Madagascar assesses damage</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-15 04:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,15 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/02/14/nx-s1-5714583/nasa-spacex-crew-12-iss" target="_blank">Four people on NASA&#x27;S Crew-12 arrive at the International Space Station</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-14 21:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/14/nx-s1-5714574/speedskater-jordan-stolz-win" target="_blank">American speedskater Jordan Stolz wins second Olympic gold with 500-meter race victory</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-14 19:02</span>
             </div>
         </div>
 </div>
@@ -206,10 +211,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/luke_bowers/time-zone-conversions-in-javascript-date-fns-date-fns-tz-a-practical-guide-lmk" target="_blank">Time Zone Conversions in JavaScript (date-fns + date-fns-tz): A Practical Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-15 00:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/" target="_blank">I love the work of the ArchWiki maintainers</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-15 01:20</span>
             </div>
         </div>
 </div>
@@ -304,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 04:37 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 05:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
