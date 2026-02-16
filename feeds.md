@@ -1,37 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-02-16 13:25:55 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing 54 RSS feeds at 2026-02-16 14:15:21 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, February 16, 2026 - 13:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, February 16, 2026 - 14:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/2/16/rats-run-over-our-faces-gazas-displaced-forced-to-live-on-infested-land?traffic_source=rss" target="_blank">‘Rats run over our faces’: Gaza’s displaced forced to live on infested land</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-16 13:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +94,20 @@
                 <span class="time">2026-02-16 10:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/2/16/photos-north-koreas-kim-unveils-homes-for-families-of-fallen-soldiers?traffic_source=rss" target="_blank">North Korea’s Kim unveils homes for families of fallen soldiers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-16 10:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/" target="_blank">Flapping Airplanes on the future of AI: ‘We want to try really radically different things’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-16 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +153,20 @@
                 <span class="time">2026-02-16 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/streaming/879129/netflix-star-search-live" target="_blank">A Star is born</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-16 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sip_mjb/why-enterprise-automation-fails-at-scale-and-its-not-a-technology-problem-21ip" target="_blank">Why Enterprise Automation Fails at Scale (And It’s Not a Technology Problem)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-16 14:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +212,6 @@
                 <span class="time">2026-02-16 10:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/architecting-agentic-mlops-a2a-mcp/en/headerimage/architecting-agentic-mlops-a2a-mcp-header-1770303550343.jpg" alt="Article: Architecting Agentic MLOps: A Layered Protocol Strategy with A2A and MCP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/architecting-agentic-mlops-a2a-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Architecting Agentic MLOps: A Layered Protocol Strategy with A2A and MCP</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-16 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +231,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/11/bat.jpeg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Here&#x27;s a Western mastiff bat that I swear is as cute as a doggo!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/16/heres-a-western-mastiff-bat-that-i-swear-is-as-cute-as-a-doggo.html" target="_blank">Here&#x27;s a Western mastiff bat that I swear is as cute as a doggo!</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-16 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/01/c5e228b8518952e084f75d3f80819a15.jpg" alt="The PS6 Launch Could Be Delayed Multiple Years By AI Hyperscalers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ps6-delay-memory-price-ai-switch-2-2000669410" target="_blank">The PS6 Launch Could Be Delayed Multiple Years By AI Hyperscalers</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-16 13:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/02_mewgenics_tips-1280x721.jpg" alt="Mewgenics’ Astonishing Success Means Its Kittens Are Going To Spread Far Further" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +283,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/15/bitcoin-mining-but-make-it-a-50-experiment.html" target="_blank">Bitcoin mining, but make it a $50 experiment</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-15 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/charlies-angels-1280x853.jpg" alt="Sony Dials In For Another ‘Charlie’s Angels’ Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sony-dials-in-for-another-charlies-angels-movie-2000722281" target="_blank">Sony Dials In For Another ‘Charlie’s Angels’ Movie</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-15 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/maxresdefault.jpg" alt="Billionaires Found The Next Dumb Thing To Gamble The Economy On And It’s The Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/billionaires-found-the-next-dumb-thing-to-gamble-the-economy-on-and-its-the-moon-2000669225" target="_blank">Billionaires Found The Next Dumb Thing To Gamble The Economy On And It’s The Moon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-15 21:10</span>
             </div>
         </div>
 </div>
@@ -329,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 242 |
-        🔄 Last Updated: 13:26 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 243 |
+        🔄 Last Updated: 14:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
