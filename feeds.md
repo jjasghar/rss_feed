@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-16 15:11:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-16 16:10:15 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, February 16, 2026 - 15:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, February 16, 2026 - 16:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1285/live/2e5c0320-0b4f-11f1-b472-df9c1c12cffb.jpg" alt="Government abandons plans to delay 30 council elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c70ne31d884o?at_medium=RSS&at_campaign=rss" target="_blank">Government abandons plans to delay 30 council elections</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-16 15:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260213-Maxim-Naumov-ch-0930-846083.jpg" alt="Maxim Naumov says skating community has Ilia Malinin&#x27;s back" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/sports/olympics/maxim-naumov-says-skating-community-ilia-malinins-back-rcna259231" target="_blank">Maxim Naumov says skating community has Ilia Malinin&#x27;s back</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-16 15:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,24 +96,6 @@
                 <span class="title"><a href="https://www.today.com/video/savannah-guthrie-addresses-mother-s-captor-it-s-never-too-late-257737285877" target="_blank">Savannah Guthrie Addresses Mother&#x27;s Captor: &#x27;It&#x27;s Never Too Late&#x27;</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-16 12:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/16/ukraine-team-heads-for-geneva-talks-as-moscow-kyiv-build-military-pressure?traffic_source=rss" target="_blank">Ukraine team heads for Geneva talks as Moscow, Kyiv build military pressure</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-16 11:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/16/nx-s1-5697967/olympics-women-nordic-combined" target="_blank">One Olympic sport still excludes women. This week&#x27;s viewing numbers could change that</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-16 11:01</span>
             </div>
         </div>
 </div>
@@ -162,9 +166,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/prateekdalal/building-failure-intelligence-for-ai-agents-170d" target="_blank">Building Failure Intelligence for AI Agents</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-16 16:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shane_burrell_b278982c77a/i-built-19-free-developer-tools-because-the-existing-ones-are-terrible-2pp1" target="_blank">I built 19 free developer tools because the existing ones are terrible</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-16 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18880504&w=600" alt="Building a Self-Correcting GraphRAG Pipeline for Enterprise Observability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/self-correcting-graphrag-enterprise-observability" target="_blank">Building a Self-Correcting GraphRAG Pipeline for Enterprise Observability</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-16 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/remnux-v8-release/" target="_blank">Reverse Engineering Linux Distro REMnux Marks 15 Years With Major v8 Release Featuring AI Agent Support</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-16 14:14</span>
             </div>
         </div>
 <div class="story">
@@ -183,33 +214,6 @@
                 <span class="title"><a href="https://dzone.com/articles/automating-dfir-triage-memory-forensics-llms" target="_blank">Automating the DFIR Triage Loop With Memory Forensics and LLMs</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-16 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/suliman_abdulrazzaq_14907/would-you-trust-an-ai-with-production-aws-n4l" target="_blank">Would You Trust an AI With Production AWS?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-16 13:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18780474&w=600" alt="Building Intelligent Agents With MCP and LangGraph" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/intelligent-agents-mcp-langgraph" target="_blank">Building Intelligent Agents With MCP and LangGraph</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-16 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/murena-volla-tablet/" target="_blank">Murena Teams Up With German Manufacturer to Offer a €698 de-Googled Android Tablet</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-16 11:11</span>
             </div>
         </div>
 </div>
@@ -231,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/ACEMAGIC_Retro_X5_4320e705-ef49-4822-81ee-8d367d481008.webp?fit=1263%2C646&amp;quality=55&amp;ssl=1" alt="Acemagic&#x27;s NES clone is a powerful modern mini PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/16/acemagics-nes.html" target="_blank">Acemagic&#x27;s NES clone is a powerful modern mini PC</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-16 15:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/mcdtcg.jpg" alt="McDonald’s Just Announced Its Own TCG, And Ronald McDonald Is The Chase" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +289,6 @@
                 <span class="time">2026-02-16 13:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/06/raw-milk.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Raw milk parties make me want to barf" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/16/raw-milk-parties-make-me-want-to-barf.html" target="_blank">Raw milk parties make me want to barf</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-16 13:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 244 |
-        🔄 Last Updated: 15:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 245 |
+        🔄 Last Updated: 16:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
