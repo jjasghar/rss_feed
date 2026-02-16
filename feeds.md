@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-16 19:12:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-16 20:03:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, February 16, 2026 - 19:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, February 16, 2026 - 20:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +106,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/879749/apple-podcasts-video-swap-hls-live-streaming" target="_blank">Apple’s Podcasts app will let you ‘seamlessly’ switch between audio and video shows</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-16 19:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/" target="_blank">Have money, will travel: a16z’s hunt for the next European unicorn</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-16 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/" target="_blank">How Ricursive Intelligence raised $335M at a $4B valuation in 4 months</a></span>
                 <span class="feed">TechCrunch</span>
@@ -136,29 +157,29 @@
                 <span class="time">2026-02-16 14:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/" target="_blank">Flapping Airplanes on the future of AI: ‘We want to try really radically different things’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-16 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/" target="_blank">After all the hype, some AI experts don’t think OpenClaw is all that exciting</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-16 13:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-RISC-V" target="_blank">RISC-V In Linux 7.0 Brings User-Space CFI &amp; Optimized strlen Assembly</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-16 19:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://notnotp.com/notes/use-protocols-not-services/" target="_blank">Use Protocols, Not Services</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-16 18:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +216,6 @@
                 <span class="time">2026-02-16 17:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19.2-Released" target="_blank">Linux 6.19.2 &amp; Other LTS Kernels Released To Fix Systems Not Booting</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-16 16:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/prateekdalal/building-failure-intelligence-for-ai-agents-170d" target="_blank">Building Failure Intelligence for AI Agents</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-16 16:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/Scarlet-Studio-Chizu-Mamoru-Hosoda-io9-2025-interview-light-1280x853.jpg" alt="How Mamoru Hosoda Reforged ‘Hamlet’ Into an Anime About Choosing Life Over Revenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-mamoru-hosoda-reforged-hamlet-into-an-anime-about-choosing-life-over-revenge-2000721241" target="_blank">How Mamoru Hosoda Reforged ‘Hamlet’ Into an Anime About Choosing Life Over Revenge</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-16 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/ss_322285fcb1937f1acbe1fb349c019d7e68d91017.1920x1080-1280x720.jpg" alt="Massive Open-World Adventure Crimson Desert Promises No Microtransaction Cash Grab At Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +289,6 @@
                 <span class="time">2026-02-16 13:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/01/c5e228b8518952e084f75d3f80819a15.jpg" alt="The PS6 Launch Could Be Delayed Multiple Years By AI Hyperscalers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ps6-delay-memory-price-ai-switch-2-2000669410" target="_blank">The PS6 Launch Could Be Delayed Multiple Years By AI Hyperscalers</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-16 13:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 244 |
-        🔄 Last Updated: 19:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 243 |
+        🔄 Last Updated: 20:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
