@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-16 06:19:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-16 07:21:21 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, February 16, 2026 - 06:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, February 16, 2026 - 07:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/16/uks-starmer-announces-crackdown-on-ai-chatbots-in-child-safety-push?traffic_source=rss" target="_blank">UK’s Starmer announces crackdown on AI chatbots in child safety push</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-16 06:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a02/live/3afa9960-08e9-11f1-b7e1-afb6d0884c18.png" alt="Police framed man for murder, new evidence suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +102,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/now/video/savannah-guthrie-pleads-for-person-who-took-her-mother-to-come-forward-257731141779" target="_blank">&#x27;It&#x27;s never too late&#x27;: Savannah Guthrie shares new plea on Instagram</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-16 02:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/16/russia-ukraine-war-list-of-key-events-day-1453?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,453</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-16 01:35</span>
             </div>
         </div>
 </div>
@@ -167,6 +172,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/asad10/generate-ssh-key-config-and-quick-access-server-49j6" target="_blank">Generate ssh-key, config and quick access server</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-16 07:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/narnaiezzsshaa/the-missing-pillar-healthcare-module-clinical-trickster-profiles-governance-checklist-and-sector-5dk7" target="_blank">The Missing Pillar: Healthcare Module—Clinical Trickster Profiles, Governance Checklist, and Sector Scoring</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-16 06:00</span>
@@ -206,15 +220,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/02/java-news-roundup-feb09-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JDK 26-RC1, Spring Framework, Open Liberty, EclipseStore, Gradle</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-02-16 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8gc0d71aua0lqk6e27c.png" alt="Mastering Monad Testnet: Automate Your Developer Activity with Python 🐍" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/purplepilldev/mastering-monad-testnet-automate-your-developer-activity-with-python-5hi0" target="_blank">Mastering Monad Testnet: Automate Your Developer Activity with Python 🐍</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-16 01:24</span>
             </div>
         </div>
 </div>
@@ -304,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 250 |
-        🔄 Last Updated: 06:19 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 249 |
+        🔄 Last Updated: 07:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
