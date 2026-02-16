@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-16 01:30:59 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-02-16 02:57:19 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, February 16, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, February 16, 2026 - 02:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/16/russia-ukraine-war-list-of-key-events-day-1453?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,453</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-16 01:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/2/15/gaza-mothers-grim-ordeal-a-search-for-missing-son-among-mutilated-bodies?traffic_source=rss" target="_blank">Gaza mother’s grim ordeal: A search for missing son among mutilated bodies</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-15 20:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771186451447_now_brk_guthrie_glove_250215_1920x1080-ng2lql.jpg" alt="FBI testing DNA found on glove consistent with type seen on Guthrie doorbell video" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/fbi-testing-dna-found-on-glove-consistent-with-type-seen-on-guthrie-doorbell-video-257722950000" target="_blank">FBI testing DNA found on glove consistent with type seen on Guthrie doorbell video</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-15 20:14</span>
             </div>
         </div>
 </div>
@@ -161,11 +167,29 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/02/java-news-roundup-feb09-2026/en/headerimage/java-istock-image-01-1771200556463.jpg" alt="Java News Roundup: JDK 26-RC1, Spring Framework, Open Liberty, EclipseStore, Gradle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/java-news-roundup-feb09-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JDK 26-RC1, Spring Framework, Open Liberty, EclipseStore, Gradle</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-16 02:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8gc0d71aua0lqk6e27c.png" alt="Mastering Monad Testnet: Automate Your Developer Activity with Python 🐍" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/purplepilldev/mastering-monad-testnet-automate-your-developer-activity-with-python-5hi0" target="_blank">Mastering Monad Testnet: Automate Your Developer Activity with Python 🐍</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2026-02-16 01:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-FBDEV-Alternate-Logo" target="_blank">Linux 7.0 Merges The Code To Replace The Tux Boot Logo At Build Time</a></span>
+                <span class="feed">Phoronix</span>
                 <span class="time">2026-02-16 01:24</span>
             </div>
         </div>
@@ -196,29 +220,20 @@
                 <span class="time">2026-02-15 21:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sourav_mahato_3900/shadcn-ai-give-me-superpower-p3k" target="_blank">shadcn &amp; ai give me superpower....</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-15 20:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/02/Ubuntu-2604-resolute-mascot-art.webp?resize=406%2C232&amp;ssl=1" alt="Official Ubuntu 26.04 ‘Resolute Raccoon’ mascot revealed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/ubuntu-26-04-resolute-raccoon-mascot-download" target="_blank">Official Ubuntu 26.04 ‘Resolute Raccoon’ mascot revealed</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-15 19:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/06/steve-bannon.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Steve Bannon sued over MAGA crypto scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/15/steve-bannon-sued-over-maga-crypto-scheme.html" target="_blank">Steve Bannon sued over MAGA crypto scheme</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-16 00:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/BlockChance.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Bitcoin mining, but make it a $50 experiment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +279,6 @@
                 <span class="time">2026-02-15 17:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/poe.jpg" alt="Cult-Classic ’90s PC Game Comes To Steam Under A Bizarre New Name" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/edgar-allen-poe-cult-classic-horror-steam-pc-2000669201" target="_blank">Cult-Classic ’90s PC Game Comes To Steam Under A Bizarre New Name</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-15 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,7 +299,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 249 |
-        🔄 Last Updated: 01:31 UTC
+        🔄 Last Updated: 02:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
