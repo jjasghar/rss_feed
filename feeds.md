@@ -1,30 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-02-16 14:15:21 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-16 15:11:57 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, February 16, 2026 - 14:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, February 16, 2026 - 15:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/16/un-staffers-back-francesca-albanese-condemn-european-ministers-for-attacks?traffic_source=rss" target="_blank">UN staffers back Francesca Albanese, condemn European ministers for attacks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-16 14:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +94,6 @@
                 <span class="time">2026-02-16 11:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/16/which-teams-can-qualify-for-the-t20-world-cup-super-eights-and-how?traffic_source=rss" target="_blank">Which teams can qualify for the T20 World Cup Super Eights, and how?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-16 10:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -115,6 +115,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/" target="_blank">After all the hype, some AI experts don’t think OpenClaw is all that exciting</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-16 13:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/699278dc6d884141d10948e0/master/pass/Review-%20Saatva%20Memory%20Foam%20Hybrid%20Mattress.png" alt="Saatva Memory Foam Hybrid Mattress Review: Going for Gold and Good Sleep" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/saatva-memory-foam-hybrid-mattress/" target="_blank">Saatva Memory Foam Hybrid Mattress Review: Going for Gold and Good Sleep</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-16 12:31</span>
             </div>
         </div>
 <div class="story">
@@ -144,15 +153,6 @@
                 <span class="time">2026-02-16 11:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6992729263fa55111728b45e/master/pass/Review-%20Sony%20Linkbuds%20Clip.png" alt="Sony LinkBuds Clip Review: Solid Buds, Premium Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/sony-linkbuds-clip/" target="_blank">Sony LinkBuds Clip Review: Solid Buds, Premium Price</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-16 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -162,9 +162,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shane_burrell_b278982c77a/i-built-19-free-developer-tools-because-the-existing-ones-are-terrible-2pp1" target="_blank">I built 19 free developer tools because the existing ones are terrible</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-16 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sip_mjb/why-enterprise-automation-fails-at-scale-and-its-not-a-technology-problem-21ip" target="_blank">Why Enterprise Automation Fails at Scale (And It’s Not a Technology Problem)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-16 14:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18878171&w=600" alt="Automating the DFIR Triage Loop With Memory Forensics and LLMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/automating-dfir-triage-memory-forensics-llms" target="_blank">Automating the DFIR Triage Loop With Memory Forensics and LLMs</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-16 14:00</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +212,6 @@
                 <span class="time">2026-02-16 11:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/unicode-org/message-format-wg" target="_blank">MessageFormat: Unicode standard for localizable message strings</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-16 10:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj7hlfz848ut2d9ly8i8q.png" alt="Business Advantages of Using Nuxt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jacobandrewsky/business-advantages-of-using-nuxt-51j2" target="_blank">Business Advantages of Using Nuxt</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-16 10:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +231,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/mcdtcg.jpg" alt="McDonald’s Just Announced Its Own TCG, And Ronald McDonald Is The Chase" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mcdonalds-tcg-ronald-cards-grimace-cheeseburger-chair-2000669414" target="_blank">McDonald’s Just Announced Its Own TCG, And Ronald McDonald Is The Chase</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-16 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/05/wendys.jpg?fit=1500%2C1018&amp;quality=60&amp;ssl=1" alt="Wendy&#x27;s to close hundreds of restaurants" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/16/wendys.html" target="_blank">Wendy&#x27;s to close hundreds of restaurants</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-16 14:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/11/bat.jpeg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Here&#x27;s a Western mastiff bat that I swear is as cute as a doggo!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,24 +283,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/16/raw-milk-parties-make-me-want-to-barf.html" target="_blank">Raw milk parties make me want to barf</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-16 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/06/steve-bannon.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Steve Bannon sued over MAGA crypto scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/15/steve-bannon-sued-over-maga-crypto-scheme.html" target="_blank">Steve Bannon sued over MAGA crypto scheme</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-16 00:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/BlockChance.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Bitcoin mining, but make it a $50 experiment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/15/bitcoin-mining-but-make-it-a-50-experiment.html" target="_blank">Bitcoin mining, but make it a $50 experiment</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-15 22:00</span>
             </div>
         </div>
 </div>
@@ -322,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 243 |
-        🔄 Last Updated: 14:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 244 |
+        🔄 Last Updated: 15:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
