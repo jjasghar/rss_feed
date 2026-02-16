@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-16 07:21:21 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-02-16 08:09:42 UTC -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 32 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, February 16, 2026 - 07:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, February 16, 2026 - 08:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/16/bytedance-pledges-fixes-to-seedance-2-0-after-hollywood-copyright-claims?traffic_source=rss" target="_blank">ByteDance pledges fixes to Seedance 2.0 after Hollywood copyright claims</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-16 07:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +94,6 @@
                 <span class="title"><a href="https://www.theguardian.com/news/audio/2026/feb/16/how-an-undercover-cop-foiled-an-is-plot-to-massacre-britains-jews-podcast" target="_blank">How an undercover cop foiled an IS plot to massacre Britain’s Jews – podcast</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-02-16 03:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771209239123_now_brk_savannah_guthrie_video_260215_1920x1080-dvww0n.jpg" alt="&#x27;It&#x27;s never too late&#x27;: Savannah Guthrie shares new plea on Instagram" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/savannah-guthrie-pleads-for-person-who-took-her-mother-to-come-forward-257731141779" target="_blank">&#x27;It&#x27;s never too late&#x27;: Savannah Guthrie shares new plea on Instagram</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-16 02:34</span>
             </div>
         </div>
 </div>
@@ -180,6 +172,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mastodon.world/@knowmadd/116072773118828295" target="_blank">I want to wash my car. The car wash is 50 meters away. Should I walk or drive?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-16 06:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/narnaiezzsshaa/the-missing-pillar-healthcare-module-clinical-trickster-profiles-governance-checklist-and-sector-5dk7" target="_blank">The Missing Pillar: Healthcare Module—Clinical Trickster Profiles, Governance Checklist, and Sector Scoring</a></span>
                 <span class="feed">DEV Community</span>
@@ -211,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/janealesi/die-ki-kann-mehr-als-sie-denken-warum-power-user-mehrfach-produktiver-sind-und-wie-sie-aufholen-3m3f" target="_blank">Die KI kann mehr als Sie denken: Warum Power User mehrfach produktiver sind — und wie Sie aufholen</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-16 03:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/java-news-roundup-feb09-2026/en/headerimage/java-istock-image-01-1771200556463.jpg" alt="Java News Roundup: JDK 26-RC1, Spring Framework, Open Liberty, EclipseStore, Gradle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/java-news-roundup-feb09-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JDK 26-RC1, Spring Framework, Open Liberty, EclipseStore, Gradle</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-16 02:30</span>
             </div>
         </div>
 </div>
@@ -309,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 249 |
-        🔄 Last Updated: 07:21 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 246 |
+        🔄 Last Updated: 08:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
