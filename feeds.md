@@ -1,37 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-02-16 11:13:25 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-16 12:06:55 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, February 16, 2026 - 11:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, February 16, 2026 - 12:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/16/ukraine-team-heads-for-geneva-talks-as-moscow-kyiv-build-military-pressure?traffic_source=rss" target="_blank">Ukraine team heads for Geneva talks as Moscow, Kyiv build military pressure</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-16 11:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/16/nx-s1-5697967/olympics-women-nordic-combined" target="_blank">One Olympic sport still excludes women. This week&#x27;s viewing numbers could change that</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-16 11:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +94,29 @@
                 <span class="time">2026-02-16 09:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/16/bytedance-pledges-fixes-to-seedance-2-0-after-hollywood-copyright-claims?traffic_source=rss" target="_blank">ByteDance pledges fixes to Seedance 2.0 after Hollywood copyright claims</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-16 07:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/16/uks-starmer-announces-crackdown-on-ai-chatbots-in-child-safety-push?traffic_source=rss" target="_blank">UK’s Starmer announces crackdown on AI chatbots in child safety push</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-16 06:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6990e3e8876b755ff3162f1f/master/pass/Don%E2%80%99t%20Buy%20One%20of%20These%20Junky%20Laptops%20That%20Amazon%20Is%20Pushing.png" alt="Amazon Props Up Misleading, Junky Laptops No One Should Buy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/bad-amazon-laptops/" target="_blank">Amazon Props Up Misleading, Junky Laptops No One Should Buy</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-16 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/879652/samsung-galaxy-s26-privacy-display-ad-flex-magic-pixel" target="_blank">Samsung ad confirms rumors of a useful S26 ‘privacy display’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-16 11:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6992729263fa55111728b45e/master/pass/Review-%20Sony%20Linkbuds%20Clip.png" alt="Sony LinkBuds Clip Review: Solid Buds, Premium Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,24 +153,6 @@
                 <span class="time">2026-02-16 01:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai" target="_blank">OpenClaw founder Peter Steinberger is joining OpenAI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-15 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/" target="_blank">OpenClaw creator Peter Steinberger joins OpenAI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-15 22:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +165,15 @@
                 <span class="title"><a href="https://itsfoss.com/news/murena-volla-tablet/" target="_blank">Murena Teams Up With German Manufacturer to Offer a €698 de-Googled Android Tablet</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2026-02-16 11:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/unicode-org/message-format-wg" target="_blank">MessageFormat: Unicode standard for localizable message strings</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-16 10:26</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +210,6 @@
                 <span class="title"><a href="https://mastodon.world/@knowmadd/116072773118828295" target="_blank">I want to wash my car. The car wash is 50 meters away. Should I walk or drive?</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-16 06:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/narnaiezzsshaa/the-missing-pillar-healthcare-module-clinical-trickster-profiles-governance-checklist-and-sector-5dk7" target="_blank">The Missing Pillar: Healthcare Module—Clinical Trickster Profiles, Governance Checklist, and Sector Scoring</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-16 06:00</span>
             </div>
         </div>
 </div>
@@ -315,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 243 |
-        🔄 Last Updated: 11:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 240 |
+        🔄 Last Updated: 12:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
