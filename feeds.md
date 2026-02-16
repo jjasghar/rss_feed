@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-16 00:07:37 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-16 01:30:59 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: NPR News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
 <!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, February 16, 2026 - 00:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, February 16, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +105,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/" target="_blank">As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-16 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai" target="_blank">OpenClaw founder Peter Steinberger is joining OpenAI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-15 22:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/" target="_blank">OpenClaw creator Peter Steinberger joins OpenAI</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-15 22:28</span>
@@ -137,29 +155,20 @@
                 <span class="time">2026-02-15 20:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/ars-logo-dark-background-500x500.jpg" alt="Editor’s Note: Retraction of article containing fabricated quotations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/" target="_blank">Editor’s Note: Retraction of article containing fabricated quotations</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-15 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/" target="_blank">India has 100M weekly active ChatGPT users, Sam Altman says</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-15 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8gc0d71aua0lqk6e27c.png" alt="Mastering Monad Testnet: Automate Your Developer Activity with Python 🐍" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/purplepilldev/mastering-monad-testnet-automate-your-developer-activity-with-python-5hi0" target="_blank">Mastering Monad Testnet: Automate Your Developer Activity with Python 🐍</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-16 01:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -167,6 +176,15 @@
                 <span class="title"><a href="https://dev.to/mxngo/from-ctf-flags-to-building-a-python-based-hybrid-encryption-tool-for-harvest-now-decrypt-later-3b16" target="_blank">From CTF Flags to Building a Python-Based Hybrid Encryption Tool for &quot;Harvest Now, Decrypt Later&quot;</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-15 23:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.natfu.be/validation-in-type-annotations/" target="_blank">Runtime validation in type annotations</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-02-15 23:57</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +212,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/ubuntu-26-04-resolute-raccoon-mascot-download" target="_blank">Official Ubuntu 26.04 ‘Resolute Raccoon’ mascot revealed</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-02-15 19:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nomad4tech/building-a-minimal-telegram-bot-library-for-java-handler-chain-pattern-3kmb" target="_blank">Building a Minimal Telegram Bot Library for Java - Handler Chain Pattern</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-15 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/TechPaula/LT6502" target="_blank">LT6502: A 6502-based homebrew laptop</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-15 17:12</span>
             </div>
         </div>
 </div>
@@ -292,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 253 |
-        🔄 Last Updated: 00:07 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 249 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
