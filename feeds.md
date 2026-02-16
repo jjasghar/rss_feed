@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-16 02:57:19 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-16 03:54:12 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, February 16, 2026 - 02:57 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, February 16, 2026 - 03:54 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,10 +50,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/news/audio/2026/feb/16/how-an-undercover-cop-foiled-an-is-plot-to-massacre-britains-jews-podcast" target="_blank">How an undercover cop foiled an IS plot to massacre Britain’s Jews – podcast</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-02-16 03:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/16/russia-ukraine-war-list-of-key-events-day-1453?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,453</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-16 01:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Nancy-guthrie-new-photo-ap-bh-260215_1771180604616_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: Savannah sends message to abductor, &#x27;do the right thing&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: Savannah sends message to abductor, &#x27;do the right thing&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-16 01:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-protest-iran-nasrin_7166097.png?20260216004907" alt="Iranian protester&#x27;s family forced to &#x27;pay for the bullet that killed their son&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/family-of-iranian-protester-forced-to-pay-for-the-bullet-that-killed-their-son-13508060" target="_blank">Iranian protester&#x27;s family forced to &#x27;pay for the bullet that killed their son&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-16 00:01</span>
             </div>
         </div>
 <div class="story">
@@ -67,39 +93,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/094a/live/520e98d0-0ab6-11f1-afbc-01c60fb356b3.jpg" alt="No free pass for internet platforms on child safety, Starmer says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/15/nx-s1-5715151/minnesota-immigration-homan-security-force-stay" target="_blank">Trump&#x27;s border czar says a &#x27;small&#x27; security force will stay in Minnesota</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-15 21:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Nancy-guthrie-new-photo-ap-bh-260215_1771180604616_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: Male DNA lifted from glove found near Guthrie home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: Male DNA lifted from glove found near Guthrie home</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-15 20:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/15/at-least-11-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss" target="_blank">At least 11 Palestinians killed in Israeli attacks across Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-15 20:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/2/15/gaza-mothers-grim-ordeal-a-search-for-missing-son-among-mutilated-bodies?traffic_source=rss" target="_blank">Gaza mother’s grim ordeal: A search for missing son among mutilated bodies</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-15 20:16</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg38x13x5yo?at_medium=RSS&at_campaign=rss" target="_blank">No free pass for internet platforms on child safety, Starmer says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-15 22:34</span>
             </div>
         </div>
 </div>
@@ -167,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/janealesi/die-ki-kann-mehr-als-sie-denken-warum-power-user-mehrfach-produktiver-sind-und-wie-sie-aufholen-3m3f" target="_blank">Die KI kann mehr als Sie denken: Warum Power User mehrfach produktiver sind — und wie Sie aufholen</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-16 03:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/02/java-news-roundup-feb09-2026/en/headerimage/java-istock-image-01-1771200556463.jpg" alt="Java News Roundup: JDK 26-RC1, Spring Framework, Open Liberty, EclipseStore, Gradle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -194,30 +202,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/ubuntu-circuit-yellow.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 splits firmware package to reduce update sizes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/ubuntu-26-04-firmware-split" target="_blank">Ubuntu 26.04 splits firmware package to reduce update sizes</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-02-16 00:16</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mxngo/from-ctf-flags-to-building-a-python-based-hybrid-encryption-tool-for-harvest-now-decrypt-later-3b16" target="_blank">From CTF Flags to Building a Python-Based Hybrid Encryption Tool for &quot;Harvest Now, Decrypt Later&quot;</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-15 23:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://blog.natfu.be/validation-in-type-annotations/" target="_blank">Runtime validation in type annotations</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-02-15 23:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://steipete.me/posts/2026/openclaw" target="_blank">I’m joining OpenAI</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-15 21:54</span>
             </div>
         </div>
 </div>
@@ -298,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 249 |
-        🔄 Last Updated: 02:57 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 249 |
+        🔄 Last Updated: 03:54 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
