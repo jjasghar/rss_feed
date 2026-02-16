@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-16 04:39:47 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-02-16 05:28:31 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, February 16, 2026 - 04:39 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, February 16, 2026 - 05:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +49,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/094a/live/520e98d0-0ab6-11f1-afbc-01c60fb356b3.jpg" alt="Starmer pledges crackdown on &#x27;addictive elements&#x27; of social media" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg38x13x5yo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer pledges crackdown on &#x27;addictive elements&#x27; of social media</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-16 04:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/16/netanyahu-calls-for-dismantling-irans-nuclear-programme-in-any-us-deal?traffic_source=rss" target="_blank">Netanyahu calls for dismantling Iran’s nuclear programme in any US deal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-16 04:22</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
                 <span class="title"><a href="https://www.theguardian.com/news/audio/2026/feb/16/how-an-undercover-cop-foiled-an-is-plot-to-massacre-britains-jews-podcast" target="_blank">How an undercover cop foiled an IS plot to massacre Britain’s Jews – podcast</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-02-16 03:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771209239123_now_brk_savannah_guthrie_video_260215_1920x1080-dvww0n.jpg" alt="&#x27;It&#x27;s never too late&#x27;: Savannah Guthrie shares new plea on Instagram" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/savannah-guthrie-pleads-for-person-who-took-her-mother-to-come-forward-257731141779" target="_blank">&#x27;It&#x27;s never too late&#x27;: Savannah Guthrie shares new plea on Instagram</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-16 02:34</span>
             </div>
         </div>
 <div class="story">
@@ -73,33 +100,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: Savannah sends message to abductor, &#x27;do the right thing&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-02-16 01:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-protest-iran-nasrin_7166097.png?20260216004907" alt="Iranian protester&#x27;s family forced to &#x27;pay for the bullet that killed their son&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/family-of-iranian-protester-forced-to-pay-for-the-bullet-that-killed-their-son-13508060" target="_blank">Iranian protester&#x27;s family forced to &#x27;pay for the bullet that killed their son&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-16 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/15/nx-s1-5715252/fbi-dna-glove-guthrie-home-suspect-video" target="_blank">FBI: DNA from glove near Guthrie home appears to match glove worn by suspect</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-15 23:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/094a/live/520e98d0-0ab6-11f1-afbc-01c60fb356b3.jpg" alt="No free pass for internet platforms on child safety, Starmer says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg38x13x5yo?at_medium=RSS&at_campaign=rss" target="_blank">No free pass for internet platforms on child safety, Starmer says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-15 22:34</span>
             </div>
         </div>
 </div>
@@ -170,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aravind_d/gitterracli-46o5" target="_blank">Git_TerraCLI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-16 05:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ethiel97/lucidclip-building-a-production-grade-desktop-clipboard-manager-with-faster-iteration-using-4o3n" target="_blank">LucidClip — Building a production-grade desktop clipboard manager with faster iteration using GitHub Copilot CLI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-16 04:25</span>
@@ -209,15 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-FBDEV-Alternate-Logo" target="_blank">Linux 7.0 Merges The Code To Replace The Tux Boot Logo At Build Time</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-16 01:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/ubuntu-circuit-yellow.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 splits firmware package to reduce update sizes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/02/ubuntu-26-04-firmware-split" target="_blank">Ubuntu 26.04 splits firmware package to reduce update sizes</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-02-16 00:16</span>
             </div>
         </div>
 </div>
@@ -307,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 248 |
-        🔄 Last Updated: 04:39 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 249 |
+        🔄 Last Updated: 05:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
