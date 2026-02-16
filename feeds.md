@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-02-16 21:04:29 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-02-16 22:03:43 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, February 16, 2026 - 21:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, February 16, 2026 - 22:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -202,19 +206,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/" target="_blank">14-year-old Miles Wu folded origami pattern that holds 10k times its own weight</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-16 18:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/karthick_m22/polimorphism-2k3p" target="_blank">Polimorphism</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-16 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18881115&w=600" alt="Breaking the Vendor Lock in Network Automation: A Pure Python Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/breaking-the-vendor-lock-in-network-automation-a-p" target="_blank">Breaking the Vendor Lock in Network Automation: A Pure Python Architecture</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-16 18:00</span>
             </div>
         </div>
 </div>
@@ -243,6 +247,15 @@
                 <span class="title"><a href="https://gizmodo.com/how-mamoru-hosoda-reforged-hamlet-into-an-anime-about-choosing-life-over-revenge-2000721241" target="_blank">How Mamoru Hosoda Reforged ‘Hamlet’ Into an Anime About Choosing Life Over Revenge</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-02-16 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/msg4-1280x730.jpg" alt="Metal Gear Solid 4 Remaster Is Leaving Online Multiplayer In The Past" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/msg4-multiplayer-remaster-online-konami-2000669466" target="_blank">Metal Gear Solid 4 Remaster Is Leaving Online Multiplayer In The Past</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-16 19:53</span>
             </div>
         </div>
 <div class="story">
@@ -281,15 +294,6 @@
                 <span class="time">2026-02-16 14:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/11/bat.jpeg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Here&#x27;s a Western mastiff bat that I swear is as cute as a doggo!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/16/heres-a-western-mastiff-bat-that-i-swear-is-as-cute-as-a-doggo.html" target="_blank">Here&#x27;s a Western mastiff bat that I swear is as cute as a doggo!</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-16 13:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,6 +327,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/snews.png" alt="SNEWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3208/" target="_blank">SNEWS</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-02-16 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5766.png" alt="Teens" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -336,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 244 |
-        🔄 Last Updated: 21:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 244 |
+        🔄 Last Updated: 22:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
