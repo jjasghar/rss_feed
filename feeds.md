@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-02-15 23:03:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-16 00:07:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, February 15, 2026 - 23:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, February 16, 2026 - 00:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/15/nx-s1-5715252/fbi-dna-glove-guthrie-home-suspect-video" target="_blank">FBI: DNA from glove near Guthrie home appears to match glove worn by suspect</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-15 23:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +94,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/now/video/fbi-testing-dna-found-on-glove-consistent-with-type-seen-on-guthrie-doorbell-video-257722950000" target="_blank">FBI testing DNA found on glove consistent with type seen on Guthrie doorbell video</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-15 20:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a1/live/74b86510-0aa1-11f1-9972-d3f265c101c6.jpg" alt="Weston &amp; Stoecker win GB&#x27;s second gold of day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/sport/articles/cm2x7m17jydo?at_medium=RSS&at_campaign=rss" target="_blank">Weston &amp; Stoecker win GB&#x27;s second gold of day</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-15 19:10</span>
             </div>
         </div>
 </div>
@@ -167,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mxngo/from-ctf-flags-to-building-a-python-based-hybrid-encryption-tool-for-harvest-now-decrypt-later-3b16" target="_blank">From CTF Flags to Building a Python-Based Hybrid Encryption Tool for &quot;Harvest Now, Decrypt Later&quot;</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-15 23:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://steipete.me/posts/2026/openclaw" target="_blank">I’m joining OpenAI</a></span>
                 <span class="feed">Hacker News</span>
@@ -209,20 +214,29 @@
                 <span class="time">2026-02-15 17:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F40ja3r98c3rynw019ixz.jpg" alt="My AI Broke Out of Its Container — And I Let It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yujisuzuki/my-ai-broke-out-of-its-container-and-i-let-it-4dkh" target="_blank">My AI Broke Out of Its Container — And I Let It</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-15 15:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/BlockChance.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Bitcoin mining, but make it a $50 experiment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/15/bitcoin-mining-but-make-it-a-50-experiment.html" target="_blank">Bitcoin mining, but make it a $50 experiment</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-15 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/charlies-angels-1280x853.jpg" alt="Sony Dials In For Another ‘Charlie’s Angels’ Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sony-dials-in-for-another-charlies-angels-movie-2000722281" target="_blank">Sony Dials In For Another ‘Charlie’s Angels’ Movie</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-15 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/maxresdefault.jpg" alt="Billionaires Found The Next Dumb Thing To Gamble The Economy On And It’s The Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,24 +273,6 @@
                 <span class="time">2026-02-15 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/Koofr-Cloud-Storage.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="The cloud storage equivalent of finally quitting the gym" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/15/the-cloud-storage-equivalent-of-finally-quitting-the-gym.html" target="_blank">The cloud storage equivalent of finally quitting the gym</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-15 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/indieoftheweek-1280x720.jpg" alt="Balatro Meets Luck Be A Landlord In Chaotic Cooking Roguelike That Can’t Stop Winning New Fans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/balatro-meets-luck-be-a-landlord-in-chaotic-cooking-roguelike-that-cant-stop-winning-new-fans-2000668754" target="_blank">Balatro Meets Luck Be A Landlord In Chaotic Cooking Roguelike That Can’t Stop Winning New Fans</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-15 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,7 +293,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 253 |
-        🔄 Last Updated: 23:03 UTC
+        🔄 Last Updated: 00:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
