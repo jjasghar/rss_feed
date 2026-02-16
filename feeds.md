@@ -1,39 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-02-16 22:03:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-16 23:04:56 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, February 16, 2026 - 22:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, February 16, 2026 - 23:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/16/us-homeland-security-departments-funding-negotiations-stall?traffic_source=rss" target="_blank">US Homeland Security Department’s funding negotiations stall</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-16 22:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771276599239_now_mtp_clip_guthrie_260216_1920x1080-19lwc0.jpg" alt="Guthrie family &amp; spouses cleared as possible suspects, says Pima County sheriff" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/guthrie-family-spouses-cleared-as-possible-suspects-says-pima-county-sheriff-257759813922" target="_blank">Guthrie family &amp; spouses cleared as possible suspects, says Pima County sheriff</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-16 21:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Nancy-guthrie-new-photo-ap-bh-260215_1771180604616_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: Guthrie family cleared as possible suspects, sheriff says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,24 +91,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/16/bangladeshs-interim-leader-yunus-steps-down-as-new-govt-set-to-take-over?traffic_source=rss" target="_blank">Bangladesh’s interim leader Yunus steps down as new gov’t set to take over</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-16 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/2/16/driven-by-money-pushed-by-passion-migrant-tea-pickers-of-kerala-india?traffic_source=rss" target="_blank">Driven by money, pushed by passion: Migrant tea pickers of Kerala, India</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-16 17:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/16/iran-launches-naval-drills-ahead-of-us-nuclear-talks?traffic_source=rss" target="_blank">Iran launches naval drills ahead of US nuclear talks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-16 16:33</span>
             </div>
         </div>
 </div>
@@ -170,6 +160,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arxiv.org/abs/2602.12670" target="_blank">Study: Self-generated Agent Skills are useless</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-16 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/DRM-Panic-Nicer-Fedora-Idea" target="_blank">Idea Raised For Nicer DRM Panic Screen Integration On Fedora Linux</a></span>
                 <span class="feed">Phoronix</span>
@@ -210,15 +209,6 @@
                 <span class="title"><a href="https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/" target="_blank">14-year-old Miles Wu folded origami pattern that holds 10k times its own weight</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-02-16 18:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/karthick_m22/polimorphism-2k3p" target="_blank">Polimorphism</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-16 18:01</span>
             </div>
         </div>
 </div>
@@ -349,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 244 |
-        🔄 Last Updated: 22:03 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 243 |
+        🔄 Last Updated: 23:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
