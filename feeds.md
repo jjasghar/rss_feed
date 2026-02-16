@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-16 16:10:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-16 17:12:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, February 16, 2026 - 16:10 UTC</div>
+    <div class="newspaper-date">Monday, February 16, 2026 - 17:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/16/iran-launches-naval-drills-ahead-of-us-nuclear-talks?traffic_source=rss" target="_blank">Iran launches naval drills ahead of US nuclear talks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-16 16:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1285/live/2e5c0320-0b4f-11f1-b472-df9c1c12cffb.jpg" alt="Government abandons plans to delay 30 council elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,6 +84,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/Nancy-guthrie-new-photo-ap-bh-260215_1771180604616_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: Savannah Guthrie sends message to abductor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: Savannah Guthrie sends message to abductor</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-16 14:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -80,29 +101,29 @@
                 <span class="time">2026-02-16 13:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/16/g-s1-110271/up-first-newsletter-partial-shutdown-homeland-security-russia-ukraine-winter-olympics" target="_blank">DHS shuts down after a funding lapse. And, why athletes get the &#x27;yips&#x27; at the Olympics</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-16 12:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771243794317_tdy_news_7a_sg_nancy_guthrie_260216_1920x1080-hw91s2.jpg" alt="Savannah Guthrie Addresses Mother&#x27;s Captor: &#x27;It&#x27;s Never Too Late&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/savannah-guthrie-addresses-mother-s-captor-it-s-never-too-late-257737285877" target="_blank">Savannah Guthrie Addresses Mother&#x27;s Captor: &#x27;It&#x27;s Never Too Late&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-16 12:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026" target="_blank">Here 50 Presidents Day deals actually worth shopping for</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-16 16:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1466169248-500x500.jpg" alt="Michigan antitrust lawsuit says oil companies hobbled EVs and renewables" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/michigan-accuses-oil-companies-of-antitrust-violations-in-climate-change-lawsuit/" target="_blank">Michigan antitrust lawsuit says oil companies hobbled EVs and renewables</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-16 14:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +160,29 @@
                 <span class="time">2026-02-16 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6990e3e8876b755ff3162f1f/master/pass/Don%E2%80%99t%20Buy%20One%20of%20These%20Junky%20Laptops%20That%20Amazon%20Is%20Pushing.png" alt="Amazon Props Up Misleading, Junky Laptops No One Should Buy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/bad-amazon-laptops/" target="_blank">Amazon Props Up Misleading, Junky Laptops No One Should Buy</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-02-16 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/879652/samsung-galaxy-s26-privacy-display-ad-flex-magic-pixel" target="_blank">Samsung ad confirms rumors of a useful S26 ‘privacy display’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-16 11:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcvg3wqv7klof47uhw1bs.jpg" alt="Using Qlik Regex to Organise Messy Comment Fields" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hiadam/using-qlik-regex-to-organise-messy-comment-fields-221e" target="_blank">Using Qlik Regex to Organise Messy Comment Fields</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-16 17:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19.2-Released" target="_blank">Linux 6.19.2 &amp; Other LTS Kernels Released To Fix Systems Not Booting</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-16 16:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -169,6 +190,15 @@
                 <span class="title"><a href="https://dev.to/prateekdalal/building-failure-intelligence-for-ai-agents-170d" target="_blank">Building Failure Intelligence for AI Agents</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-16 16:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/distributed-micro-frontends/en/mediumimage/luca-mezzalira-medium-1769525111295.jpeg" alt="Presentation: The Ideal Micro-Frontends Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/distributed-micro-frontends/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: The Ideal Micro-Frontends Platform</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-16 15:45</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +217,6 @@
                 <span class="title"><a href="https://dzone.com/articles/self-correcting-graphrag-enterprise-observability" target="_blank">Building a Self-Correcting GraphRAG Pipeline for Enterprise Observability</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-16 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/remnux-v8-release/" target="_blank">Reverse Engineering Linux Distro REMnux Marks 15 Years With Major v8 Release Featuring AI Agent Support</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-16 14:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sip_mjb/why-enterprise-automation-fails-at-scale-and-its-not-a-technology-problem-21ip" target="_blank">Why Enterprise Automation Fails at Scale (And It’s Not a Technology Problem)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-16 14:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18878171&w=600" alt="Automating the DFIR Triage Loop With Memory Forensics and LLMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/automating-dfir-triage-memory-forensics-llms" target="_blank">Automating the DFIR Triage Loop With Memory Forensics and LLMs</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-16 14:00</span>
             </div>
         </div>
 </div>
@@ -295,6 +298,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1771211150-20260216.png" alt="Saturday Morning Breakfast Cereal - Quest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/quest-4" target="_blank">Saturday Morning Breakfast Cereal - Quest</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-02-16 16:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -312,22 +324,13 @@
                 <span class="time">2026-02-16 01:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1771016552-20260215.png" alt="Saturday Morning Breakfast Cereal - Warrantless" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/warrantless" target="_blank">Saturday Morning Breakfast Cereal - Warrantless</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-02-15 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 245 |
-        🔄 Last Updated: 16:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 246 |
+        🔄 Last Updated: 17:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
