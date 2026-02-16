@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-16 20:03:31 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-16 21:04:29 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, February 16, 2026 - 20:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, February 16, 2026 - 21:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Nancy-guthrie-new-photo-ap-bh-260215_1771180604616_hpMain_4x3t_384.jpg" alt="Nancy Guthrie live updates: Guthrie family cleared as possible suspects, sheriff says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/nancy-guthrie-investigation-live-updates-person-detained-released/?id=130050835" target="_blank">Nancy Guthrie live updates: Guthrie family cleared as possible suspects, sheriff says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-16 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/16/robert-duvall-oscar-winning-actor-and-star-of-the-godfather-dies-aged-95?traffic_source=rss" target="_blank">Robert Duvall, Oscar-winning actor and star of The Godfather, dies aged 95</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-16 20:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd4c/live/59d67970-0b60-11f1-b5e2-dd58fc65f0f6.png" alt="US build-up of warships and fighter jets tracked near Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1d64p3q2d0o?at_medium=RSS&at_campaign=rss" target="_blank">US build-up of warships and fighter jets tracked near Iran</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-16 18:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +99,20 @@
                 <span class="time">2026-02-16 16:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1285/live/2e5c0320-0b4f-11f1-b472-df9c1c12cffb.jpg" alt="Government abandons plans to delay 30 council elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c70ne31d884o?at_medium=RSS&at_campaign=rss" target="_blank">Government abandons plans to delay 30 council elections</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-16 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260213-Maxim-Naumov-ch-0930-846083.jpg" alt="Maxim Naumov says skating community has Ilia Malinin&#x27;s back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/sports/olympics/maxim-naumov-says-skating-community-ilia-malinins-back-rcna259231" target="_blank">Maxim Naumov says skating community has Ilia Malinin&#x27;s back</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-16 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/16/un-staffers-back-francesca-albanese-condemn-european-ministers-for-attacks?traffic_source=rss" target="_blank">UN staffers back Francesca Albanese, condemn European ministers for attacks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-16 14:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/Apple-March-4-500x500.jpg" alt="Get ready for new Macs and iPads: Apple announces &quot;Special Experience&quot; on March 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/apple/2026/02/get-ready-for-new-macs-and-ipads-apple-announces-special-experience-on-march-4/" target="_blank">Get ready for new Macs and iPads: Apple announces &quot;Special Experience&quot; on March 4</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-16 20:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +158,29 @@
                 <span class="time">2026-02-16 16:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1466169248-500x500.jpg" alt="Michigan antitrust lawsuit says oil companies hobbled EVs and renewables" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/02/michigan-accuses-oil-companies-of-antitrust-violations-in-climate-change-lawsuit/" target="_blank">Michigan antitrust lawsuit says oil companies hobbled EVs and renewables</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-16 14:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/DRM-Panic-Nicer-Fedora-Idea" target="_blank">Idea Raised For Nicer DRM Panic Screen Integration On Fedora Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-16 20:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18864626&w=600" alt="My Learning About Password Hashing After Moving Beyond Bcrypt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/password-hashing-after-moving-beyond-bcrypt" target="_blank">My Learning About Password Hashing After Moving Beyond Bcrypt</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-16 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +215,6 @@
                 <span class="title"><a href="https://dzone.com/articles/breaking-the-vendor-lock-in-network-automation-a-p" target="_blank">Breaking the Vendor Lock in Network Automation: A Pure Python Architecture</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-02-16 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Driver-Core" target="_blank">Linux 7.0 Driver Core Changes Bring More Enhancements For Rust Kernel Drivers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-16 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcvg3wqv7klof47uhw1bs.jpg" alt="Using Qlik Regex to Organise Messy Comment Fields" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hiadam/using-qlik-regex-to-organise-messy-comment-fields-221e" target="_blank">Using Qlik Regex to Organise Messy Comment Fields</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-16 17:06</span>
             </div>
         </div>
 </div>
@@ -295,6 +296,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/02/16/scarathon" target="_blank">Scarathon</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-02-16 20:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1771211150-20260216.png" alt="Saturday Morning Breakfast Cereal - Quest" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -326,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 243 |
-        🔄 Last Updated: 20:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 244 |
+        🔄 Last Updated: 21:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
