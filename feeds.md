@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-16 09:14:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-16 10:15:21 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, February 16, 2026 - 09:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, February 16, 2026 - 10:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/2/16/photos-north-koreas-kim-unveils-homes-for-families-of-fallen-soldiers?traffic_source=rss" target="_blank">North Korea’s Kim unveils homes for families of fallen soldiers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-16 10:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/16/nx-s1-5713495/american-struggle-author-assesses-trumps-expansion-of-presidential-power" target="_blank">&#x27;American Struggle&#x27; author assesses Trump&#x27;s expansion of presidential power</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-16 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +102,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvg36pknpl5o?at_medium=RSS&at_campaign=rss" target="_blank">Police framed man for murder, new evidence suggests</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-02-16 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cd8/live/d17cfc80-0b04-11f1-b7e1-afb6d0884c18.jpg" alt="&#x27;It&#x27;s never too late&#x27;: Savannah Guthrie&#x27;s new plea for mother&#x27;s release as FBI analyses glove" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yrv2g16e2o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;It&#x27;s never too late&#x27;: Savannah Guthrie&#x27;s new plea for mother&#x27;s release as FBI analyses glove</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-16 04:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/094a/live/520e98d0-0ab6-11f1-afbc-01c60fb356b3.jpg" alt="Starmer pledges crackdown on &#x27;addictive elements&#x27; of social media" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg38x13x5yo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer pledges crackdown on &#x27;addictive elements&#x27; of social media</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-16 04:52</span>
             </div>
         </div>
 </div>
@@ -167,6 +169,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj7hlfz848ut2d9ly8i8q.png" alt="Business Advantages of Using Nuxt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jacobandrewsky/business-advantages-of-using-nuxt-51j2" target="_blank">Business Advantages of Using Nuxt</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-16 10:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/architecting-agentic-mlops-a2a-mcp/en/headerimage/architecting-agentic-mlops-a2a-mcp-header-1770303550343.jpg" alt="Article: Architecting Agentic MLOps: A Layered Protocol Strategy with A2A and MCP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/architecting-agentic-mlops-a2a-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Architecting Agentic MLOps: A Layered Protocol Strategy with A2A and MCP</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-16 09:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/aravind_d/gitterracli-46o5" target="_blank">Git_TerraCLI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-16 05:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ethiel97/lucidclip-building-a-production-grade-desktop-clipboard-manager-with-faster-iteration-using-4o3n" target="_blank">LucidClip — Building a production-grade desktop clipboard manager with faster iteration using GitHub Copilot CLI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-16 04:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/janealesi/die-ki-kann-mehr-als-sie-denken-warum-power-user-mehrfach-produktiver-sind-und-wie-sie-aufholen-3m3f" target="_blank">Die KI kann mehr als Sie denken: Warum Power User mehrfach produktiver sind — und wie Sie aufholen</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-16 03:20</span>
             </div>
         </div>
 </div>
@@ -316,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 245 |
-        🔄 Last Updated: 09:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 244 |
+        🔄 Last Updated: 10:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
