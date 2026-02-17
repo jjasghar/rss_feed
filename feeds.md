@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-02-17 03:48:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-17 04:33:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, February 17, 2026 - 03:48 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, February 17, 2026 - 04:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +107,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis" target="_blank">Valve’s Steam Deck OLED will be ‘intermittently’ out of stock because of the RAM crisis</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-17 02:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/Apple-March-4-500x500.jpg" alt="Get ready for new Macs and iPads: Apple announces &quot;Special Experience&quot; on March 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -149,20 +160,20 @@
                 <span class="time">2026-02-16 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026" target="_blank">Here are 50 Presidents Day deals actually worth shopping for</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-16 16:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/teminian/applying-ai-for-me-and-for-out-tech-support-in-network-analysis-5hhm" target="_blank">Selecting local AI models for me and my fellows in network analysis field</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-17 04:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/02/glassfish-8-released/en/headerimage/java-istock-image-01-1771252732288.jpg" alt="GlassFish 8.0 Delivers Compatibility with Jakarta EE 11, Enhanced Security and Improved Data Access" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +219,6 @@
                 <span class="time">2026-02-16 23:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-CXL" target="_blank">Linux 7.0 CXL Enables AMD Zen 5 Address Translation Feature</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-16 22:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/bannon.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Bannon said that Trump was &quot;beyond borderline&quot; and should be removed via the 25th Amendment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/02/16/bannon-said-that-trump-was-beyond-borderline-and-should-be-removed-via-the-25th-amendment.html" target="_blank">Bannon said that Trump was &quot;beyond borderline&quot; and should be removed via the 25th Amendment</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-02-16 22:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/evidence-of-a-subsurfa-1-1280x853.jpg" alt="Scientists Found a Massive Lava Tube Hiding Beneath the Surface of Venus" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +290,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/02/16/acemagics-nes.html" target="_blank">Acemagic&#x27;s NES clone is a powerful modern mini PC</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-02-16 15:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/mcdtcg.jpg" alt="McDonald’s Just Announced Its Own TCG, And Ronald McDonald Is The Chase" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mcdonalds-tcg-ronald-cards-grimace-cheeseburger-chair-2000669414" target="_blank">McDonald’s Just Announced Its Own TCG, And Ronald McDonald Is The Chase</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-16 14:49</span>
             </div>
         </div>
 </div>
@@ -336,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 239 |
-        🔄 Last Updated: 03:48 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 41 | 📸 With Images: 240 |
+        🔄 Last Updated: 04:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
