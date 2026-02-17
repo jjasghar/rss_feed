@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-02-17 12:06:57 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-02-17 13:26:05 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, February 17, 2026 - 12:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, February 17, 2026 - 13:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,10 +46,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/17/nx-s1-5702816/india-china-border-villages-development" target="_blank">India has long promised &#x27;vibrant&#x27; border villages, as China speedily builds up</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-17 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/2/17/imran-khan-must-be-given-immediate-medical-attention-cricket-legends-say?traffic_source=rss" target="_blank">Imran Khan must be given immediate medical attention, cricket legends say</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-17 11:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e94/live/946677d0-0bdc-11f1-b122-03fce6ae3e30.jpg" alt="UK unemployment hits highest rate for nearly five years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1l7pedyzjeo?at_medium=RSS&at_campaign=rss" target="_blank">UK unemployment hits highest rate for nearly five years</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-17 11:37</span>
             </div>
         </div>
 <div class="story">
@@ -84,29 +97,20 @@
                 <span class="time">2026-02-17 10:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/jesse_jackson-q36hnj.jpg" alt="Civil rights icon Rev. Jesse Jackson dies at 84" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/rev-jesse-jackson-dies-at-84-257781317847" target="_blank">Civil rights icon Rev. Jesse Jackson dies at 84</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-17 10:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/JesseJackson2021DB_1771321359128_hpMain_4x3t_384.jpg" alt="Rev. Jesse Jackson, civil rights icon, dies at age 84" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/rev-jesse-jackson-civil-rights-icon-dies-aged/story?id=130225140" target="_blank">Rev. Jesse Jackson, civil rights icon, dies at age 84</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-17 10:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/17/adani-pledges-100b-for-ai-data-centers-as-india-seeks-bigger-role-in-global-ai/" target="_blank">Adani pledges $100B to build AI data centers as India seeks bigger role in the global AI race</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-17 13:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/697cc8c5fec825eea30870e5/master/pass/GettyImages-2257424044.jpg" alt="AI Digital Twins Are Helping People Manage Diabetes and Obesity" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +156,20 @@
                 <span class="time">2026-02-17 02:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/Apple-March-4-500x500.jpg" alt="Get ready for new Macs and iPads: Apple announces &quot;Special Experience&quot; on March 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/apple/2026/02/get-ready-for-new-macs-and-ipads-apple-announces-special-experience-on-march-4/" target="_blank">Get ready for new Macs and iPads: Apple announces &quot;Special Experience&quot; on March 4</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-02-16 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Microsoft-dotNET-IO-uring" target="_blank">Microsoft .NET On Linux Patches Use IO_uring For Massive Performance Benefits</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-17 13:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhocw4w3crfqdbwndsul7.png" alt="CLAUDE.md Best Practices: Mermaid for Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +213,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/02/ai-agile-manifesto-debate/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Does AI Make the Agile Manifesto Obsolete?</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-02-17 10:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/weathr/" target="_blank">Give Your Weather Report an Animated ASCII Spin in Linux Terminal</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2026-02-17 10:26</span>
             </div>
         </div>
 </div>
@@ -321,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 239 |
-        🔄 Last Updated: 12:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 240 |
+        🔄 Last Updated: 13:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
