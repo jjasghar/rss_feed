@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-17 02:56:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-17 03:48:27 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 1 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, February 17, 2026 - 02:56 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, February 17, 2026 - 03:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Pawtucket-2-ap-er-260216_1771276718535_hpMain_4x3t_384.jpg" alt="2 killed, critically injured in &#x27;targeted&#x27; shooting at ice skating rink: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/shooting-reported-ice-skating-rink-rhode-island/story?id=130214920" target="_blank">2 killed, critically injured in &#x27;targeted&#x27; shooting at ice skating rink: Police</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-17 03:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cd/live/f5e78f30-0a79-11f1-b5e2-dd58fc65f0f6.jpg" alt="Bailiffs used to pursue NHS staff over pay errors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/2/16/us-homeland-security-departments-funding-negotiations-stall?traffic_source=rss" target="_blank">US Homeland Security Department’s funding negotiations stall</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-16 22:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771276599239_now_mtp_clip_guthrie_260216_1920x1080-19lwc0.jpg" alt="Guthrie family &amp; spouses cleared as possible suspects, says Pima County sheriff" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/guthrie-family-spouses-cleared-as-possible-suspects-says-pima-county-sheriff-257759813922" target="_blank">Guthrie family &amp; spouses cleared as possible suspects, says Pima County sheriff</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-16 21:16</span>
             </div>
         </div>
 </div>
@@ -337,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 239 |
-        🔄 Last Updated: 02:56 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 239 |
+        🔄 Last Updated: 03:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
