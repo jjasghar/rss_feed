@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-02-17 08:09:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-17 09:13:36 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, February 17, 2026 - 08:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, February 17, 2026 - 09:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/17/bangladesh-pm-to-be-and-lawmakers-sworn-into-parliament?traffic_source=rss" target="_blank">Bangladesh PM-to-be and lawmakers sworn into parliament</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-17 08:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/184b/live/2519e010-0bcd-11f1-b7e1-afb6d0884c18.jpg" alt="Hillary Clinton accuses Trump administration of Epstein files &#x27;cover-up&#x27; in BBC interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/2/17/trump-ups-pressure-on-kyiv-as-russia-ukraine-hold-peace-talks-in-geneva?traffic_source=rss" target="_blank">Trump ups pressure on Kyiv as Russia, Ukraine hold peace talks in Geneva</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-02-17 05:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/2/17/us-iran-talks-set-to-begin-at-omans-embassy-in-switzerland?traffic_source=rss" target="_blank">US-Iran talks live: Second round to begin at Oman’s embassy in Geneva</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-17 05:13</span>
             </div>
         </div>
 </div>
@@ -165,6 +169,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mystrix/building-interactive-stories-with-nextjs-and-ai-5fnf" target="_blank">Building Interactive Stories with Next.js and AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-17 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/proactive-autoscaling-edge-kubernetes/en/headerimage/proactive-autoscaling-edge-kubernetes-header-1770721062673.jpg" alt="Article: Proactive Autoscaling for Edge Applications in Kubernetes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/proactive-autoscaling-edge-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Proactive Autoscaling for Edge Applications in Kubernetes</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-17 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2026/02/17/data-is-the-new-oil/" target="_blank">Data is the new oil, and your database is the only way to extract it</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -196,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/teminian/applying-ai-for-me-and-for-out-tech-support-in-network-analysis-5hhm" target="_blank">Selecting local AI models for me and my fellows in network analysis field</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-17 04:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/glassfish-8-released/en/headerimage/java-istock-image-01-1771252732288.jpg" alt="GlassFish 8.0 Delivers Compatibility with Jakarta EE 11, Enhanced Security and Improved Data Access" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/glassfish-8-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GlassFish 8.0 Delivers Compatibility with Jakarta EE 11, Enhanced Security and Improved Data Access</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-17 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wellallytech/privacy-first-chat-with-your-medical-reports-locally-using-llama-3-and-mlx-on-mac-3616" target="_blank">Privacy First: Chat with Your Medical Reports Locally using Llama-3 and MLX on Mac 🍎</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-17 01:20</span>
             </div>
         </div>
 </div>
@@ -317,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 239 |
-        🔄 Last Updated: 08:10 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 239 |
+        🔄 Last Updated: 09:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
