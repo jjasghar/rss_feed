@@ -1,38 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-02-17 09:13:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-17 10:13:53 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, February 17, 2026 - 09:13 UTC</div>
+    <div class="newspaper-date">Tuesday, February 17, 2026 - 10:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,57 +54,57 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
-            
+            <img src="https://s.abcnews.com/images/Politics/JesseJackson2021DB_1771321359128_hpMain_4x3t_384.jpg" alt="Rev. Jesse Jackson, civil rights icon, dies at age 84" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/17/bangladesh-pm-to-be-and-lawmakers-sworn-into-parliament?traffic_source=rss" target="_blank">Bangladesh PM-to-be and lawmakers sworn into parliament</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-17 08:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/184b/live/2519e010-0bcd-11f1-b7e1-afb6d0884c18.jpg" alt="Hillary Clinton accuses Trump administration of Epstein files &#x27;cover-up&#x27; in BBC interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czx47k34yqxo?at_medium=RSS&at_campaign=rss" target="_blank">Hillary Clinton accuses Trump administration of Epstein files &#x27;cover-up&#x27; in BBC interview</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-17 07:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/17/imran-khans-sister-rejects-pakistan-govt-claim-jailed-ex-pms-vision-fine?traffic_source=rss" target="_blank">Imran Khan’s sister rejects Pakistan gov’t claim jailed ex-PM’s vision fine</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-17 07:36</span>
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/rev-jesse-jackson-civil-rights-icon-dies-aged/story?id=130225140" target="_blank">Rev. Jesse Jackson, civil rights icon, dies at age 84</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-17 10:11</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/17/nx-s1-5716762/australia-wont-repatriate-34-women-and-children-from-syria" target="_blank">Australia won&#x27;t repatriate 34 women and children from Syria</a></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/17/nx-s1-5698320/fema-reform-trump-hurricane-earthquake" target="_blank">3 big changes are proposed for FEMA. This is what experts really think of them</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-17 07:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef5f/live/b8270b10-0ba2-11f1-9972-d3f265c101c6.jpg" alt="Councils face &#x27;uphill struggle&#x27; to be ready for local elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c043z5rzwg7o?at_medium=RSS&at_campaign=rss" target="_blank">Councils face &#x27;uphill struggle&#x27; to be ready for local elections</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-17 07:00</span>
+                <span class="time">2026-02-17 10:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/17/trump-ups-pressure-on-kyiv-as-russia-ukraine-hold-peace-talks-in-geneva?traffic_source=rss" target="_blank">Trump ups pressure on Kyiv as Russia, Ukraine hold peace talks in Geneva</a></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/17/us-civil-rights-leader-jesse-jackson-dies-aged-84?traffic_source=rss" target="_blank">US civil rights leader Jesse Jackson dies aged 84</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-17 05:35</span>
+                <span class="time">2026-02-17 09:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ad3/live/30c5f7a0-0be6-11f1-8d90-772c0d7aea09.jpg" alt="Councils face &#x27;uphill struggle&#x27; after elections delay U-turn" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c043z5rzwg7o?at_medium=RSS&at_campaign=rss" target="_blank">Councils face &#x27;uphill struggle&#x27; after elections delay U-turn</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-17 09:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250725-jesse-jackson-obit-main-jg-eab35e.jpg" alt="Rev. Jesse Jackson, civil rights icon and two-time presidential candidate, dies at 84" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/obituaries/rev-jesse-jackson-civil-rights-activist-dies-rcna42408" target="_blank">Rev. Jesse Jackson, civil rights icon and two-time presidential candidate, dies at 84</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-17 09:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/17/bangladesh-pm-to-be-and-lawmakers-sworn-into-parliament?traffic_source=rss" target="_blank">Bangladesh PM-to-be and lawmakers sworn into parliament</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-17 08:45</span>
             </div>
         </div>
 </div>
@@ -167,6 +172,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftheu15dqkh9drd76n28i.png" alt="10 top Claude Code plugins to use in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/composiodev/10-top-claude-code-plugins-to-use-in-2026-4gn6" target="_blank">10 top Claude Code plugins to use in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-02-17 10:06</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +225,6 @@
                 <span class="time">2026-02-17 05:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/teminian/applying-ai-for-me-and-for-out-tech-support-in-network-analysis-5hhm" target="_blank">Selecting local AI models for me and my fellows in network analysis field</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-17 04:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/western-digital-hdd-1-1280x853.jpg" alt="Because of AI, Western Digital Hard Drives Are Sold Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/because-of-ai-western-digital-hard-drives-are-sold-out-2000722591" target="_blank">Because of AI, Western Digital Hard Drives Are Sold Out</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-17 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/bannon.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Bannon said that Trump was &quot;beyond borderline&quot; and should be removed via the 25th Amendment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +298,6 @@
                 <span class="time">2026-02-16 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/ACEMAGIC_Retro_X5_4320e705-ef49-4822-81ee-8d367d481008.webp?fit=1263%2C646&amp;quality=55&amp;ssl=1" alt="Acemagic&#x27;s NES clone is a powerful modern mini PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/16/acemagics-nes.html" target="_blank">Acemagic&#x27;s NES clone is a powerful modern mini PC</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-16 15:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 239 |
-        🔄 Last Updated: 09:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 240 |
+        🔄 Last Updated: 10:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
