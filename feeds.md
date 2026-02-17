@@ -1,43 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-02-17 10:13:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-17 11:13:26 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 34 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, February 17, 2026 - 10:14 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, February 17, 2026 - 11:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/02/17/963124454/jesse-jackson-civil-rights-leader-rainbow-coalition-dies" target="_blank">Longtime civil rights leader Rev. Jesse Jackson dies at 84</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-02-17 10:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/JesseJackson2021DB_1771321359128_hpMain_4x3t_384.jpg" alt="Rev. Jesse Jackson, civil rights icon, dies at age 84" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -98,20 +104,38 @@
                 <span class="time">2026-02-17 09:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/2/17/bangladesh-pm-to-be-and-lawmakers-sworn-into-parliament?traffic_source=rss" target="_blank">Bangladesh PM-to-be and lawmakers sworn into parliament</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-17 08:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/697cc8c5fec825eea30870e5/master/pass/GettyImages-2257424044.jpg" alt="AI Digital Twins Are Helping People Manage Diabetes and Obesity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ai-digital-twins-are-helping-people-manage-diabetes-and-obesity/" target="_blank">AI Digital Twins Are Helping People Manage Diabetes and Obesity</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-17 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/879864/samsung-ai-generated-edited-video-ads-slop" target="_blank">Samsung is slopping AI ads all over its social channels</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-17 10:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/17/cohere-launches-a-family-of-open-multilingual-models/" target="_blank">Cohere launches a family of open multilingual models</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-17 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69932d52d52a54addf004671/master/pass/GettyImages-2159154233.jpg" alt="The Small English Town Swept Up in the Global AI Arms Race" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,38 +163,38 @@
                 <span class="time">2026-02-16 20:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted" target="_blank">Apple starts testing end-to-end encrypted RCS messages on iPhone</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-16 20:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/879749/apple-podcasts-video-swap-hls-live-streaming" target="_blank">Apple’s Podcasts app will let you ‘seamlessly’ switch between audio and video shows</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-16 19:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/" target="_blank">Have money, will travel: a16z’s hunt for the next European unicorn</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-16 18:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/DNF-5.4-Released" target="_blank">DNF 5.4 Released With Some New Options &amp; AI Contributions Policy</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-17 11:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/02/ai-agile-manifesto-debate/en/headerimage/generatedHeaderImage-1770724261142.jpg" alt="Does AI Make the Agile Manifesto Obsolete?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/ai-agile-manifesto-debate/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Does AI Make the Agile Manifesto Obsolete?</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-17 10:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/weathr/" target="_blank">Give Your Weather Report an Animated ASCII Spin in Linux Terminal</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2026-02-17 10:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftheu15dqkh9drd76n28i.png" alt="10 top Claude Code plugins to use in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,33 +220,6 @@
                 <span class="title"><a href="https://www.infoq.com/articles/proactive-autoscaling-edge-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Proactive Autoscaling for Edge Applications in Kubernetes</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-02-17 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/02/17/data-is-the-new-oil/" target="_blank">Data is the new oil, and your database is the only way to extract it</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-02-17 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzq01czvq1w8dxirdav3g.gif" alt="🚀 Stop Writing Separate Skeleton Components in React" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shanukj/stop-writing-separate-skeleton-components-in-react-52b0" target="_blank">🚀 Stop Writing Separate Skeleton Components in React</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-17 06:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgvctirj8c00th0gup8ge.png" alt="🟢 Part 2: Android HCE Implementation — Build a Complete Type 4 NFC Tag with HostApduService" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sky1309/part-2-android-hce-implementation-build-a-complete-type-4-nfc-tag-with-hostapduservice-1ka7" target="_blank">🟢 Part 2: Android HCE Implementation — Build a Complete Type 4 NFC Tag with HostApduService</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-17 05:06</span>
             </div>
         </div>
 </div>
@@ -326,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 240 |
-        🔄 Last Updated: 10:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 237 |
+        🔄 Last Updated: 11:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
