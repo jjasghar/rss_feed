@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-02-17 20:07:38 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-02-17 21:08:14 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 21 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, February 17, 2026 - 20:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, February 17, 2026 - 21:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/17/yemeni-americans-feel-betrayed-as-trump-revokes-immigration-protections?traffic_source=rss" target="_blank">Yemeni Americans feel ‘betrayed’ as Trump revokes immigration protections</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-17 20:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/jesse-jackson-1-gty-jef-260217_1771344260366_hpMain_4x3t_384.jpg" alt="&#x27;I am somebody&#x27;: Tributes pour in for Rev. Jesse Jackson after his death" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/civil-rights-leaders-politicians-honor-rev-jesse-jacksons/story?id=130225754" target="_blank">&#x27;I am somebody&#x27;: Tributes pour in for Rev. Jesse Jackson after his death</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-17 20:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,29 +99,29 @@
                 <span class="time">2026-02-17 18:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/17/g-s1-110410/homeland-security-department-mclaughlin-departure" target="_blank">Top Trump administration immigration spokesperson is leaving</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-17 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/17/nx-s1-5717011/a-photojournalist-details-her-rebellion-against-the-syrian-regime-and-her-father" target="_blank">A photojournalist details her rebellion against the Syrian regime -- and her father</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-17 16:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/02/17/metas-own-research-found-parental-supervision-doesnt-really-help-curb-teens-compulsive-social-media-use/" target="_blank">Meta’s own research found parental supervision doesn’t really help curb teens’ compulsive social media use</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-02-17 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/07/password-login-500x500.jpeg" alt="Password managers&#x27; promise that they can&#x27;t see your vaults isn&#x27;t always true" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/" target="_blank">Password managers&#x27; promise that they can&#x27;t see your vaults isn&#x27;t always true</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-17 20:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69948c792ce5fe77685929d6/master/pass/021726_Olympics-Curling-Canada.jpg" alt="The Curling Controversy at the Winter Olympics Isn&#x27;t What You Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,29 +158,20 @@
                 <span class="time">2026-02-17 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/17/spacex-vets-raise-50m-series-a-for-data-center-links/" target="_blank">SpaceX vets raise $50M Series A for data center links</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-17 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/17/wordpress-com-adds-an-ai-assistant-that-can-edit-adjust-styles-create-images-and-more/" target="_blank">WordPress.com adds an AI Assistant that can edit, adjust styles, create images, and more</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-17 16:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18900389&w=600" alt="Diffs Are Dead. Why You Need Scalable Previews." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/diffs-are-dead-why-you-need-scalable-previews" target="_blank">Diffs Are Dead. Why You Need Scalable Previews.</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-02-17 20:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -165,6 +179,15 @@
                 <span class="title"><a href="https://dev.to/ansonchan/building-a-privacy-first-file-converter-that-runs-100-in-your-browser-5g8a" target="_blank">Building a Privacy-First File Converter That Runs 100% in Your Browser</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-02-17 19:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://asteroidos.org/news/2-0-release/index.html" target="_blank">Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-17 19:24</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +217,6 @@
                 <span class="time">2026-02-17 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/maintainers/securing-the-ai-software-supply-chain-security-results-across-67-open-source-projects/" target="_blank">Securing the AI software supply chain: Security results across 67 open source projects</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-02-17 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/news/claude-sonnet-4-6" target="_blank">Claude Sonnet 4.6</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-17 17:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2HBGM85J04S76AK1A4TCHA/hero-image.png" alt="When to Choose Resistance Bands vs. Dumbbells" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/how-to-decide-between-resistance-bands-and-dumbbells?utm_medium=RSS" target="_blank">When to Choose Resistance Bands vs. Dumbbells</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-17 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/09/4aaa7636e55a0b96b2c5b2d06e2fba00-1024x576.jpg" alt="Ethereum Creator Starting to Think This Whole Prediction Market Thing Might be Gambling" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +290,6 @@
                 <span class="time">2026-02-17 18:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/hegseth-e1765308801228.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Pentagon threatens Anthropic as Trump allies embrace Musk&#x27;s problematic Grok" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/02/17/pentagon-threatens-anthropic-as-trump-allies-embrace-musks-problematic-grok.html" target="_blank">Pentagon threatens Anthropic as Trump allies embrace Musk&#x27;s problematic Grok</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-02-17 18:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 247 |
-        🔄 Last Updated: 20:07 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 247 |
+        🔄 Last Updated: 21:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
