@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-17 21:08:14 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-02-17 22:04:27 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, February 17, 2026 - 21:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, February 17, 2026 - 22:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -123,6 +124,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6994c1f1c7a79dde7cf0617c/master/pass/Our%20Favorite%20Wireless%20Headset%20for%20Traveling%20Is%20$50%20Off.png" alt="The Best Noise-Canceling Headphones for Traveling Are $50 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/bose-quietcomfort-ultra-2-deal-226/" target="_blank">The Best Noise-Canceling Headphones for Traveling Are $50 Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-17 20:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69948c792ce5fe77685929d6/master/pass/021726_Olympics-Curling-Canada.jpg" alt="The Curling Controversy at the Winter Olympics Isn&#x27;t What You Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -149,20 +159,20 @@
                 <span class="time">2026-02-17 18:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/877893/lens-lizard-backup-camera-cleaner-aftermarket-wiper-fluid-kickstarter" target="_blank">This backup camera cleaner hides behind your license plate</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-17 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-RMPOPT-Linux" target="_blank">AMD Preparing Linux Kernel For &quot;RMPOPT&quot; To Help Reduce Overhead On SEV-SNP Servers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-02-17 21:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18900389&w=600" alt="Diffs Are Dead. Why You Need Scalable Previews." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +218,6 @@
                 <span class="time">2026-02-17 19:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18882754&w=600" alt="Beyond Ingestion: Teaching Your NiFi Flows to Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/beyond-ingestion-teaching-nifi-flows-to-think" target="_blank">Beyond Ingestion: Teaching Your NiFi Flows to Think</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-02-17 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Meta-Ray-Ban-Display-review-18-1280x853.jpg" alt="Meta’s Holy Grail AR Smart Glasses Have One Big Puck-Shaped Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/heres-what-the-puck-on-metas-xr-glasses-will-probably-look-like-2000719635" target="_blank">Meta’s Holy Grail AR Smart Glasses Have One Big Puck-Shaped Problem</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-17 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KHPAYVF4J3DZ0GBWXFDNFH3N/hero-image.png" alt="Update Chrome ASAP to Patch This High-Severity Security Flaw" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/update-chrome-asap-to-patch-the-latest-zero-day?utm_medium=RSS" target="_blank">Update Chrome ASAP to Patch This High-Severity Security Flaw</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-17 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/potential-header-1280x744.jpg" alt="The Source Of Highguard‘s Mysterious Funding Was Reportedly Chinese Tech Giant Tencent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/highguard-wildlight-tencent-funding-layoffs-servers-2000669790" target="_blank">The Source Of Highguard‘s Mysterious Funding Was Reportedly Chinese Tech Giant Tencent</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-17 20:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HF2HBGM85J04S76AK1A4TCHA/hero-image.png" alt="When to Choose Resistance Bands vs. Dumbbells" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,33 +291,6 @@
                 <span class="time">2026-02-17 19:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHP9HPT1SBED2GBBCFE2YX3M/hero-image.png" alt="These Workout-Ready Beats Earbuds Are On Sale for $135 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/beats-earbuds-sale-february-2026?utm_medium=RSS" target="_blank">These Workout-Ready Beats Earbuds Are On Sale for $135 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-02-17 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/clickout.jpg" alt="Report: Escapist And Other Gaming Sites Slash Staff As Gambling Firm ‘Pivots To AI’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-escapist-esports-insider-clickout-media-layoffs-2000669743" target="_blank">Report: Escapist And Other Gaming Sites Slash Staff As Gambling Firm ‘Pivots To AI’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-17 18:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/image-23-1280x720.jpg" alt="Indie Game Engine Manager Says Getting Bombarded With AI Slop Is ‘Increasingly Draining And Demoralizing’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/godot-ai-github-code-indie-unity-2000669746" target="_blank">Indie Game Engine Manager Says Getting Bombarded With AI Slop Is ‘Increasingly Draining And Demoralizing’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-17 18:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 247 |
-        🔄 Last Updated: 21:08 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 250 |
+        🔄 Last Updated: 22:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
