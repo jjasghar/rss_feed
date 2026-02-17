@@ -1,36 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-02-17 22:04:27 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-02-17 23:04:43 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, February 17, 2026 - 22:04 UTC</div>
+    <div class="newspaper-date">Tuesday, February 17, 2026 - 23:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +54,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/17/tributes-pour-in-after-us-civil-rights-icon-jesse-jackson-dies-at-84?traffic_source=rss" target="_blank">Tributes pour in after US civil rights icon Jesse Jackson dies at 84</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-17 22:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-real-madrid-vinicius-junior_7167736.jpg?20260217222028" alt="Real Madrid game against Benfica halted over alleged racial slur" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/real-madrid-game-against-benfica-halted-over-alleged-racial-slur-13508809" target="_blank">Real Madrid game against Benfica halted over alleged racial slur</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-02-17 22:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56ca/live/32f8af20-0c33-11f1-aea9-35917f4e91eb.jpg" alt="Police assessing Stansted Airport private flights over Epstein ties" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c98q4mz831mo?at_medium=RSS&at_campaign=rss" target="_blank">Police assessing Stansted Airport private flights over Epstein ties</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-17 20:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +108,29 @@
                 <span class="time">2026-02-17 19:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/17/us-judge-says-wrongfully-deported-kilmar-abrego-garcia-cant-be-re-detained?traffic_source=rss" target="_blank">US judge says wrongfully deported Kilmar Abrego Garcia can’t be re-detained</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-17 19:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/17/us-kills-11-people-in-three-strikes-on-alleged-drug-trafficking-vessels?traffic_source=rss" target="_blank">US kills 11 people in three strikes on alleged drug-trafficking vessels</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-02-17 18:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/17/nx-s1-5716046/u-s-releases-new-details-on-alleged-secret-chinese-nuclear-test" target="_blank">U.S. releases new details on alleged secret Chinese nuclear test</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-17 18:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals" target="_blank">The best deals on MacBooks right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-02-17 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/gamehub-500x500-1771366644.png" alt="GameHub will give Mac owners another imperfect way to play Windows games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/02/gamehub-will-give-mac-owners-another-imperfect-way-to-play-windows-games/" target="_blank">GameHub will give Mac owners another imperfect way to play Windows games</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-02-17 22:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +165,6 @@
                 <span class="title"><a href="https://www.wired.com/story/2026-winter-olympics-curling-controversy-canada-sweden/" target="_blank">The Curling Controversy at the Winter Olympics Isn&#x27;t What You Think</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-02-17 19:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/17/climactic-launches-hybrid-fund-to-get-startups-through-the-valley-of-death/" target="_blank">Climactic launches hybrid fund to get startups through the ‘valley of death’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-17 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026" target="_blank">Here are the best Presidents Day deals you can still grab</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-02-17 18:10</span>
             </div>
         </div>
 </div>
@@ -203,19 +211,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/a-year-of-documentation-driven-development" target="_blank">A year of documentation-driven development</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-02-17 19:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Faster-Close-Range" target="_blank">Linux 7.0 Merges &quot;Significant Improvement&quot; For close_range System Call</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-17 19:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmulzk4ss97amaz7gutnl.png" alt="How I Built an &quot;Agentic&quot; AWS Cost Optimizer (That Doesn&#x27;t Break Production)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cloudwiseteam/how-i-built-an-agentic-aws-cost-optimizer-that-doesnt-break-production-d77" target="_blank">How I Built an &quot;Agentic&quot; AWS Cost Optimizer (That Doesn&#x27;t Break Production)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-02-17 19:12</span>
             </div>
         </div>
 </div>
@@ -237,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/siwtch2-1280x720.jpg" alt="Skyrim On Switch 2 Less Of A Mess After New Update Adds 60FPS Option And Fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/skyrim-switch-2-60fps-update-2000669806" target="_blank">Skyrim On Switch 2 Less Of A Mess After New Update Adds 60FPS Option And Fixes</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-17 22:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KHPM03ZJFRAKBM337N5306KQ/hero-image.jpg" alt="Here Are the New Features Coming in iOS 26.4" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/here-are-the-new-features-coming-in-ios-264?utm_medium=RSS" target="_blank">Here Are the New Features Coming in iOS 26.4</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-02-17 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Meta-Ray-Ban-Display-review-18-1280x853.jpg" alt="Meta’s Holy Grail AR Smart Glasses Have One Big Puck-Shaped Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +299,6 @@
                 <span class="time">2026-02-17 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/09/4aaa7636e55a0b96b2c5b2d06e2fba00-1024x576.jpg" alt="Ethereum Creator Starting to Think This Whole Prediction Market Thing Might be Gambling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ethereum-creator-starting-to-think-this-whole-prediction-market-thing-might-be-gambling-2000722910" target="_blank">Ethereum Creator Starting to Think This Whole Prediction Market Thing Might be Gambling</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-17 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/barack-obama-aliens-feb-14-2026-1280x853.jpg" alt="Conspiracy Theorists Think Obama Is Sending Secret Messages With Talk About Aliens" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/conspiracy-theorists-think-obama-is-sending-secret-messages-with-talk-about-aliens-2000722895" target="_blank">Conspiracy Theorists Think Obama Is Sending Secret Messages With Talk About Aliens</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-17 19:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 250 |
-        🔄 Last Updated: 22:04 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 248 |
+        🔄 Last Updated: 23:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
