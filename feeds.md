@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-17 07:19:12 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-02-17 08:09:54 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, February 17, 2026 - 07:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, February 17, 2026 - 08:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +45,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/184b/live/2519e010-0bcd-11f1-b7e1-afb6d0884c18.jpg" alt="Hillary Clinton accuses Trump administration of Epstein files &#x27;cover-up&#x27; in BBC interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czx47k34yqxo?at_medium=RSS&at_campaign=rss" target="_blank">Hillary Clinton accuses Trump administration of Epstein files &#x27;cover-up&#x27; in BBC interview</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-17 07:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/2/17/imran-khans-sister-rejects-pakistan-govt-claim-jailed-ex-pms-vision-fine?traffic_source=rss" target="_blank">Imran Khan’s sister rejects Pakistan gov’t claim jailed ex-PM’s vision fine</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-02-17 07:36</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/02/17/nx-s1-5716762/australia-wont-repatriate-34-women-and-children-from-syria" target="_blank">Australia won&#x27;t repatriate 34 women and children from Syria</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-17 07:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef5f/live/b8270b10-0ba2-11f1-9972-d3f265c101c6.jpg" alt="Councils face &#x27;uphill struggle&#x27; to be ready for local elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c043z5rzwg7o?at_medium=RSS&at_campaign=rss" target="_blank">Councils face &#x27;uphill struggle&#x27; to be ready for local elections</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-17 07:00</span>
             </div>
         </div>
 <div class="story">
@@ -73,38 +98,20 @@
                 <span class="time">2026-02-17 05:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Pawtucket-2-ap-er-260216_1771276718535_hpMain_4x3t_384.jpg" alt="2 killed, critically injured in &#x27;targeted&#x27; shooting at ice skating rink: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/shooting-reported-ice-skating-rink-rhode-island/story?id=130214920" target="_blank">2 killed, critically injured in &#x27;targeted&#x27; shooting at ice skating rink: Police</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-02-17 03:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cd/live/f5e78f30-0a79-11f1-b5e2-dd58fc65f0f6.jpg" alt="Bailiffs used to pursue NHS staff over pay errors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg59579q16o?at_medium=RSS&at_campaign=rss" target="_blank">Bailiffs used to pursue NHS staff over pay errors</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-02-17 01:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771285541341_nn_lkr_sheriffclearsguthriefamily_260216_1920x1080-x3unu2.jpg" alt="Sheriff says Nancy Guthrie’s family, spouses not suspects in abduction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/sheriff-says-nancy-guthrie-s-family-spouses-not-suspects-in-abduction-257767493520" target="_blank">Sheriff says Nancy Guthrie’s family, spouses not suspects in abduction</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-02-16 23:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69932d52d52a54addf004671/master/pass/GettyImages-2159154233.jpg" alt="The Small English Town Swept Up in the Global AI Arms Race" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/" target="_blank">The Small English Town Swept Up in the Global AI Arms Race</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-02-17 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +155,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/" target="_blank">Have money, will travel: a16z’s hunt for the next European unicorn</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-02-16 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/" target="_blank">How Ricursive Intelligence raised $335M at a $4B valuation in 4 months</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-02-16 17:00</span>
             </div>
         </div>
 </div>
@@ -314,22 +312,13 @@
                 <span class="time">2026-02-16 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/02/16/scarathon" target="_blank">Scarathon</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-02-16 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 238 |
-        🔄 Last Updated: 07:19 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 239 |
+        🔄 Last Updated: 08:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
