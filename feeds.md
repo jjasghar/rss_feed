@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-02-17 01:30:57 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-02-17 02:56:01 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, February 17, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, February 17, 2026 - 02:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cd/live/f5e78f30-0a79-11f1-b5e2-dd58fc65f0f6.jpg" alt="Bailiffs used to pursue NHS staff over pay errors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg59579q16o?at_medium=RSS&at_campaign=rss" target="_blank">Bailiffs used to pursue NHS staff over pay errors</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-02-17 01:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771285541341_nn_lkr_sheriffclearsguthriefamily_260216_1920x1080-x3unu2.jpg" alt="Sheriff says Nancy Guthrie’s family, spouses not suspects in abduction" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,15 +98,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/guthrie-family-spouses-cleared-as-possible-suspects-says-pima-county-sheriff-257759813922" target="_blank">Guthrie family &amp; spouses cleared as possible suspects, says Pima County sheriff</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-02-16 21:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-pakistan-imran-khan_7166790.jpg?20260216193931" alt="Imran Khan&#x27;s doctor not allowed to treat him in jail, spokesman claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/imran-khans-doctor-not-allowed-to-treat-him-in-jail-spokesman-claims-13508283" target="_blank">Imran Khan&#x27;s doctor not allowed to treat him in jail, spokesman claims</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-02-16 21:00</span>
             </div>
         </div>
 </div>
@@ -159,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/02/glassfish-8-released/en/headerimage/java-istock-image-01-1771252732288.jpg" alt="GlassFish 8.0 Delivers Compatibility with Jakarta EE 11, Enhanced Security and Improved Data Access" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/02/glassfish-8-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GlassFish 8.0 Delivers Compatibility with Jakarta EE 11, Enhanced Security and Improved Data Access</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-02-17 02:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -179,6 +194,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2gn239exlo" target="_blank">Dark web agent spotted bedroom wall clue to rescue girl from abuse</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-02-17 01:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/karayel_b8db3c5b2df2c5f40/i-built-a-privacy-first-zakat-calculator-with-react-heres-what-i-learned-2f8d" target="_blank">I Built a Privacy-First Zakat Calculator with React—Here&#x27;s What I Learned</a></span>
                 <span class="feed">DEV Community</span>
@@ -192,24 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-CXL" target="_blank">Linux 7.0 CXL Enables AMD Zen 5 Address Translation Feature</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-02-16 22:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiv.org/abs/2602.12670" target="_blank">Study: Self-generated Agent Skills are useless</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-02-16 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/DRM-Panic-Nicer-Fedora-Idea" target="_blank">Idea Raised For Nicer DRM Panic Screen Integration On Fedora Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-02-16 20:36</span>
             </div>
         </div>
 </div>
@@ -331,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 241 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 239 |
+        🔄 Last Updated: 02:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
