@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-02-17 13:26:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-02-17 14:16:00 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
+<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, February 17, 2026 - 13:26 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, February 17, 2026 - 14:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/jesse-jackson-1-gty-gmh-251124_1763996634417_hpMain_4x3t_384.jpg" alt="Rev. Jesse Jackson, civil rights icon, dies at 84" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/rev-jesse-jackson-civil-rights-icon-dies-aged/story?id=130225140" target="_blank">Rev. Jesse Jackson, civil rights icon, dies at 84</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-02-17 14:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771331677862_tdy_news_7a_jesse_jackson_obit_260217_1920x1080-anqjp8.jpg" alt="Rev. Jesse Jackson Dies at 84: Look Back at His Life and Legacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/rev-jesse-jackson-civil-rights-champion-dies-at-84-257784901627" target="_blank">Rev. Jesse Jackson Dies at 84: Look Back at His Life and Legacy</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-02-17 12:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/planet-money/2026/02/17/g-s1-110042/the-record-breaking-cocaine-boom-and-its-deadly-fallout" target="_blank">The record-breaking cocaine boom — and its deadly fallout</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-02-17 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/feb/17/trim-slugs-to-kenya-authorities-israel-tech-crack-activists-phone-report" target="_blank">Kenyan authorities used Israeli tech to crack activist’s phone, report claims</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-02-17 11:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/02/17/963124454/jesse-jackson-civil-rights-leader-rainbow-coalition-dies" target="_blank">Longtime civil rights leader Rev. Jesse Jackson dies at 84</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-02-17 10:34</span>
             </div>
         </div>
 </div>
@@ -171,6 +172,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/announcing-fips-140-3-for-ubuntu-core22" target="_blank">Announcing FIPS 140-3 for Ubuntu Core22</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-02-17 12:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhocw4w3crfqdbwndsul7.png" alt="CLAUDE.md Best Practices: Mermaid for Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +216,6 @@
                 <span class="time">2026-02-17 11:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/02/ai-agile-manifesto-debate/en/headerimage/generatedHeaderImage-1770724261142.jpg" alt="Does AI Make the Agile Manifesto Obsolete?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/02/ai-agile-manifesto-debate/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Does AI Make the Agile Manifesto Obsolete?</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-02-17 10:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/mandalorian-and-grogu-trailer-2-1280x853.jpg" alt="Finally, an Actual New ‘The Mandalorian and Grogu’ Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/mandalorian-and-grogu-trailer-star-wars-lucasfilm-disney-2000721679" target="_blank">Finally, an Actual New ‘The Mandalorian and Grogu’ Trailer</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-02-17 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/ss_cb49dfbcd7175c86e297b35ffc54cf779708f0ae-1280x720.jpg" alt="Unity Promises Deluge Of New Games Prompted Into Existence By AI As Its Stock Tanks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/unity-promises-deluge-of-new-games-prompted-into-existence-by-ai-as-its-stock-tanks-2000669483" target="_blank">Unity Promises Deluge Of New Games Prompted Into Existence By AI As Its Stock Tanks</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-02-17 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/Mint-Moblie-Holiday-1280x853.jpg" alt="Mint Mobile Pairs Its 50% Off Unlimited Plan With Samsung Smartphones, $1 Galaxy A16 or $20 Galaxy A17 in Final Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +289,6 @@
                 <span class="time">2026-02-16 22:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/Scarlet-Studio-Chizu-Mamoru-Hosoda-io9-2025-interview-light-1280x853.jpg" alt="How Mamoru Hosoda Reforged ‘Hamlet’ Into an Anime About Choosing Life Over Revenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-mamoru-hosoda-reforged-hamlet-into-an-anime-about-choosing-life-over-revenge-2000721241" target="_blank">How Mamoru Hosoda Reforged ‘Hamlet’ Into an Anime About Choosing Life Over Revenge</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-02-16 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/msg4-1280x730.jpg" alt="Metal Gear Solid 4 Remaster Is Leaving Online Multiplayer In The Past" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/msg4-multiplayer-remaster-online-konami-2000669466" target="_blank">Metal Gear Solid 4 Remaster Is Leaving Online Multiplayer In The Past</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-02-16 19:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 240 |
-        🔄 Last Updated: 13:26 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 243 |
+        🔄 Last Updated: 14:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
